@@ -1,0 +1,11 @@
+machine:
+  ruby:
+    version: 2.1.2
+
+database:
+  override:
+    - echo "we need no database" 
+
+test:
+  override:
+    - bundle exec rake
