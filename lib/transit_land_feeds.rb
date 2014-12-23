@@ -37,6 +37,7 @@ module TransitLandFeeds
     if errors.length > 0
       puts errors.inspect
     else
+      puts "All JSON feed definition files validated."
       Process.exit(0)
     end
   end
