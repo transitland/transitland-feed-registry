@@ -1,4 +1,4 @@
-require_relative 'lib/transit_land_feeds'
+require_relative 'lib/onestop_registry'
 
 begin
   require 'rspec/core/rake_task'

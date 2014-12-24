@@ -1,8 +1,10 @@
-[![Circle CI](https://circleci.com/gh/transit-land/transit-land-feeds.svg?style=svg)](https://circleci.com/gh/transit-land/transit-land-feeds)
+[![Circle CI](https://circleci.com/gh/transit-land/onestop-registry.svg?style=svg)](https://circleci.com/gh/transit-land/onestop-registry)
 
-# TransitLandFeeds
+# Transitland Onestop Registry
 
-This is a machine-readable directory of authoritative transit network feeds. In the `/data` directory, you'll find one JSON file per feed. Each JSON file provides enough information for [TransitLand Onestop](https://github.com/transit-land/onestop) -- or your own scripts/services/applications -- to federate authoritate feeds by:
+This is a machine-readable directory of global, immutable Onestop IDs, along with authoritative transit network feeds.
+
+In the `/feeds` directory, you'll find one JSON file per feed. Each JSON file provides enough information for [TransitLand Onestop](https://github.com/transit-land/onestop) -- or your own scripts/services/applications -- to federate authoritate feeds by:
 
 1. fetching the feed file (at present, only a [GTFS](https://developers.google.com/transit/gtfs/) zip archive)
 2. mapping transit operators/agencies in the feed against:
@@ -18,7 +20,7 @@ This is a machine-readable directory of authoritative transit network feeds. In 
 
 We welcome additions:
 
-**If you're familiar with Github**, please open a pull request with a JSON file named `data/COUNTRY-STATE-OPERATOR.json` where `COUNTRY` is a [two-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), `STATE` is a [two- or three-letter code for state/province](http://en.wikipedia.org/wiki/ISO_3166-2), and `OPERATOR` is a short form of the operator/agency's name. All parts of the file name should be lowercase.
+**If you're familiar with Github**, please open a pull request with a JSON file named `feeds/COUNTRY-STATE-OPERATOR.json` where `COUNTRY` is a [two-letter country code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), `STATE` is a [two- or three-letter code for state/province](http://en.wikipedia.org/wiki/ISO_3166-2), and `OPERATOR` is a short form of the operator/agency's name. All parts of the file name should be lowercase.
 
 We recommend copying one of the existing files and customizing its contents. In particular, you'll need to:
 

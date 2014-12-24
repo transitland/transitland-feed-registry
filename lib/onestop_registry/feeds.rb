@@ -1,6 +1,6 @@
 require 'json-schema'
 
-module TransitLandFeeds
+module OnestopRegistry
   JSON::Validator.register_format_validator 'operatorOnestopId', -> (onestop_id) do
     onestop_id_prefix_for_this_object = 'o'
     component_separator = '-'
@@ -29,7 +29,7 @@ module TransitLandFeeds
 
   def self.validate_all_feeds
     errors = {}
-    Dir.glob(File.join(__dir__, '..', 'data', '*.json')).each do |file_path|
+    Dir.glob(File.join(__dir__, '..', '..', 'feeds', '*.json')).each do |file_path|
       file = File.open(file_path, 'r')
       file_errors = validate_feed(file.read)
       errors[File.basename(file)] = file_errors if file_errors && file_errors.length > 0
@@ -46,7 +46,7 @@ module TransitLandFeeds
 
   def self.validate_feed(feed_contents)
     JSON::Validator.fully_validate(
-      File.join(__dir__, 'transit-land-feed-schema.json'),
+      File.join(__dir__, 'feed-schema.json'),
       feed_contents,
       errors_as_objects: true,
       strict: true

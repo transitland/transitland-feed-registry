@@ -1,7 +1,7 @@
-describe TransitLandFeeds do
+describe OnestopRegistry do
   context 'validation' do
     it 'succeeds on a complete feed' do
-      validation_results = TransitLandFeeds.validate_feed('
+      validation_results = OnestopRegistry.validate_feed('
         {
           "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
           "feedFormat": "gtfs",
@@ -33,7 +33,7 @@ describe TransitLandFeeds do
     end
 
     it 'catch a missing OnestopID' do
-      validation_results = TransitLandFeeds.validate_feed('
+      validation_results = OnestopRegistry.validate_feed('
         {
           "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
           "feedFormat": "gtfs",
@@ -66,7 +66,7 @@ describe TransitLandFeeds do
     end
 
     it 'catch a badly formed OnestopID' do
-      validation_results = TransitLandFeeds.validate_feed('
+      validation_results = OnestopRegistry.validate_feed('
         {
           "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
           "feedFormat": "gtfs",
