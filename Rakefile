@@ -7,7 +7,7 @@ rescue LoadError
 end
 
 task :validate_all_feeds do
-  TransitLandFeeds.validate_all_feeds
+  OnestopRegistry.validate_all_feeds
 end
 
 task default: [:spec, :validate_all_feeds]
