@@ -8,7 +8,7 @@ This is a machine-readable directory of authoritative transit network feeds. In 
 2. mapping transit operators/agencies in the feed against:
 
     a. global, immutable OnestopID's
-    
+
     b. [National Transportation Database](http://www.ntdprogram.gov/ntdprogram/) ID's, if in the United States
 
 3. supplying a boundary for the geographic bounds of each operator/agency (as GeoJSON)
@@ -45,4 +45,4 @@ Note that our continuous-integration service will run the validation scripts aga
 
 ## Contact
 
-This project is sponsored by [Mapzen](http://mapzen.com). Please contact us with your questions, comments, or suggests: [hello@mapzen.com](mailto:hello@mapzen.com.
+This project is sponsored by [Mapzen](http://mapzen.com). Please contact us with your questions, comments, or suggests: [hello@mapzen.com](mailto:hello@mapzen.com).
