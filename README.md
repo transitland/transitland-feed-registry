@@ -4,10 +4,12 @@
 
 This is a machine-readable directory of authoritative transit network feeds. In the `/data` directory, you'll find one JSON file per feed. Each JSON file provides enough information for [TransitLand Onestop](https://github.com/transit-land/onestop)---or your own scripts/services/applications---to federate authoritate feeds by:
 
-1. fetching the feed file (at present, only a GTFS zip archive)
+1. fetching the feed file (at present, only a [GTFS](https://developers.google.com/transit/gtfs/) zip archive)
 2. mapping transit operators/agencies in the feed against:
+
     a. global, immutable OnestopID's
     b. [National Transportation Database](http://www.ntdprogram.gov/ntdprogram/) ID's, if in the United States
+
 3. supplying a boundary for the geographic bounds of each operator/agency (as GeoJSON)
 4. linking to terms of use, license, and other information about the feed (included as tags)
 
