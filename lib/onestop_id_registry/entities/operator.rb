@@ -1,6 +1,6 @@
 require_relative 'base_entity'
 
-module OnestopRegistry
+module OnestopIdRegistry
   module Entities
     class Operator < BaseEntity
       attr_accessor :onestop_id, :name, :tags, :identifiers, :geometry

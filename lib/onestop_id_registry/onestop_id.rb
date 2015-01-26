@@ -1,4 +1,4 @@
-module OnestopRegistry
+module OnestopIdRegistry
   class OnestopId
     ENTITY_TO_PREFIX = {
       'stop' => 's',

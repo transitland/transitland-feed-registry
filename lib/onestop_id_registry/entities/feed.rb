@@ -1,7 +1,7 @@
 require_relative 'base_entity'
 require_relative 'operator_in_feed'
 
-module OnestopRegistry
+module OnestopIdRegistry
   module Entities
     class Feed < BaseEntity
       attr_accessor :onestop_id, :url, :feed_format, :tags, :operators_in_feed

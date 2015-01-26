@@ -1,9 +1,9 @@
-require_relative '../../lib/onestop_registry'
+require_relative '../../lib/onestop_id_registry'
 
-describe OnestopRegistry::InternalValidator do
+describe OnestopIdRegistry::InternalValidator do
   context 'operators' do
     it 'succeeds on a complete operator' do
-      validation_results = OnestopRegistry::InternalValidator.validate(:operators, '
+      validation_results = OnestopIdRegistry::InternalValidator.validate(:operators, '
         {
           "onestopId": "o-9q8y-SFMTA",
           "name": "San Francisco Municipal Transportation Agency",
@@ -45,7 +45,7 @@ describe OnestopRegistry::InternalValidator do
     end
 
     it 'catch a missing OnestopID on operator' do
-      validation_results = OnestopRegistry::InternalValidator.validate(:feeds, '
+      validation_results = OnestopIdRegistry::InternalValidator.validate(:feeds, '
         {
           "name": "San Francisco Bay Area Rapid Transit District",
           "tags": {
@@ -81,7 +81,7 @@ describe OnestopRegistry::InternalValidator do
 
   context 'feeds' do
     it 'succeeds on a complete feed' do
-      validation_results = OnestopRegistry::InternalValidator.validate(:feeds, '
+      validation_results = OnestopIdRegistry::InternalValidator.validate(:feeds, '
         {
           "onestopId": "f-9q9-ACTransit",
           "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
@@ -102,7 +102,7 @@ describe OnestopRegistry::InternalValidator do
     end
 
     it 'catch a missing OnestopID on OperatorInFeed' do
-      validation_results = OnestopRegistry::InternalValidator.validate(:feeds, '
+      validation_results = OnestopIdRegistry::InternalValidator.validate(:feeds, '
         {
           "onestopId": "f-9q9-ACTransit",
           "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
@@ -124,7 +124,7 @@ describe OnestopRegistry::InternalValidator do
     end
 
     it 'catch a badly formed OnestopID on OperatorInFeed' do
-      validation_results = OnestopRegistry::InternalValidator.validate(:feeds, '
+      validation_results = OnestopIdRegistry::InternalValidator.validate(:feeds, '
         {
           "onestopId": "f-9q9-ACTransit",
           "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
@@ -156,9 +156,9 @@ describe OnestopRegistry::InternalValidator do
       number_of_json_files_to_validate = ['feeds', 'operators'].map {
         |entity| Dir[File.join(__dir__, '..', '..', entity, '*.json')].count { |file| File.file?(file) }
       }.inject(:+)
-      allow(OnestopRegistry::InternalValidator).to receive(:validate).and_return([])
-      expect { OnestopRegistry::InternalValidator.validate_all }.to raise_error(SystemExit)
-      expect(OnestopRegistry::InternalValidator).to have_received(:validate).exactly(number_of_json_files_to_validate).times
+      allow(OnestopIdRegistry::InternalValidator).to receive(:validate).and_return([])
+      expect { OnestopIdRegistry::InternalValidator.validate_all }.to raise_error(SystemExit)
+      expect(OnestopIdRegistry::InternalValidator).to have_received(:validate).exactly(number_of_json_files_to_validate).times
     end
   end
 end
