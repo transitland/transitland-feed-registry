@@ -1,4 +1,6 @@
-require_relative 'lib/transit_land_feeds'
+require 'byebug'
+
+require_relative 'lib/onestop_registry'
 
 begin
   require 'rspec/core/rake_task'
@@ -6,8 +8,8 @@ begin
 rescue LoadError
 end
 
-task :validate_all_feeds do
-  TransitLandFeeds.validate_all_feeds
+task :validate_all do
+  OnestopRegistry::InternalValidator.validate_all
 end
 
-task default: [:spec, :validate_all_feeds]
+task default: [:spec, :validate_all]
