@@ -12,4 +12,14 @@ task :validate_all do
   OnestopIdRegistry::InternalValidator.validate_all
 end
 
+namespace :comparison_sources do
+  namespace :us_ntd do
+    task :fetch do
+      puts "Downloading NTD XLS"
+      OnestopIdRegistry::ComparisonSources::UsNtd.fetch
+      puts "Finished downloading NTD XLS"
+    end
+  end
+end
+
 task default: [:spec, :validate_all]
