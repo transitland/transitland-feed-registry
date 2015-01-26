@@ -1,6 +1,6 @@
-[![Circle CI](https://circleci.com/gh/transit-land/onestop-registry.svg?style=svg)](https://circleci.com/gh/transit-land/onestop-registry)
+[![Circle CI](https://circleci.com/gh/transit-land/onestop-id-registry.svg?style=svg)](https://circleci.com/gh/transit-land/onestop-id-registry)
 
-# Transitland Onestop Registry
+# Onestop ID Registry
 
 This is a machine-readable directory of:
 
@@ -82,7 +82,7 @@ bundle install
 bundle exec rake
 ````
 
-Note that [our continuous-integration service](https://circleci.com/gh/transit-land/onestop-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests all pass.
+Note that [our continuous-integration service](https://circleci.com/gh/transit-land/onestop-id-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests all pass.
 
 ---
 

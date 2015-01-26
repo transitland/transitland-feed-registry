@@ -1,4 +1,4 @@
-module OnestopRegistry
+module OnestopIdRegistry
   module Entities
     class BaseEntity
       def initialize(entity, onestop_id: nil, json_blob: nil)

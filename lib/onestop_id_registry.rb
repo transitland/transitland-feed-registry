@@ -1,0 +1,1 @@
+require_relative 'onestop_id_registry/internal_validator'

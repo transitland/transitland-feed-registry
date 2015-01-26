@@ -3,7 +3,7 @@ require_relative 'onestop_id'
 require_relative 'entities/feed'
 require_relative 'entities/operator'
 
-module OnestopRegistry
+module OnestopIdRegistry
   module InternalValidator
     ENTITIES_TO_VALIDATE = [:feeds, :operators]
 
