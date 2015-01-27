@@ -19,5 +19,9 @@ gem 'vcr', '~> 2.9'
 gem 'webmock', '~> 1.20', require: false
 gem 'simplecov'
 
+# console for poking around
+gem 'pry'
+
 # Ruby 2.0+ debugging
 gem 'byebug'
+gem 'pry-byebug'
