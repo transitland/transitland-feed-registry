@@ -14,6 +14,14 @@ module OnestopIdRegistry
         self
       end
 
+      def self.find_by(gtfs_data_exchange_id: nil)
+        if gtfs_data_exchange_id
+          all.find { |feed| feed.tags['gtfs_data_exchange_id'] == gtfs_data_exchange_id }
+        else
+          raise ArgumentError.new('must specify a GTFS Data Exchange ID')
+        end
+      end
+
       def self.all(force_reload: false)
         super(DIRECTORY, force_reload: force_reload)
       end

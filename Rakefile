@@ -24,10 +24,9 @@ namespace :comparison_sources do
   namespace :gtfs_data_exchange do
     task :fetch do
       puts "Downloading agencies JSON from GTFS Data Exchange API"
-      OnestopIdRegistry::ComparisonSources::GtfsDataExchange.fetch
-      puts "Finished downloading agencies JSON from GTFS Data Exchange API"
-      OnestopIdRegistry::ComparisonSources::GtfsDataExchange.post_process
-      puts "JSON file is also now post-processed (to remove unnecessary wrapper elements and nicely format)"
+      puts "and post-processing (to nicely format and to remove unnecessary wrapper elements)"
+      OnestopIdRegistry::ComparisonSources::GtfsDataExchange.fetch_and_post_process
+      puts "Finished downloading and processing agencies JSON from GTFS Data Exchange API"
     end
   end
 end
