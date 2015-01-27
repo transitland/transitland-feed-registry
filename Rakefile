@@ -1,4 +1,5 @@
 require 'byebug'
+require 'pry-byebug'
 
 require_relative 'lib/onestop_id_registry'
 
@@ -29,6 +30,12 @@ namespace :comparison_sources do
       puts "Finished downloading and processing agencies JSON from GTFS Data Exchange API"
     end
   end
+end
+
+task :console do
+  require 'pry'
+  ARGV.clear
+  Pry.start
 end
 
 task default: [:spec, :validate_all]
