@@ -38,7 +38,6 @@ module OnestopIdRegistry
       ENTITIES_TO_VALIDATE.each do |entity_to_validate|
         Dir.glob(File.join(__dir__, '..', '..', entity_to_validate.to_s, '*.json')).each do |file_path|
           file = File.open(file_path, 'r')
-          # byebug
           file_errors = validate(entity_to_validate, file.read)
           errors[File.basename(file)] = file_errors if file_errors && file_errors.length > 0
         end

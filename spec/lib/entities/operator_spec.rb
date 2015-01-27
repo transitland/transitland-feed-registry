@@ -2,6 +2,10 @@ require_relative '../../../lib/onestop_id_registry/entities/operator'
 
 describe OnestopIdRegistry::Entities::Operator do
   context 'all' do
+    it 'can be found by US NTD ID' do
+      operator = OnestopIdRegistry::Entities::Operator.find_by(us_ntd_id: 9003)
+      expect(operator.onestop_id).to eq 'o-9q9-BART'
+    end
   end
 
   context 'individual' do
