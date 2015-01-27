@@ -20,6 +20,15 @@ namespace :comparison_sources do
       puts "Finished downloading NTD XLS"
     end
   end
+
+  namespace :gtfs_data_exchange do
+    task :fetch do
+      puts "Downloading agencies JSON from GTFS Data Exchange API"
+      puts "and post-processing (to nicely format and to remove unnecessary wrapper elements)"
+      OnestopIdRegistry::ComparisonSources::GtfsDataExchange.fetch_and_post_process
+      puts "Finished downloading and processing agencies JSON from GTFS Data Exchange API"
+    end
+  end
 end
 
 task default: [:spec, :validate_all]
