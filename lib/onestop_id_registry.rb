@@ -1,1 +1,2 @@
 require_relative 'onestop_id_registry/internal_validator'
+require_relative 'onestop_id_registry/comparison_sources/comparison_sources'

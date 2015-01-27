@@ -3,11 +3,25 @@ require_relative 'base_entity'
 module OnestopIdRegistry
   module Entities
     class Operator < BaseEntity
+      DIRECTORY = File.join(__dir__, '..', '..', '..', 'operators')
+
       attr_accessor :onestop_id, :name, :tags, :identifiers, :geometry
 
       def initialize(onestop_id: nil, json_blob: nil)
-        super('operators', onestop_id: onestop_id, json_blob: json_blob)
+        super(DIRECTORY, onestop_id: onestop_id, json_blob: json_blob)
         self
+      end
+
+      def self.find_by(us_ntd_id: nil)
+        if us_ntd_id
+          all.find { |operator| operator.tags['us_national_transit_database_id'] == us_ntd_id }
+        else
+          raise ArgumentError.new('must specify a US NTD ID')
+        end
+      end
+
+      def self.all(force_reload: false)
+        super(DIRECTORY, force_reload: force_reload)
       end
 
       private

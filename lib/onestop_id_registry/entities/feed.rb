@@ -4,12 +4,18 @@ require_relative 'operator_in_feed'
 module OnestopIdRegistry
   module Entities
     class Feed < BaseEntity
+      DIRECTORY = File.join(__dir__, '..', '..', '..', 'feeds')
+
       attr_accessor :onestop_id, :url, :feed_format, :tags, :operators_in_feed
 
       def initialize(onestop_id: nil, json_blob: nil)
-        super('feeds', onestop_id: onestop_id, json_blob: json_blob)
+        super(DIRECTORY, onestop_id: onestop_id, json_blob: json_blob)
         @operators_in_feed = create_operators_in_feed(@parsed_json['operatorsInFeed'])
         self
+      end
+
+      def self.all(force_reload: false)
+        super(DIRECTORY, force_reload: force_reload)
       end
 
       private
