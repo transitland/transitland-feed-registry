@@ -32,6 +32,14 @@ namespace :comparison_sources do
   end
 end
 
+namespace :report do
+  task :build do
+    puts "Starting to build report"
+    OnestopIdRegistry::ReportBuilder.build
+    puts "Finished building report"
+  end
+end
+
 task :console do
   require 'pry'
   ARGV.clear
