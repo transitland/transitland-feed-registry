@@ -22,6 +22,7 @@ gem 'rspec'
 gem 'vcr', '~> 2.9'
 gem 'webmock', '~> 1.20', require: false
 gem 'simplecov'
+gem 'coveralls', require: false # TODO: limit to CircleCi
 
 # console for poking around
 gem 'pry'

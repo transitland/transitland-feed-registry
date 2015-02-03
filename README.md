@@ -1,4 +1,5 @@
 [![Circle CI](https://circleci.com/gh/transit-land/onestop-id-registry.svg?style=svg)](https://circleci.com/gh/transit-land/onestop-id-registry)
+[![Coverage Status](https://coveralls.io/repos/transit-land/onestop-id-registry/badge.svg)](https://coveralls.io/r/transit-land/onestop-id-registry)
 
 # Onestop ID Registry
 
