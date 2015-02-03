@@ -13,6 +13,10 @@ gem 'mechanize'
 gem 'roo', github: 'roo-rb/roo', tag: '5d13b6099d'
 gem 'roo-xls', github: 'roo-rb/roo-xls', tag: 'a316a88d04'
 
+# building HTML/CSS/JS report
+gem 'sass'
+gem 'bootstrap-sass'
+
 # test and coverage
 gem 'rspec'
 gem 'vcr', '~> 2.9'

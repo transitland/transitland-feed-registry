@@ -21,6 +21,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.3.6)
+    autoprefixer-rails (5.0.0.1)
+      execjs
+    bootstrap-sass (3.3.2.0)
+      autoprefixer-rails (>= 5.0.0.1)
+      sass (>= 3.2.19)
     byebug (3.5.1)
       columnize (~> 0.8)
       debugger-linecache (~> 1.2)
@@ -34,6 +39,7 @@ GEM
     docile (1.1.5)
     domain_name (0.5.22)
       unf (>= 0.0.5, < 1.0.0)
+    execjs (2.2.2)
     http-cookie (1.0.2)
       domain_name (~> 0.5)
     json-schema (2.4.1)
@@ -78,6 +84,7 @@ GEM
     ruby-ole (1.2.11.8)
     rubyzip (1.1.6)
     safe_yaml (1.0.4)
+    sass (3.4.10)
     simplecov (0.9.1)
       docile (~> 1.1.0)
       multi_json (~> 1.0)
@@ -99,6 +106,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap-sass
   byebug
   json-schema
   mechanize
@@ -108,6 +116,7 @@ DEPENDENCIES
   roo!
   roo-xls!
   rspec
+  sass
   simplecov
   vcr (~> 2.9)
   webmock (~> 1.20)
