@@ -1,4 +1,5 @@
-require 'mustache'
+require 'erb'
+require 'ostruct'
 require 'sass'
 require 'bootstrap-sass'
 
@@ -18,12 +19,13 @@ module OnestopIdRegistry
         report_datetime: Time.now,
         feeds: Entities::Feed.all,
         operators: Entities::Operator.all,
-        gtfs_data_exchange_comparison: ComparisonSources::GtfsDataExchange.compare_against_onestop_feeds,
-        us_ntd_comparison: ComparisonSources::UsNtd.compare_against_onestop_operators
+        gtfs_data_exchange_comparisons: ComparisonSources::GtfsDataExchange.compare_against_onestop_feeds,
+        us_ntd_comparisons: ComparisonSources::UsNtd.compare_against_onestop_operators
       }
     end
 
     def self.render
+      # SASS --> CSS
       File.open(File.join(__dir__, 'css', 'onestop-id-registry.scss'), 'r') do |template_file|
         engine = Sass::Engine.new(template_file.read, syntax: :scss)
         template_output = engine.render
@@ -32,12 +34,26 @@ module OnestopIdRegistry
         end
       end
 
-      File.open(File.join(__dir__, 'html', 'index.html.mustache'), 'r') do |template_file|
-        template_output = Mustache.render(template_file.read, hash_for_html_template)
+      # JS
+      FileUtils::mkdir_p(report_build_file_path('js'))
+      FileUtils.cp_r(Dir.glob(File.join(__dir__, 'js', '*.js')), report_build_file_path('js'))
+      FileUtils.cp(File.join(Bootstrap::javascripts_path, 'bootstrap.min.js'), report_build_file_path('js/bootstrap.js'))
+
+      # HTML
+      File.open(File.join(__dir__, 'html', 'index.html.erb'), 'r') do |template_file|
+        template = ERB.new(template_file.read)
+        template_output = template.result(OpenStruct.new(hash_for_html_template).instance_eval { binding })
+        # template_output = Mustache.render(template_file.read, hash_for_html_template)
         File.open(File.join(__dir__, '..', '..', '..', 'report', 'index.html'), 'w') do |output_file|
           output_file.write(template_output)
         end
       end
+    end
+
+    private
+
+    def self.report_build_file_path(file_name)
+      File.join(__dir__, '..', '..', '..', 'report', file_name)
     end
   end
 end

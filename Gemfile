@@ -14,7 +14,6 @@ gem 'roo', github: 'roo-rb/roo', tag: '5d13b6099d'
 gem 'roo-xls', github: 'roo-rb/roo-xls', tag: 'a316a88d04'
 
 # building HTML/CSS/JS report
-gem 'mustache'
 gem 'sass'
 gem 'bootstrap-sass'
 
