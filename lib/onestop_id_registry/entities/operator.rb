@@ -12,6 +12,16 @@ module OnestopIdRegistry
         self
       end
 
+      def as_hash
+        {
+          onestop_id: @onestop_id,
+          name: @name,
+          tags: @tags,
+          identifiers: @identifiers,
+          geometry: @geometry
+        }
+      end
+
       def self.find_by(us_ntd_id: nil)
         if us_ntd_id
           all.find { |operator| operator.tags['us_national_transit_database_id'] == us_ntd_id }
@@ -20,8 +30,8 @@ module OnestopIdRegistry
         end
       end
 
-      def self.all(force_reload: false)
-        super(DIRECTORY, force_reload: force_reload)
+      def self.all(force_reload: false, format: :ruby_objects)
+        super(DIRECTORY, force_reload: force_reload, format: format)
       end
 
       private

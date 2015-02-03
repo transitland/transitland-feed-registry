@@ -22,7 +22,7 @@ module OnestopIdRegistry
         self
       end
 
-      def self.all(directory, force_reload: false)
+      def self.all(directory, force_reload: false, format: :ruby_objects)
         if force_reload || !defined?(@entity_objects)
           @entity_objects = []
           files = Dir.glob(File.join(directory, '*.json'))
@@ -31,7 +31,12 @@ module OnestopIdRegistry
             @entity_objects << new(json_blob: json_file.read)
           end
         end
-        @entity_objects
+
+        if format == :json
+          JSON.generate(@entity_objects.map { |object| object.as_hash })
+        else
+          @entity_objects
+        end
       end
     end
   end

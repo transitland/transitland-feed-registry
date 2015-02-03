@@ -32,7 +32,7 @@ module OnestopIdRegistry
         end
       end
 
-      def self.compare_against_onestop_feeds
+      def self.compare_against_onestop_feeds(format: :ruby_objects)
         comparisons = []
         feeds.each do |gtfs_data_exchange_feed|
           feed = OnestopIdRegistry::Entities::Feed.find_by(gtfs_data_exchange_id: gtfs_data_exchange_feed[:dataexchange_id])
@@ -41,7 +41,11 @@ module OnestopIdRegistry
             onestop_id: feed ? feed.onestop_id : nil
           }
         end
-        comparisons
+        if format == :ruby_objects
+          comparisons
+        elsif format == :json
+          JSON.generate(comparisons)
+        end
       end
     end
   end

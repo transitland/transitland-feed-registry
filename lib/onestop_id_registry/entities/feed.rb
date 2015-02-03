@@ -14,6 +14,21 @@ module OnestopIdRegistry
         self
       end
 
+      def as_hash
+        {
+          onestop_id: @onestop_id,
+          url: @url,
+          feed_format: @feed_format,
+          tags: @tags,
+          operators_in_feed: @operators_in_feed.map do |operator_in_feed|
+            {
+              gtfs_agency_id: operator_in_feed.gtfs_agency_id,
+              onestop_id: operator_in_feed.operator_onestop_id || operator_in_feed.operator.onestop_id
+            }
+          end
+        }
+      end
+
       def self.find_by(gtfs_data_exchange_id: nil)
         if gtfs_data_exchange_id
           all.find { |feed| feed.tags['gtfs_data_exchange_id'] == gtfs_data_exchange_id }
@@ -22,8 +37,8 @@ module OnestopIdRegistry
         end
       end
 
-      def self.all(force_reload: false)
-        super(DIRECTORY, force_reload: force_reload)
+      def self.all(force_reload: false, format: :ruby_objects)
+        super(DIRECTORY, force_reload: force_reload, format: format)
       end
 
       private

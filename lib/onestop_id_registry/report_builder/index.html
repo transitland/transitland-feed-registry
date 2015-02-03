@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Onestop ID Registry - report</title>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/underscore.js"></script>
+    <script src="/js/backbone.js"></script>
+    <script src="/js/backbone.marionette.js"></script>
+    <script src="/js/bootstrap.js"></script>
+    <link href="onestop-id-registry.css" rel="stylesheet" />
+
+    <script id="app-layout-view-template" type="text/html">
+      <nav id="top-bar" class="navbar navbar-inverse navbar-fixed-top"></nav>
+      <div class="container-fluid">
+        <div class="row">
+          <div id="left-bar" class="col-sm-3 col-md-2 sidebar"></div>
+          <div id="main" class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main"></div>
+        </div>
+      </div>
+    </script>
+
+    <script id="top-bar-template" type="text/html">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Onestop ID Registry</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <h5 class="navbar-right navbar-text">Report generated: <%= report_datetime %></h5>
+        </div>
+      </div>
+    </script>
+
+    <script id="left-bar-template" type="text/html">
+      <h5>Onestop IDs</h5>
+      <ul class="nav nav-sidebar">
+        <li><a href="#operators">Operators</a></li>
+        <li><a href="#feeds">Feeds</a></li>
+      </ul>
+      <h5>Crosswalks</h5>
+      <ul class="nav nav-sidebar">
+        <li><a href="#us_ntd">Operators against US NTD</a></li>
+        <li><a href="#gtfs_data_exchange">Feeds against GTFS Data Exchange</a></li>
+      </ul>
+    </script>
+
+    <script id="feed-table-template" type="text/html">
+      <h2 id="feeds" class="sub-header">Feeds</h2>
+      <div class="table-responsive">
+        <table class="table" id="feed-table">
+          <thead>
+            <tr>
+              <th>Onestop ID</th>
+              <th>Feed Format</th>
+              <th>URL</th>
+              <th>Includes Onestop IDs</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    </script>
+
+    <script id="feed-table-row-template" type="text/html">
+      <td><%= onestop_id %></td>
+      <td><%= feed_format %></td>
+      <td><a href="<%= url %>"><%= url %></a>
+    </script>
+
+    <script id="operator-table-template" type="text/html">
+      <h2 id="operators" class="sub-header">Feeds</h2>
+      <div class="table-responsive">
+        <table class="table" id="operator-table">
+          <thead>
+            <tr>
+              <th>Onestop ID</th>
+              <th>Name</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    </script>
+
+    <script id="operator-table-row-template" type="text/html">
+      <td><%= onestop_id %></td>
+      <td><%= name %></td>
+    </script>
+
+    <script id="us-ntd-comparison-table-template" type="text/html">
+      <h2 id="us-ntd-comparisons" class="sub-header">Feeds</h2>
+      <div class="table-responsive">
+        <table class="table" id="us-ntd-comparison-table">
+          <thead>
+            <tr>
+              <th>NTD ID</th>
+              <th>Name (from NTD)</th>
+              <th>Onestop ID</th>
+            </tr>
+          </thead>
+          <tbody>
+          </tbody>
+        </table>
+      </div>
+    </script>
+
+    <script id="us-ntd-comparison-table-row-template" type="text/html">
+      <td><%= onestop_id %></td>
+      <td><%= name %></td>
+    </script>
+
+    <script src="/js/app.js"></script>
+  </head>
+  <body>
+    <h1>Onestop ID Registry</h1>
+  </body>
+</html>

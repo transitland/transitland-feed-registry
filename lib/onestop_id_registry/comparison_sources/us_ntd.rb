@@ -43,7 +43,6 @@ module OnestopIdRegistry
             onestop_id: operator ? operator.onestop_id : nil
           }
         end
-        comparisons
       end
     end
   end
