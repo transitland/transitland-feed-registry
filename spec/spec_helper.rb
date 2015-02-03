@@ -5,6 +5,10 @@ require 'vcr'
 require 'webmock/rspec'
 
 require 'simplecov'
+if ENV['CIRCLECI'] && ENV['COVERALLS_REPO_TOKEN']
+  require 'coveralls'
+  SimpleCov.formatter = Coveralls::SimpleCov::Formatter
+end
 SimpleCov.start do
   add_filter 'spec' # ignore spec files
 end
