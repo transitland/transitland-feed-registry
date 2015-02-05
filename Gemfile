@@ -17,6 +17,9 @@ gem 'roo-xls', github: 'roo-rb/roo-xls', tag: 'a316a88d04'
 gem 'sass'
 gem 'bootstrap-sass'
 
+# publishing report to S3 bucket (for web hosting)
+gem 's3_website'
+
 # test and coverage
 gem 'rspec'
 gem 'vcr', '~> 2.9'
