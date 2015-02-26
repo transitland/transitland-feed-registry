@@ -1,5 +1,5 @@
-[![Circle CI](https://circleci.com/gh/transit-land/onestop-id-registry.svg?style=svg)](https://circleci.com/gh/transit-land/onestop-id-registry)
-[![Coverage Status](https://coveralls.io/repos/transit-land/onestop-id-registry/badge.svg)](https://coveralls.io/r/transit-land/onestop-id-registry)
+[![Circle CI](https://circleci.com/gh/transitland/onestop-id-registry.svg?style=svg)](https://circleci.com/gh/transitland/onestop-id-registry)
+[![Coverage Status](https://coveralls.io/repos/transitland/onestop-id-registry/badge.svg)](https://coveralls.io/r/transitland/onestop-id-registry)
 
 # Onestop ID Registry
 
@@ -11,7 +11,7 @@ This is a machine-readable (and -writable) directory of:
 
 These [transit data "entities"](#entities) are all labeled with [Onestop IDs](#the-onestop-id-scheme), which are global, immutable, (human) readable, (machine) parsable, and (roughly) geolocated.
 
-Onestop IDs and this registry as a whole can be used as a "crosswalk" to join data from individual [GTFS](https://developers.google.com/transit/gtfs/) feeds, the [U.S. National Transportation Database](http://www.ntdprogram.gov/ntdprogram/), the [Transitland Datastore](https://github.com/transit-land/transitland-datastore), [OpenStreetMap](http://openstreetmap.org/), and other public sources of transit, transportation, and geographic information.
+Onestop IDs and this registry as a whole can be used as a "crosswalk" to join data from individual [GTFS](https://developers.google.com/transit/gtfs/) feeds, the [U.S. National Transportation Database](http://www.ntdprogram.gov/ntdprogram/), the [Transitland Datastore](https://github.com/transitland/transitland-datastore), [OpenStreetMap](http://openstreetmap.org/), and other public sources of transit, transportation, and geographic information.
 
 Not sure where to start? View [the interactive report](http://onestop-id-registry.transit.land) that's generated each time a Onestop ID is added, edited, or removed. Or, if you prefer technical detail, read on...
 
@@ -50,7 +50,7 @@ Just as each transit operator has multiple IDs, each bus stop and train station 
 * It's known in the Long Island Railroad's GTFS feed as `Stop #8`.
 * It's known in New Jersey Transit's GTFS feed as `Stop #105`.
 
-In this registry, we've created listings for the San Francisco Municipal Transportation Agency (and we're working on a listing for New York's Penn Station). For the SFMTA, we've assigned the transit agency a Onestop ID of `o-9q8y-SFMTA` and its feed a Onestop ID of `f-9q8y-SFMTA`. You'll find more information attached to these Onestop IDs in this registry under [`/feeds/f-9q8y-SFMTA.json`](https://github.com/transit-land/onestop-id-registry/blob/master/feeds/f-9q8y-SFMTA.json) and [`/operators/o-9q8y-SFMTA.json`](https://github.com/transit-land/onestop-id-registry/blob/master/operators/o-9q8y-SFMTA.json). We also use these Onestop IDs in our [Transitland Datastore](https://github.com/transit-land/transitland-datastore) service.
+In this registry, we've created listings for the San Francisco Municipal Transportation Agency (and we're working on a listing for New York's Penn Station). For the SFMTA, we've assigned the transit agency a Onestop ID of `o-9q8y-SFMTA` and its feed a Onestop ID of `f-9q8y-SFMTA`. You'll find more information attached to these Onestop IDs in this registry under [`/feeds/f-9q8y-SFMTA.json`](https://github.com/transitland/onestop-id-registry/blob/master/feeds/f-9q8y-SFMTA.json) and [`/operators/o-9q8y-SFMTA.json`](https://github.com/transitland/onestop-id-registry/blob/master/operators/o-9q8y-SFMTA.json). We also use these Onestop IDs in our [Transitland Datastore](https://github.com/transitland/transitland-datastore) service.
 
 ### What is in a Onestop ID?
 
@@ -74,7 +74,7 @@ Every Onestop ID includes three components, separated by hyphens:
 
 ### How can I propose changes?
 
-If you have thoughts on how the Onestop ID scheme can be improved, please [contact us](#contact) or [open an issue on this repository](https://github.com/transit-land/onestop-id-registry/issues/new).
+If you have thoughts on how the Onestop ID scheme can be improved, please [contact us](#contact) or [open an issue on this repository](https://github.com/transitland/onestop-id-registry/issues/new).
 
 To add, modify, or delete Onestop IDs, read the section below about [contributing](#contributing).
 
@@ -101,7 +101,7 @@ In the `/feeds` directory, you'll find one JSON file per feed. Each JSON file pr
 
 ### Operators
 
-In the `/operators` directory, you'll find one JSON file per operator. Each JSON file provides the following key details to [Transitland Datastore](https://github.com/transit-land/transitland-datastore) -- or for your own scripts/services/applications:
+In the `/operators` directory, you'll find one JSON file per operator. Each JSON file provides the following key details to [Transitland Datastore](https://github.com/transitland/transitland-datastore) -- or for your own scripts/services/applications:
 
 * the US National Transit Database ID (in the case of American transit operators)
 * the geographic bounds of each operator (as GeoJSON)
@@ -116,7 +116,7 @@ In progress.
 
 ## Contributing
 
-**If you're unfamiliar with Github**: Please [open a Github issue](https://github.com/transit-land/onestop-id-registry/issues/new) with as much of the following information as you're able to specify, or [contact us](#contact) for assistance.
+**If you're unfamiliar with Github**: Please [open a Github issue](https://github.com/transitland/onestop-id-registry/issues/new) with as much of the following information as you're able to specify, or [contact us](#contact) for assistance.
 
 ### Contributing a Feed
 
@@ -124,7 +124,7 @@ In progress.
 2. Decide on a Onestop ID for the feed that:
   * is unique
   * begins with `f-`
-  * includes a geohash for the approximate coverage area of the feed. (You can use our [GTFS Agency to Convex Hull tool](http://transit-land.github.io/gtfs-agency-to-convex-hull/) to compute this from a GTFS `.zip` or `stops.txt` file.)
+  * includes a geohash for the approximate coverage area of the feed. (You can use our [GTFS Agency to Convex Hull tool](http://transitland.github.io/gtfs-agency-to-convex-hull/) to compute this from a GTFS `.zip` or `stops.txt` file.)
   * ends with a brief name (with no spaces or punctuation)
 3. Create a JSON file named `feeds/ONESTOP_ID.json` where `ONESTOP_ID` is your proposed Onestop ID for the feed. Better yet, duplicate and rename an existing file in that directory---it will give you a template to follow.
 4. Include a public URL for the GTFS `.zip` file.
@@ -147,7 +147,7 @@ In progress.
 2. Decide on a Onestop ID for the operator that:
   * is unique
   * begins with `o-`
-  * includes a geohash for the approximate service area of the operator. (You can use our [GTFS Agency to Convex Hull tool](http://transit-land.github.io/gtfs-agency-to-convex-hull/) to compute this from a GTFS `.zip` or `stops.txt` file.)
+  * includes a geohash for the approximate service area of the operator. (You can use our [GTFS Agency to Convex Hull tool](http://transitland.github.io/gtfs-agency-to-convex-hull/) to compute this from a GTFS `.zip` or `stops.txt` file.)
   * ends with a brief name (with no spaces or punctuation)
 2. Create a JSON file named `operators/ONESTOP_ID.json` where `ONESTOP_ID` is your proposed Onestop ID for the opeartor. Better yet, duplicate and rename an existing file in that directory---it will give you a template to follow.
 3. Look up and include the follow in the `"tags"` hash:
@@ -158,7 +158,7 @@ In progress.
   `website` | the public website URL for the operator
   `timezone` | the operator's timezone (from the [tz database](http://en.wikipedia.org/wiki/List_of_tz_database_time_zones))
   
-4. Determine a polygon that defines the coverage area of the operator/agency and include it as [GeoJSON](http://geojson.org/). If the operator/agency doesn't supply this information, you can use our [GTFS Agency to Convex Hull tool](http://transit-land.github.io/gtfs-agency-to-convex-hull/) to compute this from a GTFS `.zip` or `stops.txt` file.
+4. Determine a polygon that defines the coverage area of the operator/agency and include it as [GeoJSON](http://geojson.org/). If the operator/agency doesn't supply this information, you can use our [GTFS Agency to Convex Hull tool](http://transitland.github.io/gtfs-agency-to-convex-hull/) to compute this from a GTFS `.zip` or `stops.txt` file.
 6. Run the [test and validation scripts](#test-and-validation) and make sure they pass.
 7. Open a pull request.
 8. Please be ready for a bit of discussion on the pull request. This project is in its early stages, so we'll be manually checking contributions and also asking questions along the way to refine the process.
@@ -178,7 +178,7 @@ bundle install
 bundle exec rake
 ````
 
-Note that [our continuous-integration service](https://circleci.com/gh/transit-land/onestop-id-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests are "green" and pass.
+Note that [our continuous-integration service](https://circleci.com/gh/transitland/onestop-id-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests are "green" and pass.
 
 ---
 
