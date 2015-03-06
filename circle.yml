@@ -8,6 +8,7 @@ dependencies:
   post:
     - if cd $HOME/onestop-id-registry/onestop-id-registry-validator; then git pull; else git clone git@github.com:transitland/onestop-id-registry-validator.git $HOME/onestop-id-registry/onestop-id-registry-validator; fi
     - cd $HOME/onestop-id-registry/onestop-id-registry-validator && bundle install
+    # TODO: make sure that bundle is getting cached
 
 database:
   override:
