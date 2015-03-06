@@ -15,4 +15,4 @@ database:
 
 test:
   override:
-    - cd $HOME/onestop-id-registry/onestop-id-registry-validator && bundle exec rake
+    - cd $HOME/onestop-id-registry/onestop-id-registry-validator && ONESTOP_ID_REGISTRY_LOCAL_PATH=$HOME/onestop-id-registry bundle exec rake
