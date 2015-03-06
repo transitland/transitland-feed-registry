@@ -7,6 +7,10 @@ dependencies:
     - if cd onestop-id-registry-validator; then git pull; else git clone git@github.com:transitland/onestop-id-registry-validator.git; fi
     - cd onestop-id-registry-validator && bundle install
 
+database:
+  override:
+    - echo "we need no database" 
+
 test:
   override:
     - cd onestop-id-registry-validator && bundle exec rake
