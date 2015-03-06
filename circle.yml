@@ -11,6 +11,6 @@ test:
   override:
     - cd onestop-id-registry-validator && bundle exec rake
 
-cache:
-  directories:
+dependencies:
+  cache_directories:
     - onestop-id-registry-validator
