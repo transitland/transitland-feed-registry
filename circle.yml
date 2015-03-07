@@ -25,4 +25,4 @@ deployment:
     commands:
       - cd $HOME/onestop-id-registry/onestop-id-report-builder && ONESTOP_ID_REGISTRY_LOCAL_PATH=$HOME/onestop-id-registry bundle exec rake report:build
       - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle exec rake report:upload
-      - rm -rf $HOME/onestop-id-registry/onestop-id-report-builder/report
+      - rm -rf $HOME/onestop-id-registry/onestop-id-report-builder/report/*
