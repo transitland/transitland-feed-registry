@@ -4,7 +4,7 @@ machine:
 
 dependencies:
   cache_directories:
-    - $HOME/onestop-id-registry/onestop-id-report-builder
+    - onestop-id-report-builder
   post:
     - if cd $HOME/onestop-id-registry/onestop-id-report-builder; then git pull; else git clone git@github.com:transitland/onestop-id-report-builder.git $HOME/onestop-id-registry/onestop-id-report-builder; fi
     - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle install
