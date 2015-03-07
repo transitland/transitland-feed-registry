@@ -1,4 +1,0 @@
-require_relative 'onestop_id_registry/internal_validator'
-require_relative 'onestop_id_registry/comparison_sources/us_ntd'
-require_relative 'onestop_id_registry/comparison_sources/gtfs_data_exchange'
-require_relative 'onestop_id_registry/report_builder/report_builder'

@@ -1,18 +1,28 @@
 machine:
   ruby:
-    version: 2.1.2
+    version: 2.1.3
+
+dependencies:
+  cache_directories:
+    - $HOME/onestop-id-registry/onestop-id-report-builder
+  post:
+    - if cd $HOME/onestop-id-registry/onestop-id-report-builder; then git pull; else git clone git@github.com:transitland/onestop-id-report-builder.git $HOME/onestop-id-registry/onestop-id-report-builder; fi
+    - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle install
+    # TODO: make sure those bundles are getting cached
+    - gem install onestop-id-registry-validator
 
 database:
   override:
-    - echo "we need no database" 
+    - echo "we need no database"
 
 test:
   override:
-    - bundle exec rake
+    - ONESTOP_ID_REGISTRY_LOCAL_PATH=$HOME/onestop-id-registry onestop_id_registry_validator
 
 deployment:
   production:
     branch: master
     commands:
-      - bundle exec rake report:build
-      - bundle exec s3_website push --config-dir=./config
+      - cd $HOME/onestop-id-registry/onestop-id-report-builder && ONESTOP_ID_REGISTRY_LOCAL_PATH=$HOME/onestop-id-registry bundle exec rake report:build
+      - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle exec rake report:upload
+      - rm -rf $HOME/onestop-id-registry/onestop-id-report-builder/report
