@@ -171,11 +171,11 @@ In progress.
 
 ## Test and Validation
 
-Before opening pull requests, please run the included validation scripts. You'll need Ruby 2.0 or later installed to run these scripts:
+Before opening pull requests, please validate your edits using the `[onestop-id-registry-validator](https://github.com/transitland/onestop-id-registry-validator)` library. You'll need Ruby 2.0 or later installed to run these scripts:
 
 ````
-bundle install
-bundle exec rake
+gem install onestop_id_registry_validator
+onestop-id-registry-validator
 ````
 
 Note that [our continuous-integration service](https://circleci.com/gh/transitland/onestop-id-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests are "green" and pass.
@@ -186,7 +186,11 @@ Note that [our continuous-integration service](https://circleci.com/gh/transitla
 
 Each time the registry changes, our continuous-integration service generates a report and posts it to [http://onestop-id-registry.transit.land](http://onestop-id-registry.transit.land)
 
-To generate a copy of the report locally, you'll need Ruby 2.0 installed. Then run: `bundle exec rake report:build` 
+To generate a copy of the report locally:
+
+1) You'll need Ruby 2.0
+2) A copy of `[onestop-id-report-builder]((https://github.com/transitland/onestop-id-report-builder))`
+3) Then run: `ONESTOP_ID_REGISTRY_LOCAL_PATH=../onestop-id-registry bundle exec rake report:build`  (or change that relative path to reference your local copy of this repository)
 
 --
 
