@@ -9,7 +9,7 @@ dependencies:
     - if cd $HOME/onestop-id-registry/onestop-id-report-builder; then git pull; else git clone git@github.com:transitland/onestop-id-report-builder.git $HOME/onestop-id-registry/onestop-id-report-builder; fi
     - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle install
     # TODO: make sure those bundles are getting cached
-    - gem install onestop-id-report-builder
+    - gem install onestop-id-registry-validator
 
 database:
   override:
