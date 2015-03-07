@@ -5,10 +5,13 @@ machine:
 dependencies:
   cache_directories:
     - $HOME/onestop-id-registry/onestop-id-registry-validator
+    - $HOME/onestop-id-registry/onestop-id-report-builder
   post:
     - if cd $HOME/onestop-id-registry/onestop-id-registry-validator; then git pull; else git clone git@github.com:transitland/onestop-id-registry-validator.git $HOME/onestop-id-registry/onestop-id-registry-validator; fi
+    - if cd $HOME/onestop-id-registry/onestop-id-report-builder; then git pull; else git clone git@github.com:transitland/onestop-id-report-builder.git $HOME/onestop-id-registry/onestop-id-report-builder; fi
     - cd $HOME/onestop-id-registry/onestop-id-registry-validator && bundle install
-    # TODO: make sure that bundle is getting cached
+    - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle install
+    # TODO: make sure those bundles are getting cached
 
 database:
   override:
@@ -17,3 +20,11 @@ database:
 test:
   override:
     - cd $HOME/onestop-id-registry/onestop-id-registry-validator && ONESTOP_ID_REGISTRY_LOCAL_PATH=$HOME/onestop-id-registry bundle exec rake
+
+deployment:
+  production:
+    branch: master
+    commands:
+      - cd $HOME/onestop-id-registry/onestop-id-report-builder && ONESTOP_ID_REGISTRY_LOCAL_PATH=$HOME/onestop-id-registry bundle exec rake report:build
+      - cd $HOME/onestop-id-registry/onestop-id-report-builder && bundle exec rake report:upload
+      - rm -rf $HOME/onestop-id-registry/onestop-id-report-builder/report
