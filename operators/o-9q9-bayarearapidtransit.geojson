@@ -1,117 +1,318 @@
 {
-    "bbox": [
-        -122.4690807,
-        37.557355,
-        -121.900367,
-        38.018914
+    "identifiers": [
+        {
+            "agency_id": "BART",
+            "agency_lang": "en",
+            "agency_name": "Bay Area Rapid Transit",
+            "agency_timezone": "America/Los_Angeles",
+            "agency_url": "http://www.bart.gov",
+            "identifier": "f-bayarearapidtransit-o-BART"
+        }
     ],
-    "features": [
+    "name": "Bay Area Rapid Transit",
+    "properties": {},
+    "routes": [
         {
-            "bbox": [
-                -122.269029,
-                37.80787,
-                -122.269029,
-                37.80787
+            "geometry": {},
+            "identifiers": [
+                {
+                    "agency_id": "BART",
+                    "identifier": "f-bayarearapidtransit-r-11",
+                    "route_color": "0099cc",
+                    "route_desc": "",
+                    "route_id": "11",
+                    "route_long_name": "Dublin/Pleasanton - Daly City",
+                    "route_short_name": "",
+                    "route_text_color": "",
+                    "route_type": "1",
+                    "route_url": "http://www.bart.gov/schedules/bylineresults?route=11"
+                }
             ],
-            "geohash": "9q9p1dwqv1",
+            "name": "Dublin/Pleasanton - Daly City",
+            "onestopId": "r-9q9n-dublin:pleasanton:dalycity",
+            "operatedBy": "o-agency-bayarearapidtransit",
+            "properties": {},
+            "serves": [
+                "s-9q9nfswzpg-fruitvale",
+                "s-9q8yymt18w-civiccenter:unplaza",
+                "s-9q8yt0hwpd-dalycity",
+                "s-9q8ytvn4ny-glenpark",
+                "s-9q8yy29dff-24thstmission",
+                "s-9q9ns5hy5j-sanleandro",
+                "s-9q9ng2ftj0-coliseum:oaklandairport",
+                "s-9q8yywd198-powellst",
+                "s-9q9q6p6u79-dublin:pleasanton",
+                "s-9q9p1bbfkc-lakemerritt",
+                "s-9q9nqj7k91-castrovalley",
+                "s-9q8ytehd2q-balboapark",
+                "s-9q9nkytfj8-bayfair",
+                "s-9q9p145u1w-westoakland",
+                "s-9q9q3rn9j2-westdublin:pleasanton",
+                "s-9q8yyxq427-montgomeryst",
+                "s-9q8znb12j1-embarcadero",
+                "s-9q8yy6btqm-16thstmission"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {},
+            "identifiers": [
+                {
+                    "agency_id": "BART",
+                    "identifier": "f-bayarearapidtransit-r-07",
+                    "route_color": "ff0000",
+                    "route_desc": "",
+                    "route_id": "07",
+                    "route_long_name": "Richmond - Daly City/Millbrae",
+                    "route_short_name": "",
+                    "route_text_color": "",
+                    "route_type": "1",
+                    "route_url": "http://www.bart.gov/schedules/bylineresults?route=7"
+                }
+            ],
+            "name": "Richmond - Daly City/Millbrae",
+            "onestopId": "r-9q8y-richmond:dalycity:millbrae",
+            "operatedBy": "o-agency-bayarearapidtransit",
+            "properties": {},
+            "serves": [
+                "s-9q9p1wrwrp-macarthur",
+                "s-9q8zzf1nks-richmond",
+                "s-9q8vzhbf8h-millbrae",
+                "s-9q8yy29dff-24thstmission",
+                "s-9q9p3dvvge-ashby",
+                "s-9q9p9h03k6-elcerritoplaza",
+                "s-9q8yyxq427-montgomeryst",
+                "s-9q8ym8wctq-southsanfrancisco",
+                "s-9q9p145u1w-westoakland",
+                "s-9q8yn7erg9-sanbruno",
+                "s-9q9pb85kcn-elcerritodelnorte",
+                "s-9q9p3qgbm0-northberkeley",
+                "s-9q8ytehd2q-balboapark",
+                "s-9q8znb12j1-embarcadero",
+                "s-9q8ymhqbcv-colma",
+                "s-9q9p19uw31-12thstoaklandcitycenter",
+                "s-9q9p1dwqv1-19thstoakland",
+                "s-9q8ytvn4ny-glenpark",
+                "s-9q8yywd198-powellst",
+                "s-9q8yymt18w-civiccenter:unplaza",
+                "s-9q8yt0hwpd-dalycity",
+                "s-9q8yy6btqm-16thstmission",
+                "s-9q9p3tzpun-downtownberkeley"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {},
+            "identifiers": [
+                {
+                    "agency_id": "BART",
+                    "identifier": "f-bayarearapidtransit-r-19",
+                    "route_color": "d5cfa3",
+                    "route_desc": "",
+                    "route_id": "19",
+                    "route_long_name": "Coliseum - Oakland Int'l Airport",
+                    "route_short_name": "",
+                    "route_text_color": "",
+                    "route_type": "1",
+                    "route_url": "http://www.bart.gov/schedules/bylineresults?route=19"
+                }
+            ],
+            "name": "Coliseum - Oakland Int'l Airport",
+            "onestopId": "r-9q9ne-coliseum:oaklandintlairport",
+            "operatedBy": "o-agency-bayarearapidtransit",
+            "properties": {},
+            "serves": [
+                "s-9q9ndcrtgx-oaklandintlairport",
+                "s-9q9ng2ftj0-coliseum:oaklandairport"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {},
+            "identifiers": [
+                {
+                    "agency_id": "BART",
+                    "identifier": "f-bayarearapidtransit-r-01",
+                    "route_color": "ffff33",
+                    "route_desc": "",
+                    "route_id": "01",
+                    "route_long_name": "Pittsburg/Bay Point - SFIA/Millbrae",
+                    "route_short_name": "",
+                    "route_text_color": "",
+                    "route_type": "1",
+                    "route_url": "http://www.bart.gov/schedules/bylineresults?route=1"
+                }
+            ],
+            "name": "Pittsburg/Bay Point - SFIA/Millbrae",
+            "onestopId": "r-9q9-pittsburg:baypoint:sfia:millbrae",
+            "operatedBy": "o-agency-bayarearapidtransit",
+            "properties": {},
+            "serves": [
+                "s-9q9p1wrwrp-macarthur",
+                "s-9q9py89sby-pleasanthill:contracostacentre",
+                "s-9q8vzhbf8h-millbrae",
+                "s-9q8yy29dff-24thstmission",
+                "s-9q8yyxq427-montgomeryst",
+                "s-9q9p19uw31-12thstoaklandcitycenter",
+                "s-9q9p145u1w-westoakland",
+                "s-9q8yn7erg9-sanbruno",
+                "s-9q8ytehd2q-balboapark",
+                "s-9q9p7xs3rq-orinda",
+                "s-9q8vyzu3m3-sanfranciscointlairport",
+                "s-9q8znb12j1-embarcadero",
+                "s-9q8ym8wctq-southsanfrancisco",
+                "s-9qc2314hpz-pittsburg:baypoint",
+                "s-9q9p1dwqv1-19thstoakland",
+                "s-9q8ytvn4ny-glenpark",
+                "s-9q8ymhqbcv-colma",
+                "s-9q9p616uyb-rockridge",
+                "s-9qc0pq23hg-northconcord:martinez",
+                "s-9q9pwk90qc-walnutcreek",
+                "s-9qc0p0vj5c-concord",
+                "s-9q9pt421j0-lafayette",
+                "s-9q8yywd198-powellst",
+                "s-9q8yymt18w-civiccenter:unplaza",
+                "s-9q8yt0hwpd-dalycity",
+                "s-9q8yy6btqm-16thstmission"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {},
+            "identifiers": [
+                {
+                    "agency_id": "BART",
+                    "identifier": "f-bayarearapidtransit-r-05",
+                    "route_color": "339933",
+                    "route_desc": "",
+                    "route_id": "05",
+                    "route_long_name": "Fremont - Daly City",
+                    "route_short_name": "",
+                    "route_text_color": "",
+                    "route_type": "1",
+                    "route_url": "http://www.bart.gov/schedules/bylineresults?route=5"
+                }
+            ],
+            "name": "Fremont - Daly City",
+            "onestopId": "r-9q9n-fremont:dalycity",
+            "operatedBy": "o-agency-bayarearapidtransit",
+            "properties": {},
+            "serves": [
+                "s-9q9nfswzpg-fruitvale",
+                "s-9q8yymt18w-civiccenter:unplaza",
+                "s-9q8yt0hwpd-dalycity",
+                "s-9q9p145u1w-westoakland",
+                "s-9q8ytvn4ny-glenpark",
+                "s-9q8yy29dff-24thstmission",
+                "s-9q9m8m57ry-fremont",
+                "s-9q9nne0qsg-southhayward",
+                "s-9q9nkytfj8-bayfair",
+                "s-9q9ng2ftj0-coliseum:oaklandairport",
+                "s-9q9p1bbfkc-lakemerritt",
+                "s-9q8yywd198-powellst",
+                "s-9q8ytehd2q-balboapark",
+                "s-9q8yy6btqm-16thstmission",
+                "s-9q9nmcdmbp-hayward",
+                "s-9q9jz7m29t-unioncity",
+                "s-9q8yyxq427-montgomeryst",
+                "s-9q8znb12j1-embarcadero",
+                "s-9q9ns5hy5j-sanleandro"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {},
+            "identifiers": [
+                {
+                    "agency_id": "BART",
+                    "identifier": "f-bayarearapidtransit-r-03",
+                    "route_color": "ff9933",
+                    "route_desc": "",
+                    "route_id": "03",
+                    "route_long_name": "Fremont - Richmond",
+                    "route_short_name": "",
+                    "route_text_color": "",
+                    "route_type": "1",
+                    "route_url": "http://www.bart.gov/schedules/bylineresults?route=3"
+                }
+            ],
+            "name": "Fremont - Richmond",
+            "onestopId": "r-9q9n-fremont:richmond",
+            "operatedBy": "o-agency-bayarearapidtransit",
+            "properties": {},
+            "serves": [
+                "s-9q9p9h03k6-elcerritoplaza",
+                "s-9q9nfswzpg-fruitvale",
+                "s-9q9p19uw31-12thstoaklandcitycenter",
+                "s-9q8zzf1nks-richmond",
+                "s-9q9p1wrwrp-macarthur",
+                "s-9q9p1dwqv1-19thstoakland",
+                "s-9q9p3tzpun-downtownberkeley",
+                "s-9q9nne0qsg-southhayward",
+                "s-9q9p3qgbm0-northberkeley",
+                "s-9q9ng2ftj0-coliseum:oaklandairport",
+                "s-9q9p1bbfkc-lakemerritt",
+                "s-9q9pb85kcn-elcerritodelnorte",
+                "s-9q9nkytfj8-bayfair",
+                "s-9q9nmcdmbp-hayward",
+                "s-9q9m8m57ry-fremont",
+                "s-9q9jz7m29t-unioncity",
+                "s-9q9ns5hy5j-sanleandro",
+                "s-9q9p3dvvge-ashby"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "stops": [
+        {
             "geometry": {
                 "coordinates": [
-                    -122.269029,
-                    37.80787
+                    -122.267227,
+                    37.828415
                 ],
                 "type": "Point"
             },
-            "name": "19th St. Oakland",
-            "onestopId": "s-9q9p1dwqv1-19thstoakland",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "19TH",
-                "stop_lat": "37.80787",
-                "stop_lon": "-122.269029",
-                "stop_name": "19th St. Oakland",
-                "stop_url": "http://www.bart.gov/stations/19TH/",
-                "zone_id": "19TH"
-            },
-            "serves": [
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-MCAR_S",
+                    "stop_desc": "",
+                    "stop_id": "MCAR_S",
+                    "stop_lat": "37.828415",
+                    "stop_lon": "-122.267227",
+                    "stop_name": "MacArthur",
+                    "stop_url": "http://www.bart.gov/stations/MCAR/",
+                    "zone_id": "MCAR"
+                },
+                {
+                    "identifier": "f-bayarearapidtransit-s-MCAR",
+                    "stop_desc": "",
+                    "stop_id": "MCAR",
+                    "stop_lat": "37.828415",
+                    "stop_lon": "-122.267227",
+                    "stop_name": "MacArthur",
+                    "stop_url": "http://www.bart.gov/stations/MCAR/",
+                    "zone_id": "MCAR"
+                }
+            ],
+            "name": "MacArthur",
+            "onestopId": "s-9q9p1wrwrp-macarthur",
+            "properties": {},
+            "servedBy": [
                 "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:richmond"
+                "r-9q9n-fremont:richmond",
+                "r-9q8y-richmond:dalycity:millbrae"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.056013,
-                37.928403,
-                -122.056013,
-                37.928403
-            ],
-            "geohash": "9q9py89sby",
-            "geometry": {
-                "coordinates": [
-                    -122.056013,
-                    37.928403
-                ],
-                "type": "Point"
-            },
-            "name": "Pleasant Hill/Contra Costa Centre",
-            "onestopId": "s-9q9py89sby-pleasanthill:contracostacentre",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "PHIL",
-                "stop_lat": "37.928403",
-                "stop_lon": "-122.056013",
-                "stop_name": "Pleasant Hill/Contra Costa Centre",
-                "stop_url": "http://www.bart.gov/stations/PHIL/",
-                "zone_id": "PHIL"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.406857,
-                37.784991,
-                -122.406857,
-                37.784991
-            ],
-            "geohash": "9q8yywd198",
-            "geometry": {
-                "coordinates": [
-                    -122.406857,
-                    37.784991
-                ],
-                "type": "Point"
-            },
-            "name": "Powell St.",
-            "onestopId": "s-9q8yywd198-powellst",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "POWL",
-                "stop_lat": "37.784991",
-                "stop_lon": "-122.406857",
-                "stop_name": "Powell St.",
-                "stop_url": "http://www.bart.gov/stations/POWL/",
-                "zone_id": "POWL"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-dublin:pleasanton:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.353165,
-                37.936887,
-                -122.353165,
-                37.936887
-            ],
-            "geohash": "9q8zzf1nks",
             "geometry": {
                 "coordinates": [
                     -122.353165,
@@ -119,1073 +320,30 @@
                 ],
                 "type": "Point"
             },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-RICH",
+                    "stop_desc": "",
+                    "stop_id": "RICH",
+                    "stop_lat": "37.936887",
+                    "stop_lon": "-122.353165",
+                    "stop_name": "Richmond",
+                    "stop_url": "http://www.bart.gov/stations/RICH/",
+                    "zone_id": "RICH"
+                }
+            ],
             "name": "Richmond",
             "onestopId": "s-9q8zzf1nks-richmond",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "RICH",
-                "stop_lat": "37.936887",
-                "stop_lon": "-122.353165",
-                "stop_name": "Richmond",
-                "stop_url": "http://www.bart.gov/stations/RICH/",
-                "zone_id": "RICH"
-            },
-            "serves": [
+            "properties": {},
+            "servedBy": [
                 "r-9q8y-richmond:dalycity:millbrae",
                 "r-9q9n-fremont:richmond"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.4690807,
-                37.70612055,
-                -122.4690807,
-                37.70612055
-            ],
-            "geohash": "9q8yt0hwpd",
-            "geometry": {
-                "coordinates": [
-                    -122.4690807,
-                    37.70612055
-                ],
-                "type": "Point"
-            },
-            "name": "Daly City",
-            "onestopId": "s-9q8yt0hwpd-dalycity",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "DALY",
-                "stop_lat": "37.70612055",
-                "stop_lon": "-122.4690807",
-                "stop_name": "Daly City",
-                "stop_url": "http://www.bart.gov/stations/DALY/",
-                "zone_id": "DALY"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.4474142,
-                37.72198087,
-                -122.4474142,
-                37.72198087
-            ],
-            "geohash": "9q8ytehd2q",
-            "geometry": {
-                "coordinates": [
-                    -122.4474142,
-                    37.72198087
-                ],
-                "type": "Point"
-            },
-            "name": "Balboa Park",
-            "onestopId": "s-9q8ytehd2q-balboapark",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "BALB",
-                "stop_lat": "37.72198087",
-                "stop_lon": "-122.4474142",
-                "stop_name": "Balboa Park",
-                "stop_url": "http://www.bart.gov/stations/BALB/",
-                "zone_id": "BALB"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-dublin:pleasanton:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.126871,
-                37.697185,
-                -122.126871,
-                37.697185
-            ],
-            "geohash": "9q9nkytfj8",
-            "geometry": {
-                "coordinates": [
-                    -122.126871,
-                    37.697185
-                ],
-                "type": "Point"
-            },
-            "name": "Bay Fair",
-            "onestopId": "s-9q9nkytfj8-bayfair",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "BAYF",
-                "stop_lat": "37.697185",
-                "stop_lon": "-122.126871",
-                "stop_name": "Bay Fair",
-                "stop_url": "http://www.bart.gov/stations/BAYF/",
-                "zone_id": "BAYF"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-dublin:pleasanton:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.1613112,
-                37.72261921,
-                -122.1613112,
-                37.72261921
-            ],
-            "geohash": "9q9ns5hy5j",
-            "geometry": {
-                "coordinates": [
-                    -122.1613112,
-                    37.72261921
-                ],
-                "type": "Point"
-            },
-            "name": "San Leandro",
-            "onestopId": "s-9q9ns5hy5j-sanleandro",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "SANL",
-                "stop_lat": "37.72261921",
-                "stop_lon": "-122.1613112",
-                "stop_name": "San Leandro",
-                "stop_url": "http://www.bart.gov/stations/SANL/",
-                "zone_id": "SANL"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.075567,
-                37.690754,
-                -122.075567,
-                37.690754
-            ],
-            "geohash": "9q9nqj7k91",
-            "geometry": {
-                "coordinates": [
-                    -122.075567,
-                    37.690754
-                ],
-                "type": "Point"
-            },
-            "name": "Castro Valley",
-            "onestopId": "s-9q9nqj7k91-castrovalley",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "CAST",
-                "stop_lat": "37.690754",
-                "stop_lon": "-122.075567",
-                "stop_name": "Castro Valley",
-                "stop_url": "http://www.bart.gov/stations/CAST/",
-                "zone_id": "CAST"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.466233,
-                37.684638,
-                -122.466233,
-                37.684638
-            ],
-            "geohash": "9q8ymhqbcv",
-            "geometry": {
-                "coordinates": [
-                    -122.466233,
-                    37.684638
-                ],
-                "type": "Point"
-            },
-            "name": "Colma",
-            "onestopId": "s-9q8ymhqbcv-colma",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "COLM",
-                "stop_lat": "37.684638",
-                "stop_lon": "-122.466233",
-                "stop_name": "Colma",
-                "stop_url": "http://www.bart.gov/stations/COLM/",
-                "zone_id": "COLM"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.269029,
-                37.80787,
-                -122.269029,
-                37.80787
-            ],
-            "geohash": "9q9p1dwqv1",
-            "geometry": {
-                "coordinates": [
-                    -122.269029,
-                    37.80787
-                ],
-                "type": "Point"
-            },
-            "name": "19th St. Oakland",
-            "onestopId": "s-9q9p1dwqv1-19thstoakland",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "19TH_N",
-                "stop_lat": "37.80787",
-                "stop_lon": "-122.269029",
-                "stop_name": "19th St. Oakland",
-                "stop_url": "http://www.bart.gov/stations/19TH/",
-                "zone_id": "19TH"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.413756,
-                37.779528,
-                -122.413756,
-                37.779528
-            ],
-            "geohash": "9q8yymt18w",
-            "geometry": {
-                "coordinates": [
-                    -122.413756,
-                    37.779528
-                ],
-                "type": "Point"
-            },
-            "name": "Civic Center/UN Plaza",
-            "onestopId": "s-9q8yymt18w-civiccenter:unplaza",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "CIVC",
-                "stop_lat": "37.779528",
-                "stop_lon": "-122.413756",
-                "stop_name": "Civic Center/UN Plaza",
-                "stop_url": "http://www.bart.gov/stations/CIVC/",
-                "zone_id": "CIVC"
-            },
-            "serves": [
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.444116,
-                37.664174,
-                -122.444116,
-                37.664174
-            ],
-            "geohash": "9q8ym8wctq",
-            "geometry": {
-                "coordinates": [
-                    -122.444116,
-                    37.664174
-                ],
-                "type": "Point"
-            },
-            "name": "South San Francisco",
-            "onestopId": "s-9q8ym8wctq-southsanfrancisco",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "SSAN",
-                "stop_lat": "37.664174",
-                "stop_lon": "-122.444116",
-                "stop_name": "South San Francisco",
-                "stop_url": "http://www.bart.gov/stations/SSAN/",
-                "zone_id": "SSAN"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.268045,
-                37.869867,
-                -122.268045,
-                37.869867
-            ],
-            "geohash": "9q9p3tzpun",
-            "geometry": {
-                "coordinates": [
-                    -122.268045,
-                    37.869867
-                ],
-                "type": "Point"
-            },
-            "name": "Downtown Berkeley",
-            "onestopId": "s-9q9p3tzpun-downtownberkeley",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "DBRK",
-                "stop_lat": "37.869867",
-                "stop_lon": "-122.268045",
-                "stop_name": "Downtown Berkeley",
-                "stop_url": "http://www.bart.gov/stations/DBRK/",
-                "zone_id": "DBRK"
-            },
-            "serves": [
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.029095,
-                37.973737,
-                -122.029095,
-                37.973737
-            ],
-            "geohash": "9qc0p0vj5c",
-            "geometry": {
-                "coordinates": [
-                    -122.029095,
-                    37.973737
-                ],
-                "type": "Point"
-            },
-            "name": "Concord",
-            "onestopId": "s-9qc0p0vj5c-concord",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "CONC",
-                "stop_lat": "37.973737",
-                "stop_lon": "-122.029095",
-                "stop_name": "Concord",
-                "stop_url": "http://www.bart.gov/stations/CONC/",
-                "zone_id": "CONC"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.067423,
-                37.905628,
-                -122.067423,
-                37.905628
-            ],
-            "geohash": "9q9pwk90qc",
-            "geometry": {
-                "coordinates": [
-                    -122.067423,
-                    37.905628
-                ],
-                "type": "Point"
-            },
-            "name": "Walnut Creek",
-            "onestopId": "s-9q9pwk90qc-walnutcreek",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "WCRK",
-                "stop_lat": "37.905628",
-                "stop_lon": "-122.067423",
-                "stop_name": "Walnut Creek",
-                "stop_url": "http://www.bart.gov/stations/WCRK/",
-                "zone_id": "WCRK"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.392612,
-                37.616035,
-                -122.392612,
-                37.616035
-            ],
-            "geohash": "9q8vyzu3m3",
-            "geometry": {
-                "coordinates": [
-                    -122.392612,
-                    37.616035
-                ],
-                "type": "Point"
-            },
-            "name": "San Francisco Int'l Airport",
-            "onestopId": "s-9q8vyzu3m3-sanfranciscointlairport",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "SFIA",
-                "stop_lat": "37.616035",
-                "stop_lon": "-122.392612",
-                "stop_name": "San Francisco Int'l Airport",
-                "stop_url": "http://www.bart.gov/stations/SFIA/",
-                "zone_id": "SFIA"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.2945822,
-                37.80467476,
-                -122.2945822,
-                37.80467476
-            ],
-            "geohash": "9q9p145u1w",
-            "geometry": {
-                "coordinates": [
-                    -122.2945822,
-                    37.80467476
-                ],
-                "type": "Point"
-            },
-            "name": "West Oakland",
-            "onestopId": "s-9q9p145u1w-westoakland",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "WOAK",
-                "stop_lat": "37.80467476",
-                "stop_lon": "-122.2945822",
-                "stop_name": "West Oakland",
-                "stop_url": "http://www.bart.gov/stations/WOAK/",
-                "zone_id": "WOAK"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -121.900367,
-                37.701695,
-                -121.900367,
-                37.701695
-            ],
-            "geohash": "9q9q6p6u79",
-            "geometry": {
-                "coordinates": [
-                    -121.900367,
-                    37.701695
-                ],
-                "type": "Point"
-            },
-            "name": "Dublin/Pleasanton",
-            "onestopId": "s-9q9q6p6u79-dublin:pleasanton",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "DUBL",
-                "stop_lat": "37.701695",
-                "stop_lon": "-121.900367",
-                "stop_name": "Dublin/Pleasanton",
-                "stop_url": "http://www.bart.gov/stations/DUBL/",
-                "zone_id": "DUBL"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.418466,
-                37.752254,
-                -122.418466,
-                37.752254
-            ],
-            "geohash": "9q8yy29dff",
-            "geometry": {
-                "coordinates": [
-                    -122.418466,
-                    37.752254
-                ],
-                "type": "Point"
-            },
-            "name": "24th St. Mission",
-            "onestopId": "s-9q8yy29dff-24thstmission",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "24TH",
-                "stop_lat": "37.752254",
-                "stop_lon": "-122.418466",
-                "stop_name": "24th St. Mission",
-                "stop_url": "http://www.bart.gov/stations/24TH/",
-                "zone_id": "24TH"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.2992715,
-                37.9030588,
-                -122.2992715,
-                37.9030588
-            ],
-            "geohash": "9q9p9h03k6",
-            "geometry": {
-                "coordinates": [
-                    -122.2992715,
-                    37.9030588
-                ],
-                "type": "Point"
-            },
-            "name": "El Cerrito Plaza",
-            "onestopId": "s-9q9p9h03k6-elcerritoplaza",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "PLZA",
-                "stop_lat": "37.9030588",
-                "stop_lon": "-122.2992715",
-                "stop_name": "El Cerrito Plaza",
-                "stop_url": "http://www.bart.gov/stations/PLZA/",
-                "zone_id": "PLZA"
-            },
-            "serves": [
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.317269,
-                37.925655,
-                -122.317269,
-                37.925655
-            ],
-            "geohash": "9q9pb85kcn",
-            "geometry": {
-                "coordinates": [
-                    -122.317269,
-                    37.925655
-                ],
-                "type": "Point"
-            },
-            "name": "El Cerrito del Norte",
-            "onestopId": "s-9q9pb85kcn-elcerritodelnorte",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "DELN",
-                "stop_lat": "37.925655",
-                "stop_lon": "-122.317269",
-                "stop_name": "El Cerrito del Norte",
-                "stop_url": "http://www.bart.gov/stations/DELN/",
-                "zone_id": "DELN"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.024597,
-                38.003275,
-                -122.024597,
-                38.003275
-            ],
-            "geohash": "9qc0pq23hg",
-            "geometry": {
-                "coordinates": [
-                    -122.024597,
-                    38.003275
-                ],
-                "type": "Point"
-            },
-            "name": "North Concord/Martinez",
-            "onestopId": "s-9qc0pq23hg-northconcord:martinez",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "NCON",
-                "stop_lat": "38.003275",
-                "stop_lon": "-122.024597",
-                "stop_name": "North Concord/Martinez",
-                "stop_url": "http://www.bart.gov/stations/NCON/",
-                "zone_id": "NCON"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.396742,
-                37.792976,
-                -122.396742,
-                37.792976
-            ],
-            "geohash": "9q8znb12j1",
-            "geometry": {
-                "coordinates": [
-                    -122.396742,
-                    37.792976
-                ],
-                "type": "Point"
-            },
-            "name": "Embarcadero",
-            "onestopId": "s-9q8znb12j1-embarcadero",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "EMBR",
-                "stop_lat": "37.792976",
-                "stop_lon": "-122.396742",
-                "stop_name": "Embarcadero",
-                "stop_url": "http://www.bart.gov/stations/EMBR/",
-                "zone_id": "EMBR"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -121.9764,
-                37.557355,
-                -121.9764,
-                37.557355
-            ],
-            "geohash": "9q9m8m57ry",
-            "geometry": {
-                "coordinates": [
-                    -121.9764,
-                    37.557355
-                ],
-                "type": "Point"
-            },
-            "name": "Fremont",
-            "onestopId": "s-9q9m8m57ry-fremont",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "FRMT",
-                "stop_lat": "37.557355",
-                "stop_lon": "-121.9764",
-                "stop_name": "Fremont",
-                "stop_url": "http://www.bart.gov/stations/FRMT/",
-                "zone_id": "FRMT"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9n-fremont:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.0575506,
-                37.63479954,
-                -122.0575506,
-                37.63479954
-            ],
-            "geohash": "9q9nne0qsg",
-            "geometry": {
-                "coordinates": [
-                    -122.0575506,
-                    37.63479954
-                ],
-                "type": "Point"
-            },
-            "name": "South Hayward",
-            "onestopId": "s-9q9nne0qsg-southhayward",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "SHAY",
-                "stop_lat": "37.63479954",
-                "stop_lon": "-122.0575506",
-                "stop_name": "South Hayward",
-                "stop_url": "http://www.bart.gov/stations/SHAY/",
-                "zone_id": "SHAY"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9n-fremont:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.224274,
-                37.774963,
-                -122.224274,
-                37.774963
-            ],
-            "geohash": "9q9nfswzpg",
-            "geometry": {
-                "coordinates": [
-                    -122.224274,
-                    37.774963
-                ],
-                "type": "Point"
-            },
-            "name": "Fruitvale",
-            "onestopId": "s-9q9nfswzpg-fruitvale",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "FTVL",
-                "stop_lat": "37.774963",
-                "stop_lon": "-122.224274",
-                "stop_name": "Fruitvale",
-                "stop_url": "http://www.bart.gov/stations/FTVL/",
-                "zone_id": "FTVL"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-dublin:pleasanton:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.434092,
-                37.732921,
-                -122.434092,
-                37.732921
-            ],
-            "geohash": "9q8ytvn4ny",
-            "geometry": {
-                "coordinates": [
-                    -122.434092,
-                    37.732921
-                ],
-                "type": "Point"
-            },
-            "name": "Glen Park",
-            "onestopId": "s-9q8ytvn4ny-glenpark",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "GLEN",
-                "stop_lat": "37.732921",
-                "stop_lon": "-122.434092",
-                "stop_name": "Glen Park",
-                "stop_url": "http://www.bart.gov/stations/GLEN/",
-                "zone_id": "GLEN"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q9n-fremont:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.26978,
-                37.853024,
-                -122.26978,
-                37.853024
-            ],
-            "geohash": "9q9p3dvvge",
-            "geometry": {
-                "coordinates": [
-                    -122.26978,
-                    37.853024
-                ],
-                "type": "Point"
-            },
-            "name": "Ashby",
-            "onestopId": "s-9q9p3dvvge-ashby",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "ASHB",
-                "stop_lat": "37.853024",
-                "stop_lon": "-122.26978",
-                "stop_name": "Ashby",
-                "stop_url": "http://www.bart.gov/stations/ASHB/",
-                "zone_id": "ASHB"
-            },
-            "serves": [
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.087967,
-                37.670399,
-                -122.087967,
-                37.670399
-            ],
-            "geohash": "9q9nmcdmbp",
-            "geometry": {
-                "coordinates": [
-                    -122.087967,
-                    37.670399
-                ],
-                "type": "Point"
-            },
-            "name": "Hayward",
-            "onestopId": "s-9q9nmcdmbp-hayward",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "HAYW",
-                "stop_lat": "37.670399",
-                "stop_lon": "-122.087967",
-                "stop_name": "Hayward",
-                "stop_url": "http://www.bart.gov/stations/HAYW/",
-                "zone_id": "HAYW"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9n-fremont:dalycity"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.123801,
-                37.893394,
-                -122.123801,
-                37.893394
-            ],
-            "geohash": "9q9pt421j0",
-            "geometry": {
-                "coordinates": [
-                    -122.123801,
-                    37.893394
-                ],
-                "type": "Point"
-            },
-            "name": "Lafayette",
-            "onestopId": "s-9q9pt421j0-lafayette",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "LAFY",
-                "stop_lat": "37.893394",
-                "stop_lon": "-122.123801",
-                "stop_name": "Lafayette",
-                "stop_url": "http://www.bart.gov/stations/LAFY/",
-                "zone_id": "LAFY"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.419694,
-                37.765062,
-                -122.419694,
-                37.765062
-            ],
-            "geohash": "9q8yy6btqm",
-            "geometry": {
-                "coordinates": [
-                    -122.419694,
-                    37.765062
-                ],
-                "type": "Point"
-            },
-            "name": "16th St. Mission",
-            "onestopId": "s-9q8yy6btqm-16thstmission",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "16TH",
-                "stop_lat": "37.765062",
-                "stop_lon": "-122.419694",
-                "stop_name": "16th St. Mission",
-                "stop_url": "http://www.bart.gov/stations/16TH/",
-                "zone_id": "16TH"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.265609,
-                37.797484,
-                -122.265609,
-                37.797484
-            ],
-            "geohash": "9q9p1bbfkc",
-            "geometry": {
-                "coordinates": [
-                    -122.265609,
-                    37.797484
-                ],
-                "type": "Point"
-            },
-            "name": "Lake Merritt",
-            "onestopId": "s-9q9p1bbfkc-lakemerritt",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "LAKE",
-                "stop_lat": "37.797484",
-                "stop_lon": "-122.265609",
-                "stop_name": "Lake Merritt",
-                "stop_url": "http://www.bart.gov/stations/LAKE/",
-                "zone_id": "LAKE"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.267227,
-                37.828415,
-                -122.267227,
-                37.828415
-            ],
-            "geohash": "9q9p1wrwrp",
-            "geometry": {
-                "coordinates": [
-                    -122.267227,
-                    37.828415
-                ],
-                "type": "Point"
-            },
-            "name": "MacArthur",
-            "onestopId": "s-9q9p1wrwrp-macarthur",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "MCAR",
-                "stop_lat": "37.828415",
-                "stop_lon": "-122.267227",
-                "stop_name": "MacArthur",
-                "stop_url": "http://www.bart.gov/stations/MCAR/",
-                "zone_id": "MCAR"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.197273,
-                37.754006,
-                -122.197273,
-                37.754006
-            ],
-            "geohash": "9q9ng2ftj0",
-            "geometry": {
-                "coordinates": [
-                    -122.197273,
-                    37.754006
-                ],
-                "type": "Point"
-            },
-            "name": "Coliseum/Oakland Airport",
-            "onestopId": "s-9q9ng2ftj0-coliseum:oaklandairport",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "COLS",
-                "stop_lat": "37.754006",
-                "stop_lon": "-122.197273",
-                "stop_name": "Coliseum/Oakland Airport",
-                "stop_url": "http://www.bart.gov/stations/COLS/",
-                "zone_id": "COLS"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q9n-fremont:dalycity",
-                "r-9q9ne-coliseum:oaklandintlairport",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.267227,
-                37.828415,
-                -122.267227,
-                37.828415
-            ],
-            "geohash": "9q9p1wrwrp",
-            "geometry": {
-                "coordinates": [
-                    -122.267227,
-                    37.828415
-                ],
-                "type": "Point"
-            },
-            "name": "MacArthur",
-            "onestopId": "s-9q9p1wrwrp-macarthur",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "MCAR_S",
-                "stop_lat": "37.828415",
-                "stop_lon": "-122.267227",
-                "stop_name": "MacArthur",
-                "stop_url": "http://www.bart.gov/stations/MCAR/",
-                "zone_id": "MCAR"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9n-fremont:richmond"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.38666,
-                37.599787,
-                -122.38666,
-                37.599787
-            ],
-            "geohash": "9q8vzhbf8h",
             "geometry": {
                 "coordinates": [
                     -122.38666,
@@ -1193,96 +351,63 @@
                 ],
                 "type": "Point"
             },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-MLBR",
+                    "stop_desc": "",
+                    "stop_id": "MLBR",
+                    "stop_lat": "37.599787",
+                    "stop_lon": "-122.38666",
+                    "stop_name": "Millbrae",
+                    "stop_url": "http://www.bart.gov/stations/MLBR/",
+                    "zone_id": "MLBR"
+                }
+            ],
             "name": "Millbrae",
             "onestopId": "s-9q8vzhbf8h-millbrae",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "MLBR",
-                "stop_lat": "37.599787",
-                "stop_lon": "-122.38666",
-                "stop_name": "Millbrae",
-                "stop_url": "http://www.bart.gov/stations/MLBR/",
-                "zone_id": "MLBR"
-            },
-            "serves": [
-                "r-9q8y-richmond:dalycity:millbrae",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q8y-richmond:dalycity:millbrae"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.251793,
-                37.844601,
-                -122.251793,
-                37.844601
-            ],
-            "geohash": "9q9p616uyb",
             "geometry": {
                 "coordinates": [
-                    -122.251793,
-                    37.844601
+                    -122.197273,
+                    37.754006
                 ],
                 "type": "Point"
             },
-            "name": "Rockridge",
-            "onestopId": "s-9q9p616uyb-rockridge",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "ROCK",
-                "stop_lat": "37.844601",
-                "stop_lon": "-122.251793",
-                "stop_name": "Rockridge",
-                "stop_url": "http://www.bart.gov/stations/ROCK/",
-                "zone_id": "ROCK"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-COLS",
+                    "stop_desc": "",
+                    "stop_id": "COLS",
+                    "stop_lat": "37.754006",
+                    "stop_lon": "-122.197273",
+                    "stop_name": "Coliseum/Oakland Airport",
+                    "stop_url": "http://www.bart.gov/stations/COLS/",
+                    "zone_id": "COLS"
+                }
             ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.401407,
-                37.789256,
-                -122.401407,
-                37.789256
-            ],
-            "geohash": "9q8yyxq427",
-            "geometry": {
-                "coordinates": [
-                    -122.401407,
-                    37.789256
-                ],
-                "type": "Point"
-            },
-            "name": "Montgomery St.",
-            "onestopId": "s-9q8yyxq427-montgomeryst",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "MONT",
-                "stop_lat": "37.789256",
-                "stop_lon": "-122.401407",
-                "stop_name": "Montgomery St.",
-                "stop_url": "http://www.bart.gov/stations/MONT/",
-                "zone_id": "MONT"
-            },
-            "serves": [
+            "name": "Coliseum/Oakland Airport",
+            "onestopId": "s-9q9ng2ftj0-coliseum:oaklandairport",
+            "properties": {},
+            "servedBy": [
                 "r-9q9n-dublin:pleasanton:dalycity",
-                "r-9q8y-richmond:dalycity:millbrae",
                 "r-9q9n-fremont:dalycity",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+                "r-9q9n-fremont:richmond",
+                "r-9q9ne-coliseum:oaklandintlairport"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.283451,
-                37.87404,
-                -122.283451,
-                37.87404
-            ],
-            "geohash": "9q9p3qgbm0",
             "geometry": {
                 "coordinates": [
                     -122.283451,
@@ -1290,126 +415,188 @@
                 ],
                 "type": "Point"
             },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-NBRK",
+                    "stop_desc": "",
+                    "stop_id": "NBRK",
+                    "stop_lat": "37.87404",
+                    "stop_lon": "-122.283451",
+                    "stop_name": "North Berkeley",
+                    "stop_url": "http://www.bart.gov/stations/NBRK/",
+                    "zone_id": "NBRK"
+                }
+            ],
             "name": "North Berkeley",
             "onestopId": "s-9q9p3qgbm0-northberkeley",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "NBRK",
-                "stop_lat": "37.87404",
-                "stop_lon": "-122.283451",
-                "stop_name": "North Berkeley",
-                "stop_url": "http://www.bart.gov/stations/NBRK/",
-                "zone_id": "NBRK"
+            "properties": {},
+            "servedBy": [
+                "r-9q8y-richmond:dalycity:millbrae",
+                "r-9q9n-fremont:richmond"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.418466,
+                    37.752254
+                ],
+                "type": "Point"
             },
-            "serves": [
-                "r-9q9n-fremont:richmond",
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-24TH",
+                    "stop_desc": "",
+                    "stop_id": "24TH",
+                    "stop_lat": "37.752254",
+                    "stop_lon": "-122.418466",
+                    "stop_name": "24th St. Mission",
+                    "stop_url": "http://www.bart.gov/stations/24TH/",
+                    "zone_id": "24TH"
+                }
+            ],
+            "name": "24th St. Mission",
+            "onestopId": "s-9q8yy29dff-24thstmission",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
                 "r-9q8y-richmond:dalycity:millbrae"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -121.928099,
-                37.699759,
-                -121.928099,
-                37.699759
-            ],
-            "geohash": "9q9q3rn9j2",
             "geometry": {
                 "coordinates": [
-                    -121.928099,
-                    37.699759
+                    -122.26978,
+                    37.853024
                 ],
                 "type": "Point"
             },
-            "name": "West Dublin/Pleasanton",
-            "onestopId": "s-9q9q3rn9j2-westdublin:pleasanton",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "WDUB",
-                "stop_lat": "37.699759",
-                "stop_lon": "-121.928099",
-                "stop_name": "West Dublin/Pleasanton",
-                "stop_url": "http://www.bart.gov/stations/WDUB/",
-                "zone_id": "WDUB"
-            },
-            "serves": [
-                "r-9q9n-dublin:pleasanton:dalycity"
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-ASHB",
+                    "stop_desc": "",
+                    "stop_id": "ASHB",
+                    "stop_lat": "37.853024",
+                    "stop_lon": "-122.26978",
+                    "stop_name": "Ashby",
+                    "stop_url": "http://www.bart.gov/stations/ASHB/",
+                    "zone_id": "ASHB"
+                }
             ],
+            "name": "Ashby",
+            "onestopId": "s-9q9p3dvvge-ashby",
+            "properties": {},
+            "servedBy": [
+                "r-9q8y-richmond:dalycity:millbrae",
+                "r-9q9n-fremont:richmond"
+            ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.1837911,
-                37.87836087,
-                -122.1837911,
-                37.87836087
-            ],
-            "geohash": "9q9p7xs3rq",
             "geometry": {
                 "coordinates": [
-                    -122.1837911,
-                    37.87836087
+                    -122.251793,
+                    37.844601
                 ],
                 "type": "Point"
             },
-            "name": "Orinda",
-            "onestopId": "s-9q9p7xs3rq-orinda",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "ORIN",
-                "stop_lat": "37.87836087",
-                "stop_lon": "-122.1837911",
-                "stop_name": "Orinda",
-                "stop_url": "http://www.bart.gov/stations/ORIN/",
-                "zone_id": "ORIN"
-            },
-            "serves": [
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-ROCK",
+                    "stop_desc": "",
+                    "stop_id": "ROCK",
+                    "stop_lat": "37.844601",
+                    "stop_lon": "-122.251793",
+                    "stop_name": "Rockridge",
+                    "stop_url": "http://www.bart.gov/stations/ROCK/",
+                    "zone_id": "ROCK"
+                }
+            ],
+            "name": "Rockridge",
+            "onestopId": "s-9q9p616uyb-rockridge",
+            "properties": {},
+            "servedBy": [
                 "r-9q9-pittsburg:baypoint:sfia:millbrae"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.271604,
-                37.803664,
-                -122.271604,
-                37.803664
-            ],
-            "geohash": "9q9p19uw31",
             "geometry": {
                 "coordinates": [
-                    -122.271604,
-                    37.803664
+                    -122.2992715,
+                    37.9030588
                 ],
                 "type": "Point"
             },
-            "name": "12th St. Oakland City Center",
-            "onestopId": "s-9q9p19uw31-12thstoaklandcitycenter",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "12TH",
-                "stop_lat": "37.803664",
-                "stop_lon": "-122.271604",
-                "stop_name": "12th St. Oakland City Center",
-                "stop_url": "http://www.bart.gov/stations/12TH/",
-                "zone_id": "12TH"
-            },
-            "serves": [
-                "r-9q9n-fremont:richmond",
-                "r-9q9-pittsburg:baypoint:sfia:millbrae",
-                "r-9q8y-richmond:dalycity:millbrae"
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-PLZA",
+                    "stop_desc": "",
+                    "stop_id": "PLZA",
+                    "stop_lat": "37.9030588",
+                    "stop_lon": "-122.2992715",
+                    "stop_name": "El Cerrito Plaza",
+                    "stop_url": "http://www.bart.gov/stations/PLZA/",
+                    "zone_id": "PLZA"
+                }
             ],
+            "name": "El Cerrito Plaza",
+            "onestopId": "s-9q9p9h03k6-elcerritoplaza",
+            "properties": {},
+            "servedBy": [
+                "r-9q8y-richmond:dalycity:millbrae",
+                "r-9q9n-fremont:richmond"
+            ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.017867,
-                37.591208,
-                -122.017867,
-                37.591208
+            "geometry": {
+                "coordinates": [
+                    -122.4474142,
+                    37.72198087
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-BALB",
+                    "stop_desc": "",
+                    "stop_id": "BALB",
+                    "stop_lat": "37.72198087",
+                    "stop_lon": "-122.4474142",
+                    "stop_name": "Balboa Park",
+                    "stop_url": "http://www.bart.gov/stations/BALB/",
+                    "zone_id": "BALB"
+                }
             ],
-            "geohash": "9q9jz7m29t",
+            "name": "Balboa Park",
+            "onestopId": "s-9q8ytehd2q-balboapark",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
             "geometry": {
                 "coordinates": [
                     -122.017867,
@@ -1417,93 +604,94 @@
                 ],
                 "type": "Point"
             },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-UCTY",
+                    "stop_desc": "",
+                    "stop_id": "UCTY",
+                    "stop_lat": "37.591208",
+                    "stop_lon": "-122.017867",
+                    "stop_name": "Union City",
+                    "stop_url": "http://www.bart.gov/stations/UCTY/",
+                    "zone_id": "UCTY"
+                }
+            ],
             "name": "Union City",
             "onestopId": "s-9q9jz7m29t-unioncity",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "UCTY",
-                "stop_lat": "37.591208",
-                "stop_lon": "-122.017867",
-                "stop_name": "Union City",
-                "stop_url": "http://www.bart.gov/stations/UCTY/",
-                "zone_id": "UCTY"
-            },
-            "serves": [
+            "properties": {},
+            "servedBy": [
                 "r-9q9n-fremont:richmond",
                 "r-9q9n-fremont:dalycity"
             ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.21244024,
-                37.71297174,
-                -122.21244024,
-                37.71297174
-            ],
-            "geohash": "9q9ndcrtgx",
             "geometry": {
                 "coordinates": [
-                    -122.21244024,
-                    37.71297174
+                    -122.444116,
+                    37.664174
                 ],
                 "type": "Point"
             },
-            "name": "Oakland Int'l Airport",
-            "onestopId": "s-9q9ndcrtgx-oaklandintlairport",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "OAKL",
-                "stop_lat": "37.71297174",
-                "stop_lon": "-122.21244024",
-                "stop_name": "Oakland Int'l Airport",
-                "stop_url": "http://www.bart.gov/stations/OAKL/",
-                "zone_id": "OAKL"
-            },
-            "serves": [
-                "r-9q9ne-coliseum:oaklandintlairport"
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-SSAN",
+                    "stop_desc": "",
+                    "stop_id": "SSAN",
+                    "stop_lat": "37.664174",
+                    "stop_lon": "-122.444116",
+                    "stop_name": "South San Francisco",
+                    "stop_url": "http://www.bart.gov/stations/SSAN/",
+                    "zone_id": "SSAN"
+                }
             ],
+            "name": "South San Francisco",
+            "onestopId": "s-9q8ym8wctq-southsanfrancisco",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -121.945154,
-                38.018914,
-                -121.945154,
-                38.018914
-            ],
-            "geohash": "9qc2314hpz",
             "geometry": {
                 "coordinates": [
-                    -121.945154,
-                    38.018914
+                    -122.2945822,
+                    37.80467476
                 ],
                 "type": "Point"
             },
-            "name": "Pittsburg/Bay Point",
-            "onestopId": "s-9qc2314hpz-pittsburg:baypoint",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "PITT",
-                "stop_lat": "38.018914",
-                "stop_lon": "-121.945154",
-                "stop_name": "Pittsburg/Bay Point",
-                "stop_url": "http://www.bart.gov/stations/PITT/",
-                "zone_id": "PITT"
-            },
-            "serves": [
-                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-WOAK",
+                    "stop_desc": "",
+                    "stop_id": "WOAK",
+                    "stop_lat": "37.80467476",
+                    "stop_lon": "-122.2945822",
+                    "stop_name": "West Oakland",
+                    "stop_url": "http://www.bart.gov/stations/WOAK/",
+                    "zone_id": "WOAK"
+                }
             ],
+            "name": "West Oakland",
+            "onestopId": "s-9q9p145u1w-westoakland",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         },
         {
-            "bbox": [
-                -122.416038,
-                37.637753,
-                -122.416038,
-                37.637753
-            ],
-            "geohash": "9q8yn7erg9",
             "geometry": {
                 "coordinates": [
                     -122.416038,
@@ -1511,1179 +699,1009 @@
                 ],
                 "type": "Point"
             },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-SBRN",
+                    "stop_desc": "",
+                    "stop_id": "SBRN",
+                    "stop_lat": "37.637753",
+                    "stop_lon": "-122.416038",
+                    "stop_name": "San Bruno",
+                    "stop_url": "http://www.bart.gov/stations/SBRN/",
+                    "zone_id": "SBRN"
+                }
+            ],
             "name": "San Bruno",
             "onestopId": "s-9q8yn7erg9-sanbruno",
-            "properties": {
-                "stop_desc": "",
-                "stop_id": "SBRN",
-                "stop_lat": "37.637753",
-                "stop_lon": "-122.416038",
-                "stop_name": "San Bruno",
-                "stop_url": "http://www.bart.gov/stations/SBRN/",
-                "zone_id": "SBRN"
-            },
-            "serves": [
+            "properties": {},
+            "servedBy": [
                 "r-9q9-pittsburg:baypoint:sfia:millbrae",
                 "r-9q8y-richmond:dalycity:millbrae"
             ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.9764,
+                    37.557355
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-FRMT",
+                    "stop_desc": "",
+                    "stop_id": "FRMT",
+                    "stop_lat": "37.557355",
+                    "stop_lon": "-121.9764",
+                    "stop_name": "Fremont",
+                    "stop_url": "http://www.bart.gov/stations/FRMT/",
+                    "zone_id": "FRMT"
+                }
+            ],
+            "name": "Fremont",
+            "onestopId": "s-9q9m8m57ry-fremont",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.265609,
+                    37.797484
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-LAKE",
+                    "stop_desc": "",
+                    "stop_id": "LAKE",
+                    "stop_lat": "37.797484",
+                    "stop_lon": "-122.265609",
+                    "stop_name": "Lake Merritt",
+                    "stop_url": "http://www.bart.gov/stations/LAKE/",
+                    "zone_id": "LAKE"
+                }
+            ],
+            "name": "Lake Merritt",
+            "onestopId": "s-9q9p1bbfkc-lakemerritt",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.317269,
+                    37.925655
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-DELN",
+                    "stop_desc": "",
+                    "stop_id": "DELN",
+                    "stop_lat": "37.925655",
+                    "stop_lon": "-122.317269",
+                    "stop_name": "El Cerrito del Norte",
+                    "stop_url": "http://www.bart.gov/stations/DELN/",
+                    "zone_id": "DELN"
+                }
+            ],
+            "name": "El Cerrito del Norte",
+            "onestopId": "s-9q9pb85kcn-elcerritodelnorte",
+            "properties": {},
+            "servedBy": [
+                "r-9q8y-richmond:dalycity:millbrae",
+                "r-9q9n-fremont:richmond"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.126871,
+                    37.697185
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-BAYF",
+                    "stop_desc": "",
+                    "stop_id": "BAYF",
+                    "stop_lat": "37.697185",
+                    "stop_lon": "-122.126871",
+                    "stop_name": "Bay Fair",
+                    "stop_url": "http://www.bart.gov/stations/BAYF/",
+                    "zone_id": "BAYF"
+                }
+            ],
+            "name": "Bay Fair",
+            "onestopId": "s-9q9nkytfj8-bayfair",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.029095,
+                    37.973737
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-CONC",
+                    "stop_desc": "",
+                    "stop_id": "CONC",
+                    "stop_lat": "37.973737",
+                    "stop_lon": "-122.029095",
+                    "stop_name": "Concord",
+                    "stop_url": "http://www.bart.gov/stations/CONC/",
+                    "zone_id": "CONC"
+                }
+            ],
+            "name": "Concord",
+            "onestopId": "s-9qc0p0vj5c-concord",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.401407,
+                    37.789256
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-MONT",
+                    "stop_desc": "",
+                    "stop_id": "MONT",
+                    "stop_lat": "37.789256",
+                    "stop_lon": "-122.401407",
+                    "stop_name": "Montgomery St.",
+                    "stop_url": "http://www.bart.gov/stations/MONT/",
+                    "zone_id": "MONT"
+                }
+            ],
+            "name": "Montgomery St.",
+            "onestopId": "s-9q8yyxq427-montgomeryst",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.900367,
+                    37.701695
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-DUBL",
+                    "stop_desc": "",
+                    "stop_id": "DUBL",
+                    "stop_lat": "37.701695",
+                    "stop_lon": "-121.900367",
+                    "stop_name": "Dublin/Pleasanton",
+                    "stop_url": "http://www.bart.gov/stations/DUBL/",
+                    "zone_id": "DUBL"
+                }
+            ],
+            "name": "Dublin/Pleasanton",
+            "onestopId": "s-9q9q6p6u79-dublin:pleasanton",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.075567,
+                    37.690754
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-CAST",
+                    "stop_desc": "",
+                    "stop_id": "CAST",
+                    "stop_lat": "37.690754",
+                    "stop_lon": "-122.075567",
+                    "stop_name": "Castro Valley",
+                    "stop_url": "http://www.bart.gov/stations/CAST/",
+                    "zone_id": "CAST"
+                }
+            ],
+            "name": "Castro Valley",
+            "onestopId": "s-9q9nqj7k91-castrovalley",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.466233,
+                    37.684638
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-COLM",
+                    "stop_desc": "",
+                    "stop_id": "COLM",
+                    "stop_lat": "37.684638",
+                    "stop_lon": "-122.466233",
+                    "stop_name": "Colma",
+                    "stop_url": "http://www.bart.gov/stations/COLM/",
+                    "zone_id": "COLM"
+                }
+            ],
+            "name": "Colma",
+            "onestopId": "s-9q8ymhqbcv-colma",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.396742,
+                    37.792976
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-EMBR",
+                    "stop_desc": "",
+                    "stop_id": "EMBR",
+                    "stop_lat": "37.792976",
+                    "stop_lon": "-122.396742",
+                    "stop_name": "Embarcadero",
+                    "stop_url": "http://www.bart.gov/stations/EMBR/",
+                    "zone_id": "EMBR"
+                }
+            ],
+            "name": "Embarcadero",
+            "onestopId": "s-9q8znb12j1-embarcadero",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.224274,
+                    37.774963
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-FTVL",
+                    "stop_desc": "",
+                    "stop_id": "FTVL",
+                    "stop_lat": "37.774963",
+                    "stop_lon": "-122.224274",
+                    "stop_name": "Fruitvale",
+                    "stop_url": "http://www.bart.gov/stations/FTVL/",
+                    "zone_id": "FTVL"
+                }
+            ],
+            "name": "Fruitvale",
+            "onestopId": "s-9q9nfswzpg-fruitvale",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.271604,
+                    37.803664
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-12TH",
+                    "stop_desc": "",
+                    "stop_id": "12TH",
+                    "stop_lat": "37.803664",
+                    "stop_lon": "-122.271604",
+                    "stop_name": "12th St. Oakland City Center",
+                    "stop_url": "http://www.bart.gov/stations/12TH/",
+                    "zone_id": "12TH"
+                }
+            ],
+            "name": "12th St. Oakland City Center",
+            "onestopId": "s-9q9p19uw31-12thstoaklandcitycenter",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-fremont:richmond",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.945154,
+                    38.018914
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-PITT",
+                    "stop_desc": "",
+                    "stop_id": "PITT",
+                    "stop_lat": "38.018914",
+                    "stop_lon": "-121.945154",
+                    "stop_name": "Pittsburg/Bay Point",
+                    "stop_url": "http://www.bart.gov/stations/PITT/",
+                    "zone_id": "PITT"
+                }
+            ],
+            "name": "Pittsburg/Bay Point",
+            "onestopId": "s-9qc2314hpz-pittsburg:baypoint",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.056013,
+                    37.928403
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-PHIL",
+                    "stop_desc": "",
+                    "stop_id": "PHIL",
+                    "stop_lat": "37.928403",
+                    "stop_lon": "-122.056013",
+                    "stop_name": "Pleasant Hill/Contra Costa Centre",
+                    "stop_url": "http://www.bart.gov/stations/PHIL/",
+                    "zone_id": "PHIL"
+                }
+            ],
+            "name": "Pleasant Hill/Contra Costa Centre",
+            "onestopId": "s-9q9py89sby-pleasanthill:contracostacentre",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.269029,
+                    37.80787
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-19TH",
+                    "stop_desc": "",
+                    "stop_id": "19TH",
+                    "stop_lat": "37.80787",
+                    "stop_lon": "-122.269029",
+                    "stop_name": "19th St. Oakland",
+                    "stop_url": "http://www.bart.gov/stations/19TH/",
+                    "zone_id": "19TH"
+                },
+                {
+                    "identifier": "f-bayarearapidtransit-s-19TH_N",
+                    "stop_desc": "",
+                    "stop_id": "19TH_N",
+                    "stop_lat": "37.80787",
+                    "stop_lon": "-122.269029",
+                    "stop_name": "19th St. Oakland",
+                    "stop_url": "http://www.bart.gov/stations/19TH/",
+                    "zone_id": "19TH"
+                }
+            ],
+            "name": "19th St. Oakland",
+            "onestopId": "s-9q9p1dwqv1-19thstoakland",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-fremont:richmond",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.067423,
+                    37.905628
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-WCRK",
+                    "stop_desc": "",
+                    "stop_id": "WCRK",
+                    "stop_lat": "37.905628",
+                    "stop_lon": "-122.067423",
+                    "stop_name": "Walnut Creek",
+                    "stop_url": "http://www.bart.gov/stations/WCRK/",
+                    "zone_id": "WCRK"
+                }
+            ],
+            "name": "Walnut Creek",
+            "onestopId": "s-9q9pwk90qc-walnutcreek",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.434092,
+                    37.732921
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-GLEN",
+                    "stop_desc": "",
+                    "stop_id": "GLEN",
+                    "stop_lat": "37.732921",
+                    "stop_lon": "-122.434092",
+                    "stop_name": "Glen Park",
+                    "stop_url": "http://www.bart.gov/stations/GLEN/",
+                    "zone_id": "GLEN"
+                }
+            ],
+            "name": "Glen Park",
+            "onestopId": "s-9q8ytvn4ny-glenpark",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.087967,
+                    37.670399
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-HAYW",
+                    "stop_desc": "",
+                    "stop_id": "HAYW",
+                    "stop_lat": "37.670399",
+                    "stop_lon": "-122.087967",
+                    "stop_name": "Hayward",
+                    "stop_url": "http://www.bart.gov/stations/HAYW/",
+                    "zone_id": "HAYW"
+                }
+            ],
+            "name": "Hayward",
+            "onestopId": "s-9q9nmcdmbp-hayward",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.0575506,
+                    37.63479954
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-SHAY",
+                    "stop_desc": "",
+                    "stop_id": "SHAY",
+                    "stop_lat": "37.63479954",
+                    "stop_lon": "-122.0575506",
+                    "stop_name": "South Hayward",
+                    "stop_url": "http://www.bart.gov/stations/SHAY/",
+                    "zone_id": "SHAY"
+                }
+            ],
+            "name": "South Hayward",
+            "onestopId": "s-9q9nne0qsg-southhayward",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.392612,
+                    37.616035
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-SFIA",
+                    "stop_desc": "",
+                    "stop_id": "SFIA",
+                    "stop_lat": "37.616035",
+                    "stop_lon": "-122.392612",
+                    "stop_name": "San Francisco Int'l Airport",
+                    "stop_url": "http://www.bart.gov/stations/SFIA/",
+                    "zone_id": "SFIA"
+                }
+            ],
+            "name": "San Francisco Int'l Airport",
+            "onestopId": "s-9q8vyzu3m3-sanfranciscointlairport",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.1837911,
+                    37.87836087
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-ORIN",
+                    "stop_desc": "",
+                    "stop_id": "ORIN",
+                    "stop_lat": "37.87836087",
+                    "stop_lon": "-122.1837911",
+                    "stop_name": "Orinda",
+                    "stop_url": "http://www.bart.gov/stations/ORIN/",
+                    "zone_id": "ORIN"
+                }
+            ],
+            "name": "Orinda",
+            "onestopId": "s-9q9p7xs3rq-orinda",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.024597,
+                    38.003275
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-NCON",
+                    "stop_desc": "",
+                    "stop_id": "NCON",
+                    "stop_lat": "38.003275",
+                    "stop_lon": "-122.024597",
+                    "stop_name": "North Concord/Martinez",
+                    "stop_url": "http://www.bart.gov/stations/NCON/",
+                    "zone_id": "NCON"
+                }
+            ],
+            "name": "North Concord/Martinez",
+            "onestopId": "s-9qc0pq23hg-northconcord:martinez",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.928099,
+                    37.699759
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-WDUB",
+                    "stop_desc": "",
+                    "stop_id": "WDUB",
+                    "stop_lat": "37.699759",
+                    "stop_lon": "-121.928099",
+                    "stop_name": "West Dublin/Pleasanton",
+                    "stop_url": "http://www.bart.gov/stations/WDUB/",
+                    "zone_id": "WDUB"
+                }
+            ],
+            "name": "West Dublin/Pleasanton",
+            "onestopId": "s-9q9q3rn9j2-westdublin:pleasanton",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.21244024,
+                    37.71297174
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-OAKL",
+                    "stop_desc": "",
+                    "stop_id": "OAKL",
+                    "stop_lat": "37.71297174",
+                    "stop_lon": "-122.21244024",
+                    "stop_name": "Oakland Int'l Airport",
+                    "stop_url": "http://www.bart.gov/stations/OAKL/",
+                    "zone_id": "OAKL"
+                }
+            ],
+            "name": "Oakland Int'l Airport",
+            "onestopId": "s-9q9ndcrtgx-oaklandintlairport",
+            "properties": {},
+            "servedBy": [
+                "r-9q9ne-coliseum:oaklandintlairport"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.1613112,
+                    37.72261921
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-SANL",
+                    "stop_desc": "",
+                    "stop_id": "SANL",
+                    "stop_lat": "37.72261921",
+                    "stop_lon": "-122.1613112",
+                    "stop_name": "San Leandro",
+                    "stop_url": "http://www.bart.gov/stations/SANL/",
+                    "zone_id": "SANL"
+                }
+            ],
+            "name": "San Leandro",
+            "onestopId": "s-9q9ns5hy5j-sanleandro",
+            "properties": {},
+            "servedBy": [
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:richmond",
+                "r-9q9n-fremont:dalycity"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.406857,
+                    37.784991
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-POWL",
+                    "stop_desc": "",
+                    "stop_id": "POWL",
+                    "stop_lat": "37.784991",
+                    "stop_lon": "-122.406857",
+                    "stop_name": "Powell St.",
+                    "stop_url": "http://www.bart.gov/stations/POWL/",
+                    "zone_id": "POWL"
+                }
+            ],
+            "name": "Powell St.",
+            "onestopId": "s-9q8yywd198-powellst",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.413756,
+                    37.779528
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-CIVC",
+                    "stop_desc": "",
+                    "stop_id": "CIVC",
+                    "stop_lat": "37.779528",
+                    "stop_lon": "-122.413756",
+                    "stop_name": "Civic Center/UN Plaza",
+                    "stop_url": "http://www.bart.gov/stations/CIVC/",
+                    "zone_id": "CIVC"
+                }
+            ],
+            "name": "Civic Center/UN Plaza",
+            "onestopId": "s-9q8yymt18w-civiccenter:unplaza",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4690807,
+                    37.70612055
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-DALY",
+                    "stop_desc": "",
+                    "stop_id": "DALY",
+                    "stop_lat": "37.70612055",
+                    "stop_lon": "-122.4690807",
+                    "stop_name": "Daly City",
+                    "stop_url": "http://www.bart.gov/stations/DALY/",
+                    "zone_id": "DALY"
+                }
+            ],
+            "name": "Daly City",
+            "onestopId": "s-9q8yt0hwpd-dalycity",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.419694,
+                    37.765062
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-16TH",
+                    "stop_desc": "",
+                    "stop_id": "16TH",
+                    "stop_lat": "37.765062",
+                    "stop_lon": "-122.419694",
+                    "stop_name": "16th St. Mission",
+                    "stop_url": "http://www.bart.gov/stations/16TH/",
+                    "zone_id": "16TH"
+                }
+            ],
+            "name": "16th St. Mission",
+            "onestopId": "s-9q8yy6btqm-16thstmission",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae",
+                "r-9q9n-dublin:pleasanton:dalycity",
+                "r-9q9n-fremont:dalycity",
+                "r-9q8y-richmond:dalycity:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.123801,
+                    37.893394
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-LAFY",
+                    "stop_desc": "",
+                    "stop_id": "LAFY",
+                    "stop_lat": "37.893394",
+                    "stop_lon": "-122.123801",
+                    "stop_name": "Lafayette",
+                    "stop_url": "http://www.bart.gov/stations/LAFY/",
+                    "zone_id": "LAFY"
+                }
+            ],
+            "name": "Lafayette",
+            "onestopId": "s-9q9pt421j0-lafayette",
+            "properties": {},
+            "servedBy": [
+                "r-9q9-pittsburg:baypoint:sfia:millbrae"
+            ],
+            "serves": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.268045,
+                    37.869867
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bayarearapidtransit-s-DBRK",
+                    "stop_desc": "",
+                    "stop_id": "DBRK",
+                    "stop_lat": "37.869867",
+                    "stop_lon": "-122.268045",
+                    "stop_name": "Downtown Berkeley",
+                    "stop_url": "http://www.bart.gov/stations/DBRK/",
+                    "zone_id": "DBRK"
+                }
+            ],
+            "name": "Downtown Berkeley",
+            "onestopId": "s-9q9p3tzpun-downtownberkeley",
+            "properties": {},
+            "servedBy": [
+                "r-9q8y-richmond:dalycity:millbrae",
+                "r-9q9n-fremont:richmond"
+            ],
+            "serves": [],
+            "tags": {},
             "type": "Feature"
         }
     ],
-    "geohash": "9q9",
-    "name": "Bay Area Rapid Transit",
-    "onestopId": "o-9q9-bayarearapidtransit",
-    "properties": {
-        "agency_id": "BART",
-        "agency_lang": "en",
-        "agency_name": "Bay Area Rapid Transit",
-        "agency_timezone": "America/Los_Angeles",
-        "agency_url": "http://www.bart.gov"
-    },
-    "routes": [
-        {
-            "bbox": [
-                -122.4690807,
-                37.599787,
-                -122.267227,
-                37.936887
-            ],
-            "geohash": "9q8y",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -122.353165,
-                            37.936887
-                        ],
-                        [
-                            -122.317269,
-                            37.925655
-                        ],
-                        [
-                            -122.2992715,
-                            37.9030588
-                        ],
-                        [
-                            -122.283451,
-                            37.87404
-                        ],
-                        [
-                            -122.268045,
-                            37.869867
-                        ],
-                        [
-                            -122.26978,
-                            37.853024
-                        ],
-                        [
-                            -122.267227,
-                            37.828415
-                        ],
-                        [
-                            -122.269029,
-                            37.80787
-                        ],
-                        [
-                            -122.271604,
-                            37.803664
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ],
-                        [
-                            -122.466233,
-                            37.684638
-                        ],
-                        [
-                            -122.444116,
-                            37.664174
-                        ],
-                        [
-                            -122.416038,
-                            37.637753
-                        ],
-                        [
-                            -122.38666,
-                            37.599787
-                        ]
-                    ],
-                    [
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.271604,
-                            37.803664
-                        ],
-                        [
-                            -122.269029,
-                            37.80787
-                        ],
-                        [
-                            -122.267227,
-                            37.828415
-                        ],
-                        [
-                            -122.26978,
-                            37.853024
-                        ],
-                        [
-                            -122.268045,
-                            37.869867
-                        ],
-                        [
-                            -122.283451,
-                            37.87404
-                        ],
-                        [
-                            -122.2992715,
-                            37.9030588
-                        ],
-                        [
-                            -122.317269,
-                            37.925655
-                        ],
-                        [
-                            -122.353165,
-                            37.936887
-                        ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            },
-            "name": "Richmond - Daly City/Millbrae",
-            "onestopId": "r-9q8y-richmond:dalycity:millbrae",
-            "properties": {
-                "agency_id": "BART",
-                "route_color": "ff0000",
-                "route_desc": "",
-                "route_id": "07",
-                "route_long_name": "Richmond - Daly City/Millbrae",
-                "route_short_name": "",
-                "route_text_color": "",
-                "route_type": "1",
-                "route_url": "http://www.bart.gov/schedules/bylineresults?route=7"
-            },
-            "serves": [
-                "s-9q9p1dwqv1-19thstoakland",
-                "s-9q9p1dwqv1-19thstoakland",
-                "s-9q8znb12j1-embarcadero",
-                "s-9q8yymt18w-civiccenter:unplaza",
-                "s-9q8zzf1nks-richmond",
-                "s-9q9p3dvvge-ashby",
-                "s-9q8ytehd2q-balboapark",
-                "s-9q8yn7erg9-sanbruno",
-                "s-9q9p9h03k6-elcerritoplaza",
-                "s-9q8yt0hwpd-dalycity",
-                "s-9q8ymhqbcv-colma",
-                "s-9q8vzhbf8h-millbrae",
-                "s-9q9p1wrwrp-macarthur",
-                "s-9q8ym8wctq-southsanfrancisco",
-                "s-9q9p3tzpun-downtownberkeley",
-                "s-9q8yyxq427-montgomeryst",
-                "s-9q9p3qgbm0-northberkeley",
-                "s-9q9p1wrwrp-macarthur",
-                "s-9q9p145u1w-westoakland",
-                "s-9q8ytvn4ny-glenpark",
-                "s-9q9p19uw31-12thstoaklandcitycenter",
-                "s-9q8yywd198-powellst",
-                "s-9q8yy29dff-24thstmission",
-                "s-9q8yy6btqm-16thstmission",
-                "s-9q9pb85kcn-elcerritodelnorte"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.21244024,
-                37.71297174,
-                -122.197273,
-                37.754006
-            ],
-            "geohash": "9q9ne",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -122.21244024,
-                            37.71297174
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ]
-                    ],
-                    [
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.21244024,
-                            37.71297174
-                        ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            },
-            "name": "Coliseum - Oakland Int'l Airport",
-            "onestopId": "r-9q9ne-coliseum:oaklandintlairport",
-            "properties": {
-                "agency_id": "BART",
-                "route_color": "d5cfa3",
-                "route_desc": "",
-                "route_id": "19",
-                "route_long_name": "Coliseum - Oakland Int'l Airport",
-                "route_short_name": "",
-                "route_text_color": "",
-                "route_type": "1",
-                "route_url": "http://www.bart.gov/schedules/bylineresults?route=19"
-            },
-            "serves": [
-                "s-9q9ndcrtgx-oaklandintlairport",
-                "s-9q9ng2ftj0-coliseum:oaklandairport"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.4690807,
-                37.690754,
-                -121.900367,
-                37.80467476
-            ],
-            "geohash": "9q9n",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -121.900367,
-                            37.701695
-                        ],
-                        [
-                            -121.928099,
-                            37.699759
-                        ],
-                        [
-                            -122.075567,
-                            37.690754
-                        ],
-                        [
-                            -122.126871,
-                            37.697185
-                        ],
-                        [
-                            -122.1613112,
-                            37.72261921
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.224274,
-                            37.774963
-                        ],
-                        [
-                            -122.265609,
-                            37.797484
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ]
-                    ],
-                    [
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.265609,
-                            37.797484
-                        ],
-                        [
-                            -122.224274,
-                            37.774963
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.1613112,
-                            37.72261921
-                        ],
-                        [
-                            -122.126871,
-                            37.697185
-                        ],
-                        [
-                            -122.075567,
-                            37.690754
-                        ],
-                        [
-                            -121.928099,
-                            37.699759
-                        ],
-                        [
-                            -121.900367,
-                            37.701695
-                        ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            },
-            "name": "Dublin/Pleasanton - Daly City",
-            "onestopId": "r-9q9n-dublin:pleasanton:dalycity",
-            "properties": {
-                "agency_id": "BART",
-                "route_color": "0099cc",
-                "route_desc": "",
-                "route_id": "11",
-                "route_long_name": "Dublin/Pleasanton - Daly City",
-                "route_short_name": "",
-                "route_text_color": "",
-                "route_type": "1",
-                "route_url": "http://www.bart.gov/schedules/bylineresults?route=11"
-            },
-            "serves": [
-                "s-9q8yymt18w-civiccenter:unplaza",
-                "s-9q9ng2ftj0-coliseum:oaklandairport",
-                "s-9q9p1bbfkc-lakemerritt",
-                "s-9q9q6p6u79-dublin:pleasanton",
-                "s-9q8yywd198-powellst",
-                "s-9q8znb12j1-embarcadero",
-                "s-9q9ns5hy5j-sanleandro",
-                "s-9q8yt0hwpd-dalycity",
-                "s-9q8ytvn4ny-glenpark",
-                "s-9q8ytehd2q-balboapark",
-                "s-9q9nkytfj8-bayfair",
-                "s-9q9nqj7k91-castrovalley",
-                "s-9q8yy29dff-24thstmission",
-                "s-9q8yy6btqm-16thstmission",
-                "s-9q9nfswzpg-fruitvale",
-                "s-9q8yyxq427-montgomeryst",
-                "s-9q9p145u1w-westoakland",
-                "s-9q9q3rn9j2-westdublin:pleasanton"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.353165,
-                37.557355,
-                -121.9764,
-                37.936887
-            ],
-            "geohash": "9q9n",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -122.353165,
-                            37.936887
-                        ],
-                        [
-                            -122.317269,
-                            37.925655
-                        ],
-                        [
-                            -122.2992715,
-                            37.9030588
-                        ],
-                        [
-                            -122.283451,
-                            37.87404
-                        ],
-                        [
-                            -122.268045,
-                            37.869867
-                        ],
-                        [
-                            -122.26978,
-                            37.853024
-                        ],
-                        [
-                            -122.267227,
-                            37.828415
-                        ],
-                        [
-                            -122.269029,
-                            37.80787
-                        ],
-                        [
-                            -122.271604,
-                            37.803664
-                        ],
-                        [
-                            -122.265609,
-                            37.797484
-                        ],
-                        [
-                            -122.224274,
-                            37.774963
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.1613112,
-                            37.72261921
-                        ],
-                        [
-                            -122.126871,
-                            37.697185
-                        ],
-                        [
-                            -122.087967,
-                            37.670399
-                        ],
-                        [
-                            -122.0575506,
-                            37.63479954
-                        ],
-                        [
-                            -122.017867,
-                            37.591208
-                        ],
-                        [
-                            -121.9764,
-                            37.557355
-                        ]
-                    ],
-                    [
-                        [
-                            -121.9764,
-                            37.557355
-                        ],
-                        [
-                            -122.017867,
-                            37.591208
-                        ],
-                        [
-                            -122.0575506,
-                            37.63479954
-                        ],
-                        [
-                            -122.087967,
-                            37.670399
-                        ],
-                        [
-                            -122.126871,
-                            37.697185
-                        ],
-                        [
-                            -122.1613112,
-                            37.72261921
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.224274,
-                            37.774963
-                        ],
-                        [
-                            -122.265609,
-                            37.797484
-                        ],
-                        [
-                            -122.271604,
-                            37.803664
-                        ],
-                        [
-                            -122.269029,
-                            37.80787
-                        ],
-                        [
-                            -122.267227,
-                            37.828415
-                        ],
-                        [
-                            -122.26978,
-                            37.853024
-                        ],
-                        [
-                            -122.268045,
-                            37.869867
-                        ],
-                        [
-                            -122.283451,
-                            37.87404
-                        ],
-                        [
-                            -122.2992715,
-                            37.9030588
-                        ],
-                        [
-                            -122.317269,
-                            37.925655
-                        ],
-                        [
-                            -122.353165,
-                            37.936887
-                        ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            },
-            "name": "Fremont - Richmond",
-            "onestopId": "r-9q9n-fremont:richmond",
-            "properties": {
-                "agency_id": "BART",
-                "route_color": "ff9933",
-                "route_desc": "",
-                "route_id": "03",
-                "route_long_name": "Fremont - Richmond",
-                "route_short_name": "",
-                "route_text_color": "",
-                "route_type": "1",
-                "route_url": "http://www.bart.gov/schedules/bylineresults?route=3"
-            },
-            "serves": [
-                "s-9q9nne0qsg-southhayward",
-                "s-9q9m8m57ry-fremont",
-                "s-9q8zzf1nks-richmond",
-                "s-9q9p1dwqv1-19thstoakland",
-                "s-9q9p3tzpun-downtownberkeley",
-                "s-9q9p1dwqv1-19thstoakland",
-                "s-9q9nfswzpg-fruitvale",
-                "s-9q9p1wrwrp-macarthur",
-                "s-9q9p3qgbm0-northberkeley",
-                "s-9q9p1wrwrp-macarthur",
-                "s-9q9p19uw31-12thstoaklandcitycenter",
-                "s-9q9nmcdmbp-hayward",
-                "s-9q9p3dvvge-ashby",
-                "s-9q9nkytfj8-bayfair",
-                "s-9q9p9h03k6-elcerritoplaza",
-                "s-9q9jz7m29t-unioncity",
-                "s-9q9ns5hy5j-sanleandro",
-                "s-9q9p1bbfkc-lakemerritt",
-                "s-9q9pb85kcn-elcerritodelnorte",
-                "s-9q9ng2ftj0-coliseum:oaklandairport"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.4690807,
-                37.599787,
-                -121.945154,
-                38.018914
-            ],
-            "geohash": "9q9",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -121.945154,
-                            38.018914
-                        ],
-                        [
-                            -122.024597,
-                            38.003275
-                        ],
-                        [
-                            -122.029095,
-                            37.973737
-                        ],
-                        [
-                            -122.056013,
-                            37.928403
-                        ],
-                        [
-                            -122.067423,
-                            37.905628
-                        ],
-                        [
-                            -122.123801,
-                            37.893394
-                        ],
-                        [
-                            -122.1837911,
-                            37.87836087
-                        ],
-                        [
-                            -122.251793,
-                            37.844601
-                        ],
-                        [
-                            -122.267227,
-                            37.828415
-                        ],
-                        [
-                            -122.269029,
-                            37.80787
-                        ],
-                        [
-                            -122.271604,
-                            37.803664
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ],
-                        [
-                            -122.466233,
-                            37.684638
-                        ],
-                        [
-                            -122.444116,
-                            37.664174
-                        ],
-                        [
-                            -122.416038,
-                            37.637753
-                        ],
-                        [
-                            -122.392612,
-                            37.616035
-                        ],
-                        [
-                            -122.38666,
-                            37.599787
-                        ]
-                    ],
-                    [
-                        [
-                            -122.392612,
-                            37.616035
-                        ],
-                        [
-                            -122.416038,
-                            37.637753
-                        ],
-                        [
-                            -122.444116,
-                            37.664174
-                        ],
-                        [
-                            -122.466233,
-                            37.684638
-                        ],
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.271604,
-                            37.803664
-                        ],
-                        [
-                            -122.269029,
-                            37.80787
-                        ],
-                        [
-                            -122.267227,
-                            37.828415
-                        ],
-                        [
-                            -122.251793,
-                            37.844601
-                        ],
-                        [
-                            -122.1837911,
-                            37.87836087
-                        ],
-                        [
-                            -122.123801,
-                            37.893394
-                        ],
-                        [
-                            -122.067423,
-                            37.905628
-                        ],
-                        [
-                            -122.056013,
-                            37.928403
-                        ],
-                        [
-                            -122.029095,
-                            37.973737
-                        ],
-                        [
-                            -122.024597,
-                            38.003275
-                        ],
-                        [
-                            -121.945154,
-                            38.018914
-                        ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            },
-            "name": "Pittsburg/Bay Point - SFIA/Millbrae",
-            "onestopId": "r-9q9-pittsburg:baypoint:sfia:millbrae",
-            "properties": {
-                "agency_id": "BART",
-                "route_color": "ffff33",
-                "route_desc": "",
-                "route_id": "01",
-                "route_long_name": "Pittsburg/Bay Point - SFIA/Millbrae",
-                "route_short_name": "",
-                "route_text_color": "",
-                "route_type": "1",
-                "route_url": "http://www.bart.gov/schedules/bylineresults?route=1"
-            },
-            "serves": [
-                "s-9q9p1dwqv1-19thstoakland",
-                "s-9q9p1dwqv1-19thstoakland",
-                "s-9q9py89sby-pleasanthill:contracostacentre",
-                "s-9q8znb12j1-embarcadero",
-                "s-9q8yymt18w-civiccenter:unplaza",
-                "s-9q8ytvn4ny-glenpark",
-                "s-9q8yt0hwpd-dalycity",
-                "s-9q8ytehd2q-balboapark",
-                "s-9q9p1wrwrp-macarthur",
-                "s-9q8yn7erg9-sanbruno",
-                "s-9q8ymhqbcv-colma",
-                "s-9q8vzhbf8h-millbrae",
-                "s-9q9p1wrwrp-macarthur",
-                "s-9qc0p0vj5c-concord",
-                "s-9qc0pq23hg-northconcord:martinez",
-                "s-9q8ym8wctq-southsanfrancisco",
-                "s-9q9p7xs3rq-orinda",
-                "s-9q8yyxq427-montgomeryst",
-                "s-9q9pwk90qc-walnutcreek",
-                "s-9q8vyzu3m3-sanfranciscointlairport",
-                "s-9q9p145u1w-westoakland",
-                "s-9q9p19uw31-12thstoaklandcitycenter",
-                "s-9q8yywd198-powellst",
-                "s-9q8yy29dff-24thstmission",
-                "s-9q8yy6btqm-16thstmission",
-                "s-9q9p616uyb-rockridge",
-                "s-9qc2314hpz-pittsburg:baypoint",
-                "s-9q9pt421j0-lafayette"
-            ],
-            "type": "Feature"
-        },
-        {
-            "bbox": [
-                -122.4690807,
-                37.557355,
-                -121.9764,
-                37.80467476
-            ],
-            "geohash": "9q9n",
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.265609,
-                            37.797484
-                        ],
-                        [
-                            -122.224274,
-                            37.774963
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.1613112,
-                            37.72261921
-                        ],
-                        [
-                            -122.126871,
-                            37.697185
-                        ],
-                        [
-                            -122.087967,
-                            37.670399
-                        ],
-                        [
-                            -122.0575506,
-                            37.63479954
-                        ],
-                        [
-                            -122.017867,
-                            37.591208
-                        ],
-                        [
-                            -121.9764,
-                            37.557355
-                        ]
-                    ],
-                    [
-                        [
-                            -121.9764,
-                            37.557355
-                        ],
-                        [
-                            -122.017867,
-                            37.591208
-                        ],
-                        [
-                            -122.0575506,
-                            37.63479954
-                        ],
-                        [
-                            -122.087967,
-                            37.670399
-                        ],
-                        [
-                            -122.126871,
-                            37.697185
-                        ],
-                        [
-                            -122.1613112,
-                            37.72261921
-                        ],
-                        [
-                            -122.197273,
-                            37.754006
-                        ],
-                        [
-                            -122.224274,
-                            37.774963
-                        ],
-                        [
-                            -122.265609,
-                            37.797484
-                        ],
-                        [
-                            -122.2945822,
-                            37.80467476
-                        ],
-                        [
-                            -122.396742,
-                            37.792976
-                        ],
-                        [
-                            -122.401407,
-                            37.789256
-                        ],
-                        [
-                            -122.406857,
-                            37.784991
-                        ],
-                        [
-                            -122.413756,
-                            37.779528
-                        ],
-                        [
-                            -122.419694,
-                            37.765062
-                        ],
-                        [
-                            -122.418466,
-                            37.752254
-                        ],
-                        [
-                            -122.434092,
-                            37.732921
-                        ],
-                        [
-                            -122.4474142,
-                            37.72198087
-                        ],
-                        [
-                            -122.4690807,
-                            37.70612055
-                        ]
-                    ]
-                ],
-                "type": "MultiLineString"
-            },
-            "name": "Fremont - Daly City",
-            "onestopId": "r-9q9n-fremont:dalycity",
-            "properties": {
-                "agency_id": "BART",
-                "route_color": "339933",
-                "route_desc": "",
-                "route_id": "05",
-                "route_long_name": "Fremont - Daly City",
-                "route_short_name": "",
-                "route_text_color": "",
-                "route_type": "1",
-                "route_url": "http://www.bart.gov/schedules/bylineresults?route=5"
-            },
-            "serves": [
-                "s-9q8yymt18w-civiccenter:unplaza",
-                "s-9q9ng2ftj0-coliseum:oaklandairport",
-                "s-9q9nfswzpg-fruitvale",
-                "s-9q9nne0qsg-southhayward",
-                "s-9q8ytehd2q-balboapark",
-                "s-9q8yywd198-powellst",
-                "s-9q8znb12j1-embarcadero",
-                "s-9q9ns5hy5j-sanleandro",
-                "s-9q8ytvn4ny-glenpark",
-                "s-9q8yt0hwpd-dalycity",
-                "s-9q9nmcdmbp-hayward",
-                "s-9q9nkytfj8-bayfair",
-                "s-9q9jz7m29t-unioncity",
-                "s-9q8yy29dff-24thstmission",
-                "s-9q8yy6btqm-16thstmission",
-                "s-9q9p1bbfkc-lakemerritt",
-                "s-9q8yyxq427-montgomeryst",
-                "s-9q9p145u1w-westoakland",
-                "s-9q9m8m57ry-fremont"
-            ],
-            "type": "Feature"
-        }
-    ],
+    "tags": {},
     "type": "FeatureCollection"
 }
