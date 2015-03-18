@@ -1,0 +1,221 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.392052,
+                            37.795923
+                        ],
+                        [
+                            -122.509188652039,
+                            37.9455469967055
+                        ]
+                    ],
+                    []
+                ],
+                "type": "MultiLineString"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-r-64",
+                    "tags": {
+                        "agency_id": "12",
+                        "route_color": "CC0000",
+                        "route_desc": "",
+                        "route_id": "64",
+                        "route_long_name": "San Francisco / Larkspur",
+                        "route_short_name": "",
+                        "route_text_color": "FFFFFF",
+                        "route_type": "4",
+                        "route_url": "http://www.goldengateferry.org/schedules/Larkspur.php"
+                    }
+                }
+            ],
+            "name": "San Francisco / Larkspur",
+            "onestopId": "r-9q8z-sanfrancisco~larkspur",
+            "operatedBy": "o-9q8z-goldengateferry",
+            "properties": {},
+            "serves": [
+                "s-9q8zu5z8bf-larkspurferryterminal",
+                "s-9q8znbsc4q-sfferrybuilding"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.392052,
+                            37.795923
+                        ],
+                        [
+                            -122.477586865425,
+                            37.8561920467223
+                        ]
+                    ],
+                    []
+                ],
+                "type": "MultiLineString"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-r-121",
+                    "tags": {
+                        "agency_id": "12",
+                        "route_color": "CC0000",
+                        "route_desc": "",
+                        "route_id": "121",
+                        "route_long_name": "San Francisco / Sausalito",
+                        "route_short_name": "",
+                        "route_text_color": "ffffff",
+                        "route_type": "4",
+                        "route_url": "http://www.goldengateferry.org/schedules/Sausalito.php"
+                    }
+                }
+            ],
+            "name": "San Francisco / Sausalito",
+            "onestopId": "r-9q8zj-sanfrancisco~sausalito",
+            "operatedBy": "o-9q8z-goldengateferry",
+            "properties": {},
+            "serves": [
+                "s-9q8zkgw833-sausalitoferryterminal",
+                "s-9q8znbsc4q-sfferrybuilding"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.509188652039,
+                    37.9455469967055
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-s-1910",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "Larkspur",
+                        "stop_id": "1910",
+                        "stop_lat": "37.9455469967055",
+                        "stop_lon": "-122.509188652039",
+                        "stop_name": "Larkspur Ferry Terminal",
+                        "stop_timezone": "",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Larkspur Ferry Terminal",
+            "onestopId": "s-9q8zu5z8bf-larkspurferryterminal",
+            "properties": {},
+            "servedBy": [
+                "o-9q8z-goldengateferry"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.392052,
+                    37.795923
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-s-1905",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "San Francisco",
+                        "stop_id": "1905",
+                        "stop_lat": "37.795923",
+                        "stop_lon": "-122.392052",
+                        "stop_name": "S.F. Ferry Building",
+                        "stop_timezone": "",
+                        "stop_url": "",
+                        "zone_id": "212"
+                    }
+                }
+            ],
+            "name": "S.F. Ferry Building",
+            "onestopId": "s-9q8znbsc4q-sfferrybuilding",
+            "properties": {},
+            "servedBy": [
+                "o-9q8z-goldengateferry"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.477586865425,
+                    37.8561920467223
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-s-1892",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "Sausalito",
+                        "stop_id": "1892",
+                        "stop_lat": "37.8561920467223",
+                        "stop_lon": "-122.477586865425",
+                        "stop_name": "Sausalito Ferry Terminal",
+                        "stop_timezone": "",
+                        "stop_url": "",
+                        "zone_id": "211"
+                    }
+                }
+            ],
+            "name": "Sausalito Ferry Terminal",
+            "onestopId": "s-9q8zkgw833-sausalitoferryterminal",
+            "properties": {},
+            "servedBy": [
+                "o-9q8z-goldengateferry"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "identifiers": [
+        {
+            "identifier": "f-sfbayferries-o-12",
+            "tags": {
+                "agency_fare_url": "http://goldengateferry.org/fareprograms/",
+                "agency_id": "12",
+                "agency_lang": "en",
+                "agency_name": "Golden Gate Ferry",
+                "agency_phone": "(415) 455-2000",
+                "agency_timezone": "America/Los_Angeles",
+                "agency_url": "http://www.goldengateferry.org/"
+            }
+        }
+    ],
+    "name": "Golden Gate Ferry",
+    "onestopId": "o-9q8z-goldengateferry",
+    "properties": {},
+    "serves": [
+        "s-9q8zu5z8bf-larkspurferryterminal",
+        "s-9q8znbsc4q-sfferrybuilding",
+        "s-9q8zkgw833-sausalitoferryterminal"
+    ],
+    "tags": {},
+    "type": "FeatureCollection"
+}
