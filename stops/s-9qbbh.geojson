@@ -1,1 +1,38 @@
-{"prefix": "9qbbh", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9qbbh02mk1-third~grand", "name": "Third St & Grand Av", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.519012, 37.971031]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40429", "tags": {"stop_lat": "  37.971031", "stop_code": "40429", "stop_lon": "-122.519012", "stop_id": "40429", "stop_desc": "", "stop_name": "Third St & Grand Av", "zone_id": "3"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.519012,
+                    37.971031
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40429",
+                    "tags": {
+                        "stop_code": "40429",
+                        "stop_desc": "",
+                        "stop_id": "40429",
+                        "stop_lat": "  37.971031",
+                        "stop_lon": "-122.519012",
+                        "stop_name": "Third St & Grand Av",
+                        "zone_id": "3"
+                    }
+                }
+            ],
+            "name": "Third St & Grand Av",
+            "onestopId": "s-9qbbh02mk1-third~grand",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9qbbh",
+    "properties": {},
+    "type": "FeatureCollection"
+}

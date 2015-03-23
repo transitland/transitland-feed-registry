@@ -1,1 +1,42 @@
-{"prefix": "9qc09", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9qc09zgj7p-vallejoferryterminal", "name": "Vallejo Ferry Terminal", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.262593, 38.100152]}, "servedBy": ["o-9q8z-baylink"], "identifiers": [{"identifier": "f-sfbayferries-s-1909", "tags": {"stop_lat": "38.100152", "stop_timezone": "", "stop_code": "", "stop_lon": "-122.262593", "parent_station": "", "stop_url": "", "stop_id": "1909", "stop_desc": "Vallejo", "stop_name": "Vallejo Ferry Terminal", "location_type": "0", "zone_id": ""}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.262593,
+                    38.100152
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-s-1909",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "Vallejo",
+                        "stop_id": "1909",
+                        "stop_lat": "38.100152",
+                        "stop_lon": "-122.262593",
+                        "stop_name": "Vallejo Ferry Terminal",
+                        "stop_timezone": "",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Vallejo Ferry Terminal",
+            "onestopId": "s-9qc09zgj7p-vallejoferryterminal",
+            "properties": {},
+            "servedBy": [
+                "o-9q8z-baylink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9qc09",
+    "properties": {},
+    "type": "FeatureCollection"
+}

@@ -1,1 +1,38 @@
-{"prefix": "9qbdy", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9qbdygx2bj-piner~industrial", "name": "Piner Rd & Industrial Dr", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.74028, 38.471531]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40949", "tags": {"stop_lat": "  38.471531", "stop_code": "40949", "stop_lon": "-122.740280", "stop_id": "40949", "stop_desc": "", "stop_name": "Piner Rd & Industrial Dr", "zone_id": "6"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74028,
+                    38.471531
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40949",
+                    "tags": {
+                        "stop_code": "40949",
+                        "stop_desc": "",
+                        "stop_id": "40949",
+                        "stop_lat": "  38.471531",
+                        "stop_lon": "-122.740280",
+                        "stop_name": "Piner Rd & Industrial Dr",
+                        "zone_id": "6"
+                    }
+                }
+            ],
+            "name": "Piner Rd & Industrial Dr",
+            "onestopId": "s-9qbdygx2bj-piner~industrial",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9qbdy",
+    "properties": {},
+    "type": "FeatureCollection"
+}

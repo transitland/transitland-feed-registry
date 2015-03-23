@@ -1,1 +1,42 @@
-{"prefix": "9q9p1", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q9p12qegh-oaklandferryterminal", "name": "Oakland Ferry Terminal", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.279758, 37.795011]}, "servedBy": ["o-9q8z-blue~goldfleet"], "identifiers": [{"identifier": "f-sfbayferries-s-1904", "tags": {"stop_lat": "37.795011", "stop_timezone": "", "stop_code": "", "stop_lon": "-122.279758", "parent_station": "", "stop_url": "", "stop_id": "1904", "stop_desc": "Oakland", "stop_name": "Oakland Ferry Terminal", "location_type": "0", "zone_id": "214"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.279758,
+                    37.795011
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-sfbayferries-s-1904",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "Oakland",
+                        "stop_id": "1904",
+                        "stop_lat": "37.795011",
+                        "stop_lon": "-122.279758",
+                        "stop_name": "Oakland Ferry Terminal",
+                        "stop_timezone": "",
+                        "stop_url": "",
+                        "zone_id": "214"
+                    }
+                }
+            ],
+            "name": "Oakland Ferry Terminal",
+            "onestopId": "s-9q9p12qegh-oaklandferryterminal",
+            "properties": {},
+            "servedBy": [
+                "o-9q8z-blue~goldfleet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q9p1",
+    "properties": {},
+    "type": "FeatureCollection"
+}

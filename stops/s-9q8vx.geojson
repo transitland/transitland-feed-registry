@@ -1,1 +1,109 @@
-{"prefix": "9q8vx", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q8vxytm0z-occidental~clark", "name": "Occidental Ave & Clark Dr", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.34749, 37.5659]}, "servedBy": ["o-9q8-samtrans"], "identifiers": [{"identifier": "f-samtrans-s-341089", "tags": {"stop_lat": "  37.565900", "stop_code": "341089", "stop_lon": "-122.347490", "parent_station": "", "stop_url": "", "stop_id": "341089", "stop_desc": "", "stop_name": "Occidental Ave & Clark Dr", "location_type": "0", "zone_id": "1"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8vxyw8qb-wpoplar~costarica", "name": "W Poplar Ave & Costa Rica Ave", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.34552, 37.56505]}, "servedBy": ["o-9q8-samtrans"], "identifiers": [{"identifier": "f-samtrans-s-341282", "tags": {"stop_lat": "  37.565050", "stop_code": "341282", "stop_lon": "-122.345520", "parent_station": "", "stop_url": "", "stop_id": "341282", "stop_desc": "", "stop_name": "W Poplar Ave & Costa Rica Ave", "location_type": "0", "zone_id": "1"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8vxzneqh-clark~dorchester", "name": "Clark Dr & Dorchester Rd", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.34555, 37.56833]}, "servedBy": ["o-9q8-samtrans"], "identifiers": [{"identifier": "f-samtrans-s-341086", "tags": {"stop_lat": "  37.568330", "stop_code": "341086", "stop_lon": "-122.345550", "parent_station": "", "stop_url": "", "stop_id": "341086", "stop_desc": "", "stop_name": "Clark Dr & Dorchester Rd", "location_type": "0", "zone_id": "1"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34749,
+                    37.5659
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-341089",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "341089",
+                        "stop_desc": "",
+                        "stop_id": "341089",
+                        "stop_lat": "  37.565900",
+                        "stop_lon": "-122.347490",
+                        "stop_name": "Occidental Ave & Clark Dr",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Occidental Ave & Clark Dr",
+            "onestopId": "s-9q8vxytm0z-occidental~clark",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34552,
+                    37.56505
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-341282",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "341282",
+                        "stop_desc": "",
+                        "stop_id": "341282",
+                        "stop_lat": "  37.565050",
+                        "stop_lon": "-122.345520",
+                        "stop_name": "W Poplar Ave & Costa Rica Ave",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "W Poplar Ave & Costa Rica Ave",
+            "onestopId": "s-9q8vxyw8qb-wpoplar~costarica",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.34555,
+                    37.56833
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-341086",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "341086",
+                        "stop_desc": "",
+                        "stop_id": "341086",
+                        "stop_lat": "  37.568330",
+                        "stop_lon": "-122.345550",
+                        "stop_name": "Clark Dr & Dorchester Rd",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Clark Dr & Dorchester Rd",
+            "onestopId": "s-9q8vxzneqh-clark~dorchester",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q8vx",
+    "properties": {},
+    "type": "FeatureCollection"
+}

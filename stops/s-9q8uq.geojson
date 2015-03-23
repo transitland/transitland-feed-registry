@@ -1,1 +1,41 @@
-{"prefix": "9q8uq", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q8uqdxw2h-84~1", "name": "Hwy 84 & Hwy 1", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.39936, 37.3244]}, "servedBy": ["o-9q8-samtrans"], "identifiers": [{"identifier": "f-samtrans-s-316902", "tags": {"stop_lat": "  37.324400", "stop_code": "316902", "stop_lon": "-122.399360", "parent_station": "", "stop_url": "", "stop_id": "316902", "stop_desc": "", "stop_name": "Hwy 84 & Hwy 1", "location_type": "0", "zone_id": "1"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.39936,
+                    37.3244
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-316902",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "316902",
+                        "stop_desc": "",
+                        "stop_id": "316902",
+                        "stop_lat": "  37.324400",
+                        "stop_lon": "-122.399360",
+                        "stop_name": "Hwy 84 & Hwy 1",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Hwy 84 & Hwy 1",
+            "onestopId": "s-9q8uqdxw2h-84~1",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q8uq",
+    "properties": {},
+    "type": "FeatureCollection"
+}

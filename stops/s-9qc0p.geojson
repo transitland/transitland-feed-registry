@@ -1,1 +1,69 @@
-{"prefix": "9qc0p", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9qc0p0vj5c-concord", "name": "Concord", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.029095, 37.973737]}, "servedBy": ["o-9q9-bayarearapidtransit"], "identifiers": [{"identifier": "f-bart-s-CONC", "tags": {"stop_lat": "37.973737", "zone_id": "CONC", "stop_lon": "-122.029095", "stop_url": "http://www.bart.gov/stations/CONC/", "stop_id": "CONC", "stop_desc": "", "stop_name": "Concord"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9qc0pq23hg-northconcord~martinez", "name": "North Concord/Martinez", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.024597, 38.003275]}, "servedBy": ["o-9q9-bayarearapidtransit"], "identifiers": [{"identifier": "f-bart-s-NCON", "tags": {"stop_lat": "38.003275", "zone_id": "NCON", "stop_lon": "-122.024597", "stop_url": "http://www.bart.gov/stations/NCON/", "stop_id": "NCON", "stop_desc": "", "stop_name": "North Concord/Martinez"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.029095,
+                    37.973737
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bart-s-CONC",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "CONC",
+                        "stop_lat": "37.973737",
+                        "stop_lon": "-122.029095",
+                        "stop_name": "Concord",
+                        "stop_url": "http://www.bart.gov/stations/CONC/",
+                        "zone_id": "CONC"
+                    }
+                }
+            ],
+            "name": "Concord",
+            "onestopId": "s-9qc0p0vj5c-concord",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-bayarearapidtransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.024597,
+                    38.003275
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-bart-s-NCON",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "NCON",
+                        "stop_lat": "38.003275",
+                        "stop_lon": "-122.024597",
+                        "stop_name": "North Concord/Martinez",
+                        "stop_url": "http://www.bart.gov/stations/NCON/",
+                        "zone_id": "NCON"
+                    }
+                }
+            ],
+            "name": "North Concord/Martinez",
+            "onestopId": "s-9qc0pq23hg-northconcord~martinez",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-bayarearapidtransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9qc0p",
+    "properties": {},
+    "type": "FeatureCollection"
+}

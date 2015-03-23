@@ -1,1 +1,127 @@
-{"prefix": "9q97w", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q97w13u7n-santateresa~richmond", "name": "SANTA TERESA & RICHMOND", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.725974889, 37.185367929]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-3429", "tags": {"stop_lat": "37.185367929000002", "zone_id": "1", "stop_lon": "-121.725974889", "stop_id": "3429", "stop_desc": "", "stop_name": "SANTA TERESA & RICHMOND"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q97w0t3ry-santateresa~scheller", "name": "SANTA TERESA & SCHELLER", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.720968327, 37.180731954]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-3394", "tags": {"stop_lat": "37.180731954000002", "zone_id": "1", "stop_lon": "-121.72096832699999", "stop_id": "3394", "stop_desc": "", "stop_name": "SANTA TERESA & SCHELLER"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q97w0t2tx-santateresa~scheller", "name": "SANTA TERESA & SCHELLER", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.721069198, 37.180607565]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-3430", "tags": {"stop_lat": "37.180607565000003", "zone_id": "1", "stop_lon": "-121.721069198", "stop_id": "3430", "stop_desc": "", "stop_name": "SANTA TERESA & SCHELLER"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q97w192ve-santateresa~richmond", "name": "SANTA TERESA & RICHMOND", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.726561744, 37.186122445]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-3395", "tags": {"stop_lat": "37.186122445000002", "zone_id": "1", "stop_lon": "-121.72656174399999", "stop_id": "3395", "stop_desc": "", "stop_name": "SANTA TERESA & RICHMOND"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.725974889,
+                    37.185367929
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3429",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "3429",
+                        "stop_lat": "37.185367929000002",
+                        "stop_lon": "-121.725974889",
+                        "stop_name": "SANTA TERESA & RICHMOND",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & RICHMOND",
+            "onestopId": "s-9q97w13u7n-santateresa~richmond",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.721069198,
+                    37.180607565
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3430",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "3430",
+                        "stop_lat": "37.180607565000003",
+                        "stop_lon": "-121.721069198",
+                        "stop_name": "SANTA TERESA & SCHELLER",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & SCHELLER",
+            "onestopId": "s-9q97w0t2tx-santateresa~scheller",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.726561744,
+                    37.186122445
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3395",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "3395",
+                        "stop_lat": "37.186122445000002",
+                        "stop_lon": "-121.72656174399999",
+                        "stop_name": "SANTA TERESA & RICHMOND",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & RICHMOND",
+            "onestopId": "s-9q97w192ve-santateresa~richmond",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.720968327,
+                    37.180731954
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3394",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "3394",
+                        "stop_lat": "37.180731954000002",
+                        "stop_lon": "-121.72096832699999",
+                        "stop_name": "SANTA TERESA & SCHELLER",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & SCHELLER",
+            "onestopId": "s-9q97w0t3ry-santateresa~scheller",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q97w",
+    "properties": {},
+    "type": "FeatureCollection"
+}

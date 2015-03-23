@@ -1,1 +1,127 @@
-{"prefix": "9q97d", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q97dzzh12-almaden~camden", "name": "ALMADEN & CAMDEN", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.861662545, 37.22099484]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-120", "tags": {"stop_lat": "37.220994840000003", "zone_id": "1", "stop_lon": "-121.861662545", "stop_id": "120", "stop_desc": "", "stop_name": "ALMADEN & CAMDEN"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q97dzgu7h-camden~trinidad", "name": "CAMDEN & TRINIDAD", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.866053067, 37.221061041]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-2901", "tags": {"stop_lat": "37.221061040999999", "zone_id": "1", "stop_lon": "-121.866053067", "stop_id": "2901", "stop_desc": "", "stop_name": "CAMDEN & TRINIDAD"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q97dzge5m-camden~trinidad", "name": "CAMDEN & TRINIDAD", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.866386997, 37.220848233]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-2989", "tags": {"stop_lat": "37.220848232999998", "zone_id": "1", "stop_lon": "-121.86638699700001", "stop_id": "2989", "stop_desc": "", "stop_name": "CAMDEN & TRINIDAD"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q97dzrngn-crown~almaden", "name": "CROWN & ALMADEN", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.861590712, 37.21875562]}, "servedBy": ["o-9q9-vta"], "identifiers": [{"identifier": "f-vta-s-2900", "tags": {"stop_lat": "37.218755620000003", "zone_id": "1", "stop_lon": "-121.86159071199999", "stop_id": "2900", "stop_desc": "", "stop_name": "CROWN & ALMADEN"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.861662545,
+                    37.22099484
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-120",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "120",
+                        "stop_lat": "37.220994840000003",
+                        "stop_lon": "-121.861662545",
+                        "stop_name": "ALMADEN & CAMDEN",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "ALMADEN & CAMDEN",
+            "onestopId": "s-9q97dzzh12-almaden~camden",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.866053067,
+                    37.221061041
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2901",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "2901",
+                        "stop_lat": "37.221061040999999",
+                        "stop_lon": "-121.866053067",
+                        "stop_name": "CAMDEN & TRINIDAD",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "CAMDEN & TRINIDAD",
+            "onestopId": "s-9q97dzgu7h-camden~trinidad",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.866386997,
+                    37.220848233
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2989",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "2989",
+                        "stop_lat": "37.220848232999998",
+                        "stop_lon": "-121.86638699700001",
+                        "stop_name": "CAMDEN & TRINIDAD",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "CAMDEN & TRINIDAD",
+            "onestopId": "s-9q97dzge5m-camden~trinidad",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.861590712,
+                    37.21875562
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2900",
+                    "tags": {
+                        "stop_desc": "",
+                        "stop_id": "2900",
+                        "stop_lat": "37.218755620000003",
+                        "stop_lon": "-121.86159071199999",
+                        "stop_name": "CROWN & ALMADEN",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "CROWN & ALMADEN",
+            "onestopId": "s-9q97dzrngn-crown~almaden",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q97d",
+    "properties": {},
+    "type": "FeatureCollection"
+}

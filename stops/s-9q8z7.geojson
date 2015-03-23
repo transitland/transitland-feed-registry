@@ -1,1 +1,193 @@
-{"prefix": "9q8z7", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q8z7xe9rc-marin~spruce", "name": "Marin Av & Spruce St", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.536362, 37.878338]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-41017", "tags": {"stop_lat": "  37.878338", "stop_code": "41017", "stop_lon": "-122.536362", "stop_id": "41017", "stop_desc": "", "stop_name": "Marin Av & Spruce St", "zone_id": "2"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8z7xfs09-maple~shoreline", "name": "Maple St & Shoreline Hwy", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.538048, 37.88018]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40161", "tags": {"stop_lat": "  37.880180", "stop_code": "40161", "stop_lon": "-122.538048", "stop_id": "40161", "stop_desc": "", "stop_name": "Maple St & Shoreline Hwy", "zone_id": "2"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8z7z8ubj-shoreline~ross", "name": "Shoreline Hwy & Ross Dr", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.52948, 37.878956]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40167", "tags": {"stop_lat": "  37.878956", "stop_code": "40167", "stop_lon": "-122.529480", "stop_id": "40167", "stop_desc": "", "stop_name": "Shoreline Hwy & Ross Dr", "zone_id": "2"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8z7xwjzt-shoreline~laurel", "name": "Shoreline Hwy & Laurel Way", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.532936, 37.879128]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40166", "tags": {"stop_lat": "  37.879128", "stop_code": "40166", "stop_lon": "-122.532936", "stop_id": "40166", "stop_desc": "", "stop_name": "Shoreline Hwy & Laurel Way", "zone_id": "2"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8z7xu862-shoreline~pine", "name": "Shoreline Hwy & Pine St", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.535225, 37.879532]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40163", "tags": {"stop_lat": "  37.879532", "stop_code": "40163", "stop_lon": "-122.535225", "stop_id": "40163", "stop_desc": "", "stop_name": "Shoreline Hwy & Pine St", "zone_id": "2"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q8z7xwm59-shoreline~laurel", "name": "Shoreline Hwy & Laurel Way", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.532768, 37.878979]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-40165", "tags": {"stop_lat": "  37.878979", "stop_code": "40165", "stop_lon": "-122.532768", "stop_id": "40165", "stop_desc": "", "stop_name": "Shoreline Hwy & Laurel Way", "zone_id": "2"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.536362,
+                    37.878338
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-41017",
+                    "tags": {
+                        "stop_code": "41017",
+                        "stop_desc": "",
+                        "stop_id": "41017",
+                        "stop_lat": "  37.878338",
+                        "stop_lon": "-122.536362",
+                        "stop_name": "Marin Av & Spruce St",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Marin Av & Spruce St",
+            "onestopId": "s-9q8z7xe9rc-marin~spruce",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.538048,
+                    37.88018
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40161",
+                    "tags": {
+                        "stop_code": "40161",
+                        "stop_desc": "",
+                        "stop_id": "40161",
+                        "stop_lat": "  37.880180",
+                        "stop_lon": "-122.538048",
+                        "stop_name": "Maple St & Shoreline Hwy",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Maple St & Shoreline Hwy",
+            "onestopId": "s-9q8z7xfs09-maple~shoreline",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52948,
+                    37.878956
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40167",
+                    "tags": {
+                        "stop_code": "40167",
+                        "stop_desc": "",
+                        "stop_id": "40167",
+                        "stop_lat": "  37.878956",
+                        "stop_lon": "-122.529480",
+                        "stop_name": "Shoreline Hwy & Ross Dr",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Shoreline Hwy & Ross Dr",
+            "onestopId": "s-9q8z7z8ubj-shoreline~ross",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.532936,
+                    37.879128
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40166",
+                    "tags": {
+                        "stop_code": "40166",
+                        "stop_desc": "",
+                        "stop_id": "40166",
+                        "stop_lat": "  37.879128",
+                        "stop_lon": "-122.532936",
+                        "stop_name": "Shoreline Hwy & Laurel Way",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Shoreline Hwy & Laurel Way",
+            "onestopId": "s-9q8z7xwjzt-shoreline~laurel",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.535225,
+                    37.879532
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40163",
+                    "tags": {
+                        "stop_code": "40163",
+                        "stop_desc": "",
+                        "stop_id": "40163",
+                        "stop_lat": "  37.879532",
+                        "stop_lon": "-122.535225",
+                        "stop_name": "Shoreline Hwy & Pine St",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Shoreline Hwy & Pine St",
+            "onestopId": "s-9q8z7xu862-shoreline~pine",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.532768,
+                    37.878979
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-40165",
+                    "tags": {
+                        "stop_code": "40165",
+                        "stop_desc": "",
+                        "stop_id": "40165",
+                        "stop_lat": "  37.878979",
+                        "stop_lon": "-122.532768",
+                        "stop_name": "Shoreline Hwy & Laurel Way",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Shoreline Hwy & Laurel Way",
+            "onestopId": "s-9q8z7xwm59-shoreline~laurel",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q8z7",
+    "properties": {},
+    "type": "FeatureCollection"
+}

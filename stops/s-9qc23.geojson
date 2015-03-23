@@ -1,1 +1,38 @@
-{"prefix": "9qc23", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9qc230f5dv-pittsburgbartstation", "name": "Pittsburg BART Station", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.945377, 38.017443]}, "servedBy": ["o-9q9-actransit"], "identifiers": [{"identifier": "f-actransit-s-9903180", "tags": {"stop_lat": "38.017443", "stop_code": "51425", "stop_lon": "-121.945377", "parent_station": "", "stop_id": "9903180", "stop_name": "Pittsburg BART Station", "location_type": ""}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.945377,
+                    38.017443
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-9903180",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "51425",
+                        "stop_id": "9903180",
+                        "stop_lat": "38.017443",
+                        "stop_lon": "-121.945377",
+                        "stop_name": "Pittsburg BART Station"
+                    }
+                }
+            ],
+            "name": "Pittsburg BART Station",
+            "onestopId": "s-9qc230f5dv-pittsburgbartstation",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9qc23",
+    "properties": {},
+    "type": "FeatureCollection"
+}

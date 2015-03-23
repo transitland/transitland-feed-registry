@@ -1,1 +1,69 @@
-{"prefix": "9qbcd", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9qbcd0f8qt-southmcdowell~saintfrancis", "name": "South Mcdowell Blvd & Saint Francis Dr", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.603706, 38.236614]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-41212", "tags": {"stop_lat": "  38.236614", "stop_code": "41212", "stop_lon": "-122.603706", "stop_id": "41212", "stop_desc": "", "stop_name": "South Mcdowell Blvd & Saint Francis Dr", "zone_id": "5"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9qbcd0eqne-southmcdowell~casagrande", "name": "South Mcdowell Blvd & Casa Grande Rd", "tags": {}, "geometry": {"type": "Point", "coordinates": [-122.602676, 38.236217]}, "servedBy": ["o-9qb-goldengatetransit"], "identifiers": [{"identifier": "f-goldengatetransit-s-41215", "tags": {"stop_lat": "  38.236217", "stop_code": "41215", "stop_lon": "-122.602676", "stop_id": "41215", "stop_desc": "", "stop_name": "South Mcdowell Blvd & Casa Grande Rd", "zone_id": "5"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.603706,
+                    38.236614
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-41212",
+                    "tags": {
+                        "stop_code": "41212",
+                        "stop_desc": "",
+                        "stop_id": "41212",
+                        "stop_lat": "  38.236614",
+                        "stop_lon": "-122.603706",
+                        "stop_name": "South Mcdowell Blvd & Saint Francis Dr",
+                        "zone_id": "5"
+                    }
+                }
+            ],
+            "name": "South Mcdowell Blvd & Saint Francis Dr",
+            "onestopId": "s-9qbcd0f8qt-southmcdowell~saintfrancis",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.602676,
+                    38.236217
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-goldengatetransit-s-41215",
+                    "tags": {
+                        "stop_code": "41215",
+                        "stop_desc": "",
+                        "stop_id": "41215",
+                        "stop_lat": "  38.236217",
+                        "stop_lon": "-122.602676",
+                        "stop_name": "South Mcdowell Blvd & Casa Grande Rd",
+                        "zone_id": "5"
+                    }
+                }
+            ],
+            "name": "South Mcdowell Blvd & Casa Grande Rd",
+            "onestopId": "s-9qbcd0eqne-southmcdowell~casagrande",
+            "properties": {},
+            "servedBy": [
+                "o-9qb-goldengatetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9qbcd",
+    "properties": {},
+    "type": "FeatureCollection"
+}

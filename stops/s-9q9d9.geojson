@@ -1,1 +1,77 @@
-{"prefix": "9q9d9", "type": "FeatureCollection", "properties": {}, "features": [{"onestopId": "s-9q9d98q30z-gilroycaltrain", "name": "Gilroy Caltrain", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.566088, 37.003538]}, "servedBy": ["o-9q9-caltrain"], "identifiers": [{"identifier": "f-caltrain-s-70321", "tags": {"stop_lat": "  37.003538", "stop_code": "70321", "stop_lon": "-121.566088", "parent_station": "ctgi", "stop_url": "", "stop_id": "70321", "stop_desc": "", "stop_name": "Gilroy Caltrain", "location_type": "0", "platform_code": "NB", "zone_id": "6"}}], "type": "Feature", "properties": {}}, {"onestopId": "s-9q9d98q0vt-gilroycaltrain", "name": "Gilroy Caltrain", "tags": {}, "geometry": {"type": "Point", "coordinates": [-121.566225, 37.003485]}, "servedBy": ["o-9q9-caltrain"], "identifiers": [{"identifier": "f-caltrain-s-70322", "tags": {"stop_lat": "  37.003485", "stop_code": "70322", "stop_lon": "-121.566225", "parent_station": "ctgi", "stop_url": "", "stop_id": "70322", "stop_desc": "", "stop_name": "Gilroy Caltrain", "location_type": "0", "platform_code": "SB", "zone_id": "6"}}], "type": "Feature", "properties": {}}]}
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.566088,
+                    37.003538
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-caltrain-s-70321",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "ctgi",
+                        "platform_code": "NB",
+                        "stop_code": "70321",
+                        "stop_desc": "",
+                        "stop_id": "70321",
+                        "stop_lat": "  37.003538",
+                        "stop_lon": "-121.566088",
+                        "stop_name": "Gilroy Caltrain",
+                        "stop_url": "",
+                        "zone_id": "6"
+                    }
+                }
+            ],
+            "name": "Gilroy Caltrain",
+            "onestopId": "s-9q9d98q30z-gilroycaltrain",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-caltrain"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.566225,
+                    37.003485
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-caltrain-s-70322",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "ctgi",
+                        "platform_code": "SB",
+                        "stop_code": "70322",
+                        "stop_desc": "",
+                        "stop_id": "70322",
+                        "stop_lat": "  37.003485",
+                        "stop_lon": "-121.566225",
+                        "stop_name": "Gilroy Caltrain",
+                        "stop_url": "",
+                        "zone_id": "6"
+                    }
+                }
+            ],
+            "name": "Gilroy Caltrain",
+            "onestopId": "s-9q9d98q0vt-gilroycaltrain",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-caltrain"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "9q9d9",
+    "properties": {},
+    "type": "FeatureCollection"
+}
