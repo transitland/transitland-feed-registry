@@ -1,0 +1,423 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.338966,
+                            47.6012154
+                        ],
+                        [
+                            -122.464722,
+                            47.5109406
+                        ]
+                    ],
+                    [
+                        [
+                            -122.464523,
+                            47.5109406
+                        ],
+                        [
+                            -122.338943,
+                            47.6010742
+                        ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-r-100337",
+                    "tags": {
+                        "agency_id": "KMD",
+                        "route_color": "",
+                        "route_desc": "Vashon Passenger-Only Ferry",
+                        "route_id": "100337",
+                        "route_long_name": "",
+                        "route_short_name": "975",
+                        "route_text_color": "",
+                        "route_type": "4",
+                        "route_url": "http://www.kingcounty.gov/transportation/kcdot/WaterTaxi.aspx"
+                    }
+                }
+            ],
+            "name": "975",
+            "onestopId": "r-c22y-975",
+            "operatedBy": "o-c22y-kingcountymarinedivison",
+            "properties": {},
+            "serves": [
+                "s-c22ym3053c-vashonpassengerferry~vashonferrydock",
+                "s-c23nb1e3pm-vashonpassengerferry~pier50",
+                "s-c22ym1pgm1-vashonpassengerferry~vashonferrydock",
+                "s-c23nb1e825-vashonpassengerferry~pier50"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -122.339012,
+                            47.601181
+                        ],
+                        [
+                            -122.379761,
+                            47.5898514
+                        ]
+                    ],
+                    [
+                        [
+                            -122.379692,
+                            47.5897217
+                        ],
+                        [
+                            -122.338913,
+                            47.6010551
+                        ]
+                    ]
+                ],
+                "type": "MultiLineString"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-r-100336",
+                    "tags": {
+                        "agency_id": "KMD",
+                        "route_color": "",
+                        "route_desc": "West Seattle Water Taxi - Boat Schedule",
+                        "route_id": "100336",
+                        "route_long_name": "",
+                        "route_short_name": "973",
+                        "route_text_color": "",
+                        "route_type": "4",
+                        "route_url": "http://www.kingcounty.gov/transportation/kcdot/WaterTaxi.aspx"
+                    }
+                }
+            ],
+            "name": "973",
+            "onestopId": "r-c22yz-973",
+            "operatedBy": "o-c22y-kingcountymarinedivison",
+            "properties": {},
+            "serves": [
+                "s-c23nb1e2yr-watertaxiroute~watertaxiroute",
+                "s-c22yxpmy4r-watertaxiroute~harborsw",
+                "s-c22yxpmybz-watertaxiroute~harborsw",
+                "s-c23nb1e80x-watertaxiroute~watertaxiroute"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.464523,
+                    47.5109406
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-99909",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "99909",
+                        "stop_lat": "47.5109406",
+                        "stop_lon": "-122.464523",
+                        "stop_name": "Vashon Passenger Ferry & Vashon Ferry Dock",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "39"
+                    }
+                }
+            ],
+            "name": "Vashon Passenger Ferry & Vashon Ferry Dock",
+            "onestopId": "s-c22ym3053c-vashonpassengerferry~vashonferrydock",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.339012,
+                    47.601181
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-1907",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "1907",
+                        "stop_lat": "47.601181",
+                        "stop_lon": "-122.339012",
+                        "stop_name": "Water Taxi Route & Water Taxi Route",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "21"
+                    }
+                }
+            ],
+            "name": "Water Taxi Route & Water Taxi Route",
+            "onestopId": "s-c23nb1e2yr-watertaxiroute~watertaxiroute",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.338943,
+                    47.6010742
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-1888",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "1888",
+                        "stop_lat": "47.6010742",
+                        "stop_lon": "-122.338943",
+                        "stop_name": "Vashon Passenger Ferry & Pier 50",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Vashon Passenger Ferry & Pier 50",
+            "onestopId": "s-c23nb1e825-vashonpassengerferry~pier50",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.379692,
+                    47.5897217
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-99998",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "99998",
+                        "stop_lat": "47.5897217",
+                        "stop_lon": "-122.379692",
+                        "stop_name": "Water Taxi Route & Harbor Ave SW",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "21"
+                    }
+                }
+            ],
+            "name": "Water Taxi Route & Harbor Ave SW",
+            "onestopId": "s-c22yxpmy4r-watertaxiroute~harborsw",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.338966,
+                    47.6012154
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-1889",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "1889",
+                        "stop_lat": "47.6012154",
+                        "stop_lon": "-122.338966",
+                        "stop_name": "Vashon Passenger Ferry & Pier 50",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Vashon Passenger Ferry & Pier 50",
+            "onestopId": "s-c23nb1e3pm-vashonpassengerferry~pier50",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.379761,
+                    47.5898514
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-99997",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "99997",
+                        "stop_lat": "47.5898514",
+                        "stop_lon": "-122.379761",
+                        "stop_name": "Water Taxi Route & Harbor Ave SW",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "21"
+                    }
+                }
+            ],
+            "name": "Water Taxi Route & Harbor Ave SW",
+            "onestopId": "s-c22yxpmybz-watertaxiroute~harborsw",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.464722,
+                    47.5109406
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-99908",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "99908",
+                        "stop_lat": "47.5109406",
+                        "stop_lon": "-122.464722",
+                        "stop_name": "Vashon Passenger Ferry & Vashon Ferry Dock",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "39"
+                    }
+                }
+            ],
+            "name": "Vashon Passenger Ferry & Vashon Ferry Dock",
+            "onestopId": "s-c22ym1pgm1-vashonpassengerferry~vashonferrydock",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.338913,
+                    47.6010551
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-1908",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "1908",
+                        "stop_lat": "47.6010551",
+                        "stop_lon": "-122.338913",
+                        "stop_name": "Water Taxi Route & Water Taxi Route",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "21"
+                    }
+                }
+            ],
+            "name": "Water Taxi Route & Water Taxi Route",
+            "onestopId": "s-c23nb1e80x-watertaxiroute~watertaxiroute",
+            "properties": {},
+            "servedBy": [
+                "o-c22y-kingcountymarinedivison"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "identifiers": [
+        {
+            "identifier": "f-kingcounty-o-KMD",
+            "tags": {
+                "agency_fare_url": "http://www.kingcounty.gov/transportation/kcdot/Marine.aspx/",
+                "agency_id": "KMD",
+                "agency_lang": "EN",
+                "agency_name": "Kingcounty Marine Divison",
+                "agency_phone": "206-684-1515",
+                "agency_timezone": "America/Los_Angeles",
+                "agency_url": "http://www.kingcounty.gov/transportation/kcdot/Marine.aspx"
+            }
+        }
+    ],
+    "name": "Kingcounty Marine Divison",
+    "onestopId": "o-c22y-kingcountymarinedivison",
+    "properties": {},
+    "serves": [
+        "s-c23nb1e3pm-vashonpassengerferry~pier50",
+        "s-c23nb1e2yr-watertaxiroute~watertaxiroute",
+        "s-c23nb1e825-vashonpassengerferry~pier50",
+        "s-c22yxpmy4r-watertaxiroute~harborsw",
+        "s-c22ym3053c-vashonpassengerferry~vashonferrydock",
+        "s-c22yxpmybz-watertaxiroute~harborsw",
+        "s-c22ym1pgm1-vashonpassengerferry~vashonferrydock",
+        "s-c23nb1e80x-watertaxiroute~watertaxiroute"
+    ],
+    "tags": {},
+    "type": "FeatureCollection"
+}
