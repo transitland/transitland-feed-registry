@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.237651,
+                    42.273255
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-91852",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "91852",
+                        "stop_desc": "",
+                        "stop_id": "91852",
+                        "stop_lat": "42.273255",
+                        "stop_lon": "-71.237651",
+                        "stop_name": "Needham Junction @ Commuter Rail Station",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Needham Junction @ Commuter Rail Station",
+            "onestopId": "s-drt26zw7d3-needhamjunction~commuterrailstation",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.235559,
+                    42.273187
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-Needham Junction",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "Needham Junction",
+                        "stop_lat": "42.273187",
+                        "stop_lon": "-71.235559",
+                        "stop_name": "Needham Junction",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Needham Junction",
+            "onestopId": "s-drt26zxg5j-needhamjunction",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "drt26",
+    "properties": {},
+    "type": "FeatureCollection"
+}

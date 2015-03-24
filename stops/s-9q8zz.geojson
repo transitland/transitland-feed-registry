@@ -3,37 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.352152,
-                    37.94611
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1300090",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "54461",
-                        "stop_id": "1300090",
-                        "stop_lat": "37.946110",
-                        "stop_lon": "-122.352152",
-                        "stop_name": "18th St:Lincoln Av"
-                    }
-                }
-            ],
-            "name": "18th St:Lincoln Av",
-            "onestopId": "s-9q8zzgcuh5-18th~lincoln",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.35062,
                     37.966505
                 ],
@@ -251,27 +220,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.362556,
-                    37.958642
+                    -122.347265,
+                    37.943695
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-9900810",
+                    "identifier": "f-actransit-s-1301490",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56133",
-                        "stop_id": "9900810",
-                        "stop_lat": "37.958642",
-                        "stop_lon": "-122.362556",
-                        "stop_name": "Market Av:6th St"
+                        "stop_code": "59453",
+                        "stop_id": "1301490",
+                        "stop_lat": "37.943695",
+                        "stop_lon": "-122.347265",
+                        "stop_name": "Garvin Av:23rd St"
                     }
                 }
             ],
-            "name": "Market Av:6th St",
-            "onestopId": "s-9q8zzw4m1g-market~6th",
+            "name": "Garvin Av:23rd St",
+            "onestopId": "s-9q8zzgmqn1-garvin~23rd",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -282,27 +251,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.379914,
-                    37.929215
+                    -122.347434,
+                    37.937931
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303350",
+                    "identifier": "f-actransit-s-1300300",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55834",
-                        "stop_id": "1303350",
-                        "stop_lat": "37.929215",
-                        "stop_lon": "-122.379914",
-                        "stop_name": "S Garrard Blvd:Canal Blvd"
+                        "stop_code": "55131",
+                        "stop_id": "1300300",
+                        "stop_lat": "37.937931",
+                        "stop_lon": "-122.347434",
+                        "stop_name": "23rd St:Preble Av"
                     }
                 }
             ],
-            "name": "S Garrard Blvd:Canal Blvd",
-            "onestopId": "s-9q8zz0v9tq-sgarrard~canal",
+            "name": "23rd St:Preble Av",
+            "onestopId": "s-9q8zzfmk6n-23rd~preble",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -406,27 +375,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347548,
-                    37.947838
+                    -122.356809,
+                    37.958653
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300270",
+                    "identifier": "f-actransit-s-1600790",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54663",
-                        "stop_id": "1300270",
-                        "stop_lat": "37.947838",
-                        "stop_lon": "-122.347548",
-                        "stop_name": "23rd St:Hellings Av"
+                        "stop_code": "56299",
+                        "stop_id": "1600790",
+                        "stop_lat": "37.958653",
+                        "stop_lon": "-122.356809",
+                        "stop_name": "Rumrill Blvd:Market Av"
                     }
                 }
             ],
-            "name": "23rd St:Hellings Av",
-            "onestopId": "s-9q8zzujnpt-23rd~hellings",
+            "name": "Rumrill Blvd:Market Av",
+            "onestopId": "s-9q8zzwnmpt-rumrill~market",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.347594,
+                    37.946095
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1300290",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "54463",
+                        "stop_id": "1300290",
+                        "stop_lat": "37.946095",
+                        "stop_lon": "-122.347594",
+                        "stop_name": "23rd St:Lincoln Av"
+                    }
+                }
+            ],
+            "name": "23rd St:Lincoln Av",
+            "onestopId": "s-9q8zzgvhn2-23rd~lincoln",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -489,6 +489,37 @@
             ],
             "name": "Harbour Way:Pennsylvania Av",
             "onestopId": "s-9q8zzehhpz-harbour~pennsylvania",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.362686,
+                    37.942714
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1300520",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "58966",
+                        "stop_id": "1300520",
+                        "stop_lat": "37.942714",
+                        "stop_lon": "-122.362686",
+                        "stop_name": "7th St:Pennsylvania Av"
+                    }
+                }
+            ],
+            "name": "7th St:Pennsylvania Av",
+            "onestopId": "s-9q8zze60qf-7th~pennsylvania",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -685,27 +716,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347542,
-                    37.929549
+                    -122.347298,
+                    37.952369
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303290",
+                    "identifier": "f-actransit-s-1300220",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "51822",
-                        "stop_id": "1303290",
-                        "stop_lat": "37.929549",
-                        "stop_lon": "-122.347542",
-                        "stop_name": "S 23rd St:Florida Av"
+                        "stop_code": "55339",
+                        "stop_id": "1300220",
+                        "stop_lat": "37.952369",
+                        "stop_lon": "-122.347298",
+                        "stop_name": "23rd St:Alfreda Blvd (Richmond High School)"
                     }
                 }
             ],
-            "name": "S 23rd St:Florida Av",
-            "onestopId": "s-9q8zzbv5xs-s23rd~florida",
+            "name": "23rd St:Alfreda Blvd (Richmond High School)",
+            "onestopId": "s-9q8zzvj2t6-23rd~alfredarichmondhighschool",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -716,27 +747,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.345264,
-                    37.949912
+                    -122.363833,
+                    37.936558
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303040",
+                    "identifier": "f-actransit-s-1300390",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58530",
-                        "stop_id": "1303040",
-                        "stop_lat": "37.949912",
-                        "stop_lon": "-122.345264",
-                        "stop_name": "Rheem Av:24th St"
+                        "stop_code": "54414",
+                        "stop_id": "1300390",
+                        "stop_lat": "37.936558",
+                        "stop_lon": "-122.363833",
+                        "stop_name": "6th St:Nevin Av"
                     }
                 }
             ],
-            "name": "Rheem Av:24th St",
-            "onestopId": "s-9q8zzuwfk8-rheem~24th",
+            "name": "6th St:Nevin Av",
+            "onestopId": "s-9q8zzd1kkn-6th~nevin",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -871,27 +902,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.348653,
-                    37.9367
+                    -122.343886,
+                    37.961296
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300200",
+                    "identifier": "f-actransit-s-1600870",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58521",
-                        "stop_id": "1300200",
-                        "stop_lat": "37.936700",
-                        "stop_lon": "-122.348653",
-                        "stop_name": "22nd St:Nevin Av"
+                        "stop_code": "52251",
+                        "stop_id": "1600870",
+                        "stop_lat": "37.961296",
+                        "stop_lon": "-122.343886",
+                        "stop_name": "San Pablo Av:#14041"
                     }
                 }
             ],
-            "name": "22nd St:Nevin Av",
-            "onestopId": "s-9q8zzfhmmc-22nd~nevin",
+            "name": "San Pablo Av:#14041",
+            "onestopId": "s-9q8zzyxusf-sanpablo~14041",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -923,37 +954,6 @@
             ],
             "name": "23rd St:Dover Av",
             "onestopId": "s-9q8zzyjtgs-23rd~dover",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.343886,
-                    37.961296
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1600870",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "52251",
-                        "stop_id": "1600870",
-                        "stop_lat": "37.961296",
-                        "stop_lon": "-122.343886",
-                        "stop_name": "San Pablo Av:#14041"
-                    }
-                }
-            ],
-            "name": "San Pablo Av:#14041",
-            "onestopId": "s-9q8zzyxusf-sanpablo~14041",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1026,37 +1026,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.364671,
-                    37.948474
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1300440",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "54956",
-                        "stop_id": "1300440",
-                        "stop_lat": "37.948474",
-                        "stop_lon": "-122.364671",
-                        "stop_name": "7th St:Hensley St"
-                    }
-                }
-            ],
-            "name": "7th St:Hensley St",
-            "onestopId": "s-9q8zzs2cbs-7th~hensley",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.3555,
                     37.925103
                 ],
@@ -1088,27 +1057,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.363674,
-                    37.937117
+                    -122.352024,
+                    37.948034
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300400",
+                    "identifier": "f-actransit-s-1300070",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58933",
-                        "stop_id": "1300400",
-                        "stop_lat": "37.937117",
-                        "stop_lon": "-122.363674",
-                        "stop_name": "6th St:Nevin Av"
+                        "stop_code": "54661",
+                        "stop_id": "1300070",
+                        "stop_lat": "37.948034",
+                        "stop_lon": "-122.352024",
+                        "stop_name": "18th St:Hellings Av"
                     }
                 }
             ],
-            "name": "6th St:Nevin Av",
-            "onestopId": "s-9q8zzd1rxx-6th~nevin",
+            "name": "18th St:Hellings Av",
+            "onestopId": "s-9q8zzu1zr4-18th~hellings",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.355254,
+                    37.963379
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1600730",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "56335",
+                        "stop_id": "1600730",
+                        "stop_lat": "37.963379",
+                        "stop_lon": "-122.355254",
+                        "stop_name": "Rumrill Blvd:Brookside Dr"
+                    }
+                }
+            ],
+            "name": "Rumrill Blvd:Brookside Dr",
+            "onestopId": "s-9q8zzxp8ey-rumrill~brookside",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1150,27 +1150,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347265,
-                    37.943695
+                    -122.362546,
+                    37.942902
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1301490",
+                    "identifier": "f-actransit-s-1300510",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "59453",
-                        "stop_id": "1301490",
-                        "stop_lat": "37.943695",
-                        "stop_lon": "-122.347265",
-                        "stop_name": "Garvin Av:23rd St"
+                        "stop_code": "55725",
+                        "stop_id": "1300510",
+                        "stop_lat": "37.942902",
+                        "stop_lon": "-122.362546",
+                        "stop_name": "7th St:Pennsylvania Av"
                     }
                 }
             ],
-            "name": "Garvin Av:23rd St",
-            "onestopId": "s-9q8zzgmqn1-garvin~23rd",
+            "name": "7th St:Pennsylvania Av",
+            "onestopId": "s-9q8zze636j-7th~pennsylvania",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1212,27 +1212,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.384057,
-                    37.928014
+                    -122.345208,
+                    37.964157
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303780",
+                    "identifier": "f-actransit-s-1600960",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54022",
-                        "stop_id": "1303780",
-                        "stop_lat": "37.928014",
-                        "stop_lon": "-122.384057",
-                        "stop_name": "Tewksbury Av:Washington Av"
+                        "stop_code": "56761",
+                        "stop_id": "1600960",
+                        "stop_lat": "37.964157",
+                        "stop_lon": "-122.345208",
+                        "stop_name": "San Pablo Av:Purisima St"
                     }
                 }
             ],
-            "name": "Tewksbury Av:Washington Av",
-            "onestopId": "s-9q8zz0ddsy-tewksbury~washington",
+            "name": "San Pablo Av:Purisima St",
+            "onestopId": "s-9q8zzznvnp-sanpablo~purisima",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1264,37 +1264,6 @@
             ],
             "name": "Rumrill Blvd:Pine Av",
             "onestopId": "s-9q8zztw2fe-rumrill~pine",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.356967,
-                    37.95155
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1600810",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "54542",
-                        "stop_id": "1600810",
-                        "stop_lat": "37.951550",
-                        "stop_lon": "-122.356967",
-                        "stop_name": "Rumrill Blvd:Regina Av"
-                    }
-                }
-            ],
-            "name": "Rumrill Blvd:Regina Av",
-            "onestopId": "s-9q8zzsy7u1-rumrill~regina",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1429,27 +1398,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347434,
-                    37.937931
+                    -122.362556,
+                    37.958642
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300300",
+                    "identifier": "f-actransit-s-9900810",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55131",
-                        "stop_id": "1300300",
-                        "stop_lat": "37.937931",
-                        "stop_lon": "-122.347434",
-                        "stop_name": "23rd St:Preble Av"
+                        "stop_code": "56133",
+                        "stop_id": "9900810",
+                        "stop_lat": "37.958642",
+                        "stop_lon": "-122.362556",
+                        "stop_name": "Market Av:6th St"
                     }
                 }
             ],
-            "name": "23rd St:Preble Av",
-            "onestopId": "s-9q8zzfmk6n-23rd~preble",
+            "name": "Market Av:6th St",
+            "onestopId": "s-9q8zzw4m1g-market~6th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1770,27 +1739,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.355254,
-                    37.963379
+                    -122.363674,
+                    37.937117
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600730",
+                    "identifier": "f-actransit-s-1300400",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56335",
-                        "stop_id": "1600730",
-                        "stop_lat": "37.963379",
-                        "stop_lon": "-122.355254",
-                        "stop_name": "Rumrill Blvd:Brookside Dr"
+                        "stop_code": "58933",
+                        "stop_id": "1300400",
+                        "stop_lat": "37.937117",
+                        "stop_lon": "-122.363674",
+                        "stop_name": "6th St:Nevin Av"
                     }
                 }
             ],
-            "name": "Rumrill Blvd:Brookside Dr",
-            "onestopId": "s-9q8zzxp8ey-rumrill~brookside",
+            "name": "6th St:Nevin Av",
+            "onestopId": "s-9q8zzd1rxx-6th~nevin",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1894,6 +1863,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.360141,
+                    37.931319
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1301790",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "55340",
+                        "stop_id": "1301790",
+                        "stop_lat": "37.931319",
+                        "stop_lon": "-122.360141",
+                        "stop_name": "Harbour Way:Ohio Av"
+                    }
+                }
+            ],
+            "name": "Harbour Way:Ohio Av",
+            "onestopId": "s-9q8zz9hjfn-harbour~ohio",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.353476,
                     37.936103
                 ],
@@ -1987,27 +1987,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.386786,
-                    37.92887
+                    -122.347445,
+                    37.955844
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303760",
+                    "identifier": "f-actransit-s-1600030",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58600",
-                        "stop_id": "1303760",
-                        "stop_lat": "37.928870",
-                        "stop_lon": "-122.386786",
-                        "stop_name": "Tewksbury Av:Castro St"
+                        "stop_code": "55680",
+                        "stop_id": "1600030",
+                        "stop_lat": "37.955844",
+                        "stop_lon": "-122.347445",
+                        "stop_name": "23rd St:Bush Av"
                     }
                 }
             ],
-            "name": "Tewksbury Av:Castro St",
-            "onestopId": "s-9q8zz08xtj-tewksbury~castro",
+            "name": "23rd St:Bush Av",
+            "onestopId": "s-9q8zzvtkcf-23rd~bush",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2266,27 +2266,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.360066,
-                    37.940173
+                    -122.344932,
+                    37.96235
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1301770",
+                    "identifier": "f-actransit-s-1600880",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55741",
-                        "stop_id": "1301770",
-                        "stop_lat": "37.940173",
-                        "stop_lon": "-122.360066",
-                        "stop_name": "Harbour Way:Ripley Av"
+                        "stop_code": "52144",
+                        "stop_id": "1600880",
+                        "stop_lat": "37.962350",
+                        "stop_lon": "-122.344932",
+                        "stop_name": "San Pablo Av:23rd St"
                     }
                 }
             ],
-            "name": "Harbour Way:Ripley Av",
-            "onestopId": "s-9q8zzdu1eb-harbour~ripley",
+            "name": "San Pablo Av:23rd St",
+            "onestopId": "s-9q8zzyz4sq-sanpablo~23rd",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2638,27 +2638,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.362686,
-                    37.942714
+                    -122.363343,
+                    37.93823
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300520",
+                    "identifier": "f-actransit-s-1300410",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58966",
-                        "stop_id": "1300520",
-                        "stop_lat": "37.942714",
-                        "stop_lon": "-122.362686",
-                        "stop_name": "7th St:Pennsylvania Av"
+                        "stop_code": "55687",
+                        "stop_id": "1300410",
+                        "stop_lat": "37.938230",
+                        "stop_lon": "-122.363343",
+                        "stop_name": "7th St:Barrett Av"
                     }
                 }
             ],
-            "name": "7th St:Pennsylvania Av",
-            "onestopId": "s-9q8zze60qf-7th~pennsylvania",
+            "name": "7th St:Barrett Av",
+            "onestopId": "s-9q8zzd3wpq-7th~barrett",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2824,27 +2824,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.362546,
-                    37.942902
+                    -122.356967,
+                    37.95155
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300510",
+                    "identifier": "f-actransit-s-1600810",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55725",
-                        "stop_id": "1300510",
-                        "stop_lat": "37.942902",
-                        "stop_lon": "-122.362546",
-                        "stop_name": "7th St:Pennsylvania Av"
+                        "stop_code": "54542",
+                        "stop_id": "1600810",
+                        "stop_lat": "37.951550",
+                        "stop_lon": "-122.356967",
+                        "stop_name": "Rumrill Blvd:Regina Av"
                     }
                 }
             ],
-            "name": "7th St:Pennsylvania Av",
-            "onestopId": "s-9q8zze636j-7th~pennsylvania",
+            "name": "Rumrill Blvd:Regina Av",
+            "onestopId": "s-9q8zzsy7u1-rumrill~regina",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3041,37 +3041,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.345208,
-                    37.964157
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1600960",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "56761",
-                        "stop_id": "1600960",
-                        "stop_lat": "37.964157",
-                        "stop_lon": "-122.345208",
-                        "stop_name": "San Pablo Av:Purisima St"
-                    }
-                }
-            ],
-            "name": "San Pablo Av:Purisima St",
-            "onestopId": "s-9q8zzznvnp-sanpablo~purisima",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.35701,
                     37.938508
                 ],
@@ -3134,27 +3103,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347594,
-                    37.946095
+                    -122.364671,
+                    37.948474
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300290",
+                    "identifier": "f-actransit-s-1300440",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54463",
-                        "stop_id": "1300290",
-                        "stop_lat": "37.946095",
-                        "stop_lon": "-122.347594",
-                        "stop_name": "23rd St:Lincoln Av"
+                        "stop_code": "54956",
+                        "stop_id": "1300440",
+                        "stop_lat": "37.948474",
+                        "stop_lon": "-122.364671",
+                        "stop_name": "7th St:Hensley St"
                     }
                 }
             ],
-            "name": "23rd St:Lincoln Av",
-            "onestopId": "s-9q8zzgvhn2-23rd~lincoln",
+            "name": "7th St:Hensley St",
+            "onestopId": "s-9q8zzs2cbs-7th~hensley",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3320,6 +3289,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.384057,
+                    37.928014
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1303780",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "54022",
+                        "stop_id": "1303780",
+                        "stop_lat": "37.928014",
+                        "stop_lon": "-122.384057",
+                        "stop_name": "Tewksbury Av:Washington Av"
+                    }
+                }
+            ],
+            "name": "Tewksbury Av:Washington Av",
+            "onestopId": "s-9q8zz0ddsy-tewksbury~washington",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.351415,
                     37.941961
                 ],
@@ -3351,27 +3351,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.345457,
-                    37.949793
+                    -122.36706,
+                    37.957544
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303050",
+                    "identifier": "f-actransit-s-9900030",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "59422",
-                        "stop_id": "1303050",
-                        "stop_lat": "37.949793",
-                        "stop_lon": "-122.345457",
-                        "stop_name": "Rheem Av:24th St"
+                        "stop_code": "52551",
+                        "stop_id": "9900030",
+                        "stop_lat": "37.957544",
+                        "stop_lon": "-122.367060",
+                        "stop_name": "Fred Jackson Way:Silver Av"
                     }
                 }
             ],
-            "name": "Rheem Av:24th St",
-            "onestopId": "s-9q8zzuwc84-rheem~24th",
+            "name": "Fred Jackson Way:Silver Av",
+            "onestopId": "s-9q8zzmzn8z-fredjackson~silver",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3413,27 +3413,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.356809,
-                    37.958653
+                    -122.347548,
+                    37.947838
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600790",
+                    "identifier": "f-actransit-s-1300270",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56299",
-                        "stop_id": "1600790",
-                        "stop_lat": "37.958653",
-                        "stop_lon": "-122.356809",
-                        "stop_name": "Rumrill Blvd:Market Av"
+                        "stop_code": "54663",
+                        "stop_id": "1300270",
+                        "stop_lat": "37.947838",
+                        "stop_lon": "-122.347548",
+                        "stop_name": "23rd St:Hellings Av"
                     }
                 }
             ],
-            "name": "Rumrill Blvd:Market Av",
-            "onestopId": "s-9q8zzwnmpt-rumrill~market",
+            "name": "23rd St:Hellings Av",
+            "onestopId": "s-9q8zzujnpt-23rd~hellings",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3506,27 +3506,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.352024,
-                    37.948034
+                    -122.347542,
+                    37.929549
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300070",
+                    "identifier": "f-actransit-s-1303290",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54661",
-                        "stop_id": "1300070",
-                        "stop_lat": "37.948034",
-                        "stop_lon": "-122.352024",
-                        "stop_name": "18th St:Hellings Av"
+                        "stop_code": "51822",
+                        "stop_id": "1303290",
+                        "stop_lat": "37.929549",
+                        "stop_lon": "-122.347542",
+                        "stop_name": "S 23rd St:Florida Av"
                     }
                 }
             ],
-            "name": "18th St:Hellings Av",
-            "onestopId": "s-9q8zzu1zr4-18th~hellings",
+            "name": "S 23rd St:Florida Av",
+            "onestopId": "s-9q8zzbv5xs-s23rd~florida",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3630,6 +3630,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.347316,
+                    37.949703
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1303030",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "54388",
+                        "stop_id": "1303030",
+                        "stop_lat": "37.949703",
+                        "stop_lon": "-122.347316",
+                        "stop_name": "Rheem Av:23rd St"
+                    }
+                }
+            ],
+            "name": "Rheem Av:23rd St",
+            "onestopId": "s-9q8zzut3hc-rheem~23rd",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.347371,
                     37.944636
                 ],
@@ -3692,27 +3723,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.367014,
-                    37.952466
+                    -122.348653,
+                    37.9367
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1301460",
+                    "identifier": "f-actransit-s-1300200",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55385",
-                        "stop_id": "1301460",
-                        "stop_lat": "37.952466",
-                        "stop_lon": "-122.367014",
-                        "stop_name": "Fred Jackson Way:Duboce St"
+                        "stop_code": "58521",
+                        "stop_id": "1300200",
+                        "stop_lat": "37.936700",
+                        "stop_lon": "-122.348653",
+                        "stop_name": "22nd St:Nevin Av"
                     }
                 }
             ],
-            "name": "Fred Jackson Way:Duboce St",
-            "onestopId": "s-9q8zzmp11u-fredjackson~duboce",
+            "name": "22nd St:Nevin Av",
+            "onestopId": "s-9q8zzfhmmc-22nd~nevin",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.365341,
+                    37.935614
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-9901790",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "50892",
+                        "stop_id": "9901790",
+                        "stop_lat": "37.935614",
+                        "stop_lon": "-122.365341",
+                        "stop_name": "MacDonald Ave:4th St"
+                    }
+                }
+            ],
+            "name": "MacDonald Ave:4th St",
+            "onestopId": "s-9q8zz9bqbz-macdonald~4th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3816,58 +3878,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.344932,
-                    37.96235
+                    -122.360066,
+                    37.940173
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600880",
+                    "identifier": "f-actransit-s-1301770",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "52144",
-                        "stop_id": "1600880",
-                        "stop_lat": "37.962350",
-                        "stop_lon": "-122.344932",
-                        "stop_name": "San Pablo Av:23rd St"
+                        "stop_code": "55741",
+                        "stop_id": "1301770",
+                        "stop_lat": "37.940173",
+                        "stop_lon": "-122.360066",
+                        "stop_name": "Harbour Way:Ripley Av"
                     }
                 }
             ],
-            "name": "San Pablo Av:23rd St",
-            "onestopId": "s-9q8zzyz4sq-sanpablo~23rd",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.363343,
-                    37.93823
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1300410",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "55687",
-                        "stop_id": "1300410",
-                        "stop_lat": "37.938230",
-                        "stop_lon": "-122.363343",
-                        "stop_name": "7th St:Barrett Av"
-                    }
-                }
-            ],
-            "name": "7th St:Barrett Av",
-            "onestopId": "s-9q8zzd3wpq-7th~barrett",
+            "name": "Harbour Way:Ripley Av",
+            "onestopId": "s-9q8zzdu1eb-harbour~ripley",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3940,27 +3971,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.365341,
-                    37.935614
+                    -122.367014,
+                    37.952466
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-9901790",
+                    "identifier": "f-actransit-s-1301460",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "50892",
-                        "stop_id": "9901790",
-                        "stop_lat": "37.935614",
-                        "stop_lon": "-122.365341",
-                        "stop_name": "MacDonald Ave:4th St"
+                        "stop_code": "55385",
+                        "stop_id": "1301460",
+                        "stop_lat": "37.952466",
+                        "stop_lon": "-122.367014",
+                        "stop_name": "Fred Jackson Way:Duboce St"
                     }
                 }
             ],
-            "name": "MacDonald Ave:4th St",
-            "onestopId": "s-9q8zz9bqbz-macdonald~4th",
+            "name": "Fred Jackson Way:Duboce St",
+            "onestopId": "s-9q8zzmp11u-fredjackson~duboce",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4064,27 +4095,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.356374,
-                    37.960647
+                    -122.353785,
+                    37.936568
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600750",
+                    "identifier": "f-actransit-s-1303140",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55013",
-                        "stop_id": "1600750",
-                        "stop_lat": "37.960647",
-                        "stop_lon": "-122.356374",
-                        "stop_name": "Rumrill Blvd:Dover Av"
+                        "stop_code": "57757",
+                        "stop_id": "1303140",
+                        "stop_lat": "37.936568",
+                        "stop_lon": "-122.353785",
+                        "stop_name": "Richmond BART Station"
                     }
                 }
             ],
-            "name": "Rumrill Blvd:Dover Av",
-            "onestopId": "s-9q8zzwwbcc-rumrill~dover",
+            "name": "Richmond BART Station",
+            "onestopId": "s-9q8zzf0sw0-richmondbartstation",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4219,27 +4250,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.36857,
-                    37.935784
+                    -122.352029,
+                    37.945873
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1302190",
+                    "identifier": "f-actransit-s-1300100",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55794",
-                        "stop_id": "1302190",
-                        "stop_lat": "37.935784",
-                        "stop_lon": "-122.368570",
-                        "stop_name": "MacDonald Av:1st St"
+                        "stop_code": "56627",
+                        "stop_id": "1300100",
+                        "stop_lat": "37.945873",
+                        "stop_lon": "-122.352029",
+                        "stop_name": "18th St:Lincoln Av"
                     }
                 }
             ],
-            "name": "MacDonald Av:1st St",
-            "onestopId": "s-9q8zz3vzvw-macdonald~1st",
+            "name": "18th St:Lincoln Av",
+            "onestopId": "s-9q8zzgcfxp-18th~lincoln",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4250,27 +4281,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.356509,
-                    37.938313
+                    -122.346442,
+                    37.96049
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300640",
+                    "identifier": "f-actransit-s-9901980",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56518",
-                        "stop_id": "1300640",
-                        "stop_lat": "37.938313",
-                        "stop_lon": "-122.356509",
-                        "stop_name": "Barrett Av:Marina Way"
+                        "stop_code": "50934",
+                        "stop_id": "9901980",
+                        "stop_lat": "37.960490",
+                        "stop_lon": "-122.346442",
+                        "stop_name": "23rd St:University Av"
                     }
                 }
             ],
-            "name": "Barrett Av:Marina Way",
-            "onestopId": "s-9q8zzdqwww-barrett~marina",
+            "name": "23rd St:University Av",
+            "onestopId": "s-9q8zzyqpck-23rd~university",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4343,27 +4374,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.353785,
-                    37.936568
+                    -122.356374,
+                    37.960647
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303140",
+                    "identifier": "f-actransit-s-1600750",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "57757",
-                        "stop_id": "1303140",
-                        "stop_lat": "37.936568",
-                        "stop_lon": "-122.353785",
-                        "stop_name": "Richmond BART Station"
+                        "stop_code": "55013",
+                        "stop_id": "1600750",
+                        "stop_lat": "37.960647",
+                        "stop_lon": "-122.356374",
+                        "stop_name": "Rumrill Blvd:Dover Av"
                     }
                 }
             ],
-            "name": "Richmond BART Station",
-            "onestopId": "s-9q8zzf0sw0-richmondbartstation",
+            "name": "Rumrill Blvd:Dover Av",
+            "onestopId": "s-9q8zzwwbcc-rumrill~dover",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4436,27 +4467,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.363833,
-                    37.936558
+                    -122.345264,
+                    37.949912
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300390",
+                    "identifier": "f-actransit-s-1303040",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54414",
-                        "stop_id": "1300390",
-                        "stop_lat": "37.936558",
-                        "stop_lon": "-122.363833",
-                        "stop_name": "6th St:Nevin Av"
+                        "stop_code": "58530",
+                        "stop_id": "1303040",
+                        "stop_lat": "37.949912",
+                        "stop_lon": "-122.345264",
+                        "stop_name": "Rheem Av:24th St"
                     }
                 }
             ],
-            "name": "6th St:Nevin Av",
-            "onestopId": "s-9q8zzd1kkn-6th~nevin",
+            "name": "Rheem Av:24th St",
+            "onestopId": "s-9q8zzuwfk8-rheem~24th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4560,27 +4591,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347445,
-                    37.955844
+                    -122.386786,
+                    37.92887
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600030",
+                    "identifier": "f-actransit-s-1303760",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55680",
-                        "stop_id": "1600030",
-                        "stop_lat": "37.955844",
-                        "stop_lon": "-122.347445",
-                        "stop_name": "23rd St:Bush Av"
+                        "stop_code": "58600",
+                        "stop_id": "1303760",
+                        "stop_lat": "37.928870",
+                        "stop_lon": "-122.386786",
+                        "stop_name": "Tewksbury Av:Castro St"
                     }
                 }
             ],
-            "name": "23rd St:Bush Av",
-            "onestopId": "s-9q8zzvtkcf-23rd~bush",
+            "name": "Tewksbury Av:Castro St",
+            "onestopId": "s-9q8zz08xtj-tewksbury~castro",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4839,58 +4870,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347298,
-                    37.952369
+                    -122.365535,
+                    37.935789
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300220",
+                    "identifier": "f-actransit-s-1302400",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55339",
-                        "stop_id": "1300220",
-                        "stop_lat": "37.952369",
-                        "stop_lon": "-122.347298",
-                        "stop_name": "23rd St:Alfreda Blvd (Richmond High School)"
+                        "stop_code": "58250",
+                        "stop_id": "1302400",
+                        "stop_lat": "37.935789",
+                        "stop_lon": "-122.365535",
+                        "stop_name": "MacDonald Av:4th St"
                     }
                 }
             ],
-            "name": "23rd St:Alfreda Blvd (Richmond High School)",
-            "onestopId": "s-9q8zzvj2t6-23rd~alfredarichmondhighschool",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.357054,
-                    37.950089
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1300040",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "55074",
-                        "stop_id": "1300040",
-                        "stop_lat": "37.950089",
-                        "stop_lon": "-122.357054",
-                        "stop_name": "13th St:Rheem Av"
-                    }
-                }
-            ],
-            "name": "13th St:Rheem Av",
-            "onestopId": "s-9q8zzsw73c-13th~rheem",
+            "name": "MacDonald Av:4th St",
+            "onestopId": "s-9q8zz9bpur-macdonald~4th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -5056,27 +5056,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347316,
-                    37.949703
+                    -122.352152,
+                    37.94611
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1303030",
+                    "identifier": "f-actransit-s-1300090",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54388",
-                        "stop_id": "1303030",
-                        "stop_lat": "37.949703",
-                        "stop_lon": "-122.347316",
-                        "stop_name": "Rheem Av:23rd St"
+                        "stop_code": "54461",
+                        "stop_id": "1300090",
+                        "stop_lat": "37.946110",
+                        "stop_lon": "-122.352152",
+                        "stop_name": "18th St:Lincoln Av"
                     }
                 }
             ],
-            "name": "Rheem Av:23rd St",
-            "onestopId": "s-9q8zzut3hc-rheem~23rd",
+            "name": "18th St:Lincoln Av",
+            "onestopId": "s-9q8zzgcuh5-18th~lincoln",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -5118,27 +5118,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.36706,
-                    37.957544
+                    -122.345457,
+                    37.949793
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-9900030",
+                    "identifier": "f-actransit-s-1303050",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "52551",
-                        "stop_id": "9900030",
-                        "stop_lat": "37.957544",
-                        "stop_lon": "-122.367060",
-                        "stop_name": "Fred Jackson Way:Silver Av"
+                        "stop_code": "59422",
+                        "stop_id": "1303050",
+                        "stop_lat": "37.949793",
+                        "stop_lon": "-122.345457",
+                        "stop_name": "Rheem Av:24th St"
                     }
                 }
             ],
-            "name": "Fred Jackson Way:Silver Av",
-            "onestopId": "s-9q8zzmzn8z-fredjackson~silver",
+            "name": "Rheem Av:24th St",
+            "onestopId": "s-9q8zzuwc84-rheem~24th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -5149,27 +5149,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.360141,
-                    37.931319
+                    -122.379914,
+                    37.929215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1301790",
+                    "identifier": "f-actransit-s-1303350",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55340",
-                        "stop_id": "1301790",
-                        "stop_lat": "37.931319",
-                        "stop_lon": "-122.360141",
-                        "stop_name": "Harbour Way:Ohio Av"
+                        "stop_code": "55834",
+                        "stop_id": "1303350",
+                        "stop_lat": "37.929215",
+                        "stop_lon": "-122.379914",
+                        "stop_name": "S Garrard Blvd:Canal Blvd"
                     }
                 }
             ],
-            "name": "Harbour Way:Ohio Av",
-            "onestopId": "s-9q8zz9hjfn-harbour~ohio",
+            "name": "S Garrard Blvd:Canal Blvd",
+            "onestopId": "s-9q8zz0v9tq-sgarrard~canal",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -5180,27 +5180,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.346442,
-                    37.96049
+                    -122.356509,
+                    37.938313
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-9901980",
+                    "identifier": "f-actransit-s-1300640",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "50934",
-                        "stop_id": "9901980",
-                        "stop_lat": "37.960490",
-                        "stop_lon": "-122.346442",
-                        "stop_name": "23rd St:University Av"
+                        "stop_code": "56518",
+                        "stop_id": "1300640",
+                        "stop_lat": "37.938313",
+                        "stop_lon": "-122.356509",
+                        "stop_name": "Barrett Av:Marina Way"
                     }
                 }
             ],
-            "name": "23rd St:University Av",
-            "onestopId": "s-9q8zzyqpck-23rd~university",
+            "name": "Barrett Av:Marina Way",
+            "onestopId": "s-9q8zzdqwww-barrett~marina",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -5335,27 +5335,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.365535,
-                    37.935789
+                    -122.357054,
+                    37.950089
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1302400",
+                    "identifier": "f-actransit-s-1300040",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58250",
-                        "stop_id": "1302400",
-                        "stop_lat": "37.935789",
-                        "stop_lon": "-122.365535",
-                        "stop_name": "MacDonald Av:4th St"
+                        "stop_code": "55074",
+                        "stop_id": "1300040",
+                        "stop_lat": "37.950089",
+                        "stop_lon": "-122.357054",
+                        "stop_name": "13th St:Rheem Av"
                     }
                 }
             ],
-            "name": "MacDonald Av:4th St",
-            "onestopId": "s-9q8zz9bpur-macdonald~4th",
+            "name": "13th St:Rheem Av",
+            "onestopId": "s-9q8zzsw73c-13th~rheem",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -5366,27 +5366,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.352029,
-                    37.945873
+                    -122.36857,
+                    37.935784
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1300100",
+                    "identifier": "f-actransit-s-1302190",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56627",
-                        "stop_id": "1300100",
-                        "stop_lat": "37.945873",
-                        "stop_lon": "-122.352029",
-                        "stop_name": "18th St:Lincoln Av"
+                        "stop_code": "55794",
+                        "stop_id": "1302190",
+                        "stop_lat": "37.935784",
+                        "stop_lon": "-122.368570",
+                        "stop_name": "MacDonald Av:1st St"
                     }
                 }
             ],
-            "name": "18th St:Lincoln Av",
-            "onestopId": "s-9q8zzgcfxp-18th~lincoln",
+            "name": "MacDonald Av:1st St",
+            "onestopId": "s-9q8zz3vzvw-macdonald~1st",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

@@ -71,30 +71,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.235406,
-                    37.48773
+                    -122.253,
+                    37.52792
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344042",
+                    "identifier": "f-samtrans-s-362400",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344042",
+                        "stop_code": "362400",
                         "stop_desc": "",
-                        "stop_id": "344042",
-                        "stop_lat": "  37.487730",
-                        "stop_lon": "-122.235406",
-                        "stop_name": "BREWSTER AVE & EL CAMINO REAL",
+                        "stop_id": "362400",
+                        "stop_lat": "  37.527920",
+                        "stop_lon": "-122.253000",
+                        "stop_name": "Bridge at Bowsprit",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BREWSTER AVE & EL CAMINO REAL",
-            "onestopId": "s-9q9j62qvue-brewster~elcaminoreal",
+            "name": "Bridge at Bowsprit",
+            "onestopId": "s-9q9j6pdpfx-bridgeatbowsprit",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.238,
+                    37.48585
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-344063",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "344063",
+                        "stop_desc": "",
+                        "stop_id": "344063",
+                        "stop_lat": "  37.485850",
+                        "stop_lon": "-122.238000",
+                        "stop_name": "BREWSTER AVE & BROADWAY",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "BREWSTER AVE & BROADWAY",
+            "onestopId": "s-9q9j62j4bh-brewster~broadway",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -275,40 +309,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.232053,
-                    37.48582
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-344636",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "344636",
-                        "stop_desc": "",
-                        "stop_id": "344636",
-                        "stop_lat": "  37.485820",
-                        "stop_lon": "-122.232053",
-                        "stop_name": "Redwood City Caltrain-Lane B",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Redwood City Caltrain-Lane B",
-            "onestopId": "s-9q9j6816dx-redwoodcitycaltrainb",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.23621,
                     37.4875
                 ],
@@ -333,74 +333,6 @@
             ],
             "name": "El Camino Real & Brewster Ave",
             "onestopId": "s-9q9j62qk9b-elcaminoreal~brewster",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.2338,
-                    37.48538
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-344095",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "344095",
-                        "stop_desc": "",
-                        "stop_id": "344095",
-                        "stop_lat": "  37.485380",
-                        "stop_lon": "-122.233800",
-                        "stop_name": "El Camino Real & Winklebleck St",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "El Camino Real & Winklebleck St",
-            "onestopId": "s-9q9j68004j-elcaminoreal~winklebleck",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.25539,
-                    37.50302
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-343054",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "343054",
-                        "stop_desc": "",
-                        "stop_id": "343054",
-                        "stop_lat": "  37.503020",
-                        "stop_lon": "-122.255390",
-                        "stop_name": "El Camino Real & Arroyo Ave-San Carlos",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "El Camino Real & Arroyo Ave-San Carlos",
-            "onestopId": "s-9q9j650qfv-elcaminoreal~arroyosancarlos",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -469,6 +401,40 @@
             ],
             "name": "BROADWAY & WOODSIDE EXWY",
             "onestopId": "s-9q9j6bmfxt-broadway~woodsideexwy",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.239651,
+                    37.491758
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-344002",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "344002",
+                        "stop_desc": "",
+                        "stop_id": "344002",
+                        "stop_lat": "  37.491758",
+                        "stop_lon": "-122.239651",
+                        "stop_name": "A St & Stafford St",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "A St & Stafford St",
+            "onestopId": "s-9q9j635v3d-a~stafford",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -683,30 +649,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.253,
-                    37.52792
+                    -122.235406,
+                    37.48773
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-362400",
+                    "identifier": "f-samtrans-s-344042",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "362400",
+                        "stop_code": "344042",
                         "stop_desc": "",
-                        "stop_id": "362400",
-                        "stop_lat": "  37.527920",
-                        "stop_lon": "-122.253000",
-                        "stop_name": "Bridge at Bowsprit",
+                        "stop_id": "344042",
+                        "stop_lat": "  37.487730",
+                        "stop_lon": "-122.235406",
+                        "stop_name": "BREWSTER AVE & EL CAMINO REAL",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Bridge at Bowsprit",
-            "onestopId": "s-9q9j6pdpfx-bridgeatbowsprit",
+            "name": "BREWSTER AVE & EL CAMINO REAL",
+            "onestopId": "s-9q9j62qvue-brewster~elcaminoreal",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -853,30 +819,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.23559,
-                    37.48665
+                    -122.232053,
+                    37.48582
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344069",
+                    "identifier": "f-samtrans-s-344636",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344069",
+                        "stop_code": "344636",
                         "stop_desc": "",
-                        "stop_id": "344069",
-                        "stop_lat": "  37.486650",
-                        "stop_lon": "-122.235590",
-                        "stop_name": "El Camino Real & Brewster Ave",
+                        "stop_id": "344636",
+                        "stop_lat": "  37.485820",
+                        "stop_lon": "-122.232053",
+                        "stop_name": "Redwood City Caltrain-Lane B",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "El Camino Real & Brewster Ave",
-            "onestopId": "s-9q9j62nz86-elcaminoreal~brewster",
+            "name": "Redwood City Caltrain-Lane B",
+            "onestopId": "s-9q9j6816dx-redwoodcitycaltrainb",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1125,30 +1091,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.238,
-                    37.48585
+                    -122.251687,
+                    37.507459
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344063",
+                    "identifier": "f-samtrans-s-343613",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344063",
+                        "stop_code": "343613",
                         "stop_desc": "",
-                        "stop_id": "344063",
-                        "stop_lat": "  37.485850",
-                        "stop_lon": "-122.238000",
-                        "stop_name": "BREWSTER AVE & BROADWAY",
+                        "stop_id": "343613",
+                        "stop_lat": "  37.507459",
+                        "stop_lon": "-122.251687",
+                        "stop_name": "Industrial Rd & Bransten Rd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BREWSTER AVE & BROADWAY",
-            "onestopId": "s-9q9j62j4bh-brewster~broadway",
+            "name": "Industrial Rd & Bransten Rd",
+            "onestopId": "s-9q9j6h50c1-industrial~bransten",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1159,30 +1125,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.24052,
-                    37.48975
+                    -122.24108,
+                    37.49147
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344475",
+                    "identifier": "f-samtrans-s-344080",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344475",
+                        "stop_code": "344080",
                         "stop_desc": "",
-                        "stop_id": "344475",
-                        "stop_lat": "  37.489750",
-                        "stop_lon": "-122.240520",
-                        "stop_name": "Whipple Ave & El Camino Real",
+                        "stop_id": "344080",
+                        "stop_lat": "  37.491470",
+                        "stop_lon": "-122.241080",
+                        "stop_name": "El Camino Real & Whipple Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Whipple Ave & El Camino Real",
-            "onestopId": "s-9q9j62g1t7-whipple~elcaminoreal",
+            "name": "El Camino Real & Whipple Ave",
+            "onestopId": "s-9q9j634g8k-elcaminoreal~whipple",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1217,6 +1183,40 @@
             ],
             "name": "Redwood Shores Pkwy & Market Pl",
             "onestopId": "s-9q9j6ndnkg-redwoodshores~marketpl",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.2338,
+                    37.48538
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-344095",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "344095",
+                        "stop_desc": "",
+                        "stop_id": "344095",
+                        "stop_lat": "  37.485380",
+                        "stop_lon": "-122.233800",
+                        "stop_name": "El Camino Real & Winklebleck St",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "El Camino Real & Winklebleck St",
+            "onestopId": "s-9q9j68004j-elcaminoreal~winklebleck",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1455,40 +1455,6 @@
             ],
             "name": "175 G St",
             "onestopId": "s-9q9j63c9cf-175g",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.23467,
-                    37.48579
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-344072",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "344072",
-                        "stop_desc": "",
-                        "stop_id": "344072",
-                        "stop_lat": "  37.485790",
-                        "stop_lon": "-122.234670",
-                        "stop_name": "El Camino Real & Broadway-Redwood City",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "El Camino Real & Broadway-Redwood City",
-            "onestopId": "s-9q9j62p6t9-elcaminoreal~broadwayredwoodcity",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1771,30 +1737,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.239651,
-                    37.491758
+                    -122.23559,
+                    37.48665
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344002",
+                    "identifier": "f-samtrans-s-344069",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344002",
+                        "stop_code": "344069",
                         "stop_desc": "",
-                        "stop_id": "344002",
-                        "stop_lat": "  37.491758",
-                        "stop_lon": "-122.239651",
-                        "stop_name": "A St & Stafford St",
+                        "stop_id": "344069",
+                        "stop_lat": "  37.486650",
+                        "stop_lon": "-122.235590",
+                        "stop_name": "El Camino Real & Brewster Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "A St & Stafford St",
-            "onestopId": "s-9q9j635v3d-a~stafford",
+            "name": "El Camino Real & Brewster Ave",
+            "onestopId": "s-9q9j62nz86-elcaminoreal~brewster",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1805,30 +1771,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.24904,
-                    37.52607
+                    -122.24112,
+                    37.4912
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-362417",
+                    "identifier": "f-samtrans-s-344079",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "362417",
+                        "stop_code": "344079",
                         "stop_desc": "",
-                        "stop_id": "362417",
-                        "stop_lat": "  37.526070",
-                        "stop_lon": "-122.249040",
-                        "stop_name": "Barkentine Ln & Tiller Ln",
+                        "stop_id": "344079",
+                        "stop_lat": "  37.491200",
+                        "stop_lon": "-122.241120",
+                        "stop_name": "El Camino Real & Whipple Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Barkentine Ln & Tiller Ln",
-            "onestopId": "s-9q9j6pkvny-barkentine~tiller",
+            "name": "El Camino Real & Whipple Ave",
+            "onestopId": "s-9q9j634dp6-elcaminoreal~whipple",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1873,30 +1839,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.255,
-                    37.5099
+                    -122.23467,
+                    37.48579
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-343032",
+                    "identifier": "f-samtrans-s-344072",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "343032",
+                        "stop_code": "344072",
                         "stop_desc": "",
-                        "stop_id": "343032",
-                        "stop_lat": "  37.509900",
-                        "stop_lon": "-122.255000",
-                        "stop_name": "INDUSTRIAL RD & MONTGOMERY ST",
+                        "stop_id": "344072",
+                        "stop_lat": "  37.485790",
+                        "stop_lon": "-122.234670",
+                        "stop_name": "El Camino Real & Broadway-Redwood City",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "INDUSTRIAL RD & MONTGOMERY ST",
-            "onestopId": "s-9q9j6h2xh0-industrial~montgomery",
+            "name": "El Camino Real & Broadway-Redwood City",
+            "onestopId": "s-9q9j62p6t9-elcaminoreal~broadwayredwoodcity",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1975,30 +1941,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.24112,
-                    37.4912
+                    -122.24904,
+                    37.52607
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344079",
+                    "identifier": "f-samtrans-s-362417",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344079",
+                        "stop_code": "362417",
                         "stop_desc": "",
-                        "stop_id": "344079",
-                        "stop_lat": "  37.491200",
-                        "stop_lon": "-122.241120",
-                        "stop_name": "El Camino Real & Whipple Ave",
+                        "stop_id": "362417",
+                        "stop_lat": "  37.526070",
+                        "stop_lon": "-122.249040",
+                        "stop_name": "Barkentine Ln & Tiller Ln",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "El Camino Real & Whipple Ave",
-            "onestopId": "s-9q9j634dp6-elcaminoreal~whipple",
+            "name": "Barkentine Ln & Tiller Ln",
+            "onestopId": "s-9q9j6pkvny-barkentine~tiller",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2111,30 +2077,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.251687,
-                    37.507459
+                    -122.25539,
+                    37.50302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-343613",
+                    "identifier": "f-samtrans-s-343054",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "343613",
+                        "stop_code": "343054",
                         "stop_desc": "",
-                        "stop_id": "343613",
-                        "stop_lat": "  37.507459",
-                        "stop_lon": "-122.251687",
-                        "stop_name": "Industrial Rd & Bransten Rd",
+                        "stop_id": "343054",
+                        "stop_lat": "  37.503020",
+                        "stop_lon": "-122.255390",
+                        "stop_name": "El Camino Real & Arroyo Ave-San Carlos",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Industrial Rd & Bransten Rd",
-            "onestopId": "s-9q9j6h50c1-industrial~bransten",
+            "name": "El Camino Real & Arroyo Ave-San Carlos",
+            "onestopId": "s-9q9j650qfv-elcaminoreal~arroyosancarlos",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2315,30 +2281,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.24108,
-                    37.49147
+                    -122.255,
+                    37.5099
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-344080",
+                    "identifier": "f-samtrans-s-343032",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "344080",
+                        "stop_code": "343032",
                         "stop_desc": "",
-                        "stop_id": "344080",
-                        "stop_lat": "  37.491470",
-                        "stop_lon": "-122.241080",
-                        "stop_name": "El Camino Real & Whipple Ave",
+                        "stop_id": "343032",
+                        "stop_lat": "  37.509900",
+                        "stop_lon": "-122.255000",
+                        "stop_name": "INDUSTRIAL RD & MONTGOMERY ST",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "El Camino Real & Whipple Ave",
-            "onestopId": "s-9q9j634g8k-elcaminoreal~whipple",
+            "name": "INDUSTRIAL RD & MONTGOMERY ST",
+            "onestopId": "s-9q9j6h2xh0-industrial~montgomery",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.24052,
+                    37.48975
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-344475",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "344475",
+                        "stop_desc": "",
+                        "stop_id": "344475",
+                        "stop_lat": "  37.489750",
+                        "stop_lon": "-122.240520",
+                        "stop_name": "Whipple Ave & El Camino Real",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Whipple Ave & El Camino Real",
+            "onestopId": "s-9q9j62g1t7-whipple~elcaminoreal",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

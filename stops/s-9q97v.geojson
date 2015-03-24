@@ -12,6 +12,7 @@
                 {
                     "identifier": "f-vta-s-3424",
                     "tags": {
+                        "stop_code": "63424",
                         "stop_desc": "",
                         "stop_id": "3424",
                         "stop_lat": "37.223980840000003",
@@ -42,6 +43,7 @@
                 {
                     "identifier": "f-vta-s-3399",
                     "tags": {
+                        "stop_code": "63399",
                         "stop_desc": "",
                         "stop_id": "3399",
                         "stop_lat": "37.221936296999999",
@@ -72,6 +74,7 @@
                 {
                     "identifier": "f-vta-s-5698",
                     "tags": {
+                        "stop_code": "65698",
                         "stop_desc": "",
                         "stop_id": "5698",
                         "stop_lat": "37.235123000000002",
@@ -102,6 +105,7 @@
                 {
                     "identifier": "f-vta-s-5699",
                     "tags": {
+                        "stop_code": "65699",
                         "stop_desc": "",
                         "stop_id": "5699",
                         "stop_lat": "37.236755000000002",
@@ -132,6 +136,7 @@
                 {
                     "identifier": "f-vta-s-5705",
                     "tags": {
+                        "stop_code": "65705",
                         "stop_desc": "",
                         "stop_id": "5705",
                         "stop_lat": "37.234195999999997",
@@ -162,6 +167,7 @@
                 {
                     "identifier": "f-vta-s-3425",
                     "tags": {
+                        "stop_code": "63425",
                         "stop_desc": "",
                         "stop_id": "3425",
                         "stop_lat": "37.221698113000002",
@@ -183,36 +189,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.76753124,
-                    37.22425198
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3400",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "3400",
-                        "stop_lat": "37.224251979999998",
-                        "stop_lon": "-121.76753124",
-                        "stop_name": "SANTA TERESA & AVENIDA ESPANA",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "SANTA TERESA & AVENIDA ESPANA",
-            "onestopId": "s-9q97v07wfz-santateresa~avenidaespana",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.772046306,
                     37.232954289
                 ],
@@ -222,6 +198,7 @@
                 {
                     "identifier": "f-vta-s-3697",
                     "tags": {
+                        "stop_code": "63697",
                         "stop_desc": "",
                         "stop_id": "3697",
                         "stop_lat": "37.232954288999998",
@@ -233,6 +210,37 @@
             ],
             "name": "BERNAL & VIA SERENA",
             "onestopId": "s-9q97v4039t-bernal~viaserena",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.76753124,
+                    37.22425198
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3400",
+                    "tags": {
+                        "stop_code": "63400",
+                        "stop_desc": "",
+                        "stop_id": "3400",
+                        "stop_lat": "37.224251979999998",
+                        "stop_lon": "-121.76753124",
+                        "stop_name": "SANTA TERESA & AVENIDA ESPANA",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & AVENIDA ESPANA",
+            "onestopId": "s-9q97v07wfz-santateresa~avenidaespana",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

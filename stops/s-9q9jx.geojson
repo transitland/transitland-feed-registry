@@ -1832,37 +1832,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.026433,
-                    37.567713
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-0702750",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "58722",
-                        "stop_id": "0702750",
-                        "stop_lat": "37.567713",
-                        "stop_lon": "-122.026433",
-                        "stop_name": "Fremont Blvd:Tamayo St"
-                    }
-                }
-            ],
-            "name": "Fremont Blvd:Tamayo St",
-            "onestopId": "s-9q9jxnzpf1-fremont~tamayo",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.03146,
                     37.570184
                 ],
@@ -1884,6 +1853,37 @@
             ],
             "name": "Fremont Blvd:Decoto Rd",
             "onestopId": "s-9q9jxp7qhv-fremont~decoto",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.026433,
+                    37.567713
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-0702750",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "58722",
+                        "stop_id": "0702750",
+                        "stop_lat": "37.567713",
+                        "stop_lon": "-122.026433",
+                        "stop_name": "Fremont Blvd:Tamayo St"
+                    }
+                }
+            ],
+            "name": "Fremont Blvd:Tamayo St",
+            "onestopId": "s-9q9jxnzpf1-fremont~tamayo",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2545,27 +2545,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.023606,
-                    37.532802
+                    -122.000481,
+                    37.534111
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0901180",
+                    "identifier": "f-actransit-s-0703850",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55193",
-                        "stop_id": "0901180",
-                        "stop_lat": "37.532802",
-                        "stop_lon": "-122.023606",
-                        "stop_name": "Newark Blvd:Central Av"
+                        "stop_code": "55780",
+                        "stop_id": "0703850",
+                        "stop_lat": "37.534111",
+                        "stop_lon": "-122.000481",
+                        "stop_name": "Mowry Av:Farwell Dr"
                     }
                 }
             ],
-            "name": "Newark Blvd:Central Av",
-            "onestopId": "s-9q9jx29h7v-newark~central",
+            "name": "Mowry Av:Farwell Dr",
+            "onestopId": "s-9q9jxbcun9-mowry~farwell",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2886,27 +2886,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.000481,
-                    37.534111
+                    -122.023606,
+                    37.532802
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0703850",
+                    "identifier": "f-actransit-s-0901180",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55780",
-                        "stop_id": "0703850",
-                        "stop_lat": "37.534111",
-                        "stop_lon": "-122.000481",
-                        "stop_name": "Mowry Av:Farwell Dr"
+                        "stop_code": "55193",
+                        "stop_id": "0901180",
+                        "stop_lat": "37.532802",
+                        "stop_lon": "-122.023606",
+                        "stop_name": "Newark Blvd:Central Av"
                     }
                 }
             ],
-            "name": "Mowry Av:Farwell Dr",
-            "onestopId": "s-9q9jxbcun9-mowry~farwell",
+            "name": "Newark Blvd:Central Av",
+            "onestopId": "s-9q9jx29h7v-newark~central",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

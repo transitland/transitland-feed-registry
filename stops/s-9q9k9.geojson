@@ -12,6 +12,7 @@
                 {
                     "identifier": "f-vta-s-20",
                     "tags": {
+                        "stop_code": "60020",
                         "stop_desc": "",
                         "stop_id": "20",
                         "stop_lat": "37.355056802999997",
@@ -42,6 +43,7 @@
                 {
                     "identifier": "f-vta-s-15",
                     "tags": {
+                        "stop_code": "60015",
                         "stop_desc": "",
                         "stop_id": "15",
                         "stop_lat": "37.368170036999999",
@@ -72,6 +74,7 @@
                 {
                     "identifier": "f-vta-s-2612",
                     "tags": {
+                        "stop_code": "62612",
                         "stop_desc": "",
                         "stop_id": "2612",
                         "stop_lat": "37.385165190000002",
@@ -102,6 +105,7 @@
                 {
                     "identifier": "f-vta-s-4756",
                     "tags": {
+                        "stop_code": "64756",
                         "stop_desc": "",
                         "stop_id": "4756",
                         "stop_lat": "37.388748863000004",
@@ -132,6 +136,7 @@
                 {
                     "identifier": "f-vta-s-5511",
                     "tags": {
+                        "stop_code": "65511",
                         "stop_desc": "",
                         "stop_id": "5511",
                         "stop_lat": "37.396660320000002",
@@ -153,26 +158,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.945412899,
-                    37.385187996
+                    -121.9445406,
+                    37.38914352
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-2580",
+                    "identifier": "f-vta-s-2610",
                     "tags": {
+                        "stop_code": "62610",
                         "stop_desc": "",
-                        "stop_id": "2580",
-                        "stop_lat": "37.385187995999999",
-                        "stop_lon": "-121.945412899",
-                        "stop_name": "ALDO & WOODWARD",
+                        "stop_id": "2610",
+                        "stop_lat": "37.389143519999998",
+                        "stop_lon": "-121.9445406",
+                        "stop_name": "DE LA CRUZ & GREENWOOD",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "ALDO & WOODWARD",
-            "onestopId": "s-9q9k9jf09b-aldo~woodward",
+            "name": "DE LA CRUZ & GREENWOOD",
+            "onestopId": "s-9q9k9n6xw3-delacruz~greenwood",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -192,6 +198,7 @@
                 {
                     "identifier": "f-vta-s-4574",
                     "tags": {
+                        "stop_code": "64574",
                         "stop_desc": "",
                         "stop_id": "4574",
                         "stop_lat": "37.396390535999998",
@@ -213,6 +220,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.948112462,
+                    37.392766287
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-4591",
+                    "tags": {
+                        "stop_code": "64591",
+                        "stop_desc": "",
+                        "stop_id": "4591",
+                        "stop_lat": "37.392766287000001",
+                        "stop_lon": "-121.948112462",
+                        "stop_name": "MONTAGUE & DE LA CRUZ",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "MONTAGUE & DE LA CRUZ",
+            "onestopId": "s-9q9k9p0heh-montague~delacruz",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.93383732,
                     37.39408216
                 ],
@@ -222,6 +260,7 @@
                 {
                     "identifier": "f-vta-s-4764",
                     "tags": {
+                        "stop_code": "64764",
                         "stop_desc": "",
                         "stop_id": "4764",
                         "stop_lat": "37.394082160000004",
@@ -252,6 +291,7 @@
                 {
                     "identifier": "f-vta-s-4524",
                     "tags": {
+                        "stop_code": "64524",
                         "stop_desc": "",
                         "stop_id": "4524",
                         "stop_lat": "37.356971332999997",
@@ -282,6 +322,7 @@
                 {
                     "identifier": "f-vta-s-4572",
                     "tags": {
+                        "stop_code": "64572",
                         "stop_desc": "",
                         "stop_id": "4572",
                         "stop_lat": "37.396928285999998",
@@ -312,6 +353,7 @@
                 {
                     "identifier": "f-vta-s-4589",
                     "tags": {
+                        "stop_code": "64589",
                         "stop_desc": "",
                         "stop_id": "4589",
                         "stop_lat": "37.393670976999999",
@@ -342,6 +384,7 @@
                 {
                     "identifier": "f-vta-s-19",
                     "tags": {
+                        "stop_code": "60019",
                         "stop_desc": "",
                         "stop_id": "19",
                         "stop_lat": "37.360321198000001",
@@ -372,6 +415,7 @@
                 {
                     "identifier": "f-vta-s-5051",
                     "tags": {
+                        "stop_code": "65051",
                         "stop_desc": "",
                         "stop_id": "5051",
                         "stop_lat": "37.393392020999997",
@@ -402,6 +446,7 @@
                 {
                     "identifier": "f-vta-s-4765",
                     "tags": {
+                        "stop_code": "64765",
                         "stop_desc": "",
                         "stop_id": "4765",
                         "stop_lat": "37.387196977999999",
@@ -432,6 +477,7 @@
                 {
                     "identifier": "f-vta-s-1976",
                     "tags": {
+                        "stop_code": "61976",
                         "stop_desc": "",
                         "stop_id": "1976",
                         "stop_lat": "37.370168436",
@@ -462,6 +508,7 @@
                 {
                     "identifier": "f-vta-s-4766",
                     "tags": {
+                        "stop_code": "64766",
                         "stop_desc": "",
                         "stop_id": "4766",
                         "stop_lat": "37.381936947",
@@ -492,6 +539,7 @@
                 {
                     "identifier": "f-vta-s-11",
                     "tags": {
+                        "stop_code": "60011",
                         "stop_desc": "",
                         "stop_id": "11",
                         "stop_lat": "37.363016999999999",
@@ -522,6 +570,7 @@
                 {
                     "identifier": "f-vta-s-4769",
                     "tags": {
+                        "stop_code": "64769",
                         "stop_desc": "",
                         "stop_id": "4769",
                         "stop_lat": "37.360938191999999",
@@ -552,6 +601,7 @@
                 {
                     "identifier": "f-vta-s-4753",
                     "tags": {
+                        "stop_code": "64753",
                         "stop_desc": "",
                         "stop_id": "4753",
                         "stop_lat": "37.370363515000001",
@@ -582,6 +632,7 @@
                 {
                     "identifier": "f-vta-s-14",
                     "tags": {
+                        "stop_code": "60014",
                         "stop_desc": "",
                         "stop_id": "14",
                         "stop_lat": "37.369769509999998",
@@ -612,6 +663,7 @@
                 {
                     "identifier": "f-vta-s-2611",
                     "tags": {
+                        "stop_code": "62611",
                         "stop_desc": "",
                         "stop_id": "2611",
                         "stop_lat": "37.386295027999999",
@@ -642,6 +694,7 @@
                 {
                     "identifier": "f-vta-s-2729",
                     "tags": {
+                        "stop_code": "62729",
                         "stop_desc": "",
                         "stop_id": "2729",
                         "stop_lat": "37.354612549999999",
@@ -672,6 +725,7 @@
                 {
                     "identifier": "f-vta-s-2581",
                     "tags": {
+                        "stop_code": "62581",
                         "stop_desc": "",
                         "stop_id": "2581",
                         "stop_lat": "37.386524885",
@@ -702,6 +756,7 @@
                 {
                     "identifier": "f-vta-s-2744",
                     "tags": {
+                        "stop_code": "62744",
                         "stop_desc": "",
                         "stop_id": "2744",
                         "stop_lat": "37.354024324000001",
@@ -732,6 +787,7 @@
                 {
                     "identifier": "f-vta-s-1998",
                     "tags": {
+                        "stop_code": "61998",
                         "stop_desc": "",
                         "stop_id": "1998",
                         "stop_lat": "37.371475211000003",
@@ -753,36 +809,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.925777086,
-                    37.383483389
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-4755",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "4755",
-                        "stop_lat": "37.383483388999998",
-                        "stop_lon": "-121.925777086",
-                        "stop_name": "COMPONENT STATION (0)",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "COMPONENT STATION (0)",
-            "onestopId": "s-9q9k9t2qe6-componentstation0",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.946479,
                     37.393012
                 ],
@@ -792,6 +818,7 @@
                 {
                     "identifier": "f-vta-s-4571",
                     "tags": {
+                        "stop_code": "64571",
                         "stop_desc": "",
                         "stop_id": "4571",
                         "stop_lat": "37.393011999999999",
@@ -822,6 +849,7 @@
                 {
                     "identifier": "f-vta-s-1999",
                     "tags": {
+                        "stop_code": "61999",
                         "stop_desc": "",
                         "stop_id": "1999",
                         "stop_lat": "37.366825663999997",
@@ -852,6 +880,7 @@
                 {
                     "identifier": "f-vta-s-16",
                     "tags": {
+                        "stop_code": "60016",
                         "stop_desc": "",
                         "stop_id": "16",
                         "stop_lat": "37.370146274",
@@ -873,36 +902,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.9445406,
-                    37.38914352
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-2610",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "2610",
-                        "stop_lat": "37.389143519999998",
-                        "stop_lon": "-121.9445406",
-                        "stop_name": "DE LA CRUZ & GREENWOOD",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "DE LA CRUZ & GREENWOOD",
-            "onestopId": "s-9q9k9n6xw3-delacruz~greenwood",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.917057,
                     37.365597
                 ],
@@ -912,6 +911,7 @@
                 {
                     "identifier": "f-vta-s-5560",
                     "tags": {
+                        "stop_code": "65560",
                         "stop_desc": "",
                         "stop_id": "5560",
                         "stop_lat": "37.365597000000001",
@@ -942,6 +942,7 @@
                 {
                     "identifier": "f-vta-s-2582",
                     "tags": {
+                        "stop_code": "62582",
                         "stop_desc": "",
                         "stop_id": "2582",
                         "stop_lat": "37.389926639000002",
@@ -972,6 +973,7 @@
                 {
                     "identifier": "f-vta-s-4752",
                     "tags": {
+                        "stop_code": "64752",
                         "stop_desc": "",
                         "stop_id": "4752",
                         "stop_lat": "37.362544086",
@@ -1002,6 +1004,7 @@
                 {
                     "identifier": "f-vta-s-2609",
                     "tags": {
+                        "stop_code": "62609",
                         "stop_desc": "",
                         "stop_id": "2609",
                         "stop_lat": "37.39249435",
@@ -1032,6 +1035,7 @@
                 {
                     "identifier": "f-vta-s-8",
                     "tags": {
+                        "stop_code": "60008",
                         "stop_desc": "",
                         "stop_id": "8",
                         "stop_lat": "37.368425000000002",
@@ -1062,6 +1066,7 @@
                 {
                     "identifier": "f-vta-s-4543",
                     "tags": {
+                        "stop_code": "64543",
                         "stop_desc": "",
                         "stop_id": "4543",
                         "stop_lat": "37.356736818999998",
@@ -1092,6 +1097,7 @@
                 {
                     "identifier": "f-vta-s-2607",
                     "tags": {
+                        "stop_code": "62607",
                         "stop_desc": "",
                         "stop_id": "2607",
                         "stop_lat": "37.397160473",
@@ -1122,6 +1128,7 @@
                 {
                     "identifier": "f-vta-s-4754",
                     "tags": {
+                        "stop_code": "64754",
                         "stop_desc": "",
                         "stop_id": "4754",
                         "stop_lat": "37.376277678000001",
@@ -1152,6 +1159,7 @@
                 {
                     "identifier": "f-vta-s-4544",
                     "tags": {
+                        "stop_code": "64544",
                         "stop_desc": "",
                         "stop_id": "4544",
                         "stop_lat": "37.354413506",
@@ -1173,6 +1181,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.945412899,
+                    37.385187996
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2580",
+                    "tags": {
+                        "stop_code": "62580",
+                        "stop_desc": "",
+                        "stop_id": "2580",
+                        "stop_lat": "37.385187995999999",
+                        "stop_lon": "-121.945412899",
+                        "stop_name": "ALDO & WOODWARD",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "ALDO & WOODWARD",
+            "onestopId": "s-9q9k9jf09b-aldo~woodward",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.941296971,
                     37.366880656
                 ],
@@ -1182,6 +1221,7 @@
                 {
                     "identifier": "f-vta-s-1975",
                     "tags": {
+                        "stop_code": "61975",
                         "stop_desc": "",
                         "stop_id": "1975",
                         "stop_lat": "37.366880655999999",
@@ -1212,6 +1252,7 @@
                 {
                     "identifier": "f-vta-s-5764",
                     "tags": {
+                        "stop_code": "65764",
                         "stop_desc": "",
                         "stop_id": "5764",
                         "stop_lat": "37.353544999999997",
@@ -1242,6 +1283,7 @@
                 {
                     "identifier": "f-vta-s-4757",
                     "tags": {
+                        "stop_code": "64757",
                         "stop_desc": "",
                         "stop_id": "4757",
                         "stop_lat": "37.39572991",
@@ -1272,6 +1314,7 @@
                 {
                     "identifier": "f-vta-s-4768",
                     "tags": {
+                        "stop_code": "64768",
                         "stop_desc": "",
                         "stop_id": "4768",
                         "stop_lat": "37.368663847999997",
@@ -1302,6 +1345,7 @@
                 {
                     "identifier": "f-vta-s-4525",
                     "tags": {
+                        "stop_code": "64525",
                         "stop_desc": "",
                         "stop_id": "4525",
                         "stop_lat": "37.36166334",
@@ -1332,6 +1376,7 @@
                 {
                     "identifier": "f-vta-s-2583",
                     "tags": {
+                        "stop_code": "62583",
                         "stop_desc": "",
                         "stop_id": "2583",
                         "stop_lat": "37.39267392",
@@ -1353,26 +1398,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.948112462,
-                    37.392766287
+                    -121.925777086,
+                    37.383483389
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-4591",
+                    "identifier": "f-vta-s-4755",
                     "tags": {
+                        "stop_code": "64755",
                         "stop_desc": "",
-                        "stop_id": "4591",
-                        "stop_lat": "37.392766287000001",
-                        "stop_lon": "-121.948112462",
-                        "stop_name": "MONTAGUE & DE LA CRUZ",
+                        "stop_id": "4755",
+                        "stop_lat": "37.383483388999998",
+                        "stop_lon": "-121.925777086",
+                        "stop_name": "COMPONENT STATION (0)",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "MONTAGUE & DE LA CRUZ",
-            "onestopId": "s-9q9k9p0heh-montague~delacruz",
+            "name": "COMPONENT STATION (0)",
+            "onestopId": "s-9q9k9t2qe6-componentstation0",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1392,6 +1438,7 @@
                 {
                     "identifier": "f-vta-s-13",
                     "tags": {
+                        "stop_code": "60013",
                         "stop_desc": "",
                         "stop_id": "13",
                         "stop_lat": "37.371338000000002",
@@ -1422,6 +1469,7 @@
                 {
                     "identifier": "f-vta-s-4767",
                     "tags": {
+                        "stop_code": "64767",
                         "stop_desc": "",
                         "stop_id": "4767",
                         "stop_lat": "37.374609102999997",
@@ -1452,6 +1500,7 @@
                 {
                     "identifier": "f-vta-s-12",
                     "tags": {
+                        "stop_code": "60012",
                         "stop_desc": "",
                         "stop_id": "12",
                         "stop_lat": "37.370602822000002",

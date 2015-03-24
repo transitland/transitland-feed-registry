@@ -96,6 +96,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.034088,
+                    37.618307
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-0803470",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "59598",
+                        "stop_id": "0803470",
+                        "stop_lat": "37.618307",
+                        "stop_lon": "-122.034088",
+                        "stop_name": "Mission Blvd:Gresel St"
+                    }
+                }
+            ],
+            "name": "Mission Blvd:Gresel St",
+            "onestopId": "s-9q9np01qx8-mission~gresel",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.032439,
                     37.646894
                 ],
@@ -127,27 +158,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.034088,
-                    37.618307
+                    -122.03406,
+                    37.618645
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0803470",
+                    "identifier": "f-actransit-s-0803400",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "59598",
-                        "stop_id": "0803470",
-                        "stop_lat": "37.618307",
-                        "stop_lon": "-122.034088",
-                        "stop_name": "Mission Blvd:Gresel St"
+                        "stop_code": "53593",
+                        "stop_id": "0803400",
+                        "stop_lat": "37.618645",
+                        "stop_lon": "-122.034060",
+                        "stop_name": "Mission Blvd:Corrine St (Gresel St)"
                     }
                 }
             ],
-            "name": "Mission Blvd:Gresel St",
-            "onestopId": "s-9q9np01qx8-mission~gresel",
+            "name": "Mission Blvd:Corrine St (Gresel St)",
+            "onestopId": "s-9q9np0382r-mission~corrinegresel",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -272,37 +303,6 @@
             ],
             "name": "Skyline Dr:Elkgrove Ct",
             "onestopId": "s-9q9npnrx1g-skyline~elkgrove",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.03406,
-                    37.618645
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-0803400",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "53593",
-                        "stop_id": "0803400",
-                        "stop_lat": "37.618645",
-                        "stop_lon": "-122.034060",
-                        "stop_name": "Mission Blvd:Corrine St (Gresel St)"
-                    }
-                }
-            ],
-            "name": "Mission Blvd:Corrine St (Gresel St)",
-            "onestopId": "s-9q9np0382r-mission~corrinegresel",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

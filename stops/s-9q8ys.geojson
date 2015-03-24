@@ -37,40 +37,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.47871,
-                    37.72786
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-331504",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "331504",
-                        "stop_desc": "",
-                        "stop_id": "331504",
-                        "stop_lat": "  37.727860",
-                        "stop_lon": "-122.478710",
-                        "stop_name": "Winston Dr & Buckingham Way",
-                        "stop_url": "",
-                        "zone_id": "2"
-                    }
-                }
-            ],
-            "name": "Winston Dr & Buckingham Way",
-            "onestopId": "s-9q8ysujsxn-winston~buckingham",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.48004,
                     37.72717
                 ],
@@ -95,6 +61,40 @@
             ],
             "name": "280 Buckingham Way",
             "onestopId": "s-9q8ysuhb8n-280buckingham",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47871,
+                    37.72786
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-331504",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "331504",
+                        "stop_desc": "",
+                        "stop_id": "331504",
+                        "stop_lat": "  37.727860",
+                        "stop_lon": "-122.478710",
+                        "stop_name": "Winston Dr & Buckingham Way",
+                        "stop_url": "",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "Winston Dr & Buckingham Way",
+            "onestopId": "s-9q8ysujsxn-winston~buckingham",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

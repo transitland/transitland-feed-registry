@@ -12,6 +12,7 @@
                 {
                     "identifier": "f-vta-s-3479",
                     "tags": {
+                        "stop_code": "63479",
                         "stop_desc": "",
                         "stop_id": "3479",
                         "stop_lat": "36.995513332999998",
@@ -42,6 +43,7 @@
                 {
                     "identifier": "f-vta-s-3475",
                     "tags": {
+                        "stop_code": "63475",
                         "stop_desc": "",
                         "stop_id": "3475",
                         "stop_lat": "37.001603279000001",
@@ -72,6 +74,7 @@
                 {
                     "identifier": "f-vta-s-3478",
                     "tags": {
+                        "stop_code": "63478",
                         "stop_desc": "",
                         "stop_id": "3478",
                         "stop_lat": "36.997008000999998",
@@ -102,6 +105,7 @@
                 {
                     "identifier": "f-vta-s-236",
                     "tags": {
+                        "stop_code": "60236",
                         "stop_desc": "",
                         "stop_id": "236",
                         "stop_lat": "37.001155253",
@@ -123,6 +127,68 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.573503321,
+                    36.988628989
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3480",
+                    "tags": {
+                        "stop_code": "63480",
+                        "stop_desc": "",
+                        "stop_id": "3480",
+                        "stop_lat": "36.988628988999999",
+                        "stop_lon": "-121.573503321",
+                        "stop_name": "THOMAS & OAKBROOK",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "THOMAS & OAKBROOK",
+            "onestopId": "s-9q9d3t8fkh-thomas~oakbrook",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.573774884,
+                    36.997206042
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3348",
+                    "tags": {
+                        "stop_code": "63348",
+                        "stop_desc": "",
+                        "stop_id": "3348",
+                        "stop_lat": "36.997206042000002",
+                        "stop_lon": "-121.573774884",
+                        "stop_name": "PRINCEVALLE & 10TH",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "PRINCEVALLE & 10TH",
+            "onestopId": "s-9q9d3x0sme-princevalle~10th",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.570633691,
                     36.974922178
                 ],
@@ -132,6 +198,7 @@
                 {
                     "identifier": "f-vta-s-3344",
                     "tags": {
+                        "stop_code": "63344",
                         "stop_desc": "",
                         "stop_id": "3344",
                         "stop_lat": "36.974922178",
@@ -153,66 +220,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.573337831,
-                    36.983216028
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3346",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "3346",
-                        "stop_lat": "36.983216028000001",
-                        "stop_lon": "-121.573337831",
-                        "stop_name": "THOMAS & SANTA TERESA",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "THOMAS & SANTA TERESA",
-            "onestopId": "s-9q9d3s8fzg-thomas~santateresa",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.56614225,
-                    37.00029052
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3476",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "3476",
-                        "stop_lat": "37.00029052",
-                        "stop_lon": "-121.56614225",
-                        "stop_name": "10TH & MONTEREY",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "10TH & MONTEREY",
-            "onestopId": "s-9q9d3xwnrd-10th~monterey",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.56578965,
                     37.00079583
                 ],
@@ -222,6 +229,7 @@
                 {
                     "identifier": "f-vta-s-3351",
                     "tags": {
+                        "stop_code": "63351",
                         "stop_desc": "",
                         "stop_id": "3351",
                         "stop_lat": "37.000795830000001",
@@ -243,6 +251,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.573058202,
+                    36.995630903
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-4985",
+                    "tags": {
+                        "stop_code": "64985",
+                        "stop_desc": "",
+                        "stop_id": "4985",
+                        "stop_lat": "36.995630902999999",
+                        "stop_lon": "-121.573058202",
+                        "stop_name": "PRINCEVALLE & JOHNSON",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "PRINCEVALLE & JOHNSON",
+            "onestopId": "s-9q9d3wc5nm-princevalle~johnson",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.570199804,
                     36.998923546
                 ],
@@ -252,6 +291,7 @@
                 {
                     "identifier": "f-vta-s-3349",
                     "tags": {
+                        "stop_code": "63349",
                         "stop_desc": "",
                         "stop_id": "3349",
                         "stop_lat": "36.998923546",
@@ -282,6 +322,7 @@
                 {
                     "identifier": "f-vta-s-3482",
                     "tags": {
+                        "stop_code": "63482",
                         "stop_desc": "",
                         "stop_id": "3482",
                         "stop_lat": "36.984905495",
@@ -312,6 +353,7 @@
                 {
                     "identifier": "f-vta-s-3481",
                     "tags": {
+                        "stop_code": "63481",
                         "stop_desc": "",
                         "stop_id": "3481",
                         "stop_lat": "36.987002674999999",
@@ -342,6 +384,7 @@
                 {
                     "identifier": "f-vta-s-3483",
                     "tags": {
+                        "stop_code": "63483",
                         "stop_desc": "",
                         "stop_id": "3483",
                         "stop_lat": "36.982102732999998",
@@ -363,26 +406,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.573774884,
-                    36.997206042
+                    -121.573337831,
+                    36.983216028
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3348",
+                    "identifier": "f-vta-s-3346",
                     "tags": {
+                        "stop_code": "63346",
                         "stop_desc": "",
-                        "stop_id": "3348",
-                        "stop_lat": "36.997206042000002",
-                        "stop_lon": "-121.573774884",
-                        "stop_name": "PRINCEVALLE & 10TH",
+                        "stop_id": "3346",
+                        "stop_lat": "36.983216028000001",
+                        "stop_lon": "-121.573337831",
+                        "stop_name": "THOMAS & SANTA TERESA",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "PRINCEVALLE & 10TH",
-            "onestopId": "s-9q9d3x0sme-princevalle~10th",
+            "name": "THOMAS & SANTA TERESA",
+            "onestopId": "s-9q9d3s8fzg-thomas~santateresa",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -402,6 +446,7 @@
                 {
                     "identifier": "f-vta-s-3350",
                     "tags": {
+                        "stop_code": "63350",
                         "stop_desc": "",
                         "stop_id": "3350",
                         "stop_lat": "36.999673209999997",
@@ -432,6 +477,7 @@
                 {
                     "identifier": "f-vta-s-3477",
                     "tags": {
+                        "stop_code": "63477",
                         "stop_desc": "",
                         "stop_id": "3477",
                         "stop_lat": "36.999097378000002",
@@ -453,36 +499,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.573503321,
-                    36.988628989
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3480",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "3480",
-                        "stop_lat": "36.988628988999999",
-                        "stop_lon": "-121.573503321",
-                        "stop_name": "THOMAS & OAKBROOK",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "THOMAS & OAKBROOK",
-            "onestopId": "s-9q9d3t8fkh-thomas~oakbrook",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.573329882,
                     36.990521082
                 ],
@@ -492,6 +508,7 @@
                 {
                     "identifier": "f-vta-s-3347",
                     "tags": {
+                        "stop_code": "63347",
                         "stop_desc": "",
                         "stop_id": "3347",
                         "stop_lat": "36.990521082000001",
@@ -513,26 +530,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.573058202,
-                    36.995630903
+                    -121.56614225,
+                    37.00029052
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-4985",
+                    "identifier": "f-vta-s-3476",
                     "tags": {
+                        "stop_code": "63476",
                         "stop_desc": "",
-                        "stop_id": "4985",
-                        "stop_lat": "36.995630902999999",
-                        "stop_lon": "-121.573058202",
-                        "stop_name": "PRINCEVALLE & JOHNSON",
+                        "stop_id": "3476",
+                        "stop_lat": "37.00029052",
+                        "stop_lon": "-121.56614225",
+                        "stop_name": "10TH & MONTEREY",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "PRINCEVALLE & JOHNSON",
-            "onestopId": "s-9q9d3wc5nm-princevalle~johnson",
+            "name": "10TH & MONTEREY",
+            "onestopId": "s-9q9d3xwnrd-10th~monterey",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -552,6 +570,7 @@
                 {
                     "identifier": "f-vta-s-5522",
                     "tags": {
+                        "stop_code": "65522",
                         "stop_desc": "",
                         "stop_id": "5522",
                         "stop_lat": "37.001221999999999",

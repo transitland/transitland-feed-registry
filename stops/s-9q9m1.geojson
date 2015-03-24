@@ -34,6 +34,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.909624,
+                    37.449544
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-9802410",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "57724",
+                        "stop_id": "9802410",
+                        "stop_lat": "37.449544",
+                        "stop_lon": "-121.909624",
+                        "stop_name": "N Milpitas Blvd:Midwick Dr"
+                    }
+                }
+            ],
+            "name": "N Milpitas Blvd:Midwick Dr",
+            "onestopId": "s-9q9m1ckp7u-nmilpitas~midwick",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.926967,
                     37.485142
                 ],
@@ -375,6 +406,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.912046,
+                    37.459885
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-9802370",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "55813",
+                        "stop_id": "9802370",
+                        "stop_lat": "37.459885",
+                        "stop_lon": "-121.912046",
+                        "stop_name": "N Milpitas Blvd:Firethorn St"
+                    }
+                }
+            ],
+            "name": "N Milpitas Blvd:Firethorn St",
+            "onestopId": "s-9q9m1g67ek-nmilpitas~firethorn",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.91417,
                     37.462878
                 ],
@@ -561,58 +623,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.918278,
-                    37.4706
+                    -121.924588,
+                    37.481562
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0706430",
+                    "identifier": "f-actransit-s-0706410",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "53505",
-                        "stop_id": "0706430",
-                        "stop_lat": "37.470600",
-                        "stop_lon": "-121.918278",
-                        "stop_name": "Warm Springs Blvd:Mayten Way"
+                        "stop_code": "59700",
+                        "stop_id": "0706410",
+                        "stop_lat": "37.481562",
+                        "stop_lon": "-121.924588",
+                        "stop_name": "Warm Springs Blvd:Lippert Av"
                     }
                 }
             ],
-            "name": "Warm Springs Blvd:Mayten Way",
-            "onestopId": "s-9q9m1tmf44-warmsprings~mayten",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.909624,
-                    37.449544
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-9802410",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "57724",
-                        "stop_id": "9802410",
-                        "stop_lat": "37.449544",
-                        "stop_lon": "-121.909624",
-                        "stop_name": "N Milpitas Blvd:Midwick Dr"
-                    }
-                }
-            ],
-            "name": "N Milpitas Blvd:Midwick Dr",
-            "onestopId": "s-9q9m1ckp7u-nmilpitas~midwick",
+            "name": "Warm Springs Blvd:Lippert Av",
+            "onestopId": "s-9q9m1x31zj-warmsprings~lippert",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -737,37 +768,6 @@
             ],
             "name": "N Milpitas Blvd:Hanson Ct",
             "onestopId": "s-9q9m1bufhk-nmilpitas~hanson",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.912046,
-                    37.459885
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-9802370",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "55813",
-                        "stop_id": "9802370",
-                        "stop_lat": "37.459885",
-                        "stop_lon": "-121.912046",
-                        "stop_name": "N Milpitas Blvd:Firethorn St"
-                    }
-                }
-            ],
-            "name": "N Milpitas Blvd:Firethorn St",
-            "onestopId": "s-9q9m1g67ek-nmilpitas~firethorn",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -995,27 +995,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.924588,
-                    37.481562
+                    -121.918278,
+                    37.4706
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0706410",
+                    "identifier": "f-actransit-s-0706430",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "59700",
-                        "stop_id": "0706410",
-                        "stop_lat": "37.481562",
-                        "stop_lon": "-121.924588",
-                        "stop_name": "Warm Springs Blvd:Lippert Av"
+                        "stop_code": "53505",
+                        "stop_id": "0706430",
+                        "stop_lat": "37.470600",
+                        "stop_lon": "-121.918278",
+                        "stop_name": "Warm Springs Blvd:Mayten Way"
                     }
                 }
             ],
-            "name": "Warm Springs Blvd:Lippert Av",
-            "onestopId": "s-9q9m1x31zj-warmsprings~lippert",
+            "name": "Warm Springs Blvd:Mayten Way",
+            "onestopId": "s-9q9m1tmf44-warmsprings~mayten",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

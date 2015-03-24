@@ -65,27 +65,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.350882,
-                    37.978984
+                    -122.352557,
+                    37.979269
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600510",
+                    "identifier": "f-actransit-s-1600520",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "58779",
-                        "stop_id": "1600510",
-                        "stop_lat": "37.978984",
-                        "stop_lon": "-122.350882",
-                        "stop_name": "John Av:11th St"
+                        "stop_code": "54579",
+                        "stop_id": "1600520",
+                        "stop_lat": "37.979269",
+                        "stop_lon": "-122.352557",
+                        "stop_name": "John Av:Giant Hwy"
                     }
                 }
             ],
-            "name": "John Av:11th St",
-            "onestopId": "s-9qbbpcfg9g-john~11th",
+            "name": "John Av:Giant Hwy",
+            "onestopId": "s-9qbbpcct6b-john~giant",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -375,27 +375,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.352557,
-                    37.979269
+                    -122.350882,
+                    37.978984
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1600520",
+                    "identifier": "f-actransit-s-1600510",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54579",
-                        "stop_id": "1600520",
-                        "stop_lat": "37.979269",
-                        "stop_lon": "-122.352557",
-                        "stop_name": "John Av:Giant Hwy"
+                        "stop_code": "58779",
+                        "stop_id": "1600510",
+                        "stop_lat": "37.978984",
+                        "stop_lon": "-122.350882",
+                        "stop_name": "John Av:11th St"
                     }
                 }
             ],
-            "name": "John Av:Giant Hwy",
-            "onestopId": "s-9qbbpcct6b-john~giant",
+            "name": "John Av:11th St",
+            "onestopId": "s-9qbbpcfg9g-john~11th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -685,37 +685,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.347873,
-                    37.978037
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1601100",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "57105",
-                        "stop_id": "1601100",
-                        "stop_lat": "37.978037",
-                        "stop_lon": "-122.347873",
-                        "stop_name": "Stanton Av:John Av"
-                    }
-                }
-            ],
-            "name": "Stanton Av:John Av",
-            "onestopId": "s-9qbbpcsypg-stanton~john",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.351086,
                     37.976825
                 ],
@@ -737,6 +706,37 @@
             ],
             "name": "11th St:Stonington Av",
             "onestopId": "s-9qbbpc6xj1-11th~stonington",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.347873,
+                    37.978037
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1601100",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "57105",
+                        "stop_id": "1601100",
+                        "stop_lat": "37.978037",
+                        "stop_lon": "-122.347873",
+                        "stop_name": "Stanton Av:John Av"
+                    }
+                }
+            ],
+            "name": "Stanton Av:John Av",
+            "onestopId": "s-9qbbpcsypg-stanton~john",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

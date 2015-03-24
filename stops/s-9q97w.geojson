@@ -12,6 +12,7 @@
                 {
                     "identifier": "f-vta-s-3429",
                     "tags": {
+                        "stop_code": "63429",
                         "stop_desc": "",
                         "stop_id": "3429",
                         "stop_lat": "37.185367929000002",
@@ -33,6 +34,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.720968327,
+                    37.180731954
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3394",
+                    "tags": {
+                        "stop_code": "63394",
+                        "stop_desc": "",
+                        "stop_id": "3394",
+                        "stop_lat": "37.180731954000002",
+                        "stop_lon": "-121.72096832699999",
+                        "stop_name": "SANTA TERESA & SCHELLER",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & SCHELLER",
+            "onestopId": "s-9q97w0t3ry-santateresa~scheller",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.721069198,
                     37.180607565
                 ],
@@ -42,6 +74,7 @@
                 {
                     "identifier": "f-vta-s-3430",
                     "tags": {
+                        "stop_code": "63430",
                         "stop_desc": "",
                         "stop_id": "3430",
                         "stop_lat": "37.180607565000003",
@@ -72,6 +105,7 @@
                 {
                     "identifier": "f-vta-s-3395",
                     "tags": {
+                        "stop_code": "63395",
                         "stop_desc": "",
                         "stop_id": "3395",
                         "stop_lat": "37.186122445000002",
@@ -83,36 +117,6 @@
             ],
             "name": "SANTA TERESA & RICHMOND",
             "onestopId": "s-9q97w192ve-santateresa~richmond",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.720968327,
-                    37.180731954
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3394",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "3394",
-                        "stop_lat": "37.180731954000002",
-                        "stop_lon": "-121.72096832699999",
-                        "stop_name": "SANTA TERESA & SCHELLER",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "SANTA TERESA & SCHELLER",
-            "onestopId": "s-9q97w0t3ry-santateresa~scheller",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.388731,
+                    45.478503
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13555",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "13555",
+                        "stop_desc": "Southbound stop in Gresham (Stop ID 13555)",
+                        "stop_id": "13555",
+                        "stop_lat": "45.478503",
+                        "stop_lon": "-122.388731",
+                        "stop_name": "SE Orient Dr & Chase",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13555",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Orient Dr & Chase",
+            "onestopId": "s-c20fwzp5rz-seorient~chase",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.388771,
+                    45.478815
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13558",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "13558",
+                        "stop_desc": "Northbound stop in Gresham (Stop ID 13558)",
+                        "stop_id": "13558",
+                        "stop_lat": "45.478815",
+                        "stop_lon": "-122.388771",
+                        "stop_name": "SE Orient Dr & Chase",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13558",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Orient Dr & Chase",
+            "onestopId": "s-c20fwzpjqc-seorient~chase",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.393107,
+                    45.482648
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9234",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9234",
+                        "stop_desc": "Westbound stop in Gresham (Stop ID 9234)",
+                        "stop_id": "9234",
+                        "stop_lat": "45.482648",
+                        "stop_lon": "-122.393107",
+                        "stop_name": "SE Orient Dr & 262nd/Barnes/Salquist",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9234",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Orient Dr & 262nd/Barnes/Salquist",
+            "onestopId": "s-c20fwzu59u-seorient~262nd~barnes~salquist",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "c20fw",
+    "properties": {},
+    "type": "FeatureCollection"
+}

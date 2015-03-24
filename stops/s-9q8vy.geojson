@@ -241,6 +241,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.40526,
+                    37.61336
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-336106",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "336106",
+                        "stop_desc": "",
+                        "stop_id": "336106",
+                        "stop_lat": "  37.613360",
+                        "stop_lon": "-122.405260",
+                        "stop_name": "Park Pl & El Camino Real",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Park Pl & El Camino Real",
+            "onestopId": "s-9q8vyx71ww-parkpl~elcaminoreal",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.41816,
                     37.60678
                 ],
@@ -445,40 +479,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.40675,
-                    37.6159
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-335077",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "335077",
-                        "stop_desc": "",
-                        "stop_id": "335077",
-                        "stop_lat": "  37.615900",
-                        "stop_lon": "-122.406750",
-                        "stop_name": "El Camino Real & Santa Dominga Ave",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "El Camino Real & Santa Dominga Ave",
-            "onestopId": "s-9q8vyxf07z-elcaminoreal~santadominga",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.41626,
                     37.60935
                 ],
@@ -547,30 +547,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.40526,
-                    37.61336
+                    -122.40675,
+                    37.6159
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-336106",
+                    "identifier": "f-samtrans-s-335077",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "336106",
+                        "stop_code": "335077",
                         "stop_desc": "",
-                        "stop_id": "336106",
-                        "stop_lat": "  37.613360",
-                        "stop_lon": "-122.405260",
-                        "stop_name": "Park Pl & El Camino Real",
+                        "stop_id": "335077",
+                        "stop_lat": "  37.615900",
+                        "stop_lon": "-122.406750",
+                        "stop_name": "El Camino Real & Santa Dominga Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Park Pl & El Camino Real",
-            "onestopId": "s-9q8vyx71ww-parkpl~elcaminoreal",
+            "name": "El Camino Real & Santa Dominga Ave",
+            "onestopId": "s-9q8vyxf07z-elcaminoreal~santadominga",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

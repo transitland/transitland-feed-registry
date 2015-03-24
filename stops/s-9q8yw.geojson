@@ -275,40 +275,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.41593,
-                    37.70702
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-332124",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "332124",
-                        "stop_desc": "",
-                        "stop_id": "332124",
-                        "stop_lat": "  37.707020",
-                        "stop_lon": "-122.415930",
-                        "stop_name": "Geneva Ave & Rio Verde St",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Geneva Ave & Rio Verde St",
-            "onestopId": "s-9q8yw277q1-geneva~rioverde",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.40684,
                     37.73898
                 ],
@@ -333,6 +299,40 @@
             ],
             "name": "Bayshore Blvd & Industrial St",
             "onestopId": "s-9q8yww4j3z-bayshore~industrial",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41593,
+                    37.70702
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-332124",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "332124",
+                        "stop_desc": "",
+                        "stop_id": "332124",
+                        "stop_lat": "  37.707020",
+                        "stop_lon": "-122.415930",
+                        "stop_name": "Geneva Ave & Rio Verde St",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Geneva Ave & Rio Verde St",
+            "onestopId": "s-9q8yw277q1-geneva~rioverde",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

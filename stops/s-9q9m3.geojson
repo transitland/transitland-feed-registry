@@ -3,6 +3,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.927601,
+                    37.486827
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-0706350",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "53153",
+                        "stop_id": "0706350",
+                        "stop_lat": "37.486827",
+                        "stop_lon": "-121.927601",
+                        "stop_name": "Warm Springs Blvd:E Warren Av"
+                    }
+                }
+            ],
+            "name": "Warm Springs Blvd:E Warren Av",
+            "onestopId": "s-9q9m32r08g-warmsprings~ewarren",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.938484,
                     37.506933
                 ],
@@ -189,58 +220,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.928888,
-                    37.4892
+                    -121.94403,
+                    37.515924
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0706440",
+                    "identifier": "f-actransit-s-0704340",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56626",
-                        "stop_id": "0706440",
-                        "stop_lat": "37.489200",
-                        "stop_lon": "-121.928888",
-                        "stop_name": "Warm Springs Blvd:Mission Blvd"
+                        "stop_code": "52263",
+                        "stop_id": "0704340",
+                        "stop_lat": "37.515924",
+                        "stop_lon": "-121.944030",
+                        "stop_name": "Osgood Rd:Osgood Ct"
                     }
                 }
             ],
-            "name": "Warm Springs Blvd:Mission Blvd",
-            "onestopId": "s-9q9m32wn6v-warmsprings~mission",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.928793,
-                    37.507438
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-0705530",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "51250",
-                        "stop_id": "0705530",
-                        "stop_lat": "37.507438",
-                        "stop_lon": "-121.928793",
-                        "stop_name": "S Grimmer Blvd:Paseo Padre Pkwy"
-                    }
-                }
-            ],
-            "name": "S Grimmer Blvd:Paseo Padre Pkwy",
-            "onestopId": "s-9q9m3kn0tj-sgrimmer~paseopadre",
+            "name": "Osgood Rd:Osgood Ct",
+            "onestopId": "s-9q9m3je445-osgood~osgood",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -685,27 +685,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.928658,
-                    37.523783
+                    -121.917704,
+                    37.52579
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0704930",
+                    "identifier": "f-actransit-s-0703640",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "54643",
-                        "stop_id": "0704930",
-                        "stop_lat": "37.523783",
-                        "stop_lon": "-121.928658",
-                        "stop_name": "Paseo Padre Pkwy:Pine St"
+                        "stop_code": "59800",
+                        "stop_id": "0703640",
+                        "stop_lat": "37.525790",
+                        "stop_lon": "-121.917704",
+                        "stop_name": "Mission Blvd:Pine St"
                     }
                 }
             ],
-            "name": "Paseo Padre Pkwy:Pine St",
-            "onestopId": "s-9q9m3qyrbk-paseopadre~pine",
+            "name": "Mission Blvd:Pine St",
+            "onestopId": "s-9q9m3xq5xd-mission~pine",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -768,6 +768,37 @@
             ],
             "name": "Mission Blvd:Paseo Padre Pkwy",
             "onestopId": "s-9q9m3dsuf6-mission~paseopadre",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.918659,
+                    37.528035
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-0703380",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "55733",
+                        "stop_id": "0703380",
+                        "stop_lat": "37.528035",
+                        "stop_lon": "-121.918659",
+                        "stop_name": "Mission Blvd:Cedar St"
+                    }
+                }
+            ],
+            "name": "Mission Blvd:Cedar St",
+            "onestopId": "s-9q9m3xv89k-mission~cedar",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -995,27 +1026,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.927571,
-                    37.491154
+                    -121.928793,
+                    37.507438
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0703550",
+                    "identifier": "f-actransit-s-0705530",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55277",
-                        "stop_id": "0703550",
-                        "stop_lat": "37.491154",
-                        "stop_lon": "-121.927571",
-                        "stop_name": "Mission Blvd:Mohave Dr"
+                        "stop_code": "51250",
+                        "stop_id": "0705530",
+                        "stop_lat": "37.507438",
+                        "stop_lon": "-121.928793",
+                        "stop_name": "S Grimmer Blvd:Paseo Padre Pkwy"
                     }
                 }
             ],
-            "name": "Mission Blvd:Mohave Dr",
-            "onestopId": "s-9q9m33p1c9-mission~mohave",
+            "name": "S Grimmer Blvd:Paseo Padre Pkwy",
+            "onestopId": "s-9q9m3kn0tj-sgrimmer~paseopadre",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1212,27 +1243,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.917704,
-                    37.52579
+                    -121.928658,
+                    37.523783
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0703640",
+                    "identifier": "f-actransit-s-0704930",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "59800",
-                        "stop_id": "0703640",
-                        "stop_lat": "37.525790",
-                        "stop_lon": "-121.917704",
-                        "stop_name": "Mission Blvd:Pine St"
+                        "stop_code": "54643",
+                        "stop_id": "0704930",
+                        "stop_lat": "37.523783",
+                        "stop_lon": "-121.928658",
+                        "stop_name": "Paseo Padre Pkwy:Pine St"
                     }
                 }
             ],
-            "name": "Mission Blvd:Pine St",
-            "onestopId": "s-9q9m3xq5xd-mission~pine",
+            "name": "Paseo Padre Pkwy:Pine St",
+            "onestopId": "s-9q9m3qyrbk-paseopadre~pine",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1274,27 +1305,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.927601,
-                    37.486827
+                    -121.932788,
+                    37.506854
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0706350",
+                    "identifier": "f-actransit-s-0705520",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "53153",
-                        "stop_id": "0706350",
-                        "stop_lat": "37.486827",
-                        "stop_lon": "-121.927601",
-                        "stop_name": "Warm Springs Blvd:E Warren Av"
+                        "stop_code": "52296",
+                        "stop_id": "0705520",
+                        "stop_lat": "37.506854",
+                        "stop_lon": "-121.932788",
+                        "stop_name": "S Grimmer Blvd:Parkmeadow Dr"
                     }
                 }
             ],
-            "name": "Warm Springs Blvd:E Warren Av",
-            "onestopId": "s-9q9m32r08g-warmsprings~ewarren",
+            "name": "S Grimmer Blvd:Parkmeadow Dr",
+            "onestopId": "s-9q9m37gm20-sgrimmer~parkmeadow",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1522,37 +1553,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.932788,
-                    37.506854
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-0705520",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "52296",
-                        "stop_id": "0705520",
-                        "stop_lat": "37.506854",
-                        "stop_lon": "-121.932788",
-                        "stop_name": "S Grimmer Blvd:Parkmeadow Dr"
-                    }
-                }
-            ],
-            "name": "S Grimmer Blvd:Parkmeadow Dr",
-            "onestopId": "s-9q9m37gm20-sgrimmer~parkmeadow",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.92362,
                     37.506464
                 ],
@@ -1584,27 +1584,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.94403,
-                    37.515924
+                    -121.928888,
+                    37.4892
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0704340",
+                    "identifier": "f-actransit-s-0706440",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "52263",
-                        "stop_id": "0704340",
-                        "stop_lat": "37.515924",
-                        "stop_lon": "-121.944030",
-                        "stop_name": "Osgood Rd:Osgood Ct"
+                        "stop_code": "56626",
+                        "stop_id": "0706440",
+                        "stop_lat": "37.489200",
+                        "stop_lon": "-121.928888",
+                        "stop_name": "Warm Springs Blvd:Mission Blvd"
                     }
                 }
             ],
-            "name": "Osgood Rd:Osgood Ct",
-            "onestopId": "s-9q9m3je445-osgood~osgood",
+            "name": "Warm Springs Blvd:Mission Blvd",
+            "onestopId": "s-9q9m32wn6v-warmsprings~mission",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1708,27 +1708,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.918659,
-                    37.528035
+                    -121.927571,
+                    37.491154
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-0703380",
+                    "identifier": "f-actransit-s-0703550",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55733",
-                        "stop_id": "0703380",
-                        "stop_lat": "37.528035",
-                        "stop_lon": "-121.918659",
-                        "stop_name": "Mission Blvd:Cedar St"
+                        "stop_code": "55277",
+                        "stop_id": "0703550",
+                        "stop_lat": "37.491154",
+                        "stop_lon": "-121.927571",
+                        "stop_name": "Mission Blvd:Mohave Dr"
                     }
                 }
             ],
-            "name": "Mission Blvd:Cedar St",
-            "onestopId": "s-9q9m3xv89k-mission~cedar",
+            "name": "Mission Blvd:Mohave Dr",
+            "onestopId": "s-9q9m33p1c9-mission~mohave",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

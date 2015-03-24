@@ -12,6 +12,7 @@
                 {
                     "identifier": "f-vta-s-1747",
                     "tags": {
+                        "stop_code": "61747",
                         "stop_desc": "",
                         "stop_id": "1747",
                         "stop_lat": "37.250563139999997",
@@ -42,6 +43,7 @@
                 {
                     "identifier": "f-vta-s-5630",
                     "tags": {
+                        "stop_code": "65630",
                         "stop_desc": "",
                         "stop_id": "5630",
                         "stop_lat": "37.263290372999997",
@@ -72,6 +74,7 @@
                 {
                     "identifier": "f-vta-s-1749",
                     "tags": {
+                        "stop_code": "61749",
                         "stop_desc": "",
                         "stop_id": "1749",
                         "stop_lat": "37.250590377000002",
@@ -102,6 +105,7 @@
                 {
                     "identifier": "f-vta-s-2802",
                     "tags": {
+                        "stop_code": "62802",
                         "stop_desc": "",
                         "stop_id": "2802",
                         "stop_lat": "37.258373413000001",
@@ -132,6 +136,7 @@
                 {
                     "identifier": "f-vta-s-1819",
                     "tags": {
+                        "stop_code": "61819",
                         "stop_desc": "",
                         "stop_id": "1819",
                         "stop_lat": "37.250672160000001",
@@ -153,26 +158,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.916592326,
-                    37.236140824
+                    -121.931240241,
+                    37.258773243
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1090",
+                    "identifier": "f-vta-s-2806",
                     "tags": {
+                        "stop_code": "62806",
                         "stop_desc": "",
-                        "stop_id": "1090",
-                        "stop_lat": "37.236140824000003",
-                        "stop_lon": "-121.916592326",
-                        "stop_name": "BLOSSOM HILL & BELWOOD",
+                        "stop_id": "2806",
+                        "stop_lat": "37.258773243",
+                        "stop_lon": "-121.931240241",
+                        "stop_name": "UNION & STRATFORD",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BLOSSOM HILL & BELWOOD",
-            "onestopId": "s-9q97cdxh1r-blossomhill~belwood",
+            "name": "UNION & STRATFORD",
+            "onestopId": "s-9q97cqu2h4-union~stratford",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -192,6 +198,7 @@
                 {
                     "identifier": "f-vta-s-1818",
                     "tags": {
+                        "stop_code": "61818",
                         "stop_desc": "",
                         "stop_id": "1818",
                         "stop_lat": "37.250698808000003",
@@ -222,6 +229,7 @@
                 {
                     "identifier": "f-vta-s-1692",
                     "tags": {
+                        "stop_code": "61692",
                         "stop_desc": "",
                         "stop_id": "1692",
                         "stop_lat": "37.261605025000001",
@@ -252,6 +260,7 @@
                 {
                     "identifier": "f-vta-s-3164",
                     "tags": {
+                        "stop_code": "63164",
                         "stop_desc": "",
                         "stop_id": "3164",
                         "stop_lat": "37.256595820999998",
@@ -282,6 +291,7 @@
                 {
                     "identifier": "f-vta-s-1738",
                     "tags": {
+                        "stop_code": "61738",
                         "stop_desc": "",
                         "stop_id": "1738",
                         "stop_lat": "37.261867463999998",
@@ -303,36 +313,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.92492491,
-                    37.261602109
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1693",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "1693",
-                        "stop_lat": "37.261602109000002",
-                        "stop_lon": "-121.92492491",
-                        "stop_name": "CAMDEN & NEW JERSEY",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "CAMDEN & NEW JERSEY",
-            "onestopId": "s-9q97cx2bx6-camden~newjersey",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.915795895,
                     37.263991992
                 ],
@@ -342,6 +322,7 @@
                 {
                     "identifier": "f-vta-s-1694",
                     "tags": {
+                        "stop_code": "61694",
                         "stop_desc": "",
                         "stop_id": "1694",
                         "stop_lat": "37.263991992000001",
@@ -363,36 +344,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.947550514,
-                    37.251010277
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1745",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "1745",
-                        "stop_lat": "37.251010276999999",
-                        "stop_lon": "-121.947550514",
-                        "stop_name": "SAMARITN & GOOD SAMARITAN HOSP",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "SAMARITN & GOOD SAMARITAN HOSP",
-            "onestopId": "s-9q97cj2db5-samaritn~goodsamaritanhosp",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.909844092,
                     37.249552766
                 ],
@@ -402,6 +353,7 @@
                 {
                     "identifier": "f-vta-s-1757",
                     "tags": {
+                        "stop_code": "61757",
                         "stop_desc": "",
                         "stop_id": "1757",
                         "stop_lat": "37.249552766000001",
@@ -432,6 +384,7 @@
                 {
                     "identifier": "f-vta-s-2890",
                     "tags": {
+                        "stop_code": "62890",
                         "stop_desc": "",
                         "stop_id": "2890",
                         "stop_lat": "37.263291762000001",
@@ -462,6 +415,7 @@
                 {
                     "identifier": "f-vta-s-2884",
                     "tags": {
+                        "stop_code": "62884",
                         "stop_desc": "",
                         "stop_id": "2884",
                         "stop_lat": "37.258631223999998",
@@ -492,6 +446,7 @@
                 {
                     "identifier": "f-vta-s-5631",
                     "tags": {
+                        "stop_code": "65631",
                         "stop_desc": "",
                         "stop_id": "5631",
                         "stop_lat": "37.261851",
@@ -513,66 +468,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.940151422,
-                    37.265292963
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-4454",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "4454",
-                        "stop_lat": "37.265292963",
-                        "stop_lon": "-121.940151422",
-                        "stop_name": "CAMDEN & CALVIN (BASCOM)",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "CAMDEN & CALVIN (BASCOM)",
-            "onestopId": "s-9q97cpvyhd-camden~calvinbascom",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.905823929,
-                    37.243197584
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3113",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "3113",
-                        "stop_lat": "37.243197584000001",
-                        "stop_lon": "-121.90582392899999",
-                        "stop_name": "CAMDEN & MERRILL",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "CAMDEN & MERRILL",
-            "onestopId": "s-9q97cgyvk7-camden~merrill",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.931285279,
                     37.260902457
                 ],
@@ -582,6 +477,7 @@
                 {
                     "identifier": "f-vta-s-2807",
                     "tags": {
+                        "stop_code": "62807",
                         "stop_desc": "",
                         "stop_id": "2807",
                         "stop_lat": "37.260902457",
@@ -603,26 +499,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.90820534,
-                    37.236412152
+                    -121.931367741,
+                    37.24645514
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1163",
+                    "identifier": "f-vta-s-1752",
                     "tags": {
+                        "stop_code": "61752",
                         "stop_desc": "",
-                        "stop_id": "1163",
-                        "stop_lat": "37.236412152",
-                        "stop_lon": "-121.90820533999999",
-                        "stop_name": "BLOSSOM HILL & DRYSDALE",
+                        "stop_id": "1752",
+                        "stop_lat": "37.246455140000002",
+                        "stop_lon": "-121.931367741",
+                        "stop_name": "UNION & ROSSWOOD",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BLOSSOM HILL & DRYSDALE",
-            "onestopId": "s-9q97cftjuf-blossomhill~drysdale",
+            "name": "UNION & ROSSWOOD",
+            "onestopId": "s-9q97cks234-union~rosswood",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -633,26 +530,120 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.91327976,
-                    37.236337568
+                    -121.905823929,
+                    37.243197584
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1164",
+                    "identifier": "f-vta-s-3113",
                     "tags": {
+                        "stop_code": "63113",
                         "stop_desc": "",
-                        "stop_id": "1164",
-                        "stop_lat": "37.236337568000003",
-                        "stop_lon": "-121.91327975999999",
-                        "stop_name": "BLOSSOM HILL & HARWOOD",
+                        "stop_id": "3113",
+                        "stop_lat": "37.243197584000001",
+                        "stop_lon": "-121.90582392899999",
+                        "stop_name": "CAMDEN & MERRILL",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BLOSSOM HILL & HARWOOD",
-            "onestopId": "s-9q97cf9mqs-blossomhill~harwood",
+            "name": "CAMDEN & MERRILL",
+            "onestopId": "s-9q97cgyvk7-camden~merrill",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.916592326,
+                    37.236140824
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1090",
+                    "tags": {
+                        "stop_code": "61090",
+                        "stop_desc": "",
+                        "stop_id": "1090",
+                        "stop_lat": "37.236140824000003",
+                        "stop_lon": "-121.916592326",
+                        "stop_name": "BLOSSOM HILL & BELWOOD",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "BLOSSOM HILL & BELWOOD",
+            "onestopId": "s-9q97cdxh1r-blossomhill~belwood",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.919459711,
+                    37.262564865
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1735",
+                    "tags": {
+                        "stop_code": "61735",
+                        "stop_desc": "",
+                        "stop_id": "1735",
+                        "stop_lat": "37.262564865000002",
+                        "stop_lon": "-121.919459711",
+                        "stop_name": "HILLSDALE & ROSS (MD)",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "HILLSDALE & ROSS (MD)",
+            "onestopId": "s-9q97cxkynt-hillsdale~rossmd",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.947550514,
+                    37.251010277
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1745",
+                    "tags": {
+                        "stop_code": "61745",
+                        "stop_desc": "",
+                        "stop_id": "1745",
+                        "stop_lat": "37.251010276999999",
+                        "stop_lon": "-121.947550514",
+                        "stop_name": "SAMARITN & GOOD SAMARITAN HOSP",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SAMARITN & GOOD SAMARITAN HOSP",
+            "onestopId": "s-9q97cj2db5-samaritn~goodsamaritanhosp",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -672,6 +663,7 @@
                 {
                     "identifier": "f-vta-s-1092",
                     "tags": {
+                        "stop_code": "61092",
                         "stop_desc": "",
                         "stop_id": "1092",
                         "stop_lat": "37.236257033000001",
@@ -702,6 +694,7 @@
                 {
                     "identifier": "f-vta-s-1088",
                     "tags": {
+                        "stop_code": "61088",
                         "stop_desc": "",
                         "stop_id": "1088",
                         "stop_lat": "37.236713772999998",
@@ -723,26 +716,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.919459711,
-                    37.262564865
+                    -121.915548461,
+                    37.25690689
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1735",
+                    "identifier": "f-vta-s-3116",
                     "tags": {
+                        "stop_code": "63116",
                         "stop_desc": "",
-                        "stop_id": "1735",
-                        "stop_lat": "37.262564865000002",
-                        "stop_lon": "-121.919459711",
-                        "stop_name": "HILLSDALE & ROSS (MD)",
+                        "stop_id": "3116",
+                        "stop_lat": "37.256906890000003",
+                        "stop_lon": "-121.915548461",
+                        "stop_name": "CAMDEN & TERRI",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "HILLSDALE & ROSS (MD)",
-            "onestopId": "s-9q97cxkynt-hillsdale~rossmd",
+            "name": "CAMDEN & TERRI",
+            "onestopId": "s-9q97cwrv1y-camden~terri",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.931403917,
+                    37.254946818
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2885",
+                    "tags": {
+                        "stop_code": "62885",
+                        "stop_desc": "",
+                        "stop_id": "2885",
+                        "stop_lat": "37.254946818000001",
+                        "stop_lon": "-121.931403917",
+                        "stop_name": "UNION & BARRETT",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "UNION & BARRETT",
+            "onestopId": "s-9q97cqh3b3-union~barrett",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -762,6 +787,7 @@
                 {
                     "identifier": "f-vta-s-1734",
                     "tags": {
+                        "stop_code": "61734",
                         "stop_desc": "",
                         "stop_id": "1734",
                         "stop_lat": "37.264257546000003",
@@ -792,6 +818,7 @@
                 {
                     "identifier": "f-vta-s-1089",
                     "tags": {
+                        "stop_code": "61089",
                         "stop_desc": "",
                         "stop_id": "1089",
                         "stop_lat": "37.236109880000001",
@@ -822,6 +849,7 @@
                 {
                     "identifier": "f-vta-s-2809",
                     "tags": {
+                        "stop_code": "62809",
                         "stop_desc": "",
                         "stop_id": "2809",
                         "stop_lat": "37.264799807999999",
@@ -852,6 +880,7 @@
                 {
                     "identifier": "f-vta-s-3162",
                     "tags": {
+                        "stop_code": "63162",
                         "stop_desc": "",
                         "stop_id": "3162",
                         "stop_lat": "37.261612839000001",
@@ -873,56 +902,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.930624668,
-                    37.243344395
+                    -121.93564715,
+                    37.250707227
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1084",
+                    "identifier": "f-vta-s-1817",
                     "tags": {
+                        "stop_code": "61817",
                         "stop_desc": "",
-                        "stop_id": "1084",
-                        "stop_lat": "37.243344395000001",
-                        "stop_lon": "-121.93062466799999",
-                        "stop_name": "LOS GATOS-ALMADEN & UNION",
+                        "stop_id": "1817",
+                        "stop_lat": "37.250707226999999",
+                        "stop_lon": "-121.93564714999999",
+                        "stop_name": "SAMARITAN & ESTHER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "LOS GATOS-ALMADEN & UNION",
-            "onestopId": "s-9q97c7uy4w-losgatosalmaden~union",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.922614837,
-                    37.239801887
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1168",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "1168",
-                        "stop_lat": "37.239801886999999",
-                        "stop_lon": "-121.922614837",
-                        "stop_name": "LEIGH & ANNE",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "LEIGH & ANNE",
-            "onestopId": "s-9q97ce69t4-leigh~anne",
+            "name": "SAMARITAN & ESTHER",
+            "onestopId": "s-9q97cm31j7-samaritan~esther",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -942,6 +942,7 @@
                 {
                     "identifier": "f-vta-s-3168",
                     "tags": {
+                        "stop_code": "63168",
                         "stop_desc": "",
                         "stop_id": "3168",
                         "stop_lat": "37.240636612000003",
@@ -972,6 +973,7 @@
                 {
                     "identifier": "f-vta-s-3118",
                     "tags": {
+                        "stop_code": "63118",
                         "stop_desc": "",
                         "stop_id": "3118",
                         "stop_lat": "37.261425324999998",
@@ -1002,6 +1004,7 @@
                 {
                     "identifier": "f-vta-s-1820",
                     "tags": {
+                        "stop_code": "61820",
                         "stop_desc": "",
                         "stop_id": "1820",
                         "stop_lat": "37.250653110999998",
@@ -1032,6 +1035,7 @@
                 {
                     "identifier": "f-vta-s-2891",
                     "tags": {
+                        "stop_code": "62891",
                         "stop_desc": "",
                         "stop_id": "2891",
                         "stop_lat": "37.259813887",
@@ -1053,26 +1057,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.931367741,
-                    37.24645514
+                    -121.940151422,
+                    37.265292963
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1752",
+                    "identifier": "f-vta-s-4454",
                     "tags": {
+                        "stop_code": "64454",
                         "stop_desc": "",
-                        "stop_id": "1752",
-                        "stop_lat": "37.246455140000002",
-                        "stop_lon": "-121.931367741",
-                        "stop_name": "UNION & ROSSWOOD",
+                        "stop_id": "4454",
+                        "stop_lat": "37.265292963",
+                        "stop_lon": "-121.940151422",
+                        "stop_name": "CAMDEN & CALVIN (BASCOM)",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "UNION & ROSSWOOD",
-            "onestopId": "s-9q97cks234-union~rosswood",
+            "name": "CAMDEN & CALVIN (BASCOM)",
+            "onestopId": "s-9q97cpvyhd-camden~calvinbascom",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1092,6 +1097,7 @@
                 {
                     "identifier": "f-vta-s-5739",
                     "tags": {
+                        "stop_code": "65739",
                         "stop_desc": "",
                         "stop_id": "5739",
                         "stop_lat": "37.251192000000003",
@@ -1122,6 +1128,7 @@
                 {
                     "identifier": "f-vta-s-3115",
                     "tags": {
+                        "stop_code": "63115",
                         "stop_desc": "",
                         "stop_id": "3115",
                         "stop_lat": "37.253710005999999",
@@ -1143,26 +1150,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.915548461,
-                    37.25690689
+                    -121.922614837,
+                    37.239801887
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3116",
+                    "identifier": "f-vta-s-1168",
                     "tags": {
+                        "stop_code": "61168",
                         "stop_desc": "",
-                        "stop_id": "3116",
-                        "stop_lat": "37.256906890000003",
-                        "stop_lon": "-121.915548461",
-                        "stop_name": "CAMDEN & TERRI",
+                        "stop_id": "1168",
+                        "stop_lat": "37.239801886999999",
+                        "stop_lon": "-121.922614837",
+                        "stop_name": "LEIGH & ANNE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "CAMDEN & TERRI",
-            "onestopId": "s-9q97cwrv1y-camden~terri",
+            "name": "LEIGH & ANNE",
+            "onestopId": "s-9q97ce69t4-leigh~anne",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1182,6 +1190,7 @@
                 {
                     "identifier": "f-vta-s-1811",
                     "tags": {
+                        "stop_code": "61811",
                         "stop_desc": "",
                         "stop_id": "1811",
                         "stop_lat": "37.249785940999999",
@@ -1212,6 +1221,7 @@
                 {
                     "identifier": "f-vta-s-2808",
                     "tags": {
+                        "stop_code": "62808",
                         "stop_desc": "",
                         "stop_id": "2808",
                         "stop_lat": "37.262134914999997",
@@ -1233,26 +1243,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.92281246,
-                    37.239651462
+                    -121.923031431,
+                    37.243564549
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1087",
+                    "identifier": "f-vta-s-1169",
                     "tags": {
+                        "stop_code": "61169",
                         "stop_desc": "",
-                        "stop_id": "1087",
-                        "stop_lat": "37.239651461999998",
-                        "stop_lon": "-121.92281246",
-                        "stop_name": "LEIGH & GREGG",
+                        "stop_id": "1169",
+                        "stop_lat": "37.243564548999998",
+                        "stop_lon": "-121.923031431",
+                        "stop_name": "LOS GATOS-ALMADEN & LEIGH",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "LEIGH & GREGG",
-            "onestopId": "s-9q97ce688w-leigh~gregg",
+            "name": "LOS GATOS-ALMADEN & LEIGH",
+            "onestopId": "s-9q97cefr7r-losgatosalmaden~leigh",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1272,6 +1283,7 @@
                 {
                     "identifier": "f-vta-s-3163",
                     "tags": {
+                        "stop_code": "63163",
                         "stop_desc": "",
                         "stop_id": "3163",
                         "stop_lat": "37.258401679999999",
@@ -1302,6 +1314,7 @@
                 {
                     "identifier": "f-vta-s-1166",
                     "tags": {
+                        "stop_code": "61166",
                         "stop_desc": "",
                         "stop_id": "1166",
                         "stop_lat": "37.236285054",
@@ -1332,6 +1345,7 @@
                 {
                     "identifier": "f-vta-s-1170",
                     "tags": {
+                        "stop_code": "61170",
                         "stop_desc": "",
                         "stop_id": "1170",
                         "stop_lat": "37.243541710999999",
@@ -1362,6 +1376,7 @@
                 {
                     "identifier": "f-vta-s-3166",
                     "tags": {
+                        "stop_code": "63166",
                         "stop_desc": "",
                         "stop_id": "3166",
                         "stop_lat": "37.246942857999997",
@@ -1392,6 +1407,7 @@
                 {
                     "identifier": "f-vta-s-3114",
                     "tags": {
+                        "stop_code": "63114",
                         "stop_desc": "",
                         "stop_id": "3114",
                         "stop_lat": "37.247439765999999",
@@ -1422,6 +1438,7 @@
                 {
                     "identifier": "f-vta-s-1750",
                     "tags": {
+                        "stop_code": "61750",
                         "stop_desc": "",
                         "stop_id": "1750",
                         "stop_lat": "37.250184052999998",
@@ -1452,6 +1469,7 @@
                 {
                     "identifier": "f-vta-s-1737",
                     "tags": {
+                        "stop_code": "61737",
                         "stop_desc": "",
                         "stop_id": "1737",
                         "stop_lat": "37.261865962000002",
@@ -1482,6 +1500,7 @@
                 {
                     "identifier": "f-vta-s-1085",
                     "tags": {
+                        "stop_code": "61085",
                         "stop_desc": "",
                         "stop_id": "1085",
                         "stop_lat": "37.243383756",
@@ -1512,6 +1531,7 @@
                 {
                     "identifier": "f-vta-s-1751",
                     "tags": {
+                        "stop_code": "61751",
                         "stop_desc": "",
                         "stop_id": "1751",
                         "stop_lat": "37.248009359000001",
@@ -1542,6 +1562,7 @@
                 {
                     "identifier": "f-vta-s-1736",
                     "tags": {
+                        "stop_code": "61736",
                         "stop_desc": "",
                         "stop_id": "1736",
                         "stop_lat": "37.261877585999997",
@@ -1572,6 +1593,7 @@
                 {
                     "identifier": "f-vta-s-1167",
                     "tags": {
+                        "stop_code": "61167",
                         "stop_desc": "",
                         "stop_id": "1167",
                         "stop_lat": "37.236437967000001",
@@ -1602,6 +1624,7 @@
                 {
                     "identifier": "f-vta-s-3167",
                     "tags": {
+                        "stop_code": "63167",
                         "stop_desc": "",
                         "stop_id": "3167",
                         "stop_lat": "37.242500079000003",
@@ -1623,6 +1646,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.930624668,
+                    37.243344395
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1084",
+                    "tags": {
+                        "stop_code": "61084",
+                        "stop_desc": "",
+                        "stop_id": "1084",
+                        "stop_lat": "37.243344395000001",
+                        "stop_lon": "-121.93062466799999",
+                        "stop_name": "LOS GATOS-ALMADEN & UNION",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "LOS GATOS-ALMADEN & UNION",
+            "onestopId": "s-9q97c7uy4w-losgatosalmaden~union",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.93116058,
                     37.246592494
                 ],
@@ -1632,6 +1686,7 @@
                 {
                     "identifier": "f-vta-s-1815",
                     "tags": {
+                        "stop_code": "61815",
                         "stop_desc": "",
                         "stop_id": "1815",
                         "stop_lat": "37.246592493999998",
@@ -1662,6 +1717,7 @@
                 {
                     "identifier": "f-vta-s-1686",
                     "tags": {
+                        "stop_code": "61686",
                         "stop_desc": "",
                         "stop_id": "1686",
                         "stop_lat": "37.261891691999999",
@@ -1692,6 +1748,7 @@
                 {
                     "identifier": "f-vta-s-1691",
                     "tags": {
+                        "stop_code": "61691",
                         "stop_desc": "",
                         "stop_id": "1691",
                         "stop_lat": "37.264008509999996",
@@ -1713,26 +1770,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.931240241,
-                    37.258773243
+                    -121.947711578,
+                    37.251206853
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-2806",
+                    "identifier": "f-vta-s-1821",
                     "tags": {
+                        "stop_code": "61821",
                         "stop_desc": "",
-                        "stop_id": "2806",
-                        "stop_lat": "37.258773243",
-                        "stop_lon": "-121.931240241",
-                        "stop_name": "UNION & STRATFORD",
+                        "stop_id": "1821",
+                        "stop_lat": "37.251206852999999",
+                        "stop_lon": "-121.947711578",
+                        "stop_name": "GOOD SAMARITAN HOSPITAL",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "UNION & STRATFORD",
-            "onestopId": "s-9q97cqu2h4-union~stratford",
+            "name": "GOOD SAMARITAN HOSPITAL",
+            "onestopId": "s-9q97cj2kh2-goodsamaritanhospital",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1752,6 +1810,7 @@
                 {
                     "identifier": "f-vta-s-1091",
                     "tags": {
+                        "stop_code": "61091",
                         "stop_desc": "",
                         "stop_id": "1091",
                         "stop_lat": "37.236159520000001",
@@ -1782,6 +1841,7 @@
                 {
                     "identifier": "f-vta-s-1086",
                     "tags": {
+                        "stop_code": "61086",
                         "stop_desc": "",
                         "stop_id": "1086",
                         "stop_lat": "37.243105880000002",
@@ -1812,6 +1872,7 @@
                 {
                     "identifier": "f-vta-s-2804",
                     "tags": {
+                        "stop_code": "62804",
                         "stop_desc": "",
                         "stop_id": "2804",
                         "stop_lat": "37.263490408999999",
@@ -1842,6 +1903,7 @@
                 {
                     "identifier": "f-vta-s-1733",
                     "tags": {
+                        "stop_code": "61733",
                         "stop_desc": "",
                         "stop_id": "1733",
                         "stop_lat": "37.265542471000003",
@@ -1863,26 +1925,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.947711578,
-                    37.251206853
+                    -121.92492491,
+                    37.261602109
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1821",
+                    "identifier": "f-vta-s-1693",
                     "tags": {
+                        "stop_code": "61693",
                         "stop_desc": "",
-                        "stop_id": "1821",
-                        "stop_lat": "37.251206852999999",
-                        "stop_lon": "-121.947711578",
-                        "stop_name": "GOOD SAMARITAN HOSPITAL",
+                        "stop_id": "1693",
+                        "stop_lat": "37.261602109000002",
+                        "stop_lon": "-121.92492491",
+                        "stop_name": "CAMDEN & NEW JERSEY",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "GOOD SAMARITAN HOSPITAL",
-            "onestopId": "s-9q97cj2kh2-goodsamaritanhospital",
+            "name": "CAMDEN & NEW JERSEY",
+            "onestopId": "s-9q97cx2bx6-camden~newjersey",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1902,6 +1965,7 @@
                 {
                     "identifier": "f-vta-s-1746",
                     "tags": {
+                        "stop_code": "61746",
                         "stop_desc": "",
                         "stop_id": "1746",
                         "stop_lat": "37.251019569",
@@ -1932,6 +1996,7 @@
                 {
                     "identifier": "f-vta-s-1165",
                     "tags": {
+                        "stop_code": "61165",
                         "stop_desc": "",
                         "stop_id": "1165",
                         "stop_lat": "37.236318009000001",
@@ -1953,26 +2018,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.931403917,
-                    37.254946818
+                    -121.91327976,
+                    37.236337568
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-2885",
+                    "identifier": "f-vta-s-1164",
                     "tags": {
+                        "stop_code": "61164",
                         "stop_desc": "",
-                        "stop_id": "2885",
-                        "stop_lat": "37.254946818000001",
-                        "stop_lon": "-121.931403917",
-                        "stop_name": "UNION & BARRETT",
+                        "stop_id": "1164",
+                        "stop_lat": "37.236337568000003",
+                        "stop_lon": "-121.91327975999999",
+                        "stop_name": "BLOSSOM HILL & HARWOOD",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "UNION & BARRETT",
-            "onestopId": "s-9q97cqh3b3-union~barrett",
+            "name": "BLOSSOM HILL & HARWOOD",
+            "onestopId": "s-9q97cf9mqs-blossomhill~harwood",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1992,6 +2058,7 @@
                 {
                     "identifier": "f-vta-s-1814",
                     "tags": {
+                        "stop_code": "61814",
                         "stop_desc": "",
                         "stop_id": "1814",
                         "stop_lat": "37.244221259",
@@ -2013,26 +2080,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.93564715,
-                    37.250707227
+                    -121.90820534,
+                    37.236412152
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1817",
+                    "identifier": "f-vta-s-1163",
                     "tags": {
+                        "stop_code": "61163",
                         "stop_desc": "",
-                        "stop_id": "1817",
-                        "stop_lat": "37.250707226999999",
-                        "stop_lon": "-121.93564714999999",
-                        "stop_name": "SAMARITAN & ESTHER",
+                        "stop_id": "1163",
+                        "stop_lat": "37.236412152",
+                        "stop_lon": "-121.90820533999999",
+                        "stop_name": "BLOSSOM HILL & DRYSDALE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SAMARITAN & ESTHER",
-            "onestopId": "s-9q97cm31j7-samaritan~esther",
+            "name": "BLOSSOM HILL & DRYSDALE",
+            "onestopId": "s-9q97cftjuf-blossomhill~drysdale",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2052,6 +2120,7 @@
                 {
                     "identifier": "f-vta-s-1748",
                     "tags": {
+                        "stop_code": "61748",
                         "stop_desc": "",
                         "stop_id": "1748",
                         "stop_lat": "37.250580319000001",
@@ -2082,6 +2151,7 @@
                 {
                     "identifier": "f-vta-s-3117",
                     "tags": {
+                        "stop_code": "63117",
                         "stop_desc": "",
                         "stop_id": "3117",
                         "stop_lat": "37.259013668000001",
@@ -2103,26 +2173,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.923031431,
-                    37.243564549
+                    -121.92281246,
+                    37.239651462
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1169",
+                    "identifier": "f-vta-s-1087",
                     "tags": {
+                        "stop_code": "61087",
                         "stop_desc": "",
-                        "stop_id": "1169",
-                        "stop_lat": "37.243564548999998",
-                        "stop_lon": "-121.923031431",
-                        "stop_name": "LOS GATOS-ALMADEN & LEIGH",
+                        "stop_id": "1087",
+                        "stop_lat": "37.239651461999998",
+                        "stop_lon": "-121.92281246",
+                        "stop_name": "LEIGH & GREGG",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "LOS GATOS-ALMADEN & LEIGH",
-            "onestopId": "s-9q97cefr7r-losgatosalmaden~leigh",
+            "name": "LEIGH & GREGG",
+            "onestopId": "s-9q97ce688w-leigh~gregg",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2142,6 +2213,7 @@
                 {
                     "identifier": "f-vta-s-5632",
                     "tags": {
+                        "stop_code": "65632",
                         "stop_desc": "",
                         "stop_id": "5632",
                         "stop_lat": "37.262466000000003",
@@ -2172,6 +2244,7 @@
                 {
                     "identifier": "f-vta-s-3165",
                     "tags": {
+                        "stop_code": "63165",
                         "stop_desc": "",
                         "stop_id": "3165",
                         "stop_lat": "37.253826857",
@@ -2202,6 +2275,7 @@
                 {
                     "identifier": "f-vta-s-3119",
                     "tags": {
+                        "stop_code": "63119",
                         "stop_desc": "",
                         "stop_id": "3119",
                         "stop_lat": "37.262198451000003",
@@ -2232,6 +2306,7 @@
                 {
                     "identifier": "f-vta-s-2803",
                     "tags": {
+                        "stop_code": "62803",
                         "stop_desc": "",
                         "stop_id": "2803",
                         "stop_lat": "37.260680878999999",
@@ -2262,6 +2337,7 @@
                 {
                     "identifier": "f-vta-s-1816",
                     "tags": {
+                        "stop_code": "61816",
                         "stop_desc": "",
                         "stop_id": "1816",
                         "stop_lat": "37.250730003000001",

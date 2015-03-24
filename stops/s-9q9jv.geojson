@@ -34,27 +34,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.080366,
-                    37.591517
+                    -122.085534,
+                    37.613026
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1700110",
+                    "identifier": "f-actransit-s-0804920",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "55815",
-                        "stop_id": "1700110",
-                        "stop_lat": "37.591517",
-                        "stop_lon": "-122.080366",
-                        "stop_name": "Alvarado Blvd:Union City Blvd"
+                        "stop_code": "50887",
+                        "stop_id": "0804920",
+                        "stop_lat": "37.613026",
+                        "stop_lon": "-122.085534",
+                        "stop_name": "Union City Blvd:Past Pepsi Plant"
                     }
                 }
             ],
-            "name": "Alvarado Blvd:Union City Blvd",
-            "onestopId": "s-9q9jvgrf3q-alvarado~unioncity",
+            "name": "Union City Blvd:Past Pepsi Plant",
+            "onestopId": "s-9q9jvzhpbb-unioncity~pastpepsiplant",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -117,6 +117,37 @@
             ],
             "name": "Eden Shores Dr:Sandcreek Dr",
             "onestopId": "s-9q9jvwtpft-edenshores~sandcreek",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.080756,
+                    37.595338
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1700960",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "57855",
+                        "stop_id": "1700960",
+                        "stop_lat": "37.595338",
+                        "stop_lon": "-122.080756",
+                        "stop_name": "Union City Blvd:Horner St"
+                    }
+                }
+            ],
+            "name": "Union City Blvd:Horner St",
+            "onestopId": "s-9q9jvup88n-unioncity~horner",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -251,27 +282,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.080756,
-                    37.595338
+                    -122.080366,
+                    37.591517
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1700960",
+                    "identifier": "f-actransit-s-1700110",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "57855",
-                        "stop_id": "1700960",
-                        "stop_lat": "37.595338",
-                        "stop_lon": "-122.080756",
-                        "stop_name": "Union City Blvd:Horner St"
+                        "stop_code": "55815",
+                        "stop_id": "1700110",
+                        "stop_lat": "37.591517",
+                        "stop_lon": "-122.080366",
+                        "stop_name": "Alvarado Blvd:Union City Blvd"
                     }
                 }
             ],
-            "name": "Union City Blvd:Horner St",
-            "onestopId": "s-9q9jvup88n-unioncity~horner",
+            "name": "Alvarado Blvd:Union City Blvd",
+            "onestopId": "s-9q9jvgrf3q-alvarado~unioncity",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -520,37 +551,6 @@
             ],
             "name": "Union City Blvd:Jean Dr",
             "onestopId": "s-9q9jvcr7f1-unioncity~jean",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.085534,
-                    37.613026
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-0804920",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "50887",
-                        "stop_id": "0804920",
-                        "stop_lat": "37.613026",
-                        "stop_lon": "-122.085534",
-                        "stop_name": "Union City Blvd:Past Pepsi Plant"
-                    }
-                }
-            ],
-            "name": "Union City Blvd:Past Pepsi Plant",
-            "onestopId": "s-9q9jvzhpbb-unioncity~pastpepsiplant",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

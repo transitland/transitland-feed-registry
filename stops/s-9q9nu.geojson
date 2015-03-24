@@ -499,27 +499,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.153201,
-                    37.768611
+                    -122.124653,
+                    37.751836
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1016910",
+                    "identifier": "f-actransit-s-1019300",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "51183",
-                        "stop_id": "1016910",
-                        "stop_lat": "37.768611",
-                        "stop_lon": "-122.153201",
-                        "stop_name": "Mountain Blvd:Fontaine Ct"
+                        "stop_code": "56334",
+                        "stop_id": "1019300",
+                        "stop_lat": "37.751836",
+                        "stop_lon": "-122.124653",
+                        "stop_name": "Shetland Av:Golf Links Rd"
                     }
                 }
             ],
-            "name": "Mountain Blvd:Fontaine Ct",
-            "onestopId": "s-9q9nu7df05-mountain~fontaine",
+            "name": "Shetland Av:Golf Links Rd",
+            "onestopId": "s-9q9nubx83k-shetland~golflinks",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -561,27 +561,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.13777,
-                    37.774773
+                    -122.147862,
+                    37.757156
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1012070",
+                    "identifier": "f-actransit-s-1016850",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56305",
-                        "stop_id": "1012070",
-                        "stop_lat": "37.774773",
-                        "stop_lon": "-122.137770",
-                        "stop_name": "Hansom Dr:Shay Dr (North-West Jctn)"
+                        "stop_code": "56792",
+                        "stop_id": "1016850",
+                        "stop_lat": "37.757156",
+                        "stop_lon": "-122.147862",
+                        "stop_name": "Mountain Blvd:Calafia Av"
                     }
                 }
             ],
-            "name": "Hansom Dr:Shay Dr (North-West Jctn)",
-            "onestopId": "s-9q9nustyp8-hansom~shaynorthwestjctn",
+            "name": "Mountain Blvd:Calafia Av",
+            "onestopId": "s-9q9nu3qxks-mountain~calafia",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -892,6 +892,37 @@
             ],
             "name": "MacArthur Blvd:Ritchie St",
             "onestopId": "s-9q9nu4c4gb-macarthur~ritchie",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.167906,
+                    37.774106
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1009780",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "56448",
+                        "stop_id": "1009780",
+                        "stop_lat": "37.774106",
+                        "stop_lon": "-122.167906",
+                        "stop_name": "Edwards Av:Sunkist Dr"
+                    }
+                }
+            ],
+            "name": "Edwards Av:Sunkist Dr",
+            "onestopId": "s-9q9nuh8417-edwards~sunkist",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -1553,27 +1584,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.161896,
-                    37.755262
+                    -122.14138,
+                    37.777683
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1004260",
+                    "identifier": "f-actransit-s-1012050",
                     "tags": {
                         "location_type": "",
-                        "parent_station": "place_90MA",
-                        "stop_code": "53557",
-                        "stop_id": "1004260",
-                        "stop_lat": "37.755262",
-                        "stop_lon": "-122.161896",
-                        "stop_name": "90th Av:MacArthur Blvd"
+                        "parent_station": "",
+                        "stop_code": "56296",
+                        "stop_id": "1012050",
+                        "stop_lat": "37.777683",
+                        "stop_lon": "-122.141380",
+                        "stop_name": "Hansom Dr:Pinecrest Dr"
                     }
                 }
             ],
-            "name": "90th Av:MacArthur Blvd",
-            "onestopId": "s-9q9nu1hkmd-90th~macarthur",
+            "name": "Hansom Dr:Pinecrest Dr",
+            "onestopId": "s-9q9nut5qgw-hansom~pinecrest",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2142,37 +2173,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.137138,
-                    37.766319
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1019050",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "53485",
-                        "stop_id": "1019050",
-                        "stop_lat": "37.766319",
-                        "stop_lon": "-122.137138",
-                        "stop_name": "Sequoyah Rd:Sage Rd"
-                    }
-                }
-            ],
-            "name": "Sequoyah Rd:Sage Rd",
-            "onestopId": "s-9q9nuenky2-sequoyah~sage",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.158467,
                     37.74992
                 ],
@@ -2297,27 +2297,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.149229,
-                    37.763828
+                    -122.136388,
+                    37.770239
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1017010",
+                    "identifier": "f-actransit-s-1012020",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "51721",
-                        "stop_id": "1017010",
-                        "stop_lat": "37.763828",
-                        "stop_lon": "-122.149229",
-                        "stop_name": "Mountain Blvd:Oakland Naval Medical Center"
+                        "stop_code": "57854",
+                        "stop_id": "1012020",
+                        "stop_lat": "37.770239",
+                        "stop_lon": "-122.136388",
+                        "stop_name": "Hansom Dr:Coach Dr"
                     }
                 }
             ],
-            "name": "Mountain Blvd:Oakland Naval Medical Center",
-            "onestopId": "s-9q9nu6twhx-mountain~oaklandnavalmedical",
+            "name": "Hansom Dr:Coach Dr",
+            "onestopId": "s-9q9nueygxf-hansom~coach",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2421,27 +2421,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.167906,
-                    37.774106
+                    -122.137138,
+                    37.766319
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1009780",
+                    "identifier": "f-actransit-s-1019050",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56448",
-                        "stop_id": "1009780",
-                        "stop_lat": "37.774106",
-                        "stop_lon": "-122.167906",
-                        "stop_name": "Edwards Av:Sunkist Dr"
+                        "stop_code": "53485",
+                        "stop_id": "1019050",
+                        "stop_lat": "37.766319",
+                        "stop_lon": "-122.137138",
+                        "stop_name": "Sequoyah Rd:Sage Rd"
                     }
                 }
             ],
-            "name": "Edwards Av:Sunkist Dr",
-            "onestopId": "s-9q9nuh8417-edwards~sunkist",
+            "name": "Sequoyah Rd:Sage Rd",
+            "onestopId": "s-9q9nuenky2-sequoyah~sage",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -2721,6 +2721,37 @@
             ],
             "name": "Skyline Blvd:Parkridge Dr",
             "onestopId": "s-9q9nurm5f7-skyline~parkridge",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-actransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.160165,
+                    37.770379
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-actransit-s-1011990",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "59002",
+                        "stop_id": "1011990",
+                        "stop_lat": "37.770379",
+                        "stop_lon": "-122.160165",
+                        "stop_name": "Greenly Dr:Lamp St"
+                    }
+                }
+            ],
+            "name": "Greenly Dr:Lamp St",
+            "onestopId": "s-9q9nu5vsmu-greenly~lamp",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3103,27 +3134,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.14138,
-                    37.777683
+                    -122.161896,
+                    37.755262
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1012050",
+                    "identifier": "f-actransit-s-1004260",
                     "tags": {
                         "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "56296",
-                        "stop_id": "1012050",
-                        "stop_lat": "37.777683",
-                        "stop_lon": "-122.141380",
-                        "stop_name": "Hansom Dr:Pinecrest Dr"
+                        "parent_station": "place_90MA",
+                        "stop_code": "53557",
+                        "stop_id": "1004260",
+                        "stop_lat": "37.755262",
+                        "stop_lon": "-122.161896",
+                        "stop_name": "90th Av:MacArthur Blvd"
                     }
                 }
             ],
-            "name": "Hansom Dr:Pinecrest Dr",
-            "onestopId": "s-9q9nut5qgw-hansom~pinecrest",
+            "name": "90th Av:MacArthur Blvd",
+            "onestopId": "s-9q9nu1hkmd-90th~macarthur",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3196,27 +3227,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.136388,
-                    37.770239
+                    -122.149229,
+                    37.763828
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1012020",
+                    "identifier": "f-actransit-s-1017010",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "57854",
-                        "stop_id": "1012020",
-                        "stop_lat": "37.770239",
-                        "stop_lon": "-122.136388",
-                        "stop_name": "Hansom Dr:Coach Dr"
+                        "stop_code": "51721",
+                        "stop_id": "1017010",
+                        "stop_lat": "37.763828",
+                        "stop_lon": "-122.149229",
+                        "stop_name": "Mountain Blvd:Oakland Naval Medical Center"
                     }
                 }
             ],
-            "name": "Hansom Dr:Coach Dr",
-            "onestopId": "s-9q9nueygxf-hansom~coach",
+            "name": "Mountain Blvd:Oakland Naval Medical Center",
+            "onestopId": "s-9q9nu6twhx-mountain~oaklandnavalmedical",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3289,27 +3320,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.124653,
-                    37.751836
+                    -122.153201,
+                    37.768611
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1019300",
+                    "identifier": "f-actransit-s-1016910",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56334",
-                        "stop_id": "1019300",
-                        "stop_lat": "37.751836",
-                        "stop_lon": "-122.124653",
-                        "stop_name": "Shetland Av:Golf Links Rd"
+                        "stop_code": "51183",
+                        "stop_id": "1016910",
+                        "stop_lat": "37.768611",
+                        "stop_lon": "-122.153201",
+                        "stop_name": "Mountain Blvd:Fontaine Ct"
                     }
                 }
             ],
-            "name": "Shetland Av:Golf Links Rd",
-            "onestopId": "s-9q9nubx83k-shetland~golflinks",
+            "name": "Mountain Blvd:Fontaine Ct",
+            "onestopId": "s-9q9nu7df05-mountain~fontaine",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3351,37 +3382,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.147862,
-                    37.757156
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-actransit-s-1016850",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "56792",
-                        "stop_id": "1016850",
-                        "stop_lat": "37.757156",
-                        "stop_lon": "-122.147862",
-                        "stop_name": "Mountain Blvd:Calafia Av"
-                    }
-                }
-            ],
-            "name": "Mountain Blvd:Calafia Av",
-            "onestopId": "s-9q9nu3qxks-mountain~calafia",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-actransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.162903,
                     37.760093
                 ],
@@ -3413,27 +3413,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.147762,
-                    37.76024
+                    -122.161119,
+                    37.755226
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1017060",
+                    "identifier": "f-actransit-s-9902770",
                     "tags": {
                         "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "59936",
-                        "stop_id": "1017060",
-                        "stop_lat": "37.760240",
-                        "stop_lon": "-122.147762",
-                        "stop_name": "Mountain Blvd:Sequoyah Rd"
+                        "parent_station": "place_90MA",
+                        "stop_code": "51293",
+                        "stop_id": "9902770",
+                        "stop_lat": "37.755226",
+                        "stop_lon": "-122.161119",
+                        "stop_name": "MacArthur Blvd:90th Av"
                     }
                 }
             ],
-            "name": "Mountain Blvd:Sequoyah Rd",
-            "onestopId": "s-9q9nu6n9qf-mountain~sequoyah",
+            "name": "MacArthur Blvd:90th Av",
+            "onestopId": "s-9q9nu1hups-macarthur~90th",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -3475,27 +3475,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.161119,
-                    37.755226
+                    -122.147762,
+                    37.76024
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-9902770",
+                    "identifier": "f-actransit-s-1017060",
                     "tags": {
                         "location_type": "",
-                        "parent_station": "place_90MA",
-                        "stop_code": "51293",
-                        "stop_id": "9902770",
-                        "stop_lat": "37.755226",
-                        "stop_lon": "-122.161119",
-                        "stop_name": "MacArthur Blvd:90th Av"
+                        "parent_station": "",
+                        "stop_code": "59936",
+                        "stop_id": "1017060",
+                        "stop_lat": "37.760240",
+                        "stop_lon": "-122.147762",
+                        "stop_name": "Mountain Blvd:Sequoyah Rd"
                     }
                 }
             ],
-            "name": "MacArthur Blvd:90th Av",
-            "onestopId": "s-9q9nu1hups-macarthur~90th",
+            "name": "Mountain Blvd:Sequoyah Rd",
+            "onestopId": "s-9q9nu6n9qf-mountain~sequoyah",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"
@@ -4095,27 +4095,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.160165,
-                    37.770379
+                    -122.13777,
+                    37.774773
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-actransit-s-1011990",
+                    "identifier": "f-actransit-s-1012070",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "59002",
-                        "stop_id": "1011990",
-                        "stop_lat": "37.770379",
-                        "stop_lon": "-122.160165",
-                        "stop_name": "Greenly Dr:Lamp St"
+                        "stop_code": "56305",
+                        "stop_id": "1012070",
+                        "stop_lat": "37.774773",
+                        "stop_lon": "-122.137770",
+                        "stop_name": "Hansom Dr:Shay Dr (North-West Jctn)"
                     }
                 }
             ],
-            "name": "Greenly Dr:Lamp St",
-            "onestopId": "s-9q9nu5vsmu-greenly~lamp",
+            "name": "Hansom Dr:Shay Dr (North-West Jctn)",
+            "onestopId": "s-9q9nustyp8-hansom~shaynorthwestjctn",
             "properties": {},
             "servedBy": [
                 "o-9q9-actransit"

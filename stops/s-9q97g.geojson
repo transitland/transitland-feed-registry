@@ -12,6 +12,7 @@
                 {
                     "identifier": "f-vta-s-1111",
                     "tags": {
+                        "stop_code": "61111",
                         "stop_desc": "",
                         "stop_id": "1111",
                         "stop_lat": "37.251122023999997",
@@ -42,6 +43,7 @@
                 {
                     "identifier": "f-vta-s-3415",
                     "tags": {
+                        "stop_code": "63415",
                         "stop_desc": "",
                         "stop_id": "3415",
                         "stop_lat": "37.264722773000003",
@@ -72,6 +74,7 @@
                 {
                     "identifier": "f-vta-s-1110",
                     "tags": {
+                        "stop_code": "61110",
                         "stop_desc": "",
                         "stop_id": "1110",
                         "stop_lat": "37.252393411",
@@ -102,6 +105,7 @@
                 {
                     "identifier": "f-vta-s-1142",
                     "tags": {
+                        "stop_code": "61142",
                         "stop_desc": "",
                         "stop_id": "1142",
                         "stop_lat": "37.251413423999999",
@@ -132,6 +136,7 @@
                 {
                     "identifier": "f-vta-s-1113",
                     "tags": {
+                        "stop_code": "61113",
                         "stop_desc": "",
                         "stop_id": "1113",
                         "stop_lat": "37.251262736000001",
@@ -162,6 +167,7 @@
                 {
                     "identifier": "f-vta-s-3189",
                     "tags": {
+                        "stop_code": "63189",
                         "stop_desc": "",
                         "stop_id": "3189",
                         "stop_lat": "37.259176869999997",
@@ -192,6 +198,7 @@
                 {
                     "identifier": "f-vta-s-4457",
                     "tags": {
+                        "stop_code": "64457",
                         "stop_desc": "",
                         "stop_id": "4457",
                         "stop_lat": "37.257349128000001",
@@ -222,6 +229,7 @@
                 {
                     "identifier": "f-vta-s-3296",
                     "tags": {
+                        "stop_code": "63296",
                         "stop_desc": "",
                         "stop_id": "3296",
                         "stop_lat": "37.236768974",
@@ -243,26 +251,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.830546628,
-                    37.247640794
+                    -121.860320366,
+                    37.25052126
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-4783",
+                    "identifier": "f-vta-s-1148",
                     "tags": {
+                        "stop_code": "61148",
                         "stop_desc": "",
-                        "stop_id": "4783",
-                        "stop_lat": "37.247640793999999",
-                        "stop_lon": "-121.83054662799999",
-                        "stop_name": "SNELL STATION (1)",
+                        "stop_id": "1148",
+                        "stop_lat": "37.250521259999999",
+                        "stop_lon": "-121.860320366",
+                        "stop_name": "BLOSSOM HILL & SANTA TERESA (FS)",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SNELL STATION (1)",
-            "onestopId": "s-9q97gstxnx-snellstation1",
+            "name": "BLOSSOM HILL & SANTA TERESA (FS)",
+            "onestopId": "s-9q97gj2008-blossomhill~santateresafs",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -282,6 +291,7 @@
                 {
                     "identifier": "f-vta-s-3293",
                     "tags": {
+                        "stop_code": "63293",
                         "stop_desc": "",
                         "stop_id": "3293",
                         "stop_lat": "37.248516342999999",
@@ -312,6 +322,7 @@
                 {
                     "identifier": "f-vta-s-3187",
                     "tags": {
+                        "stop_code": "63187",
                         "stop_desc": "",
                         "stop_id": "3187",
                         "stop_lat": "37.248724721000002",
@@ -342,6 +353,7 @@
                 {
                     "identifier": "f-vta-s-4936",
                     "tags": {
+                        "stop_code": "64936",
                         "stop_desc": "",
                         "stop_id": "4936",
                         "stop_lat": "37.248386611999997",
@@ -363,6 +375,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.830546628,
+                    37.247640794
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-4783",
+                    "tags": {
+                        "stop_code": "64783",
+                        "stop_desc": "",
+                        "stop_id": "4783",
+                        "stop_lat": "37.247640793999999",
+                        "stop_lon": "-121.83054662799999",
+                        "stop_name": "SNELL STATION (1)",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SNELL STATION (1)",
+            "onestopId": "s-9q97gstxnx-snellstation1",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.821149288,
                     37.251570188
                 ],
@@ -372,6 +415,7 @@
                 {
                     "identifier": "f-vta-s-1139",
                     "tags": {
+                        "stop_code": "61139",
                         "stop_desc": "",
                         "stop_id": "1139",
                         "stop_lat": "37.251570188000002",
@@ -402,6 +446,7 @@
                 {
                     "identifier": "f-vta-s-1138",
                     "tags": {
+                        "stop_code": "61138",
                         "stop_desc": "",
                         "stop_id": "1138",
                         "stop_lat": "37.251617388",
@@ -423,36 +468,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.852511838,
-                    37.250185713
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1108",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "1108",
-                        "stop_lat": "37.250185713",
-                        "stop_lon": "-121.852511838",
-                        "stop_name": "BLOSSOM HILL & PLAYA REY",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "BLOSSOM HILL & PLAYA REY",
-            "onestopId": "s-9q97gjjwn9-blossomhill~playarey",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.850533677,
                     37.250585477
                 ],
@@ -462,6 +477,7 @@
                 {
                     "identifier": "f-vta-s-1146",
                     "tags": {
+                        "stop_code": "61146",
                         "stop_desc": "",
                         "stop_id": "1146",
                         "stop_lat": "37.250585477000001",
@@ -483,26 +499,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.817183573,
-                    37.237147204
+                    -121.821653933,
+                    37.237713721
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3181",
+                    "identifier": "f-vta-s-3183",
                     "tags": {
+                        "stop_code": "63183",
                         "stop_desc": "",
-                        "stop_id": "3181",
-                        "stop_lat": "37.237147204000003",
-                        "stop_lon": "-121.81718357299999",
-                        "stop_name": "SANTA TERESA & LEAN",
+                        "stop_id": "3183",
+                        "stop_lat": "37.237713720999999",
+                        "stop_lon": "-121.82165393299999",
+                        "stop_name": "SANTA TERESA & DUNN",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SANTA TERESA & LEAN",
-            "onestopId": "s-9q97gfz6jg-santateresa~lean",
+            "name": "SANTA TERESA & DUNN",
+            "onestopId": "s-9q97gfujms-santateresa~dunn",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -522,6 +539,7 @@
                 {
                     "identifier": "f-vta-s-1143",
                     "tags": {
+                        "stop_code": "61143",
                         "stop_desc": "",
                         "stop_id": "1143",
                         "stop_lat": "37.252223342999997",
@@ -552,6 +570,7 @@
                 {
                     "identifier": "f-vta-s-3291",
                     "tags": {
+                        "stop_code": "63291",
                         "stop_desc": "",
                         "stop_id": "3291",
                         "stop_lat": "37.258347790999998",
@@ -582,6 +601,7 @@
                 {
                     "identifier": "f-vta-s-1145",
                     "tags": {
+                        "stop_code": "61145",
                         "stop_desc": "",
                         "stop_id": "1145",
                         "stop_lat": "37.250705132",
@@ -612,6 +632,7 @@
                 {
                     "identifier": "f-vta-s-4738",
                     "tags": {
+                        "stop_code": "64738",
                         "stop_desc": "",
                         "stop_id": "4738",
                         "stop_lat": "37.248054576999998",
@@ -642,6 +663,7 @@
                 {
                     "identifier": "f-vta-s-3292",
                     "tags": {
+                        "stop_code": "63292",
                         "stop_desc": "",
                         "stop_id": "3292",
                         "stop_lat": "37.252806645",
@@ -672,6 +694,7 @@
                 {
                     "identifier": "f-vta-s-3182",
                     "tags": {
+                        "stop_code": "63182",
                         "stop_desc": "",
                         "stop_id": "3182",
                         "stop_lat": "37.237621924000003",
@@ -702,6 +725,7 @@
                 {
                     "identifier": "f-vta-s-1115",
                     "tags": {
+                        "stop_code": "61115",
                         "stop_desc": "",
                         "stop_id": "1115",
                         "stop_lat": "37.251320636999999",
@@ -732,6 +756,7 @@
                 {
                     "identifier": "f-vta-s-3186",
                     "tags": {
+                        "stop_code": "63186",
                         "stop_desc": "",
                         "stop_id": "3186",
                         "stop_lat": "37.242323325000001",
@@ -753,36 +778,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.860320366,
-                    37.25052126
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1148",
-                    "tags": {
-                        "stop_desc": "",
-                        "stop_id": "1148",
-                        "stop_lat": "37.250521259999999",
-                        "stop_lon": "-121.860320366",
-                        "stop_name": "BLOSSOM HILL & SANTA TERESA (FS)",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "BLOSSOM HILL & SANTA TERESA (FS)",
-            "onestopId": "s-9q97gj2008-blossomhill~santateresafs",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.841024582,
                     37.252767042
                 ],
@@ -792,6 +787,7 @@
                 {
                     "identifier": "f-vta-s-4782",
                     "tags": {
+                        "stop_code": "64782",
                         "stop_desc": "",
                         "stop_id": "4782",
                         "stop_lat": "37.252767042000002",
@@ -822,6 +818,7 @@
                 {
                     "identifier": "f-vta-s-1144",
                     "tags": {
+                        "stop_code": "61144",
                         "stop_desc": "",
                         "stop_id": "1144",
                         "stop_lat": "37.250741765000001",
@@ -852,6 +849,7 @@
                 {
                     "identifier": "f-vta-s-1112",
                     "tags": {
+                        "stop_code": "61112",
                         "stop_desc": "",
                         "stop_id": "1112",
                         "stop_lat": "37.251146880999997",
@@ -882,6 +880,7 @@
                 {
                     "identifier": "f-vta-s-1114",
                     "tags": {
+                        "stop_code": "61114",
                         "stop_desc": "",
                         "stop_id": "1114",
                         "stop_lat": "37.251286186999998",
@@ -912,6 +911,7 @@
                 {
                     "identifier": "f-vta-s-4456",
                     "tags": {
+                        "stop_code": "64456",
                         "stop_desc": "",
                         "stop_id": "4456",
                         "stop_lat": "37.249032681000003",
@@ -942,6 +942,7 @@
                 {
                     "identifier": "f-vta-s-4731",
                     "tags": {
+                        "stop_code": "64731",
                         "stop_desc": "",
                         "stop_id": "4731",
                         "stop_lat": "37.257992958999999",
@@ -972,6 +973,7 @@
                 {
                     "identifier": "f-vta-s-3188",
                     "tags": {
+                        "stop_code": "63188",
                         "stop_desc": "",
                         "stop_id": "3188",
                         "stop_lat": "37.252205805999999",
@@ -1002,6 +1004,7 @@
                 {
                     "identifier": "f-vta-s-3184",
                     "tags": {
+                        "stop_code": "63184",
                         "stop_desc": "",
                         "stop_id": "3184",
                         "stop_lat": "37.237583159000003",
@@ -1032,6 +1035,7 @@
                 {
                     "identifier": "f-vta-s-1107",
                     "tags": {
+                        "stop_code": "61107",
                         "stop_desc": "",
                         "stop_id": "1107",
                         "stop_lat": "37.250201744000002",
@@ -1062,6 +1066,7 @@
                 {
                     "identifier": "f-vta-s-3298",
                     "tags": {
+                        "stop_code": "63298",
                         "stop_desc": "",
                         "stop_id": "3298",
                         "stop_lat": "37.237425391999999",
@@ -1092,6 +1097,7 @@
                 {
                     "identifier": "f-vta-s-4739",
                     "tags": {
+                        "stop_code": "64739",
                         "stop_desc": "",
                         "stop_id": "4739",
                         "stop_lat": "37.253149716000003",
@@ -1122,6 +1128,7 @@
                 {
                     "identifier": "f-vta-s-3300",
                     "tags": {
+                        "stop_code": "63300",
                         "stop_desc": "",
                         "stop_id": "3300",
                         "stop_lat": "37.236787294000003",
@@ -1152,6 +1159,7 @@
                 {
                     "identifier": "f-vta-s-3185",
                     "tags": {
+                        "stop_code": "63185",
                         "stop_desc": "",
                         "stop_id": "3185",
                         "stop_lat": "37.237395114000002",
@@ -1173,26 +1181,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.821653933,
-                    37.237713721
+                    -121.852511838,
+                    37.250185713
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3183",
+                    "identifier": "f-vta-s-1108",
                     "tags": {
+                        "stop_code": "61108",
                         "stop_desc": "",
-                        "stop_id": "3183",
-                        "stop_lat": "37.237713720999999",
-                        "stop_lon": "-121.82165393299999",
-                        "stop_name": "SANTA TERESA & DUNN",
+                        "stop_id": "1108",
+                        "stop_lat": "37.250185713",
+                        "stop_lon": "-121.852511838",
+                        "stop_name": "BLOSSOM HILL & PLAYA REY",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SANTA TERESA & DUNN",
-            "onestopId": "s-9q97gfujms-santateresa~dunn",
+            "name": "BLOSSOM HILL & PLAYA REY",
+            "onestopId": "s-9q97gjjwn9-blossomhill~playarey",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1212,6 +1221,7 @@
                 {
                     "identifier": "f-vta-s-3295",
                     "tags": {
+                        "stop_code": "63295",
                         "stop_desc": "",
                         "stop_id": "3295",
                         "stop_lat": "37.238147587999997",
@@ -1242,6 +1252,7 @@
                 {
                     "identifier": "f-vta-s-3412",
                     "tags": {
+                        "stop_code": "63412",
                         "stop_desc": "",
                         "stop_id": "3412",
                         "stop_lat": "37.264931136999998",
@@ -1272,6 +1283,7 @@
                 {
                     "identifier": "f-vta-s-4521",
                     "tags": {
+                        "stop_code": "64521",
                         "stop_desc": "",
                         "stop_id": "4521",
                         "stop_lat": "37.248137839000002",
@@ -1302,6 +1314,7 @@
                 {
                     "identifier": "f-vta-s-1141",
                     "tags": {
+                        "stop_code": "61141",
                         "stop_desc": "",
                         "stop_id": "1141",
                         "stop_lat": "37.251461184999997",
@@ -1332,6 +1345,7 @@
                 {
                     "identifier": "f-vta-s-4733",
                     "tags": {
+                        "stop_code": "64733",
                         "stop_desc": "",
                         "stop_id": "4733",
                         "stop_lat": "37.257423011",
@@ -1362,6 +1376,7 @@
                 {
                     "identifier": "f-vta-s-3297",
                     "tags": {
+                        "stop_code": "63297",
                         "stop_desc": "",
                         "stop_id": "3297",
                         "stop_lat": "37.237329277999997",
@@ -1392,6 +1407,7 @@
                 {
                     "identifier": "f-vta-s-1140",
                     "tags": {
+                        "stop_code": "61140",
                         "stop_desc": "",
                         "stop_id": "1140",
                         "stop_lat": "37.251536043999998",
@@ -1422,6 +1438,7 @@
                 {
                     "identifier": "f-vta-s-3299",
                     "tags": {
+                        "stop_code": "63299",
                         "stop_desc": "",
                         "stop_id": "3299",
                         "stop_lat": "37.237367032999998",
@@ -1452,6 +1469,7 @@
                 {
                     "identifier": "f-vta-s-3289",
                     "tags": {
+                        "stop_code": "63289",
                         "stop_desc": "",
                         "stop_id": "3289",
                         "stop_lat": "37.265463185000002",
@@ -1482,6 +1500,7 @@
                 {
                     "identifier": "f-vta-s-1147",
                     "tags": {
+                        "stop_code": "61147",
                         "stop_desc": "",
                         "stop_id": "1147",
                         "stop_lat": "37.250446113000002",
@@ -1512,6 +1531,7 @@
                 {
                     "identifier": "f-vta-s-3190",
                     "tags": {
+                        "stop_code": "63190",
                         "stop_desc": "",
                         "stop_id": "3190",
                         "stop_lat": "37.261531806999997",
@@ -1533,6 +1553,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.817183573,
+                    37.237147204
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3181",
+                    "tags": {
+                        "stop_code": "63181",
+                        "stop_desc": "",
+                        "stop_id": "3181",
+                        "stop_lat": "37.237147204000003",
+                        "stop_lon": "-121.81718357299999",
+                        "stop_name": "SANTA TERESA & LEAN",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SANTA TERESA & LEAN",
+            "onestopId": "s-9q97gfz6jg-santateresa~lean",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.831029272,
                     37.261782621
                 ],
@@ -1542,6 +1593,7 @@
                 {
                     "identifier": "f-vta-s-3290",
                     "tags": {
+                        "stop_code": "63290",
                         "stop_desc": "",
                         "stop_id": "3290",
                         "stop_lat": "37.261782621000002",
@@ -1572,6 +1624,7 @@
                 {
                     "identifier": "f-vta-s-3294",
                     "tags": {
+                        "stop_code": "63294",
                         "stop_desc": "",
                         "stop_id": "3294",
                         "stop_lat": "37.242243606000002",
@@ -1602,6 +1655,7 @@
                 {
                     "identifier": "f-vta-s-1109",
                     "tags": {
+                        "stop_code": "61109",
                         "stop_desc": "",
                         "stop_id": "1109",
                         "stop_lat": "37.250434480000003",
