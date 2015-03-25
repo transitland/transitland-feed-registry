@@ -3,30 +3,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.119171,
-                    33.948372
+                    -118.116928,
+                    33.947243
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1964",
+                    "identifier": "f-lacmta-s-1979",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1964",
+                        "stop_code": "1979",
                         "stop_desc": "",
-                        "stop_id": "1964",
-                        "stop_lat": "33.948372",
-                        "stop_lon": "-118.119171",
-                        "stop_name": "Florence / Birchdale",
+                        "stop_id": "1979",
+                        "stop_lat": "33.947243",
+                        "stop_lon": "-118.116928",
+                        "stop_name": "Florence / Lakewood",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Florence / Birchdale",
-            "onestopId": "s-9qh10hh5xg-florence~birchdale",
+            "name": "Florence / Lakewood",
+            "onestopId": "s-9qh105vvh0-florence~lakewood",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -71,30 +71,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.099098,
-                    33.927876
+                    -118.082153,
+                    33.935425
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14727",
+                    "identifier": "f-lacmta-s-10536",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14727",
+                        "stop_code": "10536",
                         "stop_desc": "",
-                        "stop_id": "14727",
-                        "stop_lat": "33.927876",
-                        "stop_lon": "-118.099098",
-                        "stop_name": "Studebaker / Kenney",
+                        "stop_id": "10536",
+                        "stop_lat": "33.935425",
+                        "stop_lon": "-118.082153",
+                        "stop_name": "Florence / Pioneer",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Studebaker / Kenney",
-            "onestopId": "s-9qh1086u5w-studebaker~kenney",
+            "name": "Florence / Pioneer",
+            "onestopId": "s-9qh10cz0nm-florence~pioneer",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -105,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.112091,
-                    33.929493
+                    -118.099403,
+                    33.927738
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1933",
+                    "identifier": "f-lacmta-s-6358",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1933",
+                        "stop_code": "6358",
                         "stop_desc": "",
-                        "stop_id": "1933",
-                        "stop_lat": "33.929493",
-                        "stop_lon": "-118.112091",
-                        "stop_name": "Firestone / Stewart and Gray",
+                        "stop_id": "6358",
+                        "stop_lat": "33.927738",
+                        "stop_lon": "-118.099403",
+                        "stop_name": "Studebaker / Kenney",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Firestone / Stewart and Gray",
-            "onestopId": "s-9qh1029msg-firestone~stewartandgray",
+            "name": "Studebaker / Kenney",
+            "onestopId": "s-9qh1086ekk-studebaker~kenney",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -207,6 +207,74 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.099098,
+                    33.927876
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-14727",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "14727",
+                        "stop_desc": "",
+                        "stop_id": "14727",
+                        "stop_lat": "33.927876",
+                        "stop_lon": "-118.099098",
+                        "stop_name": "Studebaker / Kenney",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Studebaker / Kenney",
+            "onestopId": "s-9qh1086u5w-studebaker~kenney",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.119171,
+                    33.948372
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-1964",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1964",
+                        "stop_desc": "",
+                        "stop_id": "1964",
+                        "stop_lat": "33.948372",
+                        "stop_lon": "-118.119171",
+                        "stop_name": "Florence / Birchdale",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Florence / Birchdale",
+            "onestopId": "s-9qh10hh5xg-florence~birchdale",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.113609,
                     33.930565
                 ],
@@ -231,40 +299,6 @@
             ],
             "name": "Firestone / Pangborn",
             "onestopId": "s-9qh102b7c7-firestone~pangborn",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.104523,
-                    33.940948
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-1982",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "1982",
-                        "stop_desc": "",
-                        "stop_id": "1982",
-                        "stop_lat": "33.940948",
-                        "stop_lon": "-118.104523",
-                        "stop_name": "Florence / Newville",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Florence / Newville",
-            "onestopId": "s-9qh106ybm5-florence~newville",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -309,64 +343,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.104652,
-                    33.941311
+                    -118.096466,
+                    33.936871
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-10528",
+                    "identifier": "f-lacmta-s-6357",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10528",
+                        "stop_code": "6357",
                         "stop_desc": "",
-                        "stop_id": "10528",
-                        "stop_lat": "33.941311",
-                        "stop_lon": "-118.104652",
-                        "stop_name": "Florence / Mattock",
+                        "stop_id": "6357",
+                        "stop_lat": "33.936871",
+                        "stop_lon": "-118.096466",
+                        "stop_name": "Florence / Studebaker",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Florence / Mattock",
-            "onestopId": "s-9qh106yf6n-florence~mattock",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.121933,
-                    33.939243
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-17839",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "17839",
-                        "stop_desc": "",
-                        "stop_id": "17839",
-                        "stop_lat": "33.939243",
-                        "stop_lon": "-118.121933",
-                        "stop_name": "Lakewood / 5th",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Lakewood / 5th",
-            "onestopId": "s-9qh1046nrm-lakewood~5th",
+            "name": "Florence / Studebaker",
+            "onestopId": "s-9qh10dhb8g-florence~studebaker",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -445,30 +445,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.124992,
-                    33.959934
+                    -118.104652,
+                    33.941311
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-12767",
+                    "identifier": "f-lacmta-s-10528",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12767",
+                        "stop_code": "10528",
                         "stop_desc": "",
-                        "stop_id": "12767",
-                        "stop_lat": "33.959934",
-                        "stop_lon": "-118.124992",
-                        "stop_name": "Paramount / Suva",
+                        "stop_id": "10528",
+                        "stop_lat": "33.941311",
+                        "stop_lon": "-118.104652",
+                        "stop_name": "Florence / Mattock",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Paramount / Suva",
-            "onestopId": "s-9qh10n0nbn-paramount~suva",
+            "name": "Florence / Mattock",
+            "onestopId": "s-9qh106yf6n-florence~mattock",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.108925,
+                    33.963524
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-17848",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "17848",
+                        "stop_desc": "",
+                        "stop_id": "17848",
+                        "stop_lat": "33.963524",
+                        "stop_lon": "-118.108925",
+                        "stop_name": "Rosemead / Terradell",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosemead / Terradell",
+            "onestopId": "s-9qh10qgeye-rosemead~terradell",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -615,40 +649,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.106194,
-                    33.968086
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-17849",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "17849",
-                        "stop_desc": "",
-                        "stop_id": "17849",
-                        "stop_lat": "33.968086",
-                        "stop_lon": "-118.106194",
-                        "stop_name": "Rosemead / Aero",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosemead / Aero",
-            "onestopId": "s-9qh10rtwqn-rosemead~aero",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.105583,
                     33.925793
                 ],
@@ -683,30 +683,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.115372,
-                    33.967194
+                    -118.096725,
+                    33.951977
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4305",
+                    "identifier": "f-lacmta-s-14879",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4305",
+                        "stop_code": "14879",
                         "stop_desc": "",
-                        "stop_id": "4305",
-                        "stop_lat": "33.967194",
-                        "stop_lon": "-118.115372",
-                        "stop_name": "Paramount / Telegraph",
+                        "stop_id": "14879",
+                        "stop_lat": "33.951977",
+                        "stop_lon": "-118.096725",
+                        "stop_name": "Telegraph / True",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Paramount / Telegraph",
-            "onestopId": "s-9qh10px10r-paramount~telegraph",
+            "name": "Telegraph / True",
+            "onestopId": "s-9qh10su8dg-telegraph~true",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -785,6 +785,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.106628,
+                    33.958466
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-6503",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6503",
+                        "stop_desc": "",
+                        "stop_id": "6503",
+                        "stop_lat": "33.958466",
+                        "stop_lon": "-118.106628",
+                        "stop_name": "Telegraph / Serapis",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Telegraph / Serapis",
+            "onestopId": "s-9qh10mvqkh-telegraph~serapis",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.1157,
                     33.966763
                 ],
@@ -819,30 +853,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.116928,
-                    33.947243
+                    -118.110069,
+                    33.96072
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1979",
+                    "identifier": "f-lacmta-s-6474",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1979",
+                        "stop_code": "6474",
                         "stop_desc": "",
-                        "stop_id": "1979",
-                        "stop_lat": "33.947243",
-                        "stop_lon": "-118.116928",
-                        "stop_name": "Florence / Lakewood",
+                        "stop_id": "6474",
+                        "stop_lat": "33.96072",
+                        "stop_lon": "-118.110069",
+                        "stop_name": "Lakewood / Telegraph",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Florence / Lakewood",
-            "onestopId": "s-9qh105vvh0-florence~lakewood",
+            "name": "Lakewood / Telegraph",
+            "onestopId": "s-9qh10q6gec-lakewood~telegraph",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -887,30 +921,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.115417,
-                    33.951172
+                    -118.120697,
+                    33.934093
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17844",
+                    "identifier": "f-lacmta-s-10446",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17844",
+                        "stop_code": "10446",
                         "stop_desc": "",
-                        "stop_id": "17844",
-                        "stop_lat": "33.951172",
-                        "stop_lon": "-118.115417",
-                        "stop_name": "Lakewood / Lubec",
+                        "stop_id": "10446",
+                        "stop_lat": "33.934093",
+                        "stop_lon": "-118.120697",
+                        "stop_name": "Firestone / Stonewood Center",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Lakewood / Lubec",
-            "onestopId": "s-9qh10hwgzm-lakewood~lubec",
+            "name": "Firestone / Stonewood Center",
+            "onestopId": "s-9qh101e0km-firestone~stonewood",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -921,30 +955,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.099403,
-                    33.927738
+                    -118.102501,
+                    33.955612
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-6358",
+                    "identifier": "f-lacmta-s-6495",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6358",
+                        "stop_code": "6495",
                         "stop_desc": "",
-                        "stop_id": "6358",
-                        "stop_lat": "33.927738",
-                        "stop_lon": "-118.099403",
-                        "stop_name": "Studebaker / Kenney",
+                        "stop_id": "6495",
+                        "stop_lat": "33.955612",
+                        "stop_lon": "-118.102501",
+                        "stop_name": "Telegraph / Passons",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Studebaker / Kenney",
-            "onestopId": "s-9qh1086ekk-studebaker~kenney",
+            "name": "Telegraph / Passons",
+            "onestopId": "s-9qh10t2mu2-telegraph~passons",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -955,30 +989,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.108925,
-                    33.963524
+                    -118.09697,
+                    33.936954
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17848",
+                    "identifier": "f-lacmta-s-1992",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17848",
+                        "stop_code": "1992",
                         "stop_desc": "",
-                        "stop_id": "17848",
-                        "stop_lat": "33.963524",
-                        "stop_lon": "-118.108925",
-                        "stop_name": "Rosemead / Terradell",
+                        "stop_id": "1992",
+                        "stop_lat": "33.936954",
+                        "stop_lon": "-118.09697",
+                        "stop_name": "Studebaker / Florence",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rosemead / Terradell",
-            "onestopId": "s-9qh10qgeye-rosemead~terradell",
+            "name": "Studebaker / Florence",
+            "onestopId": "s-9qh10dh3j4-studebaker~florence",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.104523,
+                    33.940948
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-1982",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1982",
+                        "stop_desc": "",
+                        "stop_id": "1982",
+                        "stop_lat": "33.940948",
+                        "stop_lon": "-118.104523",
+                        "stop_name": "Florence / Newville",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Florence / Newville",
+            "onestopId": "s-9qh106ybm5-florence~newville",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1261,30 +1329,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.10701,
-                    33.942211
+                    -118.11187,
+                    33.929668
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1967",
+                    "identifier": "f-lacmta-s-10472",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1967",
+                        "stop_code": "10472",
                         "stop_desc": "",
-                        "stop_id": "1967",
-                        "stop_lat": "33.942211",
-                        "stop_lon": "-118.10701",
-                        "stop_name": "Florence / Casanes",
+                        "stop_id": "10472",
+                        "stop_lat": "33.929668",
+                        "stop_lon": "-118.11187",
+                        "stop_name": "Firestone / Newville",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Florence / Casanes",
-            "onestopId": "s-9qh106vpen-florence~casanes",
+            "name": "Firestone / Newville",
+            "onestopId": "s-9qh1029w9u-firestone~newville",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1329,64 +1397,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.09697,
-                    33.936954
+                    -118.106186,
+                    33.958481
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1992",
+                    "identifier": "f-lacmta-s-14877",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1992",
+                        "stop_code": "14877",
                         "stop_desc": "",
-                        "stop_id": "1992",
-                        "stop_lat": "33.936954",
-                        "stop_lon": "-118.09697",
-                        "stop_name": "Studebaker / Florence",
+                        "stop_id": "14877",
+                        "stop_lat": "33.958481",
+                        "stop_lon": "-118.106186",
+                        "stop_name": "Telegraph / Serapis",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Studebaker / Florence",
-            "onestopId": "s-9qh10dh3j4-studebaker~florence",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.082153,
-                    33.935425
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-10536",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "10536",
-                        "stop_desc": "",
-                        "stop_id": "10536",
-                        "stop_lat": "33.935425",
-                        "stop_lon": "-118.082153",
-                        "stop_name": "Florence / Pioneer",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Florence / Pioneer",
-            "onestopId": "s-9qh10cz0nm-florence~pioneer",
+            "name": "Telegraph / Serapis",
+            "onestopId": "s-9qh10mvwqr-telegraph~serapis",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1431,30 +1465,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.099411,
-                    33.932137
+                    -118.113777,
+                    33.969303
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-6354",
+                    "identifier": "f-lacmta-s-4291",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6354",
+                        "stop_code": "4291",
                         "stop_desc": "",
-                        "stop_id": "6354",
-                        "stop_lat": "33.932137",
-                        "stop_lon": "-118.099411",
-                        "stop_name": "Studebaker / Cecilia",
+                        "stop_id": "4291",
+                        "stop_lat": "33.969303",
+                        "stop_lon": "-118.113777",
+                        "stop_name": "Paramount / Maxine",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Studebaker / Cecilia",
-            "onestopId": "s-9qh1094th2-studebaker~cecilia",
+            "name": "Paramount / Maxine",
+            "onestopId": "s-9qh10rbjt9-paramount~maxine",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1465,30 +1499,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.106628,
-                    33.958466
+                    -118.112091,
+                    33.929493
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-6503",
+                    "identifier": "f-lacmta-s-1933",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6503",
+                        "stop_code": "1933",
                         "stop_desc": "",
-                        "stop_id": "6503",
-                        "stop_lat": "33.958466",
-                        "stop_lon": "-118.106628",
-                        "stop_name": "Telegraph / Serapis",
+                        "stop_id": "1933",
+                        "stop_lat": "33.929493",
+                        "stop_lon": "-118.112091",
+                        "stop_name": "Firestone / Stewart and Gray",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Telegraph / Serapis",
-            "onestopId": "s-9qh10mvqkh-telegraph~serapis",
+            "name": "Firestone / Stewart and Gray",
+            "onestopId": "s-9qh1029msg-firestone~stewartandgray",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1523,6 +1557,40 @@
             ],
             "name": "Florence / Birchdale",
             "onestopId": "s-9qh10hhjfv-florence~birchdale",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.113335,
+                    33.954536
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-17845",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "17845",
+                        "stop_desc": "",
+                        "stop_id": "17845",
+                        "stop_lat": "33.954536",
+                        "stop_lon": "-118.113335",
+                        "stop_name": "Lakewood / Gallatin",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Lakewood / Gallatin",
+            "onestopId": "s-9qh10m0rxb-lakewood~gallatin",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1635,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.123138,
-                    33.961964
+                    -118.084717,
+                    33.935169
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-12761",
+                    "identifier": "f-lacmta-s-1987",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12761",
+                        "stop_code": "1987",
                         "stop_desc": "",
-                        "stop_id": "12761",
-                        "stop_lat": "33.961964",
-                        "stop_lon": "-118.123138",
-                        "stop_name": "Paramount / Gallatin",
+                        "stop_id": "1987",
+                        "stop_lat": "33.935169",
+                        "stop_lon": "-118.084717",
+                        "stop_name": "Florence / Ringwood",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Paramount / Gallatin",
-            "onestopId": "s-9qh10n96g2-paramount~gallatin",
+            "name": "Florence / Ringwood",
+            "onestopId": "s-9qh10ctqdw-florence~ringwood",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1669,30 +1737,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.120697,
-                    33.934093
+                    -118.106194,
+                    33.968086
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-10446",
+                    "identifier": "f-lacmta-s-17849",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10446",
+                        "stop_code": "17849",
                         "stop_desc": "",
-                        "stop_id": "10446",
-                        "stop_lat": "33.934093",
-                        "stop_lon": "-118.120697",
-                        "stop_name": "Firestone / Stonewood Center",
+                        "stop_id": "17849",
+                        "stop_lat": "33.968086",
+                        "stop_lon": "-118.106194",
+                        "stop_name": "Rosemead / Aero",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Firestone / Stonewood Center",
-            "onestopId": "s-9qh101e0km-firestone~stonewood",
+            "name": "Rosemead / Aero",
+            "onestopId": "s-9qh10rtwqn-rosemead~aero",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1703,30 +1771,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.113335,
-                    33.954536
+                    -118.097946,
+                    33.935127
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17845",
+                    "identifier": "f-lacmta-s-14725",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17845",
+                        "stop_code": "14725",
                         "stop_desc": "",
-                        "stop_id": "17845",
-                        "stop_lat": "33.954536",
-                        "stop_lon": "-118.113335",
-                        "stop_name": "Lakewood / Gallatin",
+                        "stop_id": "14725",
+                        "stop_lat": "33.935127",
+                        "stop_lon": "-118.097946",
+                        "stop_name": "Studebaker / I-5 I-605 Off-Ramp",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Lakewood / Gallatin",
-            "onestopId": "s-9qh10m0rxb-lakewood~gallatin",
+            "name": "Studebaker / I-5 I-605 Off-Ramp",
+            "onestopId": "s-9qh109ewqq-studebaker~i5i605offramp",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1771,30 +1839,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.113777,
-                    33.969303
+                    -118.115417,
+                    33.951172
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4291",
+                    "identifier": "f-lacmta-s-17844",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4291",
+                        "stop_code": "17844",
                         "stop_desc": "",
-                        "stop_id": "4291",
-                        "stop_lat": "33.969303",
-                        "stop_lon": "-118.113777",
-                        "stop_name": "Paramount / Maxine",
+                        "stop_id": "17844",
+                        "stop_lat": "33.951172",
+                        "stop_lon": "-118.115417",
+                        "stop_name": "Lakewood / Lubec",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Paramount / Maxine",
-            "onestopId": "s-9qh10rbjt9-paramount~maxine",
+            "name": "Lakewood / Lubec",
+            "onestopId": "s-9qh10hwgzm-lakewood~lubec",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1873,40 +1941,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.110069,
-                    33.96072
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-6474",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6474",
-                        "stop_desc": "",
-                        "stop_id": "6474",
-                        "stop_lat": "33.96072",
-                        "stop_lon": "-118.110069",
-                        "stop_name": "Lakewood / Telegraph",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Lakewood / Telegraph",
-            "onestopId": "s-9qh10q6gec-lakewood~telegraph",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.106201,
                     33.925816
                 ],
@@ -1941,30 +1975,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.106186,
-                    33.958481
+                    -118.099411,
+                    33.932137
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14877",
+                    "identifier": "f-lacmta-s-6354",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14877",
+                        "stop_code": "6354",
                         "stop_desc": "",
-                        "stop_id": "14877",
-                        "stop_lat": "33.958481",
-                        "stop_lon": "-118.106186",
-                        "stop_name": "Telegraph / Serapis",
+                        "stop_id": "6354",
+                        "stop_lat": "33.932137",
+                        "stop_lon": "-118.099411",
+                        "stop_name": "Studebaker / Cecilia",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Telegraph / Serapis",
-            "onestopId": "s-9qh10mvwqr-telegraph~serapis",
+            "name": "Studebaker / Cecilia",
+            "onestopId": "s-9qh1094th2-studebaker~cecilia",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2077,40 +2111,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.102501,
-                    33.955612
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-6495",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6495",
-                        "stop_desc": "",
-                        "stop_id": "6495",
-                        "stop_lat": "33.955612",
-                        "stop_lon": "-118.102501",
-                        "stop_name": "Telegraph / Passons",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Telegraph / Passons",
-            "onestopId": "s-9qh10t2mu2-telegraph~passons",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.081238,
                     33.945522
                 ],
@@ -2145,30 +2145,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.096466,
-                    33.936871
+                    -118.121933,
+                    33.939243
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-6357",
+                    "identifier": "f-lacmta-s-17839",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6357",
+                        "stop_code": "17839",
                         "stop_desc": "",
-                        "stop_id": "6357",
-                        "stop_lat": "33.936871",
-                        "stop_lon": "-118.096466",
-                        "stop_name": "Florence / Studebaker",
+                        "stop_id": "17839",
+                        "stop_lat": "33.939243",
+                        "stop_lon": "-118.121933",
+                        "stop_name": "Lakewood / 5th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Florence / Studebaker",
-            "onestopId": "s-9qh10dhb8g-florence~studebaker",
+            "name": "Lakewood / 5th",
+            "onestopId": "s-9qh1046nrm-lakewood~5th",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2349,30 +2349,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.096725,
-                    33.951977
+                    -118.115372,
+                    33.967194
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14879",
+                    "identifier": "f-lacmta-s-4305",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14879",
+                        "stop_code": "4305",
                         "stop_desc": "",
-                        "stop_id": "14879",
-                        "stop_lat": "33.951977",
-                        "stop_lon": "-118.096725",
-                        "stop_name": "Telegraph / True",
+                        "stop_id": "4305",
+                        "stop_lat": "33.967194",
+                        "stop_lon": "-118.115372",
+                        "stop_name": "Paramount / Telegraph",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Telegraph / True",
-            "onestopId": "s-9qh10su8dg-telegraph~true",
+            "name": "Paramount / Telegraph",
+            "onestopId": "s-9qh10px10r-paramount~telegraph",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2451,30 +2451,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.11187,
-                    33.929668
+                    -118.10701,
+                    33.942211
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-10472",
+                    "identifier": "f-lacmta-s-1967",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10472",
+                        "stop_code": "1967",
                         "stop_desc": "",
-                        "stop_id": "10472",
-                        "stop_lat": "33.929668",
-                        "stop_lon": "-118.11187",
-                        "stop_name": "Firestone / Newville",
+                        "stop_id": "1967",
+                        "stop_lat": "33.942211",
+                        "stop_lon": "-118.10701",
+                        "stop_name": "Florence / Casanes",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Firestone / Newville",
-            "onestopId": "s-9qh1029w9u-firestone~newville",
+            "name": "Florence / Casanes",
+            "onestopId": "s-9qh106vpen-florence~casanes",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2553,30 +2553,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.084717,
-                    33.935169
+                    -118.123138,
+                    33.961964
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1987",
+                    "identifier": "f-lacmta-s-12761",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1987",
+                        "stop_code": "12761",
                         "stop_desc": "",
-                        "stop_id": "1987",
-                        "stop_lat": "33.935169",
-                        "stop_lon": "-118.084717",
-                        "stop_name": "Florence / Ringwood",
+                        "stop_id": "12761",
+                        "stop_lat": "33.961964",
+                        "stop_lon": "-118.123138",
+                        "stop_name": "Paramount / Gallatin",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Florence / Ringwood",
-            "onestopId": "s-9qh10ctqdw-florence~ringwood",
+            "name": "Paramount / Gallatin",
+            "onestopId": "s-9qh10n96g2-paramount~gallatin",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2723,30 +2723,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.097946,
-                    33.935127
+                    -118.124992,
+                    33.959934
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14725",
+                    "identifier": "f-lacmta-s-12767",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14725",
+                        "stop_code": "12767",
                         "stop_desc": "",
-                        "stop_id": "14725",
-                        "stop_lat": "33.935127",
-                        "stop_lon": "-118.097946",
-                        "stop_name": "Studebaker / I-5 I-605 Off-Ramp",
+                        "stop_id": "12767",
+                        "stop_lat": "33.959934",
+                        "stop_lon": "-118.124992",
+                        "stop_name": "Paramount / Suva",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Studebaker / I-5 I-605 Off-Ramp",
-            "onestopId": "s-9qh109ewqq-studebaker~i5i605offramp",
+            "name": "Paramount / Suva",
+            "onestopId": "s-9qh10n0nbn-paramount~suva",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

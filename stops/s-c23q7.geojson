@@ -3,31 +3,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.825813,
-                    47.5296249
+                    -121.856415,
+                    47.5311165
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-82425",
+                    "identifier": "f-kingcounty-s-64419",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "82425",
-                        "stop_lat": "47.5296249",
-                        "stop_lon": "-121.825813",
-                        "stop_name": "Railroad Ave S & SE King St",
+                        "stop_id": "64419",
+                        "stop_lat": "47.5311165",
+                        "stop_lon": "-121.856415",
+                        "stop_name": "Snoqualmie Pkwy & Fisher Ave SE",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "40"
                     }
                 }
             ],
-            "name": "Railroad Ave S & SE King St",
-            "onestopId": "s-c23q7u90hu-railroads~seking",
+            "name": "Snoqualmie Pkwy & Fisher Ave SE",
+            "onestopId": "s-c23q7hfbgd-snoqualmie~fisherse",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -143,6 +143,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.850639,
+                    47.5329437
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-64405",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "64405",
+                        "stop_lat": "47.5329437",
+                        "stop_lon": "-121.850639",
+                        "stop_name": "Snoqualmie Pkwy & Orchard Ave SE",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "40"
+                    }
+                }
+            ],
+            "name": "Snoqualmie Pkwy & Orchard Ave SE",
+            "onestopId": "s-c23q7jp56q-snoqualmie~orchardse",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.823112,
                     47.5259361
                 ],
@@ -178,31 +213,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.850639,
-                    47.5329437
+                    -121.825813,
+                    47.5296249
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-64405",
+                    "identifier": "f-kingcounty-s-82425",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "64405",
-                        "stop_lat": "47.5329437",
-                        "stop_lon": "-121.850639",
-                        "stop_name": "Snoqualmie Pkwy & Orchard Ave SE",
+                        "stop_id": "82425",
+                        "stop_lat": "47.5296249",
+                        "stop_lon": "-121.825813",
+                        "stop_name": "Railroad Ave S & SE King St",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "40"
                     }
                 }
             ],
-            "name": "Snoqualmie Pkwy & Orchard Ave SE",
-            "onestopId": "s-c23q7jp56q-snoqualmie~orchardse",
+            "name": "Railroad Ave S & SE King St",
+            "onestopId": "s-c23q7u90hu-railroads~seking",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -273,41 +308,6 @@
             ],
             "name": "Railroad Ave SE & SE Northern St",
             "onestopId": "s-c23q7szxxk-railroadse~senorthern",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.856415,
-                    47.5311165
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-64419",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "64419",
-                        "stop_lat": "47.5311165",
-                        "stop_lon": "-121.856415",
-                        "stop_name": "Snoqualmie Pkwy & Fisher Ave SE",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "40"
-                    }
-                }
-            ],
-            "name": "Snoqualmie Pkwy & Fisher Ave SE",
-            "onestopId": "s-c23q7hfbgd-snoqualmie~fisherse",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

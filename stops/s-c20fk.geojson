@@ -147,32 +147,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.514445,
-                    45.424794
+                    -122.501679,
+                    45.427439
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10144",
+                    "identifier": "f-trimet-s-13157",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "10144",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10144)",
-                        "stop_id": "10144",
-                        "stop_lat": "45.424794",
-                        "stop_lon": "-122.514445",
-                        "stop_name": "SE Sunnyside & 145th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10144",
+                        "stop_code": "13157",
+                        "stop_desc": "Northbound stop in Happy Valley (Stop ID 13157)",
+                        "stop_id": "13157",
+                        "stop_lat": "45.427439",
+                        "stop_lon": "-122.501679",
+                        "stop_name": "SE 157th & Sunnyside",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13157",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sunnyside & 145th",
-            "onestopId": "s-c20fkj7dwe-sesunnyside~145th",
+            "name": "SE 157th & Sunnyside",
+            "onestopId": "s-c20fkmufpb-se157th~sunnyside",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -255,68 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.501679,
-                    45.427439
+                    -122.500321,
+                    45.401247
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13157",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13157",
-                        "stop_desc": "Northbound stop in Happy Valley (Stop ID 13157)",
-                        "stop_id": "13157",
-                        "stop_lat": "45.427439",
-                        "stop_lon": "-122.501679",
-                        "stop_name": "SE 157th & Sunnyside",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13157",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 157th & Sunnyside",
-            "onestopId": "s-c20fkmufpb-se157th~sunnyside",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.507955,
-                    45.410909
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10223",
+                    "identifier": "f-trimet-s-2872",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10223",
-                        "stop_desc": "Southbound stop in Happy Valley (Stop ID 10223)",
-                        "stop_id": "10223",
-                        "stop_lat": "45.410909",
-                        "stop_lon": "-122.507955",
-                        "stop_name": "SE 152nd & Morning Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10223",
+                        "position": "At",
+                        "stop_code": "2872",
+                        "stop_desc": "Southbound stop in Damascus (Stop ID 2872)",
+                        "stop_id": "2872",
+                        "stop_lat": "45.401247",
+                        "stop_lon": "-122.500321",
+                        "stop_name": "15700 Block SE Hwy 224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2872",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 152nd & Morning Way",
-            "onestopId": "s-c20fk6b3tw-se152nd~morning",
+            "name": "15700 Block SE Hwy 224",
+            "onestopId": "s-c20fk3jcrt-15700blockse224",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -795,32 +759,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.500321,
-                    45.401247
+                    -122.507955,
+                    45.410909
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2872",
+                    "identifier": "f-trimet-s-10223",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "2872",
-                        "stop_desc": "Southbound stop in Damascus (Stop ID 2872)",
-                        "stop_id": "2872",
-                        "stop_lat": "45.401247",
-                        "stop_lon": "-122.500321",
-                        "stop_name": "15700 Block SE Hwy 224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2872",
+                        "position": "Nearside",
+                        "stop_code": "10223",
+                        "stop_desc": "Southbound stop in Happy Valley (Stop ID 10223)",
+                        "stop_id": "10223",
+                        "stop_lat": "45.410909",
+                        "stop_lon": "-122.507955",
+                        "stop_name": "SE 152nd & Morning Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10223",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "15700 Block SE Hwy 224",
-            "onestopId": "s-c20fk3jcrt-15700blockse224",
+            "name": "SE 152nd & Morning Way",
+            "onestopId": "s-c20fk6b3tw-se152nd~morning",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -975,32 +939,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.512318,
-                    45.422645
+                    -122.506593,
+                    45.42541
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10148",
+                    "identifier": "f-trimet-s-12901",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10148",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10148)",
-                        "stop_id": "10148",
-                        "stop_lat": "45.422645",
-                        "stop_lon": "-122.512318",
-                        "stop_name": "SE Oregon Trail Dr & Hines",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10148",
+                        "position": "Farside",
+                        "stop_code": "12901",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 12901)",
+                        "stop_id": "12901",
+                        "stop_lat": "45.42541",
+                        "stop_lon": "-122.506593",
+                        "stop_name": "SE Sunnyside & 152nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12901",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Oregon Trail Dr & Hines",
-            "onestopId": "s-c20fkhvq04-seoregontrail~hines",
+            "name": "SE Sunnyside & 152nd",
+            "onestopId": "s-c20fkm3qjq-sesunnyside~152nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1011,32 +975,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.504546,
-                    45.408617
+                    -122.514445,
+                    45.424794
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2895",
+                    "identifier": "f-trimet-s-10144",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "2895",
-                        "stop_desc": "Southbound stop in Damascus (Stop ID 2895)",
-                        "stop_id": "2895",
-                        "stop_lat": "45.408617",
-                        "stop_lon": "-122.504546",
-                        "stop_name": "SE Hwy 224 & Hwy 212",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2895",
+                        "stop_code": "10144",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10144)",
+                        "stop_id": "10144",
+                        "stop_lat": "45.424794",
+                        "stop_lon": "-122.514445",
+                        "stop_name": "SE Sunnyside & 145th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10144",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 224 & Hwy 212",
-            "onestopId": "s-c20fk66um5-se224~212",
+            "name": "SE Sunnyside & 145th",
+            "onestopId": "s-c20fkj7dwe-sesunnyside~145th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.500834,
+                    45.403287
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2870",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "2870",
+                        "stop_desc": "Southbound stop in Damascus (Stop ID 2870)",
+                        "stop_id": "2870",
+                        "stop_lat": "45.403287",
+                        "stop_lon": "-122.500834",
+                        "stop_name": "SE Hwy 224 & Eckert Ln",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2870",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Hwy 224 & Eckert Ln",
+            "onestopId": "s-c20fk3mt7d-se224~eckert",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1191,32 +1191,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.500834,
-                    45.403287
+                    -122.504546,
+                    45.408617
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2870",
+                    "identifier": "f-trimet-s-2895",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2870",
-                        "stop_desc": "Southbound stop in Damascus (Stop ID 2870)",
-                        "stop_id": "2870",
-                        "stop_lat": "45.403287",
-                        "stop_lon": "-122.500834",
-                        "stop_name": "SE Hwy 224 & Eckert Ln",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2870",
+                        "position": "Farside",
+                        "stop_code": "2895",
+                        "stop_desc": "Southbound stop in Damascus (Stop ID 2895)",
+                        "stop_id": "2895",
+                        "stop_lat": "45.408617",
+                        "stop_lon": "-122.504546",
+                        "stop_name": "SE Hwy 224 & Hwy 212",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2895",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 224 & Eckert Ln",
-            "onestopId": "s-c20fk3mt7d-se224~eckert",
+            "name": "SE Hwy 224 & Hwy 212",
+            "onestopId": "s-c20fk66um5-se224~212",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1479,32 +1479,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.506593,
-                    45.42541
+                    -122.512318,
+                    45.422645
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-12901",
+                    "identifier": "f-trimet-s-10148",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "12901",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 12901)",
-                        "stop_id": "12901",
-                        "stop_lat": "45.42541",
-                        "stop_lon": "-122.506593",
-                        "stop_name": "SE Sunnyside & 152nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12901",
+                        "position": "Nearside",
+                        "stop_code": "10148",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10148)",
+                        "stop_id": "10148",
+                        "stop_lat": "45.422645",
+                        "stop_lon": "-122.512318",
+                        "stop_name": "SE Oregon Trail Dr & Hines",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10148",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sunnyside & 152nd",
-            "onestopId": "s-c20fkm3qjq-sesunnyside~152nd",
+            "name": "SE Oregon Trail Dr & Hines",
+            "onestopId": "s-c20fkhvq04-seoregontrail~hines",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

@@ -3,32 +3,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.733472,
-                    45.393491
+                    -122.733255,
+                    45.390705
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4447",
+                    "identifier": "f-trimet-s-4449",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4447",
-                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 4447)",
-                        "stop_id": "4447",
-                        "stop_lat": "45.393491",
-                        "stop_lon": "-122.733472",
-                        "stop_name": "SW Pilkington & Kenny",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4447",
+                        "position": "Farside",
+                        "stop_code": "4449",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4449)",
+                        "stop_id": "4449",
+                        "stop_lat": "45.390705",
+                        "stop_lon": "-122.733255",
+                        "stop_name": "18700 Block SW Pilkington",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4449",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Pilkington & Kenny",
-            "onestopId": "s-c20dppshqb-swpilkington~kenny",
+            "name": "18700 Block SW Pilkington",
+            "onestopId": "s-c20dpphk5b-18700blockswpilkington",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -147,42 +147,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.733334,
-                    45.38862
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4442",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "4442",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4442)",
-                        "stop_id": "4442",
-                        "stop_lat": "45.38862",
-                        "stop_lon": "-122.733334",
-                        "stop_name": "19000 Block SW Pilkington",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4442",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "19000 Block SW Pilkington",
-            "onestopId": "s-c20dpnsrfh-19000blockswpilkington",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.733513,
                     45.388152
                 ],
@@ -219,32 +183,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.733255,
-                    45.390705
+                    -122.733472,
+                    45.393491
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4449",
+                    "identifier": "f-trimet-s-4447",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "4449",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4449)",
-                        "stop_id": "4449",
-                        "stop_lat": "45.390705",
-                        "stop_lon": "-122.733255",
-                        "stop_name": "18700 Block SW Pilkington",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4449",
+                        "position": "Nearside",
+                        "stop_code": "4447",
+                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 4447)",
+                        "stop_id": "4447",
+                        "stop_lat": "45.393491",
+                        "stop_lon": "-122.733472",
+                        "stop_name": "SW Pilkington & Kenny",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4447",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "18700 Block SW Pilkington",
-            "onestopId": "s-c20dpphk5b-18700blockswpilkington",
+            "name": "SW Pilkington & Kenny",
+            "onestopId": "s-c20dppshqb-swpilkington~kenny",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -425,6 +389,42 @@
             ],
             "name": "SW Pilkington & Childs",
             "onestopId": "s-c20dpnk4qt-swpilkington~childs",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.733334,
+                    45.38862
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4442",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "4442",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4442)",
+                        "stop_id": "4442",
+                        "stop_lat": "45.38862",
+                        "stop_lon": "-122.733334",
+                        "stop_name": "19000 Block SW Pilkington",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4442",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "19000 Block SW Pilkington",
+            "onestopId": "s-c20dpnsrfh-19000blockswpilkington",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

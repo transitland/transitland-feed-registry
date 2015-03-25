@@ -65,27 +65,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.762101498,
-                    37.300035025
+                    -121.764061734,
+                    37.297765919
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1251",
+                    "identifier": "f-vta-s-1250",
                     "tags": {
-                        "stop_code": "61251",
+                        "stop_code": "61250",
                         "stop_desc": "",
-                        "stop_id": "1251",
-                        "stop_lat": "37.300035025",
-                        "stop_lon": "-121.76210149800001",
-                        "stop_name": "EVERGREEN VALLEY COM. COLLEGE",
+                        "stop_id": "1250",
+                        "stop_lat": "37.297765919",
+                        "stop_lon": "-121.76406173399999",
+                        "stop_name": "YERBA BUENA & EVERGREEN VALLEY C.C.",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "EVERGREEN VALLEY COM. COLLEGE",
-            "onestopId": "s-9q9kjnr83q-evergreenvalleycomcollege",
+            "name": "YERBA BUENA & EVERGREEN VALLEY C.C.",
+            "onestopId": "s-9q9kjjy55x-yerbabuena~evergreenvalleycc",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -96,27 +96,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.766661748,
-                    37.293207455
+                    -121.767861118,
+                    37.299097221
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1246",
+                    "identifier": "f-vta-s-1249",
                     "tags": {
-                        "stop_code": "61246",
+                        "stop_code": "61249",
                         "stop_desc": "",
-                        "stop_id": "1246",
-                        "stop_lat": "37.293207455000001",
-                        "stop_lon": "-121.766661748",
-                        "stop_name": "SAN FELIPE & HARVEST EST",
+                        "stop_id": "1249",
+                        "stop_lat": "37.299097220999997",
+                        "stop_lon": "-121.767861118",
+                        "stop_name": "YERBA BUENA & FOOTBRIDGE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SAN FELIPE & HARVEST EST",
-            "onestopId": "s-9q9kjjh0xj-sanfelipe~harvestest",
+            "name": "YERBA BUENA & FOOTBRIDGE",
+            "onestopId": "s-9q9kjn56gp-yerbabuena~footbridge",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -127,27 +127,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.764121793,
-                    37.290939657
+                    -121.770127698,
+                    37.297902713
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1245",
+                    "identifier": "f-vta-s-5021",
                     "tags": {
-                        "stop_code": "61245",
+                        "stop_code": "65021",
                         "stop_desc": "",
-                        "stop_id": "1245",
-                        "stop_lat": "37.290939657000003",
-                        "stop_lon": "-121.764121793",
-                        "stop_name": "THE VILLAGES & ASHLEY",
+                        "stop_id": "5021",
+                        "stop_lat": "37.297902712999999",
+                        "stop_lon": "-121.770127698",
+                        "stop_name": "SAN FELIPE & EVERGREEN COMMUNITY CTR",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "THE VILLAGES & ASHLEY",
-            "onestopId": "s-9q9kjhw56q-thevillages~ashley",
+            "name": "SAN FELIPE & EVERGREEN COMMUNITY CTR",
+            "onestopId": "s-9q9kjjcsn3-sanfelipe~evergreencommunity",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -220,27 +220,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.764061734,
-                    37.297765919
+                    -121.766661748,
+                    37.293207455
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1250",
+                    "identifier": "f-vta-s-1246",
                     "tags": {
-                        "stop_code": "61250",
+                        "stop_code": "61246",
                         "stop_desc": "",
-                        "stop_id": "1250",
-                        "stop_lat": "37.297765919",
-                        "stop_lon": "-121.76406173399999",
-                        "stop_name": "YERBA BUENA & EVERGREEN VALLEY C.C.",
+                        "stop_id": "1246",
+                        "stop_lat": "37.293207455000001",
+                        "stop_lon": "-121.766661748",
+                        "stop_name": "SAN FELIPE & HARVEST EST",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "YERBA BUENA & EVERGREEN VALLEY C.C.",
-            "onestopId": "s-9q9kjjy55x-yerbabuena~evergreenvalleycc",
+            "name": "SAN FELIPE & HARVEST EST",
+            "onestopId": "s-9q9kjjh0xj-sanfelipe~harvestest",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.762101498,
+                    37.300035025
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1251",
+                    "tags": {
+                        "stop_code": "61251",
+                        "stop_desc": "",
+                        "stop_id": "1251",
+                        "stop_lat": "37.300035025",
+                        "stop_lon": "-121.76210149800001",
+                        "stop_name": "EVERGREEN VALLEY COM. COLLEGE",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "EVERGREEN VALLEY COM. COLLEGE",
+            "onestopId": "s-9q9kjnr83q-evergreenvalleycomcollege",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -313,37 +344,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.759467588,
-                    37.291207957
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1244",
-                    "tags": {
-                        "stop_code": "61244",
-                        "stop_desc": "",
-                        "stop_id": "1244",
-                        "stop_lat": "37.291207956999997",
-                        "stop_lon": "-121.75946758800001",
-                        "stop_name": "THE VILLAGES",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "THE VILLAGES",
-            "onestopId": "s-9q9kjk9mnc-thevillages",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.768103701,
                     37.294754174
                 ],
@@ -375,27 +375,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.767861118,
-                    37.299097221
+                    -121.759467588,
+                    37.291207957
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1249",
+                    "identifier": "f-vta-s-1244",
                     "tags": {
-                        "stop_code": "61249",
+                        "stop_code": "61244",
                         "stop_desc": "",
-                        "stop_id": "1249",
-                        "stop_lat": "37.299097220999997",
-                        "stop_lon": "-121.767861118",
-                        "stop_name": "YERBA BUENA & FOOTBRIDGE",
+                        "stop_id": "1244",
+                        "stop_lat": "37.291207956999997",
+                        "stop_lon": "-121.75946758800001",
+                        "stop_name": "THE VILLAGES",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "YERBA BUENA & FOOTBRIDGE",
-            "onestopId": "s-9q9kjn56gp-yerbabuena~footbridge",
+            "name": "THE VILLAGES",
+            "onestopId": "s-9q9kjk9mnc-thevillages",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.764121793,
+                    37.290939657
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1245",
+                    "tags": {
+                        "stop_code": "61245",
+                        "stop_desc": "",
+                        "stop_id": "1245",
+                        "stop_lat": "37.290939657000003",
+                        "stop_lon": "-121.764121793",
+                        "stop_name": "THE VILLAGES & ASHLEY",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "THE VILLAGES & ASHLEY",
+            "onestopId": "s-9q9kjhw56q-thevillages~ashley",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -427,37 +458,6 @@
             ],
             "name": "SAN FELIPE & OAK ESTATES",
             "onestopId": "s-9q9kjjd8xy-sanfelipe~oakestates",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.770127698,
-                    37.297902713
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-5021",
-                    "tags": {
-                        "stop_code": "65021",
-                        "stop_desc": "",
-                        "stop_id": "5021",
-                        "stop_lat": "37.297902712999999",
-                        "stop_lon": "-121.770127698",
-                        "stop_name": "SAN FELIPE & EVERGREEN COMMUNITY CTR",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "SAN FELIPE & EVERGREEN COMMUNITY CTR",
-            "onestopId": "s-9q9kjjcsn3-sanfelipe~evergreencommunity",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

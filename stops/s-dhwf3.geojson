@@ -108,41 +108,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.432214,
-                    25.728679
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-4160",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "C42S1478",
-                        "stop_desc": "",
-                        "stop_id": "4160",
-                        "stop_lat": "25.728679",
-                        "stop_lon": "-80.432214",
-                        "stop_name": "SW 42 ST@SW 147 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "SW 42 ST@SW 147 AV",
-            "onestopId": "s-dhwf3ez03t-sw42~sw147",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.443646,
                     25.713477
                 ],
@@ -203,6 +168,41 @@
             ],
             "name": "SW 26 ST@SW 149 AV (W/N)",
             "onestopId": "s-dhwf3wk5xz-sw26~sw149w~n",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.430891,
+                    25.714071
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-413",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "56ST147W",
+                        "stop_desc": "",
+                        "stop_id": "413",
+                        "stop_lat": "25.714071",
+                        "stop_lon": "-80.430891",
+                        "stop_name": "SW 56 ST@SW 147 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SW 56 ST@SW 147 AV",
+            "onestopId": "s-dhwf3c0526-sw56~sw147",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -353,31 +353,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.455339,
-                    25.714935
+                    -80.423494,
+                    25.714321
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-10171",
+                    "identifier": "f-miamidade-s-4196",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C16253T4",
+                        "stop_code": "C56S1428",
                         "stop_desc": "",
-                        "stop_id": "10171",
-                        "stop_lat": "25.714935",
-                        "stop_lon": "-80.455339",
-                        "stop_name": "SW 162 AV@SW 53 TER",
+                        "stop_id": "4196",
+                        "stop_lat": "25.714321",
+                        "stop_lon": "-80.423494",
+                        "stop_name": "SW 56 ST@SW 142 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 162 AV@SW 53 TER",
-            "onestopId": "s-dhwf31q0qe-sw162~sw53ter",
+            "name": "SW 56 ST@SW 142 AV",
+            "onestopId": "s-dhwf3cjkub-sw56~sw142",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -388,31 +388,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.423435,
-                    25.714088
+                    -80.431201,
+                    25.713476
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-4201",
+                    "identifier": "f-miamidade-s-9719",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C56S1425",
+                        "stop_code": "C147#564",
                         "stop_desc": "",
-                        "stop_id": "4201",
-                        "stop_lat": "25.714088",
-                        "stop_lon": "-80.423435",
-                        "stop_name": "SW 56 ST@SW 142 AV",
+                        "stop_id": "9719",
+                        "stop_lat": "25.713476",
+                        "stop_lon": "-80.431201",
+                        "stop_name": "SW 147 AV@SW 56 ST (S/F)",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 56 ST@SW 142 AV",
-            "onestopId": "s-dhwf3cj7qj-sw56~sw142",
+            "name": "SW 147 AV@SW 56 ST (S/F)",
+            "onestopId": "s-dhwf38zzc5-sw147~sw56s~f",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -458,66 +458,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.42735,
-                    25.728884
+                    -80.452689,
+                    25.713114
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-4159",
+                    "identifier": "f-miamidade-s-10177",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C42S1447",
+                        "stop_code": "C56S1626",
                         "stop_desc": "",
-                        "stop_id": "4159",
-                        "stop_lat": "25.728884",
-                        "stop_lon": "-80.42735",
-                        "stop_name": "SW 42 ST@SW 144 AV",
+                        "stop_id": "10177",
+                        "stop_lat": "25.713114",
+                        "stop_lon": "-80.452689",
+                        "stop_name": "SW 56 ST@SW 162 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 42 ST@SW 144 AV",
-            "onestopId": "s-dhwf3gf9dg-sw42~sw144",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.430921,
-                    25.712334
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-9928",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "C14757T1",
-                        "stop_desc": "",
-                        "stop_id": "9928",
-                        "stop_lat": "25.712334",
-                        "stop_lon": "-80.430921",
-                        "stop_name": "SW 147 AV@SW 57 TE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "SW 147 AV@SW 57 TE",
-            "onestopId": "s-dhwf38zcpw-sw147~sw57te",
+            "name": "SW 56 ST@SW 162 AV",
+            "onestopId": "s-dhwf32bjsr-sw56~sw162",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -633,31 +598,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.423494,
-                    25.714321
+                    -80.455339,
+                    25.714935
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-4196",
+                    "identifier": "f-miamidade-s-10171",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C56S1428",
+                        "stop_code": "C16253T4",
                         "stop_desc": "",
-                        "stop_id": "4196",
-                        "stop_lat": "25.714321",
-                        "stop_lon": "-80.423494",
-                        "stop_name": "SW 56 ST@SW 142 AV",
+                        "stop_id": "10171",
+                        "stop_lat": "25.714935",
+                        "stop_lon": "-80.455339",
+                        "stop_name": "SW 162 AV@SW 53 TER",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 56 ST@SW 142 AV",
-            "onestopId": "s-dhwf3cjkub-sw56~sw142",
+            "name": "SW 162 AV@SW 53 TER",
+            "onestopId": "s-dhwf31q0qe-sw162~sw53ter",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.431118,
+                    25.717666
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-4022",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "C147#512",
+                        "stop_desc": "",
+                        "stop_id": "4022",
+                        "stop_lat": "25.717666",
+                        "stop_lon": "-80.431118",
+                        "stop_name": "SW 147 AV@SW 51 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SW 147 AV@SW 51 ST",
+            "onestopId": "s-dhwf39zb70-sw147~sw51",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -738,41 +738,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.431201,
-                    25.713476
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-9719",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "C147#564",
-                        "stop_desc": "",
-                        "stop_id": "9719",
-                        "stop_lat": "25.713476",
-                        "stop_lon": "-80.431201",
-                        "stop_name": "SW 147 AV@SW 56 ST (S/F)",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "SW 147 AV@SW 56 ST (S/F)",
-            "onestopId": "s-dhwf38zzc5-sw147~sw56s~f",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.440681,
                     25.742856
                 ],
@@ -808,31 +773,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.430891,
-                    25.714071
+                    -80.420738,
+                    25.723852
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-413",
+                    "identifier": "f-miamidade-s-4172",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "56ST147W",
+                        "stop_code": "C47S1406",
                         "stop_desc": "",
-                        "stop_id": "413",
-                        "stop_lat": "25.714071",
-                        "stop_lon": "-80.430891",
-                        "stop_name": "SW 56 ST@SW 147 AV",
+                        "stop_id": "4172",
+                        "stop_lat": "25.723852",
+                        "stop_lon": "-80.420738",
+                        "stop_name": "SW 47 ST@SW 140 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 56 ST@SW 147 AV",
-            "onestopId": "s-dhwf3c0526-sw56~sw147",
+            "name": "SW 47 ST@SW 140 AV",
+            "onestopId": "s-dhwf3fzkkc-sw47~sw140",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -948,6 +913,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.430921,
+                    25.712334
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-9928",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "C14757T1",
+                        "stop_desc": "",
+                        "stop_id": "9928",
+                        "stop_lat": "25.712334",
+                        "stop_lon": "-80.430921",
+                        "stop_name": "SW 147 AV@SW 57 TE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SW 147 AV@SW 57 TE",
+            "onestopId": "s-dhwf38zcpw-sw147~sw57te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.447021,
                     25.713795
                 ],
@@ -983,31 +983,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.436585,
-                    25.742751
+                    -80.423435,
+                    25.714088
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9788",
+                    "identifier": "f-miamidade-s-4201",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C26S1495",
+                        "stop_code": "C56S1425",
                         "stop_desc": "",
-                        "stop_id": "9788",
-                        "stop_lat": "25.742751",
-                        "stop_lon": "-80.436585",
-                        "stop_name": "SW 26 ST@SW 149 AV (E/N)",
+                        "stop_id": "4201",
+                        "stop_lat": "25.714088",
+                        "stop_lon": "-80.423435",
+                        "stop_name": "SW 56 ST@SW 142 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 26 ST@SW 149 AV (E/N)",
-            "onestopId": "s-dhwf3w7f7s-sw26~sw149e~n",
+            "name": "SW 56 ST@SW 142 AV",
+            "onestopId": "s-dhwf3cj7qj-sw56~sw142",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1088,22 +1088,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.427209,
-                    25.713959
+                    -80.427502,
+                    25.714185
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-4200",
+                    "identifier": "f-miamidade-s-4197",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C56S1445",
+                        "stop_code": "C56S1448",
                         "stop_desc": "",
-                        "stop_id": "4200",
-                        "stop_lat": "25.713959",
-                        "stop_lon": "-80.427209",
+                        "stop_id": "4197",
+                        "stop_lat": "25.714185",
+                        "stop_lon": "-80.427502",
                         "stop_name": "SW 56 ST@SW 144 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
@@ -1112,42 +1112,7 @@
                 }
             ],
             "name": "SW 56 ST@SW 144 AV",
-            "onestopId": "s-dhwf3c4dwj-sw56~sw144",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.431118,
-                    25.717666
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-4022",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "C147#512",
-                        "stop_desc": "",
-                        "stop_id": "4022",
-                        "stop_lat": "25.717666",
-                        "stop_lon": "-80.431118",
-                        "stop_name": "SW 147 AV@SW 51 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "SW 147 AV@SW 51 ST",
-            "onestopId": "s-dhwf39zb70-sw147~sw51",
+            "onestopId": "s-dhwf3c47zr-sw56~sw144",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1368,31 +1333,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.452689,
-                    25.713114
+                    -80.432214,
+                    25.728679
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-10177",
+                    "identifier": "f-miamidade-s-4160",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C56S1626",
+                        "stop_code": "C42S1478",
                         "stop_desc": "",
-                        "stop_id": "10177",
-                        "stop_lat": "25.713114",
-                        "stop_lon": "-80.452689",
-                        "stop_name": "SW 56 ST@SW 162 AV",
+                        "stop_id": "4160",
+                        "stop_lat": "25.728679",
+                        "stop_lon": "-80.432214",
+                        "stop_name": "SW 42 ST@SW 147 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 56 ST@SW 162 AV",
-            "onestopId": "s-dhwf32bjsr-sw56~sw162",
+            "name": "SW 42 ST@SW 147 AV",
+            "onestopId": "s-dhwf3ez03t-sw42~sw147",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1428,6 +1393,76 @@
             ],
             "name": "SW 147 AV@SW 49 ST",
             "onestopId": "s-dhwf3dpu1r-sw147~sw49",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.42735,
+                    25.728884
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-4159",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "C42S1447",
+                        "stop_desc": "",
+                        "stop_id": "4159",
+                        "stop_lat": "25.728884",
+                        "stop_lon": "-80.42735",
+                        "stop_name": "SW 42 ST@SW 144 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SW 42 ST@SW 144 AV",
+            "onestopId": "s-dhwf3gf9dg-sw42~sw144",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.436585,
+                    25.742751
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-9788",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "C26S1495",
+                        "stop_desc": "",
+                        "stop_id": "9788",
+                        "stop_lat": "25.742751",
+                        "stop_lon": "-80.436585",
+                        "stop_name": "SW 26 ST@SW 149 AV (E/N)",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SW 26 ST@SW 149 AV (E/N)",
+            "onestopId": "s-dhwf3w7f7s-sw26~sw149e~n",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1508,57 +1543,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.420738,
-                    25.723852
+                    -80.427209,
+                    25.713959
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-4172",
+                    "identifier": "f-miamidade-s-4200",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C47S1406",
+                        "stop_code": "C56S1445",
                         "stop_desc": "",
-                        "stop_id": "4172",
-                        "stop_lat": "25.723852",
-                        "stop_lon": "-80.420738",
-                        "stop_name": "SW 47 ST@SW 140 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "SW 47 ST@SW 140 AV",
-            "onestopId": "s-dhwf3fzkkc-sw47~sw140",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.427502,
-                    25.714185
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-4197",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "C56S1448",
-                        "stop_desc": "",
-                        "stop_id": "4197",
-                        "stop_lat": "25.714185",
-                        "stop_lon": "-80.427502",
+                        "stop_id": "4200",
+                        "stop_lat": "25.713959",
+                        "stop_lon": "-80.427209",
                         "stop_name": "SW 56 ST@SW 144 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
@@ -1567,7 +1567,7 @@
                 }
             ],
             "name": "SW 56 ST@SW 144 AV",
-            "onestopId": "s-dhwf3c47zr-sw56~sw144",
+            "onestopId": "s-dhwf3c4dwj-sw56~sw144",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"

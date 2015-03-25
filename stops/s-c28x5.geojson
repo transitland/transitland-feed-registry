@@ -3,30 +3,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.878493,
-                    49.044056
+                    -122.884378,
+                    49.055547
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6369",
+                    "identifier": "f-translink-s-6140",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56309",
-                        "stop_desc": "124 ST @ 23 AVE",
-                        "stop_id": "6369",
-                        "stop_lat": "49.044056",
-                        "stop_lon": "-122.878493",
-                        "stop_name": "SB 124 ST FS 23 AV",
+                        "stop_code": "56082",
+                        "stop_desc": "SULLIVAN ST @ KIDD RD",
+                        "stop_id": "6140",
+                        "stop_lat": "49.055547",
+                        "stop_lon": "-122.884378",
+                        "stop_name": "WB SULLIVAN ST FS KIDD RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 124 ST FS 23 AV",
-            "onestopId": "s-c28x5b4w7d-sb124fs23",
+            "name": "WB SULLIVAN ST FS KIDD RD",
+            "onestopId": "s-c28x5dq362-wbsullivanfskidd",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.885203,
+                    49.054948
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6141",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56083",
+                        "stop_desc": "MCBRIDE AVE @ ALEXANDRA ST",
+                        "stop_id": "6141",
+                        "stop_lat": "49.054948",
+                        "stop_lon": "-122.885203",
+                        "stop_name": "SB MCBRIDE AV FS ALEXANDRA ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB MCBRIDE AV FS ALEXANDRA ST",
+            "onestopId": "s-c28x5djtz1-sbmcbridefsalexandra",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -139,30 +173,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.885203,
-                    49.054948
+                    -122.878493,
+                    49.044056
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6141",
+                    "identifier": "f-translink-s-6369",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56083",
-                        "stop_desc": "MCBRIDE AVE @ ALEXANDRA ST",
-                        "stop_id": "6141",
-                        "stop_lat": "49.054948",
-                        "stop_lon": "-122.885203",
-                        "stop_name": "SB MCBRIDE AV FS ALEXANDRA ST",
+                        "stop_code": "56309",
+                        "stop_desc": "124 ST @ 23 AVE",
+                        "stop_id": "6369",
+                        "stop_lat": "49.044056",
+                        "stop_lon": "-122.878493",
+                        "stop_name": "SB 124 ST FS 23 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB MCBRIDE AV FS ALEXANDRA ST",
-            "onestopId": "s-c28x5djtz1-sbmcbridefsalexandra",
+            "name": "SB 124 ST FS 23 AV",
+            "onestopId": "s-c28x5b4w7d-sb124fs23",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -309,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.872644,
-                    49.048065
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-8804",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58466",
-                        "stop_desc": "25 AVE @ 126 ST",
-                        "stop_id": "8804",
-                        "stop_lat": "49.048065",
-                        "stop_lon": "-122.872644",
-                        "stop_name": "EB 25 AV FS 126 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB 25 AV FS 126 ST",
-            "onestopId": "s-c28x5byvey-eb25fs126",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.876784,
                     49.053873
                 ],
@@ -411,30 +411,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.884378,
-                    49.055547
+                    -122.872644,
+                    49.048065
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6140",
+                    "identifier": "f-translink-s-8804",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56082",
-                        "stop_desc": "SULLIVAN ST @ KIDD RD",
-                        "stop_id": "6140",
-                        "stop_lat": "49.055547",
-                        "stop_lon": "-122.884378",
-                        "stop_name": "WB SULLIVAN ST FS KIDD RD",
+                        "stop_code": "58466",
+                        "stop_desc": "25 AVE @ 126 ST",
+                        "stop_id": "8804",
+                        "stop_lat": "49.048065",
+                        "stop_lon": "-122.872644",
+                        "stop_name": "EB 25 AV FS 126 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB SULLIVAN ST FS KIDD RD",
-            "onestopId": "s-c28x5dq362-wbsullivanfskidd",
+            "name": "EB 25 AV FS 126 ST",
+            "onestopId": "s-c28x5byvey-eb25fs126",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

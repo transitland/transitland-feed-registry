@@ -343,6 +343,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.51028,
+                    37.519891
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-314014",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "314014",
+                        "stop_desc": "",
+                        "stop_id": "314014",
+                        "stop_lat": "  37.519891",
+                        "stop_lon": "-122.510280",
+                        "stop_name": "Airport St & Los Banos Ave",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Airport St & Los Banos Ave",
+            "onestopId": "s-9q8vknq9pw-airport~losbanos",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.51289,
                     37.52847
                 ],
@@ -479,30 +513,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.51028,
-                    37.519891
+                    -122.51265,
+                    37.52846
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-314014",
+                    "identifier": "f-samtrans-s-313003",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "314014",
+                        "stop_code": "313003",
                         "stop_desc": "",
-                        "stop_id": "314014",
-                        "stop_lat": "  37.519891",
-                        "stop_lon": "-122.510280",
-                        "stop_name": "Airport St & Los Banos Ave",
+                        "stop_id": "313003",
+                        "stop_lat": "  37.528460",
+                        "stop_lon": "-122.512650",
+                        "stop_name": "Etheldore St & California Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Airport St & Los Banos Ave",
-            "onestopId": "s-9q8vknq9pw-airport~losbanos",
+            "name": "Etheldore St & California Ave",
+            "onestopId": "s-9q8vkpv507-etheldore~california",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -809,40 +843,6 @@
             ],
             "name": "Seton Coastside Med Ctr",
             "onestopId": "s-9q8vkr2xv4-setoncoastsidemed",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.51265,
-                    37.52846
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-313003",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "313003",
-                        "stop_desc": "",
-                        "stop_id": "313003",
-                        "stop_lat": "  37.528460",
-                        "stop_lon": "-122.512650",
-                        "stop_name": "Etheldore St & California Ave",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Etheldore St & California Ave",
-            "onestopId": "s-9q8vkpv507-etheldore~california",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

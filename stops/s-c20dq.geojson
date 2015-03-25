@@ -75,42 +75,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.748953,
-                    45.411471
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7885",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7885",
-                        "stop_desc": "Northbound stop in Tigard (Stop ID 7885)",
-                        "stop_id": "7885",
-                        "stop_lat": "45.411471",
-                        "stop_lon": "-122.748953",
-                        "stop_name": "SW 72nd & Cardinal",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7885",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW 72nd & Cardinal",
-            "onestopId": "s-c20dqfbuyp-sw72nd~cardinal",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.746577,
                     45.435812
                 ],
@@ -435,42 +399,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.780748,
-                    45.425084
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11030",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11030",
-                        "stop_desc": "Eastbound stop in Tigard (Stop ID 11030)",
-                        "stop_id": "11030",
-                        "stop_lat": "45.425084",
-                        "stop_lon": "-122.780748",
-                        "stop_name": "SW Pacific Hwy & Garrett",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11030",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Pacific Hwy & Garrett",
-            "onestopId": "s-c20dqj3u31-swpacific~garrett",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.759138,
                     45.435965
                 ],
@@ -687,6 +615,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.752608,
+                    45.43904
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9648",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "9648",
+                        "stop_desc": "Eastbound stop in Tigard (Stop ID 9648)",
+                        "stop_id": "9648",
+                        "stop_lat": "45.43904",
+                        "stop_lon": "-122.752608",
+                        "stop_name": "SW Pacific Hwy & 74th (Park & Ride)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9648",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Pacific Hwy & 74th (Park & Ride)",
+            "onestopId": "s-c20dqxym8f-swpacific~74thpark~ride",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.751147,
                     45.400505
                 ],
@@ -713,6 +677,42 @@
             ],
             "name": "7200 Block SW Durham",
             "onestopId": "s-c20dq8zm4g-7200blockswdurham",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.782159,
+                    45.423817
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4304",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "4304",
+                        "stop_desc": "Eastbound stop in Tigard (Stop ID 4304)",
+                        "stop_id": "4304",
+                        "stop_lat": "45.423817",
+                        "stop_lon": "-122.782159",
+                        "stop_name": "SW Pacific Hwy & Park",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4304",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Pacific Hwy & Park",
+            "onestopId": "s-c20dqj0ubm-swpacific~park",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1767,32 +1767,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.752608,
-                    45.43904
+                    -122.748953,
+                    45.411471
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9648",
+                    "identifier": "f-trimet-s-7885",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9648",
-                        "stop_desc": "Eastbound stop in Tigard (Stop ID 9648)",
-                        "stop_id": "9648",
-                        "stop_lat": "45.43904",
-                        "stop_lon": "-122.752608",
-                        "stop_name": "SW Pacific Hwy & 74th (Park & Ride)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9648",
+                        "position": "Nearside",
+                        "stop_code": "7885",
+                        "stop_desc": "Northbound stop in Tigard (Stop ID 7885)",
+                        "stop_id": "7885",
+                        "stop_lat": "45.411471",
+                        "stop_lon": "-122.748953",
+                        "stop_name": "SW 72nd & Cardinal",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7885",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Pacific Hwy & 74th (Park & Ride)",
-            "onestopId": "s-c20dqxym8f-swpacific~74thpark~ride",
+            "name": "SW 72nd & Cardinal",
+            "onestopId": "s-c20dqfbuyp-sw72nd~cardinal",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1901,6 +1901,42 @@
             ],
             "name": "SW Main & Scoffins",
             "onestopId": "s-c20dqqdzug-swmain~scoffins",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.778292,
+                    45.427094
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4318",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "4318",
+                        "stop_desc": "Westbound stop in Tigard (Stop ID 4318)",
+                        "stop_id": "4318",
+                        "stop_lat": "45.427094",
+                        "stop_lon": "-122.778292",
+                        "stop_name": "SW Pacific Hwy & Walnut",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4318",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Pacific Hwy & Walnut",
+            "onestopId": "s-c20dqjg842-swpacific~walnut",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2343,32 +2379,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.782159,
-                    45.423817
+                    -122.767009,
+                    45.432742
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4304",
+                    "identifier": "f-trimet-s-3669",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "4304",
-                        "stop_desc": "Eastbound stop in Tigard (Stop ID 4304)",
-                        "stop_id": "4304",
-                        "stop_lat": "45.423817",
-                        "stop_lon": "-122.782159",
-                        "stop_name": "SW Pacific Hwy & Park",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4304",
+                        "stop_code": "3669",
+                        "stop_desc": "Northbound stop in Tigard (Stop ID 3669)",
+                        "stop_id": "3669",
+                        "stop_lat": "45.432742",
+                        "stop_lon": "-122.767009",
+                        "stop_name": "SW Main & Pacific Hwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3669",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Pacific Hwy & Park",
-            "onestopId": "s-c20dqj0ubm-swpacific~park",
+            "name": "SW Main & Pacific Hwy",
+            "onestopId": "s-c20dqqgbck-swmain~pacific",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2487,32 +2523,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.769278,
-                    45.430458
+                    -122.765834,
+                    45.421824
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8212",
+                    "identifier": "f-trimet-s-12468",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8212",
-                        "stop_desc": "Southbound stop in Tigard (Stop ID 8212)",
-                        "stop_id": "8212",
-                        "stop_lat": "45.430458",
-                        "stop_lon": "-122.769278",
-                        "stop_name": "Tigard Transit Center",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8212",
+                        "position": "Nearside",
+                        "stop_code": "12468",
+                        "stop_desc": "Southbound stop in Tigard (Stop ID 12468)",
+                        "stop_id": "12468",
+                        "stop_lat": "45.421824",
+                        "stop_lon": "-122.765834",
+                        "stop_name": "SW Hall & Wall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12468",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Tigard Transit Center",
-            "onestopId": "s-c20dqq65s7-tigardtransit",
+            "name": "SW Hall & Wall",
+            "onestopId": "s-c20dqku9k9-swhall~wall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2667,32 +2703,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.765834,
-                    45.421824
+                    -122.769278,
+                    45.430458
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-12468",
+                    "identifier": "f-trimet-s-8212",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "12468",
-                        "stop_desc": "Southbound stop in Tigard (Stop ID 12468)",
-                        "stop_id": "12468",
-                        "stop_lat": "45.421824",
-                        "stop_lon": "-122.765834",
-                        "stop_name": "SW Hall & Wall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12468",
+                        "position": "At",
+                        "stop_code": "8212",
+                        "stop_desc": "Southbound stop in Tigard (Stop ID 8212)",
+                        "stop_id": "8212",
+                        "stop_lat": "45.430458",
+                        "stop_lon": "-122.769278",
+                        "stop_name": "Tigard Transit Center",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8212",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Hall & Wall",
-            "onestopId": "s-c20dqku9k9-swhall~wall",
+            "name": "Tigard Transit Center",
+            "onestopId": "s-c20dqq65s7-tigardtransit",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3063,42 +3099,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.767009,
-                    45.432742
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3669",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3669",
-                        "stop_desc": "Northbound stop in Tigard (Stop ID 3669)",
-                        "stop_id": "3669",
-                        "stop_lat": "45.432742",
-                        "stop_lon": "-122.767009",
-                        "stop_name": "SW Main & Pacific Hwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3669",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Main & Pacific Hwy",
-            "onestopId": "s-c20dqqgbck-swmain~pacific",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.764327,
                     45.410597
                 ],
@@ -3135,32 +3135,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.778292,
-                    45.427094
+                    -122.780748,
+                    45.425084
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4318",
+                    "identifier": "f-trimet-s-11030",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4318",
-                        "stop_desc": "Westbound stop in Tigard (Stop ID 4318)",
-                        "stop_id": "4318",
-                        "stop_lat": "45.427094",
-                        "stop_lon": "-122.778292",
-                        "stop_name": "SW Pacific Hwy & Walnut",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4318",
+                        "position": "Farside",
+                        "stop_code": "11030",
+                        "stop_desc": "Eastbound stop in Tigard (Stop ID 11030)",
+                        "stop_id": "11030",
+                        "stop_lat": "45.425084",
+                        "stop_lon": "-122.780748",
+                        "stop_name": "SW Pacific Hwy & Garrett",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11030",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Pacific Hwy & Walnut",
-            "onestopId": "s-c20dqjg842-swpacific~walnut",
+            "name": "SW Pacific Hwy & Garrett",
+            "onestopId": "s-c20dqj3u31-swpacific~garrett",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3207,32 +3207,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.750352,
-                    45.427546
+                    -122.762628,
+                    45.404208
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2496",
+                    "identifier": "f-trimet-s-9072",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "2496",
-                        "stop_desc": "Eastbound stop in Tigard (Stop ID 2496)",
-                        "stop_id": "2496",
-                        "stop_lat": "45.427546",
-                        "stop_lon": "-122.750352",
-                        "stop_name": "SW Hampton & 72nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2496",
+                        "position": "Opposite",
+                        "stop_code": "9072",
+                        "stop_desc": "Eastbound stop in Tigard (Stop ID 9072)",
+                        "stop_id": "9072",
+                        "stop_lat": "45.404208",
+                        "stop_lon": "-122.762628",
+                        "stop_name": "8300 Block SW Durham",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9072",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Hampton & 72nd",
-            "onestopId": "s-c20dqtzftk-swhampton~72nd",
+            "name": "8300 Block SW Durham",
+            "onestopId": "s-c20dq3wfxm-8300blockswdurham",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3315,32 +3315,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.766605,
-                    45.428566
+                    -122.749203,
+                    45.401326
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1123",
+                    "identifier": "f-trimet-s-7866",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1123",
-                        "stop_desc": "Southbound stop in Tigard (Stop ID 1123)",
-                        "stop_id": "1123",
-                        "stop_lat": "45.428566",
-                        "stop_lon": "-122.766605",
-                        "stop_name": "SW Commercial & Hall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1123",
+                        "position": "At",
+                        "stop_code": "7866",
+                        "stop_desc": "Southbound stop in Tigard (Stop ID 7866)",
+                        "stop_id": "7866",
+                        "stop_lat": "45.401326",
+                        "stop_lon": "-122.749203",
+                        "stop_name": "16500 Block SW 72nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7866",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Commercial & Hall",
-            "onestopId": "s-c20dqqh0df-swcommercial~hall",
+            "name": "16500 Block SW 72nd",
+            "onestopId": "s-c20dqc0cbk-16500blocksw72nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3567,32 +3567,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.762628,
-                    45.404208
+                    -122.750352,
+                    45.427546
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9072",
+                    "identifier": "f-trimet-s-2496",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "9072",
-                        "stop_desc": "Eastbound stop in Tigard (Stop ID 9072)",
-                        "stop_id": "9072",
-                        "stop_lat": "45.404208",
-                        "stop_lon": "-122.762628",
-                        "stop_name": "8300 Block SW Durham",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9072",
+                        "position": "Farside",
+                        "stop_code": "2496",
+                        "stop_desc": "Eastbound stop in Tigard (Stop ID 2496)",
+                        "stop_id": "2496",
+                        "stop_lat": "45.427546",
+                        "stop_lon": "-122.750352",
+                        "stop_name": "SW Hampton & 72nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2496",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "8300 Block SW Durham",
-            "onestopId": "s-c20dq3wfxm-8300blockswdurham",
+            "name": "SW Hampton & 72nd",
+            "onestopId": "s-c20dqtzftk-swhampton~72nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4251,32 +4251,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.749203,
-                    45.401326
+                    -122.766605,
+                    45.428566
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7866",
+                    "identifier": "f-trimet-s-1123",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "7866",
-                        "stop_desc": "Southbound stop in Tigard (Stop ID 7866)",
-                        "stop_id": "7866",
-                        "stop_lat": "45.401326",
-                        "stop_lon": "-122.749203",
-                        "stop_name": "16500 Block SW 72nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7866",
+                        "position": "Nearside",
+                        "stop_code": "1123",
+                        "stop_desc": "Southbound stop in Tigard (Stop ID 1123)",
+                        "stop_id": "1123",
+                        "stop_lat": "45.428566",
+                        "stop_lon": "-122.766605",
+                        "stop_name": "SW Commercial & Hall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1123",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "16500 Block SW 72nd",
-            "onestopId": "s-c20dqc0cbk-16500blocksw72nd",
+            "name": "SW Commercial & Hall",
+            "onestopId": "s-c20dqqh0df-swcommercial~hall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

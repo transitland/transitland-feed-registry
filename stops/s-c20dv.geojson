@@ -3,32 +3,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.792885,
-                    45.522616
+                    -122.788432,
+                    45.513753
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10152",
+                    "identifier": "f-trimet-s-13259",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "10152",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 10152)",
-                        "stop_id": "10152",
-                        "stop_lat": "45.522616",
-                        "stop_lon": "-122.792885",
-                        "stop_name": "NW Cedar Hills & Leahy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10152",
+                        "stop_code": "13259",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 13259)",
+                        "stop_id": "13259",
+                        "stop_lat": "45.513753",
+                        "stop_lon": "-122.788432",
+                        "stop_name": "SW Barnes & Valeria View",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13259",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cedar Hills & Leahy",
-            "onestopId": "s-c20dvz0uqq-nwcedarhills~leahy",
+            "name": "SW Barnes & Valeria View",
+            "onestopId": "s-c20dvvs0y4-swbarnes~valeriaview",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -173,42 +173,6 @@
             ],
             "name": "NW Cornell & 118th",
             "onestopId": "s-c20dvxvtkm-nwcornell~118th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.803382,
-                    45.486766
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11810",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11810",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 11810)",
-                        "stop_id": "11810",
-                        "stop_lat": "45.486766",
-                        "stop_lon": "-122.803382",
-                        "stop_name": "SW Farmington & Hall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11810",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Farmington & Hall",
-            "onestopId": "s-c20dv8979g-swfarmington~hall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -425,6 +389,42 @@
             ],
             "name": "NW 107th & Walters",
             "onestopId": "s-c20dvzmjp4-nw107th~walters",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.796751,
+                    45.486616
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-341",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "341",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 341)",
+                        "stop_id": "341",
+                        "stop_lat": "45.486616",
+                        "stop_lon": "-122.796751",
+                        "stop_name": "SW Beaverton-Hillsdale & Griffith",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=341",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Beaverton-Hillsdale & Griffith",
+            "onestopId": "s-c20dv8w4sr-swbeavertonhillsdale~griffith",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -795,6 +795,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.792885,
+                    45.522616
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10152",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "10152",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 10152)",
+                        "stop_id": "10152",
+                        "stop_lat": "45.522616",
+                        "stop_lon": "-122.792885",
+                        "stop_name": "NW Cedar Hills & Leahy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10152",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Cedar Hills & Leahy",
+            "onestopId": "s-c20dvz0uqq-nwcedarhills~leahy",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.784758,
+                    45.515594
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13261",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13261",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 13261)",
+                        "stop_id": "13261",
+                        "stop_lat": "45.515594",
+                        "stop_lon": "-122.784758",
+                        "stop_name": "SW Taylor & Windwood Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13261",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Taylor & Windwood Way",
+            "onestopId": "s-c20dvvygec-swtaylor~windwood",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.825963,
                     45.491747
                 ],
@@ -831,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.797066,
-                    45.526771
+                    -122.796007,
+                    45.507522
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13465",
+                    "identifier": "f-trimet-s-1019",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13465",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 13465)",
-                        "stop_id": "13465",
-                        "stop_lat": "45.526771",
-                        "stop_lon": "-122.797066",
-                        "stop_name": "NW Cornell & 118th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13465",
+                        "position": "Nearside",
+                        "stop_code": "1019",
+                        "stop_desc": "Northbound stop in Beaverton (Stop ID 1019)",
+                        "stop_id": "1019",
+                        "stop_lat": "45.507522",
+                        "stop_lon": "-122.796007",
+                        "stop_name": "SW Cedar Hills & Park Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1019",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & 118th",
-            "onestopId": "s-c20dvxvusv-nwcornell~118th",
+            "name": "SW Cedar Hills & Park Way",
+            "onestopId": "s-c20dvsqst8-swcedarhills~park",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1263,32 +1335,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.789073,
-                    45.483666
+                    -122.813566,
+                    45.5004
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9699",
+                    "identifier": "f-trimet-s-3067",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9699",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 9699)",
-                        "stop_id": "9699",
-                        "stop_lat": "45.483666",
-                        "stop_lon": "-122.789073",
-                        "stop_name": "10900 Block SW 5th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9699",
+                        "position": "Nearside",
+                        "stop_code": "3067",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 3067)",
+                        "stop_id": "3067",
+                        "stop_lat": "45.5004",
+                        "stop_lon": "-122.813566",
+                        "stop_name": "SW Jenkins & Hocken",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3067",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "10900 Block SW 5th",
-            "onestopId": "s-c20dvb59x1-10900blocksw5th",
+            "name": "SW Jenkins & Hocken",
+            "onestopId": "s-c20dv71gh3-swjenkins~hocken",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1443,6 +1515,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.822527,
+                    45.489076
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5617",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "5617",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 5617)",
+                        "stop_id": "5617",
+                        "stop_lat": "45.489076",
+                        "stop_lon": "-122.822527",
+                        "stop_name": "SW Tualatin Valley Hwy & 142nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5617",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Tualatin Valley Hwy & 142nd",
+            "onestopId": "s-c20dv1535d-swtualatinvalley~142nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.816489,
                     45.508891
                 ],
@@ -1551,32 +1659,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.815009,
-                    45.527049
+                    -122.786133,
+                    45.515954
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1174",
+                    "identifier": "f-trimet-s-13258",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1174",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 1174)",
-                        "stop_id": "1174",
-                        "stop_lat": "45.527049",
-                        "stop_lon": "-122.815009",
-                        "stop_name": "NW Cornell & Murray",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1174",
+                        "position": "Nearside",
+                        "stop_code": "13258",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 13258)",
+                        "stop_id": "13258",
+                        "stop_lat": "45.515954",
+                        "stop_lon": "-122.786133",
+                        "stop_name": "SW Taylor & Valeria View",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13258",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & Murray",
-            "onestopId": "s-c20dvrby6c-nwcornell~murray",
+            "name": "SW Taylor & Valeria View",
+            "onestopId": "s-c20dvvvves-swtaylor~valeriaview",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1695,32 +1803,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.793466,
-                    45.526346
+                    -122.82599,
+                    45.489178
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1196",
+                    "identifier": "f-trimet-s-4087",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1196",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1196)",
-                        "stop_id": "1196",
-                        "stop_lat": "45.526346",
-                        "stop_lon": "-122.793466",
-                        "stop_name": "NW Cornell & Cedar Hills Blvd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1196",
+                        "stop_code": "4087",
+                        "stop_desc": "Northbound stop in Beaverton (Stop ID 4087)",
+                        "stop_id": "4087",
+                        "stop_lat": "45.489178",
+                        "stop_lon": "-122.82599",
+                        "stop_name": "SW Murray & Tualatin Valley Hwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4087",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & Cedar Hills Blvd",
-            "onestopId": "s-c20dvzbd0y-nwcornell~cedarhills",
+            "name": "SW Murray & Tualatin Valley Hwy",
+            "onestopId": "s-c20dv10cdv-swmurray~tualatinvalley",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1767,32 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.786133,
-                    45.515954
+                    -122.815009,
+                    45.527049
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13258",
+                    "identifier": "f-trimet-s-1174",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13258",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 13258)",
-                        "stop_id": "13258",
-                        "stop_lat": "45.515954",
-                        "stop_lon": "-122.786133",
-                        "stop_name": "SW Taylor & Valeria View",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13258",
+                        "position": "Farside",
+                        "stop_code": "1174",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 1174)",
+                        "stop_id": "1174",
+                        "stop_lat": "45.527049",
+                        "stop_lon": "-122.815009",
+                        "stop_name": "NW Cornell & Murray",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1174",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Taylor & Valeria View",
-            "onestopId": "s-c20dvvvves-swtaylor~valeriaview",
+            "name": "NW Cornell & Murray",
+            "onestopId": "s-c20dvrby6c-nwcornell~murray",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1839,32 +1947,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.801723,
-                    45.49133
+                    -122.826331,
+                    45.489038
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9818",
+                    "identifier": "f-trimet-s-4088",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
-                        "parent_station": "landmark-96",
-                        "position": "At",
-                        "stop_code": "9818",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 9818)",
-                        "stop_id": "9818",
-                        "stop_lat": "45.49133",
-                        "stop_lon": "-122.801723",
-                        "stop_name": "Beaverton TC MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9818",
-                        "zone_id": "R"
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "4088",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 4088)",
+                        "stop_id": "4088",
+                        "stop_lat": "45.489038",
+                        "stop_lon": "-122.826331",
+                        "stop_name": "SW Murray & Tualatin Valley Hwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4088",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "Beaverton TC MAX Station",
-            "onestopId": "s-c20dv96w0q-beavertontcmaxstation",
+            "name": "SW Murray & Tualatin Valley Hwy",
+            "onestopId": "s-c20dv108g5-swmurray~tualatinvalley",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1983,78 +2091,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.796382,
-                    45.507376
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1020",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1020",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 1020)",
-                        "stop_id": "1020",
-                        "stop_lat": "45.507376",
-                        "stop_lon": "-122.796382",
-                        "stop_name": "SW Cedar Hills & Park Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1020",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Cedar Hills & Park Way",
-            "onestopId": "s-c20dvsq7sv-swcedarhills~park",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.812785,
-                    45.525675
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1163",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1163",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 1163)",
-                        "stop_id": "1163",
-                        "stop_lat": "45.525675",
-                        "stop_lon": "-122.812785",
-                        "stop_name": "NW Cornell & Dale",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1163",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Cornell & Dale",
-            "onestopId": "s-c20dvrdqq8-nwcornell~dale",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.806299,
                     45.501005
                 ],
@@ -2117,6 +2153,42 @@
             ],
             "name": "SW Hocken & Cedar Hills Xing Entrance",
             "onestopId": "s-c20dv6694d-swhocken~cedarhillsxingentrance",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.821434,
+                    45.495066
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9958",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "9958",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 9958)",
+                        "stop_id": "9958",
+                        "stop_lat": "45.495066",
+                        "stop_lon": "-122.821434",
+                        "stop_name": "Millikan Way MAX Station/Park and Ride",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9958",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Millikan Way MAX Station/Park and Ride",
+            "onestopId": "s-c20dv4h5vn-millikanmaxstation~parkandride",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2235,32 +2307,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.80631,
-                    45.486075
+                    -122.798637,
+                    45.508209
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6178",
+                    "identifier": "f-trimet-s-4382",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6178",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 6178)",
-                        "stop_id": "6178",
-                        "stop_lat": "45.486075",
-                        "stop_lon": "-122.80631",
-                        "stop_name": "SW Watson & 1st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6178",
+                        "position": "Nearside",
+                        "stop_code": "4382",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 4382)",
+                        "stop_id": "4382",
+                        "stop_lat": "45.508209",
+                        "stop_lon": "-122.798637",
+                        "stop_name": "SW Park Way & Tremont",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4382",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Watson & 1st",
-            "onestopId": "s-c20dv2rptd-swwatson~1st",
+            "name": "SW Park Way & Tremont",
+            "onestopId": "s-c20dvssb83-swpark~tremont",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2297,42 +2369,6 @@
             ],
             "name": "SW Murray & Farmington",
             "onestopId": "s-c20dv02x7v-swmurray~farmington",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.799525,
-                    45.527057
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1201",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1201",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 1201)",
-                        "stop_id": "1201",
-                        "stop_lat": "45.527057",
-                        "stop_lon": "-122.799525",
-                        "stop_name": "NW Cornell & 119th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1201",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Cornell & 119th",
-            "onestopId": "s-c20dvxun7d-nwcornell~119th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,32 +2595,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.82599,
-                    45.489178
+                    -122.826431,
+                    45.489479
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4087",
+                    "identifier": "f-trimet-s-5600",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "4087",
-                        "stop_desc": "Northbound stop in Beaverton (Stop ID 4087)",
-                        "stop_id": "4087",
-                        "stop_lat": "45.489178",
-                        "stop_lon": "-122.82599",
-                        "stop_name": "SW Murray & Tualatin Valley Hwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4087",
+                        "stop_code": "5600",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 5600)",
+                        "stop_id": "5600",
+                        "stop_lat": "45.489479",
+                        "stop_lon": "-122.826431",
+                        "stop_name": "SW Tualatin Valley Hwy & Murray",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5600",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Murray & Tualatin Valley Hwy",
-            "onestopId": "s-c20dv10cdv-swmurray~tualatinvalley",
+            "name": "SW Tualatin Valley Hwy & Murray",
+            "onestopId": "s-c20dv10e2t-swtualatinvalley~murray",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2631,32 +2667,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.813566,
-                    45.5004
+                    -122.789073,
+                    45.483666
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3067",
+                    "identifier": "f-trimet-s-9699",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3067",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 3067)",
-                        "stop_id": "3067",
-                        "stop_lat": "45.5004",
-                        "stop_lon": "-122.813566",
-                        "stop_name": "SW Jenkins & Hocken",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3067",
+                        "position": "At",
+                        "stop_code": "9699",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 9699)",
+                        "stop_id": "9699",
+                        "stop_lat": "45.483666",
+                        "stop_lon": "-122.789073",
+                        "stop_name": "10900 Block SW 5th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9699",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Jenkins & Hocken",
-            "onestopId": "s-c20dv71gh3-swjenkins~hocken",
+            "name": "10900 Block SW 5th",
+            "onestopId": "s-c20dvb59x1-10900blocksw5th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3063,42 +3099,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.809248,
-                    45.495467
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-995",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "995",
-                        "stop_desc": "Northbound stop in Beaverton (Stop ID 995)",
-                        "stop_id": "995",
-                        "stop_lat": "45.495467",
-                        "stop_lon": "-122.809248",
-                        "stop_name": "3300 Block SW Cedar Hills",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=995",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "3300 Block SW Cedar Hills",
-            "onestopId": "s-c20dv6jn31-3300blockswcedarhills",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.803818,
                     45.487404
                 ],
@@ -3207,104 +3207,104 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.821434,
-                    45.495066
+                    -122.801435,
+                    45.491247
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9958",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9958",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 9958)",
-                        "stop_id": "9958",
-                        "stop_lat": "45.495066",
-                        "stop_lon": "-122.821434",
-                        "stop_name": "Millikan Way MAX Station/Park and Ride",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9958",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Millikan Way MAX Station/Park and Ride",
-            "onestopId": "s-c20dv4h5vn-millikanmaxstation~parkandride",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.825504,
-                    45.503461
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3065",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3065",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 3065)",
-                        "stop_id": "3065",
-                        "stop_lat": "45.503461",
-                        "stop_lon": "-122.825504",
-                        "stop_name": "SW Jenkins & Murray",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3065",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Jenkins & Murray",
-            "onestopId": "s-c20dv59hy7-swjenkins~murray",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.826331,
-                    45.489038
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4088",
+                    "identifier": "f-trimet-s-9983",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "4088",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 4088)",
-                        "stop_id": "4088",
-                        "stop_lat": "45.489038",
-                        "stop_lon": "-122.826331",
-                        "stop_name": "SW Murray & Tualatin Valley Hwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4088",
+                        "position": "At",
+                        "stop_code": "9983",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 9983)",
+                        "stop_id": "9983",
+                        "stop_lat": "45.491247",
+                        "stop_lon": "-122.801435",
+                        "stop_name": "Beaverton Transit Center ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9983",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Murray & Tualatin Valley Hwy",
-            "onestopId": "s-c20dv108g5-swmurray~tualatinvalley",
+            "name": "Beaverton Transit Center ",
+            "onestopId": "s-c20dv96txp-beavertontransit",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.799525,
+                    45.527057
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1201",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1201",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 1201)",
+                        "stop_id": "1201",
+                        "stop_lat": "45.527057",
+                        "stop_lon": "-122.799525",
+                        "stop_name": "NW Cornell & 119th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1201",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Cornell & 119th",
+            "onestopId": "s-c20dvxun7d-nwcornell~119th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.801723,
+                    45.49133
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9818",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "landmark-96",
+                        "position": "At",
+                        "stop_code": "9818",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 9818)",
+                        "stop_id": "9818",
+                        "stop_lat": "45.49133",
+                        "stop_lon": "-122.801723",
+                        "stop_name": "Beaverton TC MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9818",
+                        "zone_id": "R"
+                    }
+                }
+            ],
+            "name": "Beaverton TC MAX Station",
+            "onestopId": "s-c20dv96w0q-beavertontcmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3351,32 +3351,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.816445,
-                    45.487045
+                    -122.803382,
+                    45.486766
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1656",
+                    "identifier": "f-trimet-s-11810",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1656",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1656)",
-                        "stop_id": "1656",
-                        "stop_lat": "45.487045",
-                        "stop_lon": "-122.816445",
-                        "stop_name": "SW Farmington & Menlo",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1656",
+                        "stop_code": "11810",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 11810)",
+                        "stop_id": "11810",
+                        "stop_lat": "45.486766",
+                        "stop_lon": "-122.803382",
+                        "stop_name": "SW Farmington & Hall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11810",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Farmington & Menlo",
-            "onestopId": "s-c20dv0xv1r-swfarmington~menlo",
+            "name": "SW Farmington & Hall",
+            "onestopId": "s-c20dv8979g-swfarmington~hall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3387,32 +3387,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.795325,
-                    45.490041
+                    -122.809248,
+                    45.495467
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-910",
+                    "identifier": "f-trimet-s-995",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "910",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 910)",
-                        "stop_id": "910",
-                        "stop_lat": "45.490041",
-                        "stop_lon": "-122.795325",
-                        "stop_name": "SW Canyon & 115th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=910",
+                        "position": "At",
+                        "stop_code": "995",
+                        "stop_desc": "Northbound stop in Beaverton (Stop ID 995)",
+                        "stop_id": "995",
+                        "stop_lat": "45.495467",
+                        "stop_lon": "-122.809248",
+                        "stop_name": "3300 Block SW Cedar Hills",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=995",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Canyon & 115th",
-            "onestopId": "s-c20dv9pntw-swcanyon~115th",
+            "name": "3300 Block SW Cedar Hills",
+            "onestopId": "s-c20dv6jn31-3300blockswcedarhills",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3459,32 +3459,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.796751,
-                    45.486616
+                    -122.796382,
+                    45.507376
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-341",
+                    "identifier": "f-trimet-s-1020",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "341",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 341)",
-                        "stop_id": "341",
-                        "stop_lat": "45.486616",
-                        "stop_lon": "-122.796751",
-                        "stop_name": "SW Beaverton-Hillsdale & Griffith",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=341",
+                        "stop_code": "1020",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 1020)",
+                        "stop_id": "1020",
+                        "stop_lat": "45.507376",
+                        "stop_lon": "-122.796382",
+                        "stop_name": "SW Cedar Hills & Park Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1020",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Beaverton-Hillsdale & Griffith",
-            "onestopId": "s-c20dv8w4sr-swbeavertonhillsdale~griffith",
+            "name": "SW Cedar Hills & Park Way",
+            "onestopId": "s-c20dvsq7sv-swcedarhills~park",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3531,32 +3531,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.787295,
-                    45.525819
+                    -122.783807,
+                    45.486414
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6536",
+                    "identifier": "f-trimet-s-354",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6536",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 6536)",
-                        "stop_id": "6536",
-                        "stop_lat": "45.525819",
-                        "stop_lon": "-122.787295",
-                        "stop_name": "NW Cornell & 107th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6536",
+                        "stop_code": "354",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 354)",
+                        "stop_id": "354",
+                        "stop_lat": "45.486414",
+                        "stop_lon": "-122.783807",
+                        "stop_name": "SW Beaverton-Hillsdale & Western",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=354",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & 107th",
-            "onestopId": "s-c20dvztp0e-nwcornell~107th",
+            "name": "SW Beaverton-Hillsdale & Western",
+            "onestopId": "s-c20dvbx99f-swbeavertonhillsdale~western",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3639,104 +3639,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.814791,
-                    45.491786
+                    -122.791573,
+                    45.518832
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9462",
+                    "identifier": "f-trimet-s-10749",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9462",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 9462)",
-                        "stop_id": "9462",
-                        "stop_lat": "45.491786",
-                        "stop_lon": "-122.814791",
-                        "stop_name": "SW Hocken & Millikan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9462",
+                        "stop_code": "10749",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 10749)",
+                        "stop_id": "10749",
+                        "stop_lat": "45.518832",
+                        "stop_lon": "-122.791573",
+                        "stop_name": "SW Cedar Hills & Celeste",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10749",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Hocken & Millikan",
-            "onestopId": "s-c20dv38bzg-swhocken~millikan",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.788432,
-                    45.513753
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13259",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13259",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 13259)",
-                        "stop_id": "13259",
-                        "stop_lat": "45.513753",
-                        "stop_lon": "-122.788432",
-                        "stop_name": "SW Barnes & Valeria View",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13259",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Barnes & Valeria View",
-            "onestopId": "s-c20dvvs0y4-swbarnes~valeriaview",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.826431,
-                    45.489479
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5600",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5600",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 5600)",
-                        "stop_id": "5600",
-                        "stop_lat": "45.489479",
-                        "stop_lon": "-122.826431",
-                        "stop_name": "SW Tualatin Valley Hwy & Murray",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5600",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Tualatin Valley Hwy & Murray",
-            "onestopId": "s-c20dv10e2t-swtualatinvalley~murray",
+            "name": "SW Cedar Hills & Celeste",
+            "onestopId": "s-c20dvy3ykv-swcedarhills~celeste",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3773,42 +3701,6 @@
             ],
             "name": "NW Barnes & Saltzman",
             "onestopId": "s-c20dvrpewp-nwbarnes~saltzman",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.798637,
-                    45.508209
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4382",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4382",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 4382)",
-                        "stop_id": "4382",
-                        "stop_lat": "45.508209",
-                        "stop_lon": "-122.798637",
-                        "stop_name": "SW Park Way & Tremont",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4382",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Park Way & Tremont",
-            "onestopId": "s-c20dvssb83-swpark~tremont",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4107,42 +3999,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.796007,
-                    45.507522
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1019",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1019",
-                        "stop_desc": "Northbound stop in Beaverton (Stop ID 1019)",
-                        "stop_id": "1019",
-                        "stop_lat": "45.507522",
-                        "stop_lon": "-122.796007",
-                        "stop_name": "SW Cedar Hills & Park Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1019",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Cedar Hills & Park Way",
-            "onestopId": "s-c20dvsqst8-swcedarhills~park",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.789691,
                     45.515535
                 ],
@@ -4169,42 +4025,6 @@
             ],
             "name": "SW Barnes & Cedar Hills Blvd",
             "onestopId": "s-c20dvvg70y-swbarnes~cedarhills",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.801435,
-                    45.491247
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9983",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9983",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 9983)",
-                        "stop_id": "9983",
-                        "stop_lat": "45.491247",
-                        "stop_lon": "-122.801435",
-                        "stop_name": "Beaverton Transit Center ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9983",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Beaverton Transit Center ",
-            "onestopId": "s-c20dv96txp-beavertontransit",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4647,32 +4467,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.819528,
-                    45.508522
+                    -122.798821,
+                    45.504838
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4383",
+                    "identifier": "f-trimet-s-1018",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4383",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 4383)",
-                        "stop_id": "4383",
-                        "stop_lat": "45.508522",
-                        "stop_lon": "-122.819528",
-                        "stop_name": "SW Park Way & Walker",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4383",
+                        "position": "Farside",
+                        "stop_code": "1018",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 1018)",
+                        "stop_id": "1018",
+                        "stop_lat": "45.504838",
+                        "stop_lon": "-122.798821",
+                        "stop_name": "SW Cedar Hills & Lynnridge",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1018",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Park Way & Walker",
-            "onestopId": "s-c20dvhtd3e-swpark~walker",
+            "name": "SW Cedar Hills & Lynnridge",
+            "onestopId": "s-c20dveusuh-swcedarhills~lynnridge",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4719,32 +4539,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.82643,
-                    45.485647
+                    -122.800749,
+                    45.491435
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1661",
+                    "identifier": "f-trimet-s-9977",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1661",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1661)",
-                        "stop_id": "1661",
-                        "stop_lat": "45.485647",
-                        "stop_lon": "-122.82643",
-                        "stop_name": "SW Farmington & Murray",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1661",
+                        "position": "At",
+                        "stop_code": "9977",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 9977)",
+                        "stop_id": "9977",
+                        "stop_lat": "45.491435",
+                        "stop_lon": "-122.800749",
+                        "stop_name": "Beaverton Transit Center ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9977",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Farmington & Murray",
-            "onestopId": "s-c20dv02t0e-swfarmington~murray",
+            "name": "Beaverton Transit Center ",
+            "onestopId": "s-c20dv97nz4-beavertontransit",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4827,32 +4647,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.784758,
-                    45.515594
+                    -122.793466,
+                    45.526346
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13261",
+                    "identifier": "f-trimet-s-1196",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "13261",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 13261)",
-                        "stop_id": "13261",
-                        "stop_lat": "45.515594",
-                        "stop_lon": "-122.784758",
-                        "stop_name": "SW Taylor & Windwood Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13261",
+                        "stop_code": "1196",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1196)",
+                        "stop_id": "1196",
+                        "stop_lat": "45.526346",
+                        "stop_lon": "-122.793466",
+                        "stop_name": "NW Cornell & Cedar Hills Blvd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1196",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Taylor & Windwood Way",
-            "onestopId": "s-c20dvvygec-swtaylor~windwood",
+            "name": "NW Cornell & Cedar Hills Blvd",
+            "onestopId": "s-c20dvzbd0y-nwcornell~cedarhills",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.816445,
+                    45.487045
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1656",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "1656",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1656)",
+                        "stop_id": "1656",
+                        "stop_lat": "45.487045",
+                        "stop_lon": "-122.816445",
+                        "stop_name": "SW Farmington & Menlo",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1656",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Farmington & Menlo",
+            "onestopId": "s-c20dv0xv1r-swfarmington~menlo",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4935,32 +4791,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.798821,
-                    45.504838
+                    -122.819528,
+                    45.508522
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1018",
+                    "identifier": "f-trimet-s-4383",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1018",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 1018)",
-                        "stop_id": "1018",
-                        "stop_lat": "45.504838",
-                        "stop_lon": "-122.798821",
-                        "stop_name": "SW Cedar Hills & Lynnridge",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1018",
+                        "position": "Nearside",
+                        "stop_code": "4383",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 4383)",
+                        "stop_id": "4383",
+                        "stop_lat": "45.508522",
+                        "stop_lon": "-122.819528",
+                        "stop_name": "SW Park Way & Walker",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4383",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Cedar Hills & Lynnridge",
-            "onestopId": "s-c20dveusuh-swcedarhills~lynnridge",
+            "name": "SW Park Way & Walker",
+            "onestopId": "s-c20dvhtd3e-swpark~walker",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5079,32 +4935,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.805535,
-                    45.52288
+                    -122.795325,
+                    45.490041
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-228",
+                    "identifier": "f-trimet-s-910",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "228",
-                        "stop_desc": "Northbound stop in Beaverton (Stop ID 228)",
-                        "stop_id": "228",
-                        "stop_lat": "45.52288",
-                        "stop_lon": "-122.805535",
-                        "stop_name": "NW Barnes & Saltzman",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=228",
+                        "position": "Nearside",
+                        "stop_code": "910",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 910)",
+                        "stop_id": "910",
+                        "stop_lat": "45.490041",
+                        "stop_lon": "-122.795325",
+                        "stop_name": "SW Canyon & 115th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=910",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Barnes & Saltzman",
-            "onestopId": "s-c20dvrptzx-nwbarnes~saltzman",
+            "name": "SW Canyon & 115th",
+            "onestopId": "s-c20dv9pntw-swcanyon~115th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5115,104 +4971,104 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.805216,
-                    45.493593
+                    -122.808832,
+                    45.49378
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1034",
+                    "identifier": "f-trimet-s-2268",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "2268",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 2268)",
+                        "stop_id": "2268",
+                        "stop_lat": "45.49378",
+                        "stop_lon": "-122.808832",
+                        "stop_name": "3600 Block SW Hall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2268",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "3600 Block SW Hall",
+            "onestopId": "s-c20dv3vk6z-3600blockswhall",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82643,
+                    45.485647
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1661",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1661",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1661)",
+                        "stop_id": "1661",
+                        "stop_lat": "45.485647",
+                        "stop_lon": "-122.82643",
+                        "stop_name": "SW Farmington & Murray",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1661",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Farmington & Murray",
+            "onestopId": "s-c20dv02t0e-swfarmington~murray",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.801206,
+                    45.519695
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-247",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1034",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1034)",
-                        "stop_id": "1034",
-                        "stop_lat": "45.493593",
-                        "stop_lon": "-122.805216",
-                        "stop_name": "SW Center & 125th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1034",
+                        "stop_code": "247",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 247)",
+                        "stop_id": "247",
+                        "stop_lat": "45.519695",
+                        "stop_lon": "-122.801206",
+                        "stop_name": "SW Barnes & W Stark",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=247",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Center & 125th",
-            "onestopId": "s-c20dv3zgrh-sw~125th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.800749,
-                    45.491435
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9977",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9977",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 9977)",
-                        "stop_id": "9977",
-                        "stop_lat": "45.491435",
-                        "stop_lon": "-122.800749",
-                        "stop_name": "Beaverton Transit Center ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9977",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Beaverton Transit Center ",
-            "onestopId": "s-c20dv97nz4-beavertontransit",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.800725,
-                    45.487818
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-12944",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "12944",
-                        "stop_desc": "Northbound stop in Beaverton (Stop ID 12944)",
-                        "stop_id": "12944",
-                        "stop_lat": "45.487818",
-                        "stop_lon": "-122.800725",
-                        "stop_name": "SW Lombard & Broadway",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12944",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Lombard & Broadway",
-            "onestopId": "s-c20dv8g1xx-swlombard~broadway",
+            "name": "SW Barnes & W Stark",
+            "onestopId": "s-c20dvwdgkw-swbarnes~wstark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5393,6 +5249,42 @@
             ],
             "name": "SW Murray & Farmington",
             "onestopId": "s-c20dv02v59-swmurray~farmington",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.825504,
+                    45.503461
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3065",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "3065",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 3065)",
+                        "stop_id": "3065",
+                        "stop_lat": "45.503461",
+                        "stop_lon": "-122.825504",
+                        "stop_name": "SW Jenkins & Murray",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3065",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Jenkins & Murray",
+            "onestopId": "s-c20dv59hy7-swjenkins~murray",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5655,6 +5547,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.786756,
+                    45.492101
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-907",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "907",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 907)",
+                        "stop_id": "907",
+                        "stop_lat": "45.492101",
+                        "stop_lon": "-122.786756",
+                        "stop_name": "SW Canyon & 107th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=907",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Canyon & 107th",
+            "onestopId": "s-c20dvct6tn-swcanyon~107th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.810068,
                     45.488175
                 ],
@@ -5691,32 +5619,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.791573,
-                    45.518832
+                    -122.812785,
+                    45.525675
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10749",
+                    "identifier": "f-trimet-s-1163",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10749",
-                        "stop_desc": "Southbound stop in Beaverton (Stop ID 10749)",
-                        "stop_id": "10749",
-                        "stop_lat": "45.518832",
-                        "stop_lon": "-122.791573",
-                        "stop_name": "SW Cedar Hills & Celeste",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10749",
+                        "stop_code": "1163",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 1163)",
+                        "stop_id": "1163",
+                        "stop_lat": "45.525675",
+                        "stop_lon": "-122.812785",
+                        "stop_name": "NW Cornell & Dale",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1163",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Cedar Hills & Celeste",
-            "onestopId": "s-c20dvy3ykv-swcedarhills~celeste",
+            "name": "NW Cornell & Dale",
+            "onestopId": "s-c20dvrdqq8-nwcornell~dale",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5871,32 +5799,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.808832,
-                    45.49378
+                    -122.805216,
+                    45.493593
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2268",
+                    "identifier": "f-trimet-s-1034",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "2268",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 2268)",
-                        "stop_id": "2268",
-                        "stop_lat": "45.49378",
-                        "stop_lon": "-122.808832",
-                        "stop_name": "3600 Block SW Hall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2268",
+                        "position": "Farside",
+                        "stop_code": "1034",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1034)",
+                        "stop_id": "1034",
+                        "stop_lat": "45.493593",
+                        "stop_lon": "-122.805216",
+                        "stop_name": "SW Center & 125th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1034",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "3600 Block SW Hall",
-            "onestopId": "s-c20dv3vk6z-3600blockswhall",
+            "name": "SW Center & 125th",
+            "onestopId": "s-c20dv3zgrh-sw~125th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6051,32 +5979,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.786756,
-                    45.492101
+                    -122.808344,
+                    45.497029
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-907",
+                    "identifier": "f-trimet-s-1002",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "907",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 907)",
-                        "stop_id": "907",
-                        "stop_lat": "45.492101",
-                        "stop_lon": "-122.786756",
-                        "stop_name": "SW Canyon & 107th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=907",
+                        "stop_code": "1002",
+                        "stop_desc": "Northbound stop in Beaverton (Stop ID 1002)",
+                        "stop_id": "1002",
+                        "stop_lat": "45.497029",
+                        "stop_lon": "-122.808344",
+                        "stop_name": "SW Cedar Hills & Fairfield",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1002",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Canyon & 107th",
-            "onestopId": "s-c20dvct6tn-swcanyon~107th",
+            "name": "SW Cedar Hills & Fairfield",
+            "onestopId": "s-c20dv6mxqh-swcedarhills~fairfield",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6123,32 +6051,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.808344,
-                    45.497029
+                    -122.822827,
+                    45.510956
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1002",
+                    "identifier": "f-trimet-s-8928",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1002",
-                        "stop_desc": "Northbound stop in Beaverton (Stop ID 1002)",
-                        "stop_id": "1002",
-                        "stop_lat": "45.497029",
-                        "stop_lon": "-122.808344",
-                        "stop_name": "SW Cedar Hills & Fairfield",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1002",
+                        "stop_code": "8928",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 8928)",
+                        "stop_id": "8928",
+                        "stop_lat": "45.510956",
+                        "stop_lon": "-122.822827",
+                        "stop_name": "SW Walker & Murray",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8928",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Cedar Hills & Fairfield",
-            "onestopId": "s-c20dv6mxqh-swcedarhills~fairfield",
+            "name": "SW Walker & Murray",
+            "onestopId": "s-c20dvj50s9-swwalker~murray",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6267,42 +6195,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.822827,
-                    45.510956
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8928",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "8928",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 8928)",
-                        "stop_id": "8928",
-                        "stop_lat": "45.510956",
-                        "stop_lon": "-122.822827",
-                        "stop_name": "SW Walker & Murray",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8928",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Walker & Murray",
-            "onestopId": "s-c20dvj50s9-swwalker~murray",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.804555,
                     45.525967
                 ],
@@ -6411,32 +6303,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.822527,
-                    45.489076
+                    -122.80631,
+                    45.486075
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5617",
+                    "identifier": "f-trimet-s-6178",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5617",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 5617)",
-                        "stop_id": "5617",
-                        "stop_lat": "45.489076",
-                        "stop_lon": "-122.822527",
-                        "stop_name": "SW Tualatin Valley Hwy & 142nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5617",
+                        "position": "Farside",
+                        "stop_code": "6178",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 6178)",
+                        "stop_id": "6178",
+                        "stop_lat": "45.486075",
+                        "stop_lon": "-122.80631",
+                        "stop_name": "SW Watson & 1st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6178",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Tualatin Valley Hwy & 142nd",
-            "onestopId": "s-c20dv1535d-swtualatinvalley~142nd",
+            "name": "SW Watson & 1st",
+            "onestopId": "s-c20dv2rptd-swwatson~1st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6699,32 +6591,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.783807,
-                    45.486414
+                    -122.787295,
+                    45.525819
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-354",
+                    "identifier": "f-trimet-s-6536",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "354",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 354)",
-                        "stop_id": "354",
-                        "stop_lat": "45.486414",
-                        "stop_lon": "-122.783807",
-                        "stop_name": "SW Beaverton-Hillsdale & Western",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=354",
+                        "stop_code": "6536",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 6536)",
+                        "stop_id": "6536",
+                        "stop_lat": "45.525819",
+                        "stop_lon": "-122.787295",
+                        "stop_name": "NW Cornell & 107th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6536",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Beaverton-Hillsdale & Western",
-            "onestopId": "s-c20dvbx99f-swbeavertonhillsdale~western",
+            "name": "NW Cornell & 107th",
+            "onestopId": "s-c20dvztp0e-nwcornell~107th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6843,32 +6735,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.801206,
-                    45.519695
+                    -122.800725,
+                    45.487818
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-247",
+                    "identifier": "f-trimet-s-12944",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "12944",
+                        "stop_desc": "Northbound stop in Beaverton (Stop ID 12944)",
+                        "stop_id": "12944",
+                        "stop_lat": "45.487818",
+                        "stop_lon": "-122.800725",
+                        "stop_name": "SW Lombard & Broadway",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12944",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Lombard & Broadway",
+            "onestopId": "s-c20dv8g1xx-swlombard~broadway",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.797066,
+                    45.526771
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13465",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "247",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 247)",
-                        "stop_id": "247",
-                        "stop_lat": "45.519695",
-                        "stop_lon": "-122.801206",
-                        "stop_name": "SW Barnes & W Stark",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=247",
+                        "stop_code": "13465",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 13465)",
+                        "stop_id": "13465",
+                        "stop_lat": "45.526771",
+                        "stop_lon": "-122.797066",
+                        "stop_name": "NW Cornell & 118th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13465",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Barnes & W Stark",
-            "onestopId": "s-c20dvwdgkw-swbarnes~wstark",
+            "name": "NW Cornell & 118th",
+            "onestopId": "s-c20dvxvusv-nwcornell~118th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7203,6 +7131,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.805535,
+                    45.52288
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-228",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "228",
+                        "stop_desc": "Northbound stop in Beaverton (Stop ID 228)",
+                        "stop_id": "228",
+                        "stop_lat": "45.52288",
+                        "stop_lon": "-122.805535",
+                        "stop_name": "NW Barnes & Saltzman",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=228",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Barnes & Saltzman",
+            "onestopId": "s-c20dvrptzx-nwbarnes~saltzman",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.826371,
                     45.493872
                 ],
@@ -7337,6 +7301,42 @@
             ],
             "name": "SW Farmington & 142nd",
             "onestopId": "s-c20dv0e1hw-swfarmington~142nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.814791,
+                    45.491786
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9462",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9462",
+                        "stop_desc": "Southbound stop in Beaverton (Stop ID 9462)",
+                        "stop_id": "9462",
+                        "stop_lat": "45.491786",
+                        "stop_lon": "-122.814791",
+                        "stop_name": "SW Hocken & Millikan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9462",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Hocken & Millikan",
+            "onestopId": "s-c20dv38bzg-swhocken~millikan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

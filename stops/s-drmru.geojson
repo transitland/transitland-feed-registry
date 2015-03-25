@@ -38,76 +38,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.153374,
-                    42.163423
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-Canton Junction",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "Canton Junction",
-                        "stop_lat": "42.163423",
-                        "stop_lon": "-71.153374",
-                        "stop_name": "Canton Junction",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Canton Junction",
-            "onestopId": "s-drmrugeewp-cantonjunction",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.149085,
-                    42.144333
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-111642",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "111642",
-                        "stop_desc": "",
-                        "stop_id": "111642",
-                        "stop_lat": "42.144333",
-                        "stop_lon": "-71.149085",
-                        "stop_name": "Washington St from Cobbs Corner to High St (FLAG)",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Washington St from Cobbs Corner to High St (FLAG)",
-            "onestopId": "s-drmrubnud1-washingtonfromcobbscornertohighflag",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.149384,
                     42.150784
                 ],
@@ -168,6 +98,76 @@
             ],
             "name": "Washington St from High St to Cobbs Corner (FLAG)",
             "onestopId": "s-drmrubnevt-washingtonfromhightocobbscornerflag",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.153374,
+                    42.163423
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-Canton Junction",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "Canton Junction",
+                        "stop_lat": "42.163423",
+                        "stop_lon": "-71.153374",
+                        "stop_name": "Canton Junction",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Canton Junction",
+            "onestopId": "s-drmrugeewp-cantonjunction",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.149085,
+                    42.144333
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-111642",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "111642",
+                        "stop_desc": "",
+                        "stop_id": "111642",
+                        "stop_lat": "42.144333",
+                        "stop_lon": "-71.149085",
+                        "stop_name": "Washington St from Cobbs Corner to High St (FLAG)",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Washington St from Cobbs Corner to High St (FLAG)",
+            "onestopId": "s-drmrubnud1-washingtonfromcobbscornertohighflag",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

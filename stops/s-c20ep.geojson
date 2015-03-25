@@ -759,68 +759,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.701909,
-                    45.566633
+                    -122.711069,
+                    45.535337
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11948",
+                    "identifier": "f-trimet-s-5839",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "11948",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 11948)",
-                        "stop_id": "11948",
-                        "stop_lat": "45.566633",
-                        "stop_lon": "-122.701909",
-                        "stop_name": "6000 Block N Cutter Circle",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11948",
+                        "position": "Opposite",
+                        "stop_code": "5839",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 5839)",
+                        "stop_id": "5839",
+                        "stop_lat": "45.535337",
+                        "stop_lon": "-122.711069",
+                        "stop_name": "NW Thurman & 29th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5839",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "6000 Block N Cutter Circle",
-            "onestopId": "s-c20epz5hyk-6000blockncuttercircle",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.695684,
-                    45.542445
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9880",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9880",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 9880)",
-                        "stop_id": "9880",
-                        "stop_lat": "45.542445",
-                        "stop_lon": "-122.695684",
-                        "stop_name": "NW Front & Nicolai",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9880",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Front & Nicolai",
-            "onestopId": "s-c20epfxxzr-nwfront~nicolai",
+            "name": "NW Thurman & 29th",
+            "onestopId": "s-c20ep9kw8f-nwthurman~29th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -893,6 +857,42 @@
             ],
             "name": "3900 Block NW Yeon Frontage Rd",
             "onestopId": "s-c20epkhu7q-3900blocknwyeonfrontage",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.698711,
+                    45.53399
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9031",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9031",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 9031)",
+                        "stop_id": "9031",
+                        "stop_lat": "45.53399",
+                        "stop_lon": "-122.698711",
+                        "stop_name": "NW 23rd & Raleigh",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9031",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW 23rd & Raleigh",
+            "onestopId": "s-c20epcjw8y-nw23rd~raleigh",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1479,32 +1479,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.72728,
-                    45.552658
+                    -122.712028,
+                    45.560372
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6458",
+                    "identifier": "f-trimet-s-1043",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "6458",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6458)",
-                        "stop_id": "6458",
-                        "stop_lat": "45.552658",
-                        "stop_lon": "-122.72728",
-                        "stop_name": "4200 Block NW Yeon",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6458",
+                        "position": "Opposite",
+                        "stop_code": "1043",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 1043)",
+                        "stop_id": "1043",
+                        "stop_lat": "45.560372",
+                        "stop_lon": "-122.712028",
+                        "stop_name": "N Channel Ave & Commerce",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1043",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "4200 Block NW Yeon",
-            "onestopId": "s-c20epk8ern-4200blocknwyeon",
+            "name": "N Channel Ave & Commerce",
+            "onestopId": "s-c20epw5b6s-nchannel~commerce",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1875,32 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.698637,
-                    45.532128
+                    -122.710978,
+                    45.540021
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8981",
+                    "identifier": "f-trimet-s-8808",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8981",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 8981)",
-                        "stop_id": "8981",
-                        "stop_lat": "45.532128",
-                        "stop_lon": "-122.698637",
-                        "stop_name": "NW 23rd & Overton",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8981",
+                        "position": "At",
+                        "stop_code": "8808",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 8808)",
+                        "stop_id": "8808",
+                        "stop_lat": "45.540021",
+                        "stop_lon": "-122.710978",
+                        "stop_name": "2400 Block NW 29th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8808",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 23rd & Overton",
-            "onestopId": "s-c20epbvefe-nw23rd~overton",
+            "name": "2400 Block NW 29th",
+            "onestopId": "s-c20epdk9fg-2400blocknw29th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2091,32 +2091,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.708264,
-                    45.530492
+                    -122.710871,
+                    45.543449
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9130",
+                    "identifier": "f-trimet-s-7314",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9130",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 9130)",
-                        "stop_id": "9130",
-                        "stop_lat": "45.530492",
-                        "stop_lon": "-122.708264",
-                        "stop_name": "NW Cumberland & Fairfax",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9130",
+                        "position": "Nearside",
+                        "stop_code": "7314",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7314)",
+                        "stop_id": "7314",
+                        "stop_lat": "45.543449",
+                        "stop_lon": "-122.710871",
+                        "stop_name": "NW 29th & Nela",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7314",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cumberland & Fairfax",
-            "onestopId": "s-c20ep8wd64-nwcumberland~fairfax",
+            "name": "NW 29th & Nela",
+            "onestopId": "s-c20epdutv6-nw29th~nela",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2343,32 +2343,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.70257,
-                    45.529636
+                    -122.700749,
+                    45.536956
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9125",
+                    "identifier": "f-trimet-s-6014",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9125",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 9125)",
-                        "stop_id": "9125",
-                        "stop_lat": "45.529636",
-                        "stop_lon": "-122.70257",
-                        "stop_name": "NW 25th & Lovejoy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9125",
+                        "stop_code": "6014",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6014)",
+                        "stop_id": "6014",
+                        "stop_lat": "45.536956",
+                        "stop_lon": "-122.700749",
+                        "stop_name": "NW Vaughn & 24th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6014",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 25th & Lovejoy",
-            "onestopId": "s-c20epb6tqg-nw25th~lovejoy",
+            "name": "NW Vaughn & 24th",
+            "onestopId": "s-c20epcspcr-nwvaughn~24th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2415,32 +2415,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.717702,
-                    45.552852
+                    -122.718864,
+                    45.546293
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8901",
+                    "identifier": "f-trimet-s-10074",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8901",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 8901)",
-                        "stop_id": "8901",
-                        "stop_lat": "45.552852",
-                        "stop_lon": "-122.717702",
-                        "stop_name": "4200 Block NW Front",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8901",
+                        "position": "At",
+                        "stop_code": "10074",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 10074)",
+                        "stop_id": "10074",
+                        "stop_lat": "45.546293",
+                        "stop_lon": "-122.718864",
+                        "stop_name": "3300 Block NW 35th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10074",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "4200 Block NW Front",
-            "onestopId": "s-c20epkxsw7-4200blocknwfront",
+            "name": "3300 Block NW 35th",
+            "onestopId": "s-c20ep7qy7h-3300blocknw35th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,32 +2559,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.698711,
-                    45.53399
+                    -122.705451,
+                    45.568342
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9031",
+                    "identifier": "f-trimet-s-11947",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9031",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 9031)",
-                        "stop_id": "9031",
-                        "stop_lat": "45.53399",
-                        "stop_lon": "-122.698711",
-                        "stop_name": "NW 23rd & Raleigh",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9031",
+                        "position": "Farside",
+                        "stop_code": "11947",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 11947)",
+                        "stop_id": "11947",
+                        "stop_lat": "45.568342",
+                        "stop_lon": "-122.705451",
+                        "stop_name": "N Cutter Circle & Leverman",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11947",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 23rd & Raleigh",
-            "onestopId": "s-c20epcjw8y-nw23rd~raleigh",
+            "name": "N Cutter Circle & Leverman",
+            "onestopId": "s-c20epz2wgf-ncuttercircle~leverman",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2739,32 +2739,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.71117,
-                    45.538791
+                    -122.701909,
+                    45.566633
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7316",
+                    "identifier": "f-trimet-s-11948",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7316",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7316)",
-                        "stop_id": "7316",
-                        "stop_lat": "45.538791",
-                        "stop_lon": "-122.71117",
-                        "stop_name": "NW 29th & Nicolai",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7316",
+                        "position": "At",
+                        "stop_code": "11948",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 11948)",
+                        "stop_id": "11948",
+                        "stop_lat": "45.566633",
+                        "stop_lon": "-122.701909",
+                        "stop_name": "6000 Block N Cutter Circle",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11948",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 29th & Nicolai",
-            "onestopId": "s-c20epdh6wm-nw29th~nicolai",
+            "name": "6000 Block N Cutter Circle",
+            "onestopId": "s-c20epz5hyk-6000blockncuttercircle",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3567,32 +3567,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.712028,
-                    45.560372
+                    -122.72728,
+                    45.552658
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1043",
+                    "identifier": "f-trimet-s-6458",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "1043",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 1043)",
-                        "stop_id": "1043",
-                        "stop_lat": "45.560372",
-                        "stop_lon": "-122.712028",
-                        "stop_name": "N Channel Ave & Commerce",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1043",
+                        "position": "At",
+                        "stop_code": "6458",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6458)",
+                        "stop_id": "6458",
+                        "stop_lat": "45.552658",
+                        "stop_lon": "-122.72728",
+                        "stop_name": "4200 Block NW Yeon",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6458",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Channel Ave & Commerce",
-            "onestopId": "s-c20epw5b6s-nchannel~commerce",
+            "name": "4200 Block NW Yeon",
+            "onestopId": "s-c20epk8ern-4200blocknwyeon",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3639,32 +3639,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.710978,
-                    45.540021
+                    -122.698637,
+                    45.532128
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8808",
+                    "identifier": "f-trimet-s-8981",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8808",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 8808)",
-                        "stop_id": "8808",
-                        "stop_lat": "45.540021",
-                        "stop_lon": "-122.710978",
-                        "stop_name": "2400 Block NW 29th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8808",
+                        "position": "Farside",
+                        "stop_code": "8981",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 8981)",
+                        "stop_id": "8981",
+                        "stop_lat": "45.532128",
+                        "stop_lon": "-122.698637",
+                        "stop_name": "NW 23rd & Overton",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8981",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "2400 Block NW 29th",
-            "onestopId": "s-c20epdk9fg-2400blocknw29th",
+            "name": "NW 23rd & Overton",
+            "onestopId": "s-c20epbvefe-nw23rd~overton",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3675,32 +3675,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.718864,
-                    45.546293
+                    -122.717702,
+                    45.552852
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10074",
+                    "identifier": "f-trimet-s-8901",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "10074",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 10074)",
-                        "stop_id": "10074",
-                        "stop_lat": "45.546293",
-                        "stop_lon": "-122.718864",
-                        "stop_name": "3300 Block NW 35th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10074",
+                        "position": "Opposite",
+                        "stop_code": "8901",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 8901)",
+                        "stop_id": "8901",
+                        "stop_lat": "45.552852",
+                        "stop_lon": "-122.717702",
+                        "stop_name": "4200 Block NW Front",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8901",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "3300 Block NW 35th",
-            "onestopId": "s-c20ep7qy7h-3300blocknw35th",
+            "name": "4200 Block NW Front",
+            "onestopId": "s-c20epkxsw7-4200blocknwfront",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3999,42 +3999,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.705451,
-                    45.568342
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11947",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11947",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 11947)",
-                        "stop_id": "11947",
-                        "stop_lat": "45.568342",
-                        "stop_lon": "-122.705451",
-                        "stop_name": "N Cutter Circle & Leverman",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11947",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "N Cutter Circle & Leverman",
-            "onestopId": "s-c20epz2wgf-ncuttercircle~leverman",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.729259,
                     45.557317
                 ],
@@ -4215,32 +4179,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.711069,
-                    45.535337
+                    -122.695684,
+                    45.542445
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5839",
+                    "identifier": "f-trimet-s-9880",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "5839",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 5839)",
-                        "stop_id": "5839",
-                        "stop_lat": "45.535337",
-                        "stop_lon": "-122.711069",
-                        "stop_name": "NW Thurman & 29th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5839",
+                        "position": "Farside",
+                        "stop_code": "9880",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 9880)",
+                        "stop_id": "9880",
+                        "stop_lat": "45.542445",
+                        "stop_lon": "-122.695684",
+                        "stop_name": "NW Front & Nicolai",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9880",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Thurman & 29th",
-            "onestopId": "s-c20ep9kw8f-nwthurman~29th",
+            "name": "NW Front & Nicolai",
+            "onestopId": "s-c20epfxxzr-nwfront~nicolai",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4395,32 +4359,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.700749,
-                    45.536956
+                    -122.70257,
+                    45.529636
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6014",
+                    "identifier": "f-trimet-s-9125",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6014",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6014)",
-                        "stop_id": "6014",
-                        "stop_lat": "45.536956",
-                        "stop_lon": "-122.700749",
-                        "stop_name": "NW Vaughn & 24th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6014",
+                        "stop_code": "9125",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 9125)",
+                        "stop_id": "9125",
+                        "stop_lat": "45.529636",
+                        "stop_lon": "-122.70257",
+                        "stop_name": "NW 25th & Lovejoy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9125",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Vaughn & 24th",
-            "onestopId": "s-c20epcspcr-nwvaughn~24th",
+            "name": "NW 25th & Lovejoy",
+            "onestopId": "s-c20epb6tqg-nw25th~lovejoy",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4503,6 +4467,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.71117,
+                    45.538791
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7316",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "7316",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7316)",
+                        "stop_id": "7316",
+                        "stop_lat": "45.538791",
+                        "stop_lon": "-122.71117",
+                        "stop_name": "NW 29th & Nicolai",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7316",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW 29th & Nicolai",
+            "onestopId": "s-c20epdh6wm-nw29th~nicolai",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.695689,
                     45.564661
                 ],
@@ -4575,32 +4575,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.710871,
-                    45.543449
+                    -122.708264,
+                    45.530492
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7314",
+                    "identifier": "f-trimet-s-9130",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7314",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7314)",
-                        "stop_id": "7314",
-                        "stop_lat": "45.543449",
-                        "stop_lon": "-122.710871",
-                        "stop_name": "NW 29th & Nela",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7314",
+                        "position": "Farside",
+                        "stop_code": "9130",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 9130)",
+                        "stop_id": "9130",
+                        "stop_lat": "45.530492",
+                        "stop_lon": "-122.708264",
+                        "stop_name": "NW Cumberland & Fairfax",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9130",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 29th & Nela",
-            "onestopId": "s-c20epdutv6-nw29th~nela",
+            "name": "NW Cumberland & Fairfax",
+            "onestopId": "s-c20ep8wd64-nwcumberland~fairfax",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

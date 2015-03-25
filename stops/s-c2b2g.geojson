@@ -71,6 +71,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.260744,
+                    49.35261
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4620",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54568",
+                        "stop_desc": "MARINE DR @ GALLAGHER PL",
+                        "stop_id": "4620",
+                        "stop_lat": "49.35261",
+                        "stop_lon": "-123.260744",
+                        "stop_name": "SB MARINE DR FS GALLAGHER PL",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB MARINE DR FS GALLAGHER PL",
+            "onestopId": "s-c2b2g0k7b3-sbmarinefsgallagherpl",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.252168,
                     49.350855
                 ],
@@ -95,40 +129,6 @@
             ],
             "name": "CAULFEILD VILLAGE AT SAFEWAY",
             "onestopId": "s-c2b2g24986-caulfeildvillageatsafeway",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.264759,
-                    49.356897
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4699",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54647",
-                        "stop_desc": "MARINE DR @ CRANLEY DR",
-                        "stop_id": "4699",
-                        "stop_lat": "49.356897",
-                        "stop_lon": "-123.264759",
-                        "stop_name": "WB MARINE DR FS CRANLEY DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB MARINE DR FS CRANLEY DR",
-            "onestopId": "s-c2b2g11kfb-wbmarinefscranley",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -173,30 +173,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.260546,
-                    49.353212
+                    -123.264759,
+                    49.356897
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4698",
+                    "identifier": "f-translink-s-4699",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54646",
-                        "stop_desc": "MARINE DR @ WESTPORT RD",
-                        "stop_id": "4698",
-                        "stop_lat": "49.353212",
-                        "stop_lon": "-123.260546",
-                        "stop_name": "NB MARINE DR FS WESTPORT RD",
+                        "stop_code": "54647",
+                        "stop_desc": "MARINE DR @ CRANLEY DR",
+                        "stop_id": "4699",
+                        "stop_lat": "49.356897",
+                        "stop_lon": "-123.264759",
+                        "stop_name": "WB MARINE DR FS CRANLEY DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB MARINE DR FS WESTPORT RD",
-            "onestopId": "s-c2b2g0krm1-nbmarinefswestport",
+            "name": "WB MARINE DR FS CRANLEY DR",
+            "onestopId": "s-c2b2g11kfb-wbmarinefscranley",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.266375,
+                    49.350873
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4621",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54569",
+                        "stop_desc": "MARINE DR @ PARTHENON PL",
+                        "stop_id": "4621",
+                        "stop_lat": "49.350873",
+                        "stop_lon": "-123.266375",
+                        "stop_name": "SB MARINE DR FS PARTHENON PL",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB MARINE DR FS PARTHENON PL",
+            "onestopId": "s-c2b2g001tm-sbmarinefsparthenonpl",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -309,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.264027,
-                    49.356476
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4619",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54567",
-                        "stop_desc": "MARINE DR @ EAGLE HARBOUR RD",
-                        "stop_id": "4619",
-                        "stop_lat": "49.356476",
-                        "stop_lon": "-123.264027",
-                        "stop_name": "EB MARINE DR FS EAGLE HARBOUR RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "EB MARINE DR FS EAGLE HARBOUR RD",
-            "onestopId": "s-c2b2g11f7c-ebmarinefseagleharbour",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.255594,
                     49.389671
                 ],
@@ -377,30 +377,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.260744,
-                    49.35261
+                    -123.264027,
+                    49.356476
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4620",
+                    "identifier": "f-translink-s-4619",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54568",
-                        "stop_desc": "MARINE DR @ GALLAGHER PL",
-                        "stop_id": "4620",
-                        "stop_lat": "49.35261",
-                        "stop_lon": "-123.260744",
-                        "stop_name": "SB MARINE DR FS GALLAGHER PL",
+                        "stop_code": "54567",
+                        "stop_desc": "MARINE DR @ EAGLE HARBOUR RD",
+                        "stop_id": "4619",
+                        "stop_lat": "49.356476",
+                        "stop_lon": "-123.264027",
+                        "stop_name": "EB MARINE DR FS EAGLE HARBOUR RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB MARINE DR FS GALLAGHER PL",
-            "onestopId": "s-c2b2g0k7b3-sbmarinefsgallagherpl",
+            "name": "EB MARINE DR FS EAGLE HARBOUR RD",
+            "onestopId": "s-c2b2g11f7c-ebmarinefseagleharbour",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -445,30 +445,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.266375,
-                    49.350873
+                    -123.260546,
+                    49.353212
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4621",
+                    "identifier": "f-translink-s-4698",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54569",
-                        "stop_desc": "MARINE DR @ PARTHENON PL",
-                        "stop_id": "4621",
-                        "stop_lat": "49.350873",
-                        "stop_lon": "-123.266375",
-                        "stop_name": "SB MARINE DR FS PARTHENON PL",
+                        "stop_code": "54646",
+                        "stop_desc": "MARINE DR @ WESTPORT RD",
+                        "stop_id": "4698",
+                        "stop_lat": "49.353212",
+                        "stop_lon": "-123.260546",
+                        "stop_name": "NB MARINE DR FS WESTPORT RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB MARINE DR FS PARTHENON PL",
-            "onestopId": "s-c2b2g001tm-sbmarinefsparthenonpl",
+            "name": "NB MARINE DR FS WESTPORT RD",
+            "onestopId": "s-c2b2g0krm1-nbmarinefswestport",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

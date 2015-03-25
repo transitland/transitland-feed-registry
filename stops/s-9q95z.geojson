@@ -3,27 +3,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.03178953,
-                    37.263249436
+                    -122.025938935,
+                    37.262383154
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-2236",
+                    "identifier": "f-vta-s-1048",
                     "tags": {
-                        "stop_code": "62236",
+                        "stop_code": "61048",
                         "stop_desc": "",
-                        "stop_id": "2236",
-                        "stop_lat": "37.263249436000002",
-                        "stop_lon": "-122.03178953",
-                        "stop_name": "SARATOGA-SUNNYVALE & WALNUT",
+                        "stop_id": "1048",
+                        "stop_lat": "37.262383153999998",
+                        "stop_lon": "-122.025938935",
+                        "stop_name": "SARATOGA & SEAGRAVES",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SARATOGA-SUNNYVALE & WALNUT",
-            "onestopId": "s-9q95zpe4jj-saratogasunnyvale~walnut",
+            "name": "SARATOGA & SEAGRAVES",
+            "onestopId": "s-9q95zprmje-saratoga~seagraves",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -251,37 +251,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.025938935,
-                    37.262383154
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1048",
-                    "tags": {
-                        "stop_code": "61048",
-                        "stop_desc": "",
-                        "stop_id": "1048",
-                        "stop_lat": "37.262383153999998",
-                        "stop_lon": "-122.025938935",
-                        "stop_name": "SARATOGA & SEAGRAVES",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "SARATOGA & SEAGRAVES",
-            "onestopId": "s-9q95zprmje-saratoga~seagraves",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.028762995,
                     37.260260194
                 ],
@@ -334,6 +303,37 @@
             ],
             "name": "SARATOGA & HERRIMAN",
             "onestopId": "s-9q95zrfh3p-saratoga~herriman",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.03178953,
+                    37.263249436
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2236",
+                    "tags": {
+                        "stop_code": "62236",
+                        "stop_desc": "",
+                        "stop_id": "2236",
+                        "stop_lat": "37.263249436000002",
+                        "stop_lon": "-122.03178953",
+                        "stop_name": "SARATOGA-SUNNYVALE & WALNUT",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "SARATOGA-SUNNYVALE & WALNUT",
+            "onestopId": "s-9q95zpe4jj-saratogasunnyvale~walnut",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

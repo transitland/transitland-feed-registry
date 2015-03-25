@@ -3,42 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.040524,
-                    45.519849
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-263",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "263",
-                        "stop_desc": "Eastbound stop in Cornelius (Stop ID 263)",
-                        "stop_id": "263",
-                        "stop_lat": "45.519849",
-                        "stop_lon": "-123.040524",
-                        "stop_name": "Baseline St & S 26th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=263",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Baseline St & S 26th",
-            "onestopId": "s-c20dbnss7f-baseline~s26th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.03409,
                     45.520154
                 ],
@@ -65,6 +29,42 @@
             ],
             "name": "Baseline St & N 31st",
             "onestopId": "s-c20dbq9q1g-baseline~n31st",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.040524,
+                    45.519849
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-263",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "263",
+                        "stop_desc": "Eastbound stop in Cornelius (Stop ID 263)",
+                        "stop_id": "263",
+                        "stop_lat": "45.519849",
+                        "stop_lon": "-123.040524",
+                        "stop_name": "Baseline St & S 26th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=263",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Baseline St & S 26th",
+            "onestopId": "s-c20dbnss7f-baseline~s26th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.030371,
-                    45.520149
+                    -123.024296,
+                    45.519792
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-298",
+                    "identifier": "f-trimet-s-297",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "298",
-                        "stop_desc": "Westbound stop in Cornelius (Stop ID 298)",
-                        "stop_id": "298",
-                        "stop_lat": "45.520149",
-                        "stop_lon": "-123.030371",
-                        "stop_name": "Baseline St & Valley View",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=298",
+                        "position": "Opposite",
+                        "stop_code": "297",
+                        "stop_desc": "Eastbound stop in Cornelius (Stop ID 297)",
+                        "stop_id": "297",
+                        "stop_lat": "45.519792",
+                        "stop_lon": "-123.024296",
+                        "stop_name": "SW Baseline & NW 338th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=297",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Baseline St & Valley View",
-            "onestopId": "s-c20dbqsn0d-baseline~valleyview",
+            "name": "SW Baseline & NW 338th",
+            "onestopId": "s-c20dbw8kn0-swbaseline~nw338th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -327,6 +327,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.044484,
+                    45.520284
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-28",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "28",
+                        "stop_desc": "Westbound stop in Cornelius (Stop ID 28)",
+                        "stop_id": "28",
+                        "stop_lat": "45.520284",
+                        "stop_lon": "-123.044484",
+                        "stop_name": "2200 Block Baseline",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=28",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "2200 Block Baseline",
+            "onestopId": "s-c20dbn9wze-2200blockbaseline",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.002998,
                     45.520036
                 ],
@@ -435,68 +471,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.044484,
-                    45.520284
+                    -123.030371,
+                    45.520149
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-28",
+                    "identifier": "f-trimet-s-298",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "28",
-                        "stop_desc": "Westbound stop in Cornelius (Stop ID 28)",
-                        "stop_id": "28",
-                        "stop_lat": "45.520284",
-                        "stop_lon": "-123.044484",
-                        "stop_name": "2200 Block Baseline",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=28",
+                        "stop_code": "298",
+                        "stop_desc": "Westbound stop in Cornelius (Stop ID 298)",
+                        "stop_id": "298",
+                        "stop_lat": "45.520149",
+                        "stop_lon": "-123.030371",
+                        "stop_name": "Baseline St & Valley View",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=298",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "2200 Block Baseline",
-            "onestopId": "s-c20dbn9wze-2200blockbaseline",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.024296,
-                    45.519792
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-297",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "297",
-                        "stop_desc": "Eastbound stop in Cornelius (Stop ID 297)",
-                        "stop_id": "297",
-                        "stop_lat": "45.519792",
-                        "stop_lon": "-123.024296",
-                        "stop_name": "SW Baseline & NW 338th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=297",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Baseline & NW 338th",
-            "onestopId": "s-c20dbw8kn0-swbaseline~nw338th",
+            "name": "Baseline St & Valley View",
+            "onestopId": "s-c20dbqsn0d-baseline~valleyview",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

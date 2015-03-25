@@ -547,30 +547,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.762198,
-                    49.017402
+                    -122.779144,
+                    49.024203
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5551",
+                    "identifier": "f-translink-s-6310",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55497",
-                        "stop_desc": "KING GEORGE BLVD @ 8 AVE",
-                        "stop_id": "5551",
-                        "stop_lat": "49.017402",
-                        "stop_lon": "-122.762198",
-                        "stop_name": "NB KING GEORGE BLVD FS 8 AV",
+                        "stop_code": "56250",
+                        "stop_desc": "160 ST @ 12 AVE",
+                        "stop_id": "6310",
+                        "stop_lat": "49.024203",
+                        "stop_lon": "-122.779144",
+                        "stop_name": "NB 160 ST FS 12 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB KING GEORGE BLVD FS 8 AV",
-            "onestopId": "s-c28wy7r716-nbkinggeorgefs8",
+            "name": "NB 160 ST FS 12 AV",
+            "onestopId": "s-c28wyhdfwt-nb160fs12",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -751,6 +751,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.780386,
+                    49.038366
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-10904",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56340",
+                        "stop_desc": "20 AVE @ CARIBOO BAY",
+                        "stop_id": "10904",
+                        "stop_lat": "49.038366",
+                        "stop_lon": "-122.780386",
+                        "stop_name": "WB 20 AV NS CARIBOO BAY",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB 20 AV NS CARIBOO BAY",
+            "onestopId": "s-c28wyp4j1t-wb20nscariboobay",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.779303,
                     49.030068
                 ],
@@ -819,64 +853,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.780259,
-                    49.04026
+                    -122.762198,
+                    49.017402
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10905",
+                    "identifier": "f-translink-s-5551",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56339",
-                        "stop_desc": "CRANLEY DR @ CUMBRIA DR",
-                        "stop_id": "10905",
-                        "stop_lat": "49.04026",
-                        "stop_lon": "-122.780259",
-                        "stop_name": "SB CRANLEY DR NS CUMBRIA DR",
+                        "stop_code": "55497",
+                        "stop_desc": "KING GEORGE BLVD @ 8 AVE",
+                        "stop_id": "5551",
+                        "stop_lat": "49.017402",
+                        "stop_lon": "-122.762198",
+                        "stop_name": "NB KING GEORGE BLVD FS 8 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB CRANLEY DR NS CUMBRIA DR",
-            "onestopId": "s-c28wypd0hx-sbcranleynscumbria",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.770677,
-                    49.02694
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5549",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55495",
-                        "stop_desc": "KING GEORGE BLVD @ 14 AVE",
-                        "stop_id": "5549",
-                        "stop_lat": "49.02694",
-                        "stop_lon": "-122.770677",
-                        "stop_name": "SB KING GEORGE BLVD FS 14 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB KING GEORGE BLVD FS 14 AV",
-            "onestopId": "s-c28wym14eu-sbkinggeorgefs14",
+            "name": "NB KING GEORGE BLVD FS 8 AV",
+            "onestopId": "s-c28wy7r716-nbkinggeorgefs8",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -911,40 +911,6 @@
             ],
             "name": "EB BUENA VISTA AV FS HABGOOD ST",
             "onestopId": "s-c28wyh90h3-ebbuenavistafshabgood",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.779144,
-                    49.024203
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6310",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56250",
-                        "stop_desc": "160 ST @ 12 AVE",
-                        "stop_id": "6310",
-                        "stop_lat": "49.024203",
-                        "stop_lon": "-122.779144",
-                        "stop_name": "NB 160 ST FS 12 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 160 ST FS 12 AV",
-            "onestopId": "s-c28wyhdfwt-nb160fs12",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1057,6 +1023,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.780833,
+                    49.016521
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6306",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56246",
+                        "stop_desc": "MARINE DR @ STEVENS ST",
+                        "stop_id": "6306",
+                        "stop_lat": "49.016521",
+                        "stop_lon": "-122.780833",
+                        "stop_name": "EB MARINE DR NS STEVENS ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB MARINE DR NS STEVENS ST",
+            "onestopId": "s-c28wy51tzj-ebmarinensstevens",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.779695,
                     49.03115
                 ],
@@ -1159,30 +1159,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.780386,
-                    49.038366
+                    -122.780259,
+                    49.04026
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10904",
+                    "identifier": "f-translink-s-10905",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56340",
-                        "stop_desc": "20 AVE @ CARIBOO BAY",
-                        "stop_id": "10904",
-                        "stop_lat": "49.038366",
-                        "stop_lon": "-122.780386",
-                        "stop_name": "WB 20 AV NS CARIBOO BAY",
+                        "stop_code": "56339",
+                        "stop_desc": "CRANLEY DR @ CUMBRIA DR",
+                        "stop_id": "10905",
+                        "stop_lat": "49.04026",
+                        "stop_lon": "-122.780259",
+                        "stop_name": "SB CRANLEY DR NS CUMBRIA DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 20 AV NS CARIBOO BAY",
-            "onestopId": "s-c28wyp4j1t-wb20nscariboobay",
+            "name": "SB CRANLEY DR NS CUMBRIA DR",
+            "onestopId": "s-c28wypd0hx-sbcranleynscumbria",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1193,30 +1193,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.780833,
-                    49.016521
+                    -122.770677,
+                    49.02694
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6306",
+                    "identifier": "f-translink-s-5549",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56246",
-                        "stop_desc": "MARINE DR @ STEVENS ST",
-                        "stop_id": "6306",
-                        "stop_lat": "49.016521",
-                        "stop_lon": "-122.780833",
-                        "stop_name": "EB MARINE DR NS STEVENS ST",
+                        "stop_code": "55495",
+                        "stop_desc": "KING GEORGE BLVD @ 14 AVE",
+                        "stop_id": "5549",
+                        "stop_lat": "49.02694",
+                        "stop_lon": "-122.770677",
+                        "stop_name": "SB KING GEORGE BLVD FS 14 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB MARINE DR NS STEVENS ST",
-            "onestopId": "s-c28wy51tzj-ebmarinensstevens",
+            "name": "SB KING GEORGE BLVD FS 14 AV",
+            "onestopId": "s-c28wym14eu-sbkinggeorgefs14",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

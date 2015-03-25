@@ -255,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.54189,
-                    45.483154
+                    -122.5286,
+                    45.476693
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2531",
+                    "identifier": "f-trimet-s-1770",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2531",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2531)",
-                        "stop_id": "2531",
-                        "stop_lat": "45.483154",
-                        "stop_lon": "-122.54189",
-                        "stop_name": "SE Harold & 118th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2531",
+                        "position": "Opposite",
+                        "stop_code": "1770",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1770)",
+                        "stop_id": "1770",
+                        "stop_lat": "45.476693",
+                        "stop_lon": "-122.5286",
+                        "stop_name": "SE Foster & 131st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1770",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Harold & 118th",
-            "onestopId": "s-c20ferzwx4-seharold~118th",
+            "name": "SE Foster & 131st",
+            "onestopId": "s-c20feyc2uw-sefoster~131st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -399,68 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.526491,
-                    45.476942
+                    -122.537066,
+                    45.480064
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1791",
+                    "identifier": "f-trimet-s-6657",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1791",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1791)",
-                        "stop_id": "1791",
-                        "stop_lat": "45.476942",
-                        "stop_lon": "-122.526491",
-                        "stop_name": "SE Foster & 134th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1791",
+                        "position": "Nearside",
+                        "stop_code": "6657",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 6657)",
+                        "stop_id": "6657",
+                        "stop_lat": "45.480064",
+                        "stop_lon": "-122.537066",
+                        "stop_name": "SE 122nd & Ramona",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6657",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Foster & 134th",
-            "onestopId": "s-c20feyffmu-sefoster~134th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.538422,
-                    45.483238
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2535",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "2535",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2535)",
-                        "stop_id": "2535",
-                        "stop_lat": "45.483238",
-                        "stop_lon": "-122.538422",
-                        "stop_name": "SE Harold & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2535",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Harold & 122nd",
-            "onestopId": "s-c20fexfppf-seharold~122nd",
+            "name": "SE 122nd & Ramona",
+            "onestopId": "s-c20fex7hx6-se122nd~ramona",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -507,6 +471,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.538422,
+                    45.483238
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2535",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "2535",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2535)",
+                        "stop_id": "2535",
+                        "stop_lat": "45.483238",
+                        "stop_lon": "-122.538422",
+                        "stop_name": "SE Harold & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2535",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Harold & 122nd",
+            "onestopId": "s-c20fexfppf-seharold~122nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.537785,
                     45.482998
                 ],
@@ -543,32 +543,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.560206,
-                    45.465826
+                    -122.557683,
+                    45.465148
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4033",
+                    "identifier": "f-trimet-s-4035",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "4033",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 4033)",
-                        "stop_id": "4033",
-                        "stop_lat": "45.465826",
-                        "stop_lon": "-122.560206",
-                        "stop_name": "9900 Block SE Mt Scott",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4033",
+                        "position": "Nearside",
+                        "stop_code": "4035",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 4035)",
+                        "stop_id": "4035",
+                        "stop_lat": "45.465148",
+                        "stop_lon": "-122.557683",
+                        "stop_name": "SE Mt Scott & 103rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4035",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "9900 Block SE Mt Scott",
-            "onestopId": "s-c20fehf3sh-9900blocksemtscott",
+            "name": "SE Mt Scott & 103rd",
+            "onestopId": "s-c20fehsjwv-semtscott~103rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -723,42 +723,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.557683,
-                    45.465148
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4035",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4035",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 4035)",
-                        "stop_id": "4035",
-                        "stop_lat": "45.465148",
-                        "stop_lon": "-122.557683",
-                        "stop_name": "SE Mt Scott & 103rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4035",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Mt Scott & 103rd",
-            "onestopId": "s-c20fehsjwv-semtscott~103rd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.547234,
                     45.482848
                 ],
@@ -795,32 +759,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.54916,
-                    45.476196
+                    -122.54189,
+                    45.483154
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1785",
+                    "identifier": "f-trimet-s-2531",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1785",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1785)",
-                        "stop_id": "1785",
-                        "stop_lat": "45.476196",
-                        "stop_lon": "-122.54916",
-                        "stop_name": "SE Foster & 111th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1785",
+                        "stop_code": "2531",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2531)",
+                        "stop_id": "2531",
+                        "stop_lat": "45.483154",
+                        "stop_lon": "-122.54189",
+                        "stop_name": "SE Harold & 118th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2531",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Foster & 111th",
-            "onestopId": "s-c20feqdqj9-sefoster~111th",
+            "name": "SE Harold & 118th",
+            "onestopId": "s-c20ferzwx4-seharold~118th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -831,68 +795,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.5286,
-                    45.476693
+                    -122.526491,
+                    45.476942
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1770",
+                    "identifier": "f-trimet-s-1791",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "1770",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1770)",
-                        "stop_id": "1770",
-                        "stop_lat": "45.476693",
-                        "stop_lon": "-122.5286",
-                        "stop_name": "SE Foster & 131st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1770",
+                        "position": "Farside",
+                        "stop_code": "1791",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1791)",
+                        "stop_id": "1791",
+                        "stop_lat": "45.476942",
+                        "stop_lon": "-122.526491",
+                        "stop_name": "SE Foster & 134th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1791",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Foster & 131st",
-            "onestopId": "s-c20feyc2uw-sefoster~131st",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.537066,
-                    45.480064
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6657",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6657",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 6657)",
-                        "stop_id": "6657",
-                        "stop_lat": "45.480064",
-                        "stop_lon": "-122.537066",
-                        "stop_name": "SE 122nd & Ramona",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6657",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 122nd & Ramona",
-            "onestopId": "s-c20fex7hx6-se122nd~ramona",
+            "name": "SE Foster & 134th",
+            "onestopId": "s-c20feyffmu-sefoster~134th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -929,6 +857,42 @@
             ],
             "name": "SE 112th & Mt Scott Blvd",
             "onestopId": "s-c20feke619-se112th~mtscott",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.559679,
+                    45.477348
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1780",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1780",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1780)",
+                        "stop_id": "1780",
+                        "stop_lat": "45.477348",
+                        "stop_lon": "-122.559679",
+                        "stop_name": "SE Foster & 101st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1780",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Foster & 101st",
+            "onestopId": "s-c20fenfub2-sefoster~101st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1073,42 +1037,6 @@
             ],
             "name": "SE Foster & 97th",
             "onestopId": "s-c20fep06bf-sefoster~97th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.535492,
-                    45.483306
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2505",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "2505",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 2505)",
-                        "stop_id": "2505",
-                        "stop_lat": "45.483306",
-                        "stop_lon": "-122.535492",
-                        "stop_name": "12400 Block SE Harold",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2505",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "12400 Block SE Harold",
-            "onestopId": "s-c20fexurkn-12400blockseharold",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1289,6 +1217,42 @@
             ],
             "name": "SE 122nd & Foster",
             "onestopId": "s-c20fewg767-se122nd~foster",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.557301,
+                    45.476881
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1781",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1781",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1781)",
+                        "stop_id": "1781",
+                        "stop_lat": "45.476881",
+                        "stop_lon": "-122.557301",
+                        "stop_name": "SE Foster & 103rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1781",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Foster & 103rd",
+            "onestopId": "s-c20fenu6pc-sefoster~103rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1515,32 +1479,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.555497,
-                    45.482695
+                    -122.535492,
+                    45.483306
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13122",
+                    "identifier": "f-trimet-s-2505",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13122",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 13122)",
-                        "stop_id": "13122",
-                        "stop_lat": "45.482695",
-                        "stop_lon": "-122.555497",
-                        "stop_name": "SE Harold & 104th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13122",
+                        "position": "At",
+                        "stop_code": "2505",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 2505)",
+                        "stop_id": "2505",
+                        "stop_lat": "45.483306",
+                        "stop_lon": "-122.535492",
+                        "stop_name": "12400 Block SE Harold",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2505",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Harold & 104th",
-            "onestopId": "s-c20fepvgcu-seharold~104th",
+            "name": "12400 Block SE Harold",
+            "onestopId": "s-c20fexurkn-12400blockseharold",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,32 +1551,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.557301,
-                    45.476881
+                    -122.560206,
+                    45.465826
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1781",
+                    "identifier": "f-trimet-s-4033",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1781",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1781)",
-                        "stop_id": "1781",
-                        "stop_lat": "45.476881",
-                        "stop_lon": "-122.557301",
-                        "stop_name": "SE Foster & 103rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1781",
+                        "position": "At",
+                        "stop_code": "4033",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 4033)",
+                        "stop_id": "4033",
+                        "stop_lat": "45.465826",
+                        "stop_lon": "-122.560206",
+                        "stop_name": "9900 Block SE Mt Scott",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4033",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Foster & 103rd",
-            "onestopId": "s-c20fenu6pc-sefoster~103rd",
+            "name": "9900 Block SE Mt Scott",
+            "onestopId": "s-c20fehf3sh-9900blocksemtscott",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1983,32 +1947,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.559679,
-                    45.477348
+                    -122.54916,
+                    45.476196
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1780",
+                    "identifier": "f-trimet-s-1785",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1780",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1780)",
-                        "stop_id": "1780",
-                        "stop_lat": "45.477348",
-                        "stop_lon": "-122.559679",
-                        "stop_name": "SE Foster & 101st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1780",
+                        "stop_code": "1785",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1785)",
+                        "stop_id": "1785",
+                        "stop_lat": "45.476196",
+                        "stop_lon": "-122.54916",
+                        "stop_name": "SE Foster & 111th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1785",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Foster & 101st",
-            "onestopId": "s-c20fenfub2-sefoster~101st",
+            "name": "SE Foster & 111th",
+            "onestopId": "s-c20feqdqj9-sefoster~111th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2045,6 +2009,42 @@
             ],
             "name": "SE Harold & 118th",
             "onestopId": "s-c20ferztvb-seharold~118th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.555497,
+                    45.482695
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13122",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13122",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 13122)",
+                        "stop_id": "13122",
+                        "stop_lat": "45.482695",
+                        "stop_lon": "-122.555497",
+                        "stop_name": "SE Harold & 104th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13122",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Harold & 104th",
+            "onestopId": "s-c20fepvgcu-seharold~104th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

@@ -255,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.079494,
-                    45.520345
+                    -123.05976,
+                    45.520001
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4289",
+                    "identifier": "f-trimet-s-271",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "4289",
-                        "stop_desc": "Westbound stop in Forest Grove (Stop ID 4289)",
-                        "stop_id": "4289",
-                        "stop_lat": "45.520345",
-                        "stop_lon": "-123.079494",
-                        "stop_name": "3800 Block Pacific Ave",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4289",
+                        "position": "Nearside",
+                        "stop_code": "271",
+                        "stop_desc": "Eastbound stop in Cornelius (Stop ID 271)",
+                        "stop_id": "271",
+                        "stop_lat": "45.520001",
+                        "stop_lon": "-123.05976",
+                        "stop_name": "Baseline St & S 10th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=271",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "3800 Block Pacific Ave",
-            "onestopId": "s-c206zq8ppz-3800blockpacific",
+            "name": "Baseline St & S 10th",
+            "onestopId": "s-c206zwwt5z-baseline~s10th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -435,32 +435,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.05976,
-                    45.520001
+                    -123.079494,
+                    45.520345
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-271",
+                    "identifier": "f-trimet-s-4289",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "271",
-                        "stop_desc": "Eastbound stop in Cornelius (Stop ID 271)",
-                        "stop_id": "271",
-                        "stop_lat": "45.520001",
-                        "stop_lon": "-123.05976",
-                        "stop_name": "Baseline St & S 10th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=271",
+                        "position": "At",
+                        "stop_code": "4289",
+                        "stop_desc": "Westbound stop in Forest Grove (Stop ID 4289)",
+                        "stop_id": "4289",
+                        "stop_lat": "45.520345",
+                        "stop_lon": "-123.079494",
+                        "stop_name": "3800 Block Pacific Ave",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4289",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Baseline St & S 10th",
-            "onestopId": "s-c206zwwt5z-baseline~s10th",
+            "name": "3800 Block Pacific Ave",
+            "onestopId": "s-c206zq8ppz-3800blockpacific",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

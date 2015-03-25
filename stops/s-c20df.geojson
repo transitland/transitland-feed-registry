@@ -399,32 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.929273,
-                    45.519834
+                    -122.917,
+                    45.499133
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10050",
+                    "identifier": "f-trimet-s-5653",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10050",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10050)",
-                        "stop_id": "10050",
-                        "stop_lat": "45.519834",
-                        "stop_lon": "-122.929273",
-                        "stop_name": "W Baseline & NE 53rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10050",
+                        "stop_code": "5653",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 5653)",
+                        "stop_id": "5653",
+                        "stop_lat": "45.499133",
+                        "stop_lon": "-122.917",
+                        "stop_name": "SE Tualatin Valley Hwy & Century",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5653",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Baseline & NE 53rd",
-            "onestopId": "s-c20dfwtsk2-wbaseline~ne53rd",
+            "name": "SE Tualatin Valley Hwy & Century",
+            "onestopId": "s-c20dffyedm-setualatinvalley~century",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -831,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.94588,
-                    45.527198
+                    -122.921931,
+                    45.519817
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9953",
+                    "identifier": "f-trimet-s-10049",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9953",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 9953)",
-                        "stop_id": "9953",
-                        "stop_lat": "45.527198",
-                        "stop_lon": "-122.94588",
-                        "stop_name": "Fair Complex/Airport Park & Ride",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9953",
+                        "position": "Nearside",
+                        "stop_code": "10049",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10049)",
+                        "stop_id": "10049",
+                        "stop_lat": "45.519817",
+                        "stop_lon": "-122.921931",
+                        "stop_name": "W Baseline & SE 58th Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10049",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Fair Complex/Airport Park & Ride",
-            "onestopId": "s-c20dfrcx1k-faircomplex~airportpark~ride",
+            "name": "W Baseline & SE 58th Ct",
+            "onestopId": "s-c20dfydupk-wbaseline~se58th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1083,42 +1083,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.917,
-                    45.499133
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5653",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5653",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 5653)",
-                        "stop_id": "5653",
-                        "stop_lat": "45.499133",
-                        "stop_lon": "-122.917",
-                        "stop_name": "SE Tualatin Valley Hwy & Century",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5653",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Tualatin Valley Hwy & Century",
-            "onestopId": "s-c20dffyedm-setualatinvalley~century",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.940595,
                     45.520007
                 ],
@@ -1227,32 +1191,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.921931,
-                    45.519817
+                    -122.94588,
+                    45.527198
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10049",
+                    "identifier": "f-trimet-s-9953",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "9953",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 9953)",
+                        "stop_id": "9953",
+                        "stop_lat": "45.527198",
+                        "stop_lon": "-122.94588",
+                        "stop_name": "Fair Complex/Airport Park & Ride",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9953",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Fair Complex/Airport Park & Ride",
+            "onestopId": "s-c20dfrcx1k-faircomplex~airportpark~ride",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.929273,
+                    45.519834
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10050",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10049",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10049)",
-                        "stop_id": "10049",
-                        "stop_lat": "45.519817",
-                        "stop_lon": "-122.921931",
-                        "stop_name": "W Baseline & SE 58th Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10049",
+                        "stop_code": "10050",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10050)",
+                        "stop_id": "10050",
+                        "stop_lat": "45.519834",
+                        "stop_lon": "-122.929273",
+                        "stop_name": "W Baseline & NE 53rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10050",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Baseline & SE 58th Ct",
-            "onestopId": "s-c20dfydupk-wbaseline~se58th",
+            "name": "W Baseline & NE 53rd",
+            "onestopId": "s-c20dfwtsk2-wbaseline~ne53rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

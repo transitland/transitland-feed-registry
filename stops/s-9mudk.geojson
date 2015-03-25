@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.204743706,
-                    32.750994494
+                    -117.233419729,
+                    32.7429744222
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12675",
+                    "identifier": "f-mtssandiego-s-11137",
                     "tags": {
-                        "intersection_code": "N-E/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12675",
-                        "stop_id": "12675",
-                        "stop_lat": "32.750994494",
-                        "stop_lon": "-117.204743706",
-                        "stop_name": "Rosecrans St & Sports Arena Bl",
-                        "stop_name_short": "Rosecrans&Sports Arena",
-                        "stop_place": "rosmid",
+                        "stop_code": "11137",
+                        "stop_id": "11137",
+                        "stop_lat": "32.7429744222",
+                        "stop_lon": "-117.233419729",
+                        "stop_name": "Voltaire St & San Clemente St",
+                        "stop_name_short": "Voltaire&San Clemente",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Rosecrans St & Sports Arena Bl",
-            "onestopId": "s-9mudkfnh7e-rosecrans~sportsarenabl",
+            "name": "Voltaire St & San Clemente St",
+            "onestopId": "s-9mudk29jxk-voltaire~sanclemente",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -867,32 +867,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.233419729,
-                    32.7429744222
+                    -117.204743706,
+                    32.750994494
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-11137",
+                    "identifier": "f-mtssandiego-s-12675",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "11137",
-                        "stop_id": "11137",
-                        "stop_lat": "32.7429744222",
-                        "stop_lon": "-117.233419729",
-                        "stop_name": "Voltaire St & San Clemente St",
-                        "stop_name_short": "Voltaire&San Clemente",
-                        "stop_place": "",
+                        "stop_code": "12675",
+                        "stop_id": "12675",
+                        "stop_lat": "32.750994494",
+                        "stop_lon": "-117.204743706",
+                        "stop_name": "Rosecrans St & Sports Arena Bl",
+                        "stop_name_short": "Rosecrans&Sports Arena",
+                        "stop_place": "rosmid",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Voltaire St & San Clemente St",
-            "onestopId": "s-9mudk29jxk-voltaire~sanclemente",
+            "name": "Rosecrans St & Sports Arena Bl",
+            "onestopId": "s-9mudkfnh7e-rosecrans~sportsarenabl",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -3027,42 +3027,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.23139265,
-                    32.7417234903
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-11138",
-                    "tags": {
-                        "intersection_code": "F-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "11138",
-                        "stop_id": "11138",
-                        "stop_lat": "32.7417234903",
-                        "stop_lon": "-117.23139265",
-                        "stop_name": "Voltaire St & Las Lomas St",
-                        "stop_name_short": "Voltaire&Las Lomas",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Voltaire St & Las Lomas St",
-            "onestopId": "s-9mudk26wqe-voltaire~laslomas",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.236374784,
                     32.7800505535
                 ],
@@ -3089,6 +3053,42 @@
             ],
             "name": "Ingraham St & Riviera Dr",
             "onestopId": "s-9mudkprjdk-ingraham~riviera",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.23139265,
+                    32.7417234903
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-11138",
+                    "tags": {
+                        "intersection_code": "F-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "11138",
+                        "stop_id": "11138",
+                        "stop_lat": "32.7417234903",
+                        "stop_lon": "-117.23139265",
+                        "stop_name": "Voltaire St & Las Lomas St",
+                        "stop_name_short": "Voltaire&Las Lomas",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Voltaire St & Las Lomas St",
+            "onestopId": "s-9mudk26wqe-voltaire~laslomas",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

@@ -147,32 +147,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.933759662,
-                    32.8078374209
+                    -116.931146545,
+                    32.800304563
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40464",
+                    "identifier": "f-mtssandiego-s-40466",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40464",
-                        "stop_id": "40464",
-                        "stop_lat": "32.8078374209",
-                        "stop_lon": "-116.933759662",
-                        "stop_name": "Broadway & Bostonia St",
-                        "stop_name_short": "Brdwy&Bostonia",
+                        "stop_code": "40466",
+                        "stop_id": "40466",
+                        "stop_lat": "32.800304563",
+                        "stop_lon": "-116.931146545",
+                        "stop_name": "Madison Av & Grape St",
+                        "stop_name_short": "Madison&Grape",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & Bostonia St",
-            "onestopId": "s-9mufeh7rtb-broadway~bostonia",
+            "name": "Madison Av & Grape St",
+            "onestopId": "s-9mufe5j7dg-madison~grape",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.918014198,
+                    32.7967071156
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-99131",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "99131",
+                        "stop_id": "99131",
+                        "stop_lat": "32.7967071156",
+                        "stop_lon": "-116.918014198",
+                        "stop_name": "4th St & Granite Hills Dr",
+                        "stop_name_short": "4th&Gte Hls",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "4th St & Granite Hills Dr",
+            "onestopId": "s-9mufe6qysv-4th~granitehills",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -219,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.93016122,
-                    32.792814915
+                    -116.925435814,
+                    32.7965595416
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40901",
+                    "identifier": "f-mtssandiego-s-40320",
                     "tags": {
                         "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40901",
-                        "stop_id": "40901",
-                        "stop_lat": "32.792814915",
-                        "stop_lon": "-116.93016122",
-                        "stop_name": "Lexington Av & Gina Av",
-                        "stop_name_short": "Lexington&Gina",
-                        "stop_place": "",
+                        "stop_code": "40320",
+                        "stop_id": "40320",
+                        "stop_lat": "32.7965595416",
+                        "stop_lon": "-116.925435814",
+                        "stop_name": "Melody Ln & Gull Pl (Adult Center)",
+                        "stop_name_short": "Melody&Gull (Adult Ctr)",
+                        "stop_place": "mel3rd",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lexington Av & Gina Av",
-            "onestopId": "s-9mufe1wpcz-lexington~gina",
+            "name": "Melody Ln & Gull Pl (Adult Center)",
+            "onestopId": "s-9mufe63mzc-melody~gullpladult",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -255,68 +291,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.932705799,
-                    32.7928063652
+                    -116.925776739,
+                    32.8045172458
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40317",
+                    "identifier": "f-mtssandiego-s-41266",
                     "tags": {
-                        "intersection_code": "N-W/B",
+                        "intersection_code": "M-Street-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40317",
-                        "stop_id": "40317",
-                        "stop_lat": "32.7928063652",
-                        "stop_lon": "-116.932705799",
-                        "stop_name": "Lexington Av & Ivory Av",
-                        "stop_name_short": "Lexington&Ivory",
+                        "stop_code": "41266",
+                        "stop_id": "41266",
+                        "stop_lat": "32.8045172458",
+                        "stop_lon": "-116.925776739",
+                        "stop_name": "E Main St & 1523",
+                        "stop_name_short": "E Main&1523",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lexington Av & Ivory Av",
-            "onestopId": "s-9mufe1spyq-lexington~ivory",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.923506128,
-                    32.8067751535
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-99128",
-                    "tags": {
-                        "intersection_code": "F-S/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "99128",
-                        "stop_id": "99128",
-                        "stop_lat": "32.8067751535",
-                        "stop_lon": "-116.923506128",
-                        "stop_name": "E Main St & Broadway",
-                        "stop_name_short": "E Main&Brdwy",
-                        "stop_place": "broemn",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "E Main St & Broadway",
-            "onestopId": "s-9mufek6ckf-emain~broadway",
+            "name": "E Main St & 1523",
+            "onestopId": "s-9mufe7chpv-emain~1523",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -399,32 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.937160488,
-                    32.8003042165
+                    -116.935858294,
+                    32.8161206691
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40459",
+                    "identifier": "f-mtssandiego-s-41106",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40459",
-                        "stop_id": "40459",
-                        "stop_lat": "32.8003042165",
-                        "stop_lon": "-116.937160488",
-                        "stop_name": "Madison Av & 2nd St",
-                        "stop_name_short": "Madison&2nd",
-                        "stop_place": "mad2nd",
+                        "stop_code": "41106",
+                        "stop_id": "41106",
+                        "stop_lat": "32.8161206691",
+                        "stop_lon": "-116.935858294",
+                        "stop_name": "2nd St & Dawnridge Av",
+                        "stop_name_short": "2nd&Dawnridge",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison Av & 2nd St",
-            "onestopId": "s-9mufe50gwe-madison~2nd",
+            "name": "2nd St & Dawnridge Av",
+            "onestopId": "s-9mufejczv0-2nd~dawnridge",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -471,6 +471,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -116.935556152,
+                    32.8082507233
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40860",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40860",
+                        "stop_id": "40860",
+                        "stop_lat": "32.8082507233",
+                        "stop_lon": "-116.935556152",
+                        "stop_name": "2nd St & Broadway",
+                        "stop_name_short": "2nd&Brdwy",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "2nd St & Broadway",
+            "onestopId": "s-9mufehd1uj-2nd~broadway",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.935559679,
+                    32.8095397371
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40861",
+                    "tags": {
+                        "intersection_code": "N-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40861",
+                        "stop_id": "40861",
+                        "stop_lat": "32.8095397371",
+                        "stop_lon": "-116.935559679",
+                        "stop_name": "2nd St & Sumner Av",
+                        "stop_name_short": "2nd&Sumner",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "2nd St & Sumner Av",
+            "onestopId": "s-9mufehf17v-2nd~sumner",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -116.903916799,
                     32.8247042684
                 ],
@@ -497,42 +569,6 @@
             ],
             "name": "Camino Canada & 13439",
             "onestopId": "s-9mufez91v2-caminocanada~13439",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.918199755,
-                    32.7997184334
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40686",
-                    "tags": {
-                        "intersection_code": "F-S/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40686",
-                        "stop_id": "40686",
-                        "stop_lat": "32.7997184334",
-                        "stop_lon": "-116.918199755",
-                        "stop_name": "4th St & Madison Av (Granite Hills Hs)",
-                        "stop_name_short": "4th&Madison (Gte Hls Hs)",
-                        "stop_place": "mad4th",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "4th St & Madison Av (Granite Hills Hs)",
-            "onestopId": "s-9mufe7nb0q-4th~madisongranitehillshs",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -579,68 +615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.935858294,
-                    32.8161206691
+                    -116.933278772,
+                    32.7924211575
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-41106",
+                    "identifier": "f-mtssandiego-s-99120",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "41106",
-                        "stop_id": "41106",
-                        "stop_lat": "32.8161206691",
-                        "stop_lon": "-116.935858294",
-                        "stop_name": "2nd St & Dawnridge Av",
-                        "stop_name_short": "2nd&Dawnridge",
-                        "stop_place": "",
+                        "stop_code": "99120",
+                        "stop_id": "99120",
+                        "stop_lat": "32.7924211575",
+                        "stop_lon": "-116.933278772",
+                        "stop_name": "Jamacha Rd & Lexington Av",
+                        "stop_name_short": "Jamacha&Lexington",
+                        "stop_place": "lexjam",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "2nd St & Dawnridge Av",
-            "onestopId": "s-9mufejczv0-2nd~dawnridge",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.925776739,
-                    32.8045172458
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-41266",
-                    "tags": {
-                        "intersection_code": "M-Street-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "41266",
-                        "stop_id": "41266",
-                        "stop_lat": "32.8045172458",
-                        "stop_lon": "-116.925776739",
-                        "stop_name": "E Main St & 1523",
-                        "stop_name_short": "E Main&1523",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "E Main St & 1523",
-            "onestopId": "s-9mufe7chpv-emain~1523",
+            "name": "Jamacha Rd & Lexington Av",
+            "onestopId": "s-9mufe1ev9n-jamacha~lexington",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -795,32 +795,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.928911938,
-                    32.7877838452
+                    -116.931395946,
+                    32.8001520208
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40468",
+                    "identifier": "f-mtssandiego-s-40086",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40468",
-                        "stop_id": "40468",
-                        "stop_lat": "32.7877838452",
-                        "stop_lon": "-116.928911938",
-                        "stop_name": "Washington Av & Jamacha Rd",
-                        "stop_name_short": "Wshngtn&Jamacha",
-                        "stop_place": "wasjam",
+                        "stop_code": "40086",
+                        "stop_id": "40086",
+                        "stop_lat": "32.8001520208",
+                        "stop_lon": "-116.931395946",
+                        "stop_name": "Madison Av & E Main St",
+                        "stop_name_short": "Madison&E Main",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Washington Av & Jamacha Rd",
-            "onestopId": "s-9mufe0yfwv-washington~jamacha",
+            "name": "Madison Av & E Main St",
+            "onestopId": "s-9mufe5j4sz-madison~emain",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -831,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.937266481,
-                    32.8001249758
+                    -116.928201452,
+                    32.7880571011
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40084",
+                    "identifier": "f-mtssandiego-s-99119",
                     "tags": {
-                        "intersection_code": "N-E/B",
+                        "intersection_code": "F-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40084",
-                        "stop_id": "40084",
-                        "stop_lat": "32.8001249758",
-                        "stop_lon": "-116.937266481",
-                        "stop_name": "Madison Av & 2nd St",
-                        "stop_name_short": "Madison&2nd",
-                        "stop_place": "mad2nd",
+                        "stop_code": "99119",
+                        "stop_id": "99119",
+                        "stop_lat": "32.7880571011",
+                        "stop_lon": "-116.928201452",
+                        "stop_name": "Jamacha Rd & Washington Av",
+                        "stop_name_short": "Jamacha&Wshngtn",
+                        "stop_place": "wasjam",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison Av & 2nd St",
-            "onestopId": "s-9mufe50fs4-madison~2nd",
+            "name": "Jamacha Rd & Washington Av",
+            "onestopId": "s-9mufe0zkr2-jamacha~washington",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -903,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.935561726,
-                    32.7968445335
+                    -116.933344138,
+                    32.8239100347
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-41262",
+                    "identifier": "f-mtssandiego-s-40746",
                     "tags": {
-                        "intersection_code": "M-Street-N/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "41262",
-                        "stop_id": "41262",
-                        "stop_lat": "32.7968445335",
-                        "stop_lon": "-116.935561726",
-                        "stop_name": "S 2nd St & E Main St",
-                        "stop_name_short": "S 2nd&E Main",
-                        "stop_place": "2ndemn",
-                        "wheelchair_boarding": "1"
+                        "stop_code": "40746",
+                        "stop_id": "40746",
+                        "stop_lat": "32.8239100347",
+                        "stop_lon": "-116.933344138",
+                        "stop_name": "Winter Gardens Bl & Royal Rd",
+                        "stop_name_short": "Wtr Gdns&Royal",
+                        "stop_place": "",
+                        "wheelchair_boarding": "2"
                     }
                 }
             ],
-            "name": "S 2nd St & E Main St",
-            "onestopId": "s-9mufe46p7y-s2nd~emain",
+            "name": "Winter Gardens Bl & Royal Rd",
+            "onestopId": "s-9mufep7tps-wintergardensbl~royal",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -975,32 +975,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.914255772,
-                    32.8208836848
+                    -116.935566405,
+                    32.8137476104
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40688",
+                    "identifier": "f-mtssandiego-s-41103",
                     "tags": {
-                        "intersection_code": "N-S/B",
+                        "intersection_code": "F-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40688",
-                        "stop_id": "40688",
-                        "stop_lat": "32.8208836848",
-                        "stop_lon": "-116.914255772",
-                        "stop_name": "E Main St & Lavala Ln",
-                        "stop_name_short": "E Main&Lavala",
+                        "stop_code": "41103",
+                        "stop_id": "41103",
+                        "stop_lat": "32.8137476104",
+                        "stop_lon": "-116.935566405",
+                        "stop_name": "2nd St & Greenfield Dr",
+                        "stop_name_short": "2nd&Greenfield",
                         "stop_place": "",
-                        "wheelchair_boarding": "2"
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "E Main St & Lavala Ln",
-            "onestopId": "s-9mufewces2-emain~lavala",
+            "name": "2nd St & Greenfield Dr",
+            "onestopId": "s-9mufejd1gv-2nd~greenfield",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1037,6 +1037,42 @@
             ],
             "name": "E Main St & Pepper Dr",
             "onestopId": "s-9mufetbjt0-emain~pepper",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.913918462,
+                    32.82104491
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40878",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40878",
+                        "stop_id": "40878",
+                        "stop_lat": "32.82104491",
+                        "stop_lon": "-116.913918462",
+                        "stop_name": "E Main St & Lavala Ln",
+                        "stop_name_short": "E Main&Lavala",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "E Main St & Lavala Ln",
+            "onestopId": "s-9mufewcukn-emain~lavala",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1119,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.931395946,
-                    32.8001520208
+                    -116.932705799,
+                    32.7928063652
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40086",
+                    "identifier": "f-mtssandiego-s-40317",
                     "tags": {
-                        "intersection_code": "N-E/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40086",
-                        "stop_id": "40086",
-                        "stop_lat": "32.8001520208",
-                        "stop_lon": "-116.931395946",
-                        "stop_name": "Madison Av & E Main St",
-                        "stop_name_short": "Madison&E Main",
+                        "stop_code": "40317",
+                        "stop_id": "40317",
+                        "stop_lat": "32.7928063652",
+                        "stop_lon": "-116.932705799",
+                        "stop_name": "Lexington Av & Ivory Av",
+                        "stop_name_short": "Lexington&Ivory",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison Av & E Main St",
-            "onestopId": "s-9mufe5j4sz-madison~emain",
+            "name": "Lexington Av & Ivory Av",
+            "onestopId": "s-9mufe1spyq-lexington~ivory",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1227,176 +1263,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.935864223,
-                    32.7964085946
+                    -116.937160488,
+                    32.8003042165
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-41272",
+                    "identifier": "f-mtssandiego-s-40459",
                     "tags": {
-                        "intersection_code": "N-S/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "41272",
-                        "stop_id": "41272",
-                        "stop_lat": "32.7964085946",
-                        "stop_lon": "-116.935864223",
-                        "stop_name": "S 2nd St & E Main St",
-                        "stop_name_short": "S 2nd&E Main",
-                        "stop_place": "2ndemn",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "S 2nd St & E Main St",
-            "onestopId": "s-9mufe43uuv-s2nd~emain",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.913918462,
-                    32.82104491
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40878",
-                    "tags": {
-                        "intersection_code": "F-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40878",
-                        "stop_id": "40878",
-                        "stop_lat": "32.82104491",
-                        "stop_lon": "-116.913918462",
-                        "stop_name": "E Main St & Lavala Ln",
-                        "stop_name_short": "E Main&Lavala",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "E Main St & Lavala Ln",
-            "onestopId": "s-9mufewcukn-emain~lavala",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.931146545,
-                    32.800304563
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40466",
-                    "tags": {
-                        "intersection_code": "N-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40466",
-                        "stop_id": "40466",
-                        "stop_lat": "32.800304563",
-                        "stop_lon": "-116.931146545",
-                        "stop_name": "Madison Av & Grape St",
-                        "stop_name_short": "Madison&Grape",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Madison Av & Grape St",
-            "onestopId": "s-9mufe5j7dg-madison~grape",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.936791297,
-                    32.7876000841
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40213",
-                    "tags": {
-                        "intersection_code": "F-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40213",
-                        "stop_id": "40213",
-                        "stop_lat": "32.7876000841",
-                        "stop_lon": "-116.936791297",
-                        "stop_name": "Washington Av & 2nd St",
-                        "stop_name_short": "Wshngtn&2nd",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Washington Av & 2nd St",
-            "onestopId": "s-9mufe0c1x7-washington~2nd",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.934752089,
-                    32.8002763715
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40315",
-                    "tags": {
-                        "intersection_code": "N-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40315",
-                        "stop_id": "40315",
-                        "stop_lat": "32.8002763715",
-                        "stop_lon": "-116.934752089",
+                        "stop_code": "40459",
+                        "stop_id": "40459",
+                        "stop_lat": "32.8003042165",
+                        "stop_lon": "-116.937160488",
                         "stop_name": "Madison Av & 2nd St",
                         "stop_name_short": "Madison&2nd",
-                        "stop_place": "",
+                        "stop_place": "mad2nd",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
             "name": "Madison Av & 2nd St",
-            "onestopId": "s-9mufe54eqy-madison~2nd",
+            "onestopId": "s-9mufe50gwe-madison~2nd",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1407,104 +1299,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.929611096,
-                    32.7889948219
+                    -116.929301458,
+                    32.8011612585
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40566",
+                    "identifier": "f-mtssandiego-s-41265",
                     "tags": {
-                        "intersection_code": "N-S/B",
+                        "intersection_code": "M-Street-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40566",
-                        "stop_id": "40566",
-                        "stop_lat": "32.7889948219",
-                        "stop_lon": "-116.929611096",
-                        "stop_name": "Jamacha Rd & Washington Av",
-                        "stop_name_short": "Jamacha&Wshngtn",
+                        "stop_code": "41265",
+                        "stop_id": "41265",
+                        "stop_lat": "32.8011612585",
+                        "stop_lon": "-116.929301458",
+                        "stop_name": "E Main St & Oakdale Av",
+                        "stop_name_short": "E Main&Oakdale",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jamacha Rd & Washington Av",
-            "onestopId": "s-9mufe1n3wx-jamacha~washington",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.913075591,
-                    32.8236632321
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-41034",
-                    "tags": {
-                        "intersection_code": "N-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "41034",
-                        "stop_id": "41034",
-                        "stop_lat": "32.8236632321",
-                        "stop_lon": "-116.913075591",
-                        "stop_name": "Business 8 & Aurora Dr",
-                        "stop_name_short": "Bus 8&Aurora",
-                        "stop_place": "",
-                        "wheelchair_boarding": "2"
-                    }
-                }
-            ],
-            "name": "Business 8 & Aurora Dr",
-            "onestopId": "s-9mufex67xy-business8~aurora",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.933364104,
-                    32.8076114878
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40216",
-                    "tags": {
-                        "intersection_code": "F-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40216",
-                        "stop_id": "40216",
-                        "stop_lat": "32.8076114878",
-                        "stop_lon": "-116.933364104",
-                        "stop_name": "Broadway & Bostonia St",
-                        "stop_name_short": "Brdwy&Bostonia",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Broadway & Bostonia St",
-            "onestopId": "s-9mufeh7wpn-broadway~bostonia",
+            "name": "E Main St & Oakdale Av",
+            "onestopId": "s-9mufe5q8tg-emain~oakdale",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1551,6 +1371,150 @@
         {
             "geometry": {
                 "coordinates": [
+                    -116.919065366,
+                    32.8112793035
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-41032",
+                    "tags": {
+                        "intersection_code": "N-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "41032",
+                        "stop_id": "41032",
+                        "stop_lat": "32.8112793035",
+                        "stop_lon": "-116.919065366",
+                        "stop_name": "E Main St & Greenfield Dr",
+                        "stop_name_short": "E Main&Greenfield",
+                        "stop_place": "emagre",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "E Main St & Greenfield Dr",
+            "onestopId": "s-9mufemn5s3-emain~greenfield",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.929611096,
+                    32.7889948219
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40566",
+                    "tags": {
+                        "intersection_code": "N-S/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40566",
+                        "stop_id": "40566",
+                        "stop_lat": "32.7889948219",
+                        "stop_lon": "-116.929611096",
+                        "stop_name": "Jamacha Rd & Washington Av",
+                        "stop_name_short": "Jamacha&Wshngtn",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Jamacha Rd & Washington Av",
+            "onestopId": "s-9mufe1n3wx-jamacha~washington",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.933364104,
+                    32.8076114878
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40216",
+                    "tags": {
+                        "intersection_code": "F-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40216",
+                        "stop_id": "40216",
+                        "stop_lat": "32.8076114878",
+                        "stop_lon": "-116.933364104",
+                        "stop_name": "Broadway & Bostonia St",
+                        "stop_name_short": "Brdwy&Bostonia",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Broadway & Bostonia St",
+            "onestopId": "s-9mufeh7wpn-broadway~bostonia",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.93016122,
+                    32.792814915
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40901",
+                    "tags": {
+                        "intersection_code": "N-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40901",
+                        "stop_id": "40901",
+                        "stop_lat": "32.792814915",
+                        "stop_lon": "-116.93016122",
+                        "stop_name": "Lexington Av & Gina Av",
+                        "stop_name_short": "Lexington&Gina",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Lexington Av & Gina Av",
+            "onestopId": "s-9mufe1wpcz-lexington~gina",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -116.929323961,
                     32.800281624
                 ],
@@ -1587,32 +1551,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.937677825,
-                    32.7877902898
+                    -116.913075591,
+                    32.8236632321
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40455",
+                    "identifier": "f-mtssandiego-s-41034",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40455",
-                        "stop_id": "40455",
-                        "stop_lat": "32.7877902898",
-                        "stop_lon": "-116.937677825",
-                        "stop_name": "Washington Av & South 2nd St",
-                        "stop_name_short": "Wshngtn&S2nd",
+                        "stop_code": "41034",
+                        "stop_id": "41034",
+                        "stop_lat": "32.8236632321",
+                        "stop_lon": "-116.913075591",
+                        "stop_name": "Business 8 & Aurora Dr",
+                        "stop_name_short": "Bus 8&Aurora",
                         "stop_place": "",
-                        "wheelchair_boarding": "1"
+                        "wheelchair_boarding": "2"
                     }
                 }
             ],
-            "name": "Washington Av & South 2nd St",
-            "onestopId": "s-9mufe0bddx-washington~south2nd",
+            "name": "Business 8 & Aurora Dr",
+            "onestopId": "s-9mufex67xy-business8~aurora",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1659,32 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.936604168,
-                    32.8078381256
+                    -116.928911938,
+                    32.7877838452
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40460",
+                    "identifier": "f-mtssandiego-s-40468",
                     "tags": {
                         "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40460",
-                        "stop_id": "40460",
-                        "stop_lat": "32.8078381256",
-                        "stop_lon": "-116.936604168",
-                        "stop_name": "Broadway & 2nd St",
-                        "stop_name_short": "Brdwy&2nd",
-                        "stop_place": "",
+                        "stop_code": "40468",
+                        "stop_id": "40468",
+                        "stop_lat": "32.7877838452",
+                        "stop_lon": "-116.928911938",
+                        "stop_name": "Washington Av & Jamacha Rd",
+                        "stop_name_short": "Wshngtn&Jamacha",
+                        "stop_place": "wasjam",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & 2nd St",
-            "onestopId": "s-9mufeh3re8-broadway~2nd",
+            "name": "Washington Av & Jamacha Rd",
+            "onestopId": "s-9mufe0yfwv-washington~jamacha",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1695,32 +1659,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.935559679,
-                    32.8095397371
+                    -116.935864223,
+                    32.7964085946
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40861",
+                    "identifier": "f-mtssandiego-s-41272",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "N-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40861",
-                        "stop_id": "40861",
-                        "stop_lat": "32.8095397371",
-                        "stop_lon": "-116.935559679",
-                        "stop_name": "2nd St & Sumner Av",
-                        "stop_name_short": "2nd&Sumner",
-                        "stop_place": "",
+                        "stop_code": "41272",
+                        "stop_id": "41272",
+                        "stop_lat": "32.7964085946",
+                        "stop_lon": "-116.935864223",
+                        "stop_name": "S 2nd St & E Main St",
+                        "stop_name_short": "S 2nd&E Main",
+                        "stop_place": "2ndemn",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "2nd St & Sumner Av",
-            "onestopId": "s-9mufehf17v-2nd~sumner",
+            "name": "S 2nd St & E Main St",
+            "onestopId": "s-9mufe43uuv-s2nd~emain",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1767,32 +1731,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.928201452,
-                    32.7880571011
+                    -116.937266481,
+                    32.8001249758
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-99119",
+                    "identifier": "f-mtssandiego-s-40084",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "99119",
-                        "stop_id": "99119",
-                        "stop_lat": "32.7880571011",
-                        "stop_lon": "-116.928201452",
-                        "stop_name": "Jamacha Rd & Washington Av",
-                        "stop_name_short": "Jamacha&Wshngtn",
-                        "stop_place": "wasjam",
+                        "stop_code": "40084",
+                        "stop_id": "40084",
+                        "stop_lat": "32.8001249758",
+                        "stop_lon": "-116.937266481",
+                        "stop_name": "Madison Av & 2nd St",
+                        "stop_name_short": "Madison&2nd",
+                        "stop_place": "mad2nd",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jamacha Rd & Washington Av",
-            "onestopId": "s-9mufe0zkr2-jamacha~washington",
+            "name": "Madison Av & 2nd St",
+            "onestopId": "s-9mufe50fs4-madison~2nd",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1829,42 +1793,6 @@
             ],
             "name": "Winter Gardens Bl & Orchard Rd",
             "onestopId": "s-9mufepeech-wintergardensbl~orchard",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.935526215,
-                    32.8048235449
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-99413",
-                    "tags": {
-                        "intersection_code": "M-Street-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "99413",
-                        "stop_id": "99413",
-                        "stop_lat": "32.8048235449",
-                        "stop_lon": "-116.935526215",
-                        "stop_name": "2nd St & Marline Av",
-                        "stop_name_short": "2nd&Marline",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "2nd St & Marline Av",
-            "onestopId": "s-9mufe5fjuw-2nd~marline",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1947,6 +1875,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -116.923506128,
+                    32.8067751535
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-99128",
+                    "tags": {
+                        "intersection_code": "F-S/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "99128",
+                        "stop_id": "99128",
+                        "stop_lat": "32.8067751535",
+                        "stop_lon": "-116.923506128",
+                        "stop_name": "E Main St & Broadway",
+                        "stop_name_short": "E Main&Brdwy",
+                        "stop_place": "broemn",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "E Main St & Broadway",
+            "onestopId": "s-9mufek6ckf-emain~broadway",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -116.931658023,
                     32.7907068266
                 ],
@@ -1973,42 +1937,6 @@
             ],
             "name": "Jamacha Rd & Sunnyland Av",
             "onestopId": "s-9mufe1kgwy-jamacha~sunnyland",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.91876282,
-                    32.8121549558
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40685",
-                    "tags": {
-                        "intersection_code": "F-S/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40685",
-                        "stop_id": "40685",
-                        "stop_lat": "32.8121549558",
-                        "stop_lon": "-116.91876282",
-                        "stop_name": "E Main St & Greenfield Dr",
-                        "stop_name_short": "E Main&Greenfield",
-                        "stop_place": "emagre",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "E Main St & Greenfield Dr",
-            "onestopId": "s-9mufemq2em-emain~greenfield",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2055,32 +1983,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.919065366,
-                    32.8112793035
+                    -116.934752089,
+                    32.8002763715
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-41032",
+                    "identifier": "f-mtssandiego-s-40315",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "41032",
-                        "stop_id": "41032",
-                        "stop_lat": "32.8112793035",
-                        "stop_lon": "-116.919065366",
-                        "stop_name": "E Main St & Greenfield Dr",
-                        "stop_name_short": "E Main&Greenfield",
-                        "stop_place": "emagre",
+                        "stop_code": "40315",
+                        "stop_id": "40315",
+                        "stop_lat": "32.8002763715",
+                        "stop_lon": "-116.934752089",
+                        "stop_name": "Madison Av & 2nd St",
+                        "stop_name_short": "Madison&2nd",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "E Main St & Greenfield Dr",
-            "onestopId": "s-9mufemn5s3-emain~greenfield",
+            "name": "Madison Av & 2nd St",
+            "onestopId": "s-9mufe54eqy-madison~2nd",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2091,32 +2019,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.935556152,
-                    32.8082507233
+                    -116.935526215,
+                    32.8048235449
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40860",
+                    "identifier": "f-mtssandiego-s-99413",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "M-Street-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40860",
-                        "stop_id": "40860",
-                        "stop_lat": "32.8082507233",
-                        "stop_lon": "-116.935556152",
-                        "stop_name": "2nd St & Broadway",
-                        "stop_name_short": "2nd&Brdwy",
+                        "stop_code": "99413",
+                        "stop_id": "99413",
+                        "stop_lat": "32.8048235449",
+                        "stop_lon": "-116.935526215",
+                        "stop_name": "2nd St & Marline Av",
+                        "stop_name_short": "2nd&Marline",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "2nd St & Broadway",
-            "onestopId": "s-9mufehd1uj-2nd~broadway",
+            "name": "2nd St & Marline Av",
+            "onestopId": "s-9mufe5fjuw-2nd~marline",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.921384785,
+                    32.8081362061
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-99242",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "99242",
+                        "stop_id": "99242",
+                        "stop_lat": "32.8081362061",
+                        "stop_lon": "-116.921384785",
+                        "stop_name": "E Main St & Broadway",
+                        "stop_name_short": "E Main&Brdwy",
+                        "stop_place": "broemn",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "E Main St & Broadway",
+            "onestopId": "s-9mufeks3nr-emain~broadway",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2235,42 +2199,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.929301458,
-                    32.8011612585
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-41265",
-                    "tags": {
-                        "intersection_code": "M-Street-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "41265",
-                        "stop_id": "41265",
-                        "stop_lat": "32.8011612585",
-                        "stop_lon": "-116.929301458",
-                        "stop_name": "E Main St & Oakdale Av",
-                        "stop_name_short": "E Main&Oakdale",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "E Main St & Oakdale Av",
-            "onestopId": "s-9mufe5q8tg-emain~oakdale",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -116.933909547,
                     32.8212683719
                 ],
@@ -2379,32 +2307,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.935566405,
-                    32.8137476104
+                    -116.936791297,
+                    32.7876000841
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-41103",
+                    "identifier": "f-mtssandiego-s-40213",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "F-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "41103",
-                        "stop_id": "41103",
-                        "stop_lat": "32.8137476104",
-                        "stop_lon": "-116.935566405",
-                        "stop_name": "2nd St & Greenfield Dr",
-                        "stop_name_short": "2nd&Greenfield",
+                        "stop_code": "40213",
+                        "stop_id": "40213",
+                        "stop_lat": "32.7876000841",
+                        "stop_lon": "-116.936791297",
+                        "stop_name": "Washington Av & 2nd St",
+                        "stop_name_short": "Wshngtn&2nd",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "2nd St & Greenfield Dr",
-            "onestopId": "s-9mufejd1gv-2nd~greenfield",
+            "name": "Washington Av & 2nd St",
+            "onestopId": "s-9mufe0c1x7-washington~2nd",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.914255772,
+                    32.8208836848
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40688",
+                    "tags": {
+                        "intersection_code": "N-S/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40688",
+                        "stop_id": "40688",
+                        "stop_lat": "32.8208836848",
+                        "stop_lon": "-116.914255772",
+                        "stop_name": "E Main St & Lavala Ln",
+                        "stop_name_short": "E Main&Lavala",
+                        "stop_place": "",
+                        "wheelchair_boarding": "2"
+                    }
+                }
+            ],
+            "name": "E Main St & Lavala Ln",
+            "onestopId": "s-9mufewces2-emain~lavala",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2451,32 +2415,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.932997367,
-                    32.7876046443
+                    -116.937677825,
+                    32.7877902898
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40219",
+                    "identifier": "f-mtssandiego-s-40455",
                     "tags": {
-                        "intersection_code": "F-E/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40219",
-                        "stop_id": "40219",
-                        "stop_lat": "32.7876046443",
-                        "stop_lon": "-116.932997367",
-                        "stop_name": "Washington Av & Dorothy St",
-                        "stop_name_short": "Wshngtn&Dorothy",
+                        "stop_code": "40455",
+                        "stop_id": "40455",
+                        "stop_lat": "32.7877902898",
+                        "stop_lon": "-116.937677825",
+                        "stop_name": "Washington Av & South 2nd St",
+                        "stop_name_short": "Wshngtn&S2nd",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Washington Av & Dorothy St",
-            "onestopId": "s-9mufe0gcxs-washington~dorothy",
+            "name": "Washington Av & South 2nd St",
+            "onestopId": "s-9mufe0bddx-washington~south2nd",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2523,42 +2487,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.925435814,
-                    32.7965595416
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40320",
-                    "tags": {
-                        "intersection_code": "N-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40320",
-                        "stop_id": "40320",
-                        "stop_lat": "32.7965595416",
-                        "stop_lon": "-116.925435814",
-                        "stop_name": "Melody Ln & Gull Pl (Adult Center)",
-                        "stop_name_short": "Melody&Gull (Adult Ctr)",
-                        "stop_place": "mel3rd",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Melody Ln & Gull Pl (Adult Center)",
-            "onestopId": "s-9mufe63mzc-melody~gullpladult",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -116.928853294,
                     32.8076143848
                 ],
@@ -2595,32 +2523,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.9291395,
-                    32.8016816106
+                    -116.936604168,
+                    32.8078381256
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-41269",
+                    "identifier": "f-mtssandiego-s-40460",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "41269",
-                        "stop_id": "41269",
-                        "stop_lat": "32.8016816106",
-                        "stop_lon": "-116.9291395",
-                        "stop_name": "E Main St & Oakdale Av",
-                        "stop_name_short": "E Main&Oakdale",
+                        "stop_code": "40460",
+                        "stop_id": "40460",
+                        "stop_lat": "32.8078381256",
+                        "stop_lon": "-116.936604168",
+                        "stop_name": "Broadway & 2nd St",
+                        "stop_name_short": "Brdwy&2nd",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "E Main St & Oakdale Av",
-            "onestopId": "s-9mufe5qg9s-emain~oakdale",
+            "name": "Broadway & 2nd St",
+            "onestopId": "s-9mufeh3re8-broadway~2nd",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2667,32 +2595,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.933344138,
-                    32.8239100347
+                    -116.935561726,
+                    32.7968445335
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40746",
+                    "identifier": "f-mtssandiego-s-41262",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "M-Street-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40746",
-                        "stop_id": "40746",
-                        "stop_lat": "32.8239100347",
-                        "stop_lon": "-116.933344138",
-                        "stop_name": "Winter Gardens Bl & Royal Rd",
-                        "stop_name_short": "Wtr Gdns&Royal",
-                        "stop_place": "",
-                        "wheelchair_boarding": "2"
+                        "stop_code": "41262",
+                        "stop_id": "41262",
+                        "stop_lat": "32.7968445335",
+                        "stop_lon": "-116.935561726",
+                        "stop_name": "S 2nd St & E Main St",
+                        "stop_name_short": "S 2nd&E Main",
+                        "stop_place": "2ndemn",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Winter Gardens Bl & Royal Rd",
-            "onestopId": "s-9mufep7tps-wintergardensbl~royal",
+            "name": "S 2nd St & E Main St",
+            "onestopId": "s-9mufe46p7y-s2nd~emain",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2739,32 +2667,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.921384785,
-                    32.8081362061
+                    -116.918199755,
+                    32.7997184334
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-99242",
+                    "identifier": "f-mtssandiego-s-40686",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "99242",
-                        "stop_id": "99242",
-                        "stop_lat": "32.8081362061",
-                        "stop_lon": "-116.921384785",
-                        "stop_name": "E Main St & Broadway",
-                        "stop_name_short": "E Main&Brdwy",
-                        "stop_place": "broemn",
+                        "stop_code": "40686",
+                        "stop_id": "40686",
+                        "stop_lat": "32.7997184334",
+                        "stop_lon": "-116.918199755",
+                        "stop_name": "4th St & Madison Av (Granite Hills Hs)",
+                        "stop_name_short": "4th&Madison (Gte Hls Hs)",
+                        "stop_place": "mad4th",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "E Main St & Broadway",
-            "onestopId": "s-9mufeks3nr-emain~broadway",
+            "name": "4th St & Madison Av (Granite Hills Hs)",
+            "onestopId": "s-9mufe7nb0q-4th~madisongranitehillshs",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2811,32 +2739,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.918014198,
-                    32.7967071156
+                    -116.9291395,
+                    32.8016816106
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-99131",
+                    "identifier": "f-mtssandiego-s-41269",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "99131",
-                        "stop_id": "99131",
-                        "stop_lat": "32.7967071156",
-                        "stop_lon": "-116.918014198",
-                        "stop_name": "4th St & Granite Hills Dr",
-                        "stop_name_short": "4th&Gte Hls",
+                        "stop_code": "41269",
+                        "stop_id": "41269",
+                        "stop_lat": "32.8016816106",
+                        "stop_lon": "-116.9291395",
+                        "stop_name": "E Main St & Oakdale Av",
+                        "stop_name_short": "E Main&Oakdale",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "4th St & Granite Hills Dr",
-            "onestopId": "s-9mufe6qysv-4th~granitehills",
+            "name": "E Main St & Oakdale Av",
+            "onestopId": "s-9mufe5qg9s-emain~oakdale",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.932997367,
+                    32.7876046443
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40219",
+                    "tags": {
+                        "intersection_code": "F-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40219",
+                        "stop_id": "40219",
+                        "stop_lat": "32.7876046443",
+                        "stop_lon": "-116.932997367",
+                        "stop_name": "Washington Av & Dorothy St",
+                        "stop_name_short": "Wshngtn&Dorothy",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Washington Av & Dorothy St",
+            "onestopId": "s-9mufe0gcxs-washington~dorothy",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2873,6 +2837,42 @@
             ],
             "name": "Winter Gardens Bl & Royal Rd",
             "onestopId": "s-9mufep799r-wintergardensbl~royal",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.933759662,
+                    32.8078374209
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40464",
+                    "tags": {
+                        "intersection_code": "F-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40464",
+                        "stop_id": "40464",
+                        "stop_lat": "32.8078374209",
+                        "stop_lon": "-116.933759662",
+                        "stop_name": "Broadway & Bostonia St",
+                        "stop_name_short": "Brdwy&Bostonia",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Broadway & Bostonia St",
+            "onestopId": "s-9mufeh7rtb-broadway~bostonia",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2991,32 +2991,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.933278772,
-                    32.7924211575
+                    -116.91876282,
+                    32.8121549558
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-99120",
+                    "identifier": "f-mtssandiego-s-40685",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "99120",
-                        "stop_id": "99120",
-                        "stop_lat": "32.7924211575",
-                        "stop_lon": "-116.933278772",
-                        "stop_name": "Jamacha Rd & Lexington Av",
-                        "stop_name_short": "Jamacha&Lexington",
-                        "stop_place": "lexjam",
+                        "stop_code": "40685",
+                        "stop_id": "40685",
+                        "stop_lat": "32.8121549558",
+                        "stop_lon": "-116.91876282",
+                        "stop_name": "E Main St & Greenfield Dr",
+                        "stop_name_short": "E Main&Greenfield",
+                        "stop_place": "emagre",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jamacha Rd & Lexington Av",
-            "onestopId": "s-9mufe1ev9n-jamacha~lexington",
+            "name": "E Main St & Greenfield Dr",
+            "onestopId": "s-9mufemq2em-emain~greenfield",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

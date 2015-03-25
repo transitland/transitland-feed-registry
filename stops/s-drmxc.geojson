@@ -178,31 +178,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.955167,
-                    42.171858
+                    -70.955265,
+                    42.178835
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-13830",
+                    "identifier": "f-mbta-s-13832",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13830",
+                        "stop_code": "13832",
                         "stop_desc": "",
-                        "stop_id": "13830",
-                        "stop_lat": "42.171858",
-                        "stop_lon": "-70.955167",
-                        "stop_name": "Pleasant St @ Main St",
+                        "stop_id": "13832",
+                        "stop_lat": "42.178835",
+                        "stop_lon": "-70.955265",
+                        "stop_name": "780 Main St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Pleasant St @ Main St",
-            "onestopId": "s-drmxcmhhbu-pleasant~main",
+            "name": "780 Main St",
+            "onestopId": "s-drmxcq7vw2-780main",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -283,31 +283,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.955265,
-                    42.178835
+                    -70.955589,
+                    42.187111
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-13832",
+                    "identifier": "f-mbta-s-13825",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13832",
+                        "stop_code": "13825",
                         "stop_desc": "",
-                        "stop_id": "13832",
-                        "stop_lat": "42.178835",
-                        "stop_lon": "-70.955265",
-                        "stop_name": "780 Main St",
+                        "stop_id": "13825",
+                        "stop_lat": "42.187111",
+                        "stop_lon": "-70.955589",
+                        "stop_name": "561 Main St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "780 Main St",
-            "onestopId": "s-drmxcq7vw2-780main",
+            "name": "561 Main St",
+            "onestopId": "s-drmxcrgtwz-561main",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -353,31 +353,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.955589,
-                    42.187111
+                    -70.953302,
+                    42.155025
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-13825",
+                    "identifier": "f-mbta-s-South Weymouth",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13825",
+                        "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "13825",
-                        "stop_lat": "42.187111",
-                        "stop_lon": "-70.955589",
-                        "stop_name": "561 Main St",
+                        "stop_id": "South Weymouth",
+                        "stop_lat": "42.155025",
+                        "stop_lon": "-70.953302",
+                        "stop_name": "South Weymouth",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "South Weymouth",
+            "onestopId": "s-drmxc6j6u4-southweymouth",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.955167,
+                    42.171858
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-13830",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "13830",
+                        "stop_desc": "",
+                        "stop_id": "13830",
+                        "stop_lat": "42.171858",
+                        "stop_lon": "-70.955167",
+                        "stop_name": "Pleasant St @ Main St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "561 Main St",
-            "onestopId": "s-drmxcrgtwz-561main",
+            "name": "Pleasant St @ Main St",
+            "onestopId": "s-drmxcmhhbu-pleasant~main",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -413,41 +448,6 @@
             ],
             "name": "Main St @ Bayley Terrace",
             "onestopId": "s-drmxcqezm9-main~bayleyterrace",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -70.953302,
-                    42.155025
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-South Weymouth",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "South Weymouth",
-                        "stop_lat": "42.155025",
-                        "stop_lon": "-70.953302",
-                        "stop_name": "South Weymouth",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "South Weymouth",
-            "onestopId": "s-drmxc6j6u4-southweymouth",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

@@ -135,29 +135,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61522864,
-                    41.76939966
+                    -87.61358018,
+                    41.76935439
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7409",
+                    "identifier": "f-cta-s-7221",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7409",
-                        "stop_desc": "69th Street & King Drive, Westbound, Northeast Corner",
-                        "stop_id": "7409",
-                        "stop_lat": "41.76939966",
-                        "stop_lon": "-87.61522864",
-                        "stop_name": "69th Street & King Drive",
+                        "stop_code": "7221",
+                        "stop_desc": "69th Street & Anthony, Eastbound, Southwest Corner",
+                        "stop_id": "7221",
+                        "stop_lat": "41.76935439",
+                        "stop_lon": "-87.61358018",
+                        "stop_name": "69th Street & Anthony",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "69th Street & King Drive",
-            "onestopId": "s-dp3tw7bs3h-69th~king",
+            "name": "69th Street & Anthony",
+            "onestopId": "s-dp3tw7csps-69th~anthony",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -191,39 +191,6 @@
             ],
             "name": "Stony Island & 73rd Street",
             "onestopId": "s-dp3twfwj11-stonyisland~73rd",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.606056,
-                    41.780348
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-3442",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3442",
-                        "stop_desc": "63rd Street & Cottage Grove (Green Line), Eastbound, Southwest Corner",
-                        "stop_id": "3442",
-                        "stop_lat": "41.780348",
-                        "stop_lon": "-87.606056",
-                        "stop_name": "63rd Street & Cottage Grove (Green Line)",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "63rd Street & Cottage Grove (Green Line)",
-            "onestopId": "s-dp3twmzhnv-63rd~cottagegrovegreenline",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -300,29 +267,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62601277,
-                    41.7690992
+                    -87.61536335,
+                    41.77313773
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10178",
+                    "identifier": "f-cta-s-2134",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10178",
-                        "stop_desc": "69th Red Line Station, Eastbound, Southside of the Street",
-                        "stop_id": "10178",
-                        "stop_lat": "41.7690992",
-                        "stop_lon": "-87.62601277",
-                        "stop_name": "69th Red Line Station",
+                        "stop_code": "2134",
+                        "stop_desc": "King Drive & Marquette Rd, Northbound, Northeast Corner",
+                        "stop_id": "2134",
+                        "stop_lat": "41.77313773",
+                        "stop_lon": "-87.61536335",
+                        "stop_name": "King Drive & Marquette Rd",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "69th Red Line Station",
-            "onestopId": "s-dp3tw5bdtu-69thredlinestation",
+            "name": "King Drive & Marquette Rd",
+            "onestopId": "s-dp3twk86nj-king~marquette",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -465,6 +432,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.58544849,
+                    41.75181316
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-7117",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "7117",
+                        "stop_desc": "Stony Island & South Chicago/79th Sreeet, Northbound, Northeast Corner",
+                        "stop_id": "7117",
+                        "stop_lat": "41.75181316",
+                        "stop_lon": "-87.58544849",
+                        "stop_name": "Stony Island & South Chicago/79th Sreeet",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Stony Island & South Chicago/79th Sreeet",
+            "onestopId": "s-dp3twbwjzn-stonyisland~southchicago~79thsreeet",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.58508004,
                     41.75099254
                 ],
@@ -521,39 +521,6 @@
             ],
             "name": "Cottage Grove & 78th Street",
             "onestopId": "s-dp3tw2zwn8-cottagegrove~78th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.60543794,
-                    41.7548775
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-17103",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "17103",
-                        "stop_desc": "Cottage Grove & 77th Street, Northbound, Northeast Corner",
-                        "stop_id": "17103",
-                        "stop_lat": "41.7548775",
-                        "stop_lon": "-87.60543794",
-                        "stop_name": "Cottage Grove & 77th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cottage Grove & 77th Street",
-            "onestopId": "s-dp3tw3pxv3-cottagegrove~77th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -729,6 +696,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.60126456,
+                    41.78404668
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-13014",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "13014",
+                        "stop_desc": "61st Street & Ellis, Eastbound, Southwest Corner",
+                        "stop_id": "13014",
+                        "stop_lat": "41.78404668",
+                        "stop_lon": "-87.60126456",
+                        "stop_name": "61st Street & Ellis",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "61st Street & Ellis",
+            "onestopId": "s-dp3twwd9ww-61st~ellis",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.61503502,
                     41.75859759
                 ],
@@ -861,29 +861,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61224852,
-                    41.77047046
+                    -87.625112,
+                    41.750419
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7222",
+                    "identifier": "f-cta-s-30046",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "7222",
-                        "stop_desc": "Keefe & South Chicago, Northeastbound, Southwest Corner",
-                        "stop_id": "7222",
-                        "stop_lat": "41.77047046",
-                        "stop_lon": "-87.61224852",
-                        "stop_name": "Keefe & South Chicago",
+                        "parent_station": "40240",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30046",
+                        "stop_lat": "41.750419",
+                        "stop_lon": "-87.625112",
+                        "stop_name": "79th",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30047",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40240",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30047",
+                        "stop_lat": "41.750419",
+                        "stop_lon": "-87.625112",
+                        "stop_name": "79th",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Keefe & South Chicago",
-            "onestopId": "s-dp3twk4dws-keefe~southchicago",
+            "name": "79th",
+            "onestopId": "s-dp3tw03mff-79th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -894,29 +908,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59800902,
-                    41.79133238
+                    -87.59052264,
+                    41.75865456
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-16036",
+                    "identifier": "f-cta-s-18028",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "16036",
-                        "stop_desc": "University & 57th Street, Northbound, Southeast Corner",
-                        "stop_id": "16036",
-                        "stop_lat": "41.79133238",
-                        "stop_lon": "-87.59800902",
-                        "stop_name": "University & 57th Street",
+                        "stop_code": "18028",
+                        "stop_desc": "75th Street & Dorchester, Eastbound, Southeast Corner",
+                        "stop_id": "18028",
+                        "stop_lat": "41.75865456",
+                        "stop_lon": "-87.59052264",
+                        "stop_name": "75th Street & Dorchester",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "University & 57th Street",
-            "onestopId": "s-dp3twxvh4m-university~57th",
+            "name": "75th Street & Dorchester",
+            "onestopId": "s-dp3twcftbc-75th~dorchester",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -927,29 +941,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58600725,
-                    41.75339123
+                    -87.60429231,
+                    41.78037629
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7193",
+                    "identifier": "f-cta-s-3443",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7193",
-                        "stop_desc": "Stony Island & 78th Street, Southbound, Westside of the Street",
-                        "stop_id": "7193",
-                        "stop_lat": "41.75339123",
-                        "stop_lon": "-87.58600725",
-                        "stop_name": "Stony Island & 78th Street",
+                        "stop_code": "3443",
+                        "stop_desc": "63rd Street & Drexel, Eastbound, Southside of the Street",
+                        "stop_id": "3443",
+                        "stop_lat": "41.78037629",
+                        "stop_lon": "-87.60429231",
+                        "stop_name": "63rd Street & Drexel",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & 78th Street",
-            "onestopId": "s-dp3twbvz4h-stonyisland~78th",
+            "name": "63rd Street & Drexel",
+            "onestopId": "s-dp3twtbs24-63rd~drexel",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1026,29 +1040,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61515333,
-                    41.76766046
+                    -87.58660186,
+                    41.7661853
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2130",
+                    "identifier": "f-cta-s-10831",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2130",
-                        "stop_desc": "King Drive & 70th Street, Northbound, Northeast Corner",
-                        "stop_id": "2130",
-                        "stop_lat": "41.76766046",
-                        "stop_lon": "-87.61515333",
-                        "stop_name": "King Drive & 70th Street",
+                        "stop_code": "10831",
+                        "stop_desc": "71st Street & Stony Island, Westbound, Northwest Corner",
+                        "stop_id": "10831",
+                        "stop_lat": "41.7661853",
+                        "stop_lon": "-87.58660186",
+                        "stop_name": "71st Street & Stony Island",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 70th Street",
-            "onestopId": "s-dp3tw78d6b-king~70th",
+            "name": "71st Street & Stony Island",
+            "onestopId": "s-dp3twgm3sm-71st~stonyisland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1455,29 +1469,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59805239,
-                    41.78600896
+                    -87.58356968,
+                    41.75873234
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17903",
+                    "identifier": "f-cta-s-10950",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17903",
-                        "stop_desc": "60th Street & University, Westbound, Northwest Corner",
-                        "stop_id": "17903",
-                        "stop_lat": "41.78600896",
-                        "stop_lon": "-87.59805239",
-                        "stop_name": "60th Street & University",
+                        "stop_code": "10950",
+                        "stop_desc": "75th Street & East End, Eastbound, Southwest Corner",
+                        "stop_id": "10950",
+                        "stop_lat": "41.75873234",
+                        "stop_lon": "-87.58356968",
+                        "stop_name": "75th Street & East End",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "60th Street & University",
-            "onestopId": "s-dp3twwvj1k-60th~university",
+            "name": "75th Street & East End",
+            "onestopId": "s-dp3twczw4z-75th~eastend",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1719,29 +1733,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59447541,
-                    41.77319519
+                    -87.58651807,
+                    41.75883947
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10192",
+                    "identifier": "f-cta-s-10867",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10192",
-                        "stop_desc": "67th Street & Kimbark, Eastbound, Southside of the Street",
-                        "stop_id": "10192",
-                        "stop_lat": "41.77319519",
-                        "stop_lon": "-87.59447541",
-                        "stop_name": "67th Street & Kimbark",
+                        "stop_code": "10867",
+                        "stop_desc": "75th Street & Stony Island, Westbound, Northwest Corner",
+                        "stop_id": "10867",
+                        "stop_lat": "41.75883947",
+                        "stop_lon": "-87.58651807",
+                        "stop_name": "75th Street & Stony Island",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "67th Street & Kimbark",
-            "onestopId": "s-dp3twsxdkz-67th~kimbark",
+            "name": "75th Street & Stony Island",
+            "onestopId": "s-dp3twcvqy5-75th~stonyisland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2016,29 +2030,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59136359,
-                    41.784421
+                    -87.60557233,
+                    41.76943365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-13020",
+                    "identifier": "f-cta-s-2488",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13020",
-                        "stop_desc": "Dorchester & 61st Street, Northbound, Northeast Corner",
-                        "stop_id": "13020",
-                        "stop_lat": "41.784421",
-                        "stop_lon": "-87.59136359",
-                        "stop_name": "Dorchester & 61st Street",
+                        "stop_code": "2488",
+                        "stop_desc": "Cottage Grove & 69th Street, Northbound, Eastside of the Street",
+                        "stop_id": "2488",
+                        "stop_lat": "41.76943365",
+                        "stop_lon": "-87.60557233",
+                        "stop_name": "Cottage Grove & 69th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Dorchester & 61st Street",
-            "onestopId": "s-dp3twy9gvk-dorchester~61st",
+            "name": "Cottage Grove & 69th Street",
+            "onestopId": "s-dp3tw7zsd4-cottagegrove~69th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2742,29 +2756,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58544849,
-                    41.75181316
+                    -87.60620117,
+                    41.78805632
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7117",
+                    "identifier": "f-cta-s-2562",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7117",
-                        "stop_desc": "Stony Island & South Chicago/79th Sreeet, Northbound, Northeast Corner",
-                        "stop_id": "7117",
-                        "stop_lat": "41.75181316",
-                        "stop_lon": "-87.58544849",
-                        "stop_name": "Stony Island & South Chicago/79th Sreeet",
+                        "stop_code": "2562",
+                        "stop_desc": "Cottage Grove & 59th Street, Southbound, Westside of the Street",
+                        "stop_id": "2562",
+                        "stop_lat": "41.78805632",
+                        "stop_lon": "-87.60620117",
+                        "stop_name": "Cottage Grove & 59th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & South Chicago/79th Sreeet",
-            "onestopId": "s-dp3twbwjzn-stonyisland~southchicago~79thsreeet",
+            "name": "Cottage Grove & 59th Street",
+            "onestopId": "s-dp3twrr15d-cottagegrove~59th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3237,39 +3251,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60793922,
-                    41.75847934
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-10938",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "10938",
-                        "stop_desc": "75th Street & Langley, Eastbound, Southwest Corner",
-                        "stop_id": "10938",
-                        "stop_lat": "41.75847934",
-                        "stop_lon": "-87.60793922",
-                        "stop_name": "75th Street & Langley",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "75th Street & Langley",
-            "onestopId": "s-dp3tw3vug0-75th~langley",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.59434728,
                     41.77331117
                 ],
@@ -3468,29 +3449,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60561642,
-                    41.77130265
+                    -87.60793922,
+                    41.75847934
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2489",
+                    "identifier": "f-cta-s-10938",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2489",
-                        "stop_desc": "Cottage Grove & 68th Street, Northbound, Eastside of the Street",
-                        "stop_id": "2489",
-                        "stop_lat": "41.77130265",
-                        "stop_lon": "-87.60561642",
-                        "stop_name": "Cottage Grove & 68th Street",
+                        "stop_code": "10938",
+                        "stop_desc": "75th Street & Langley, Eastbound, Southwest Corner",
+                        "stop_id": "10938",
+                        "stop_lat": "41.75847934",
+                        "stop_lon": "-87.60793922",
+                        "stop_name": "75th Street & Langley",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cottage Grove & 68th Street",
-            "onestopId": "s-dp3twkpx3p-cottagegrove~68th",
+            "name": "75th Street & Langley",
+            "onestopId": "s-dp3tw3vug0-75th~langley",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3501,29 +3482,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.614963,
-                    41.749453
+                    -87.58561018,
+                    41.75860247
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2249",
+                    "identifier": "f-cta-s-7121",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2249",
-                        "stop_desc": "King Drive & 80th Street, Southbound, Northwest Corner",
-                        "stop_id": "2249",
-                        "stop_lat": "41.749453",
-                        "stop_lon": "-87.614963",
-                        "stop_name": "King Drive & 80th Street",
+                        "stop_code": "7121",
+                        "stop_desc": "Stony Island & 75th Street, Northbound, Southeast Corner",
+                        "stop_id": "7121",
+                        "stop_lat": "41.75860247",
+                        "stop_lon": "-87.58561018",
+                        "stop_name": "Stony Island & 75th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 80th Street",
-            "onestopId": "s-dp3tw228pq-king~80th",
+            "name": "Stony Island & 75th Street",
+            "onestopId": "s-dp3twcyj7r-stonyisland~75th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3600,29 +3581,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59574573,
-                    41.75863278
+                    -87.61562,
+                    41.776388
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10944",
+                    "identifier": "f-cta-s-2233",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10944",
-                        "stop_desc": "75th Street & South Chicago, Eastbound, Southwest Corner",
-                        "stop_id": "10944",
-                        "stop_lat": "41.75863278",
-                        "stop_lon": "-87.59574573",
-                        "stop_name": "75th Street & South Chicago",
+                        "stop_code": "2233",
+                        "stop_desc": "King Drive & 65th Street, Southbound, Westside of the Street",
+                        "stop_id": "2233",
+                        "stop_lat": "41.776388",
+                        "stop_lon": "-87.61562",
+                        "stop_name": "King Drive & 65th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & South Chicago",
-            "onestopId": "s-dp3tw9ytxj-75th~southchicago",
+            "name": "King Drive & 65th Street",
+            "onestopId": "s-dp3twm0m05-king~65th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3897,29 +3878,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.617912,
-                    41.751113
+                    -87.60151084,
+                    41.7912991
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2636",
+                    "identifier": "f-cta-s-14034",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2636",
-                        "stop_desc": "79th Street & Prairie, Westbound, Northeast Corner",
-                        "stop_id": "2636",
-                        "stop_lat": "41.751113",
-                        "stop_lon": "-87.617912",
-                        "stop_name": "79th Street & Prairie",
+                        "stop_code": "14034",
+                        "stop_desc": "Ellis & 57th Street, Southbound, Southwest Corner",
+                        "stop_id": "14034",
+                        "stop_lat": "41.7912991",
+                        "stop_lon": "-87.60151084",
+                        "stop_name": "Ellis & 57th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "79th Street & Prairie",
-            "onestopId": "s-dp3tw0w9fe-79th~prairie",
+            "name": "Ellis & 57th Street",
+            "onestopId": "s-dp3twxfeby-ellis~57th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4161,29 +4142,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61839088,
-                    41.75829177
+                    -87.61181158,
+                    41.77131482
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10934",
+                    "identifier": "f-cta-s-10085",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10934",
-                        "stop_desc": "75th Street & Prairie, Eastbound, Southwest Corner",
-                        "stop_id": "10934",
-                        "stop_lat": "41.75829177",
-                        "stop_lon": "-87.61839088",
-                        "stop_name": "75th Street & Prairie",
+                        "stop_code": "10085",
+                        "stop_desc": "Rhodes & 68th Street, Southbound, Westside of the Street",
+                        "stop_id": "10085",
+                        "stop_lat": "41.77131482",
+                        "stop_lon": "-87.61181158",
+                        "stop_name": "Rhodes & 68th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & Prairie",
-            "onestopId": "s-dp3tw1y5xt-75th~prairie",
+            "name": "Rhodes & 68th Street",
+            "onestopId": "s-dp3twk5p8c-rhodes~68th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.60543794,
+                    41.7548775
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-17103",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "17103",
+                        "stop_desc": "Cottage Grove & 77th Street, Northbound, Northeast Corner",
+                        "stop_id": "17103",
+                        "stop_lat": "41.7548775",
+                        "stop_lon": "-87.60543794",
+                        "stop_name": "Cottage Grove & 77th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Cottage Grove & 77th Street",
+            "onestopId": "s-dp3tw3pxv3-cottagegrove~77th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4293,29 +4307,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59076,
-                    41.7661
+                    -87.606056,
+                    41.780348
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10833",
+                    "identifier": "f-cta-s-3442",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10833",
-                        "stop_desc": "71st Street & Dorchester, Westbound, Northeast Corner",
-                        "stop_id": "10833",
-                        "stop_lat": "41.7661",
-                        "stop_lon": "-87.59076",
-                        "stop_name": "71st Street & Dorchester",
+                        "stop_code": "3442",
+                        "stop_desc": "63rd Street & Cottage Grove (Green Line), Eastbound, Southwest Corner",
+                        "stop_id": "3442",
+                        "stop_lat": "41.780348",
+                        "stop_lon": "-87.606056",
+                        "stop_name": "63rd Street & Cottage Grove (Green Line)",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "71st Street & Dorchester",
-            "onestopId": "s-dp3twg635m-71st~dorchester",
+            "name": "63rd Street & Cottage Grove (Green Line)",
+            "onestopId": "s-dp3twmzhnv-63rd~cottagegrovegreenline",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4359,29 +4373,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.624906,
-                    41.77086733
+                    -87.6230994,
+                    41.75091817
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2295",
+                    "identifier": "f-cta-s-2776",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2295",
-                        "stop_desc": "State & 68th Street, Northbound, Southeast Corner",
-                        "stop_id": "2295",
-                        "stop_lat": "41.77086733",
-                        "stop_lon": "-87.624906",
-                        "stop_name": "State & 68th Street",
+                        "stop_code": "2776",
+                        "stop_desc": "79th Street & Wabash, Eastbound, Southwest Corner",
+                        "stop_id": "2776",
+                        "stop_lat": "41.75091817",
+                        "stop_lon": "-87.6230994",
+                        "stop_name": "79th Street & Wabash",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & 68th Street",
-            "onestopId": "s-dp3twh1kzw-state~68th",
+            "name": "79th Street & Wabash",
+            "onestopId": "s-dp3tw0db9z-79th~wabash",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4557,43 +4571,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.625112,
-                    41.750419
+                    -87.61224852,
+                    41.77047046
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30046",
+                    "identifier": "f-cta-s-7222",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40240",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30046",
-                        "stop_lat": "41.750419",
-                        "stop_lon": "-87.625112",
-                        "stop_name": "79th",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30047",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40240",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30047",
-                        "stop_lat": "41.750419",
-                        "stop_lon": "-87.625112",
-                        "stop_name": "79th",
+                        "parent_station": "",
+                        "stop_code": "7222",
+                        "stop_desc": "Keefe & South Chicago, Northeastbound, Southwest Corner",
+                        "stop_id": "7222",
+                        "stop_lat": "41.77047046",
+                        "stop_lon": "-87.61224852",
+                        "stop_name": "Keefe & South Chicago",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "79th",
-            "onestopId": "s-dp3tw03mff-79th",
+            "name": "Keefe & South Chicago",
+            "onestopId": "s-dp3twk4dws-keefe~southchicago",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4769,6 +4769,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.60561642,
+                    41.77130265
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-2489",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "2489",
+                        "stop_desc": "Cottage Grove & 68th Street, Northbound, Eastside of the Street",
+                        "stop_id": "2489",
+                        "stop_lat": "41.77130265",
+                        "stop_lon": "-87.60561642",
+                        "stop_name": "Cottage Grove & 68th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Cottage Grove & 68th Street",
+            "onestopId": "s-dp3twkpx3p-cottagegrove~68th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.60281387,
                     41.75126746
                 ],
@@ -4835,29 +4868,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58561018,
-                    41.75860247
+                    -87.608825,
+                    41.765905
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7121",
+                    "identifier": "f-cta-s-10841",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7121",
-                        "stop_desc": "Stony Island & 75th Street, Northbound, Southeast Corner",
-                        "stop_id": "7121",
-                        "stop_lat": "41.75860247",
-                        "stop_lon": "-87.58561018",
-                        "stop_name": "Stony Island & 75th Street",
+                        "stop_code": "10841",
+                        "stop_desc": "71st Street & Langley, Westbound, Northside of the Street",
+                        "stop_id": "10841",
+                        "stop_lat": "41.765905",
+                        "stop_lon": "-87.608825",
+                        "stop_name": "71st Street & Langley",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & 75th Street",
-            "onestopId": "s-dp3twcyj7r-stonyisland~75th",
+            "name": "71st Street & Langley",
+            "onestopId": "s-dp3tw7m0n2-71st~langley",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4891,6 +4924,39 @@
             ],
             "name": "67th Street & St. Lawrence",
             "onestopId": "s-dp3twkec6d-67th~lawrence",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6246794,
+                    41.76724095
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-2293",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "2293",
+                        "stop_desc": "State & 70th Street, Northbound, Southeast Corner",
+                        "stop_id": "2293",
+                        "stop_lat": "41.76724095",
+                        "stop_lon": "-87.6246794",
+                        "stop_name": "State & 70th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "State & 70th Street",
+            "onestopId": "s-dp3tw53xuf-state~70th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5297,6 +5363,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.58624585,
+                    41.75886943
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-7190",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "7190",
+                        "stop_desc": "Stony Island & 75th Street, Southbound, Northwest Corner",
+                        "stop_id": "7190",
+                        "stop_lat": "41.75886943",
+                        "stop_lon": "-87.58624585",
+                        "stop_name": "Stony Island & 75th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Stony Island & 75th Street",
+            "onestopId": "s-dp3twcvxh9-stonyisland~75th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.58383046,
                     41.77341842
                 ],
@@ -5363,29 +5462,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61358018,
-                    41.76935439
+                    -87.61522864,
+                    41.76939966
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7221",
+                    "identifier": "f-cta-s-7409",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7221",
-                        "stop_desc": "69th Street & Anthony, Eastbound, Southwest Corner",
-                        "stop_id": "7221",
-                        "stop_lat": "41.76935439",
-                        "stop_lon": "-87.61358018",
-                        "stop_name": "69th Street & Anthony",
+                        "stop_code": "7409",
+                        "stop_desc": "69th Street & King Drive, Westbound, Northeast Corner",
+                        "stop_id": "7409",
+                        "stop_lat": "41.76939966",
+                        "stop_lon": "-87.61522864",
+                        "stop_name": "69th Street & King Drive",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "69th Street & Anthony",
-            "onestopId": "s-dp3tw7csps-69th~anthony",
+            "name": "69th Street & King Drive",
+            "onestopId": "s-dp3tw7bs3h-69th~king",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5495,29 +5594,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58660186,
-                    41.7661853
+                    -87.61515333,
+                    41.76766046
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10831",
+                    "identifier": "f-cta-s-2130",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10831",
-                        "stop_desc": "71st Street & Stony Island, Westbound, Northwest Corner",
-                        "stop_id": "10831",
-                        "stop_lat": "41.7661853",
-                        "stop_lon": "-87.58660186",
-                        "stop_name": "71st Street & Stony Island",
+                        "stop_code": "2130",
+                        "stop_desc": "King Drive & 70th Street, Northbound, Northeast Corner",
+                        "stop_id": "2130",
+                        "stop_lat": "41.76766046",
+                        "stop_lon": "-87.61515333",
+                        "stop_name": "King Drive & 70th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "71st Street & Stony Island",
-            "onestopId": "s-dp3twgm3sm-71st~stonyisland",
+            "name": "King Drive & 70th Street",
+            "onestopId": "s-dp3tw78d6b-king~70th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5584,6 +5683,39 @@
             ],
             "name": "Lafayette & 73rd Street",
             "onestopId": "s-dp3tw48364-lafayette~73rd",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.59076,
+                    41.7661
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-10833",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "10833",
+                        "stop_desc": "71st Street & Dorchester, Westbound, Northeast Corner",
+                        "stop_id": "10833",
+                        "stop_lat": "41.7661",
+                        "stop_lon": "-87.59076",
+                        "stop_name": "71st Street & Dorchester",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "71st Street & Dorchester",
+            "onestopId": "s-dp3twg635m-71st~dorchester",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5759,6 +5891,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.59774366,
+                    41.76039261
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-7399",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "7399",
+                        "stop_desc": "South Chicago & 74th Street, Northwestbound, Southeast Corner",
+                        "stop_id": "7399",
+                        "stop_lat": "41.76039261",
+                        "stop_lon": "-87.59774366",
+                        "stop_name": "South Chicago & 74th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "South Chicago & 74th Street",
+            "onestopId": "s-dp3twdjrbt-southchicago~74th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.62358263,
                     41.78007272
                 ],
@@ -5858,29 +6023,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61562,
-                    41.776388
+                    -87.59574573,
+                    41.75863278
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2233",
+                    "identifier": "f-cta-s-10944",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2233",
-                        "stop_desc": "King Drive & 65th Street, Southbound, Westside of the Street",
-                        "stop_id": "2233",
-                        "stop_lat": "41.776388",
-                        "stop_lon": "-87.61562",
-                        "stop_name": "King Drive & 65th Street",
+                        "stop_code": "10944",
+                        "stop_desc": "75th Street & South Chicago, Eastbound, Southwest Corner",
+                        "stop_id": "10944",
+                        "stop_lat": "41.75863278",
+                        "stop_lon": "-87.59574573",
+                        "stop_name": "75th Street & South Chicago",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 65th Street",
-            "onestopId": "s-dp3twm0m05-king~65th",
+            "name": "75th Street & South Chicago",
+            "onestopId": "s-dp3tw9ytxj-75th~southchicago",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5924,29 +6089,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60212043,
-                    41.763535
+                    -87.60228391,
+                    41.763365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7401",
+                    "identifier": "f-cta-s-17660",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7401",
-                        "stop_desc": "South Chicago & Ingleside, Northwestbound, Southeast Corner",
-                        "stop_id": "7401",
-                        "stop_lat": "41.763535",
-                        "stop_lon": "-87.60212043",
+                        "stop_code": "17660",
+                        "stop_desc": "South Chicago & Ingleside, Southeastbound, Southside of the Street",
+                        "stop_id": "17660",
+                        "stop_lat": "41.763365",
+                        "stop_lon": "-87.60228391",
                         "stop_name": "South Chicago & Ingleside",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
             "name": "South Chicago & Ingleside",
-            "onestopId": "s-dp3twdf44x-southchicago~ingleside",
+            "onestopId": "s-dp3twdccnz-southchicago~ingleside",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6089,29 +6254,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6246794,
-                    41.76724095
+                    -87.61585296,
+                    41.78919883
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2293",
+                    "identifier": "f-cta-s-2226",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2293",
-                        "stop_desc": "State & 70th Street, Northbound, Southeast Corner",
-                        "stop_id": "2293",
-                        "stop_lat": "41.76724095",
-                        "stop_lon": "-87.6246794",
-                        "stop_name": "State & 70th Street",
+                        "stop_code": "2226",
+                        "stop_desc": "King Drive & 58th Street, Southbound, Southwest Corner",
+                        "stop_id": "2226",
+                        "stop_lat": "41.78919883",
+                        "stop_lon": "-87.61585296",
+                        "stop_name": "King Drive & 58th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & 70th Street",
-            "onestopId": "s-dp3tw53xuf-state~70th",
+            "name": "King Drive & 58th Street",
+            "onestopId": "s-dp3twr2pdx-king~58th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6287,39 +6452,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60151084,
-                    41.7912991
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-14034",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "14034",
-                        "stop_desc": "Ellis & 57th Street, Southbound, Southwest Corner",
-                        "stop_id": "14034",
-                        "stop_lat": "41.7912991",
-                        "stop_lon": "-87.60151084",
-                        "stop_name": "Ellis & 57th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Ellis & 57th Street",
-            "onestopId": "s-dp3twxfeby-ellis~57th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.62439816,
                     41.75113649
                 ],
@@ -6376,6 +6508,39 @@
             ],
             "name": "61st Street & Woodlawn",
             "onestopId": "s-dp3twwwd1k-61st~woodlawn",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.61839088,
+                    41.75829177
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-10934",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "10934",
+                        "stop_desc": "75th Street & Prairie, Eastbound, Southwest Corner",
+                        "stop_id": "10934",
+                        "stop_lat": "41.75829177",
+                        "stop_lon": "-87.61839088",
+                        "stop_name": "75th Street & Prairie",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "75th Street & Prairie",
+            "onestopId": "s-dp3tw1y5xt-75th~prairie",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6518,29 +6683,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.626273,
-                    41.754738
+                    -87.61578456,
+                    41.7836668
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2443",
+                    "identifier": "f-cta-s-2229",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2443",
-                        "stop_desc": "Lafayette & 77th Street, Southbound, Northwest Corner",
-                        "stop_id": "2443",
-                        "stop_lat": "41.754738",
-                        "stop_lon": "-87.626273",
-                        "stop_name": "Lafayette & 77th Street",
+                        "stop_code": "2229",
+                        "stop_desc": "King Drive & 61st Street, Southbound, Southwest Corner",
+                        "stop_id": "2229",
+                        "stop_lat": "41.7836668",
+                        "stop_lon": "-87.61578456",
+                        "stop_name": "King Drive & 61st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lafayette & 77th Street",
-            "onestopId": "s-dp3tw10qzz-lafayette~77th",
+            "name": "King Drive & 61st Street",
+            "onestopId": "s-dp3twq2ps0-king~61st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6650,29 +6815,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.620534,
-                    41.780058
+                    -87.60555644,
+                    41.78584076
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3435",
+                    "identifier": "f-cta-s-15432",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3435",
-                        "stop_desc": "63rd Street & Indiana, Eastbound, Southwest Corner",
-                        "stop_id": "3435",
-                        "stop_lat": "41.780058",
-                        "stop_lon": "-87.620534",
-                        "stop_name": "63rd Street & Indiana",
+                        "stop_code": "15432",
+                        "stop_desc": "60th Street & Cottage Grove, Eastbound, Southeast Corner",
+                        "stop_id": "15432",
+                        "stop_lat": "41.78584076",
+                        "stop_lon": "-87.60555644",
+                        "stop_name": "60th Street & Cottage Grove",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & Indiana",
-            "onestopId": "s-dp3twjudmx-63rd~indiana",
+            "name": "60th Street & Cottage Grove",
+            "onestopId": "s-dp3twqzs4t-60th~cottagegrove",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6782,29 +6947,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61035081,
-                    41.75841336
+                    -87.58891226,
+                    41.75377343
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10937",
+                    "identifier": "f-cta-s-7235",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10937",
-                        "stop_desc": "75th Street & St. Lawrence, Eastbound, Southwest Corner",
-                        "stop_id": "10937",
-                        "stop_lat": "41.75841336",
-                        "stop_lon": "-87.61035081",
-                        "stop_name": "75th Street & St. Lawrence",
+                        "stop_code": "7235",
+                        "stop_desc": "South Chicago & Blackstone, Southeastbound, Westside of the Street",
+                        "stop_id": "7235",
+                        "stop_lat": "41.75377343",
+                        "stop_lon": "-87.58891226",
+                        "stop_name": "South Chicago & Blackstone",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & St. Lawrence",
-            "onestopId": "s-dp3tw3uh6u-75th~lawrence",
+            "name": "South Chicago & Blackstone",
+            "onestopId": "s-dp3twc59q7-southchicago~blackstone",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6914,29 +7079,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59333997,
-                    41.75862883
+                    -87.58667648,
+                    41.78583775
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10945",
+                    "identifier": "f-cta-s-1659",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10945",
-                        "stop_desc": "75th Street & Kimbark, Eastbound, Southwest Corner",
-                        "stop_id": "10945",
-                        "stop_lat": "41.75862883",
-                        "stop_lon": "-87.59333997",
-                        "stop_name": "75th Street & Kimbark",
+                        "stop_code": "1659",
+                        "stop_desc": "Stony Island & 60th Street, Southbound, Southwest Corner",
+                        "stop_id": "1659",
+                        "stop_lat": "41.78583775",
+                        "stop_lon": "-87.58667648",
+                        "stop_name": "Stony Island & 60th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & Kimbark",
-            "onestopId": "s-dp3twcbmxh-75th~kimbark",
+            "name": "Stony Island & 60th Street",
+            "onestopId": "s-dp3twyvk4s-stonyisland~60th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7508,29 +7673,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58356968,
-                    41.75873234
+                    -87.60102238,
+                    41.78417286
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10950",
+                    "identifier": "f-cta-s-13030",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10950",
-                        "stop_desc": "75th Street & East End, Eastbound, Southwest Corner",
-                        "stop_id": "10950",
-                        "stop_lat": "41.75873234",
-                        "stop_lon": "-87.58356968",
-                        "stop_name": "75th Street & East End",
+                        "stop_code": "13030",
+                        "stop_desc": "61st Street & Ellis, Westbound, Northeast Corner",
+                        "stop_id": "13030",
+                        "stop_lat": "41.78417286",
+                        "stop_lon": "-87.60102238",
+                        "stop_name": "61st Street & Ellis",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & East End",
-            "onestopId": "s-dp3twczw4z-75th~eastend",
+            "name": "61st Street & Ellis",
+            "onestopId": "s-dp3twwdfkn-61st~ellis",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7574,29 +7739,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59172048,
-                    41.77322081
+                    -87.61536517,
+                    41.75846875
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10194",
+                    "identifier": "f-cta-s-17957",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10194",
-                        "stop_desc": "67th Street & Dorchester, Eastbound, Southwest Corner",
-                        "stop_id": "10194",
-                        "stop_lat": "41.77322081",
-                        "stop_lon": "-87.59172048",
-                        "stop_name": "67th Street & Dorchester",
+                        "stop_code": "17957",
+                        "stop_desc": "75th Street & King Drive, Westbound, Northwest Corner",
+                        "stop_id": "17957",
+                        "stop_lat": "41.75846875",
+                        "stop_lon": "-87.61536517",
+                        "stop_name": "75th Street & King Drive",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "67th Street & Dorchester",
-            "onestopId": "s-dp3twu9dsu-67th~dorchester",
+            "name": "75th Street & King Drive",
+            "onestopId": "s-dp3tw3bkwn-75th~king",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7739,29 +7904,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61552795,
-                    41.78030144
+                    -87.626273,
+                    41.754738
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3222",
+                    "identifier": "f-cta-s-2443",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3222",
-                        "stop_desc": "63rd Street & King Drive (Green Line), Westbound, Northeast Corner",
-                        "stop_id": "3222",
-                        "stop_lat": "41.78030144",
-                        "stop_lon": "-87.61552795",
-                        "stop_name": "63rd Street & King Drive (Green Line)",
+                        "stop_code": "2443",
+                        "stop_desc": "Lafayette & 77th Street, Southbound, Northwest Corner",
+                        "stop_id": "2443",
+                        "stop_lat": "41.754738",
+                        "stop_lon": "-87.626273",
+                        "stop_name": "Lafayette & 77th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & King Drive (Green Line)",
-            "onestopId": "s-dp3twmb7fh-63rd~kinggreenline",
+            "name": "Lafayette & 77th Street",
+            "onestopId": "s-dp3tw10qzz-lafayette~77th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7871,29 +8036,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58653206,
-                    41.77946657
+                    -87.58397448,
+                    41.77330384
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3205",
+                    "identifier": "f-cta-s-5206",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3205",
-                        "stop_desc": "Stony Island & 63rd/64th, Southbound, Westside of the Street",
-                        "stop_id": "3205",
-                        "stop_lat": "41.77946657",
-                        "stop_lon": "-87.58653206",
-                        "stop_name": "Stony Island & 63rd/64th",
+                        "stop_code": "5206",
+                        "stop_desc": "67th Street & East End, Eastbound, Southwest Corner",
+                        "stop_id": "5206",
+                        "stop_lat": "41.77330384",
+                        "stop_lon": "-87.58397448",
+                        "stop_name": "67th Street & East End",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & 63rd/64th",
-            "onestopId": "s-dp3twvtrjc-stonyisland~63rd~64th",
+            "name": "67th Street & East End",
+            "onestopId": "s-dp3twux71k-67th~eastend",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7937,29 +8102,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.5876645,
-                    41.75285417
+                    -87.610627,
+                    41.76573
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7236",
+                    "identifier": "f-cta-s-10789",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7236",
-                        "stop_desc": "South Chicago & Harper, Southeastbound, Westside of the Street",
-                        "stop_id": "7236",
-                        "stop_lat": "41.75285417",
-                        "stop_lon": "-87.5876645",
-                        "stop_name": "South Chicago & Harper",
+                        "stop_code": "10789",
+                        "stop_desc": "71st Street & St. Lawrence, Eastbound, Southwest Corner",
+                        "stop_id": "10789",
+                        "stop_lat": "41.76573",
+                        "stop_lon": "-87.610627",
+                        "stop_name": "71st Street & St. Lawrence",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "South Chicago & Harper",
-            "onestopId": "s-dp3twbus52-southchicago~harper",
+            "name": "71st Street & St. Lawrence",
+            "onestopId": "s-dp3tw75zh2-71st~lawrence",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8059,39 +8224,6 @@
             ],
             "name": "South Chicago & 71st Street/Cottage Grove",
             "onestopId": "s-dp3tw7pygz-southchicago~71st~cottagegrove",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.59405738,
-                    41.78610827
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-15428",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "15428",
-                        "stop_desc": "60th Street & Kimbark, Westbound, Northside of the Street",
-                        "stop_id": "15428",
-                        "stop_lat": "41.78610827",
-                        "stop_lon": "-87.59405738",
-                        "stop_name": "60th Street & Kimbark",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "60th Street & Kimbark",
-            "onestopId": "s-dp3twwzvwx-60th~kimbark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8300,29 +8432,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62394954,
-                    41.78367527
+                    -87.62227473,
+                    41.77997097
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-13000",
+                    "identifier": "f-cta-s-3434",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13000",
-                        "stop_desc": "61st Street & Wabash, Eastbound, Southwest Corner",
-                        "stop_id": "13000",
-                        "stop_lat": "41.78367527",
-                        "stop_lon": "-87.62394954",
-                        "stop_name": "61st Street & Wabash",
+                        "stop_code": "3434",
+                        "stop_desc": "63rd Street & Michigan, Eastbound, Southside of the Street",
+                        "stop_id": "3434",
+                        "stop_lat": "41.77997097",
+                        "stop_lon": "-87.62227473",
+                        "stop_name": "63rd Street & Michigan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "61st Street & Wabash",
-            "onestopId": "s-dp3twn6ptc-61st~wabash",
+            "name": "63rd Street & Michigan",
+            "onestopId": "s-dp3twjg3vp-63rd~michigan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8498,29 +8630,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60126456,
-                    41.78404668
+                    -87.60509523,
+                    41.75305378
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-13014",
+                    "identifier": "f-cta-s-2479",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13014",
-                        "stop_desc": "61st Street & Ellis, Eastbound, Southwest Corner",
-                        "stop_id": "13014",
-                        "stop_lat": "41.78404668",
-                        "stop_lon": "-87.60126456",
-                        "stop_name": "61st Street & Ellis",
+                        "stop_code": "2479",
+                        "stop_desc": "Cottage Grove & 78th Street, Northbound, Southeast Corner",
+                        "stop_id": "2479",
+                        "stop_lat": "41.75305378",
+                        "stop_lon": "-87.60509523",
+                        "stop_name": "Cottage Grove & 78th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "61st Street & Ellis",
-            "onestopId": "s-dp3twwd9ww-61st~ellis",
+            "name": "Cottage Grove & 78th Street",
+            "onestopId": "s-dp3tw2zvjm-cottagegrove~78th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8564,62 +8696,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60429231,
-                    41.78037629
+                    -87.58600725,
+                    41.75339123
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3443",
+                    "identifier": "f-cta-s-7193",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3443",
-                        "stop_desc": "63rd Street & Drexel, Eastbound, Southside of the Street",
-                        "stop_id": "3443",
-                        "stop_lat": "41.78037629",
-                        "stop_lon": "-87.60429231",
-                        "stop_name": "63rd Street & Drexel",
+                        "stop_code": "7193",
+                        "stop_desc": "Stony Island & 78th Street, Southbound, Westside of the Street",
+                        "stop_id": "7193",
+                        "stop_lat": "41.75339123",
+                        "stop_lon": "-87.58600725",
+                        "stop_name": "Stony Island & 78th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & Drexel",
-            "onestopId": "s-dp3twtbs24-63rd~drexel",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.61578456,
-                    41.7836668
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2229",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2229",
-                        "stop_desc": "King Drive & 61st Street, Southbound, Southwest Corner",
-                        "stop_id": "2229",
-                        "stop_lat": "41.7836668",
-                        "stop_lon": "-87.61578456",
-                        "stop_name": "King Drive & 61st Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "King Drive & 61st Street",
-            "onestopId": "s-dp3twq2ps0-king~61st",
+            "name": "Stony Island & 78th Street",
+            "onestopId": "s-dp3twbvz4h-stonyisland~78th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8663,29 +8762,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60555644,
-                    41.78584076
+                    -87.620534,
+                    41.780058
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15432",
+                    "identifier": "f-cta-s-3435",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15432",
-                        "stop_desc": "60th Street & Cottage Grove, Eastbound, Southeast Corner",
-                        "stop_id": "15432",
-                        "stop_lat": "41.78584076",
-                        "stop_lon": "-87.60555644",
-                        "stop_name": "60th Street & Cottage Grove",
+                        "stop_code": "3435",
+                        "stop_desc": "63rd Street & Indiana, Eastbound, Southwest Corner",
+                        "stop_id": "3435",
+                        "stop_lat": "41.780058",
+                        "stop_lon": "-87.620534",
+                        "stop_name": "63rd Street & Indiana",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "60th Street & Cottage Grove",
-            "onestopId": "s-dp3twqzs4t-60th~cottagegrove",
+            "name": "63rd Street & Indiana",
+            "onestopId": "s-dp3twjudmx-63rd~indiana",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8908,29 +9007,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60557233,
-                    41.76943365
+                    -87.59136359,
+                    41.784421
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2488",
+                    "identifier": "f-cta-s-13020",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2488",
-                        "stop_desc": "Cottage Grove & 69th Street, Northbound, Eastside of the Street",
-                        "stop_id": "2488",
-                        "stop_lat": "41.76943365",
-                        "stop_lon": "-87.60557233",
-                        "stop_name": "Cottage Grove & 69th Street",
+                        "stop_code": "13020",
+                        "stop_desc": "Dorchester & 61st Street, Northbound, Northeast Corner",
+                        "stop_id": "13020",
+                        "stop_lat": "41.784421",
+                        "stop_lon": "-87.59136359",
+                        "stop_name": "Dorchester & 61st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cottage Grove & 69th Street",
-            "onestopId": "s-dp3tw7zsd4-cottagegrove~69th",
+            "name": "Dorchester & 61st Street",
+            "onestopId": "s-dp3twy9gvk-dorchester~61st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9007,6 +9106,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.59447541,
+                    41.77319519
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-10192",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "10192",
+                        "stop_desc": "67th Street & Kimbark, Eastbound, Southside of the Street",
+                        "stop_id": "10192",
+                        "stop_lat": "41.77319519",
+                        "stop_lon": "-87.59447541",
+                        "stop_name": "67th Street & Kimbark",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "67th Street & Kimbark",
+            "onestopId": "s-dp3twsxdkz-67th~kimbark",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.61311249,
                     41.78034464
                 ],
@@ -9040,29 +9172,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58891226,
-                    41.75377343
+                    -87.61035081,
+                    41.75841336
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7235",
+                    "identifier": "f-cta-s-10937",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7235",
-                        "stop_desc": "South Chicago & Blackstone, Southeastbound, Westside of the Street",
-                        "stop_id": "7235",
-                        "stop_lat": "41.75377343",
-                        "stop_lon": "-87.58891226",
-                        "stop_name": "South Chicago & Blackstone",
+                        "stop_code": "10937",
+                        "stop_desc": "75th Street & St. Lawrence, Eastbound, Southwest Corner",
+                        "stop_id": "10937",
+                        "stop_lat": "41.75841336",
+                        "stop_lon": "-87.61035081",
+                        "stop_name": "75th Street & St. Lawrence",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "South Chicago & Blackstone",
-            "onestopId": "s-dp3twc59q7-southchicago~blackstone",
+            "name": "75th Street & St. Lawrence",
+            "onestopId": "s-dp3tw3uh6u-75th~lawrence",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9238,39 +9370,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59142268,
-                    41.75555816
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-7233",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "7233",
-                        "stop_desc": "South Chicago & Dorchester, Southeastbound, Westside of the Street",
-                        "stop_id": "7233",
-                        "stop_lat": "41.75555816",
-                        "stop_lon": "-87.59142268",
-                        "stop_name": "South Chicago & Dorchester",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "South Chicago & Dorchester",
-            "onestopId": "s-dp3twc3ggb-southchicago~dorchester",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.59141124,
                     41.78597064
                 ],
@@ -9436,29 +9535,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58667648,
-                    41.78583775
+                    -87.59333997,
+                    41.75862883
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1659",
+                    "identifier": "f-cta-s-10945",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1659",
-                        "stop_desc": "Stony Island & 60th Street, Southbound, Southwest Corner",
-                        "stop_id": "1659",
-                        "stop_lat": "41.78583775",
-                        "stop_lon": "-87.58667648",
-                        "stop_name": "Stony Island & 60th Street",
+                        "stop_code": "10945",
+                        "stop_desc": "75th Street & Kimbark, Eastbound, Southwest Corner",
+                        "stop_id": "10945",
+                        "stop_lat": "41.75862883",
+                        "stop_lon": "-87.59333997",
+                        "stop_name": "75th Street & Kimbark",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & 60th Street",
-            "onestopId": "s-dp3twyvk4s-stonyisland~60th",
+            "name": "75th Street & Kimbark",
+            "onestopId": "s-dp3twcbmxh-75th~kimbark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9832,29 +9931,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58397448,
-                    41.77330384
+                    -87.58653206,
+                    41.77946657
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5206",
+                    "identifier": "f-cta-s-3205",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5206",
-                        "stop_desc": "67th Street & East End, Eastbound, Southwest Corner",
-                        "stop_id": "5206",
-                        "stop_lat": "41.77330384",
-                        "stop_lon": "-87.58397448",
-                        "stop_name": "67th Street & East End",
+                        "stop_code": "3205",
+                        "stop_desc": "Stony Island & 63rd/64th, Southbound, Westside of the Street",
+                        "stop_id": "3205",
+                        "stop_lat": "41.77946657",
+                        "stop_lon": "-87.58653206",
+                        "stop_name": "Stony Island & 63rd/64th",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "67th Street & East End",
-            "onestopId": "s-dp3twux71k-67th~eastend",
+            "name": "Stony Island & 63rd/64th",
+            "onestopId": "s-dp3twvtrjc-stonyisland~63rd~64th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10053,39 +10152,6 @@
             ],
             "name": "60th Street & Cottage Grove",
             "onestopId": "s-dp3twqzkdn-60th~cottagegrove",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.586775,
-                    41.791215
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1656",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1656",
-                        "stop_desc": "Stony Island & 57th Street, Southbound, Southwest Corner",
-                        "stop_id": "1656",
-                        "stop_lat": "41.791215",
-                        "stop_lon": "-87.586775",
-                        "stop_name": "Stony Island & 57th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Stony Island & 57th Street",
-            "onestopId": "s-dp3twzv72p-stonyisland~57th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10855,39 +10921,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60509523,
-                    41.75305378
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2479",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2479",
-                        "stop_desc": "Cottage Grove & 78th Street, Northbound, Southeast Corner",
-                        "stop_id": "2479",
-                        "stop_lat": "41.75305378",
-                        "stop_lon": "-87.60509523",
-                        "stop_name": "Cottage Grove & 78th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cottage Grove & 78th Street",
-            "onestopId": "s-dp3tw2zvjm-cottagegrove~78th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.60323604,
                     41.77321198
                 ],
@@ -10911,39 +10944,6 @@
             ],
             "name": "67th Street & Drexel",
             "onestopId": "s-dp3tws968e-67th~drexel",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.60620117,
-                    41.78805632
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2562",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2562",
-                        "stop_desc": "Cottage Grove & 59th Street, Southbound, Westside of the Street",
-                        "stop_id": "2562",
-                        "stop_lat": "41.78805632",
-                        "stop_lon": "-87.60620117",
-                        "stop_name": "Cottage Grove & 59th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cottage Grove & 59th Street",
-            "onestopId": "s-dp3twrr15d-cottagegrove~59th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10987,29 +10987,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58660825,
-                    41.78279019
+                    -87.62188137,
+                    41.76550604
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1661",
+                    "identifier": "f-cta-s-10782",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1661",
-                        "stop_desc": "Stony Island & 62nd Street, Southbound, Southwest Corner",
-                        "stop_id": "1661",
-                        "stop_lat": "41.78279019",
-                        "stop_lon": "-87.58660825",
-                        "stop_name": "Stony Island & 62nd Street",
+                        "stop_code": "10782",
+                        "stop_desc": "71st Street & Michigan, Eastbound, Southwest Corner",
+                        "stop_id": "10782",
+                        "stop_lat": "41.76550604",
+                        "stop_lon": "-87.62188137",
+                        "stop_name": "71st Street & Michigan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & 62nd Street",
-            "onestopId": "s-dp3twym6kh-stonyisland~62nd",
+            "name": "71st Street & Michigan",
+            "onestopId": "s-dp3tw55twn-71st~michigan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11274,39 +11274,6 @@
             ],
             "name": "South Chicago & 73rd Street/Ellis",
             "onestopId": "s-dp3twddgv2-southchicago~73rd~ellis",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.58651807,
-                    41.75883947
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-10867",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "10867",
-                        "stop_desc": "75th Street & Stony Island, Westbound, Northwest Corner",
-                        "stop_id": "10867",
-                        "stop_lat": "41.75883947",
-                        "stop_lon": "-87.58651807",
-                        "stop_name": "75th Street & Stony Island",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "75th Street & Stony Island",
-            "onestopId": "s-dp3twcvqy5-75th~stonyisland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11654,20 +11621,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30139",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40720",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30139",
-                        "stop_lat": "41.780309",
-                        "stop_lon": "-87.605857",
-                        "stop_name": "East 63rd-Cottage Grove",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30140",
                     "tags": {
                         "location_type": "0",
@@ -11680,10 +11633,57 @@
                         "stop_name": "East 63rd-Cottage Grove",
                         "wheelchair_boarding": "1"
                     }
+                },
+                {
+                    "identifier": "f-cta-s-30139",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40720",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30139",
+                        "stop_lat": "41.780309",
+                        "stop_lon": "-87.605857",
+                        "stop_name": "East 63rd-Cottage Grove",
+                        "wheelchair_boarding": "1"
+                    }
                 }
             ],
             "name": "East 63rd-Cottage Grove",
             "onestopId": "s-dp3twmz7gw-east63rdcottagegrove",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.59805239,
+                    41.78600896
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-17903",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "17903",
+                        "stop_desc": "60th Street & University, Westbound, Northwest Corner",
+                        "stop_id": "17903",
+                        "stop_lat": "41.78600896",
+                        "stop_lon": "-87.59805239",
+                        "stop_name": "60th Street & University",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "60th Street & University",
+            "onestopId": "s-dp3twwvj1k-60th~university",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11991,29 +11991,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59052264,
-                    41.75865456
+                    -87.59800902,
+                    41.79133238
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-18028",
+                    "identifier": "f-cta-s-16036",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "18028",
-                        "stop_desc": "75th Street & Dorchester, Eastbound, Southeast Corner",
-                        "stop_id": "18028",
-                        "stop_lat": "41.75865456",
-                        "stop_lon": "-87.59052264",
-                        "stop_name": "75th Street & Dorchester",
+                        "stop_code": "16036",
+                        "stop_desc": "University & 57th Street, Northbound, Southeast Corner",
+                        "stop_id": "16036",
+                        "stop_lat": "41.79133238",
+                        "stop_lon": "-87.59800902",
+                        "stop_name": "University & 57th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & Dorchester",
-            "onestopId": "s-dp3twcftbc-75th~dorchester",
+            "name": "University & 57th Street",
+            "onestopId": "s-dp3twxvh4m-university~57th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12156,29 +12156,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61525474,
-                    41.76009709
+                    -87.60107936,
+                    41.78597078
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2243",
+                    "identifier": "f-cta-s-14032",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2243",
-                        "stop_desc": "King Drive & 74th Street, Southbound, Southwest Corner",
-                        "stop_id": "2243",
-                        "stop_lat": "41.76009709",
-                        "stop_lon": "-87.61525474",
-                        "stop_name": "King Drive & 74th Street",
+                        "stop_code": "14032",
+                        "stop_desc": "60th Street & Ellis, Westbound, Northeast Corner",
+                        "stop_id": "14032",
+                        "stop_lat": "41.78597078",
+                        "stop_lon": "-87.60107936",
+                        "stop_name": "60th Street & Ellis",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 74th Street",
-            "onestopId": "s-dp3tw60w0w-king~74th",
+            "name": "60th Street & Ellis",
+            "onestopId": "s-dp3twwfufv-60th~ellis",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.617912,
+                    41.751113
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-2636",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "2636",
+                        "stop_desc": "79th Street & Prairie, Westbound, Northeast Corner",
+                        "stop_id": "2636",
+                        "stop_lat": "41.751113",
+                        "stop_lon": "-87.617912",
+                        "stop_name": "79th Street & Prairie",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "79th Street & Prairie",
+            "onestopId": "s-dp3tw0w9fe-79th~prairie",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12882,39 +12915,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.608825,
-                    41.765905
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-10841",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "10841",
-                        "stop_desc": "71st Street & Langley, Westbound, Northside of the Street",
-                        "stop_id": "10841",
-                        "stop_lat": "41.765905",
-                        "stop_lon": "-87.608825",
-                        "stop_name": "71st Street & Langley",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "71st Street & Langley",
-            "onestopId": "s-dp3tw7m0n2-71st~langley",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.60046475,
                     41.75125815
                 ],
@@ -13113,29 +13113,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.59774366,
-                    41.76039261
+                    -87.59405738,
+                    41.78610827
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7399",
+                    "identifier": "f-cta-s-15428",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7399",
-                        "stop_desc": "South Chicago & 74th Street, Northwestbound, Southeast Corner",
-                        "stop_id": "7399",
-                        "stop_lat": "41.76039261",
-                        "stop_lon": "-87.59774366",
-                        "stop_name": "South Chicago & 74th Street",
+                        "stop_code": "15428",
+                        "stop_desc": "60th Street & Kimbark, Westbound, Northside of the Street",
+                        "stop_id": "15428",
+                        "stop_lat": "41.78610827",
+                        "stop_lon": "-87.59405738",
+                        "stop_name": "60th Street & Kimbark",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "South Chicago & 74th Street",
-            "onestopId": "s-dp3twdjrbt-southchicago~74th",
+            "name": "60th Street & Kimbark",
+            "onestopId": "s-dp3twwzvwx-60th~kimbark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13212,29 +13212,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60623817,
-                    41.78968132
+                    -87.61520744,
+                    41.75815699
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2561",
+                    "identifier": "f-cta-s-2244",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2561",
-                        "stop_desc": "Cottage Grove & 58th Street, Southbound, Westside of the Street",
-                        "stop_id": "2561",
-                        "stop_lat": "41.78968132",
-                        "stop_lon": "-87.60623817",
-                        "stop_name": "Cottage Grove & 58th Street",
+                        "stop_code": "2244",
+                        "stop_desc": "King Drive & 75th Street, Southbound, Southwest Corner",
+                        "stop_id": "2244",
+                        "stop_lat": "41.75815699",
+                        "stop_lon": "-87.61520744",
+                        "stop_name": "King Drive & 75th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cottage Grove & 58th Street",
-            "onestopId": "s-dp3twrx4d9-cottagegrove~58th",
+            "name": "King Drive & 75th Street",
+            "onestopId": "s-dp3tw3bdcs-king~75th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13410,29 +13410,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60102238,
-                    41.78417286
+                    -87.5876645,
+                    41.75285417
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-13030",
+                    "identifier": "f-cta-s-7236",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "13030",
-                        "stop_desc": "61st Street & Ellis, Westbound, Northeast Corner",
-                        "stop_id": "13030",
-                        "stop_lat": "41.78417286",
-                        "stop_lon": "-87.60102238",
-                        "stop_name": "61st Street & Ellis",
+                        "stop_code": "7236",
+                        "stop_desc": "South Chicago & Harper, Southeastbound, Westside of the Street",
+                        "stop_id": "7236",
+                        "stop_lat": "41.75285417",
+                        "stop_lon": "-87.5876645",
+                        "stop_name": "South Chicago & Harper",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "61st Street & Ellis",
-            "onestopId": "s-dp3twwdfkn-61st~ellis",
+            "name": "South Chicago & Harper",
+            "onestopId": "s-dp3twbus52-southchicago~harper",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13575,29 +13575,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61536517,
-                    41.75846875
+                    -87.59172048,
+                    41.77322081
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17957",
+                    "identifier": "f-cta-s-10194",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17957",
-                        "stop_desc": "75th Street & King Drive, Westbound, Northwest Corner",
-                        "stop_id": "17957",
-                        "stop_lat": "41.75846875",
-                        "stop_lon": "-87.61536517",
-                        "stop_name": "75th Street & King Drive",
+                        "stop_code": "10194",
+                        "stop_desc": "67th Street & Dorchester, Eastbound, Southwest Corner",
+                        "stop_id": "10194",
+                        "stop_lat": "41.77322081",
+                        "stop_lon": "-87.59172048",
+                        "stop_name": "67th Street & Dorchester",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "75th Street & King Drive",
-            "onestopId": "s-dp3tw3bkwn-75th~king",
+            "name": "67th Street & Dorchester",
+            "onestopId": "s-dp3twu9dsu-67th~dorchester",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13740,29 +13740,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62188137,
-                    41.76550604
+                    -87.58660825,
+                    41.78279019
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10782",
+                    "identifier": "f-cta-s-1661",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10782",
-                        "stop_desc": "71st Street & Michigan, Eastbound, Southwest Corner",
-                        "stop_id": "10782",
-                        "stop_lat": "41.76550604",
-                        "stop_lon": "-87.62188137",
-                        "stop_name": "71st Street & Michigan",
+                        "stop_code": "1661",
+                        "stop_desc": "Stony Island & 62nd Street, Southbound, Southwest Corner",
+                        "stop_id": "1661",
+                        "stop_lat": "41.78279019",
+                        "stop_lon": "-87.58660825",
+                        "stop_name": "Stony Island & 62nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "71st Street & Michigan",
-            "onestopId": "s-dp3tw55twn-71st~michigan",
+            "name": "Stony Island & 62nd Street",
+            "onestopId": "s-dp3twym6kh-stonyisland~62nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13971,6 +13971,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.614963,
+                    41.749453
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-2249",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "2249",
+                        "stop_desc": "King Drive & 80th Street, Southbound, Northwest Corner",
+                        "stop_id": "2249",
+                        "stop_lat": "41.749453",
+                        "stop_lon": "-87.614963",
+                        "stop_name": "King Drive & 80th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "King Drive & 80th Street",
+            "onestopId": "s-dp3tw228pq-king~80th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.6155379,
                     41.78043717
                 ],
@@ -14159,39 +14192,6 @@
             ],
             "name": "67th Street & Cornell",
             "onestopId": "s-dp3twuw7j9-67th~cornell",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.60562396,
-                    41.7585108
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-10939",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "10939",
-                        "stop_desc": "75th Street & Cottage Grove, Eastbound, Southwest Corner",
-                        "stop_id": "10939",
-                        "stop_lat": "41.7585108",
-                        "stop_lon": "-87.60562396",
-                        "stop_name": "75th Street & Cottage Grove",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "75th Street & Cottage Grove",
-            "onestopId": "s-dp3tw3zscn-75th~cottagegrove",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14697,39 +14697,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61585296,
-                    41.78919883
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2226",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2226",
-                        "stop_desc": "King Drive & 58th Street, Southbound, Southwest Corner",
-                        "stop_id": "2226",
-                        "stop_lat": "41.78919883",
-                        "stop_lon": "-87.61585296",
-                        "stop_name": "King Drive & 58th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "King Drive & 58th Street",
-            "onestopId": "s-dp3twr2pdx-king~58th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.625407,
                     41.78712
                 ],
@@ -14763,29 +14730,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61536335,
-                    41.77313773
+                    -87.62601277,
+                    41.7690992
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2134",
+                    "identifier": "f-cta-s-10178",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2134",
-                        "stop_desc": "King Drive & Marquette Rd, Northbound, Northeast Corner",
-                        "stop_id": "2134",
-                        "stop_lat": "41.77313773",
-                        "stop_lon": "-87.61536335",
-                        "stop_name": "King Drive & Marquette Rd",
+                        "stop_code": "10178",
+                        "stop_desc": "69th Red Line Station, Eastbound, Southside of the Street",
+                        "stop_id": "10178",
+                        "stop_lat": "41.7690992",
+                        "stop_lon": "-87.62601277",
+                        "stop_name": "69th Red Line Station",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & Marquette Rd",
-            "onestopId": "s-dp3twk86nj-king~marquette",
+            "name": "69th Red Line Station",
+            "onestopId": "s-dp3tw5bdtu-69thredlinestation",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14918,39 +14885,6 @@
             ],
             "name": "75th Street & Prairie",
             "onestopId": "s-dp3tw1ykkn-75th~prairie",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.610627,
-                    41.76573
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-10789",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "10789",
-                        "stop_desc": "71st Street & St. Lawrence, Eastbound, Southwest Corner",
-                        "stop_id": "10789",
-                        "stop_lat": "41.76573",
-                        "stop_lon": "-87.610627",
-                        "stop_name": "71st Street & St. Lawrence",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "71st Street & St. Lawrence",
-            "onestopId": "s-dp3tw75zh2-71st~lawrence",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15357,29 +15291,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6230994,
-                    41.75091817
+                    -87.624906,
+                    41.77086733
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2776",
+                    "identifier": "f-cta-s-2295",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2776",
-                        "stop_desc": "79th Street & Wabash, Eastbound, Southwest Corner",
-                        "stop_id": "2776",
-                        "stop_lat": "41.75091817",
-                        "stop_lon": "-87.6230994",
-                        "stop_name": "79th Street & Wabash",
+                        "stop_code": "2295",
+                        "stop_desc": "State & 68th Street, Northbound, Southeast Corner",
+                        "stop_id": "2295",
+                        "stop_lat": "41.77086733",
+                        "stop_lon": "-87.624906",
+                        "stop_name": "State & 68th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "79th Street & Wabash",
-            "onestopId": "s-dp3tw0db9z-79th~wabash",
+            "name": "State & 68th Street",
+            "onestopId": "s-dp3twh1kzw-state~68th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15621,29 +15555,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60228391,
-                    41.763365
+                    -87.60212043,
+                    41.763535
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17660",
+                    "identifier": "f-cta-s-7401",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17660",
-                        "stop_desc": "South Chicago & Ingleside, Southeastbound, Southside of the Street",
-                        "stop_id": "17660",
-                        "stop_lat": "41.763365",
-                        "stop_lon": "-87.60228391",
+                        "stop_code": "7401",
+                        "stop_desc": "South Chicago & Ingleside, Northwestbound, Southeast Corner",
+                        "stop_id": "7401",
+                        "stop_lat": "41.763535",
+                        "stop_lon": "-87.60212043",
                         "stop_name": "South Chicago & Ingleside",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
             "name": "South Chicago & Ingleside",
-            "onestopId": "s-dp3twdccnz-southchicago~ingleside",
+            "onestopId": "s-dp3twdf44x-southchicago~ingleside",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15852,6 +15786,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.61525474,
+                    41.76009709
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-2243",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "2243",
+                        "stop_desc": "King Drive & 74th Street, Southbound, Southwest Corner",
+                        "stop_id": "2243",
+                        "stop_lat": "41.76009709",
+                        "stop_lon": "-87.61525474",
+                        "stop_name": "King Drive & 74th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "King Drive & 74th Street",
+            "onestopId": "s-dp3tw60w0w-king~74th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.585672,
                     41.760483
                 ],
@@ -15988,6 +15955,39 @@
             ],
             "name": "79th Street & Calumet",
             "onestopId": "s-dp3tw0x3ry-79th~calumet",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.61552795,
+                    41.78030144
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3222",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3222",
+                        "stop_desc": "63rd Street & King Drive (Green Line), Westbound, Northeast Corner",
+                        "stop_id": "3222",
+                        "stop_lat": "41.78030144",
+                        "stop_lon": "-87.61552795",
+                        "stop_name": "63rd Street & King Drive (Green Line)",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "63rd Street & King Drive (Green Line)",
+            "onestopId": "s-dp3twmb7fh-63rd~kinggreenline",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -16163,29 +16163,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61181158,
-                    41.77131482
+                    -87.586775,
+                    41.791215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10085",
+                    "identifier": "f-cta-s-1656",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10085",
-                        "stop_desc": "Rhodes & 68th Street, Southbound, Westside of the Street",
-                        "stop_id": "10085",
-                        "stop_lat": "41.77131482",
-                        "stop_lon": "-87.61181158",
-                        "stop_name": "Rhodes & 68th Street",
+                        "stop_code": "1656",
+                        "stop_desc": "Stony Island & 57th Street, Southbound, Southwest Corner",
+                        "stop_id": "1656",
+                        "stop_lat": "41.791215",
+                        "stop_lon": "-87.586775",
+                        "stop_name": "Stony Island & 57th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Rhodes & 68th Street",
-            "onestopId": "s-dp3twk5p8c-rhodes~68th",
+            "name": "Stony Island & 57th Street",
+            "onestopId": "s-dp3twzv72p-stonyisland~57th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -16328,29 +16328,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60107936,
-                    41.78597078
+                    -87.60623817,
+                    41.78968132
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14032",
+                    "identifier": "f-cta-s-2561",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14032",
-                        "stop_desc": "60th Street & Ellis, Westbound, Northeast Corner",
-                        "stop_id": "14032",
-                        "stop_lat": "41.78597078",
-                        "stop_lon": "-87.60107936",
-                        "stop_name": "60th Street & Ellis",
+                        "stop_code": "2561",
+                        "stop_desc": "Cottage Grove & 58th Street, Southbound, Westside of the Street",
+                        "stop_id": "2561",
+                        "stop_lat": "41.78968132",
+                        "stop_lon": "-87.60623817",
+                        "stop_name": "Cottage Grove & 58th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "60th Street & Ellis",
-            "onestopId": "s-dp3twwfufv-60th~ellis",
+            "name": "Cottage Grove & 58th Street",
+            "onestopId": "s-dp3twrx4d9-cottagegrove~58th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -16460,29 +16460,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61520744,
-                    41.75815699
+                    -87.59142268,
+                    41.75555816
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2244",
+                    "identifier": "f-cta-s-7233",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2244",
-                        "stop_desc": "King Drive & 75th Street, Southbound, Southwest Corner",
-                        "stop_id": "2244",
-                        "stop_lat": "41.75815699",
-                        "stop_lon": "-87.61520744",
-                        "stop_name": "King Drive & 75th Street",
+                        "stop_code": "7233",
+                        "stop_desc": "South Chicago & Dorchester, Southeastbound, Westside of the Street",
+                        "stop_id": "7233",
+                        "stop_lat": "41.75555816",
+                        "stop_lon": "-87.59142268",
+                        "stop_name": "South Chicago & Dorchester",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 75th Street",
-            "onestopId": "s-dp3tw3bdcs-king~75th",
+            "name": "South Chicago & Dorchester",
+            "onestopId": "s-dp3twc3ggb-southchicago~dorchester",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -16625,29 +16625,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62227473,
-                    41.77997097
+                    -87.62394954,
+                    41.78367527
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3434",
+                    "identifier": "f-cta-s-13000",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3434",
-                        "stop_desc": "63rd Street & Michigan, Eastbound, Southside of the Street",
-                        "stop_id": "3434",
-                        "stop_lat": "41.77997097",
-                        "stop_lon": "-87.62227473",
-                        "stop_name": "63rd Street & Michigan",
+                        "stop_code": "13000",
+                        "stop_desc": "61st Street & Wabash, Eastbound, Southwest Corner",
+                        "stop_id": "13000",
+                        "stop_lat": "41.78367527",
+                        "stop_lon": "-87.62394954",
+                        "stop_name": "61st Street & Wabash",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & Michigan",
-            "onestopId": "s-dp3twjg3vp-63rd~michigan",
+            "name": "61st Street & Wabash",
+            "onestopId": "s-dp3twn6ptc-61st~wabash",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -16691,29 +16691,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.58624585,
-                    41.75886943
+                    -87.60562396,
+                    41.7585108
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7190",
+                    "identifier": "f-cta-s-10939",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7190",
-                        "stop_desc": "Stony Island & 75th Street, Southbound, Northwest Corner",
-                        "stop_id": "7190",
-                        "stop_lat": "41.75886943",
-                        "stop_lon": "-87.58624585",
-                        "stop_name": "Stony Island & 75th Street",
+                        "stop_code": "10939",
+                        "stop_desc": "75th Street & Cottage Grove, Eastbound, Southwest Corner",
+                        "stop_id": "10939",
+                        "stop_lat": "41.7585108",
+                        "stop_lon": "-87.60562396",
+                        "stop_name": "75th Street & Cottage Grove",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Stony Island & 75th Street",
-            "onestopId": "s-dp3twcvxh9-stonyisland~75th",
+            "name": "75th Street & Cottage Grove",
+            "onestopId": "s-dp3tw3zscn-75th~cottagegrove",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

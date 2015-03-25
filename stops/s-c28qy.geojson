@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.090936,
-                    49.019296
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7567",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57494",
-                        "stop_desc": "ENGLISH BLUFF RD @ WESLEY DR",
-                        "stop_id": "7567",
-                        "stop_lat": "49.019296",
-                        "stop_lon": "-123.090936",
-                        "stop_name": "SB ENGLISH BLUFF RD FS WESLEY DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB ENGLISH BLUFF RD FS WESLEY DR",
-            "onestopId": "s-c28qygxyj7-sbenglishblufffswesley",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.091668,
                     49.01333
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "SB ENGLISH BLUFF RD FS 6 AV",
             "onestopId": "s-c28qyfx7k4-sbenglishblufffs6",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.097076,
+                    49.029275
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11510",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61479",
+                        "stop_desc": "HWY 17 @ TSAWWASSEN DR",
+                        "stop_id": "11510",
+                        "stop_lat": "49.029275",
+                        "stop_lon": "-123.097076",
+                        "stop_name": "SB HWY 17 NS TSAWWASSEN DR",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB HWY 17 NS TSAWWASSEN DR",
+            "onestopId": "s-c28qyve2np-sb17nstsawwassen",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -173,74 +173,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.097601,
-                    49.029014
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6731",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56668",
-                        "stop_desc": "HWY 17 @ TSAWWASSEN DR",
-                        "stop_id": "6731",
-                        "stop_lat": "49.029014",
-                        "stop_lon": "-123.097601",
-                        "stop_name": "SB HWY 17 FS TSAWWASSEN DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB HWY 17 FS TSAWWASSEN DR",
-            "onestopId": "s-c28qyv7n9y-sb17fstsawwassen",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.090933,
-                    49.023102
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7566",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57493",
-                        "stop_desc": "ENGLISH BLUFF RD @ 1000 BLOCK",
-                        "stop_id": "7566",
-                        "stop_lat": "49.023102",
-                        "stop_lon": "-123.090933",
-                        "stop_name": "SB ENGLISH BLUFF RD AT 1000 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB ENGLISH BLUFF RD AT 1000 BLOCK",
-            "onestopId": "s-c28qyurum2-sbenglishbluffat1000block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.097394,
                     49.034665
                 ],
@@ -275,30 +207,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.099933,
-                    49.041909
+                    -123.090936,
+                    49.019296
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11138",
+                    "identifier": "f-translink-s-7567",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61224",
-                        "stop_desc": "TSAWWASSEN DR N @ 2100 BLOCK",
-                        "stop_id": "11138",
-                        "stop_lat": "49.041909",
-                        "stop_lon": "-123.099933",
-                        "stop_name": "NB TSAWWASSEN DR N AT 2100 BLOCK",
+                        "stop_code": "57494",
+                        "stop_desc": "ENGLISH BLUFF RD @ WESLEY DR",
+                        "stop_id": "7567",
+                        "stop_lat": "49.019296",
+                        "stop_lon": "-123.090936",
+                        "stop_name": "SB ENGLISH BLUFF RD FS WESLEY DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB TSAWWASSEN DR N AT 2100 BLOCK",
-            "onestopId": "s-c28qyzc3gd-nbtsawwassennat2100block",
+            "name": "SB ENGLISH BLUFF RD FS WESLEY DR",
+            "onestopId": "s-c28qygxyj7-sbenglishblufffswesley",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.097601,
+                    49.029014
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6731",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56668",
+                        "stop_desc": "HWY 17 @ TSAWWASSEN DR",
+                        "stop_id": "6731",
+                        "stop_lat": "49.029014",
+                        "stop_lon": "-123.097601",
+                        "stop_name": "SB HWY 17 FS TSAWWASSEN DR",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB HWY 17 FS TSAWWASSEN DR",
+            "onestopId": "s-c28qyv7n9y-sb17fstsawwassen",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -333,6 +299,40 @@
             ],
             "name": "SB ENGLISH BLUFF RD FS GLENWOOD DR",
             "onestopId": "s-c28qygp5f4-sbenglishblufffsglenwood",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.099933,
+                    49.041909
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11138",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61224",
+                        "stop_desc": "TSAWWASSEN DR N @ 2100 BLOCK",
+                        "stop_id": "11138",
+                        "stop_lat": "49.041909",
+                        "stop_lon": "-123.099933",
+                        "stop_name": "NB TSAWWASSEN DR N AT 2100 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB TSAWWASSEN DR N AT 2100 BLOCK",
+            "onestopId": "s-c28qyzc3gd-nbtsawwassennat2100block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -479,30 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.097076,
-                    49.029275
+                    -123.090933,
+                    49.023102
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11510",
+                    "identifier": "f-translink-s-7566",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61479",
-                        "stop_desc": "HWY 17 @ TSAWWASSEN DR",
-                        "stop_id": "11510",
-                        "stop_lat": "49.029275",
-                        "stop_lon": "-123.097076",
-                        "stop_name": "SB HWY 17 NS TSAWWASSEN DR",
+                        "stop_code": "57493",
+                        "stop_desc": "ENGLISH BLUFF RD @ 1000 BLOCK",
+                        "stop_id": "7566",
+                        "stop_lat": "49.023102",
+                        "stop_lon": "-123.090933",
+                        "stop_name": "SB ENGLISH BLUFF RD AT 1000 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB HWY 17 NS TSAWWASSEN DR",
-            "onestopId": "s-c28qyve2np-sb17nstsawwassen",
+            "name": "SB ENGLISH BLUFF RD AT 1000 BLOCK",
+            "onestopId": "s-c28qyurum2-sbenglishbluffat1000block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

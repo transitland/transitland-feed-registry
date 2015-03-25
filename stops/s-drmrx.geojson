@@ -38,6 +38,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.039942,
+                    42.135099
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-4230",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4230",
+                        "stop_desc": "",
+                        "stop_id": "4230",
+                        "stop_lat": "42.135099",
+                        "stop_lon": "-71.039942",
+                        "stop_name": "47 N Main St",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "47 N Main St",
+            "onestopId": "s-drmrxqqq9r-47nmain",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.039951,
                     42.138425
                 ],
@@ -63,41 +98,6 @@
             ],
             "name": "702 S Main St",
             "onestopId": "s-drmrxrn615-702smain",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.040927,
-                    42.14215
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4227",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4227",
-                        "stop_desc": "",
-                        "stop_id": "4227",
-                        "stop_lat": "42.14215",
-                        "stop_lon": "-71.040927",
-                        "stop_name": "625 S Main St opp Frederickson Dr",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "625 S Main St opp Frederickson Dr",
-            "onestopId": "s-drmrxrtxf6-625smainoppfrederickson",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -143,101 +143,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.040192,
-                    42.137248
+                    -71.040198,
+                    42.131584
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4229",
+                    "identifier": "f-mbta-s-4232",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4229",
+                        "stop_code": "4232",
                         "stop_desc": "",
-                        "stop_id": "4229",
-                        "stop_lat": "42.137248",
-                        "stop_lon": "-71.040192",
-                        "stop_name": "N Main St @ Langley Rd",
+                        "stop_id": "4232",
+                        "stop_lat": "42.131584",
+                        "stop_lon": "-71.040198",
+                        "stop_name": "E Main St @ W Main St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "N Main St @ Langley Rd",
-            "onestopId": "s-drmrxqy578-nmain~langley",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.04001,
-                    42.137689
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4235",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4235",
-                        "stop_desc": "",
-                        "stop_id": "4235",
-                        "stop_lat": "42.137689",
-                        "stop_lon": "-71.04001",
-                        "stop_name": "S Main St @ Acorn Dr",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "S Main St @ Acorn Dr",
-            "onestopId": "s-drmrxqyjzf-smain~acorn",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.039677,
-                    42.134949
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4234",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4234",
-                        "stop_desc": "",
-                        "stop_id": "4234",
-                        "stop_lat": "42.134949",
-                        "stop_lon": "-71.039677",
-                        "stop_name": "40 N Main St",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "40 N Main St",
-            "onestopId": "s-drmrxqqmze-40nmain",
+            "name": "E Main St @ W Main St",
+            "onestopId": "s-drmrxmy472-emain~wmain",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -273,6 +203,76 @@
             ],
             "name": "Montello Commuter Rail Station",
             "onestopId": "s-drmrxc5xbw-montellocommuterrailstation",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.040927,
+                    42.14215
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-4227",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4227",
+                        "stop_desc": "",
+                        "stop_id": "4227",
+                        "stop_lat": "42.14215",
+                        "stop_lon": "-71.040927",
+                        "stop_name": "625 S Main St opp Frederickson Dr",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "625 S Main St opp Frederickson Dr",
+            "onestopId": "s-drmrxrtxf6-625smainoppfrederickson",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.022001,
+                    42.106555
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-Montello",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "Montello",
+                        "stop_lat": "42.106555",
+                        "stop_lon": "-71.022001",
+                        "stop_name": "Montello",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Montello",
+            "onestopId": "s-drmrxc727q-montello",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -353,31 +353,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.039942,
-                    42.135099
+                    -71.04001,
+                    42.137689
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4230",
+                    "identifier": "f-mbta-s-4235",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4230",
+                        "stop_code": "4235",
                         "stop_desc": "",
-                        "stop_id": "4230",
-                        "stop_lat": "42.135099",
-                        "stop_lon": "-71.039942",
-                        "stop_name": "47 N Main St",
+                        "stop_id": "4235",
+                        "stop_lat": "42.137689",
+                        "stop_lon": "-71.04001",
+                        "stop_name": "S Main St @ Acorn Dr",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "47 N Main St",
-            "onestopId": "s-drmrxqqq9r-47nmain",
+            "name": "S Main St @ Acorn Dr",
+            "onestopId": "s-drmrxqyjzf-smain~acorn",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -458,6 +458,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.040192,
+                    42.137248
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-4229",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4229",
+                        "stop_desc": "",
+                        "stop_id": "4229",
+                        "stop_lat": "42.137248",
+                        "stop_lon": "-71.040192",
+                        "stop_name": "N Main St @ Langley Rd",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "N Main St @ Langley Rd",
+            "onestopId": "s-drmrxqy578-nmain~langley",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.016514,
                     42.120798
                 ],
@@ -483,41 +518,6 @@
             ],
             "name": "S Franklin St @ Howard Ave",
             "onestopId": "s-drmrxgz77m-sfranklin~howard",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.040198,
-                    42.131584
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4232",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4232",
-                        "stop_desc": "",
-                        "stop_id": "4232",
-                        "stop_lat": "42.131584",
-                        "stop_lon": "-71.040198",
-                        "stop_name": "E Main St @ W Main St",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "E Main St @ W Main St",
-            "onestopId": "s-drmrxmy472-emain~wmain",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -563,31 +563,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.022001,
-                    42.106555
+                    -71.039677,
+                    42.134949
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-Montello",
+                    "identifier": "f-mbta-s-4234",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "",
+                        "stop_code": "4234",
                         "stop_desc": "",
-                        "stop_id": "Montello",
-                        "stop_lat": "42.106555",
-                        "stop_lon": "-71.022001",
-                        "stop_name": "Montello",
+                        "stop_id": "4234",
+                        "stop_lat": "42.134949",
+                        "stop_lon": "-71.039677",
+                        "stop_name": "40 N Main St",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Montello",
-            "onestopId": "s-drmrxc727q-montello",
+            "name": "40 N Main St",
+            "onestopId": "s-drmrxqqmze-40nmain",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

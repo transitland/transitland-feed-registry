@@ -39,6 +39,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.692424,
+                    45.437754
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9407",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "9407",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 9407)",
+                        "stop_id": "9407",
+                        "stop_lat": "45.437754",
+                        "stop_lon": "-122.692424",
+                        "stop_name": "SW Boones Ferry Rd & 13th Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9407",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Boones Ferry Rd & 13th Ct",
+            "onestopId": "s-c20f2pdn57-swboonesferry~13th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.663643,
                     45.415481
                 ],
@@ -759,32 +795,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.675152,
-                    45.420703
+                    -122.67268,
+                    45.420411
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4",
+                    "identifier": "f-trimet-s-7",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "4",
-                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 4)",
-                        "stop_id": "4",
-                        "stop_lat": "45.420703",
-                        "stop_lon": "-122.675152",
-                        "stop_name": "A Ave & 10th St",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4",
+                        "stop_code": "7",
+                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 7)",
+                        "stop_id": "7",
+                        "stop_lat": "45.420411",
+                        "stop_lon": "-122.67268",
+                        "stop_name": "A Ave & 8th St",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "A Ave & 10th St",
-            "onestopId": "s-c20f2kwdvb-a~10th",
+            "name": "A Ave & 8th St",
+            "onestopId": "s-c20f2s83p6-a~8th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -903,32 +939,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.679181,
-                    45.423077
+                    -122.657707,
+                    45.402215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1221",
+                    "identifier": "f-trimet-s-6317",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1221",
-                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 1221)",
-                        "stop_id": "1221",
-                        "stop_lat": "45.423077",
-                        "stop_lon": "-122.679181",
-                        "stop_name": "Country Club & Iron Mtn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1221",
+                        "stop_code": "6317",
+                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 6317)",
+                        "stop_id": "6317",
+                        "stop_lat": "45.402215",
+                        "stop_lon": "-122.657707",
+                        "stop_name": "Pacific Hwy & Glenmorrie",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6317",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Country Club & Iron Mtn",
-            "onestopId": "s-c20f2m58xg-countryclub~ironmtn",
+            "name": "Pacific Hwy & Glenmorrie",
+            "onestopId": "s-c20f2c5rh6-pacific~glenmorrie",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1119,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.671973,
-                    45.4087
+                    -122.65996,
+                    45.407848
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3814",
+                    "identifier": "f-trimet-s-6327",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3814",
-                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 3814)",
-                        "stop_id": "3814",
-                        "stop_lat": "45.4087",
-                        "stop_lon": "-122.671973",
-                        "stop_name": "McVey & Cornell",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3814",
+                        "position": "Opposite",
+                        "stop_code": "6327",
+                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 6327)",
+                        "stop_id": "6327",
+                        "stop_lat": "45.407848",
+                        "stop_lon": "-122.65996",
+                        "stop_name": "Pacific Hwy & Laurel",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6327",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "McVey & Cornell",
-            "onestopId": "s-c20f2d2uzg-mcvey~cornell",
+            "name": "Pacific Hwy & Laurel",
+            "onestopId": "s-c20f2f1xzu-pacific~laurel",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1227,32 +1263,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.67268,
-                    45.420411
+                    -122.675152,
+                    45.420703
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7",
+                    "identifier": "f-trimet-s-4",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7",
-                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 7)",
-                        "stop_id": "7",
-                        "stop_lat": "45.420411",
-                        "stop_lon": "-122.67268",
-                        "stop_name": "A Ave & 8th St",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7",
+                        "stop_code": "4",
+                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 4)",
+                        "stop_id": "4",
+                        "stop_lat": "45.420703",
+                        "stop_lon": "-122.675152",
+                        "stop_name": "A Ave & 10th St",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "A Ave & 8th St",
-            "onestopId": "s-c20f2s83p6-a~8th",
+            "name": "A Ave & 10th St",
+            "onestopId": "s-c20f2kwdvb-a~10th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1263,32 +1299,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.657707,
-                    45.402215
+                    -122.679181,
+                    45.423077
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6317",
+                    "identifier": "f-trimet-s-1221",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "6317",
-                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 6317)",
-                        "stop_id": "6317",
-                        "stop_lat": "45.402215",
-                        "stop_lon": "-122.657707",
-                        "stop_name": "Pacific Hwy & Glenmorrie",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6317",
+                        "stop_code": "1221",
+                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 1221)",
+                        "stop_id": "1221",
+                        "stop_lat": "45.423077",
+                        "stop_lon": "-122.679181",
+                        "stop_name": "Country Club & Iron Mtn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1221",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Pacific Hwy & Glenmorrie",
-            "onestopId": "s-c20f2c5rh6-pacific~glenmorrie",
+            "name": "Country Club & Iron Mtn",
+            "onestopId": "s-c20f2m58xg-countryclub~ironmtn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1407,32 +1443,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.692424,
-                    45.437754
+                    -122.666168,
+                    45.410804
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9407",
+                    "identifier": "f-trimet-s-3812",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9407",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 9407)",
-                        "stop_id": "9407",
-                        "stop_lat": "45.437754",
-                        "stop_lon": "-122.692424",
-                        "stop_name": "SW Boones Ferry Rd & 13th Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9407",
+                        "position": "At",
+                        "stop_code": "3812",
+                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 3812)",
+                        "stop_id": "3812",
+                        "stop_lat": "45.410804",
+                        "stop_lon": "-122.666168",
+                        "stop_name": "600 Block McVey",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3812",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & 13th Ct",
-            "onestopId": "s-c20f2pdn57-swboonesferry~13th",
+            "name": "600 Block McVey",
+            "onestopId": "s-c20f2dv1p5-600blockmcvey",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,42 +1623,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.666168,
-                    45.410804
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3812",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "3812",
-                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 3812)",
-                        "stop_id": "3812",
-                        "stop_lat": "45.410804",
-                        "stop_lon": "-122.666168",
-                        "stop_name": "600 Block McVey",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3812",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "600 Block McVey",
-            "onestopId": "s-c20f2dv1p5-600blockmcvey",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.694677,
                     45.405911
                 ],
@@ -1659,32 +1659,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.679115,
-                    45.422846
+                    -122.67307,
+                    45.420217
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1222",
+                    "identifier": "f-trimet-s-6",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1222",
-                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 1222)",
-                        "stop_id": "1222",
-                        "stop_lat": "45.422846",
-                        "stop_lon": "-122.679115",
-                        "stop_name": "Country Club & Iron Mtn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1222",
+                        "stop_code": "6",
+                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 6)",
+                        "stop_id": "6",
+                        "stop_lat": "45.420217",
+                        "stop_lon": "-122.67307",
+                        "stop_name": "A Ave & 8th St",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Country Club & Iron Mtn",
-            "onestopId": "s-c20f2kgz32-countryclub~ironmtn",
+            "name": "A Ave & 8th St",
+            "onestopId": "s-c20f2s2pyq-a~8th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1721,42 +1721,6 @@
             ],
             "name": "Lake Oswego Transit Center",
             "onestopId": "s-c20f2seucf-lakeoswegotransit",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.65996,
-                    45.407848
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6327",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "6327",
-                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 6327)",
-                        "stop_id": "6327",
-                        "stop_lat": "45.407848",
-                        "stop_lon": "-122.65996",
-                        "stop_name": "Pacific Hwy & Laurel",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6327",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Pacific Hwy & Laurel",
-            "onestopId": "s-c20f2f1xzu-pacific~laurel",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2127,32 +2091,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.663423,
-                    45.417547
+                    -122.671973,
+                    45.4087
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5510",
+                    "identifier": "f-trimet-s-3814",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "5510",
-                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 5510)",
-                        "stop_id": "5510",
-                        "stop_lat": "45.417547",
-                        "stop_lon": "-122.663423",
-                        "stop_name": "N State & Foothills",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5510",
+                        "position": "Farside",
+                        "stop_code": "3814",
+                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 3814)",
+                        "stop_id": "3814",
+                        "stop_lat": "45.4087",
+                        "stop_lon": "-122.671973",
+                        "stop_name": "McVey & Cornell",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3814",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N State & Foothills",
-            "onestopId": "s-c20f2sp0rh-nstate~foothills",
+            "name": "McVey & Cornell",
+            "onestopId": "s-c20f2d2uzg-mcvey~cornell",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2199,32 +2163,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.67307,
-                    45.420217
+                    -122.679115,
+                    45.422846
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6",
+                    "identifier": "f-trimet-s-1222",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6",
-                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 6)",
-                        "stop_id": "6",
-                        "stop_lat": "45.420217",
-                        "stop_lon": "-122.67307",
-                        "stop_name": "A Ave & 8th St",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6",
+                        "stop_code": "1222",
+                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 1222)",
+                        "stop_id": "1222",
+                        "stop_lat": "45.422846",
+                        "stop_lon": "-122.679115",
+                        "stop_name": "Country Club & Iron Mtn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1222",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "A Ave & 8th St",
-            "onestopId": "s-c20f2s2pyq-a~8th",
+            "name": "Country Club & Iron Mtn",
+            "onestopId": "s-c20f2kgz32-countryclub~ironmtn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2261,6 +2225,42 @@
             ],
             "name": "A Ave & Chandler",
             "onestopId": "s-c20f2kw61s-a~chandler",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.663423,
+                    45.417547
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5510",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "5510",
+                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 5510)",
+                        "stop_id": "5510",
+                        "stop_lat": "45.417547",
+                        "stop_lon": "-122.663423",
+                        "stop_name": "N State & Foothills",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5510",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "N State & Foothills",
+            "onestopId": "s-c20f2sp0rh-nstate~foothills",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

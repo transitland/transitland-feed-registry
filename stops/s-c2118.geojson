@@ -75,42 +75,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.333986,
-                    45.289754
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9430",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9430",
-                        "stop_desc": "Southbound stop in Estacada (Stop ID 9430)",
-                        "stop_id": "9430",
-                        "stop_lat": "45.289754",
-                        "stop_lon": "-122.333986",
-                        "stop_name": "NE Main & E 1st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9430",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Main & E 1st",
-            "onestopId": "s-c2118hxpgw-nemain~e1st",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.339279,
                     45.307169
                 ],
@@ -255,6 +219,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.33301,
+                    45.285227
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1252",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1252",
+                        "stop_desc": "Southbound stop in Estacada (Stop ID 1252)",
+                        "stop_id": "1252",
+                        "stop_lat": "45.285227",
+                        "stop_lon": "-122.33301",
+                        "stop_name": "SE Currin & Hwy 211-224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1252",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Currin & Hwy 211-224",
+            "onestopId": "s-c21185zvd6-securrin~211224",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.333948,
                     45.287383
                 ],
@@ -327,32 +327,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.33301,
-                    45.285227
+                    -122.333986,
+                    45.289754
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1252",
+                    "identifier": "f-trimet-s-9430",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1252",
-                        "stop_desc": "Southbound stop in Estacada (Stop ID 1252)",
-                        "stop_id": "1252",
-                        "stop_lat": "45.285227",
-                        "stop_lon": "-122.33301",
-                        "stop_name": "SE Currin & Hwy 211-224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1252",
+                        "stop_code": "9430",
+                        "stop_desc": "Southbound stop in Estacada (Stop ID 9430)",
+                        "stop_id": "9430",
+                        "stop_lat": "45.289754",
+                        "stop_lon": "-122.333986",
+                        "stop_name": "NE Main & E 1st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9430",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Currin & Hwy 211-224",
-            "onestopId": "s-c21185zvd6-securrin~211224",
+            "name": "NE Main & E 1st",
+            "onestopId": "s-c2118hxpgw-nemain~e1st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

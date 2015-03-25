@@ -615,68 +615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.475674,
-                    45.488876
+                    -122.50396,
+                    45.519254
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2670",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2670",
-                        "stop_desc": "Southbound stop in Gresham (Stop ID 2670)",
-                        "stop_id": "2670",
-                        "stop_lat": "45.488876",
-                        "stop_lon": "-122.475674",
-                        "stop_name": "SW Highland & 11th St",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2670",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Highland & 11th St",
-            "onestopId": "s-c20fubzzvv-swhighland~11th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.506916,
-                    45.504384
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1407",
+                    "identifier": "f-trimet-s-11071",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1407",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1407)",
-                        "stop_id": "1407",
-                        "stop_lat": "45.504384",
-                        "stop_lon": "-122.506916",
-                        "stop_name": "SE Division & 152nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1407",
+                        "position": "Opposite",
+                        "stop_code": "11071",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 11071)",
+                        "stop_id": "11071",
+                        "stop_lat": "45.519254",
+                        "stop_lon": "-122.50396",
+                        "stop_name": "SE Stark & 155th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11071",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Division & 152nd",
-            "onestopId": "s-c20fu7c4jz-sedivision~152nd",
+            "name": "SE Stark & 155th",
+            "onestopId": "s-c20fuqe2fg-sestark~155th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -723,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.509687,
-                    45.522237
+                    -122.47975,
+                    45.491435
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8350",
+                    "identifier": "f-trimet-s-4554",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
-                        "parent_station": "landmark-124",
+                        "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "8350",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 8350)",
-                        "stop_id": "8350",
-                        "stop_lat": "45.522237",
-                        "stop_lon": "-122.509687",
-                        "stop_name": "E 148th Ave MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8350",
-                        "zone_id": "R"
+                        "stop_code": "4554",
+                        "stop_desc": "Westbound stop in Gresham (Stop ID 4554)",
+                        "stop_id": "4554",
+                        "stop_lat": "45.491435",
+                        "stop_lon": "-122.47975",
+                        "stop_name": "W Powell & Village Drive",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4554",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "E 148th Ave MAX Station",
-            "onestopId": "s-c20fupp4m2-e148thmaxstation",
+            "name": "W Powell & Village Drive",
+            "onestopId": "s-c20fuckyyf-wpowell~village",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -821,6 +785,42 @@
             ],
             "name": "SE Division & 162nd",
             "onestopId": "s-c20fuec49w-sedivision~162nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.496226,
+                    45.519239
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5455",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "5455",
+                        "stop_desc": "Westbound stop in Gresham (Stop ID 5455)",
+                        "stop_id": "5455",
+                        "stop_lat": "45.519239",
+                        "stop_lon": "-122.496226",
+                        "stop_name": "SE Stark & 162nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5455",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Stark & 162nd",
+            "onestopId": "s-c20fuw8bz1-sestark~162nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1047,32 +1047,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.510101,
-                    45.526364
+                    -122.499182,
+                    45.519054
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2053",
+                    "identifier": "f-trimet-s-5452",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "2053",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 2053)",
-                        "stop_id": "2053",
-                        "stop_lat": "45.526364",
-                        "stop_lon": "-122.510101",
-                        "stop_name": "NE Glisan & 148th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2053",
+                        "stop_code": "5452",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5452)",
+                        "stop_id": "5452",
+                        "stop_lat": "45.519054",
+                        "stop_lon": "-122.499182",
+                        "stop_name": "SE Stark & 160th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5452",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Glisan & 148th",
-            "onestopId": "s-c20fupyf79-neglisan~148th",
+            "name": "SE Stark & 160th",
+            "onestopId": "s-c20fuqqzdn-sestark~160th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1443,32 +1443,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.499182,
-                    45.519054
+                    -122.510101,
+                    45.526364
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5452",
+                    "identifier": "f-trimet-s-2053",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "5452",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5452)",
-                        "stop_id": "5452",
-                        "stop_lat": "45.519054",
-                        "stop_lon": "-122.499182",
-                        "stop_name": "SE Stark & 160th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5452",
+                        "stop_code": "2053",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 2053)",
+                        "stop_id": "2053",
+                        "stop_lat": "45.526364",
+                        "stop_lon": "-122.510101",
+                        "stop_name": "NE Glisan & 148th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2053",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Stark & 160th",
-            "onestopId": "s-c20fuqqzdn-sestark~160th",
+            "name": "NE Glisan & 148th",
+            "onestopId": "s-c20fupyf79-neglisan~148th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2271,42 +2271,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.511614,
-                    45.522344
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8367",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "landmark-124",
-                        "position": "Farside",
-                        "stop_code": "8367",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 8367)",
-                        "stop_id": "8367",
-                        "stop_lat": "45.522344",
-                        "stop_lon": "-122.511614",
-                        "stop_name": "E 148th Ave MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8367",
-                        "zone_id": "R"
-                    }
-                }
-            ],
-            "name": "E 148th Ave MAX Station",
-            "onestopId": "s-c20fupjfb7-e148thmaxstation",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.476242,
                     45.515745
                 ],
@@ -3027,32 +2991,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.484938,
-                    45.51905
+                    -122.511614,
+                    45.522344
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5461",
+                    "identifier": "f-trimet-s-8367",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5461",
-                        "stop_desc": "Eastbound stop in Gresham (Stop ID 5461)",
-                        "stop_id": "5461",
-                        "stop_lat": "45.51905",
-                        "stop_lon": "-122.484938",
-                        "stop_name": "SE Stark & 174th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5461",
-                        "zone_id": "B"
+                        "parent_station": "landmark-124",
+                        "position": "Farside",
+                        "stop_code": "8367",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 8367)",
+                        "stop_id": "8367",
+                        "stop_lat": "45.522344",
+                        "stop_lon": "-122.511614",
+                        "stop_name": "E 148th Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8367",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "SE Stark & 174th",
-            "onestopId": "s-c20fuy3pwj-sestark~174th",
+            "name": "E 148th Ave MAX Station",
+            "onestopId": "s-c20fupjfb7-e148thmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3603,32 +3567,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.496226,
-                    45.519239
+                    -122.506916,
+                    45.504384
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5455",
+                    "identifier": "f-trimet-s-1407",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "5455",
-                        "stop_desc": "Westbound stop in Gresham (Stop ID 5455)",
-                        "stop_id": "5455",
-                        "stop_lat": "45.519239",
-                        "stop_lon": "-122.496226",
-                        "stop_name": "SE Stark & 162nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5455",
+                        "stop_code": "1407",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1407)",
+                        "stop_id": "1407",
+                        "stop_lat": "45.504384",
+                        "stop_lon": "-122.506916",
+                        "stop_name": "SE Division & 152nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1407",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Stark & 162nd",
-            "onestopId": "s-c20fuw8bz1-sestark~162nd",
+            "name": "SE Division & 152nd",
+            "onestopId": "s-c20fu7c4jz-sedivision~152nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3639,32 +3603,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.50396,
-                    45.519254
+                    -122.475674,
+                    45.488876
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11071",
+                    "identifier": "f-trimet-s-2670",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "11071",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 11071)",
-                        "stop_id": "11071",
-                        "stop_lat": "45.519254",
-                        "stop_lon": "-122.50396",
-                        "stop_name": "SE Stark & 155th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11071",
+                        "position": "Nearside",
+                        "stop_code": "2670",
+                        "stop_desc": "Southbound stop in Gresham (Stop ID 2670)",
+                        "stop_id": "2670",
+                        "stop_lat": "45.488876",
+                        "stop_lon": "-122.475674",
+                        "stop_name": "SW Highland & 11th St",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2670",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Stark & 155th",
-            "onestopId": "s-c20fuqe2fg-sestark~155th",
+            "name": "SW Highland & 11th St",
+            "onestopId": "s-c20fubzzvv-swhighland~11th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3711,32 +3675,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.51622,
-                    45.519018
+                    -122.484938,
+                    45.51905
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5439",
+                    "identifier": "f-trimet-s-5461",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "5439",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5439)",
-                        "stop_id": "5439",
-                        "stop_lat": "45.519018",
-                        "stop_lon": "-122.51622",
-                        "stop_name": "SE Stark & 143rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5439",
+                        "position": "Nearside",
+                        "stop_code": "5461",
+                        "stop_desc": "Eastbound stop in Gresham (Stop ID 5461)",
+                        "stop_id": "5461",
+                        "stop_lat": "45.51905",
+                        "stop_lon": "-122.484938",
+                        "stop_name": "SE Stark & 174th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5461",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Stark & 143rd",
-            "onestopId": "s-c20fun6rmp-sestark~143rd",
+            "name": "SE Stark & 174th",
+            "onestopId": "s-c20fuy3pwj-sestark~174th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4359,6 +4323,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.51622,
+                    45.519018
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5439",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "5439",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5439)",
+                        "stop_id": "5439",
+                        "stop_lat": "45.519018",
+                        "stop_lon": "-122.51622",
+                        "stop_name": "SE Stark & 143rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5439",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Stark & 143rd",
+            "onestopId": "s-c20fun6rmp-sestark~143rd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.483874,
                     45.492085
                 ],
@@ -4539,32 +4539,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.47975,
-                    45.491435
+                    -122.509687,
+                    45.522237
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4554",
+                    "identifier": "f-trimet-s-8350",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
-                        "parent_station": "",
+                        "parent_station": "landmark-124",
                         "position": "Farside",
-                        "stop_code": "4554",
-                        "stop_desc": "Westbound stop in Gresham (Stop ID 4554)",
-                        "stop_id": "4554",
-                        "stop_lat": "45.491435",
-                        "stop_lon": "-122.47975",
-                        "stop_name": "W Powell & Village Drive",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4554",
-                        "zone_id": "B"
+                        "stop_code": "8350",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 8350)",
+                        "stop_id": "8350",
+                        "stop_lat": "45.522237",
+                        "stop_lon": "-122.509687",
+                        "stop_name": "E 148th Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8350",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "W Powell & Village Drive",
-            "onestopId": "s-c20fuckyyf-wpowell~village",
+            "name": "E 148th Ave MAX Station",
+            "onestopId": "s-c20fupp4m2-e148thmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

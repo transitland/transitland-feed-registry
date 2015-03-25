@@ -283,41 +283,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.2005,
-                    42.510701
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-16971",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "16971",
-                        "stop_desc": "",
-                        "stop_id": "16971",
-                        "stop_lat": "42.510701",
-                        "stop_lon": "-71.2005",
-                        "stop_name": "Cambridge St opp Terry Ave",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Cambridge St opp Terry Ave",
-            "onestopId": "s-drt3gfc6u1-cambridgeoppterry",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.194024,
                     42.499244
                 ],
@@ -388,31 +353,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.200582,
-                    42.51063
+                    -71.2005,
+                    42.510701
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-8233",
+                    "identifier": "f-mbta-s-16971",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8233",
+                        "stop_code": "16971",
                         "stop_desc": "",
-                        "stop_id": "8233",
-                        "stop_lat": "42.51063",
-                        "stop_lon": "-71.200582",
-                        "stop_name": "Cambridge St @ Terry Ave",
+                        "stop_id": "16971",
+                        "stop_lat": "42.510701",
+                        "stop_lon": "-71.2005",
+                        "stop_name": "Cambridge St opp Terry Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Cambridge St @ Terry Ave",
-            "onestopId": "s-drt3gfc665-cambridge~terry",
+            "name": "Cambridge St opp Terry Ave",
+            "onestopId": "s-drt3gfc6u1-cambridgeoppterry",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -693,6 +658,41 @@
             ],
             "name": "Cambridge St @ Bedford St",
             "onestopId": "s-drt3gcubcy-cambridge~bedford",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.200582,
+                    42.51063
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-8233",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "8233",
+                        "stop_desc": "",
+                        "stop_id": "8233",
+                        "stop_lat": "42.51063",
+                        "stop_lon": "-71.200582",
+                        "stop_name": "Cambridge St @ Terry Ave",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Cambridge St @ Terry Ave",
+            "onestopId": "s-drt3gfc665-cambridge~terry",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

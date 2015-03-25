@@ -3,30 +3,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.461332,
-                    49.220122
+                    -122.467589,
+                    49.221215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9900",
+                    "identifier": "f-translink-s-7945",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "60748",
-                        "stop_desc": "DEWDNEY TRUNK RD @ FLAG STOP",
-                        "stop_id": "9900",
-                        "stop_lat": "49.220122",
-                        "stop_lon": "-122.461332",
-                        "stop_name": "FLAGSTOP WB ON DEWDNEY TRUNK RD AT GARIBALDI ST",
+                        "stop_code": "57871",
+                        "stop_desc": "MCNUTT RD @ FLAG STOP",
+                        "stop_id": "7945",
+                        "stop_lat": "49.221215",
+                        "stop_lon": "-122.467589",
+                        "stop_name": "FLAGSTOP SB MCNUTT AT 12000 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "FLAGSTOP WB ON DEWDNEY TRUNK RD AT GARIBALDI ST",
-            "onestopId": "s-c2bbj24rup-flagstopwbondewdneytrunkatgaribaldi",
+            "name": "FLAGSTOP SB MCNUTT AT 12000 BLOCK",
+            "onestopId": "s-c2bbj0my67-flagstopsbmcnuttat12000block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -37,30 +37,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.467428,
-                    49.220886
+                    -122.460472,
+                    49.223117
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7904",
+                    "identifier": "f-translink-s-7909",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57830",
-                        "stop_desc": "MCNUTT RD @ FLAG STOP",
-                        "stop_id": "7904",
-                        "stop_lat": "49.220886",
-                        "stop_lon": "-122.467428",
-                        "stop_name": "FLAGSTOP NB MCNUTT AT 12000 BLOCK",
+                        "stop_code": "57835",
+                        "stop_desc": "GARIBALDI ST @ FLAG STOP",
+                        "stop_id": "7909",
+                        "stop_lat": "49.223117",
+                        "stop_lon": "-122.460472",
+                        "stop_name": "FLAGSTOP SB ON GARIBALDI ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "FLAGSTOP NB MCNUTT AT 12000 BLOCK",
-            "onestopId": "s-c2bbj0muqn-flagstopnbmcnuttat12000block",
+            "name": "FLAGSTOP SB ON GARIBALDI ST",
+            "onestopId": "s-c2bbj2g12n-flagstopsbongaribaldi",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -173,6 +173,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.467428,
+                    49.220886
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7904",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57830",
+                        "stop_desc": "MCNUTT RD @ FLAG STOP",
+                        "stop_id": "7904",
+                        "stop_lat": "49.220886",
+                        "stop_lon": "-122.467428",
+                        "stop_name": "FLAGSTOP NB MCNUTT AT 12000 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "FLAGSTOP NB MCNUTT AT 12000 BLOCK",
+            "onestopId": "s-c2bbj0muqn-flagstopnbmcnuttat12000block",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.455362,
                     49.231329
                 ],
@@ -241,30 +275,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.467589,
-                    49.221215
+                    -122.461332,
+                    49.220122
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7945",
+                    "identifier": "f-translink-s-9900",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57871",
-                        "stop_desc": "MCNUTT RD @ FLAG STOP",
-                        "stop_id": "7945",
-                        "stop_lat": "49.221215",
-                        "stop_lon": "-122.467589",
-                        "stop_name": "FLAGSTOP SB MCNUTT AT 12000 BLOCK",
+                        "stop_code": "60748",
+                        "stop_desc": "DEWDNEY TRUNK RD @ FLAG STOP",
+                        "stop_id": "9900",
+                        "stop_lat": "49.220122",
+                        "stop_lon": "-122.461332",
+                        "stop_name": "FLAGSTOP WB ON DEWDNEY TRUNK RD AT GARIBALDI ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "FLAGSTOP SB MCNUTT AT 12000 BLOCK",
-            "onestopId": "s-c2bbj0my67-flagstopsbmcnuttat12000block",
+            "name": "FLAGSTOP WB ON DEWDNEY TRUNK RD AT GARIBALDI ST",
+            "onestopId": "s-c2bbj24rup-flagstopwbondewdneytrunkatgaribaldi",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -333,40 +367,6 @@
             ],
             "name": "FLAGSTOP WB ON SAYERS CRES",
             "onestopId": "s-c2bbj3ff2n-flagstopwbonsayerscres",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.460472,
-                    49.223117
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7909",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57835",
-                        "stop_desc": "GARIBALDI ST @ FLAG STOP",
-                        "stop_id": "7909",
-                        "stop_lat": "49.223117",
-                        "stop_lon": "-122.460472",
-                        "stop_name": "FLAGSTOP SB ON GARIBALDI ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "FLAGSTOP SB ON GARIBALDI ST",
-            "onestopId": "s-c2bbj2g12n-flagstopsbongaribaldi",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

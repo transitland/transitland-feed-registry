@@ -38,6 +38,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.244258,
+                    25.921922
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6235",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D27R1634",
+                        "stop_desc": "",
+                        "stop_id": "6235",
+                        "stop_lat": "25.921922",
+                        "stop_lon": "-80.244258",
+                        "stop_name": "NW 27 AV SERVICE RD@NW 163 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 27 AV SERVICE RD@NW 163 ST",
+            "onestopId": "s-dhwgmyzyjk-nw27service~nw163",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.268554,
                     25.924439
                 ],
@@ -493,41 +528,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.251318,
-                    25.896898
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-9029",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D13532V6",
-                        "stop_desc": "",
-                        "stop_id": "9029",
-                        "stop_lat": "25.896898",
-                        "stop_lon": "-80.251318",
-                        "stop_name": "NW 135 ST@NW 32 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 135 ST@NW 32 AV",
-            "onestopId": "s-dhwgmf6u2g-nw135~nw32",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.267646,
                     25.891683
                 ],
@@ -738,31 +738,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.244258,
-                    25.921922
+                    -80.251318,
+                    25.896898
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6235",
+                    "identifier": "f-miamidade-s-9029",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D27R1634",
+                        "stop_code": "D13532V6",
                         "stop_desc": "",
-                        "stop_id": "6235",
-                        "stop_lat": "25.921922",
-                        "stop_lon": "-80.244258",
-                        "stop_name": "NW 27 AV SERVICE RD@NW 163 ST",
+                        "stop_id": "9029",
+                        "stop_lat": "25.896898",
+                        "stop_lon": "-80.251318",
+                        "stop_name": "NW 135 ST@NW 32 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV SERVICE RD@NW 163 ST",
-            "onestopId": "s-dhwgmyzyjk-nw27service~nw163",
+            "name": "NW 135 ST@NW 32 AV",
+            "onestopId": "s-dhwgmf6u2g-nw135~nw32",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -843,31 +843,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.249039,
-                    25.899543
+                    -80.251452,
+                    25.902117
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-8995",
+                    "identifier": "f-miamidade-s-9049",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "OPABWES6",
+                        "stop_code": "FSHSOPA1",
                         "stop_desc": "",
-                        "stop_id": "8995",
-                        "stop_lat": "25.899543",
-                        "stop_lon": "-80.249039",
-                        "stop_name": "OPA LOCKA BD@WEST DR",
+                        "stop_id": "9049",
+                        "stop_lat": "25.902117",
+                        "stop_lon": "-80.251452",
+                        "stop_name": "FISHERMAN ST@OPA LOCKA BD",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "OPA LOCKA BD@WEST DR",
-            "onestopId": "s-dhwgmfu7vb-opalockabd~west",
+            "name": "FISHERMAN ST@OPA LOCKA BD",
+            "onestopId": "s-dhwgmg6dv8-fisherman~opalockabd",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1018,66 +1018,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.260692,
-                    25.924558
+                    -80.258843,
+                    25.896598
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6327",
+                    "identifier": "f-miamidade-s-9027",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1653",
+                        "stop_code": "D135#365",
                         "stop_desc": "",
-                        "stop_id": "6327",
-                        "stop_lat": "25.924558",
-                        "stop_lon": "-80.260692",
-                        "stop_name": "NW 37 AV@NW 165 ST",
+                        "stop_id": "9027",
+                        "stop_lat": "25.896598",
+                        "stop_lon": "-80.258843",
+                        "stop_name": "NW 135 ST@# 3680",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 165 ST",
-            "onestopId": "s-dhwgmx7vqr-nw37~nw165",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.255159,
-                    25.906729
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-8991",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "PRVVSHR3",
-                        "stop_desc": "",
-                        "stop_id": "8991",
-                        "stop_lat": "25.906729",
-                        "stop_lon": "-80.255159",
-                        "stop_name": "PERVIZ AV@SHARAR AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "PERVIZ AV@SHARAR AV",
-            "onestopId": "s-dhwgmspvxk-perviz~sharar",
+            "name": "NW 135 ST@# 3680",
+            "onestopId": "s-dhwgmdm697-nw135~3680",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1113,41 +1078,6 @@
             ],
             "name": "NW 135 ST@NW 27 AV",
             "onestopId": "s-dhwgmfrvfw-nw135~nw27",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.251452,
-                    25.902117
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-9049",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "FSHSOPA1",
-                        "stop_desc": "",
-                        "stop_id": "9049",
-                        "stop_lat": "25.902117",
-                        "stop_lon": "-80.251452",
-                        "stop_name": "FISHERMAN ST@OPA LOCKA BD",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "FISHERMAN ST@OPA LOCKA BD",
-            "onestopId": "s-dhwgmg6dv8-fisherman~opalockabd",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1228,31 +1158,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.255796,
-                    25.907596
+                    -80.251773,
+                    25.894892
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9000",
+                    "identifier": "f-miamidade-s-9007",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "PRVVHAR1",
+                        "stop_code": "D32V1323",
                         "stop_desc": "",
-                        "stop_id": "9000",
-                        "stop_lat": "25.907596",
-                        "stop_lon": "-80.255796",
-                        "stop_name": "PERVIZ AV@HAREM AV",
+                        "stop_id": "9007",
+                        "stop_lat": "25.894892",
+                        "stop_lon": "-80.251773",
+                        "stop_name": "NW 32 AV@NW 132 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "PERVIZ AV@HAREM AV",
-            "onestopId": "s-dhwgmsrd8m-perviz~harem",
+            "name": "NW 32 AV@NW 132 TE",
+            "onestopId": "s-dhwgmf42wj-nw32~nw132te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1333,31 +1263,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.251536,
-                    25.894559
+                    -80.252748,
+                    25.925439
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9004",
+                    "identifier": "f-miamidade-s-6286",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1321",
+                        "stop_code": "D32V1674",
                         "stop_desc": "",
-                        "stop_id": "9004",
-                        "stop_lat": "25.894559",
-                        "stop_lon": "-80.251536",
-                        "stop_name": "NW 32 AV@NW 132 TE",
+                        "stop_id": "6286",
+                        "stop_lat": "25.925439",
+                        "stop_lon": "-80.252748",
+                        "stop_name": "NW 32 AV@NW 167 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 132 TE",
-            "onestopId": "s-dhwgmcfwex-nw32~nw132te",
+            "name": "NW 32 AV@NW 167 ST",
+            "onestopId": "s-dhwgmz9dxk-nw32~nw167",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1393,6 +1323,41 @@
             ],
             "name": "NW 47 AV@NW 168 TE",
             "onestopId": "s-dhwgmr8rfd-nw47~nw168te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.249039,
+                    25.899543
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-8995",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "OPABWES6",
+                        "stop_desc": "",
+                        "stop_id": "8995",
+                        "stop_lat": "25.899543",
+                        "stop_lon": "-80.249039",
+                        "stop_name": "OPA LOCKA BD@WEST DR",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "OPA LOCKA BD@WEST DR",
+            "onestopId": "s-dhwgmfu7vb-opalockabd~west",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1578,31 +1543,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.26366,
-                    25.918933
+                    -80.260692,
+                    25.924558
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6383",
+                    "identifier": "f-miamidade-s-6327",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D159#387",
+                        "stop_code": "D37V1653",
                         "stop_desc": "",
-                        "stop_id": "6383",
-                        "stop_lat": "25.918933",
-                        "stop_lon": "-80.26366",
-                        "stop_name": "NW 159 ST@NW 38 PL",
+                        "stop_id": "6327",
+                        "stop_lat": "25.924558",
+                        "stop_lon": "-80.260692",
+                        "stop_name": "NW 37 AV@NW 165 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 159 ST@NW 38 PL",
-            "onestopId": "s-dhwgmw3u9p-nw159~nw38pl",
+            "name": "NW 37 AV@NW 165 ST",
+            "onestopId": "s-dhwgmx7vqr-nw37~nw165",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1613,31 +1578,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.27189,
-                    25.896311
+                    -80.247711,
+                    25.897506
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9024",
+                    "identifier": "f-miamidade-s-8985",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D135#456",
+                        "stop_code": "SNBV1352",
                         "stop_desc": "",
-                        "stop_id": "9024",
-                        "stop_lat": "25.896311",
-                        "stop_lon": "-80.27189",
-                        "stop_name": "NW 135 ST@NW 45 AV",
+                        "stop_id": "8985",
+                        "stop_lat": "25.897506",
+                        "stop_lon": "-80.247711",
+                        "stop_name": "SINBAD AV@NW 135 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 135 ST@NW 45 AV",
-            "onestopId": "s-dhwgm67bcq-nw135~nw45",
+            "name": "SINBAD AV@NW 135 ST",
+            "onestopId": "s-dhwgmfmruv-sinbad~nw135",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1753,31 +1718,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.251332,
-                    25.888508
+                    -80.264584,
+                    25.896575
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5604",
+                    "identifier": "f-miamidade-s-9039",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1252",
+                        "stop_code": "D135#408",
                         "stop_desc": "",
-                        "stop_id": "5604",
-                        "stop_lat": "25.888508",
-                        "stop_lon": "-80.251332",
-                        "stop_name": "NW 32 AV@NW 125 ST",
+                        "stop_id": "9039",
+                        "stop_lat": "25.896575",
+                        "stop_lon": "-80.264584",
+                        "stop_name": "NW 135 ST@OP # 4050",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 125 ST",
-            "onestopId": "s-dhwgmbfg2r-nw32~nw125",
+            "name": "NW 135 ST@OP # 4050",
+            "onestopId": "s-dhwgmd347x-nw135~op4050",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1823,31 +1788,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.25214,
-                    25.91416
+                    -80.254811,
+                    25.906419
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6272",
+                    "identifier": "f-miamidade-s-8999",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1541",
+                        "stop_code": "PRVVSHR1",
                         "stop_desc": "",
-                        "stop_id": "6272",
-                        "stop_lat": "25.91416",
-                        "stop_lon": "-80.25214",
-                        "stop_name": "NW 32 AV@NW 154 TE",
+                        "stop_id": "8999",
+                        "stop_lat": "25.906419",
+                        "stop_lon": "-80.254811",
+                        "stop_name": "PERVIZ AV@SHARAR AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 154 TE",
-            "onestopId": "s-dhwgmvd0vt-nw32~nw154te",
+            "name": "PERVIZ AV@SHARAR AV",
+            "onestopId": "s-dhwgmu05z6-perviz~sharar",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2103,31 +2068,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.258843,
-                    25.896598
+                    -80.255159,
+                    25.906729
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9027",
+                    "identifier": "f-miamidade-s-8991",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D135#365",
+                        "stop_code": "PRVVSHR3",
                         "stop_desc": "",
-                        "stop_id": "9027",
-                        "stop_lat": "25.896598",
-                        "stop_lon": "-80.258843",
-                        "stop_name": "NW 135 ST@# 3680",
+                        "stop_id": "8991",
+                        "stop_lat": "25.906729",
+                        "stop_lon": "-80.255159",
+                        "stop_name": "PERVIZ AV@SHARAR AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 135 ST@# 3680",
-            "onestopId": "s-dhwgmdm697-nw135~3680",
+            "name": "PERVIZ AV@SHARAR AV",
+            "onestopId": "s-dhwgmspvxk-perviz~sharar",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2348,31 +2313,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.252589,
-                    25.922323
+                    -80.26734,
+                    25.890269
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6288",
+                    "identifier": "f-miamidade-s-9014",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1634",
+                        "stop_code": "D42V1282",
                         "stop_desc": "",
-                        "stop_id": "6288",
-                        "stop_lat": "25.922323",
-                        "stop_lon": "-80.252589",
-                        "stop_name": "NW 32 AV@NW 163 ST",
+                        "stop_id": "9014",
+                        "stop_lat": "25.890269",
+                        "stop_lon": "-80.26734",
+                        "stop_name": "NW 42 AV@NW 128 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 163 ST",
-            "onestopId": "s-dhwgmz1b7p-nw32~nw163",
+            "name": "NW 42 AV@NW 128 ST",
+            "onestopId": "s-dhwgm3pjer-nw42~nw128",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2418,31 +2383,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.254811,
-                    25.906419
+                    -80.25214,
+                    25.91416
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-8999",
+                    "identifier": "f-miamidade-s-6272",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "PRVVSHR1",
+                        "stop_code": "D32V1541",
                         "stop_desc": "",
-                        "stop_id": "8999",
-                        "stop_lat": "25.906419",
-                        "stop_lon": "-80.254811",
-                        "stop_name": "PERVIZ AV@SHARAR AV",
+                        "stop_id": "6272",
+                        "stop_lat": "25.91416",
+                        "stop_lon": "-80.25214",
+                        "stop_name": "NW 32 AV@NW 154 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "PERVIZ AV@SHARAR AV",
-            "onestopId": "s-dhwgmu05z6-perviz~sharar",
+            "name": "NW 32 AV@NW 154 TE",
+            "onestopId": "s-dhwgmvd0vt-nw32~nw154te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2488,31 +2453,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.264584,
-                    25.896575
+                    -80.251332,
+                    25.888508
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9039",
+                    "identifier": "f-miamidade-s-5604",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D135#408",
+                        "stop_code": "D32V1252",
                         "stop_desc": "",
-                        "stop_id": "9039",
-                        "stop_lat": "25.896575",
-                        "stop_lon": "-80.264584",
-                        "stop_name": "NW 135 ST@OP # 4050",
+                        "stop_id": "5604",
+                        "stop_lat": "25.888508",
+                        "stop_lon": "-80.251332",
+                        "stop_name": "NW 32 AV@NW 125 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 135 ST@OP # 4050",
-            "onestopId": "s-dhwgmd347x-nw135~op4050",
+            "name": "NW 32 AV@NW 125 ST",
+            "onestopId": "s-dhwgmbfg2r-nw32~nw125",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2523,31 +2488,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.26734,
-                    25.890269
+                    -80.252589,
+                    25.922323
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9014",
+                    "identifier": "f-miamidade-s-6288",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D42V1282",
+                        "stop_code": "D32V1634",
                         "stop_desc": "",
-                        "stop_id": "9014",
-                        "stop_lat": "25.890269",
-                        "stop_lon": "-80.26734",
-                        "stop_name": "NW 42 AV@NW 128 ST",
+                        "stop_id": "6288",
+                        "stop_lat": "25.922323",
+                        "stop_lon": "-80.252589",
+                        "stop_name": "NW 32 AV@NW 163 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 42 AV@NW 128 ST",
-            "onestopId": "s-dhwgm3pjer-nw42~nw128",
+            "name": "NW 32 AV@NW 163 ST",
+            "onestopId": "s-dhwgmz1b7p-nw32~nw163",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3188,31 +3153,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.252748,
-                    25.925439
+                    -80.251536,
+                    25.894559
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6286",
+                    "identifier": "f-miamidade-s-9004",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1674",
+                        "stop_code": "D32V1321",
                         "stop_desc": "",
-                        "stop_id": "6286",
-                        "stop_lat": "25.925439",
-                        "stop_lon": "-80.252748",
-                        "stop_name": "NW 32 AV@NW 167 ST",
+                        "stop_id": "9004",
+                        "stop_lat": "25.894559",
+                        "stop_lon": "-80.251536",
+                        "stop_name": "NW 32 AV@NW 132 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 167 ST",
-            "onestopId": "s-dhwgmz9dxk-nw32~nw167",
+            "name": "NW 32 AV@NW 132 TE",
+            "onestopId": "s-dhwgmcfwex-nw32~nw132te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3258,31 +3223,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.247711,
-                    25.897506
+                    -80.27189,
+                    25.896311
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-8985",
+                    "identifier": "f-miamidade-s-9024",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "SNBV1352",
+                        "stop_code": "D135#456",
                         "stop_desc": "",
-                        "stop_id": "8985",
-                        "stop_lat": "25.897506",
-                        "stop_lon": "-80.247711",
-                        "stop_name": "SINBAD AV@NW 135 ST",
+                        "stop_id": "9024",
+                        "stop_lat": "25.896311",
+                        "stop_lon": "-80.27189",
+                        "stop_name": "NW 135 ST@NW 45 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SINBAD AV@NW 135 ST",
-            "onestopId": "s-dhwgmfmruv-sinbad~nw135",
+            "name": "NW 135 ST@NW 45 AV",
+            "onestopId": "s-dhwgm67bcq-nw135~nw45",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3398,31 +3363,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.251773,
-                    25.894892
+                    -80.255796,
+                    25.907596
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9007",
+                    "identifier": "f-miamidade-s-9000",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1323",
+                        "stop_code": "PRVVHAR1",
                         "stop_desc": "",
-                        "stop_id": "9007",
-                        "stop_lat": "25.894892",
-                        "stop_lon": "-80.251773",
-                        "stop_name": "NW 32 AV@NW 132 TE",
+                        "stop_id": "9000",
+                        "stop_lat": "25.907596",
+                        "stop_lon": "-80.255796",
+                        "stop_name": "PERVIZ AV@HAREM AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 132 TE",
-            "onestopId": "s-dhwgmf42wj-nw32~nw132te",
+            "name": "PERVIZ AV@HAREM AV",
+            "onestopId": "s-dhwgmsrd8m-perviz~harem",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3713,31 +3678,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.26859,
-                    25.921942
+                    -80.272329,
+                    25.896455
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6341",
+                    "identifier": "f-miamidade-s-9041",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D42V1633",
+                        "stop_code": "D135#457",
                         "stop_desc": "",
-                        "stop_id": "6341",
-                        "stop_lat": "25.921942",
-                        "stop_lon": "-80.26859",
-                        "stop_name": "NW 42 AV@NW 163 ST",
+                        "stop_id": "9041",
+                        "stop_lat": "25.896455",
+                        "stop_lon": "-80.272329",
+                        "stop_name": "NW 135 ST@NW 45 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 42 AV@NW 163 ST",
-            "onestopId": "s-dhwgmqynq2-nw42~nw163",
+            "name": "NW 135 ST@NW 45 AV",
+            "onestopId": "s-dhwgm673z1-nw135~nw45",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4133,6 +4098,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.26366,
+                    25.918933
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6383",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D159#387",
+                        "stop_desc": "",
+                        "stop_id": "6383",
+                        "stop_lat": "25.918933",
+                        "stop_lon": "-80.26366",
+                        "stop_name": "NW 159 ST@NW 38 PL",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 159 ST@NW 38 PL",
+            "onestopId": "s-dhwgmw3u9p-nw159~nw38pl",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.267487,
                     25.918593
                 ],
@@ -4378,31 +4378,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.272329,
-                    25.896455
+                    -80.26859,
+                    25.921942
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-9041",
+                    "identifier": "f-miamidade-s-6341",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D135#457",
+                        "stop_code": "D42V1633",
                         "stop_desc": "",
-                        "stop_id": "9041",
-                        "stop_lat": "25.896455",
-                        "stop_lon": "-80.272329",
-                        "stop_name": "NW 135 ST@NW 45 AV",
+                        "stop_id": "6341",
+                        "stop_lat": "25.921942",
+                        "stop_lon": "-80.26859",
+                        "stop_name": "NW 42 AV@NW 163 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 135 ST@NW 45 AV",
-            "onestopId": "s-dhwgm673z1-nw135~nw45",
+            "name": "NW 42 AV@NW 163 ST",
+            "onestopId": "s-dhwgmqynq2-nw42~nw163",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"

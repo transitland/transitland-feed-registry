@@ -564,39 +564,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78605096,
-                    41.77766492
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-4677",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4677",
-                        "stop_desc": "63rd Street & Nashville, Westbound, Northeast Corner",
-                        "stop_id": "4677",
-                        "stop_lat": "41.77766492",
-                        "stop_lon": "-87.78605096",
-                        "stop_name": "63rd Street & Nashville",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "63rd Street & Nashville",
-            "onestopId": "s-dp3tdmkhsc-63rd~nashville",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.801178,
                     41.786431
                 ],
@@ -663,29 +630,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78099644,
-                    41.77410204
+                    -87.771847,
+                    41.785275
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3338",
+                    "identifier": "f-cta-s-4560",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3338",
-                        "stop_desc": "65th Street & Narragansett, Westbound, Northeast Corner",
-                        "stop_id": "3338",
-                        "stop_lat": "41.77410204",
-                        "stop_lon": "-87.78099644",
-                        "stop_name": "65th Street & Narragansett",
+                        "stop_code": "4560",
+                        "stop_desc": "Austin & 59th Street, Southbound, Northwest Corner",
+                        "stop_id": "4560",
+                        "stop_lat": "41.785275",
+                        "stop_lon": "-87.771847",
+                        "stop_name": "Austin & 59th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "65th Street & Narragansett",
-            "onestopId": "s-dp3tdkxzf9-65th~narragansett",
+            "name": "Austin & 59th Street",
+            "onestopId": "s-dp3tdwy2ze-austin~59th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -960,6 +927,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.79612937,
+                    41.77734954
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-4652",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4652",
+                        "stop_desc": "63rd Street & Sayre, Eastbound, Southwest Corner",
+                        "stop_id": "4652",
+                        "stop_lat": "41.77734954",
+                        "stop_lon": "-87.79612937",
+                        "stop_name": "63rd Street & Sayre",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "63rd Street & Sayre",
+            "onestopId": "s-dp3tdjkf9y-63rd~sayre",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.80125554,
                     41.78098514
                 ],
@@ -1059,6 +1059,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.800915,
+                    41.780856
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-7704",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "7704",
+                        "stop_desc": "Harlem & 61st Street, Northbound, Southeast Corner",
+                        "stop_id": "7704",
+                        "stop_lat": "41.780856",
+                        "stop_lon": "-87.800915",
+                        "stop_name": "Harlem & 61st Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Harlem & 61st Street",
+            "onestopId": "s-dp3tdjcr4k-harlem~61st",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.781393,
                     41.783084
                 ],
@@ -1125,62 +1158,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.7887432,
-                    41.77749456
+                    -87.78605096,
+                    41.77766492
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4655",
+                    "identifier": "f-cta-s-4677",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4655",
-                        "stop_desc": "63rd Street & Normandy, Eastbound, Southwest Corner",
-                        "stop_id": "4655",
-                        "stop_lat": "41.77749456",
-                        "stop_lon": "-87.7887432",
-                        "stop_name": "63rd Street & Normandy",
+                        "stop_code": "4677",
+                        "stop_desc": "63rd Street & Nashville, Westbound, Northeast Corner",
+                        "stop_id": "4677",
+                        "stop_lat": "41.77766492",
+                        "stop_lon": "-87.78605096",
+                        "stop_name": "63rd Street & Nashville",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & Normandy",
-            "onestopId": "s-dp3tdm65w1-63rd~normandy",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.76425476,
-                    41.7779436
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-3308",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3308",
-                        "stop_desc": "63rd Street & Major, Eastbound, Southwest Corner",
-                        "stop_id": "3308",
-                        "stop_lat": "41.7779436",
-                        "stop_lon": "-87.76425476",
-                        "stop_name": "63rd Street & Major",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "63rd Street & Major",
-            "onestopId": "s-dp3tdvkn0t-63rd~major",
+            "name": "63rd Street & Nashville",
+            "onestopId": "s-dp3tdmkhsc-63rd~nashville",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1224,29 +1224,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.800915,
-                    41.780856
+                    -87.80153863,
+                    41.78841775
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7704",
+                    "identifier": "f-cta-s-7695",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7704",
-                        "stop_desc": "Harlem & 61st Street, Northbound, Southeast Corner",
-                        "stop_id": "7704",
-                        "stop_lat": "41.780856",
-                        "stop_lon": "-87.800915",
-                        "stop_name": "Harlem & 61st Street",
+                        "stop_code": "7695",
+                        "stop_desc": "Harlem & 57th Street, Southbound, Northwest Corner",
+                        "stop_id": "7695",
+                        "stop_lat": "41.78841775",
+                        "stop_lon": "-87.80153863",
+                        "stop_name": "Harlem & 57th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Harlem & 61st Street",
-            "onestopId": "s-dp3tdjcr4k-harlem~61st",
+            "name": "Harlem & 57th Street",
+            "onestopId": "s-dp3tdp2g5v-harlem~57th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1719,29 +1719,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79612937,
-                    41.77734954
+                    -87.7887432,
+                    41.77749456
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4652",
+                    "identifier": "f-cta-s-4655",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4652",
-                        "stop_desc": "63rd Street & Sayre, Eastbound, Southwest Corner",
-                        "stop_id": "4652",
-                        "stop_lat": "41.77734954",
-                        "stop_lon": "-87.79612937",
-                        "stop_name": "63rd Street & Sayre",
+                        "stop_code": "4655",
+                        "stop_desc": "63rd Street & Normandy, Eastbound, Southwest Corner",
+                        "stop_id": "4655",
+                        "stop_lat": "41.77749456",
+                        "stop_lon": "-87.7887432",
+                        "stop_name": "63rd Street & Normandy",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & Sayre",
-            "onestopId": "s-dp3tdjkf9y-63rd~sayre",
+            "name": "63rd Street & Normandy",
+            "onestopId": "s-dp3tdm65w1-63rd~normandy",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2148,29 +2148,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79098674,
-                    41.77375494
+                    -87.79085713,
+                    41.7776022
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3355",
+                    "identifier": "f-cta-s-4679",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3355",
-                        "stop_desc": "65th Street & Oak Park, Eastbound, Southwest Corner",
-                        "stop_id": "3355",
-                        "stop_lat": "41.77375494",
-                        "stop_lon": "-87.79098674",
-                        "stop_name": "65th Street & Oak Park",
+                        "stop_code": "4679",
+                        "stop_desc": "63rd Street & Oak Park, Westbound, Northeast Corner",
+                        "stop_id": "4679",
+                        "stop_lat": "41.7776022",
+                        "stop_lon": "-87.79085713",
+                        "stop_name": "63rd Street & Oak Park",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "65th Street & Oak Park",
-            "onestopId": "s-dp3tdk8tc8-65th~oakpark",
+            "name": "63rd Street & Oak Park",
+            "onestopId": "s-dp3tdm2shv-63rd~oakpark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2379,6 +2379,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.76425476,
+                    41.7779436
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3308",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3308",
+                        "stop_desc": "63rd Street & Major, Eastbound, Southwest Corner",
+                        "stop_id": "3308",
+                        "stop_lat": "41.7779436",
+                        "stop_lon": "-87.76425476",
+                        "stop_name": "63rd Street & Major",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "63rd Street & Major",
+            "onestopId": "s-dp3tdvkn0t-63rd~major",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.8008978,
                     41.77498234
                 ],
@@ -2478,29 +2511,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79085713,
-                    41.7776022
+                    -87.79098674,
+                    41.77375494
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4679",
+                    "identifier": "f-cta-s-3355",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4679",
-                        "stop_desc": "63rd Street & Oak Park, Westbound, Northeast Corner",
-                        "stop_id": "4679",
-                        "stop_lat": "41.7776022",
-                        "stop_lon": "-87.79085713",
-                        "stop_name": "63rd Street & Oak Park",
+                        "stop_code": "3355",
+                        "stop_desc": "65th Street & Oak Park, Eastbound, Southwest Corner",
+                        "stop_id": "3355",
+                        "stop_lat": "41.77375494",
+                        "stop_lon": "-87.79098674",
+                        "stop_name": "65th Street & Oak Park",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "63rd Street & Oak Park",
-            "onestopId": "s-dp3tdm2shv-63rd~oakpark",
+            "name": "65th Street & Oak Park",
+            "onestopId": "s-dp3tdk8tc8-65th~oakpark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2534,6 +2567,39 @@
             ],
             "name": "63rd Street & Linder",
             "onestopId": "s-dp3tdvrwdt-63rd~linder",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.78099644,
+                    41.77410204
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3338",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3338",
+                        "stop_desc": "65th Street & Narragansett, Westbound, Northeast Corner",
+                        "stop_id": "3338",
+                        "stop_lat": "41.77410204",
+                        "stop_lon": "-87.78099644",
+                        "stop_name": "65th Street & Narragansett",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "65th Street & Narragansett",
+            "onestopId": "s-dp3tdkxzf9-65th~narragansett",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3402,39 +3468,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.7739899,
-                    41.77758302
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-4566",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4566",
-                        "stop_desc": "Meade & 63rd Street, Southbound, Southwest Corner",
-                        "stop_id": "4566",
-                        "stop_lat": "41.77758302",
-                        "stop_lon": "-87.7739899",
-                        "stop_name": "Meade & 63rd Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Meade & 63rd Street",
-            "onestopId": "s-dp3tdtkujc-meade~63rd",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.78138169,
                     41.7775672
                 ],
@@ -4161,39 +4194,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.80153863,
-                    41.78841775
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-7695",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "7695",
-                        "stop_desc": "Harlem & 57th Street, Southbound, Northwest Corner",
-                        "stop_id": "7695",
-                        "stop_lat": "41.78841775",
-                        "stop_lon": "-87.80153863",
-                        "stop_name": "Harlem & 57th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Harlem & 57th Street",
-            "onestopId": "s-dp3tdp2g5v-harlem~57th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.80159163,
                     41.79025775
                 ],
@@ -4326,29 +4326,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.771847,
-                    41.785275
+                    -87.7739899,
+                    41.77758302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4560",
+                    "identifier": "f-cta-s-4566",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4560",
-                        "stop_desc": "Austin & 59th Street, Southbound, Northwest Corner",
-                        "stop_id": "4560",
-                        "stop_lat": "41.785275",
-                        "stop_lon": "-87.771847",
-                        "stop_name": "Austin & 59th Street",
+                        "stop_code": "4566",
+                        "stop_desc": "Meade & 63rd Street, Southbound, Southwest Corner",
+                        "stop_id": "4566",
+                        "stop_lat": "41.77758302",
+                        "stop_lon": "-87.7739899",
+                        "stop_name": "Meade & 63rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & 59th Street",
-            "onestopId": "s-dp3tdwy2ze-austin~59th",
+            "name": "Meade & 63rd Street",
+            "onestopId": "s-dp3tdtkujc-meade~63rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

@@ -3,31 +3,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.188918,
-                    25.795262
+                    -80.192388,
+                    25.775224
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6721",
+                    "identifier": "f-miamidade-s-6661",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BSCB#201",
+                        "stop_code": "A1ST##18",
                         "stop_desc": "",
-                        "stop_id": "6721",
-                        "stop_lat": "25.795262",
-                        "stop_lon": "-80.188918",
-                        "stop_name": "BISCAYNE BD@NE 20 ST",
+                        "stop_id": "6661",
+                        "stop_lat": "25.775224",
+                        "stop_lon": "-80.192388",
+                        "stop_name": "NE 1 ST@NE 1 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BISCAYNE BD@NE 20 ST",
-            "onestopId": "s-dhwfxrbhqc-biscaynebd~ne20",
+            "name": "NE 1 ST@NE 1 AV",
+            "onestopId": "s-dhwfxhjxtf-ne1~ne1",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -143,31 +143,82 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.189073,
-                    25.792633
+                    -80.192248,
+                    25.769165
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6712",
+                    "identifier": "f-miamidade-s-805",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BSCB#173",
+                        "stop_code": "5STRMOVI",
                         "stop_desc": "",
-                        "stop_id": "6712",
-                        "stop_lat": "25.792633",
-                        "stop_lon": "-80.189073",
-                        "stop_name": "BISCAYNE BD@NE 17 TE",
+                        "stop_id": "805",
+                        "stop_lat": "25.769165",
+                        "stop_lon": "-80.192248",
+                        "stop_name": "FIFTH STREET METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-817",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5STRMOVO",
+                        "stop_desc": "",
+                        "stop_id": "817",
+                        "stop_lat": "25.769165",
+                        "stop_lon": "-80.192248",
+                        "stop_name": "FIFTH STREET METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BISCAYNE BD@NE 17 TE",
-            "onestopId": "s-dhwfxr2hgp-biscaynebd~ne17te",
+            "name": "FIFTH STREET METROMOVER STATION",
+            "onestopId": "s-dhwfx5ju30-fifthmetromoverstation",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.194861,
+                    25.793873
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6851",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "NMAV#194",
+                        "stop_desc": "",
+                        "stop_id": "6851",
+                        "stop_lat": "25.793873",
+                        "stop_lon": "-80.194861",
+                        "stop_name": "N MIAMI AV@NW 19 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "N MIAMI AV@NW 19 ST",
+            "onestopId": "s-dhwfxpeuhq-nmiami~nw19",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -283,31 +334,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.196093,
-                    25.775864
+                    -80.197712,
+                    25.775752
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-813",
+                    "identifier": "f-miamidade-s-6648",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "GOVTCNTT",
+                        "stop_code": "D2AV##21",
                         "stop_desc": "",
-                        "stop_id": "813",
-                        "stop_lat": "25.775864",
-                        "stop_lon": "-80.196093",
-                        "stop_name": "GOVERNMENT CENTER METROMOVER STATION",
+                        "stop_id": "6648",
+                        "stop_lat": "25.775752",
+                        "stop_lon": "-80.197712",
+                        "stop_name": "NW 2 AV@NW 2 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "GOVERNMENT CENTER METROMOVER STATION",
-            "onestopId": "s-dhwfxh6gr9-governmentmetromoverstation",
+            "name": "NW 2 AV@NW 2 ST",
+            "onestopId": "s-dhwfxh3f9u-nw2~nw2",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -465,13 +516,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-821",
+                    "identifier": "f-miamidade-s-801",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "FINCDISO",
+                        "stop_code": "FINCDISI",
                         "stop_desc": "",
-                        "stop_id": "821",
+                        "stop_id": "801",
                         "stop_lat": "25.760381",
                         "stop_lon": "-80.192881",
                         "stop_name": "FINANCIAL DISTRICT METROMOVER STATION",
@@ -481,13 +532,13 @@
                     }
                 },
                 {
-                    "identifier": "f-miamidade-s-801",
+                    "identifier": "f-miamidade-s-821",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "FINCDISI",
+                        "stop_code": "FINCDISO",
                         "stop_desc": "",
-                        "stop_id": "801",
+                        "stop_id": "821",
                         "stop_lat": "25.760381",
                         "stop_lon": "-80.192881",
                         "stop_name": "FINANCIAL DISTRICT METROMOVER STATION",
@@ -639,41 +690,6 @@
             ],
             "name": "BISCAYNE BD@NE 9 ST",
             "onestopId": "s-dhwfxjxeh7-biscaynebd~ne9",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.192388,
-                    25.775224
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6661",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "A1ST##18",
-                        "stop_desc": "",
-                        "stop_id": "6661",
-                        "stop_lat": "25.775224",
-                        "stop_lon": "-80.192388",
-                        "stop_name": "NE 1 ST@NE 1 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NE 1 ST@NE 1 AV",
-            "onestopId": "s-dhwfxhjxtf-ne1~ne1",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -964,31 +980,63 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.192713,
-                    25.764542
+                    -80.189849,
+                    25.775726
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-8199",
+                    "identifier": "f-miamidade-s-840",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "B10S##18",
+                        "stop_code": "1STRMOVW",
+                        "stop_desc": "NE 2 AV & NE 2 ST",
+                        "stop_id": "840",
+                        "stop_lat": "25.775726",
+                        "stop_lon": "-80.189849",
+                        "stop_name": "FIRST STREET METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-809",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1STRMOVI",
                         "stop_desc": "",
-                        "stop_id": "8199",
-                        "stop_lat": "25.764542",
-                        "stop_lon": "-80.192713",
-                        "stop_name": "SE 10 ST@SE 1 AV",
+                        "stop_id": "809",
+                        "stop_lat": "25.775726",
+                        "stop_lon": "-80.189849",
+                        "stop_name": "FIRST STREET METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-824",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1STRMOVO",
+                        "stop_desc": "SW 1 ST & S MIAMI AV",
+                        "stop_id": "824",
+                        "stop_lat": "25.775726",
+                        "stop_lon": "-80.189849",
+                        "stop_name": "FIRST STREET METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SE 10 ST@SE 1 AV",
-            "onestopId": "s-dhwfx4m3q6-se10~se1",
+            "name": "FIRST STREET METROMOVER STATION",
+            "onestopId": "s-dhwfxhrd3p-firstmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1059,6 +1107,57 @@
             ],
             "name": "SW 11 ST@SW 3 AV",
             "onestopId": "s-dhwfx414fk-sw11~sw3",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.192085,
+                    25.778926
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-838",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "COLLNORW",
+                        "stop_desc": "",
+                        "stop_id": "838",
+                        "stop_lat": "25.778926",
+                        "stop_lon": "-80.192085",
+                        "stop_name": "COLLEGE NORTH METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-811",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "COLLNORI",
+                        "stop_desc": "",
+                        "stop_id": "811",
+                        "stop_lat": "25.778926",
+                        "stop_lon": "-80.192085",
+                        "stop_name": "COLLEGE NORTH METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "COLLEGE NORTH METROMOVER STATION",
+            "onestopId": "s-dhwfxhvvhu-collegenorthmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1209,6 +1308,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.187488,
+                    25.776525
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6630",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "BSCB##22",
+                        "stop_desc": "",
+                        "stop_id": "6630",
+                        "stop_lat": "25.776525",
+                        "stop_lon": "-80.187488",
+                        "stop_name": "BISCAYNE BD@NE 2 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "BISCAYNE BD@NE 2 ST",
+            "onestopId": "s-dhwfxk3r0h-biscaynebd~ne2",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.192473,
                     25.761743
                 ],
@@ -1314,31 +1448,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.190876,
-                    25.79455
+                    -80.19395,
+                    25.781598
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6780",
+                    "identifier": "f-miamidade-s-6856",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "A2AV#194",
+                        "stop_code": "DMIV08S4",
                         "stop_desc": "",
-                        "stop_id": "6780",
-                        "stop_lat": "25.79455",
-                        "stop_lon": "-80.190876",
-                        "stop_name": "NE 2 AV@NE 19 ST",
+                        "stop_id": "6856",
+                        "stop_lat": "25.781598",
+                        "stop_lon": "-80.19395",
+                        "stop_name": "N MIAMI AV@NW 8 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NE 2 AV@NE 19 ST",
-            "onestopId": "s-dhwfxpyb1h-ne2~ne19",
+            "name": "N MIAMI AV@NW 8 ST",
+            "onestopId": "s-dhwfxjks9w-nmiami~nw8",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1349,47 +1483,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.187934,
-                    25.785918
+                    -80.192253,
+                    25.790486
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-829",
+                    "identifier": "f-miamidade-s-6844",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BCENPARO",
+                        "stop_code": "A1AV#161",
                         "stop_desc": "",
-                        "stop_id": "829",
-                        "stop_lat": "25.785918",
-                        "stop_lon": "-80.187934",
-                        "stop_name": "MUSEUM PARK METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-797",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "BCENPARI",
-                        "stop_desc": "",
-                        "stop_id": "797",
-                        "stop_lat": "25.785918",
-                        "stop_lon": "-80.187934",
-                        "stop_name": "MUSEUM PARK METROMOVER STATION",
+                        "stop_id": "6844",
+                        "stop_lat": "25.790486",
+                        "stop_lon": "-80.192253",
+                        "stop_name": "NE 1 AV@NE 16 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MUSEUM PARK METROMOVER STATION",
-            "onestopId": "s-dhwfxq0vve-museumparkmetromoverstation",
+            "name": "NE 1 AV@NE 16 ST",
+            "onestopId": "s-dhwfxpjb3p-ne1~ne16",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1493,13 +1611,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-812",
+                    "identifier": "f-miamidade-s-837",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "MIAARENI",
-                        "stop_desc": "NW 1 AV & NW 5 ST",
-                        "stop_id": "812",
+                        "stop_code": "MIAARENW",
+                        "stop_desc": "",
+                        "stop_id": "837",
                         "stop_lat": "25.778815",
                         "stop_lon": "-80.195341",
                         "stop_name": "WILKIE D FERGUSON METROMOVER STATION",
@@ -1509,13 +1627,13 @@
                     }
                 },
                 {
-                    "identifier": "f-miamidade-s-837",
+                    "identifier": "f-miamidade-s-812",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "MIAARENW",
-                        "stop_desc": "",
-                        "stop_id": "837",
+                        "stop_code": "MIAARENI",
+                        "stop_desc": "NW 1 AV & NW 5 ST",
+                        "stop_id": "812",
                         "stop_lat": "25.778815",
                         "stop_lon": "-80.195341",
                         "stop_name": "WILKIE D FERGUSON METROMOVER STATION",
@@ -1537,31 +1655,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.174724,
-                    25.78371
+                    -80.19398,
+                    25.779976
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-7918",
+                    "identifier": "f-miamidade-s-6671",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "MCRWWAT4",
+                        "stop_code": "D6STNMV8",
                         "stop_desc": "",
-                        "stop_id": "7918",
-                        "stop_lat": "25.78371",
-                        "stop_lon": "-80.174724",
-                        "stop_name": "MAC ARTHUR CY@WATSON ISLAND",
+                        "stop_id": "6671",
+                        "stop_lat": "25.779976",
+                        "stop_lon": "-80.19398",
+                        "stop_name": "NW 6 ST@N MIAMI AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MAC ARTHUR CY@WATSON ISLAND",
-            "onestopId": "s-dhwfxtf8cx-macarthurcy~watsonisland",
+            "name": "NW 6 ST@N MIAMI AV",
+            "onestopId": "s-dhwfxjhe0z-nw6~nmiami",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1572,47 +1690,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.192085,
-                    25.778926
+                    -80.194068,
+                    25.775146
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-811",
+                    "identifier": "f-miamidade-s-6662",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "COLLNORI",
+                        "stop_code": "D1STNMV8",
                         "stop_desc": "",
-                        "stop_id": "811",
-                        "stop_lat": "25.778926",
-                        "stop_lon": "-80.192085",
-                        "stop_name": "COLLEGE NORTH METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-838",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "COLLNORW",
-                        "stop_desc": "",
-                        "stop_id": "838",
-                        "stop_lat": "25.778926",
-                        "stop_lon": "-80.192085",
-                        "stop_name": "COLLEGE NORTH METROMOVER STATION",
+                        "stop_id": "6662",
+                        "stop_lat": "25.775146",
+                        "stop_lon": "-80.194068",
+                        "stop_name": "NW 1 ST@N MIAMI AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "COLLEGE NORTH METROMOVER STATION",
-            "onestopId": "s-dhwfxhvvhu-collegenorthmetromoverstation",
+            "name": "NW 1 ST@N MIAMI AV",
+            "onestopId": "s-dhwfxhhrng-nw1~nmiami",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.191984,
+                    25.778131
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-61",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "MDCCDNTW",
+                        "stop_desc": "NE 1ST AVE & NE 4TH ST",
+                        "stop_id": "61",
+                        "stop_lat": "25.778131",
+                        "stop_lon": "-80.191984",
+                        "stop_name": "MDCC DOWNTOWN CAMPUS",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "MDCC DOWNTOWN CAMPUS",
+            "onestopId": "s-dhwfxhvbrr-mdccdowntowncampus",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1693,31 +1830,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.193613,
-                    25.771155
+                    -80.196093,
+                    25.775864
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6642",
+                    "identifier": "f-miamidade-s-813",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "SMIA##43",
+                        "stop_code": "GOVTCNTT",
                         "stop_desc": "",
-                        "stop_id": "6642",
-                        "stop_lat": "25.771155",
-                        "stop_lon": "-80.193613",
-                        "stop_name": "S MIAMI AV@SW 4 ST",
+                        "stop_id": "813",
+                        "stop_lat": "25.775864",
+                        "stop_lon": "-80.196093",
+                        "stop_name": "GOVERNMENT CENTER METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "S MIAMI AV@SW 4 ST",
-            "onestopId": "s-dhwfx5kzc7-smiami~sw4",
+            "name": "GOVERNMENT CENTER METROMOVER STATION",
+            "onestopId": "s-dhwfxh6gr9-governmentmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1903,47 +2040,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.195261,
-                    25.762664
+                    -80.192184,
+                    25.761173
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-802",
+                    "identifier": "f-miamidade-s-1015",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BRKLMOVI",
+                        "stop_code": "13STBRKS",
                         "stop_desc": "",
-                        "stop_id": "802",
-                        "stop_lat": "25.762664",
-                        "stop_lon": "-80.195261",
-                        "stop_name": "BRICKELL METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-820",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "BRKLMOVO",
-                        "stop_desc": "",
-                        "stop_id": "820",
-                        "stop_lat": "25.762664",
-                        "stop_lon": "-80.195261",
-                        "stop_name": "BRICKELL METROMOVER STATION",
+                        "stop_id": "1015",
+                        "stop_lat": "25.761173",
+                        "stop_lon": "-80.192184",
+                        "stop_name": "BRICKELL AV@SE 13 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BRICKELL METROMOVER STATION",
-            "onestopId": "s-dhwfx1gw6u-brickellmetromoverstation",
+            "name": "BRICKELL AV@SE 13 ST",
+            "onestopId": "s-dhwfx1tvdw-brickell~se13",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2110,31 +2231,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.198848,
-                    25.763187
+                    -80.191647,
+                    25.762056
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-7005",
+                    "identifier": "f-miamidade-s-1016",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C3AV#111",
+                        "stop_code": "13STBRKN",
                         "stop_desc": "",
-                        "stop_id": "7005",
-                        "stop_lat": "25.763187",
-                        "stop_lon": "-80.198848",
-                        "stop_name": "SW 3 AV@SW 11 ST",
+                        "stop_id": "1016",
+                        "stop_lat": "25.762056",
+                        "stop_lon": "-80.191647",
+                        "stop_name": "BRICKELL AV@SE 12 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 3 AV@SW 11 ST",
-            "onestopId": "s-dhwfx40crq-sw3~sw11",
+            "name": "BRICKELL AV@SE 12 ST",
+            "onestopId": "s-dhwfx1y4z5-brickell~se12",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2275,76 +2396,6 @@
             ],
             "name": "S MIAMI AV@W FLAGLER ST",
             "onestopId": "s-dhwfx5uy29-smiami~wflagler",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.192184,
-                    25.761173
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-1015",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13STBRKS",
-                        "stop_desc": "",
-                        "stop_id": "1015",
-                        "stop_lat": "25.761173",
-                        "stop_lon": "-80.192184",
-                        "stop_name": "BRICKELL AV@SE 13 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "BRICKELL AV@SE 13 ST",
-            "onestopId": "s-dhwfx1tvdw-brickell~se13",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.194068,
-                    25.775146
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6662",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D1STNMV8",
-                        "stop_desc": "",
-                        "stop_id": "6662",
-                        "stop_lat": "25.775146",
-                        "stop_lon": "-80.194068",
-                        "stop_name": "NW 1 ST@N MIAMI AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 1 ST@N MIAMI AV",
-            "onestopId": "s-dhwfxhhrng-nw1~nmiami",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2740,31 +2791,47 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.192253,
-                    25.790486
+                    -80.187934,
+                    25.785918
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6844",
+                    "identifier": "f-miamidade-s-829",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "A1AV#161",
+                        "stop_code": "BCENPARO",
                         "stop_desc": "",
-                        "stop_id": "6844",
-                        "stop_lat": "25.790486",
-                        "stop_lon": "-80.192253",
-                        "stop_name": "NE 1 AV@NE 16 ST",
+                        "stop_id": "829",
+                        "stop_lat": "25.785918",
+                        "stop_lon": "-80.187934",
+                        "stop_name": "MUSEUM PARK METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-797",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "BCENPARI",
+                        "stop_desc": "",
+                        "stop_id": "797",
+                        "stop_lat": "25.785918",
+                        "stop_lon": "-80.187934",
+                        "stop_name": "MUSEUM PARK METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NE 1 AV@NE 16 ST",
-            "onestopId": "s-dhwfxpjb3p-ne1~ne16",
+            "name": "MUSEUM PARK METROMOVER STATION",
+            "onestopId": "s-dhwfxq0vve-museumparkmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2810,31 +2877,47 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.195646,
-                    25.773455
+                    -80.193145,
+                    25.789376
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-1340",
+                    "identifier": "f-miamidade-s-831",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "SW1S1AVX",
-                        "stop_desc": "SW 1ST AVE & W FLAGLER ST",
-                        "stop_id": "1340",
-                        "stop_lat": "25.773455",
-                        "stop_lon": "-80.195646",
-                        "stop_name": "SW 1 ST@SW 1 AV",
+                        "stop_code": "SCHLBRDO",
+                        "stop_desc": "",
+                        "stop_id": "831",
+                        "stop_lat": "25.789376",
+                        "stop_lon": "-80.193145",
+                        "stop_name": "SCHOOL BOARD METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-795",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "SCHLBRDI",
+                        "stop_desc": "",
+                        "stop_id": "795",
+                        "stop_lat": "25.789376",
+                        "stop_lon": "-80.193145",
+                        "stop_name": "SCHOOL BOARD METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 1 ST@SW 1 AV",
-            "onestopId": "s-dhwfx5gm60-sw1~sw1",
+            "name": "SCHOOL BOARD METROMOVER STATION",
+            "onestopId": "s-dhwfxnv4h2-schoolboardmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3062,13 +3145,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-104",
+                    "identifier": "f-miamidade-s-10215",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "MTROGVCT",
+                        "stop_code": "MTROGVC8",
                         "stop_desc": "",
-                        "stop_id": "104",
+                        "stop_id": "10215",
                         "stop_lat": "25.775087",
                         "stop_lon": "-80.196372",
                         "stop_name": "NW 1 ST@NW 1 AV",
@@ -3078,13 +3161,13 @@
                     }
                 },
                 {
-                    "identifier": "f-miamidade-s-10215",
+                    "identifier": "f-miamidade-s-104",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "MTROGVC8",
+                        "stop_code": "MTROGVCT",
                         "stop_desc": "",
-                        "stop_id": "10215",
+                        "stop_id": "104",
                         "stop_lat": "25.775087",
                         "stop_lon": "-80.196372",
                         "stop_name": "NW 1 ST@NW 1 AV",
@@ -3166,41 +3249,6 @@
             ],
             "name": "NW 1 AV@NW 1 ST",
             "onestopId": "s-dhwfxh5kdj-nw1~nw1",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.197844,
-                    25.776127
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6647",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D2AV##23",
-                        "stop_desc": "",
-                        "stop_id": "6647",
-                        "stop_lat": "25.776127",
-                        "stop_lon": "-80.197844",
-                        "stop_name": "NW 2 AV@NW 2 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 2 AV@NW 2 ST",
-            "onestopId": "s-dhwfxh3syf-nw2~nw2",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3717,31 +3765,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.191984,
-                    25.778131
+                    -80.188918,
+                    25.795262
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-61",
+                    "identifier": "f-miamidade-s-6721",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "MDCCDNTW",
-                        "stop_desc": "NE 1ST AVE & NE 4TH ST",
-                        "stop_id": "61",
-                        "stop_lat": "25.778131",
-                        "stop_lon": "-80.191984",
-                        "stop_name": "MDCC DOWNTOWN CAMPUS",
+                        "stop_code": "BSCB#201",
+                        "stop_desc": "",
+                        "stop_id": "6721",
+                        "stop_lat": "25.795262",
+                        "stop_lon": "-80.188918",
+                        "stop_name": "BISCAYNE BD@NE 20 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MDCC DOWNTOWN CAMPUS",
-            "onestopId": "s-dhwfxhvbrr-mdccdowntowncampus",
+            "name": "BISCAYNE BD@NE 20 ST",
+            "onestopId": "s-dhwfxrbhqc-biscaynebd~ne20",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4102,31 +4150,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.194861,
-                    25.793873
+                    -80.191867,
+                    25.774031
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6851",
+                    "identifier": "f-miamidade-s-6635",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "NMAV#194",
+                        "stop_code": "B1AVFLS1",
                         "stop_desc": "",
-                        "stop_id": "6851",
-                        "stop_lat": "25.793873",
-                        "stop_lon": "-80.194861",
-                        "stop_name": "N MIAMI AV@NW 19 ST",
+                        "stop_id": "6635",
+                        "stop_lat": "25.774031",
+                        "stop_lon": "-80.191867",
+                        "stop_name": "SE 1 AV@E FLAGLER ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "N MIAMI AV@NW 19 ST",
-            "onestopId": "s-dhwfxpeuhq-nmiami~nw19",
+            "name": "SE 1 AV@E FLAGLER ST",
+            "onestopId": "s-dhwfxhn0d5-se1~eflagler",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4277,47 +4325,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.193145,
-                    25.789376
+                    -80.195646,
+                    25.773455
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-795",
+                    "identifier": "f-miamidade-s-1340",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "SCHLBRDI",
-                        "stop_desc": "",
-                        "stop_id": "795",
-                        "stop_lat": "25.789376",
-                        "stop_lon": "-80.193145",
-                        "stop_name": "SCHOOL BOARD METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-831",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "SCHLBRDO",
-                        "stop_desc": "",
-                        "stop_id": "831",
-                        "stop_lat": "25.789376",
-                        "stop_lon": "-80.193145",
-                        "stop_name": "SCHOOL BOARD METROMOVER STATION",
+                        "stop_code": "SW1S1AVX",
+                        "stop_desc": "SW 1ST AVE & W FLAGLER ST",
+                        "stop_id": "1340",
+                        "stop_lat": "25.773455",
+                        "stop_lon": "-80.195646",
+                        "stop_name": "SW 1 ST@SW 1 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SCHOOL BOARD METROMOVER STATION",
-            "onestopId": "s-dhwfxnv4h2-schoolboardmetromoverstation",
+            "name": "SW 1 ST@SW 1 AV",
+            "onestopId": "s-dhwfx5gm60-sw1~sw1",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4370,13 +4402,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-828",
+                    "identifier": "f-miamidade-s-798",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11STMOVO",
-                        "stop_desc": "",
-                        "stop_id": "828",
+                        "stop_code": "11STMOVI",
+                        "stop_desc": "NE 2 AV & NE 11 ST",
+                        "stop_id": "798",
                         "stop_lat": "25.784866",
                         "stop_lon": "-80.19079",
                         "stop_name": "ELEVENTH STREET METROMOVER STATION",
@@ -4386,13 +4418,13 @@
                     }
                 },
                 {
-                    "identifier": "f-miamidade-s-798",
+                    "identifier": "f-miamidade-s-828",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11STMOVI",
-                        "stop_desc": "NE 2 AV & NE 11 ST",
-                        "stop_id": "798",
+                        "stop_code": "11STMOVO",
+                        "stop_desc": "",
+                        "stop_id": "828",
                         "stop_lat": "25.784866",
                         "stop_lon": "-80.19079",
                         "stop_name": "ELEVENTH STREET METROMOVER STATION",
@@ -4589,6 +4621,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.193613,
+                    25.771155
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6642",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "SMIA##43",
+                        "stop_desc": "",
+                        "stop_id": "6642",
+                        "stop_lat": "25.771155",
+                        "stop_lon": "-80.193613",
+                        "stop_name": "S MIAMI AV@SW 4 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "S MIAMI AV@SW 4 ST",
+            "onestopId": "s-dhwfx5kzc7-smiami~sw4",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.174776,
                     25.784531
                 ],
@@ -4659,66 +4726,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.190327,
-                    25.766715
+                    -80.197547,
+                    25.763302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6836",
+                    "identifier": "f-miamidade-s-8207",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BRKV##82",
+                        "stop_code": "C11S##25",
                         "stop_desc": "",
-                        "stop_id": "6836",
-                        "stop_lat": "25.766715",
-                        "stop_lon": "-80.190327",
-                        "stop_name": "BRICKELL AV@SE 8 ST",
+                        "stop_id": "8207",
+                        "stop_lat": "25.763302",
+                        "stop_lon": "-80.197547",
+                        "stop_name": "SW 11 ST@SW 2 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BRICKELL AV@SE 8 ST",
-            "onestopId": "s-dhwfx4xjvz-brickell~se8",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.197712,
-                    25.775752
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6648",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D2AV##21",
-                        "stop_desc": "",
-                        "stop_id": "6648",
-                        "stop_lat": "25.775752",
-                        "stop_lon": "-80.197712",
-                        "stop_name": "NW 2 AV@NW 2 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 2 AV@NW 2 ST",
-            "onestopId": "s-dhwfxh3f9u-nw2~nw2",
+            "name": "SW 11 ST@SW 2 AV",
+            "onestopId": "s-dhwfx41fje-sw11~sw2",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4764,47 +4796,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.192558,
-                    25.771051
+                    -80.188995,
+                    25.789263
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-816",
+                    "identifier": "f-miamidade-s-42",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "RIVRWALO",
+                        "stop_code": "OMNITERN",
                         "stop_desc": "",
-                        "stop_id": "816",
-                        "stop_lat": "25.771051",
-                        "stop_lon": "-80.192558",
-                        "stop_name": "RIVERWALK METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-806",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "RIVRWALI",
-                        "stop_desc": "",
-                        "stop_id": "806",
-                        "stop_lat": "25.771051",
-                        "stop_lon": "-80.192558",
-                        "stop_name": "RIVERWALK METROMOVER STATION",
+                        "stop_id": "42",
+                        "stop_lat": "25.789263",
+                        "stop_lon": "-80.188995",
+                        "stop_name": "BISCAYNE BD@NE 15 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "RIVERWALK METROMOVER STATION",
-            "onestopId": "s-dhwfx5mx3b-riverwalkmetromoverstation",
+            "name": "BISCAYNE BD@NE 15 ST",
+            "onestopId": "s-dhwfxqb1kg-biscaynebd~ne15",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4850,66 +4866,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.187323,
-                    25.773099
+                    -80.190799,
+                    25.766405
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-832",
+                    "identifier": "f-miamidade-s-6820",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BAY-FRNE",
+                        "stop_code": "BRKV##84",
                         "stop_desc": "",
-                        "stop_id": "832",
-                        "stop_lat": "25.773099",
-                        "stop_lon": "-80.187323",
-                        "stop_name": "BISCAYNE BD@E FLAGLER ST",
+                        "stop_id": "6820",
+                        "stop_lat": "25.766405",
+                        "stop_lon": "-80.190799",
+                        "stop_name": "BRICKELL AV@SE 8 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BISCAYNE BD@E FLAGLER ST",
-            "onestopId": "s-dhwfx7c75v-biscaynebd~eflagler",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.19395,
-                    25.781598
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6856",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "DMIV08S4",
-                        "stop_desc": "",
-                        "stop_id": "6856",
-                        "stop_lat": "25.781598",
-                        "stop_lon": "-80.19395",
-                        "stop_name": "N MIAMI AV@NW 8 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "N MIAMI AV@NW 8 ST",
-            "onestopId": "s-dhwfxjks9w-nmiami~nw8",
+            "name": "BRICKELL AV@SE 8 ST",
+            "onestopId": "s-dhwfx4wu4y-brickell~se8",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5048,22 +5029,6 @@
                     }
                 },
                 {
-                    "identifier": "f-miamidade-s-833",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "KNGTCNTE",
-                        "stop_desc": "",
-                        "stop_id": "833",
-                        "stop_lat": "25.771865",
-                        "stop_lon": "-80.191377",
-                        "stop_name": "KNIGHT CENTER METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
                     "identifier": "f-miamidade-s-822",
                     "tags": {
                         "location_type": "",
@@ -5078,10 +5043,112 @@
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
+                },
+                {
+                    "identifier": "f-miamidade-s-833",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "KNGTCNTE",
+                        "stop_desc": "",
+                        "stop_id": "833",
+                        "stop_lat": "25.771865",
+                        "stop_lon": "-80.191377",
+                        "stop_name": "KNIGHT CENTER METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
                 }
             ],
             "name": "KNIGHT CENTER METROMOVER STATION",
             "onestopId": "s-dhwfx5w7vr-knightmetromoverstation",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.192558,
+                    25.771051
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-806",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "RIVRWALI",
+                        "stop_desc": "",
+                        "stop_id": "806",
+                        "stop_lat": "25.771051",
+                        "stop_lon": "-80.192558",
+                        "stop_name": "RIVERWALK METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-816",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "RIVRWALO",
+                        "stop_desc": "",
+                        "stop_id": "816",
+                        "stop_lat": "25.771051",
+                        "stop_lon": "-80.192558",
+                        "stop_name": "RIVERWALK METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "RIVERWALK METROMOVER STATION",
+            "onestopId": "s-dhwfx5mx3b-riverwalkmetromoverstation",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.190876,
+                    25.79455
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6780",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "A2AV#194",
+                        "stop_desc": "",
+                        "stop_id": "6780",
+                        "stop_lat": "25.79455",
+                        "stop_lon": "-80.190876",
+                        "stop_name": "NE 2 AV@NE 19 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NE 2 AV@NE 19 ST",
+            "onestopId": "s-dhwfxpyb1h-ne2~ne19",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5127,31 +5194,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.19398,
-                    25.779976
+                    -80.174724,
+                    25.78371
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6671",
+                    "identifier": "f-miamidade-s-7918",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D6STNMV8",
+                        "stop_code": "MCRWWAT4",
                         "stop_desc": "",
-                        "stop_id": "6671",
-                        "stop_lat": "25.779976",
-                        "stop_lon": "-80.19398",
-                        "stop_name": "NW 6 ST@N MIAMI AV",
+                        "stop_id": "7918",
+                        "stop_lat": "25.78371",
+                        "stop_lon": "-80.174724",
+                        "stop_name": "MAC ARTHUR CY@WATSON ISLAND",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 6 ST@N MIAMI AV",
-            "onestopId": "s-dhwfxjhe0z-nw6~nmiami",
+            "name": "MAC ARTHUR CY@WATSON ISLAND",
+            "onestopId": "s-dhwfxtf8cx-macarthurcy~watsonisland",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5197,31 +5264,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.191647,
-                    25.762056
+                    -80.198848,
+                    25.763187
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-1016",
+                    "identifier": "f-miamidade-s-7005",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13STBRKN",
+                        "stop_code": "C3AV#111",
                         "stop_desc": "",
-                        "stop_id": "1016",
-                        "stop_lat": "25.762056",
-                        "stop_lon": "-80.191647",
-                        "stop_name": "BRICKELL AV@SE 12 ST",
+                        "stop_id": "7005",
+                        "stop_lat": "25.763187",
+                        "stop_lon": "-80.198848",
+                        "stop_name": "SW 3 AV@SW 11 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BRICKELL AV@SE 12 ST",
-            "onestopId": "s-dhwfx1y4z5-brickell~se12",
+            "name": "SW 3 AV@SW 11 ST",
+            "onestopId": "s-dhwfx40crq-sw3~sw11",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5897,31 +5964,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.18914,
-                    25.780748
+                    -80.199963,
+                    25.787764
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6717",
+                    "identifier": "f-miamidade-s-6985",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BSCB##62",
+                        "stop_code": "D3AV14S4",
                         "stop_desc": "",
-                        "stop_id": "6717",
-                        "stop_lat": "25.780748",
-                        "stop_lon": "-80.18914",
-                        "stop_name": "BISCAYNE BD@NE 6 ST",
+                        "stop_id": "6985",
+                        "stop_lat": "25.787764",
+                        "stop_lon": "-80.199963",
+                        "stop_name": "NW 3 AV@NW 14 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BISCAYNE BD@NE 6 ST",
-            "onestopId": "s-dhwfxm0p9x-biscaynebd~ne6",
+            "name": "NW 3 AV@NW 14 ST",
+            "onestopId": "s-dhwfxn80t7-nw3~nw14",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6260,47 +6327,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.192248,
-                    25.769165
+                    -80.189073,
+                    25.792633
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-817",
+                    "identifier": "f-miamidade-s-6712",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5STRMOVO",
+                        "stop_code": "BSCB#173",
                         "stop_desc": "",
-                        "stop_id": "817",
-                        "stop_lat": "25.769165",
-                        "stop_lon": "-80.192248",
-                        "stop_name": "FIFTH STREET METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-805",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5STRMOVI",
-                        "stop_desc": "",
-                        "stop_id": "805",
-                        "stop_lat": "25.769165",
-                        "stop_lon": "-80.192248",
-                        "stop_name": "FIFTH STREET METROMOVER STATION",
+                        "stop_id": "6712",
+                        "stop_lat": "25.792633",
+                        "stop_lon": "-80.189073",
+                        "stop_name": "BISCAYNE BD@NE 17 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "FIFTH STREET METROMOVER STATION",
-            "onestopId": "s-dhwfx5ju30-fifthmetromoverstation",
+            "name": "BISCAYNE BD@NE 17 TE",
+            "onestopId": "s-dhwfxr2hgp-biscaynebd~ne17te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6451,31 +6502,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.199963,
-                    25.787764
+                    -80.18914,
+                    25.780748
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6985",
+                    "identifier": "f-miamidade-s-6717",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D3AV14S4",
+                        "stop_code": "BSCB##62",
                         "stop_desc": "",
-                        "stop_id": "6985",
-                        "stop_lat": "25.787764",
-                        "stop_lon": "-80.199963",
-                        "stop_name": "NW 3 AV@NW 14 ST",
+                        "stop_id": "6717",
+                        "stop_lat": "25.780748",
+                        "stop_lon": "-80.18914",
+                        "stop_name": "BISCAYNE BD@NE 6 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 3 AV@NW 14 ST",
-            "onestopId": "s-dhwfxn80t7-nw3~nw14",
+            "name": "BISCAYNE BD@NE 6 ST",
+            "onestopId": "s-dhwfxm0p9x-biscaynebd~ne6",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6626,41 +6677,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.190799,
-                    25.766405
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6820",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "BRKV##84",
-                        "stop_desc": "",
-                        "stop_id": "6820",
-                        "stop_lat": "25.766405",
-                        "stop_lon": "-80.190799",
-                        "stop_name": "BRICKELL AV@SE 8 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "BRICKELL AV@SE 8 ST",
-            "onestopId": "s-dhwfx4wu4y-brickell~se8",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.198018,
                     25.783973
                 ],
@@ -6696,31 +6712,47 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.187488,
-                    25.776525
+                    -80.195261,
+                    25.762664
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6630",
+                    "identifier": "f-miamidade-s-820",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "BSCB##22",
+                        "stop_code": "BRKLMOVO",
                         "stop_desc": "",
-                        "stop_id": "6630",
-                        "stop_lat": "25.776525",
-                        "stop_lon": "-80.187488",
-                        "stop_name": "BISCAYNE BD@NE 2 ST",
+                        "stop_id": "820",
+                        "stop_lat": "25.762664",
+                        "stop_lon": "-80.195261",
+                        "stop_name": "BRICKELL METROMOVER STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-miamidade-s-802",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "BRKLMOVI",
+                        "stop_desc": "",
+                        "stop_id": "802",
+                        "stop_lat": "25.762664",
+                        "stop_lon": "-80.195261",
+                        "stop_name": "BRICKELL METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BISCAYNE BD@NE 2 ST",
-            "onestopId": "s-dhwfxk3r0h-biscaynebd~ne2",
+            "name": "BRICKELL METROMOVER STATION",
+            "onestopId": "s-dhwfx1gw6u-brickellmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6801,63 +6833,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.189849,
-                    25.775726
+                    -80.192713,
+                    25.764542
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-809",
+                    "identifier": "f-miamidade-s-8199",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1STRMOVI",
+                        "stop_code": "B10S##18",
                         "stop_desc": "",
-                        "stop_id": "809",
-                        "stop_lat": "25.775726",
-                        "stop_lon": "-80.189849",
-                        "stop_name": "FIRST STREET METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-824",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "1STRMOVO",
-                        "stop_desc": "SW 1 ST & S MIAMI AV",
-                        "stop_id": "824",
-                        "stop_lat": "25.775726",
-                        "stop_lon": "-80.189849",
-                        "stop_name": "FIRST STREET METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-miamidade-s-840",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "1STRMOVW",
-                        "stop_desc": "NE 2 AV & NE 2 ST",
-                        "stop_id": "840",
-                        "stop_lat": "25.775726",
-                        "stop_lon": "-80.189849",
-                        "stop_name": "FIRST STREET METROMOVER STATION",
+                        "stop_id": "8199",
+                        "stop_lat": "25.764542",
+                        "stop_lon": "-80.192713",
+                        "stop_name": "SE 10 ST@SE 1 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "FIRST STREET METROMOVER STATION",
-            "onestopId": "s-dhwfxhrd3p-firstmetromoverstation",
+            "name": "SE 10 ST@SE 1 AV",
+            "onestopId": "s-dhwfx4m3q6-se10~se1",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6938,31 +6938,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.188995,
-                    25.789263
+                    -80.195991,
+                    25.776044
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-42",
+                    "identifier": "f-miamidade-s-9513",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "OMNITERN",
+                        "stop_code": "GVTRAILN",
                         "stop_desc": "",
-                        "stop_id": "42",
-                        "stop_lat": "25.789263",
-                        "stop_lon": "-80.188995",
-                        "stop_name": "BISCAYNE BD@NE 15 ST",
+                        "stop_id": "9513",
+                        "stop_lat": "25.776044",
+                        "stop_lon": "-80.195991",
+                        "stop_name": "GOVERNMENT CTR.STAT.RAIL NORTHBOUND",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BISCAYNE BD@NE 15 ST",
-            "onestopId": "s-dhwfxqb1kg-biscaynebd~ne15",
+            "name": "GOVERNMENT CTR.STAT.RAIL NORTHBOUND",
+            "onestopId": "s-dhwfxh7h3f-governmentstatrailnorthbound",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6998,6 +6998,41 @@
             ],
             "name": "N MIAMI AV@NW 17 ST",
             "onestopId": "s-dhwfxp5uvv-nmiami~nw17",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.187323,
+                    25.773099
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-832",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "BAY-FRNE",
+                        "stop_desc": "",
+                        "stop_id": "832",
+                        "stop_lat": "25.773099",
+                        "stop_lon": "-80.187323",
+                        "stop_name": "BISCAYNE BD@E FLAGLER ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "BISCAYNE BD@E FLAGLER ST",
+            "onestopId": "s-dhwfx7c75v-biscaynebd~eflagler",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7113,31 +7148,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.191867,
-                    25.774031
+                    -80.197844,
+                    25.776127
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6635",
+                    "identifier": "f-miamidade-s-6647",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "B1AVFLS1",
+                        "stop_code": "D2AV##23",
                         "stop_desc": "",
-                        "stop_id": "6635",
-                        "stop_lat": "25.774031",
-                        "stop_lon": "-80.191867",
-                        "stop_name": "SE 1 AV@E FLAGLER ST",
+                        "stop_id": "6647",
+                        "stop_lat": "25.776127",
+                        "stop_lon": "-80.197844",
+                        "stop_name": "NW 2 AV@NW 2 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SE 1 AV@E FLAGLER ST",
-            "onestopId": "s-dhwfxhn0d5-se1~eflagler",
+            "name": "NW 2 AV@NW 2 ST",
+            "onestopId": "s-dhwfxh3syf-nw2~nw2",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7253,31 +7288,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.197547,
-                    25.763302
+                    -80.190327,
+                    25.766715
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-8207",
+                    "identifier": "f-miamidade-s-6836",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "C11S##25",
+                        "stop_code": "BRKV##82",
                         "stop_desc": "",
-                        "stop_id": "8207",
-                        "stop_lat": "25.763302",
-                        "stop_lon": "-80.197547",
-                        "stop_name": "SW 11 ST@SW 2 AV",
+                        "stop_id": "6836",
+                        "stop_lat": "25.766715",
+                        "stop_lon": "-80.190327",
+                        "stop_name": "BRICKELL AV@SE 8 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SW 11 ST@SW 2 AV",
-            "onestopId": "s-dhwfx41fje-sw11~sw2",
+            "name": "BRICKELL AV@SE 8 ST",
+            "onestopId": "s-dhwfx4xjvz-brickell~se8",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7330,22 +7365,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-818",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "8STRMOVO",
-                        "stop_desc": "",
-                        "stop_id": "818",
-                        "stop_lat": "25.766888",
-                        "stop_lon": "-80.192121",
-                        "stop_name": "EIGHTH STREET METROMOVER STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                },
-                {
                     "identifier": "f-miamidade-s-804",
                     "tags": {
                         "location_type": "",
@@ -7360,45 +7379,26 @@
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
-                }
-            ],
-            "name": "EIGHTH STREET METROMOVER STATION",
-            "onestopId": "s-dhwfx4tzh0-eighthmetromoverstation",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.195991,
-                    25.776044
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
+                },
                 {
-                    "identifier": "f-miamidade-s-9513",
+                    "identifier": "f-miamidade-s-818",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "GVTRAILN",
+                        "stop_code": "8STRMOVO",
                         "stop_desc": "",
-                        "stop_id": "9513",
-                        "stop_lat": "25.776044",
-                        "stop_lon": "-80.195991",
-                        "stop_name": "GOVERNMENT CTR.STAT.RAIL NORTHBOUND",
+                        "stop_id": "818",
+                        "stop_lat": "25.766888",
+                        "stop_lon": "-80.192121",
+                        "stop_name": "EIGHTH STREET METROMOVER STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "GOVERNMENT CTR.STAT.RAIL NORTHBOUND",
-            "onestopId": "s-dhwfxh7h3f-governmentstatrailnorthbound",
+            "name": "EIGHTH STREET METROMOVER STATION",
+            "onestopId": "s-dhwfx4tzh0-eighthmetromoverstation",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"

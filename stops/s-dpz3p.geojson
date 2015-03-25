@@ -248,6 +248,76 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.490899,
+                    43.775916
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-6291",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3402",
+                        "stop_desc": "",
+                        "stop_id": "6291",
+                        "stop_lat": "43.775916",
+                        "stop_lon": "-79.490899",
+                        "stop_name": "CANARCTIC DR AT WILDCAT RD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "CANARCTIC DR AT WILDCAT RD",
+            "onestopId": "s-dpz3p1hmpy-canarcticatwildcat",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.494461,
+                    43.780654
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-5217",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4039",
+                        "stop_desc": "",
+                        "stop_id": "5217",
+                        "stop_lat": "43.780654",
+                        "stop_lon": "-79.494461",
+                        "stop_name": "KEELE ST AT STEELES AVE WEST SOUTH SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KEELE ST AT STEELES AVE WEST SOUTH SIDE",
+            "onestopId": "s-dpz3p41buc-keeleatsteeleswestsouthside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.454686,
                     43.771644
                 ],
@@ -493,31 +563,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.47007,
-                    43.783707
+                    -79.454138,
+                    43.771552
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-2868",
+                    "identifier": "f-ttc-s-9340",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14313",
+                        "stop_code": "3608",
                         "stop_desc": "",
-                        "stop_id": "2868",
-                        "stop_lat": "43.783707",
-                        "stop_lon": "-79.47007",
-                        "stop_name": "DUFFERIN ST AT GERRY FITZGERALD DR",
+                        "stop_id": "9340",
+                        "stop_lat": "43.771552",
+                        "stop_lon": "-79.454138",
+                        "stop_name": "625 FINCH AVE WEST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DUFFERIN ST AT GERRY FITZGERALD DR",
-            "onestopId": "s-dpz3pdedt4-dufferinatgerryfitzgerald",
+            "name": "625 FINCH AVE WEST",
+            "onestopId": "s-dpz3pbr7b2-625finchwest",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -553,41 +623,6 @@
             ],
             "name": "ALNESS ST AT MAGNETIC DR NORTH SIDE",
             "onestopId": "s-dpz3p6ku8r-alnessatmagneticnorthside",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.460855,
-                    43.770071
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-631",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3622",
-                        "stop_desc": "",
-                        "stop_id": "631",
-                        "stop_lat": "43.770071",
-                        "stop_lon": "-79.460855",
-                        "stop_name": "FINCH AVE WEST AT WILMINGTON AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "FINCH AVE WEST AT WILMINGTON AVE",
-            "onestopId": "s-dpz3pb475u-finchwestatwilmington",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1788,41 +1823,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.493069,
-                    43.775466
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-7521",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3401",
-                        "stop_desc": "",
-                        "stop_id": "7521",
-                        "stop_lat": "43.775466",
-                        "stop_lon": "-79.493069",
-                        "stop_name": "CANARCTIC DR AT KEELE ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "CANARCTIC DR AT KEELE ST",
-            "onestopId": "s-dpz3p14ft4-canarcticatkeele",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.469679,
                     43.7807
                 ],
@@ -2278,31 +2278,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.487474,
-                    43.783065
+                    -79.493069,
+                    43.775466
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3750",
+                    "identifier": "f-ttc-s-7521",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1597",
+                        "stop_code": "3401",
                         "stop_desc": "",
-                        "stop_id": "3750",
-                        "stop_lat": "43.783065",
-                        "stop_lon": "-79.487474",
-                        "stop_name": "STEELES AVE WEST AT SHALE GATE",
+                        "stop_id": "7521",
+                        "stop_lat": "43.775466",
+                        "stop_lon": "-79.493069",
+                        "stop_name": "CANARCTIC DR AT KEELE ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "STEELES AVE WEST AT SHALE GATE",
-            "onestopId": "s-dpz3p4qyzd-steeleswestatshalegate",
+            "name": "CANARCTIC DR AT KEELE ST",
+            "onestopId": "s-dpz3p14ft4-canarcticatkeele",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2418,66 +2418,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.490899,
-                    43.775916
+                    -79.47022,
+                    43.786743
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6291",
+                    "identifier": "f-ttc-s-3850",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3402",
+                        "stop_code": "7658",
                         "stop_desc": "",
-                        "stop_id": "6291",
-                        "stop_lat": "43.775916",
-                        "stop_lon": "-79.490899",
-                        "stop_name": "CANARCTIC DR AT WILDCAT RD",
+                        "stop_id": "3850",
+                        "stop_lat": "43.786743",
+                        "stop_lon": "-79.47022",
+                        "stop_name": "DUFFERIN ST AT STEELES AVE WEST SOUTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CANARCTIC DR AT WILDCAT RD",
-            "onestopId": "s-dpz3p1hmpy-canarcticatwildcat",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.474367,
-                    43.805467
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-8246",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11408",
-                        "stop_desc": "",
-                        "stop_id": "8246",
-                        "stop_lat": "43.805467",
-                        "stop_lon": "-79.474367",
-                        "stop_name": "DUFFERIN ST AT CENTRE ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "DUFFERIN ST AT CENTRE ST",
-            "onestopId": "s-dpz3pw8934-dufferinatcentre",
+            "name": "DUFFERIN ST AT STEELES AVE WEST SOUTH SIDE",
+            "onestopId": "s-dpz3pe5s38-dufferinatsteeleswestsouthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2873,31 +2838,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.474247,
-                    43.776527
+                    -79.468556,
+                    43.77531
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6657",
+                    "identifier": "f-ttc-s-3803",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9480",
+                        "stop_code": "7655",
                         "stop_desc": "",
-                        "stop_id": "6657",
-                        "stop_lat": "43.776527",
-                        "stop_lon": "-79.474247",
-                        "stop_name": "ALNESS ST AT SUPERTEST RD",
+                        "stop_id": "3803",
+                        "stop_lat": "43.77531",
+                        "stop_lon": "-79.468556",
+                        "stop_name": "DUFFERIN ST AT MARTIN ROSS AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ALNESS ST AT SUPERTEST RD",
-            "onestopId": "s-dpz3p928gb-alnessatsupertest",
+            "name": "DUFFERIN ST AT MARTIN ROSS AVE",
+            "onestopId": "s-dpz3p9hc8m-dufferinatmartinross",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.460855,
+                    43.770071
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-631",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3622",
+                        "stop_desc": "",
+                        "stop_id": "631",
+                        "stop_lat": "43.770071",
+                        "stop_lon": "-79.460855",
+                        "stop_name": "FINCH AVE WEST AT WILMINGTON AVE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "FINCH AVE WEST AT WILMINGTON AVE",
+            "onestopId": "s-dpz3pb475u-finchwestatwilmington",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3188,31 +3188,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.468556,
-                    43.77531
+                    -79.487474,
+                    43.783065
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3803",
+                    "identifier": "f-ttc-s-3750",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7655",
+                        "stop_code": "1597",
                         "stop_desc": "",
-                        "stop_id": "3803",
-                        "stop_lat": "43.77531",
-                        "stop_lon": "-79.468556",
-                        "stop_name": "DUFFERIN ST AT MARTIN ROSS AVE",
+                        "stop_id": "3750",
+                        "stop_lat": "43.783065",
+                        "stop_lon": "-79.487474",
+                        "stop_name": "STEELES AVE WEST AT SHALE GATE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DUFFERIN ST AT MARTIN ROSS AVE",
-            "onestopId": "s-dpz3p9hc8m-dufferinatmartinross",
+            "name": "STEELES AVE WEST AT SHALE GATE",
+            "onestopId": "s-dpz3p4qyzd-steeleswestatshalegate",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3783,31 +3783,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.454138,
-                    43.771552
+                    -79.47007,
+                    43.783707
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9340",
+                    "identifier": "f-ttc-s-2868",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3608",
+                        "stop_code": "14313",
                         "stop_desc": "",
-                        "stop_id": "9340",
-                        "stop_lat": "43.771552",
-                        "stop_lon": "-79.454138",
-                        "stop_name": "625 FINCH AVE WEST",
+                        "stop_id": "2868",
+                        "stop_lat": "43.783707",
+                        "stop_lon": "-79.47007",
+                        "stop_name": "DUFFERIN ST AT GERRY FITZGERALD DR",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "625 FINCH AVE WEST",
-            "onestopId": "s-dpz3pbr7b2-625finchwest",
+            "name": "DUFFERIN ST AT GERRY FITZGERALD DR",
+            "onestopId": "s-dpz3pdedt4-dufferinatgerryfitzgerald",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4133,31 +4133,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.47022,
-                    43.786743
+                    -79.474367,
+                    43.805467
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3850",
+                    "identifier": "f-ttc-s-8246",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7658",
+                        "stop_code": "11408",
                         "stop_desc": "",
-                        "stop_id": "3850",
-                        "stop_lat": "43.786743",
-                        "stop_lon": "-79.47022",
-                        "stop_name": "DUFFERIN ST AT STEELES AVE WEST SOUTH SIDE",
+                        "stop_id": "8246",
+                        "stop_lat": "43.805467",
+                        "stop_lon": "-79.474367",
+                        "stop_name": "DUFFERIN ST AT CENTRE ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DUFFERIN ST AT STEELES AVE WEST SOUTH SIDE",
-            "onestopId": "s-dpz3pe5s38-dufferinatsteeleswestsouthside",
+            "name": "DUFFERIN ST AT CENTRE ST",
+            "onestopId": "s-dpz3pw8934-dufferinatcentre",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4203,31 +4203,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.494461,
-                    43.780654
+                    -79.474247,
+                    43.776527
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5217",
+                    "identifier": "f-ttc-s-6657",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4039",
+                        "stop_code": "9480",
                         "stop_desc": "",
-                        "stop_id": "5217",
-                        "stop_lat": "43.780654",
-                        "stop_lon": "-79.494461",
-                        "stop_name": "KEELE ST AT STEELES AVE WEST SOUTH SIDE",
+                        "stop_id": "6657",
+                        "stop_lat": "43.776527",
+                        "stop_lon": "-79.474247",
+                        "stop_name": "ALNESS ST AT SUPERTEST RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KEELE ST AT STEELES AVE WEST SOUTH SIDE",
-            "onestopId": "s-dpz3p41buc-keeleatsteeleswestsouthside",
+            "name": "ALNESS ST AT SUPERTEST RD",
+            "onestopId": "s-dpz3p928gb-alnessatsupertest",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"

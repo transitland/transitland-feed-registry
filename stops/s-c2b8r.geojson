@@ -71,6 +71,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.738731,
+                    49.278102
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-3850",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "53811",
+                        "stop_desc": "CEDAR DR @ LINCOLN AVE",
+                        "stop_id": "3850",
+                        "stop_lat": "49.278102",
+                        "stop_lon": "-122.738731",
+                        "stop_name": "SB CEDAR DR FS LINCOLN AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB CEDAR DR FS LINCOLN AV",
+            "onestopId": "s-c2b8r4b3u2-sbcedarfslincoln",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.739035,
                     49.274238
                 ],
@@ -139,30 +173,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.738731,
-                    49.278102
+                    -122.734269,
+                    49.271212
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3850",
+                    "identifier": "f-translink-s-9350",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53811",
-                        "stop_desc": "CEDAR DR @ LINCOLN AVE",
-                        "stop_id": "3850",
-                        "stop_lat": "49.278102",
-                        "stop_lon": "-122.738731",
-                        "stop_name": "SB CEDAR DR FS LINCOLN AV",
+                        "stop_code": "58681",
+                        "stop_desc": "PRAIRIE AVE @ FREMONT ST",
+                        "stop_id": "9350",
+                        "stop_lat": "49.271212",
+                        "stop_lon": "-122.734269",
+                        "stop_name": "EB PRAIRIE AV NS FREMONT ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB CEDAR DR FS LINCOLN AV",
-            "onestopId": "s-c2b8r4b3u2-sbcedarfslincoln",
+            "name": "EB PRAIRIE AV NS FREMONT ST",
+            "onestopId": "s-c2b8r1e9s5-ebprairiensfremont",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -207,30 +241,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.737235,
-                    49.267321
+                    -122.736469,
+                    49.267192
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9354",
+                    "identifier": "f-translink-s-9362",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58691",
+                        "stop_code": "58690",
                         "stop_desc": "RIVERSIDE DR @ SKEENA ST",
-                        "stop_id": "9354",
-                        "stop_lat": "49.267321",
-                        "stop_lon": "-122.737235",
-                        "stop_name": "WB RIVERSIDE DR FS SKEENA ST",
+                        "stop_id": "9362",
+                        "stop_lat": "49.267192",
+                        "stop_lon": "-122.736469",
+                        "stop_name": "EB RIVERSIDE DR FS SKEENA ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB RIVERSIDE DR FS SKEENA ST",
-            "onestopId": "s-c2b8r0c6zn-wbriversidefsskeena",
+            "name": "EB RIVERSIDE DR FS SKEENA ST",
+            "onestopId": "s-c2b8r0f40y-ebriversidefsskeena",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -309,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.736469,
-                    49.267192
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9362",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58690",
-                        "stop_desc": "RIVERSIDE DR @ SKEENA ST",
-                        "stop_id": "9362",
-                        "stop_lat": "49.267192",
-                        "stop_lon": "-122.736469",
-                        "stop_name": "EB RIVERSIDE DR FS SKEENA ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB RIVERSIDE DR FS SKEENA ST",
-            "onestopId": "s-c2b8r0f40y-ebriversidefsskeena",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.73836,
                     49.28243
                 ],
@@ -411,6 +411,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.737235,
+                    49.267321
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-9354",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58691",
+                        "stop_desc": "RIVERSIDE DR @ SKEENA ST",
+                        "stop_id": "9354",
+                        "stop_lat": "49.267321",
+                        "stop_lon": "-122.737235",
+                        "stop_name": "WB RIVERSIDE DR FS SKEENA ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB RIVERSIDE DR FS SKEENA ST",
+            "onestopId": "s-c2b8r0c6zn-wbriversidefsskeena",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.73814,
                     49.282866
                 ],
@@ -435,40 +469,6 @@
             ],
             "name": "SB CEDAR DR FS INVERNESS ST",
             "onestopId": "s-c2b8r58vd0-sbcedarfsinverness",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.734269,
-                    49.271212
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9350",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58681",
-                        "stop_desc": "PRAIRIE AVE @ FREMONT ST",
-                        "stop_id": "9350",
-                        "stop_lat": "49.271212",
-                        "stop_lon": "-122.734269",
-                        "stop_name": "EB PRAIRIE AV NS FREMONT ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB PRAIRIE AV NS FREMONT ST",
-            "onestopId": "s-c2b8r1e9s5-ebprairiensfremont",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

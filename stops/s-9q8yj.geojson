@@ -139,30 +139,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43697,
-                    37.64394
+                    -122.4404,
+                    37.65419
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334224",
+                    "identifier": "f-samtrans-s-334032",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334224",
+                        "stop_code": "334032",
                         "stop_desc": "",
-                        "stop_id": "334224",
-                        "stop_lat": "  37.643940",
-                        "stop_lon": "-122.436970",
-                        "stop_name": "Ponderosa Rd & Valencia St",
+                        "stop_id": "334032",
+                        "stop_lat": "  37.654190",
+                        "stop_lon": "-122.440400",
+                        "stop_name": "Arroyo Dr & Indio Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Ponderosa Rd & Valencia St",
-            "onestopId": "s-9q8yjuu5gg-ponderosa~valencia",
+            "name": "Arroyo Dr & Indio Dr",
+            "onestopId": "s-9q8yjy9xec-arroyo~indio",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -197,74 +197,6 @@
             ],
             "name": "Warwick St & Christen Ave",
             "onestopId": "s-9q8yjnqt08-warwick~christen",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.459808,
-                    37.649771
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-334174",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "334174",
-                        "stop_desc": "",
-                        "stop_id": "334174",
-                        "stop_lat": "  37.649771",
-                        "stop_lon": "-122.459808",
-                        "stop_name": "King Dr & Fairfax Way",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "King Dr & Fairfax Way",
-            "onestopId": "s-9q8yjmgmzd-king~fairfax",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.4526,
-                    37.64291
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-334117",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "334117",
-                        "stop_desc": "",
-                        "stop_id": "334117",
-                        "stop_lat": "  37.642910",
-                        "stop_lon": "-122.452600",
-                        "stop_name": "Gellert Blvd & Westborough Blvd",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Gellert Blvd & Westborough Blvd",
-            "onestopId": "s-9q8yjs8tze-gellert~westborough",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -343,30 +275,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46652,
-                    37.65812
+                    -122.43664,
+                    37.65658
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-332112",
+                    "identifier": "f-samtrans-s-334077",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "332112",
+                        "stop_code": "334077",
                         "stop_desc": "",
-                        "stop_id": "332112",
-                        "stop_lat": "  37.658120",
-                        "stop_lon": "-122.466520",
-                        "stop_name": "Gellert Blvd & Margate St",
+                        "stop_id": "334077",
+                        "stop_lat": "  37.656580",
+                        "stop_lon": "-122.436640",
+                        "stop_name": "El Camino & Arroyo Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Gellert Blvd & Margate St",
-            "onestopId": "s-9q8yjpqw7q-gellert~margate",
+            "name": "El Camino & Arroyo Dr",
+            "onestopId": "s-9q8yjzhm7x-elcamino~arroyo",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44654,
+                    37.63907
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-334112",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "334112",
+                        "stop_desc": "",
+                        "stop_id": "334112",
+                        "stop_lat": "  37.639070",
+                        "stop_lon": "-122.446540",
+                        "stop_name": "Gellert Blvd & Delvin Way",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Gellert Blvd & Delvin Way",
+            "onestopId": "s-9q8yjevpkz-gellert~delvin",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -547,6 +513,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.43648,
+                    37.65686
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-334076",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "334076",
+                        "stop_desc": "",
+                        "stop_id": "334076",
+                        "stop_lat": "  37.656860",
+                        "stop_lon": "-122.436480",
+                        "stop_name": "El Camino & Arroyo Dr",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "El Camino & Arroyo Dr",
+            "onestopId": "s-9q8yjzhrp5-elcamino~arroyo",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.43553,
                     37.64368
                 ],
@@ -615,22 +615,56 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45353,
-                    37.65434
+                    -122.43452,
+                    37.65022
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334178",
+                    "identifier": "f-samtrans-s-334256",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334178",
+                        "stop_code": "334256",
                         "stop_desc": "",
-                        "stop_id": "334178",
-                        "stop_lat": "  37.654340",
-                        "stop_lon": "-122.453530",
+                        "stop_id": "334256",
+                        "stop_lat": "  37.650220",
+                        "stop_lon": "-122.434520",
+                        "stop_name": "West Orange Ave & Southwood Dr",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "West Orange Ave & Southwood Dr",
+            "onestopId": "s-9q8yjyjbkv-westorange~southwood",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.453458,
+                    37.65459
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-334177",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "334177",
+                        "stop_desc": "",
+                        "stop_id": "334177",
+                        "stop_lat": "  37.654590",
+                        "stop_lon": "-122.453458",
                         "stop_name": "King Dr & Junipero Serra Blvd",
                         "stop_url": "",
                         "zone_id": "1"
@@ -638,7 +672,7 @@
                 }
             ],
             "name": "King Dr & Junipero Serra Blvd",
-            "onestopId": "s-9q8yjwb03v-king~juniperoserra",
+            "onestopId": "s-9q8yjwb1gs-king~juniperoserra",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -853,6 +887,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.45257,
+                    37.62746
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-335616",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "335616",
+                        "stop_desc": "",
+                        "stop_id": "335616",
+                        "stop_lat": "  37.627460",
+                        "stop_lon": "-122.452570",
+                        "stop_name": "Riverside Dr & Sneath Ln",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Riverside Dr & Sneath Ln",
+            "onestopId": "s-9q8yj9bgb6-riverside~sneath",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.4318,
                     37.63996
                 ],
@@ -887,30 +955,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43386,
-                    37.64635
+                    -122.46639,
+                    37.6295
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334223",
+                    "identifier": "f-samtrans-s-335639",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334223",
+                        "stop_code": "335639",
                         "stop_desc": "",
-                        "stop_id": "334223",
-                        "stop_lat": "  37.646350",
-                        "stop_lon": "-122.433860",
-                        "stop_name": "Ponderosa Rd & Lassen St",
+                        "stop_id": "335639",
+                        "stop_lat": "  37.629500",
+                        "stop_lon": "-122.466390",
+                        "stop_name": "Skyline College Transit Ctr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Ponderosa Rd & Lassen St",
-            "onestopId": "s-9q8yjvq3uk-ponderosa~lassen",
+            "name": "Skyline College Transit Ctr",
+            "onestopId": "s-9q8yj4nxwr-skylinecollegetransit",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -979,6 +1047,40 @@
             ],
             "name": "Arroyo Dr & Cuesta Dr",
             "onestopId": "s-9q8yjwr6y3-arroyo~cuesta",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43697,
+                    37.64394
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-334224",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "334224",
+                        "stop_desc": "",
+                        "stop_id": "334224",
+                        "stop_lat": "  37.643940",
+                        "stop_lon": "-122.436970",
+                        "stop_name": "Ponderosa Rd & Valencia St",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Ponderosa Rd & Valencia St",
+            "onestopId": "s-9q8yjuu5gg-ponderosa~valencia",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1329,30 +1431,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.460146,
-                    37.649995
+                    -122.44903,
+                    37.64882
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-332189",
+                    "identifier": "f-samtrans-s-334028",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "332189",
+                        "stop_code": "334028",
                         "stop_desc": "",
-                        "stop_id": "332189",
-                        "stop_lat": "  37.649995",
-                        "stop_lon": "-122.460146",
-                        "stop_name": "King Dr & Camelot Ct",
+                        "stop_id": "334028",
+                        "stop_lat": "  37.648820",
+                        "stop_lon": "-122.449030",
+                        "stop_name": "Arroyo Dr & Erica Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "King Dr & Camelot Ct",
-            "onestopId": "s-9q8yjmgppg-king~camelot",
+            "name": "Arroyo Dr & Erica Dr",
+            "onestopId": "s-9q8yjtg26b-arroyo~erica",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1533,30 +1635,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.44385,
-                    37.62946
+                    -122.43811,
+                    37.641538
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-335146",
+                    "identifier": "f-samtrans-s-334013",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "335146",
+                        "stop_code": "334013",
                         "stop_desc": "",
-                        "stop_id": "335146",
-                        "stop_lat": "  37.629460",
-                        "stop_lon": "-122.443850",
-                        "stop_name": "Rollingwood Dr & Cottonwood Dr",
+                        "stop_id": "334013",
+                        "stop_lat": "  37.641538",
+                        "stop_lon": "-122.438110",
+                        "stop_name": "Alhambra Ave & Avalon Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Rollingwood Dr & Cottonwood Dr",
-            "onestopId": "s-9q8yjdpp7x-rollingwood~cottonwood",
+            "name": "Alhambra Ave & Avalon Ave",
+            "onestopId": "s-9q8yju7mc7-alhambra~avalon",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1591,40 +1693,6 @@
             ],
             "name": "Shannon Dr & Oakmont Dr",
             "onestopId": "s-9q8yjk4zr0-shannon~oakmont",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.46236,
-                    37.64341
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-334048",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "334048",
-                        "stop_desc": "",
-                        "stop_id": "334048",
-                        "stop_lat": "  37.643410",
-                        "stop_lon": "-122.462360",
-                        "stop_name": "Callan Blvd & Westborough Blvd",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Callan Blvd & Westborough Blvd",
-            "onestopId": "s-9q8yjkc8u0-callan~westborough",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2315,30 +2383,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46606,
-                    37.64867
+                    -122.45016,
+                    37.64202
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334135",
+                    "identifier": "f-samtrans-s-334119",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334135",
+                        "stop_code": "334119",
                         "stop_desc": "",
-                        "stop_id": "334135",
-                        "stop_lat": "  37.648670",
-                        "stop_lon": "-122.466060",
-                        "stop_name": "Greendale Dr & Callan Blvd",
+                        "stop_id": "334119",
+                        "stop_lat": "  37.642020",
+                        "stop_lon": "-122.450160",
+                        "stop_name": "Gellert Blvd & Wexford Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Greendale Dr & Callan Blvd",
-            "onestopId": "s-9q8yjjwzmu-greendale~callan",
+            "name": "Gellert Blvd & Wexford Ave",
+            "onestopId": "s-9q8yjsd88m-gellert~wexford",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2383,30 +2451,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45585,
-                    37.62882
+                    -122.450038,
+                    37.625958
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-335111",
+                    "identifier": "f-samtrans-s-335622",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "335111",
+                        "stop_code": "335622",
                         "stop_desc": "",
-                        "stop_id": "335111",
-                        "stop_lat": "  37.628820",
-                        "stop_lon": "-122.455850",
-                        "stop_name": "Longview Dr & Goodwin Dr",
+                        "stop_id": "335622",
+                        "stop_lat": "  37.625958",
+                        "stop_lon": "-122.450038",
+                        "stop_name": "Sneath Ln & Colusa Ct",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Longview Dr & Goodwin Dr",
-            "onestopId": "s-9q8yj6n7gb-longview~goodwin",
+            "name": "Sneath Ln & Colusa Ct",
+            "onestopId": "s-9q8yj9de56-sneath~colusa",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2417,30 +2485,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43648,
-                    37.65686
+                    -122.46236,
+                    37.64341
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334076",
+                    "identifier": "f-samtrans-s-334048",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334076",
+                        "stop_code": "334048",
                         "stop_desc": "",
-                        "stop_id": "334076",
-                        "stop_lat": "  37.656860",
-                        "stop_lon": "-122.436480",
-                        "stop_name": "El Camino & Arroyo Dr",
+                        "stop_id": "334048",
+                        "stop_lat": "  37.643410",
+                        "stop_lon": "-122.462360",
+                        "stop_name": "Callan Blvd & Westborough Blvd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "El Camino & Arroyo Dr",
-            "onestopId": "s-9q8yjzhrp5-elcamino~arroyo",
+            "name": "Callan Blvd & Westborough Blvd",
+            "onestopId": "s-9q8yjkc8u0-callan~westborough",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2519,30 +2587,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46417,
-                    37.64551
+                    -122.43676,
+                    37.65617
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334043",
+                    "identifier": "f-samtrans-s-334027",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334043",
+                        "stop_code": "334027",
                         "stop_desc": "",
-                        "stop_id": "334043",
-                        "stop_lat": "  37.645510",
-                        "stop_lon": "-122.464170",
-                        "stop_name": "Callan Blvd & Duhallow Way",
+                        "stop_id": "334027",
+                        "stop_lat": "  37.656170",
+                        "stop_lon": "-122.436760",
+                        "stop_name": "Arroyo Dr & El Camino Real",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Callan Blvd & Duhallow Way",
-            "onestopId": "s-9q8yjm0kfp-callan~duhallow",
+            "name": "Arroyo Dr & El Camino Real",
+            "onestopId": "s-9q8yjzh70d-arroyo~elcaminoreal",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2587,30 +2655,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43327,
-                    37.65975
+                    -122.45719,
+                    37.64024
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334134",
+                    "identifier": "f-samtrans-s-334232",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334134",
+                        "stop_code": "334232",
                         "stop_desc": "",
-                        "stop_id": "334134",
-                        "stop_lat": "  37.659750",
-                        "stop_lon": "-122.433270",
-                        "stop_name": "Grand Ave & Willow Ave",
+                        "stop_id": "334232",
+                        "stop_lat": "  37.640240",
+                        "stop_lon": "-122.457190",
+                        "stop_name": "Shannon Dr & Dublin Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Grand Ave & Willow Ave",
-            "onestopId": "s-9q8yjzwzfn-grand~willow",
+            "name": "Shannon Dr & Dublin Dr",
+            "onestopId": "s-9q8yjkjqk9-shannon~dublin",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2655,30 +2723,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43664,
-                    37.65658
+                    -122.46652,
+                    37.65812
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334077",
+                    "identifier": "f-samtrans-s-332112",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334077",
+                        "stop_code": "332112",
                         "stop_desc": "",
-                        "stop_id": "334077",
-                        "stop_lat": "  37.656580",
-                        "stop_lon": "-122.436640",
-                        "stop_name": "El Camino & Arroyo Dr",
+                        "stop_id": "332112",
+                        "stop_lat": "  37.658120",
+                        "stop_lon": "-122.466520",
+                        "stop_name": "Gellert Blvd & Margate St",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "El Camino & Arroyo Dr",
-            "onestopId": "s-9q8yjzhm7x-elcamino~arroyo",
+            "name": "Gellert Blvd & Margate St",
+            "onestopId": "s-9q8yjpqw7q-gellert~margate",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2689,22 +2757,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.453458,
-                    37.65459
+                    -122.45353,
+                    37.65434
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334177",
+                    "identifier": "f-samtrans-s-334178",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334177",
+                        "stop_code": "334178",
                         "stop_desc": "",
-                        "stop_id": "334177",
-                        "stop_lat": "  37.654590",
-                        "stop_lon": "-122.453458",
+                        "stop_id": "334178",
+                        "stop_lat": "  37.654340",
+                        "stop_lon": "-122.453530",
                         "stop_name": "King Dr & Junipero Serra Blvd",
                         "stop_url": "",
                         "zone_id": "1"
@@ -2712,7 +2780,7 @@
                 }
             ],
             "name": "King Dr & Junipero Serra Blvd",
-            "onestopId": "s-9q8yjwb1gs-king~juniperoserra",
+            "onestopId": "s-9q8yjwb03v-king~juniperoserra",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2825,30 +2893,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.44654,
-                    37.63907
+                    -122.46892,
+                    37.65422
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334112",
+                    "identifier": "f-samtrans-s-332058",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334112",
+                        "stop_code": "332058",
                         "stop_desc": "",
-                        "stop_id": "334112",
-                        "stop_lat": "  37.639070",
-                        "stop_lon": "-122.446540",
-                        "stop_name": "Gellert Blvd & Delvin Way",
+                        "stop_id": "332058",
+                        "stop_lat": "  37.654220",
+                        "stop_lon": "-122.468920",
+                        "stop_name": "Callan Blvd & Beverly St",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Gellert Blvd & Delvin Way",
-            "onestopId": "s-9q8yjevpkz-gellert~delvin",
+            "name": "Callan Blvd & Beverly St",
+            "onestopId": "s-9q8yjnszer-callan~beverly",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -2859,30 +2927,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43811,
-                    37.641538
+                    -122.44385,
+                    37.62946
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334013",
+                    "identifier": "f-samtrans-s-335146",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334013",
+                        "stop_code": "335146",
                         "stop_desc": "",
-                        "stop_id": "334013",
-                        "stop_lat": "  37.641538",
-                        "stop_lon": "-122.438110",
-                        "stop_name": "Alhambra Ave & Avalon Ave",
+                        "stop_id": "335146",
+                        "stop_lat": "  37.629460",
+                        "stop_lon": "-122.443850",
+                        "stop_name": "Rollingwood Dr & Cottonwood Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Alhambra Ave & Avalon Ave",
-            "onestopId": "s-9q8yju7mc7-alhambra~avalon",
+            "name": "Rollingwood Dr & Cottonwood Dr",
+            "onestopId": "s-9q8yjdpp7x-rollingwood~cottonwood",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -3505,30 +3573,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45554,
-                    37.62869
+                    -122.4526,
+                    37.64291
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-335110",
+                    "identifier": "f-samtrans-s-334117",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "335110",
+                        "stop_code": "334117",
                         "stop_desc": "",
-                        "stop_id": "335110",
-                        "stop_lat": "  37.628690",
-                        "stop_lon": "-122.455540",
-                        "stop_name": "Longview Dr & Goodwin Dr",
+                        "stop_id": "334117",
+                        "stop_lat": "  37.642910",
+                        "stop_lon": "-122.452600",
+                        "stop_name": "Gellert Blvd & Westborough Blvd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Longview Dr & Goodwin Dr",
-            "onestopId": "s-9q8yj6ne50-longview~goodwin",
+            "name": "Gellert Blvd & Westborough Blvd",
+            "onestopId": "s-9q8yjs8tze-gellert~westborough",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -3607,6 +3675,74 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.44573,
+                    37.62496
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-335609",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "335609",
+                        "stop_desc": "",
+                        "stop_id": "335609",
+                        "stop_lat": "  37.624960",
+                        "stop_lon": "-122.445730",
+                        "stop_name": "Sneath Ln & Claremont Dr",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Sneath Ln & Claremont Dr",
+            "onestopId": "s-9q8yj9mtr8-sneath~claremont",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46606,
+                    37.64867
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-334135",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "334135",
+                        "stop_desc": "",
+                        "stop_id": "334135",
+                        "stop_lat": "  37.648670",
+                        "stop_lon": "-122.466060",
+                        "stop_name": "Greendale Dr & Callan Blvd",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Greendale Dr & Callan Blvd",
+            "onestopId": "s-9q8yjjwzmu-greendale~callan",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.46269,
                     37.64358
                 ],
@@ -3631,40 +3767,6 @@
             ],
             "name": "Callan Blvd & Westborough Blvd",
             "onestopId": "s-9q8yjkc3sr-callan~westborough",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.45257,
-                    37.62746
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-335616",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "335616",
-                        "stop_desc": "",
-                        "stop_id": "335616",
-                        "stop_lat": "  37.627460",
-                        "stop_lon": "-122.452570",
-                        "stop_name": "Riverside Dr & Sneath Ln",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Riverside Dr & Sneath Ln",
-            "onestopId": "s-9q8yj9bgb6-riverside~sneath",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -3811,40 +3913,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45016,
-                    37.64202
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-334119",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "334119",
-                        "stop_desc": "",
-                        "stop_id": "334119",
-                        "stop_lat": "  37.642020",
-                        "stop_lon": "-122.450160",
-                        "stop_name": "Gellert Blvd & Wexford Ave",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Gellert Blvd & Wexford Ave",
-            "onestopId": "s-9q8yjsd88m-gellert~wexford",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.45722,
                     37.6474
                 ],
@@ -3879,30 +3947,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.450038,
-                    37.625958
+                    -122.45585,
+                    37.62882
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-335622",
+                    "identifier": "f-samtrans-s-335111",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "335622",
+                        "stop_code": "335111",
                         "stop_desc": "",
-                        "stop_id": "335622",
-                        "stop_lat": "  37.625958",
-                        "stop_lon": "-122.450038",
-                        "stop_name": "Sneath Ln & Colusa Ct",
+                        "stop_id": "335111",
+                        "stop_lat": "  37.628820",
+                        "stop_lon": "-122.455850",
+                        "stop_name": "Longview Dr & Goodwin Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Sneath Ln & Colusa Ct",
-            "onestopId": "s-9q8yj9de56-sneath~colusa",
+            "name": "Longview Dr & Goodwin Dr",
+            "onestopId": "s-9q8yj6n7gb-longview~goodwin",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -4141,40 +4209,6 @@
             ],
             "name": "Gellert Blvd & Westborough Blvd",
             "onestopId": "s-9q8yjs9j9v-gellert~westborough",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.46468,
-                    37.63932
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-335173",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "335173",
-                        "stop_desc": "",
-                        "stop_id": "335173",
-                        "stop_lat": "  37.639320",
-                        "stop_lon": "-122.464680",
-                        "stop_name": "Skyline Blvd & Sharp Park Rd",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Skyline Blvd & Sharp Park Rd",
-            "onestopId": "s-9q8yjhpbyj-skyline~sharppark",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -4457,30 +4491,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.4438,
-                    37.6258
+                    -122.43707,
+                    37.64417
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-335601",
+                    "identifier": "f-samtrans-s-334220",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "335601",
+                        "stop_code": "334220",
                         "stop_desc": "",
-                        "stop_id": "335601",
-                        "stop_lat": "  37.625800",
-                        "stop_lon": "-122.443800",
-                        "stop_name": "Sequoia Ave & Sneath Ln",
+                        "stop_id": "334220",
+                        "stop_lat": "  37.644170",
+                        "stop_lon": "-122.437070",
+                        "stop_name": "Ponderosa Rd & Alhambra Rd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Sequoia Ave & Sneath Ln",
-            "onestopId": "s-9q8yj9x4ht-sequoia~sneath",
+            "name": "Ponderosa Rd & Alhambra Rd",
+            "onestopId": "s-9q8yjuuj1m-ponderosa~alhambra",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -4491,30 +4525,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46639,
-                    37.6295
+                    -122.43386,
+                    37.64635
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-335639",
+                    "identifier": "f-samtrans-s-334223",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "335639",
+                        "stop_code": "334223",
                         "stop_desc": "",
-                        "stop_id": "335639",
-                        "stop_lat": "  37.629500",
-                        "stop_lon": "-122.466390",
-                        "stop_name": "Skyline College Transit Ctr",
+                        "stop_id": "334223",
+                        "stop_lat": "  37.646350",
+                        "stop_lon": "-122.433860",
+                        "stop_name": "Ponderosa Rd & Lassen St",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Skyline College Transit Ctr",
-            "onestopId": "s-9q8yj4nxwr-skylinecollegetransit",
+            "name": "Ponderosa Rd & Lassen St",
+            "onestopId": "s-9q8yjvq3uk-ponderosa~lassen",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -4559,30 +4593,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.44903,
-                    37.64882
+                    -122.460146,
+                    37.649995
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334028",
+                    "identifier": "f-samtrans-s-332189",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334028",
+                        "stop_code": "332189",
                         "stop_desc": "",
-                        "stop_id": "334028",
-                        "stop_lat": "  37.648820",
-                        "stop_lon": "-122.449030",
-                        "stop_name": "Arroyo Dr & Erica Dr",
+                        "stop_id": "332189",
+                        "stop_lat": "  37.649995",
+                        "stop_lon": "-122.460146",
+                        "stop_name": "King Dr & Camelot Ct",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Arroyo Dr & Erica Dr",
-            "onestopId": "s-9q8yjtg26b-arroyo~erica",
+            "name": "King Dr & Camelot Ct",
+            "onestopId": "s-9q8yjmgppg-king~camelot",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -4695,40 +4729,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.44573,
-                    37.62496
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-335609",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "335609",
-                        "stop_desc": "",
-                        "stop_id": "335609",
-                        "stop_lat": "  37.624960",
-                        "stop_lon": "-122.445730",
-                        "stop_name": "Sneath Ln & Claremont Dr",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Sneath Ln & Claremont Dr",
-            "onestopId": "s-9q8yj9mtr8-sneath~claremont",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.44358,
                     37.65751
                 ],
@@ -4763,30 +4763,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43676,
-                    37.65617
+                    -122.46417,
+                    37.64551
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334027",
+                    "identifier": "f-samtrans-s-334043",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334027",
+                        "stop_code": "334043",
                         "stop_desc": "",
-                        "stop_id": "334027",
-                        "stop_lat": "  37.656170",
-                        "stop_lon": "-122.436760",
-                        "stop_name": "Arroyo Dr & El Camino Real",
+                        "stop_id": "334043",
+                        "stop_lat": "  37.645510",
+                        "stop_lon": "-122.464170",
+                        "stop_name": "Callan Blvd & Duhallow Way",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Arroyo Dr & El Camino Real",
-            "onestopId": "s-9q8yjzh70d-arroyo~elcaminoreal",
+            "name": "Callan Blvd & Duhallow Way",
+            "onestopId": "s-9q8yjm0kfp-callan~duhallow",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -4865,40 +4865,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46892,
-                    37.65422
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-332058",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "332058",
-                        "stop_desc": "",
-                        "stop_id": "332058",
-                        "stop_lat": "  37.654220",
-                        "stop_lon": "-122.468920",
-                        "stop_name": "Callan Blvd & Beverly St",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Callan Blvd & Beverly St",
-            "onestopId": "s-9q8yjnszer-callan~beverly",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.44903,
                     37.6246
                 ],
@@ -4967,6 +4933,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.45554,
+                    37.62869
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-335110",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "335110",
+                        "stop_desc": "",
+                        "stop_id": "335110",
+                        "stop_lat": "  37.628690",
+                        "stop_lon": "-122.455540",
+                        "stop_name": "Longview Dr & Goodwin Dr",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Longview Dr & Goodwin Dr",
+            "onestopId": "s-9q8yj6ne50-longview~goodwin",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.45622,
                     37.64471
                 ],
@@ -5001,30 +5001,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43452,
-                    37.65022
+                    -122.46468,
+                    37.63932
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334256",
+                    "identifier": "f-samtrans-s-335173",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334256",
+                        "stop_code": "335173",
                         "stop_desc": "",
-                        "stop_id": "334256",
-                        "stop_lat": "  37.650220",
-                        "stop_lon": "-122.434520",
-                        "stop_name": "West Orange Ave & Southwood Dr",
+                        "stop_id": "335173",
+                        "stop_lat": "  37.639320",
+                        "stop_lon": "-122.464680",
+                        "stop_name": "Skyline Blvd & Sharp Park Rd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "West Orange Ave & Southwood Dr",
-            "onestopId": "s-9q8yjyjbkv-westorange~southwood",
+            "name": "Skyline Blvd & Sharp Park Rd",
+            "onestopId": "s-9q8yjhpbyj-skyline~sharppark",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -5035,30 +5035,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.43707,
-                    37.64417
+                    -122.4438,
+                    37.6258
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334220",
+                    "identifier": "f-samtrans-s-335601",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334220",
+                        "stop_code": "335601",
                         "stop_desc": "",
-                        "stop_id": "334220",
-                        "stop_lat": "  37.644170",
-                        "stop_lon": "-122.437070",
-                        "stop_name": "Ponderosa Rd & Alhambra Rd",
+                        "stop_id": "335601",
+                        "stop_lat": "  37.625800",
+                        "stop_lon": "-122.443800",
+                        "stop_name": "Sequoia Ave & Sneath Ln",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Ponderosa Rd & Alhambra Rd",
-            "onestopId": "s-9q8yjuuj1m-ponderosa~alhambra",
+            "name": "Sequoia Ave & Sneath Ln",
+            "onestopId": "s-9q8yj9x4ht-sequoia~sneath",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -5069,30 +5069,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45719,
-                    37.64024
+                    -122.43327,
+                    37.65975
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-334232",
+                    "identifier": "f-samtrans-s-334134",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "334232",
+                        "stop_code": "334134",
                         "stop_desc": "",
-                        "stop_id": "334232",
-                        "stop_lat": "  37.640240",
-                        "stop_lon": "-122.457190",
-                        "stop_name": "Shannon Dr & Dublin Dr",
+                        "stop_id": "334134",
+                        "stop_lat": "  37.659750",
+                        "stop_lon": "-122.433270",
+                        "stop_name": "Grand Ave & Willow Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Shannon Dr & Dublin Dr",
-            "onestopId": "s-9q8yjkjqk9-shannon~dublin",
+            "name": "Grand Ave & Willow Ave",
+            "onestopId": "s-9q8yjzwzfn-grand~willow",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -5137,74 +5137,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.47057,
-                    37.65787
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-332059",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "332059",
-                        "stop_desc": "",
-                        "stop_id": "332059",
-                        "stop_lat": "  37.657870",
-                        "stop_lon": "-122.470570",
-                        "stop_name": "Callan Blvd & Heath Ct",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Callan Blvd & Heath Ct",
-            "onestopId": "s-9q8yjp7suz-callan~heath",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.4404,
-                    37.65419
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-334032",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "334032",
-                        "stop_desc": "",
-                        "stop_id": "334032",
-                        "stop_lat": "  37.654190",
-                        "stop_lon": "-122.440400",
-                        "stop_name": "Arroyo Dr & Indio Dr",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Arroyo Dr & Indio Dr",
-            "onestopId": "s-9q8yjy9xec-arroyo~indio",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.43824,
                     37.66079
                 ],
@@ -5229,6 +5161,74 @@
             ],
             "name": "Mission Rd & Holly Ave",
             "onestopId": "s-9q8yjzgnn0-mission~holly",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.459808,
+                    37.649771
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-334174",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "334174",
+                        "stop_desc": "",
+                        "stop_id": "334174",
+                        "stop_lat": "  37.649771",
+                        "stop_lon": "-122.459808",
+                        "stop_name": "King Dr & Fairfax Way",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "King Dr & Fairfax Way",
+            "onestopId": "s-9q8yjmgmzd-king~fairfax",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47057,
+                    37.65787
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-332059",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "332059",
+                        "stop_desc": "",
+                        "stop_id": "332059",
+                        "stop_lat": "  37.657870",
+                        "stop_lon": "-122.470570",
+                        "stop_name": "Callan Blvd & Heath Ct",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Callan Blvd & Heath Ct",
+            "onestopId": "s-9q8yjp7suz-callan~heath",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

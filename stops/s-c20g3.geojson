@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.63159,
-                    45.571943
+                    -122.641215,
+                    45.571931
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1289",
+                    "identifier": "f-trimet-s-1271",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "1289",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1289)",
-                        "stop_id": "1289",
-                        "stop_lat": "45.571943",
-                        "stop_lon": "-122.63159",
-                        "stop_name": "NE Dekum & 32nd Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1289",
+                        "position": "Nearside",
+                        "stop_code": "1271",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1271)",
+                        "stop_id": "1271",
+                        "stop_lat": "45.571931",
+                        "stop_lon": "-122.641215",
+                        "stop_name": "NE Dekum & Saratoga",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1271",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & 32nd Pl",
-            "onestopId": "s-c20g32n7uc-nedekum~32ndpl",
+            "name": "NE Dekum & Saratoga",
+            "onestopId": "s-c20g30p7sx-nedekum~saratoga",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -291,32 +291,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.62326,
-                    45.572226
+                    -122.641419,
+                    45.571967
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1102",
+                    "identifier": "f-trimet-s-5150",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "1102",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1102)",
-                        "stop_id": "1102",
-                        "stop_lat": "45.572226",
-                        "stop_lon": "-122.62326",
-                        "stop_name": "3800 Block NE Columbia Blvd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1102",
+                        "position": "Nearside",
+                        "stop_code": "5150",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 5150)",
+                        "stop_id": "5150",
+                        "stop_lat": "45.571967",
+                        "stop_lon": "-122.641419",
+                        "stop_name": "NE Saratoga & Dekum",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5150",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "3800 Block NE Columbia Blvd",
-            "onestopId": "s-c20g38hmqy-3800blocknecolumbia",
+            "name": "NE Saratoga & Dekum",
+            "onestopId": "s-c20g30p5zy-nesaratoga~dekum",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.632819,
+                    45.583574
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10452",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "10452",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 10452)",
+                        "stop_id": "10452",
+                        "stop_lat": "45.583574",
+                        "stop_lon": "-122.632819",
+                        "stop_name": "8400 Block NE 33rd Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10452",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "8400 Block NE 33rd Dr",
+            "onestopId": "s-c20g36jx84-8400blockne33rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -399,32 +435,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.620817,
-                    45.571909
+                    -122.632925,
+                    45.584057
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1116",
+                    "identifier": "f-trimet-s-10450",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1116",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1116)",
-                        "stop_id": "1116",
-                        "stop_lat": "45.571909",
-                        "stop_lon": "-122.620817",
-                        "stop_name": "NE Columbia Blvd & 42nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1116",
+                        "position": "Opposite",
+                        "stop_code": "10450",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 10450)",
+                        "stop_id": "10450",
+                        "stop_lat": "45.584057",
+                        "stop_lon": "-122.632925",
+                        "stop_name": "8400 Block NE 33rd Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10450",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Columbia Blvd & 42nd",
-            "onestopId": "s-c20g38n5xg-necolumbia~42nd",
+            "name": "8400 Block NE 33rd Dr",
+            "onestopId": "s-c20g36m6ms-8400blockne33rd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.641483,
+                    45.57182
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1284",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1284",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1284)",
+                        "stop_id": "1284",
+                        "stop_lat": "45.57182",
+                        "stop_lon": "-122.641483",
+                        "stop_name": "NE Dekum & 24th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1284",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Dekum & 24th",
+            "onestopId": "s-c20g30p5n6-nedekum~24th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -461,42 +533,6 @@
             ],
             "name": "3500 Block NE Columbia Blvd",
             "onestopId": "s-c20g383f63-3500blocknecolumbia",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.639885,
-                    45.572852
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5148",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "5148",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 5148)",
-                        "stop_id": "5148",
-                        "stop_lat": "45.572852",
-                        "stop_lon": "-122.639885",
-                        "stop_name": "2500 Block of NE Saratoga",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5148",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "2500 Block of NE Saratoga",
-            "onestopId": "s-c20g32235e-2500blockofnesaratoga",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -579,32 +615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.638,
-                    45.571936
+                    -122.635505,
+                    45.580133
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1285",
+                    "identifier": "f-trimet-s-9549",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1285",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1285)",
-                        "stop_id": "1285",
-                        "stop_lat": "45.571936",
-                        "stop_lon": "-122.638",
-                        "stop_name": "NE Dekum & 27th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1285",
+                        "position": "Farside",
+                        "stop_code": "9549",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 9549)",
+                        "stop_id": "9549",
+                        "stop_lat": "45.580133",
+                        "stop_lon": "-122.635505",
+                        "stop_name": "NE Riverside Way & 33rd Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9549",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & 27th",
-            "onestopId": "s-c20g321ez2-nedekum~27th",
+            "name": "NE Riverside Way & 33rd Dr",
+            "onestopId": "s-c20g33ee98-neriverside~33rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -651,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.641215,
-                    45.571931
+                    -122.63159,
+                    45.571943
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1271",
+                    "identifier": "f-trimet-s-1289",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1271",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1271)",
-                        "stop_id": "1271",
-                        "stop_lat": "45.571931",
-                        "stop_lon": "-122.641215",
-                        "stop_name": "NE Dekum & Saratoga",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1271",
+                        "position": "Opposite",
+                        "stop_code": "1289",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1289)",
+                        "stop_id": "1289",
+                        "stop_lat": "45.571943",
+                        "stop_lon": "-122.63159",
+                        "stop_name": "NE Dekum & 32nd Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1289",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & Saratoga",
-            "onestopId": "s-c20g30p7sx-nedekum~saratoga",
+            "name": "NE Dekum & 32nd Pl",
+            "onestopId": "s-c20g32n7uc-nedekum~32ndpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -831,32 +867,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.643832,
-                    45.579251
+                    -122.643364,
+                    45.571932
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7105",
+                    "identifier": "f-trimet-s-1282",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7105",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7105)",
-                        "stop_id": "7105",
-                        "stop_lat": "45.579251",
-                        "stop_lon": "-122.643832",
-                        "stop_name": "NE 21st & Argyle",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7105",
+                        "stop_code": "1282",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1282)",
+                        "stop_id": "1282",
+                        "stop_lat": "45.571932",
+                        "stop_lon": "-122.643364",
+                        "stop_name": "NE Dekum & 22nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1282",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 21st & Argyle",
-            "onestopId": "s-c20g31mqrs-ne21st~argyle",
+            "name": "NE Dekum & 22nd",
+            "onestopId": "s-c20g30jgdr-nedekum~22nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -867,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.650178,
-                    45.571811
+                    -122.635853,
+                    45.57194
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1278",
+                    "identifier": "f-trimet-s-1287",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1278",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1278)",
-                        "stop_id": "1278",
-                        "stop_lat": "45.571811",
-                        "stop_lon": "-122.650178",
-                        "stop_name": "NE Dekum & 15th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1278",
+                        "stop_code": "1287",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1287)",
+                        "stop_id": "1287",
+                        "stop_lat": "45.57194",
+                        "stop_lon": "-122.635853",
+                        "stop_name": "NE Dekum & 29th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1287",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & 15th",
-            "onestopId": "s-c20g300g59-nedekum~15th",
+            "name": "NE Dekum & 29th",
+            "onestopId": "s-c20g3257c9-nedekum~29th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1011,32 +1047,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.635853,
-                    45.57194
+                    -122.639885,
+                    45.572852
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1287",
+                    "identifier": "f-trimet-s-5148",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1287",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1287)",
-                        "stop_id": "1287",
-                        "stop_lat": "45.57194",
-                        "stop_lon": "-122.635853",
-                        "stop_name": "NE Dekum & 29th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1287",
+                        "position": "At",
+                        "stop_code": "5148",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 5148)",
+                        "stop_id": "5148",
+                        "stop_lat": "45.572852",
+                        "stop_lon": "-122.639885",
+                        "stop_name": "2500 Block of NE Saratoga",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5148",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & 29th",
-            "onestopId": "s-c20g3257c9-nedekum~29th",
+            "name": "2500 Block of NE Saratoga",
+            "onestopId": "s-c20g32235e-2500blockofnesaratoga",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1083,32 +1119,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.635505,
-                    45.580133
+                    -122.638,
+                    45.571936
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9549",
+                    "identifier": "f-trimet-s-1285",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9549",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 9549)",
-                        "stop_id": "9549",
-                        "stop_lat": "45.580133",
-                        "stop_lon": "-122.635505",
-                        "stop_name": "NE Riverside Way & 33rd Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9549",
+                        "position": "Nearside",
+                        "stop_code": "1285",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1285)",
+                        "stop_id": "1285",
+                        "stop_lat": "45.571936",
+                        "stop_lon": "-122.638",
+                        "stop_name": "NE Dekum & 27th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1285",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Riverside Way & 33rd Dr",
-            "onestopId": "s-c20g33ee98-neriverside~33rd",
+            "name": "NE Dekum & 27th",
+            "onestopId": "s-c20g321ez2-nedekum~27th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1263,32 +1299,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.641483,
-                    45.57182
+                    -122.650178,
+                    45.571811
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1284",
+                    "identifier": "f-trimet-s-1278",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1284",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1284)",
-                        "stop_id": "1284",
-                        "stop_lat": "45.57182",
-                        "stop_lon": "-122.641483",
-                        "stop_name": "NE Dekum & 24th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1284",
+                        "stop_code": "1278",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1278)",
+                        "stop_id": "1278",
+                        "stop_lat": "45.571811",
+                        "stop_lon": "-122.650178",
+                        "stop_name": "NE Dekum & 15th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1278",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & 24th",
-            "onestopId": "s-c20g30p5n6-nedekum~24th",
+            "name": "NE Dekum & 15th",
+            "onestopId": "s-c20g300g59-nedekum~15th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1515,32 +1551,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.635854,
-                    45.593179
+                    -122.62326,
+                    45.572226
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9367",
+                    "identifier": "f-trimet-s-1102",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "9367",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 9367)",
-                        "stop_id": "9367",
-                        "stop_lat": "45.593179",
-                        "stop_lon": "-122.635854",
-                        "stop_name": "9600 Block NE Sunderland",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9367",
+                        "stop_code": "1102",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1102)",
+                        "stop_id": "1102",
+                        "stop_lat": "45.572226",
+                        "stop_lon": "-122.62326",
+                        "stop_name": "3800 Block NE Columbia Blvd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1102",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "9600 Block NE Sunderland",
-            "onestopId": "s-c20g37gr92-9600blocknesunderland",
+            "name": "3800 Block NE Columbia Blvd",
+            "onestopId": "s-c20g38hmqy-3800blocknecolumbia",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1551,32 +1587,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.632819,
-                    45.583574
+                    -122.643832,
+                    45.579251
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10452",
+                    "identifier": "f-trimet-s-7105",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "10452",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 10452)",
-                        "stop_id": "10452",
-                        "stop_lat": "45.583574",
-                        "stop_lon": "-122.632819",
-                        "stop_name": "8400 Block NE 33rd Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10452",
+                        "position": "Nearside",
+                        "stop_code": "7105",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7105)",
+                        "stop_id": "7105",
+                        "stop_lat": "45.579251",
+                        "stop_lon": "-122.643832",
+                        "stop_name": "NE 21st & Argyle",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7105",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "8400 Block NE 33rd Dr",
-            "onestopId": "s-c20g36jx84-8400blockne33rd",
+            "name": "NE 21st & Argyle",
+            "onestopId": "s-c20g31mqrs-ne21st~argyle",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,68 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.643364,
-                    45.571932
+                    -122.632698,
+                    45.589336
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1282",
+                    "identifier": "f-trimet-s-9414",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1282",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1282)",
-                        "stop_id": "1282",
-                        "stop_lat": "45.571932",
-                        "stop_lon": "-122.643364",
-                        "stop_name": "NE Dekum & 22nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1282",
+                        "stop_code": "9414",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 9414)",
+                        "stop_id": "9414",
+                        "stop_lat": "45.589336",
+                        "stop_lon": "-122.632698",
+                        "stop_name": "NE Sunderland & 33rd Dr (In)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9414",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Dekum & 22nd",
-            "onestopId": "s-c20g30jgdr-nedekum~22nd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.641419,
-                    45.571967
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5150",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5150",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 5150)",
-                        "stop_id": "5150",
-                        "stop_lat": "45.571967",
-                        "stop_lon": "-122.641419",
-                        "stop_name": "NE Saratoga & Dekum",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5150",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Saratoga & Dekum",
-            "onestopId": "s-c20g30p5zy-nesaratoga~dekum",
+            "name": "NE Sunderland & 33rd Dr (In)",
+            "onestopId": "s-c20g37m95h-nesunderland~33rdin",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1839,32 +1839,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.632698,
-                    45.589336
+                    -122.635854,
+                    45.593179
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9414",
+                    "identifier": "f-trimet-s-9367",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9414",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 9414)",
-                        "stop_id": "9414",
-                        "stop_lat": "45.589336",
-                        "stop_lon": "-122.632698",
-                        "stop_name": "NE Sunderland & 33rd Dr (In)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9414",
+                        "position": "At",
+                        "stop_code": "9367",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 9367)",
+                        "stop_id": "9367",
+                        "stop_lat": "45.593179",
+                        "stop_lon": "-122.635854",
+                        "stop_name": "9600 Block NE Sunderland",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9367",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Sunderland & 33rd Dr (In)",
-            "onestopId": "s-c20g37m95h-nesunderland~33rdin",
+            "name": "9600 Block NE Sunderland",
+            "onestopId": "s-c20g37gr92-9600blocknesunderland",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1875,32 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.632925,
-                    45.584057
+                    -122.620817,
+                    45.571909
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10450",
+                    "identifier": "f-trimet-s-1116",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "10450",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 10450)",
-                        "stop_id": "10450",
-                        "stop_lat": "45.584057",
-                        "stop_lon": "-122.632925",
-                        "stop_name": "8400 Block NE 33rd Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10450",
+                        "position": "Farside",
+                        "stop_code": "1116",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1116)",
+                        "stop_id": "1116",
+                        "stop_lat": "45.571909",
+                        "stop_lon": "-122.620817",
+                        "stop_name": "NE Columbia Blvd & 42nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1116",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "8400 Block NE 33rd Dr",
-            "onestopId": "s-c20g36m6ms-8400blockne33rd",
+            "name": "NE Columbia Blvd & 42nd",
+            "onestopId": "s-c20g38n5xg-necolumbia~42nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

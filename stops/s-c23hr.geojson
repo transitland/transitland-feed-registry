@@ -38,41 +38,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.005409,
-                    47.1965294
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-59034",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "59034",
-                        "stop_lat": "47.1965294",
-                        "stop_lon": "-122.005409",
-                        "stop_name": "Semanski St & Christianson Ave",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "40"
-                    }
-                }
-            ],
-            "name": "Semanski St & Christianson Ave",
-            "onestopId": "s-c23hrxy7ey-semanski~christianson",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.005424,
                     47.1924629
                 ],
@@ -108,31 +73,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.00769,
-                    47.1891136
+                    -122.005409,
+                    47.1965294
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-99482",
+                    "identifier": "f-kingcounty-s-59034",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "99482",
-                        "stop_lat": "47.1891136",
-                        "stop_lon": "-122.00769",
-                        "stop_name": "School District Rd & Mcdougall Ave",
+                        "stop_id": "59034",
+                        "stop_lat": "47.1965294",
+                        "stop_lon": "-122.005409",
+                        "stop_name": "Semanski St & Christianson Ave",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "40"
                     }
                 }
             ],
-            "name": "School District Rd & Mcdougall Ave",
-            "onestopId": "s-c23hrws8wb-schooldistrict~mcdougall",
+            "name": "Semanski St & Christianson Ave",
+            "onestopId": "s-c23hrxy7ey-semanski~christianson",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -168,6 +133,41 @@
             ],
             "name": "Semanski St & Warner Ave",
             "onestopId": "s-c23hrxn4qc-semanski~warner",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.00769,
+                    47.1891136
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-99482",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "99482",
+                        "stop_lat": "47.1891136",
+                        "stop_lon": "-122.00769",
+                        "stop_name": "School District Rd & Mcdougall Ave",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "40"
+                    }
+                }
+            ],
+            "name": "School District Rd & Mcdougall Ave",
+            "onestopId": "s-c23hrws8wb-schooldistrict~mcdougall",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

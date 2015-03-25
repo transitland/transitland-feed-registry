@@ -139,6 +139,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.773289,
+                    49.242346
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-3690",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "53651",
+                        "stop_desc": "PITT RIVER RD @ COLUMBIA AVE",
+                        "stop_id": "3690",
+                        "stop_lat": "49.242346",
+                        "stop_lon": "-122.773289",
+                        "stop_name": "NB PITT RIVER RD FS COLUMBIA AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB PITT RIVER RD FS COLUMBIA AV",
+            "onestopId": "s-c2b8nhr1rn-nbpittriverfscolumbia",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.774549,
                     49.257999
                 ],
@@ -921,30 +955,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.757446,
-                    49.259401
+                    -122.78189,
+                    49.254519
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7645",
+                    "identifier": "f-translink-s-9210",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57572",
-                        "stop_desc": "LOUGHEED HWY @ COAST MERIDIAN RD",
-                        "stop_id": "7645",
-                        "stop_lat": "49.259401",
-                        "stop_lon": "-122.757446",
-                        "stop_name": "EB LOUGHEED HWY FS COAST MERIDIAN RD",
+                        "stop_code": "58795",
+                        "stop_desc": "PITT RIVER RD @ SHAUGHNESSY ST",
+                        "stop_id": "9210",
+                        "stop_lat": "49.254519",
+                        "stop_lon": "-122.78189",
+                        "stop_name": "EB PITT RIVER RD FS SHAUGHNESSY ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB LOUGHEED HWY FS COAST MERIDIAN RD",
-            "onestopId": "s-c2b8nx6ub1-eblougheedfscoastmeridian",
+            "name": "EB PITT RIVER RD FS SHAUGHNESSY ST",
+            "onestopId": "s-c2b8nn8bqe-ebpittriverfsshaughnessy",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2485,30 +2519,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.78189,
-                    49.254519
+                    -122.757446,
+                    49.259401
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9210",
+                    "identifier": "f-translink-s-7645",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58795",
-                        "stop_desc": "PITT RIVER RD @ SHAUGHNESSY ST",
-                        "stop_id": "9210",
-                        "stop_lat": "49.254519",
-                        "stop_lon": "-122.78189",
-                        "stop_name": "EB PITT RIVER RD FS SHAUGHNESSY ST",
+                        "stop_code": "57572",
+                        "stop_desc": "LOUGHEED HWY @ COAST MERIDIAN RD",
+                        "stop_id": "7645",
+                        "stop_lat": "49.259401",
+                        "stop_lon": "-122.757446",
+                        "stop_name": "EB LOUGHEED HWY FS COAST MERIDIAN RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB PITT RIVER RD FS SHAUGHNESSY ST",
-            "onestopId": "s-c2b8nn8bqe-ebpittriverfsshaughnessy",
+            "name": "EB LOUGHEED HWY FS COAST MERIDIAN RD",
+            "onestopId": "s-c2b8nx6ub1-eblougheedfscoastmeridian",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2577,40 +2611,6 @@
             ],
             "name": "WB WILSON AV NS SHAUGHNESSY ST",
             "onestopId": "s-c2b8np9jet-wbwilsonnsshaughnessy",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.780551,
-                    49.246698
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-3812",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "53773",
-                        "stop_desc": "WESTERN DR @ ANITA DR",
-                        "stop_id": "3812",
-                        "stop_lat": "49.246698",
-                        "stop_lon": "-122.780551",
-                        "stop_name": "NB WESTERN DR FS ANITA DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB WESTERN DR FS ANITA DR",
-            "onestopId": "s-c2b8nj1fvc-nbwesternfsanita",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3029,30 +3029,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.773289,
-                    49.242346
+                    -122.780551,
+                    49.246698
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3690",
+                    "identifier": "f-translink-s-3812",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53651",
-                        "stop_desc": "PITT RIVER RD @ COLUMBIA AVE",
-                        "stop_id": "3690",
-                        "stop_lat": "49.242346",
-                        "stop_lon": "-122.773289",
-                        "stop_name": "NB PITT RIVER RD FS COLUMBIA AV",
+                        "stop_code": "53773",
+                        "stop_desc": "WESTERN DR @ ANITA DR",
+                        "stop_id": "3812",
+                        "stop_lat": "49.246698",
+                        "stop_lon": "-122.780551",
+                        "stop_name": "NB WESTERN DR FS ANITA DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB PITT RIVER RD FS COLUMBIA AV",
-            "onestopId": "s-c2b8nhr1rn-nbpittriverfscolumbia",
+            "name": "NB WESTERN DR FS ANITA DR",
+            "onestopId": "s-c2b8nj1fvc-nbwesternfsanita",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

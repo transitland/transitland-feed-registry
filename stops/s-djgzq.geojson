@@ -3,6 +3,64 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.451201,
+                    33.65984
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-211235",
+                    "tags": {
+                        "stop_code": "211235",
+                        "stop_id": "211235",
+                        "stop_lat": "33.65984",
+                        "stop_lon": "-84.451201",
+                        "stop_name": "VIRGINIA AVE@COLLEGE ST"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@COLLEGE ST",
+            "onestopId": "s-djgzqr8db2-virginia~college",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.45451,
+                    33.65562
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166067",
+                    "tags": {
+                        "stop_code": "166067",
+                        "stop_id": "166067",
+                        "stop_lat": "33.65562",
+                        "stop_lon": "-84.45451",
+                        "stop_name": "PRINCETON DR@COX CT"
+                    }
+                }
+            ],
+            "name": "PRINCETON DR@COX CT",
+            "onestopId": "s-djgzqny45q-princeton~cox",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.443489,
                     33.659286
                 ],
@@ -22,64 +80,6 @@
             ],
             "name": "VIRGINIA AVE@JACKSON ST",
             "onestopId": "s-djgzqrqps1-virginia~jackson",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.455544,
-                    33.659826
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166066",
-                    "tags": {
-                        "stop_code": "166066",
-                        "stop_id": "166066",
-                        "stop_lat": "33.659826",
-                        "stop_lon": "-84.455544",
-                        "stop_name": "ATLANTA ST @ VIRGINIA AVE"
-                    }
-                }
-            ],
-            "name": "ATLANTA ST @ VIRGINIA AVE",
-            "onestopId": "s-djgzqpt6en-atlanta~virginia",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.451407,
-                    33.659697
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-211234",
-                    "tags": {
-                        "stop_code": "211234",
-                        "stop_id": "211234",
-                        "stop_lat": "33.659697",
-                        "stop_lon": "-84.451407",
-                        "stop_name": "VIRGINIA AVE@COLLEGE ST"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@COLLEGE ST",
-            "onestopId": "s-djgzqr83gw-virginia~college",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -148,25 +148,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.461879,
-                    33.636682
+                    -84.433305,
+                    33.659044
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-176160",
+                    "identifier": "f-marta-s-166088",
                     "tags": {
-                        "stop_code": "176160",
-                        "stop_id": "176160",
-                        "stop_lat": "33.636682",
-                        "stop_lon": "-84.461879",
-                        "stop_name": "ROOSEVELT HWY@WICKERSHAM DR"
+                        "stop_code": "166088",
+                        "stop_id": "166088",
+                        "stop_lat": "33.659044",
+                        "stop_lon": "-84.433305",
+                        "stop_name": "VIRGINIA AVE@LEE ST"
                     }
                 }
             ],
-            "name": "ROOSEVELT HWY@WICKERSHAM DR",
-            "onestopId": "s-djgzq52eze-roosevelt~wickersham",
+            "name": "VIRGINIA AVE@LEE ST",
+            "onestopId": "s-djgzqxmw1k-virginia~lee",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -206,25 +206,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.451779,
-                    33.654656
+                    -84.443959,
+                    33.659101
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166058",
+                    "identifier": "f-marta-s-166108",
                     "tags": {
-                        "stop_code": "166058",
-                        "stop_id": "166058",
-                        "stop_lat": "33.654656",
-                        "stop_lon": "-84.451779",
-                        "stop_name": "PRINCETON AVE @ COLLEGE ST"
+                        "stop_code": "166108",
+                        "stop_id": "166108",
+                        "stop_lat": "33.659101",
+                        "stop_lon": "-84.443959",
+                        "stop_name": "VIRGINIA AVE@JACKSON ST"
                     }
                 }
             ],
-            "name": "PRINCETON AVE @ COLLEGE ST",
-            "onestopId": "s-djgzqq8hdf-princeton~college",
+            "name": "VIRGINIA AVE@JACKSON ST",
+            "onestopId": "s-djgzqrmy3p-virginia~jackson",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.449887,
+                    33.659698
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166014",
+                    "tags": {
+                        "stop_code": "166014",
+                        "stop_id": "166014",
+                        "stop_lat": "33.659698",
+                        "stop_lon": "-84.449887",
+                        "stop_name": "VIRGINIA AVE@HEMPHILL ST"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@HEMPHILL ST",
+            "onestopId": "s-djgzqr93zn-virginia~hemphill",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -322,25 +351,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.43914,
-                    33.65934
+                    -84.457077,
+                    33.639587
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166094",
+                    "identifier": "f-marta-s-166198",
                     "tags": {
-                        "stop_code": "166094",
-                        "stop_id": "166094",
-                        "stop_lat": "33.65934",
-                        "stop_lon": "-84.43914",
-                        "stop_name": "VIRGINIA AVE@MADISON ST"
+                        "stop_code": "166198",
+                        "stop_id": "166198",
+                        "stop_lat": "33.639587",
+                        "stop_lon": "-84.457077",
+                        "stop_name": "W POINT AVE @ BEST RD"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@MADISON ST",
-            "onestopId": "s-djgzqx3rc7-virginia~madison",
+            "name": "W POINT AVE @ BEST RD",
+            "onestopId": "s-djgzq5uhz3-wpoint~best",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -351,25 +380,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.458084,
-                    33.627183
+                    -84.440605,
+                    33.659332
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-176080",
+                    "identifier": "f-marta-s-166098",
                     "tags": {
-                        "stop_code": "176080",
-                        "stop_id": "176080",
-                        "stop_lat": "33.627183",
-                        "stop_lon": "-84.458084",
-                        "stop_name": "BEST RD @ 4736"
+                        "stop_code": "166098",
+                        "stop_id": "166098",
+                        "stop_lat": "33.659332",
+                        "stop_lon": "-84.440605",
+                        "stop_name": "VIRGINIA AVE@MYRTLE ST"
                     }
                 }
             ],
-            "name": "BEST RD @ 4736",
-            "onestopId": "s-djgzq1es81-best~4736",
+            "name": "VIRGINIA AVE@MYRTLE ST",
+            "onestopId": "s-djgzqx2pz6-virginia~myrtle",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -409,25 +438,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.449887,
-                    33.659698
+                    -84.451779,
+                    33.654656
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166014",
+                    "identifier": "f-marta-s-166058",
                     "tags": {
-                        "stop_code": "166014",
-                        "stop_id": "166014",
-                        "stop_lat": "33.659698",
-                        "stop_lon": "-84.449887",
-                        "stop_name": "VIRGINIA AVE@HEMPHILL ST"
+                        "stop_code": "166058",
+                        "stop_id": "166058",
+                        "stop_lat": "33.654656",
+                        "stop_lon": "-84.451779",
+                        "stop_name": "PRINCETON AVE @ COLLEGE ST"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@HEMPHILL ST",
-            "onestopId": "s-djgzqr93zn-virginia~hemphill",
+            "name": "PRINCETON AVE @ COLLEGE ST",
+            "onestopId": "s-djgzqq8hdf-princeton~college",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -583,6 +612,35 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.448559,
+                    33.651267
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166900",
+                    "tags": {
+                        "stop_code": "166900",
+                        "stop_id": "166900",
+                        "stop_lat": "33.651267",
+                        "stop_lon": "-84.448559",
+                        "stop_name": "COLLEGE PARK STATION - SOUTH LOOP"
+                    }
+                }
+            ],
+            "name": "COLLEGE PARK STATION - SOUTH LOOP",
+            "onestopId": "s-djgzqq42vf-collegeparkstationsouthloop",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.456023,
                     33.641017
                 ],
@@ -602,6 +660,151 @@
             ],
             "name": "W POINT AVE @ LESLEY DR",
             "onestopId": "s-djgzqhjj0h-wpoint~lesley",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.4216,
+                    33.658785
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-158390",
+                    "tags": {
+                        "stop_code": "158390",
+                        "stop_id": "158390",
+                        "stop_lat": "33.658785",
+                        "stop_lon": "-84.4216",
+                        "stop_name": "VIRGINIA AVE@LANG AVE"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@LANG AVE",
+            "onestopId": "s-djgzqzqhdh-virginia~lang",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.458084,
+                    33.627183
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-176080",
+                    "tags": {
+                        "stop_code": "176080",
+                        "stop_id": "176080",
+                        "stop_lat": "33.627183",
+                        "stop_lon": "-84.458084",
+                        "stop_name": "BEST RD @ 4736"
+                    }
+                }
+            ],
+            "name": "BEST RD @ 4736",
+            "onestopId": "s-djgzq1es81-best~4736",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.461997,
+                    33.624609
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-211973",
+                    "tags": {
+                        "stop_code": "211973",
+                        "stop_id": "211973",
+                        "stop_lat": "33.624609",
+                        "stop_lon": "-84.461997",
+                        "stop_name": "SULLIVAN RD @ SOUTHPORT RD"
+                    }
+                }
+            ],
+            "name": "SULLIVAN RD @ SOUTHPORT RD",
+            "onestopId": "s-djgzq10tsc-sullivan~southport",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.45374,
+                    33.65513
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166060",
+                    "tags": {
+                        "stop_code": "166060",
+                        "stop_id": "166060",
+                        "stop_lat": "33.65513",
+                        "stop_lon": "-84.45374",
+                        "stop_name": "PRINCETON DR@PRINCETON AVE"
+                    }
+                }
+            ],
+            "name": "PRINCETON DR@PRINCETON AVE",
+            "onestopId": "s-djgzqnwxm4-princeton~princeton",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.460348,
+                    33.624859
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-176157",
+                    "tags": {
+                        "stop_code": "176157",
+                        "stop_id": "176157",
+                        "stop_lat": "33.624859",
+                        "stop_lon": "-84.460348",
+                        "stop_name": "SULLIVAN RD@EMBARCADERO LN"
+                    }
+                }
+            ],
+            "name": "SULLIVAN RD@EMBARCADERO LN",
+            "onestopId": "s-djgzq11z50-sullivan~embarcadero",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -651,112 +854,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.461997,
-                    33.624609
+                    -84.435074,
+                    33.659348
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-211973",
+                    "identifier": "f-marta-s-166092",
                     "tags": {
-                        "stop_code": "211973",
-                        "stop_id": "211973",
-                        "stop_lat": "33.624609",
-                        "stop_lon": "-84.461997",
-                        "stop_name": "SULLIVAN RD @ SOUTHPORT RD"
+                        "stop_code": "166092",
+                        "stop_id": "166092",
+                        "stop_lat": "33.659348",
+                        "stop_lon": "-84.435074",
+                        "stop_name": "VIRGINIA AVE@HARRISON RD"
                     }
                 }
             ],
-            "name": "SULLIVAN RD @ SOUTHPORT RD",
-            "onestopId": "s-djgzq10tsc-sullivan~southport",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.4216,
-                    33.658785
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-158390",
-                    "tags": {
-                        "stop_code": "158390",
-                        "stop_id": "158390",
-                        "stop_lat": "33.658785",
-                        "stop_lon": "-84.4216",
-                        "stop_name": "VIRGINIA AVE@LANG AVE"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@LANG AVE",
-            "onestopId": "s-djgzqzqhdh-virginia~lang",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.460348,
-                    33.624859
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-176157",
-                    "tags": {
-                        "stop_code": "176157",
-                        "stop_id": "176157",
-                        "stop_lat": "33.624859",
-                        "stop_lon": "-84.460348",
-                        "stop_name": "SULLIVAN RD@EMBARCADERO LN"
-                    }
-                }
-            ],
-            "name": "SULLIVAN RD@EMBARCADERO LN",
-            "onestopId": "s-djgzq11z50-sullivan~embarcadero",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.433305,
-                    33.659044
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166088",
-                    "tags": {
-                        "stop_code": "166088",
-                        "stop_id": "166088",
-                        "stop_lat": "33.659044",
-                        "stop_lon": "-84.433305",
-                        "stop_name": "VIRGINIA AVE@LEE ST"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@LEE ST",
-            "onestopId": "s-djgzqxmw1k-virginia~lee",
+            "name": "VIRGINIA AVE@HARRISON RD",
+            "onestopId": "s-djgzqxkrbj-virginia~harrison",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -854,25 +970,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.448559,
-                    33.651267
+                    -84.456027,
+                    33.656513
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166900",
+                    "identifier": "f-marta-s-166062",
                     "tags": {
-                        "stop_code": "166900",
-                        "stop_id": "166900",
-                        "stop_lat": "33.651267",
-                        "stop_lon": "-84.448559",
-                        "stop_name": "COLLEGE PARK STATION - SOUTH LOOP"
+                        "stop_code": "166062",
+                        "stop_id": "166062",
+                        "stop_lat": "33.656513",
+                        "stop_lon": "-84.456027",
+                        "stop_name": "PRINCETON DR@ATLANTA ST"
                     }
                 }
             ],
-            "name": "COLLEGE PARK STATION - SOUTH LOOP",
-            "onestopId": "s-djgzqq42vf-collegeparkstationsouthloop",
+            "name": "PRINCETON DR@ATLANTA ST",
+            "onestopId": "s-djgzqnuzru-princeton~atlanta",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -883,25 +999,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.462258,
-                    33.64938
+                    -84.446284,
+                    33.639864
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-210958",
+                    "identifier": "f-marta-s-908695",
                     "tags": {
-                        "stop_code": "210958",
-                        "stop_id": "210958",
-                        "stop_lat": "33.64938",
-                        "stop_lon": "-84.462258",
-                        "stop_name": "CAMP CREEK PKWY @ AIRPORT DR"
+                        "stop_code": "908695",
+                        "stop_id": "908695",
+                        "stop_lat": "33.639864",
+                        "stop_lon": "-84.446284",
+                        "stop_name": "AIRPORT STATION"
                     }
                 }
             ],
-            "name": "CAMP CREEK PKWY @ AIRPORT DR",
-            "onestopId": "s-djgzqj8mye-campcreek~airport",
+            "name": "AIRPORT STATION",
+            "onestopId": "s-djgzq7un6v-airportstation",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -941,25 +1057,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.439212,
-                    33.659235
+                    -84.455703,
+                    33.657758
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166096",
+                    "identifier": "f-marta-s-166162",
                     "tags": {
-                        "stop_code": "166096",
-                        "stop_id": "166096",
-                        "stop_lat": "33.659235",
-                        "stop_lon": "-84.439212",
-                        "stop_name": "VIRGINIA AVE@MADISON ST"
+                        "stop_code": "166162",
+                        "stop_id": "166162",
+                        "stop_lat": "33.657758",
+                        "stop_lon": "-84.455703",
+                        "stop_name": "ATLANTA ST@CANNON CT"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@MADISON ST",
-            "onestopId": "s-djgzqx3prb-virginia~madison",
+            "name": "ATLANTA ST@CANNON CT",
+            "onestopId": "s-djgzqpjnxk-atlanta~cannon",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.44972,
+                    33.65982
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166052",
+                    "tags": {
+                        "stop_code": "166052",
+                        "stop_id": "166052",
+                        "stop_lat": "33.65982",
+                        "stop_lon": "-84.44972",
+                        "stop_name": "VIRGINIA AVE@HEMPHILL ST"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@HEMPHILL ST",
+            "onestopId": "s-djgzqr9ddv-virginia~hemphill",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1028,25 +1173,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.446283,
-                    33.639622
+                    -84.451387,
+                    33.654442
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-906647",
+                    "identifier": "f-marta-s-166154",
                     "tags": {
-                        "stop_code": "906647",
-                        "stop_id": "906647",
-                        "stop_lat": "33.639622",
-                        "stop_lon": "-84.446283",
-                        "stop_name": "AIRPORT STATION"
+                        "stop_code": "166154",
+                        "stop_id": "166154",
+                        "stop_lat": "33.654442",
+                        "stop_lon": "-84.451387",
+                        "stop_name": "PRINCETON AVE@COLLEGE ST"
                     }
                 }
             ],
-            "name": "AIRPORT STATION",
-            "onestopId": "s-djgzq7uj4b-airportstation",
+            "name": "PRINCETON AVE@COLLEGE ST",
+            "onestopId": "s-djgzqq87k4-princeton~college",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1057,83 +1202,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.448465,
-                    33.651937
+                    -84.448486,
+                    33.6597
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166901",
+                    "identifier": "f-marta-s-211031",
                     "tags": {
-                        "stop_code": "166901",
-                        "stop_id": "166901",
-                        "stop_lat": "33.651937",
-                        "stop_lon": "-84.448465",
-                        "stop_name": "COLLEGE PARK STATION - NORTH LOOP"
+                        "stop_code": "211031",
+                        "stop_id": "211031",
+                        "stop_lat": "33.6597",
+                        "stop_lon": "-84.448486",
+                        "stop_name": "VIRGINIA AVE@HOWELL SLADE CIR"
                     }
                 }
             ],
-            "name": "COLLEGE PARK STATION - NORTH LOOP",
-            "onestopId": "s-djgzqq4s8p-collegeparkstationnorthloop",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.446284,
-                    33.639864
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-908695",
-                    "tags": {
-                        "stop_code": "908695",
-                        "stop_id": "908695",
-                        "stop_lat": "33.639864",
-                        "stop_lon": "-84.446284",
-                        "stop_name": "AIRPORT STATION"
-                    }
-                }
-            ],
-            "name": "AIRPORT STATION",
-            "onestopId": "s-djgzq7un6v-airportstation",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.432808,
-                    33.659218
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166086",
-                    "tags": {
-                        "stop_code": "166086",
-                        "stop_id": "166086",
-                        "stop_lat": "33.659218",
-                        "stop_lon": "-84.432808",
-                        "stop_name": "VIRGINIA AVE@LEE ST"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@LEE ST",
-            "onestopId": "s-djgzqxmzhv-virginia~lee",
+            "name": "VIRGINIA AVE@HOWELL SLADE CIR",
+            "onestopId": "s-djgzqrd3zw-virginia~howellsladecir",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1173,6 +1260,64 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.432808,
+                    33.659218
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166086",
+                    "tags": {
+                        "stop_code": "166086",
+                        "stop_id": "166086",
+                        "stop_lat": "33.659218",
+                        "stop_lon": "-84.432808",
+                        "stop_name": "VIRGINIA AVE@LEE ST"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@LEE ST",
+            "onestopId": "s-djgzqxmzhv-virginia~lee",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.454,
+                    33.65994
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166168",
+                    "tags": {
+                        "stop_code": "166168",
+                        "stop_id": "166168",
+                        "stop_lat": "33.65994",
+                        "stop_lon": "-84.454",
+                        "stop_name": "VIRGINIA AVE@CONLEY ST"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@CONLEY ST",
+            "onestopId": "s-djgzqpw7r5-virginia~conley",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.459905,
                     33.638524
                 ],
@@ -1192,35 +1337,6 @@
             ],
             "name": "ROOSEVELT HWY@HORTON DR",
             "onestopId": "s-djgzq5dnte-roosevelt~horton",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.45451,
-                    33.65562
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166067",
-                    "tags": {
-                        "stop_code": "166067",
-                        "stop_id": "166067",
-                        "stop_lat": "33.65562",
-                        "stop_lon": "-84.45451",
-                        "stop_name": "PRINCETON DR@COX CT"
-                    }
-                }
-            ],
-            "name": "PRINCETON DR@COX CT",
-            "onestopId": "s-djgzqny45q-princeton~cox",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1289,25 +1405,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.455924,
-                    33.656167
+                    -84.461879,
+                    33.636682
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166158",
+                    "identifier": "f-marta-s-176160",
                     "tags": {
-                        "stop_code": "166158",
-                        "stop_id": "166158",
-                        "stop_lat": "33.656167",
-                        "stop_lon": "-84.455924",
-                        "stop_name": "PRINCETON DR@FREEMAN CT"
+                        "stop_code": "176160",
+                        "stop_id": "176160",
+                        "stop_lat": "33.636682",
+                        "stop_lon": "-84.461879",
+                        "stop_name": "ROOSEVELT HWY@WICKERSHAM DR"
                     }
                 }
             ],
-            "name": "PRINCETON DR@FREEMAN CT",
-            "onestopId": "s-djgzqnvj6k-princeton~freeman",
+            "name": "ROOSEVELT HWY@WICKERSHAM DR",
+            "onestopId": "s-djgzq52eze-roosevelt~wickersham",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1347,25 +1463,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.435074,
-                    33.659348
+                    -84.420052,
+                    33.658947
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166092",
+                    "identifier": "f-marta-s-158140",
                     "tags": {
-                        "stop_code": "166092",
-                        "stop_id": "166092",
-                        "stop_lat": "33.659348",
-                        "stop_lon": "-84.435074",
-                        "stop_name": "VIRGINIA AVE@HARRISON RD"
+                        "stop_code": "158140",
+                        "stop_id": "158140",
+                        "stop_lat": "33.658947",
+                        "stop_lon": "-84.420052",
+                        "stop_name": "VIRGINIA AVE @ ELKINS ST"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@HARRISON RD",
-            "onestopId": "s-djgzqxkrbj-virginia~harrison",
+            "name": "VIRGINIA AVE @ ELKINS ST",
+            "onestopId": "s-djgzqzrjw4-virginia~elkins",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1376,25 +1492,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.448486,
-                    33.6597
+                    -84.462258,
+                    33.64938
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-211031",
+                    "identifier": "f-marta-s-210958",
                     "tags": {
-                        "stop_code": "211031",
-                        "stop_id": "211031",
-                        "stop_lat": "33.6597",
-                        "stop_lon": "-84.448486",
-                        "stop_name": "VIRGINIA AVE@HOWELL SLADE CIR"
+                        "stop_code": "210958",
+                        "stop_id": "210958",
+                        "stop_lat": "33.64938",
+                        "stop_lon": "-84.462258",
+                        "stop_name": "CAMP CREEK PKWY @ AIRPORT DR"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@HOWELL SLADE CIR",
-            "onestopId": "s-djgzqrd3zw-virginia~howellsladecir",
+            "name": "CAMP CREEK PKWY @ AIRPORT DR",
+            "onestopId": "s-djgzqj8mye-campcreek~airport",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1405,54 +1521,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.444969,
-                    33.659264
+                    -84.455544,
+                    33.659826
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166110",
+                    "identifier": "f-marta-s-166066",
                     "tags": {
-                        "stop_code": "166110",
-                        "stop_id": "166110",
-                        "stop_lat": "33.659264",
-                        "stop_lon": "-84.444969",
-                        "stop_name": "VIRGINIA AVE@LEE ST"
+                        "stop_code": "166066",
+                        "stop_id": "166066",
+                        "stop_lat": "33.659826",
+                        "stop_lon": "-84.455544",
+                        "stop_name": "ATLANTA ST @ VIRGINIA AVE"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@LEE ST",
-            "onestopId": "s-djgzqrmp3t-virginia~lee",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.457975,
-                    33.627067
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-211599",
-                    "tags": {
-                        "stop_code": "211599",
-                        "stop_id": "211599",
-                        "stop_lat": "33.627067",
-                        "stop_lon": "-84.457975",
-                        "stop_name": "BEST RD @ 4736"
-                    }
-                }
-            ],
-            "name": "BEST RD @ 4736",
-            "onestopId": "s-djgzq1eefe-best~4736",
+            "name": "ATLANTA ST @ VIRGINIA AVE",
+            "onestopId": "s-djgzqpt6en-atlanta~virginia",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1511,35 +1598,6 @@
             ],
             "name": "VIRGINIA AVE@HARRISON RD",
             "onestopId": "s-djgzqxkw3y-virginia~harrison",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.446944,
-                    33.659728
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-211030",
-                    "tags": {
-                        "stop_code": "211030",
-                        "stop_id": "211030",
-                        "stop_lat": "33.659728",
-                        "stop_lon": "-84.446944",
-                        "stop_name": "VIRGINIA AVE@HOWELL SLADE CIR"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@HOWELL SLADE CIR",
-            "onestopId": "s-djgzqred5s-virginia~howellsladecir",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1637,54 +1695,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.455671,
-                    33.657606
+                    -84.462399,
+                    33.649165
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166064",
+                    "identifier": "f-marta-s-210957",
                     "tags": {
-                        "stop_code": "166064",
-                        "stop_id": "166064",
-                        "stop_lat": "33.657606",
-                        "stop_lon": "-84.455671",
-                        "stop_name": "ATLANTA ST@CANNON CT"
+                        "stop_code": "210957",
+                        "stop_id": "210957",
+                        "stop_lat": "33.649165",
+                        "stop_lon": "-84.462399",
+                        "stop_name": "CAMP CREEK PKWY@AIRPORT DR"
                     }
                 }
             ],
-            "name": "ATLANTA ST@CANNON CT",
-            "onestopId": "s-djgzqpjmb0-atlanta~cannon",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.429505,
-                    33.659056
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-211339",
-                    "tags": {
-                        "stop_code": "211339",
-                        "stop_id": "211339",
-                        "stop_lat": "33.659056",
-                        "stop_lon": "-84.429505",
-                        "stop_name": "VIRGINIA AVE@BOBBY BROWN PKWY"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@BOBBY BROWN PKWY",
-            "onestopId": "s-djgzqz2q1y-virginia~bobbybrown",
+            "name": "CAMP CREEK PKWY@AIRPORT DR",
+            "onestopId": "s-djgzqj8ke6-campcreek~airport",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1724,25 +1753,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.457077,
-                    33.639587
+                    -84.43914,
+                    33.65934
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166198",
+                    "identifier": "f-marta-s-166094",
                     "tags": {
-                        "stop_code": "166198",
-                        "stop_id": "166198",
-                        "stop_lat": "33.639587",
-                        "stop_lon": "-84.457077",
-                        "stop_name": "W POINT AVE @ BEST RD"
+                        "stop_code": "166094",
+                        "stop_id": "166094",
+                        "stop_lat": "33.65934",
+                        "stop_lon": "-84.43914",
+                        "stop_name": "VIRGINIA AVE@MADISON ST"
                     }
                 }
             ],
-            "name": "W POINT AVE @ BEST RD",
-            "onestopId": "s-djgzq5uhz3-wpoint~best",
+            "name": "VIRGINIA AVE@MADISON ST",
+            "onestopId": "s-djgzqx3rc7-virginia~madison",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1782,54 +1811,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.455703,
-                    33.657758
+                    -84.446283,
+                    33.639622
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166162",
+                    "identifier": "f-marta-s-906647",
                     "tags": {
-                        "stop_code": "166162",
-                        "stop_id": "166162",
-                        "stop_lat": "33.657758",
-                        "stop_lon": "-84.455703",
-                        "stop_name": "ATLANTA ST@CANNON CT"
+                        "stop_code": "906647",
+                        "stop_id": "906647",
+                        "stop_lat": "33.639622",
+                        "stop_lon": "-84.446283",
+                        "stop_name": "AIRPORT STATION"
                     }
                 }
             ],
-            "name": "ATLANTA ST@CANNON CT",
-            "onestopId": "s-djgzqpjnxk-atlanta~cannon",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.451387,
-                    33.654442
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166154",
-                    "tags": {
-                        "stop_code": "166154",
-                        "stop_id": "166154",
-                        "stop_lat": "33.654442",
-                        "stop_lon": "-84.451387",
-                        "stop_name": "PRINCETON AVE@COLLEGE ST"
-                    }
-                }
-            ],
-            "name": "PRINCETON AVE@COLLEGE ST",
-            "onestopId": "s-djgzqq87k4-princeton~college",
+            "name": "AIRPORT STATION",
+            "onestopId": "s-djgzq7uj4b-airportstation",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1869,54 +1869,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.420052,
-                    33.658947
+                    -84.455671,
+                    33.657606
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-158140",
+                    "identifier": "f-marta-s-166064",
                     "tags": {
-                        "stop_code": "158140",
-                        "stop_id": "158140",
-                        "stop_lat": "33.658947",
-                        "stop_lon": "-84.420052",
-                        "stop_name": "VIRGINIA AVE @ ELKINS ST"
+                        "stop_code": "166064",
+                        "stop_id": "166064",
+                        "stop_lat": "33.657606",
+                        "stop_lon": "-84.455671",
+                        "stop_name": "ATLANTA ST@CANNON CT"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE @ ELKINS ST",
-            "onestopId": "s-djgzqzrjw4-virginia~elkins",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.456027,
-                    33.656513
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166062",
-                    "tags": {
-                        "stop_code": "166062",
-                        "stop_id": "166062",
-                        "stop_lat": "33.656513",
-                        "stop_lon": "-84.456027",
-                        "stop_name": "PRINCETON DR@ATLANTA ST"
-                    }
-                }
-            ],
-            "name": "PRINCETON DR@ATLANTA ST",
-            "onestopId": "s-djgzqnuzru-princeton~atlanta",
+            "name": "ATLANTA ST@CANNON CT",
+            "onestopId": "s-djgzqpjmb0-atlanta~cannon",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2014,25 +1985,54 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.451201,
-                    33.65984
+                    -84.458228,
+                    33.630638
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-211235",
+                    "identifier": "f-marta-s-176226",
                     "tags": {
-                        "stop_code": "211235",
-                        "stop_id": "211235",
-                        "stop_lat": "33.65984",
-                        "stop_lon": "-84.451201",
+                        "stop_code": "176226",
+                        "stop_id": "176226",
+                        "stop_lat": "33.630638",
+                        "stop_lon": "-84.458228",
+                        "stop_name": "BEST RD@RIVERDALE RD"
+                    }
+                }
+            ],
+            "name": "BEST RD@RIVERDALE RD",
+            "onestopId": "s-djgzq472st-best~riverdale",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.451407,
+                    33.659697
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-211234",
+                    "tags": {
+                        "stop_code": "211234",
+                        "stop_id": "211234",
+                        "stop_lat": "33.659697",
+                        "stop_lon": "-84.451407",
                         "stop_name": "VIRGINIA AVE@COLLEGE ST"
                     }
                 }
             ],
             "name": "VIRGINIA AVE@COLLEGE ST",
-            "onestopId": "s-djgzqr8db2-virginia~college",
+            "onestopId": "s-djgzqr83gw-virginia~college",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2043,25 +2043,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.462399,
-                    33.649165
+                    -84.429505,
+                    33.659056
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-210957",
+                    "identifier": "f-marta-s-211339",
                     "tags": {
-                        "stop_code": "210957",
-                        "stop_id": "210957",
-                        "stop_lat": "33.649165",
-                        "stop_lon": "-84.462399",
-                        "stop_name": "CAMP CREEK PKWY@AIRPORT DR"
+                        "stop_code": "211339",
+                        "stop_id": "211339",
+                        "stop_lat": "33.659056",
+                        "stop_lon": "-84.429505",
+                        "stop_name": "VIRGINIA AVE@BOBBY BROWN PKWY"
                     }
                 }
             ],
-            "name": "CAMP CREEK PKWY@AIRPORT DR",
-            "onestopId": "s-djgzqj8ke6-campcreek~airport",
+            "name": "VIRGINIA AVE@BOBBY BROWN PKWY",
+            "onestopId": "s-djgzqz2q1y-virginia~bobbybrown",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2072,54 +2072,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.45374,
-                    33.65513
+                    -84.448465,
+                    33.651937
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166060",
+                    "identifier": "f-marta-s-166901",
                     "tags": {
-                        "stop_code": "166060",
-                        "stop_id": "166060",
-                        "stop_lat": "33.65513",
-                        "stop_lon": "-84.45374",
-                        "stop_name": "PRINCETON DR@PRINCETON AVE"
+                        "stop_code": "166901",
+                        "stop_id": "166901",
+                        "stop_lat": "33.651937",
+                        "stop_lon": "-84.448465",
+                        "stop_name": "COLLEGE PARK STATION - NORTH LOOP"
                     }
                 }
             ],
-            "name": "PRINCETON DR@PRINCETON AVE",
-            "onestopId": "s-djgzqnwxm4-princeton~princeton",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.443959,
-                    33.659101
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166108",
-                    "tags": {
-                        "stop_code": "166108",
-                        "stop_id": "166108",
-                        "stop_lat": "33.659101",
-                        "stop_lon": "-84.443959",
-                        "stop_name": "VIRGINIA AVE@JACKSON ST"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@JACKSON ST",
-            "onestopId": "s-djgzqrmy3p-virginia~jackson",
+            "name": "COLLEGE PARK STATION - NORTH LOOP",
+            "onestopId": "s-djgzqq4s8p-collegeparkstationnorthloop",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2159,25 +2130,83 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.458228,
-                    33.630638
+                    -84.439212,
+                    33.659235
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-176226",
+                    "identifier": "f-marta-s-166096",
                     "tags": {
-                        "stop_code": "176226",
-                        "stop_id": "176226",
-                        "stop_lat": "33.630638",
-                        "stop_lon": "-84.458228",
-                        "stop_name": "BEST RD@RIVERDALE RD"
+                        "stop_code": "166096",
+                        "stop_id": "166096",
+                        "stop_lat": "33.659235",
+                        "stop_lon": "-84.439212",
+                        "stop_name": "VIRGINIA AVE@MADISON ST"
                     }
                 }
             ],
-            "name": "BEST RD@RIVERDALE RD",
-            "onestopId": "s-djgzq472st-best~riverdale",
+            "name": "VIRGINIA AVE@MADISON ST",
+            "onestopId": "s-djgzqx3prb-virginia~madison",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.446944,
+                    33.659728
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-211030",
+                    "tags": {
+                        "stop_code": "211030",
+                        "stop_id": "211030",
+                        "stop_lat": "33.659728",
+                        "stop_lon": "-84.446944",
+                        "stop_name": "VIRGINIA AVE@HOWELL SLADE CIR"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@HOWELL SLADE CIR",
+            "onestopId": "s-djgzqred5s-virginia~howellsladecir",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.444969,
+                    33.659264
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-166110",
+                    "tags": {
+                        "stop_code": "166110",
+                        "stop_id": "166110",
+                        "stop_lat": "33.659264",
+                        "stop_lon": "-84.444969",
+                        "stop_name": "VIRGINIA AVE@LEE ST"
+                    }
+                }
+            ],
+            "name": "VIRGINIA AVE@LEE ST",
+            "onestopId": "s-djgzqrmp3t-virginia~lee",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2246,25 +2275,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.44972,
-                    33.65982
+                    -84.455924,
+                    33.656167
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166052",
+                    "identifier": "f-marta-s-166158",
                     "tags": {
-                        "stop_code": "166052",
-                        "stop_id": "166052",
-                        "stop_lat": "33.65982",
-                        "stop_lon": "-84.44972",
-                        "stop_name": "VIRGINIA AVE@HEMPHILL ST"
+                        "stop_code": "166158",
+                        "stop_id": "166158",
+                        "stop_lat": "33.656167",
+                        "stop_lon": "-84.455924",
+                        "stop_name": "PRINCETON DR@FREEMAN CT"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@HEMPHILL ST",
-            "onestopId": "s-djgzqr9ddv-virginia~hemphill",
+            "name": "PRINCETON DR@FREEMAN CT",
+            "onestopId": "s-djgzqnvj6k-princeton~freeman",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2333,54 +2362,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.454,
-                    33.65994
+                    -84.457975,
+                    33.627067
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-166168",
+                    "identifier": "f-marta-s-211599",
                     "tags": {
-                        "stop_code": "166168",
-                        "stop_id": "166168",
-                        "stop_lat": "33.65994",
-                        "stop_lon": "-84.454",
-                        "stop_name": "VIRGINIA AVE@CONLEY ST"
+                        "stop_code": "211599",
+                        "stop_id": "211599",
+                        "stop_lat": "33.627067",
+                        "stop_lon": "-84.457975",
+                        "stop_name": "BEST RD @ 4736"
                     }
                 }
             ],
-            "name": "VIRGINIA AVE@CONLEY ST",
-            "onestopId": "s-djgzqpw7r5-virginia~conley",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.440605,
-                    33.659332
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-166098",
-                    "tags": {
-                        "stop_code": "166098",
-                        "stop_id": "166098",
-                        "stop_lat": "33.659332",
-                        "stop_lon": "-84.440605",
-                        "stop_name": "VIRGINIA AVE@MYRTLE ST"
-                    }
-                }
-            ],
-            "name": "VIRGINIA AVE@MYRTLE ST",
-            "onestopId": "s-djgzqx2pz6-virginia~myrtle",
+            "name": "BEST RD @ 4736",
+            "onestopId": "s-djgzq1eefe-best~4736",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"

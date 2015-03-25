@@ -38,41 +38,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.090324,
-                    47.2178497
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-58910",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "58910",
-                        "stop_lat": "47.2178497",
-                        "stop_lon": "-122.090324",
-                        "stop_name": "Auburn-Enumclaw Rd & 188th Ave SE",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "40"
-                    }
-                }
-            ],
-            "name": "Auburn-Enumclaw Rd & 188th Ave SE",
-            "onestopId": "s-c23htg8xcm-auburnenumclaw~188thse",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.080353,
                     47.2107391
                 ],
@@ -98,6 +63,41 @@
             ],
             "name": "Auburn-Enumclaw Rd & 196th Ave SE",
             "onestopId": "s-c23htfry3x-auburnenumclaw~196thse",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.090324,
+                    47.2178497
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-58910",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "58910",
+                        "stop_lat": "47.2178497",
+                        "stop_lon": "-122.090324",
+                        "stop_name": "Auburn-Enumclaw Rd & 188th Ave SE",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "40"
+                    }
+                }
+            ],
+            "name": "Auburn-Enumclaw Rd & 188th Ave SE",
+            "onestopId": "s-c23htg8xcm-auburnenumclaw~188thse",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -143,22 +143,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.102287,
-                    47.2277069
+                    -122.102531,
+                    47.2284508
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-58900",
+                    "identifier": "f-kingcounty-s-58902",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "58900",
-                        "stop_lat": "47.2277069",
-                        "stop_lon": "-122.102287",
+                        "stop_id": "58902",
+                        "stop_lat": "47.2284508",
+                        "stop_lon": "-122.102531",
                         "stop_name": "Auburn-Enumclaw Rd & SE 416th St",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
@@ -167,7 +167,7 @@
                 }
             ],
             "name": "Auburn-Enumclaw Rd & SE 416th St",
-            "onestopId": "s-c23htmxc66-auburnenumclaw~se416th",
+            "onestopId": "s-c23htmxtsv-auburnenumclaw~se416th",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -213,22 +213,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.102531,
-                    47.2284508
+                    -122.102287,
+                    47.2277069
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-58902",
+                    "identifier": "f-kingcounty-s-58900",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "58902",
-                        "stop_lat": "47.2284508",
-                        "stop_lon": "-122.102531",
+                        "stop_id": "58900",
+                        "stop_lat": "47.2277069",
+                        "stop_lon": "-122.102287",
                         "stop_name": "Auburn-Enumclaw Rd & SE 416th St",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
@@ -237,7 +237,7 @@
                 }
             ],
             "name": "Auburn-Enumclaw Rd & SE 416th St",
-            "onestopId": "s-c23htmxtsv-auburnenumclaw~se416th",
+            "onestopId": "s-c23htmxc66-auburnenumclaw~se416th",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

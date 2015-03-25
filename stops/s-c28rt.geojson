@@ -37,30 +37,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.15906,
-                    49.146532
+                    -123.178451,
+                    49.170245
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6644",
+                    "identifier": "f-translink-s-6552",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56583",
-                        "stop_desc": "NO 2 RD @ MAPLE RD",
-                        "stop_id": "6644",
-                        "stop_lat": "49.146532",
-                        "stop_lon": "-123.15906",
-                        "stop_name": "SB NO. 2 RD FS MAPLE RD",
+                        "stop_code": "56491",
+                        "stop_desc": "WESTMINSTER HWY @ GIBBONS DR",
+                        "stop_id": "6552",
+                        "stop_lat": "49.170245",
+                        "stop_lon": "-123.178451",
+                        "stop_name": "WB WESTMINSTER HWY FS GIBBONS DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 2 RD FS MAPLE RD",
-            "onestopId": "s-c28rt6y73c-sbno2fsmaple",
+            "name": "WB WESTMINSTER HWY FS GIBBONS DR",
+            "onestopId": "s-c28rtp0jqn-wbwestminsterfsgibbons",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.1368,
+                    49.143643
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6690",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56628",
+                        "stop_desc": "NO 3 RD @ SAUNDERS RD",
+                        "stop_id": "6690",
+                        "stop_lat": "49.143643",
+                        "stop_lon": "-123.1368",
+                        "stop_name": "SB NO. 3 RD AT SAUNDERS RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB NO. 3 RD AT SAUNDERS RD",
+            "onestopId": "s-c28rtfqd2x-sbno3atsaunders",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -139,6 +173,74 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.169754,
+                    49.161929
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6848",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56783",
+                        "stop_desc": "RAILWAY AVE @ GRANVILLE AVE",
+                        "stop_id": "6848",
+                        "stop_lat": "49.161929",
+                        "stop_lon": "-123.169754",
+                        "stop_name": "SB RAILWAY AV FS GRANVILLE AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB RAILWAY AV FS GRANVILLE AV",
+            "onestopId": "s-c28rtjwsbx-sbrailwayfsgranville",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.16416,
+                    49.133715
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6910",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56845",
+                        "stop_desc": "STEVESTON HWY @ LASSAM RD",
+                        "stop_id": "6910",
+                        "stop_lat": "49.133715",
+                        "stop_lon": "-123.16416",
+                        "stop_name": "WB STEVESTON HWY FS LASSAM RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB STEVESTON HWY FS LASSAM RD",
+            "onestopId": "s-c28rt2d8eh-wbstevestonfslassam",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.154377,
                     49.1409
                 ],
@@ -163,40 +265,6 @@
             ],
             "name": "EB WILLIAMS RD FS SWIFT LANE",
             "onestopId": "s-c28rt9cdrp-ebwilliamsfsswift",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.169927,
-                    49.136949
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9583",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "59071",
-                        "stop_desc": "RAILWAY AVE @ HOLLYMOUNT GATE",
-                        "stop_id": "9583",
-                        "stop_lat": "49.136949",
-                        "stop_lon": "-123.169927",
-                        "stop_name": "SB RAILWAY AV NS HOLLYMOUNT GATE",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB RAILWAY AV NS HOLLYMOUNT GATE",
-            "onestopId": "s-c28rt1n7kx-sbrailwaynshollymountgate",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -275,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136558,
-                    49.17419
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-11388",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58196",
-                        "stop_desc": "NO. 3 RD @ LANSDOWNE RD",
-                        "stop_id": "11388",
-                        "stop_lat": "49.17419",
-                        "stop_lon": "-123.136558",
-                        "stop_name": "NB NO. 3 RD FS LANSDOWNE RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "NB NO. 3 RD FS LANSDOWNE RD",
-            "onestopId": "s-c28rtzysqj-nbno3fslansdowne",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.147922,
                     49.151597
                 ],
@@ -377,6 +411,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.136815,
+                    49.140415
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6691",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56629",
+                        "stop_desc": "NO 3 RD @ WILLIAMS RD",
+                        "stop_id": "6691",
+                        "stop_lat": "49.140415",
+                        "stop_lon": "-123.136815",
+                        "stop_name": "SB NO. 3 RD FS WILLIAMS RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB NO. 3 RD FS WILLIAMS RD",
+            "onestopId": "s-c28rtcwx8j-sbno3fswilliams",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.169714,
                     49.132085
                 ],
@@ -411,30 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.159085,
-                    49.148062
+                    -123.140809,
+                    49.165262
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6643",
+                    "identifier": "f-translink-s-10520",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56582",
-                        "stop_desc": "NO 2 RD @ FRANCIS RD",
-                        "stop_id": "6643",
-                        "stop_lat": "49.148062",
-                        "stop_lon": "-123.159085",
-                        "stop_name": "SB NO. 2 RD FS FRANCIS RD",
+                        "stop_code": "59959",
+                        "stop_desc": "MINORU BLVD @ MINORU GATE",
+                        "stop_id": "10520",
+                        "stop_lat": "49.165262",
+                        "stop_lon": "-123.140809",
+                        "stop_name": "NB MINORU BLVD FS MINORU GATE",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 2 RD FS FRANCIS RD",
-            "onestopId": "s-c28rt7nk1q-sbno2fsfrancis",
+            "name": "NB MINORU BLVD FS MINORU GATE",
+            "onestopId": "s-c28rty787j-nbminorufsminorugate",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -615,64 +683,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.167986,
-                    49.141107
+                    -123.148178,
+                    49.162876
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10704",
+                    "identifier": "f-translink-s-6843",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "60566",
-                        "stop_desc": "WILLIAMS RD @ 5100 BLOCK",
-                        "stop_id": "10704",
-                        "stop_lat": "49.141107",
-                        "stop_lon": "-123.167986",
-                        "stop_name": "WB WILLIAMS AT 5100 BLOCK",
+                        "stop_code": "56778",
+                        "stop_desc": "GRANVILLE AVE @ GILBERT RD",
+                        "stop_id": "6843",
+                        "stop_lat": "49.162876",
+                        "stop_lon": "-123.148178",
+                        "stop_name": "WB GRANVILLE AV FS GILBERT RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB WILLIAMS AT 5100 BLOCK",
-            "onestopId": "s-c28rt1zg9y-wbwilliamsat5100block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.147681,
-                    49.150122
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6878",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56813",
-                        "stop_desc": "GILBERT RD @ 8600 BLOCK",
-                        "stop_id": "6878",
-                        "stop_lat": "49.150122",
-                        "stop_lon": "-123.147681",
-                        "stop_name": "NB GILBERT RD AT 8600 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "NB GILBERT RD AT 8600 BLOCK",
-            "onestopId": "s-c28rtew85n-nbgilbertat8600block",
+            "name": "WB GRANVILLE AV FS GILBERT RD",
+            "onestopId": "s-c28rtty4x2-wbgranvillefsgilbert",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -921,40 +955,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.164131,
-                    49.141098
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9581",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "59067",
-                        "stop_desc": "WILLIAMS RD @ LASSAM RD",
-                        "stop_id": "9581",
-                        "stop_lat": "49.141098",
-                        "stop_lon": "-123.164131",
-                        "stop_name": "WB WILLIAMS RD FS LASSAM RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB WILLIAMS RD FS LASSAM RD",
-            "onestopId": "s-c28rt3fees-wbwilliamsfslassam",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.159396,
                     49.141099
                 ],
@@ -989,30 +989,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147382,
-                    49.155517
+                    -123.136732,
+                    49.157282
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6600",
+                    "identifier": "f-translink-s-6633",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56539",
-                        "stop_desc": "BLUNDELL RD @ GILBERT RD",
-                        "stop_id": "6600",
-                        "stop_lat": "49.155517",
-                        "stop_lon": "-123.147382",
-                        "stop_name": "EB BLUNDELL RD FS GILBERT RD",
+                        "stop_code": "58324",
+                        "stop_desc": "NO 3 RD @ JONES RD",
+                        "stop_id": "6633",
+                        "stop_lat": "49.157282",
+                        "stop_lon": "-123.136732",
+                        "stop_name": "SB NO. 3 RD FS JONES RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB BLUNDELL RD FS GILBERT RD",
-            "onestopId": "s-c28rtsqzdh-ebblundellfsgilbert",
+            "name": "SB NO. 3 RD FS JONES RD",
+            "onestopId": "s-c28rtuy9fj-sbno3fsjones",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1193,64 +1193,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147937,
-                    49.134789
+                    -123.160926,
+                    49.133498
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6904",
+                    "identifier": "f-translink-s-6807",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56839",
-                        "stop_desc": "GILBERT RD @ KIMBERLEY DR",
-                        "stop_id": "6904",
-                        "stop_lat": "49.134789",
-                        "stop_lon": "-123.147937",
-                        "stop_name": "SB GILBERT RD NS KIMBERLEY DR",
+                        "stop_code": "56742",
+                        "stop_desc": "STEVESTON HWY @ KINGFISHER DR",
+                        "stop_id": "6807",
+                        "stop_lat": "49.133498",
+                        "stop_lon": "-123.160926",
+                        "stop_name": "EB STEVESTON HWY FS KINGFISHER DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB GILBERT RD NS KIMBERLEY DR",
-            "onestopId": "s-c28rt8wqvh-sbgilbertnskimberley",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.136756,
-                    49.13538
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6694",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56632",
-                        "stop_desc": "NO 3 RD @ ROSEWELL AVE",
-                        "stop_id": "6694",
-                        "stop_lat": "49.13538",
-                        "stop_lon": "-123.136756",
-                        "stop_name": "SB NO. 3 RD FS ROSEWELL AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB NO. 3 RD FS ROSEWELL AV",
-            "onestopId": "s-c28rtbyd3d-sbno3fsrosewell",
+            "name": "EB STEVESTON HWY FS KINGFISHER DR",
+            "onestopId": "s-c28rt2kzq7-ebstevestonfskingfisher",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1295,30 +1261,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147708,
-                    49.146241
+                    -123.169696,
+                    49.155898
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6876",
+                    "identifier": "f-translink-s-6829",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56811",
-                        "stop_desc": "GILBERT RD @ BROADMOOR BLVD",
-                        "stop_id": "6876",
-                        "stop_lat": "49.146241",
-                        "stop_lon": "-123.147708",
-                        "stop_name": "NB GILBERT RD FS BROADMOOR BLVD",
+                        "stop_code": "56764",
+                        "stop_desc": "RAILWAY AVE @ BLUNDELL RD",
+                        "stop_id": "6829",
+                        "stop_lat": "49.155898",
+                        "stop_lon": "-123.169696",
+                        "stop_name": "NB RAILWAY AV FS BLUNDELL RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB GILBERT RD FS BROADMOOR BLVD",
-            "onestopId": "s-c28rtdy9d7-nbgilbertfsbroadmoor",
+            "name": "NB RAILWAY AV FS BLUNDELL RD",
+            "onestopId": "s-c28rthw9f5-nbrailwayfsblundell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1499,30 +1465,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.1368,
-                    49.143643
+                    -123.147639,
+                    49.163563
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6690",
+                    "identifier": "f-translink-s-6884",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56628",
-                        "stop_desc": "NO 3 RD @ SAUNDERS RD",
-                        "stop_id": "6690",
-                        "stop_lat": "49.143643",
-                        "stop_lon": "-123.1368",
-                        "stop_name": "SB NO. 3 RD AT SAUNDERS RD",
+                        "stop_code": "56819",
+                        "stop_desc": "GILBERT RD @ GRANVILLE AVE",
+                        "stop_id": "6884",
+                        "stop_lat": "49.163563",
+                        "stop_lon": "-123.147639",
+                        "stop_name": "NB GILBERT RD FS GRANVILLE AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 3 RD AT SAUNDERS RD",
-            "onestopId": "s-c28rtfqd2x-sbno3atsaunders",
+            "name": "NB GILBERT RD FS GRANVILLE AV",
+            "onestopId": "s-c28rttyws0-nbgilbertfsgranville",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1567,30 +1533,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.175203,
-                    49.170266
+                    -123.169676,
+                    49.144201
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6551",
+                    "identifier": "f-translink-s-6824",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56490",
-                        "stop_desc": "WESTMINSTER HWY @ RIVERDALE DR",
-                        "stop_id": "6551",
-                        "stop_lat": "49.170266",
-                        "stop_lon": "-123.175203",
-                        "stop_name": "WB WESTMINSTER HWY FS RIVERDALE DR",
+                        "stop_code": "56759",
+                        "stop_desc": "RAILWAY AVE @ WOODWARDS RD",
+                        "stop_id": "6824",
+                        "stop_lat": "49.144201",
+                        "stop_lon": "-123.169676",
+                        "stop_name": "NB RAILWAY AV FS WOODWARDS RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB WESTMINSTER HWY FS RIVERDALE DR",
-            "onestopId": "s-c28rtp4t99-wbwestminsterfsriverdale",
+            "name": "NB RAILWAY AV FS WOODWARDS RD",
+            "onestopId": "s-c28rt4qtdx-nbrailwayfswoodwards",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1669,40 +1635,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.178451,
-                    49.170245
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6552",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56491",
-                        "stop_desc": "WESTMINSTER HWY @ GIBBONS DR",
-                        "stop_id": "6552",
-                        "stop_lat": "49.170245",
-                        "stop_lon": "-123.178451",
-                        "stop_name": "WB WESTMINSTER HWY FS GIBBONS DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB WESTMINSTER HWY FS GIBBONS DR",
-            "onestopId": "s-c28rtp0jqn-wbwestminsterfsgibbons",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.169682,
                     49.150368
                 ],
@@ -1771,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.169754,
-                    49.161929
+                    -123.148123,
+                    49.170301
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6848",
+                    "identifier": "f-translink-s-6545",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56783",
-                        "stop_desc": "RAILWAY AVE @ GRANVILLE AVE",
-                        "stop_id": "6848",
-                        "stop_lat": "49.161929",
-                        "stop_lon": "-123.169754",
-                        "stop_name": "SB RAILWAY AV FS GRANVILLE AV",
+                        "stop_code": "56484",
+                        "stop_desc": "WESTMINSTER HWY @ GILBERT RD",
+                        "stop_id": "6545",
+                        "stop_lat": "49.170301",
+                        "stop_lon": "-123.148123",
+                        "stop_name": "WB WESTMINSTER HWY FS GILBERT RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB RAILWAY AV FS GRANVILLE AV",
-            "onestopId": "s-c28rtjwsbx-sbrailwayfsgranville",
+            "name": "WB WESTMINSTER HWY FS GILBERT RD",
+            "onestopId": "s-c28rtxnmbb-wbwestminsterfsgilbert",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2043,64 +1975,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136534,
-                    49.15218
+                    -123.136558,
+                    49.17419
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6680",
+                    "identifier": "f-translink-s-11388",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56618",
-                        "stop_desc": "NO 3 RD @ LUCAS RD",
-                        "stop_id": "6680",
-                        "stop_lat": "49.15218",
-                        "stop_lon": "-123.136534",
-                        "stop_name": "NB NO. 3 RD FS LUCAS RD",
+                        "stop_code": "58196",
+                        "stop_desc": "NO. 3 RD @ LANSDOWNE RD",
+                        "stop_id": "11388",
+                        "stop_lat": "49.17419",
+                        "stop_lon": "-123.136558",
+                        "stop_name": "NB NO. 3 RD FS LANSDOWNE RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB NO. 3 RD FS LUCAS RD",
-            "onestopId": "s-c28rtgysny-nbno3fslucas",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.137059,
-                    49.155668
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6634",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56573",
-                        "stop_desc": "BLUNDELL RD @ NO 3 RD",
-                        "stop_id": "6634",
-                        "stop_lat": "49.155668",
-                        "stop_lon": "-123.137059",
-                        "stop_name": "WB BLUNDELL RD FS NO. 3 RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB BLUNDELL RD FS NO. 3 RD",
-            "onestopId": "s-c28rtuw2d8-wbblundellfsno3",
+            "name": "NB NO. 3 RD FS LANSDOWNE RD",
+            "onestopId": "s-c28rtzysqj-nbno3fslansdowne",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2213,30 +2111,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.139827,
-                    49.162593
+                    -123.136777,
+                    49.15207
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6840",
+                    "identifier": "f-translink-s-6686",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56775",
-                        "stop_desc": "GRANVILLE AVE @ MINORU BLVD",
-                        "stop_id": "6840",
-                        "stop_lat": "49.162593",
-                        "stop_lon": "-123.139827",
-                        "stop_name": "EB GRANVILLE AV FS MINORU BLVD",
+                        "stop_code": "56624",
+                        "stop_desc": "NO 3 RD @ LUCAS RD",
+                        "stop_id": "6686",
+                        "stop_lat": "49.15207",
+                        "stop_lon": "-123.136777",
+                        "stop_name": "SB NO. 3 RD NS LUCAS RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB GRANVILLE AV FS MINORU BLVD",
-            "onestopId": "s-c28rtvu2f5-ebgranvillefsminoru",
+            "name": "SB NO. 3 RD NS LUCAS RD",
+            "onestopId": "s-c28rtgye91-sbno3nslucas",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2247,30 +2145,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.177227,
-                    49.140969
+                    -123.163303,
+                    49.140958
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6821",
+                    "identifier": "f-translink-s-9563",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56756",
-                        "stop_desc": "WILLIAMS RD @ FORTUNE AVE",
-                        "stop_id": "6821",
-                        "stop_lat": "49.140969",
-                        "stop_lon": "-123.177227",
-                        "stop_name": "EB WILLIAMS RD NS FORTUNE AV",
+                        "stop_code": "59068",
+                        "stop_desc": "WILLIAMS RD @ LASSAM RD",
+                        "stop_id": "9563",
+                        "stop_lat": "49.140958",
+                        "stop_lon": "-123.163303",
+                        "stop_name": "EB WILLIAMS RD FS LASSAM RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB WILLIAMS RD NS FORTUNE AV",
-            "onestopId": "s-c28rt1c4fs-ebwilliamsnsfortune",
+            "name": "EB WILLIAMS RD FS LASSAM RD",
+            "onestopId": "s-c28rt3g4z4-ebwilliamsfslassam",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2349,30 +2247,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147639,
-                    49.163563
+                    -123.136558,
+                    49.143908
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6884",
+                    "identifier": "f-translink-s-6676",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56819",
-                        "stop_desc": "GILBERT RD @ GRANVILLE AVE",
-                        "stop_id": "6884",
-                        "stop_lat": "49.163563",
-                        "stop_lon": "-123.147639",
-                        "stop_name": "NB GILBERT RD FS GRANVILLE AV",
+                        "stop_code": "56614",
+                        "stop_desc": "NO 3 RD @ SAUNDERS RD",
+                        "stop_id": "6676",
+                        "stop_lat": "49.143908",
+                        "stop_lon": "-123.136558",
+                        "stop_name": "NB NO. 3 RD FS SAUNDERS RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB GILBERT RD FS GRANVILLE AV",
-            "onestopId": "s-c28rttyws0-nbgilbertfsgranville",
+            "name": "NB NO. 3 RD FS SAUNDERS RD",
+            "onestopId": "s-c28rtfqsn0-nbno3fssaunders",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2383,30 +2281,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.177786,
-                    49.170029
+                    -123.169927,
+                    49.136949
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6500",
+                    "identifier": "f-translink-s-9583",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56439",
-                        "stop_desc": "WESTMINSTER HWY @ GIBBONS DR",
-                        "stop_id": "6500",
-                        "stop_lat": "49.170029",
-                        "stop_lon": "-123.177786",
-                        "stop_name": "EB WESTMINSTER HWY FS GIBBONS DR",
+                        "stop_code": "59071",
+                        "stop_desc": "RAILWAY AVE @ HOLLYMOUNT GATE",
+                        "stop_id": "9583",
+                        "stop_lat": "49.136949",
+                        "stop_lon": "-123.169927",
+                        "stop_name": "SB RAILWAY AV NS HOLLYMOUNT GATE",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB WESTMINSTER HWY FS GIBBONS DR",
-            "onestopId": "s-c28rtp0sjt-ebwestminsterfsgibbons",
+            "name": "SB RAILWAY AV NS HOLLYMOUNT GATE",
+            "onestopId": "s-c28rt1n7kx-sbrailwaynshollymountgate",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2417,30 +2315,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.135651,
-                    49.164799
+                    -123.137059,
+                    49.155668
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6947",
+                    "identifier": "f-translink-s-6634",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56882",
-                        "stop_desc": "PARK RD @ BUSWELL ST",
-                        "stop_id": "6947",
-                        "stop_lat": "49.164799",
-                        "stop_lon": "-123.135651",
-                        "stop_name": "WB PARK RD FS BUSWELL ST",
+                        "stop_code": "56573",
+                        "stop_desc": "BLUNDELL RD @ NO 3 RD",
+                        "stop_id": "6634",
+                        "stop_lat": "49.155668",
+                        "stop_lon": "-123.137059",
+                        "stop_name": "WB BLUNDELL RD FS NO. 3 RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB PARK RD FS BUSWELL ST",
-            "onestopId": "s-c28rtypmeq-wbparkfsbuswell",
+            "name": "WB BLUNDELL RD FS NO. 3 RD",
+            "onestopId": "s-c28rtuw2d8-wbblundellfsno3",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2519,30 +2417,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.151742,
-                    49.133438
+                    -123.147382,
+                    49.155517
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6810",
+                    "identifier": "f-translink-s-6600",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56745",
-                        "stop_desc": "STEVESTON HWY @ CONSTABLE GATE",
-                        "stop_id": "6810",
-                        "stop_lat": "49.133438",
-                        "stop_lon": "-123.151742",
-                        "stop_name": "EB STEVESTON HWY FS CONSTABLE GATE",
+                        "stop_code": "56539",
+                        "stop_desc": "BLUNDELL RD @ GILBERT RD",
+                        "stop_id": "6600",
+                        "stop_lat": "49.155517",
+                        "stop_lon": "-123.147382",
+                        "stop_name": "EB BLUNDELL RD FS GILBERT RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB STEVESTON HWY FS CONSTABLE GATE",
-            "onestopId": "s-c28rt87xh2-ebstevestonfsconstablegate",
+            "name": "EB BLUNDELL RD FS GILBERT RD",
+            "onestopId": "s-c28rtsqzdh-ebblundellfsgilbert",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2587,30 +2485,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136381,
-                    49.161319
+                    -123.177786,
+                    49.170029
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6605",
+                    "identifier": "f-translink-s-6500",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56544",
-                        "stop_desc": "NO 3 RD @ BENNETT RD",
-                        "stop_id": "6605",
-                        "stop_lat": "49.161319",
-                        "stop_lon": "-123.136381",
-                        "stop_name": "NB NO. 3 RD FS BENNETT RD",
+                        "stop_code": "56439",
+                        "stop_desc": "WESTMINSTER HWY @ GIBBONS DR",
+                        "stop_id": "6500",
+                        "stop_lat": "49.170029",
+                        "stop_lon": "-123.177786",
+                        "stop_name": "EB WESTMINSTER HWY FS GIBBONS DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB NO. 3 RD FS BENNETT RD",
-            "onestopId": "s-c28rtvwc6q-nbno3fsbennett",
+            "name": "EB WESTMINSTER HWY FS GIBBONS DR",
+            "onestopId": "s-c28rtp0sjt-ebwestminsterfsgibbons",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2621,30 +2519,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.169676,
-                    49.144201
+                    -123.170153,
+                    49.141111
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6824",
+                    "identifier": "f-translink-s-8617",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56759",
-                        "stop_desc": "RAILWAY AVE @ WOODWARDS RD",
-                        "stop_id": "6824",
-                        "stop_lat": "49.144201",
-                        "stop_lon": "-123.169676",
-                        "stop_name": "NB RAILWAY AV FS WOODWARDS RD",
+                        "stop_code": "58195",
+                        "stop_desc": "WILLIAMS RD @ RAILWAY AVE",
+                        "stop_id": "8617",
+                        "stop_lat": "49.141111",
+                        "stop_lon": "-123.170153",
+                        "stop_name": "WB WILLIAMS RD FS RAILWAY AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB RAILWAY AV FS WOODWARDS RD",
-            "onestopId": "s-c28rt4qtdx-nbrailwayfswoodwards",
+            "name": "WB WILLIAMS RD FS RAILWAY AV",
+            "onestopId": "s-c28rt1y5xr-wbwilliamsfsrailway",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.175203,
+                    49.170266
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6551",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56490",
+                        "stop_desc": "WESTMINSTER HWY @ RIVERDALE DR",
+                        "stop_id": "6551",
+                        "stop_lat": "49.170266",
+                        "stop_lon": "-123.175203",
+                        "stop_name": "WB WESTMINSTER HWY FS RIVERDALE DR",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB WESTMINSTER HWY FS RIVERDALE DR",
+            "onestopId": "s-c28rtp4t99-wbwestminsterfsriverdale",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2757,30 +2689,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147666,
-                    49.153666
+                    -123.135651,
+                    49.164799
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6880",
+                    "identifier": "f-translink-s-6947",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56815",
-                        "stop_desc": "GILBERT RD @ 8200 BLOCK",
-                        "stop_id": "6880",
-                        "stop_lat": "49.153666",
-                        "stop_lon": "-123.147666",
-                        "stop_name": "NB GILBERT RD AT 8200 BLOCK",
+                        "stop_code": "56882",
+                        "stop_desc": "PARK RD @ BUSWELL ST",
+                        "stop_id": "6947",
+                        "stop_lat": "49.164799",
+                        "stop_lon": "-123.135651",
+                        "stop_name": "WB PARK RD FS BUSWELL ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB GILBERT RD AT 8200 BLOCK",
-            "onestopId": "s-c28rtsnsg7-nbgilbertat8200block",
+            "name": "WB PARK RD FS BUSWELL ST",
+            "onestopId": "s-c28rtypmeq-wbparkfsbuswell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2825,30 +2757,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.148123,
-                    49.170301
+                    -123.147655,
+                    49.15588
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6545",
+                    "identifier": "f-translink-s-6881",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56484",
-                        "stop_desc": "WESTMINSTER HWY @ GILBERT RD",
-                        "stop_id": "6545",
-                        "stop_lat": "49.170301",
-                        "stop_lon": "-123.148123",
-                        "stop_name": "WB WESTMINSTER HWY FS GILBERT RD",
+                        "stop_code": "56816",
+                        "stop_desc": "GILBERT RD @ BLUNDELL RD",
+                        "stop_id": "6881",
+                        "stop_lat": "49.15588",
+                        "stop_lon": "-123.147655",
+                        "stop_name": "NB GILBERT RD FS BLUNDELL RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB WESTMINSTER HWY FS GILBERT RD",
-            "onestopId": "s-c28rtxnmbb-wbwestminsterfsgilbert",
+            "name": "NB GILBERT RD FS BLUNDELL RD",
+            "onestopId": "s-c28rtsw9g8-nbgilbertfsblundell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2859,30 +2791,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.169943,
-                    49.160016
+                    -123.136106,
+                    49.162586
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6849",
+                    "identifier": "f-translink-s-6608",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56784",
-                        "stop_desc": "RAILWAY AVE @ LINFIELD GATE",
-                        "stop_id": "6849",
-                        "stop_lat": "49.160016",
-                        "stop_lon": "-123.169943",
-                        "stop_name": "SB RAILWAY AV FS LINFIELD GATE",
+                        "stop_code": "56547",
+                        "stop_desc": "GRANVILLE AVE @ NO 3 RD",
+                        "stop_id": "6608",
+                        "stop_lat": "49.162586",
+                        "stop_lon": "-123.136106",
+                        "stop_name": "EB GRANVILLE AV FS NO. 3 RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB RAILWAY AV FS LINFIELD GATE",
-            "onestopId": "s-c28rtjq3u7-sbrailwayfslinfieldgate",
+            "name": "EB GRANVILLE AV FS NO. 3 RD",
+            "onestopId": "s-c28rtvz0bf-ebgranvillefsno3",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2961,30 +2893,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.159041,
-                    49.151288
+                    -123.158977,
+                    49.133268
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6642",
+                    "identifier": "f-translink-s-6648",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56581",
-                        "stop_desc": "NO 2 RD @ COLVILLE RD",
-                        "stop_id": "6642",
-                        "stop_lat": "49.151288",
-                        "stop_lon": "-123.159041",
-                        "stop_name": "SB NO. 2 RD FS COLVILLE RD",
+                        "stop_code": "56587",
+                        "stop_desc": "NO 2 RD @ STEVESTON HWY",
+                        "stop_id": "6648",
+                        "stop_lat": "49.133268",
+                        "stop_lon": "-123.158977",
+                        "stop_name": "SB NO. 2 RD FS STEVESTON HWY",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 2 RD FS COLVILLE RD",
-            "onestopId": "s-c28rt7wr42-sbno2fscolville",
+            "name": "SB NO. 2 RD FS STEVESTON HWY",
+            "onestopId": "s-c28rt2qq5c-sbno2fssteveston",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3131,30 +3063,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.140809,
-                    49.165262
+                    -123.159085,
+                    49.148062
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10520",
+                    "identifier": "f-translink-s-6643",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59959",
-                        "stop_desc": "MINORU BLVD @ MINORU GATE",
-                        "stop_id": "10520",
-                        "stop_lat": "49.165262",
-                        "stop_lon": "-123.140809",
-                        "stop_name": "NB MINORU BLVD FS MINORU GATE",
+                        "stop_code": "56582",
+                        "stop_desc": "NO 2 RD @ FRANCIS RD",
+                        "stop_id": "6643",
+                        "stop_lat": "49.148062",
+                        "stop_lon": "-123.159085",
+                        "stop_name": "SB NO. 2 RD FS FRANCIS RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB MINORU BLVD FS MINORU GATE",
-            "onestopId": "s-c28rty787j-nbminorufsminorugate",
+            "name": "SB NO. 2 RD FS FRANCIS RD",
+            "onestopId": "s-c28rt7nk1q-sbno2fsfrancis",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3335,30 +3267,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147655,
-                    49.15588
+                    -123.167986,
+                    49.141107
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6881",
+                    "identifier": "f-translink-s-10704",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56816",
-                        "stop_desc": "GILBERT RD @ BLUNDELL RD",
-                        "stop_id": "6881",
-                        "stop_lat": "49.15588",
-                        "stop_lon": "-123.147655",
-                        "stop_name": "NB GILBERT RD FS BLUNDELL RD",
+                        "stop_code": "60566",
+                        "stop_desc": "WILLIAMS RD @ 5100 BLOCK",
+                        "stop_id": "10704",
+                        "stop_lat": "49.141107",
+                        "stop_lon": "-123.167986",
+                        "stop_name": "WB WILLIAMS AT 5100 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB GILBERT RD FS BLUNDELL RD",
-            "onestopId": "s-c28rtsw9g8-nbgilbertfsblundell",
+            "name": "WB WILLIAMS AT 5100 BLOCK",
+            "onestopId": "s-c28rt1zg9y-wbwilliamsat5100block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3403,30 +3335,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136106,
-                    49.162586
+                    -123.169943,
+                    49.160016
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6608",
+                    "identifier": "f-translink-s-6849",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56547",
-                        "stop_desc": "GRANVILLE AVE @ NO 3 RD",
-                        "stop_id": "6608",
-                        "stop_lat": "49.162586",
-                        "stop_lon": "-123.136106",
-                        "stop_name": "EB GRANVILLE AV FS NO. 3 RD",
+                        "stop_code": "56784",
+                        "stop_desc": "RAILWAY AVE @ LINFIELD GATE",
+                        "stop_id": "6849",
+                        "stop_lat": "49.160016",
+                        "stop_lon": "-123.169943",
+                        "stop_name": "SB RAILWAY AV FS LINFIELD GATE",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB GRANVILLE AV FS NO. 3 RD",
-            "onestopId": "s-c28rtvz0bf-ebgranvillefsno3",
+            "name": "SB RAILWAY AV FS LINFIELD GATE",
+            "onestopId": "s-c28rtjq3u7-sbrailwayfslinfieldgate",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3505,30 +3437,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136506,
-                    49.15587
+                    -123.151742,
+                    49.133438
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6603",
+                    "identifier": "f-translink-s-6810",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56542",
-                        "stop_desc": "NO 3 RD @ BLUNDELL RD",
-                        "stop_id": "6603",
-                        "stop_lat": "49.15587",
-                        "stop_lon": "-123.136506",
-                        "stop_name": "NB NO. 3 RD FS BLUNDELL RD",
+                        "stop_code": "56745",
+                        "stop_desc": "STEVESTON HWY @ CONSTABLE GATE",
+                        "stop_id": "6810",
+                        "stop_lat": "49.133438",
+                        "stop_lon": "-123.151742",
+                        "stop_name": "EB STEVESTON HWY FS CONSTABLE GATE",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB NO. 3 RD FS BLUNDELL RD",
-            "onestopId": "s-c28rtuw9xq-nbno3fsblundell",
+            "name": "EB STEVESTON HWY FS CONSTABLE GATE",
+            "onestopId": "s-c28rt87xh2-ebstevestonfsconstablegate",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3675,30 +3607,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.169932,
-                    49.140757
+                    -123.136474,
+                    49.133805
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9582",
+                    "identifier": "f-translink-s-6672",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59069",
-                        "stop_desc": "RAILWAY AVE @ WILLIAMS RD",
-                        "stop_id": "9582",
-                        "stop_lat": "49.140757",
-                        "stop_lon": "-123.169932",
-                        "stop_name": "SB RAILWAY AV FS WILLIAMS RD",
+                        "stop_code": "56610",
+                        "stop_desc": "NO 3 RD @ STEVESTON HWY",
+                        "stop_id": "6672",
+                        "stop_lat": "49.133805",
+                        "stop_lon": "-123.136474",
+                        "stop_name": "NB NO. 3 RD FS STEVESTON HWY",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB RAILWAY AV FS WILLIAMS RD",
-            "onestopId": "s-c28rt1y3st-sbrailwayfswilliams",
+            "name": "NB NO. 3 RD FS STEVESTON HWY",
+            "onestopId": "s-c28rtbwc0j-nbno3fssteveston",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3777,30 +3709,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.143063,
-                    49.162892
+                    -123.136756,
+                    49.13538
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6842",
+                    "identifier": "f-translink-s-6694",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56777",
-                        "stop_desc": "GRANVILLE AV @ MOFFATT RD",
-                        "stop_id": "6842",
-                        "stop_lat": "49.162892",
-                        "stop_lon": "-123.143063",
-                        "stop_name": "WB GRANVILLE AV AT MOFFATT RD",
+                        "stop_code": "56632",
+                        "stop_desc": "NO 3 RD @ ROSEWELL AVE",
+                        "stop_id": "6694",
+                        "stop_lat": "49.13538",
+                        "stop_lon": "-123.136756",
+                        "stop_name": "SB NO. 3 RD FS ROSEWELL AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB GRANVILLE AV AT MOFFATT RD",
-            "onestopId": "s-c28rtvcfwe-wbgranvilleatmoffatt",
+            "name": "SB NO. 3 RD FS ROSEWELL AV",
+            "onestopId": "s-c28rtbyd3d-sbno3fsrosewell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3811,30 +3743,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.16416,
-                    49.133715
+                    -123.169925,
+                    49.146787
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6910",
+                    "identifier": "f-translink-s-6855",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56845",
-                        "stop_desc": "STEVESTON HWY @ LASSAM RD",
-                        "stop_id": "6910",
-                        "stop_lat": "49.133715",
-                        "stop_lon": "-123.16416",
-                        "stop_name": "WB STEVESTON HWY FS LASSAM RD",
+                        "stop_code": "56790",
+                        "stop_desc": "RAILWAY AVE @ MAPLE RD",
+                        "stop_id": "6855",
+                        "stop_lat": "49.146787",
+                        "stop_lon": "-123.169925",
+                        "stop_name": "SB RAILWAY AV AT MAPLE RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB STEVESTON HWY FS LASSAM RD",
-            "onestopId": "s-c28rt2d8eh-wbstevestonfslassam",
+            "name": "SB RAILWAY AV AT MAPLE RD",
+            "onestopId": "s-c28rt4yku9-sbrailwayatmaple",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3947,30 +3879,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.158977,
-                    49.133268
+                    -123.159041,
+                    49.151288
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6648",
+                    "identifier": "f-translink-s-6642",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56587",
-                        "stop_desc": "NO 2 RD @ STEVESTON HWY",
-                        "stop_id": "6648",
-                        "stop_lat": "49.133268",
-                        "stop_lon": "-123.158977",
-                        "stop_name": "SB NO. 2 RD FS STEVESTON HWY",
+                        "stop_code": "56581",
+                        "stop_desc": "NO 2 RD @ COLVILLE RD",
+                        "stop_id": "6642",
+                        "stop_lat": "49.151288",
+                        "stop_lon": "-123.159041",
+                        "stop_name": "SB NO. 2 RD FS COLVILLE RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 2 RD FS STEVESTON HWY",
-            "onestopId": "s-c28rt2qq5c-sbno2fssteveston",
+            "name": "SB NO. 2 RD FS COLVILLE RD",
+            "onestopId": "s-c28rt7wr42-sbno2fscolville",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4287,6 +4219,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.147708,
+                    49.146241
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6876",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56811",
+                        "stop_desc": "GILBERT RD @ BROADMOOR BLVD",
+                        "stop_id": "6876",
+                        "stop_lat": "49.146241",
+                        "stop_lon": "-123.147708",
+                        "stop_name": "NB GILBERT RD FS BROADMOOR BLVD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB GILBERT RD FS BROADMOOR BLVD",
+            "onestopId": "s-c28rtdy9d7-nbgilbertfsbroadmoor",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.13645,
                     49.159506
                 ],
@@ -4423,30 +4389,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136789,
-                    49.148025
+                    -123.139808,
+                    49.140985
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6688",
+                    "identifier": "f-translink-s-9575",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56626",
-                        "stop_desc": "NO 3 RD @ FRANCIS RD",
-                        "stop_id": "6688",
-                        "stop_lat": "49.148025",
-                        "stop_lon": "-123.136789",
-                        "stop_name": "SB NO. 3 RD FS FRANCIS RD",
+                        "stop_code": "59055",
+                        "stop_desc": "WILLIAMS RD @ GREENLEES RD",
+                        "stop_id": "9575",
+                        "stop_lat": "49.140985",
+                        "stop_lon": "-123.139808",
+                        "stop_name": "WB WILLIAMS RD FS GREENLEES RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 3 RD FS FRANCIS RD",
-            "onestopId": "s-c28rtgnebz-sbno3fsfrancis",
+            "name": "WB WILLIAMS RD FS GREENLEES RD",
+            "onestopId": "s-c28rtcu6fx-wbwilliamsfsgreenlees",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4559,30 +4525,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.158853,
-                    49.141362
+                    -123.147966,
+                    49.138806
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6590",
+                    "identifier": "f-translink-s-6903",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56529",
-                        "stop_desc": "NO 2 RD @ WILLIAMS RD",
-                        "stop_id": "6590",
-                        "stop_lat": "49.141362",
-                        "stop_lon": "-123.158853",
-                        "stop_name": "NB NO. 2 RD FS WILLIAMS RD",
+                        "stop_code": "56838",
+                        "stop_desc": "GILBERT RD @ BAMBERTON DR",
+                        "stop_id": "6903",
+                        "stop_lat": "49.138806",
+                        "stop_lon": "-123.147966",
+                        "stop_name": "SB GILBERT RD AT BAMBERTON DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB NO. 2 RD FS WILLIAMS RD",
-            "onestopId": "s-c28rt3ymnt-nbno2fswilliams",
+            "name": "SB GILBERT RD AT BAMBERTON DR",
+            "onestopId": "s-c28rt9qqk3-sbgilbertatbamberton",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4627,30 +4593,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.160926,
-                    49.133498
+                    -123.147666,
+                    49.153666
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6807",
+                    "identifier": "f-translink-s-6880",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56742",
-                        "stop_desc": "STEVESTON HWY @ KINGFISHER DR",
-                        "stop_id": "6807",
-                        "stop_lat": "49.133498",
-                        "stop_lon": "-123.160926",
-                        "stop_name": "EB STEVESTON HWY FS KINGFISHER DR",
+                        "stop_code": "56815",
+                        "stop_desc": "GILBERT RD @ 8200 BLOCK",
+                        "stop_id": "6880",
+                        "stop_lat": "49.153666",
+                        "stop_lon": "-123.147666",
+                        "stop_name": "NB GILBERT RD AT 8200 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB STEVESTON HWY FS KINGFISHER DR",
-            "onestopId": "s-c28rt2kzq7-ebstevestonfskingfisher",
+            "name": "NB GILBERT RD AT 8200 BLOCK",
+            "onestopId": "s-c28rtsnsg7-nbgilbertat8200block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4695,30 +4661,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.170153,
-                    49.141111
+                    -123.168905,
+                    49.162379
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8617",
+                    "identifier": "f-translink-s-6832",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58195",
-                        "stop_desc": "WILLIAMS RD @ RAILWAY AVE",
-                        "stop_id": "8617",
-                        "stop_lat": "49.141111",
-                        "stop_lon": "-123.170153",
-                        "stop_name": "WB WILLIAMS RD FS RAILWAY AV",
+                        "stop_code": "56767",
+                        "stop_desc": "GRANVILLE AVE @ RAILWAY AVE",
+                        "stop_id": "6832",
+                        "stop_lat": "49.162379",
+                        "stop_lon": "-123.168905",
+                        "stop_name": "EB GRANVILLE AV FS RAILWAY AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB WILLIAMS RD FS RAILWAY AV",
-            "onestopId": "s-c28rt1y5xr-wbwilliamsfsrailway",
+            "name": "EB GRANVILLE AV FS RAILWAY AV",
+            "onestopId": "s-c28rtjxps7-ebgranvillefsrailway",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4821,6 +4787,40 @@
             ],
             "name": "WB BLUNDELL RD FS MOFFATT RD",
             "onestopId": "s-c28rtu90tk-wbblundellfsmoffatt",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.136789,
+                    49.148025
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6688",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56626",
+                        "stop_desc": "NO 3 RD @ FRANCIS RD",
+                        "stop_id": "6688",
+                        "stop_lat": "49.148025",
+                        "stop_lon": "-123.136789",
+                        "stop_name": "SB NO. 3 RD FS FRANCIS RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB NO. 3 RD FS FRANCIS RD",
+            "onestopId": "s-c28rtgnebz-sbno3fsfrancis",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4967,30 +4967,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.148178,
-                    49.162876
+                    -123.147681,
+                    49.150122
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6843",
+                    "identifier": "f-translink-s-6878",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56778",
-                        "stop_desc": "GRANVILLE AVE @ GILBERT RD",
-                        "stop_id": "6843",
-                        "stop_lat": "49.162876",
-                        "stop_lon": "-123.148178",
-                        "stop_name": "WB GRANVILLE AV FS GILBERT RD",
+                        "stop_code": "56813",
+                        "stop_desc": "GILBERT RD @ 8600 BLOCK",
+                        "stop_id": "6878",
+                        "stop_lat": "49.150122",
+                        "stop_lon": "-123.147681",
+                        "stop_name": "NB GILBERT RD AT 8600 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB GRANVILLE AV FS GILBERT RD",
-            "onestopId": "s-c28rtty4x2-wbgranvillefsgilbert",
+            "name": "NB GILBERT RD AT 8600 BLOCK",
+            "onestopId": "s-c28rtew85n-nbgilbertat8600block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5205,30 +5205,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.159032,
-                    49.137176
+                    -123.164131,
+                    49.141098
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6647",
+                    "identifier": "f-translink-s-9581",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56586",
-                        "stop_desc": "NO 2 RD @ WALLACE RD",
-                        "stop_id": "6647",
-                        "stop_lat": "49.137176",
-                        "stop_lon": "-123.159032",
-                        "stop_name": "SB NO. 2 RD FS WALLACE RD",
+                        "stop_code": "59067",
+                        "stop_desc": "WILLIAMS RD @ LASSAM RD",
+                        "stop_id": "9581",
+                        "stop_lat": "49.141098",
+                        "stop_lon": "-123.164131",
+                        "stop_name": "WB WILLIAMS RD FS LASSAM RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 2 RD FS WALLACE RD",
-            "onestopId": "s-c28rt3nkf9-sbno2fswallace",
+            "name": "WB WILLIAMS RD FS LASSAM RD",
+            "onestopId": "s-c28rt3fees-wbwilliamsfslassam",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5409,30 +5409,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.156556,
-                    49.155669
+                    -123.147908,
+                    49.155324
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6640",
+                    "identifier": "f-translink-s-6895",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56579",
-                        "stop_desc": "BLUNDELL RD @ CHEVIOT PL",
-                        "stop_id": "6640",
-                        "stop_lat": "49.155669",
-                        "stop_lon": "-123.156556",
-                        "stop_name": "WB BLUNDELL RD FS CHEVIOT PL",
+                        "stop_code": "56830",
+                        "stop_desc": "GILBERT RD @ BLUNDELL RD",
+                        "stop_id": "6895",
+                        "stop_lat": "49.155324",
+                        "stop_lon": "-123.147908",
+                        "stop_name": "SB GILBERT RD FS BLUNDELL RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB BLUNDELL RD FS CHEVIOT PL",
-            "onestopId": "s-c28rts80s0-wbblundellfscheviotpl",
+            "name": "SB GILBERT RD FS BLUNDELL RD",
+            "onestopId": "s-c28rtsqqtb-sbgilbertfsblundell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5545,30 +5545,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136474,
-                    49.133805
+                    -123.169932,
+                    49.140757
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6672",
+                    "identifier": "f-translink-s-9582",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56610",
-                        "stop_desc": "NO 3 RD @ STEVESTON HWY",
-                        "stop_id": "6672",
-                        "stop_lat": "49.133805",
-                        "stop_lon": "-123.136474",
-                        "stop_name": "NB NO. 3 RD FS STEVESTON HWY",
+                        "stop_code": "59069",
+                        "stop_desc": "RAILWAY AVE @ WILLIAMS RD",
+                        "stop_id": "9582",
+                        "stop_lat": "49.140757",
+                        "stop_lon": "-123.169932",
+                        "stop_name": "SB RAILWAY AV FS WILLIAMS RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB NO. 3 RD FS STEVESTON HWY",
-            "onestopId": "s-c28rtbwc0j-nbno3fssteveston",
+            "name": "SB RAILWAY AV FS WILLIAMS RD",
+            "onestopId": "s-c28rt1y3st-sbrailwayfswilliams",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.158853,
+                    49.141362
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6590",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56529",
+                        "stop_desc": "NO 2 RD @ WILLIAMS RD",
+                        "stop_id": "6590",
+                        "stop_lat": "49.141362",
+                        "stop_lon": "-123.158853",
+                        "stop_name": "NB NO. 2 RD FS WILLIAMS RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB NO. 2 RD FS WILLIAMS RD",
+            "onestopId": "s-c28rt3ymnt-nbno2fswilliams",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5603,6 +5637,40 @@
             ],
             "name": "SB GILBERT RD FS AZURE RD",
             "onestopId": "s-c28rtwq7yv-sbgilbertfsazure",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.136381,
+                    49.161319
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6605",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56544",
+                        "stop_desc": "NO 3 RD @ BENNETT RD",
+                        "stop_id": "6605",
+                        "stop_lat": "49.161319",
+                        "stop_lon": "-123.136381",
+                        "stop_name": "NB NO. 3 RD FS BENNETT RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB NO. 3 RD FS BENNETT RD",
+            "onestopId": "s-c28rtvwc6q-nbno3fsbennett",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5783,30 +5851,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136815,
-                    49.140415
+                    -123.136534,
+                    49.15218
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6691",
+                    "identifier": "f-translink-s-6680",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56629",
-                        "stop_desc": "NO 3 RD @ WILLIAMS RD",
-                        "stop_id": "6691",
-                        "stop_lat": "49.140415",
-                        "stop_lon": "-123.136815",
-                        "stop_name": "SB NO. 3 RD FS WILLIAMS RD",
+                        "stop_code": "56618",
+                        "stop_desc": "NO 3 RD @ LUCAS RD",
+                        "stop_id": "6680",
+                        "stop_lat": "49.15218",
+                        "stop_lon": "-123.136534",
+                        "stop_name": "NB NO. 3 RD FS LUCAS RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 3 RD FS WILLIAMS RD",
-            "onestopId": "s-c28rtcwx8j-sbno3fswilliams",
+            "name": "NB NO. 3 RD FS LUCAS RD",
+            "onestopId": "s-c28rtgysny-nbno3fslucas",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5909,40 +5977,6 @@
             ],
             "name": "RICHMOND-BRIGHOUSE STN BAY 2",
             "onestopId": "s-c28rtywg7m-richmondbrighousestnbay2",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.169696,
-                    49.155898
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6829",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56764",
-                        "stop_desc": "RAILWAY AVE @ BLUNDELL RD",
-                        "stop_id": "6829",
-                        "stop_lat": "49.155898",
-                        "stop_lon": "-123.169696",
-                        "stop_name": "NB RAILWAY AV FS BLUNDELL RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "NB RAILWAY AV FS BLUNDELL RD",
-            "onestopId": "s-c28rthw9f5-nbrailwayfsblundell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6089,40 +6123,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.168905,
-                    49.162379
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6832",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56767",
-                        "stop_desc": "GRANVILLE AVE @ RAILWAY AVE",
-                        "stop_id": "6832",
-                        "stop_lat": "49.162379",
-                        "stop_lon": "-123.168905",
-                        "stop_name": "EB GRANVILLE AV FS RAILWAY AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "EB GRANVILLE AV FS RAILWAY AV",
-            "onestopId": "s-c28rtjxps7-ebgranvillefsrailway",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.15063,
                     49.155679
                 ],
@@ -6225,30 +6225,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.169717,
-                    49.157325
+                    -123.155267,
+                    49.170032
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6830",
+                    "identifier": "f-translink-s-6506",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56765",
-                        "stop_desc": "RAILWAY AVE @ LANCING RD",
-                        "stop_id": "6830",
-                        "stop_lat": "49.157325",
-                        "stop_lon": "-123.169717",
-                        "stop_name": "NB RAILWAY AV FS LANCING RD",
+                        "stop_code": "56445",
+                        "stop_desc": "WESTMINSTER HWY @ 6400 BLOCK",
+                        "stop_id": "6506",
+                        "stop_lat": "49.170032",
+                        "stop_lon": "-123.155267",
+                        "stop_name": "EB WESTMINSTER HWY AT 6400 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB RAILWAY AV FS LANCING RD",
-            "onestopId": "s-c28rthyd1t-nbrailwayfslancing",
+            "name": "EB WESTMINSTER HWY AT 6400 BLOCK",
+            "onestopId": "s-c28rtx1h4q-ebwestminsterat6400block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6293,30 +6293,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147966,
-                    49.138806
+                    -123.15906,
+                    49.146532
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6903",
+                    "identifier": "f-translink-s-6644",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56838",
-                        "stop_desc": "GILBERT RD @ BAMBERTON DR",
-                        "stop_id": "6903",
-                        "stop_lat": "49.138806",
-                        "stop_lon": "-123.147966",
-                        "stop_name": "SB GILBERT RD AT BAMBERTON DR",
+                        "stop_code": "56583",
+                        "stop_desc": "NO 2 RD @ MAPLE RD",
+                        "stop_id": "6644",
+                        "stop_lat": "49.146532",
+                        "stop_lon": "-123.15906",
+                        "stop_name": "SB NO. 2 RD FS MAPLE RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB GILBERT RD AT BAMBERTON DR",
-            "onestopId": "s-c28rt9qqk3-sbgilbertatbamberton",
+            "name": "SB NO. 2 RD FS MAPLE RD",
+            "onestopId": "s-c28rt6y73c-sbno2fsmaple",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6565,40 +6565,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.169925,
-                    49.146787
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6855",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56790",
-                        "stop_desc": "RAILWAY AVE @ MAPLE RD",
-                        "stop_id": "6855",
-                        "stop_lat": "49.146787",
-                        "stop_lon": "-123.169925",
-                        "stop_name": "SB RAILWAY AV AT MAPLE RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB RAILWAY AV AT MAPLE RD",
-            "onestopId": "s-c28rt4yku9-sbrailwayatmaple",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.170045,
                     49.17001
                 ],
@@ -6623,74 +6589,6 @@
             ],
             "name": "EB WESTMINSTER HWY FS MCCALLAN RD",
             "onestopId": "s-c28rtpnk1f-ebwestminsterfsmccallan",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.139808,
-                    49.140985
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9575",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "59055",
-                        "stop_desc": "WILLIAMS RD @ GREENLEES RD",
-                        "stop_id": "9575",
-                        "stop_lat": "49.140985",
-                        "stop_lon": "-123.139808",
-                        "stop_name": "WB WILLIAMS RD FS GREENLEES RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB WILLIAMS RD FS GREENLEES RD",
-            "onestopId": "s-c28rtcu6fx-wbwilliamsfsgreenlees",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.136732,
-                    49.157282
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6633",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58324",
-                        "stop_desc": "NO 3 RD @ JONES RD",
-                        "stop_id": "6633",
-                        "stop_lat": "49.157282",
-                        "stop_lon": "-123.136732",
-                        "stop_name": "SB NO. 3 RD FS JONES RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB NO. 3 RD FS JONES RD",
-            "onestopId": "s-c28rtuy9fj-sbno3fsjones",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6837,30 +6735,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136777,
-                    49.15207
+                    -123.139827,
+                    49.162593
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6686",
+                    "identifier": "f-translink-s-6840",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56624",
-                        "stop_desc": "NO 3 RD @ LUCAS RD",
-                        "stop_id": "6686",
-                        "stop_lat": "49.15207",
-                        "stop_lon": "-123.136777",
-                        "stop_name": "SB NO. 3 RD NS LUCAS RD",
+                        "stop_code": "56775",
+                        "stop_desc": "GRANVILLE AVE @ MINORU BLVD",
+                        "stop_id": "6840",
+                        "stop_lat": "49.162593",
+                        "stop_lon": "-123.139827",
+                        "stop_name": "EB GRANVILLE AV FS MINORU BLVD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NO. 3 RD NS LUCAS RD",
-            "onestopId": "s-c28rtgye91-sbno3nslucas",
+            "name": "EB GRANVILLE AV FS MINORU BLVD",
+            "onestopId": "s-c28rtvu2f5-ebgranvillefsminoru",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6905,30 +6803,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136558,
-                    49.143908
+                    -123.159032,
+                    49.137176
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6676",
+                    "identifier": "f-translink-s-6647",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56614",
-                        "stop_desc": "NO 3 RD @ SAUNDERS RD",
-                        "stop_id": "6676",
-                        "stop_lat": "49.143908",
-                        "stop_lon": "-123.136558",
-                        "stop_name": "NB NO. 3 RD FS SAUNDERS RD",
+                        "stop_code": "56586",
+                        "stop_desc": "NO 2 RD @ WALLACE RD",
+                        "stop_id": "6647",
+                        "stop_lat": "49.137176",
+                        "stop_lon": "-123.159032",
+                        "stop_name": "SB NO. 2 RD FS WALLACE RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB NO. 3 RD FS SAUNDERS RD",
-            "onestopId": "s-c28rtfqsn0-nbno3fssaunders",
+            "name": "SB NO. 2 RD FS WALLACE RD",
+            "onestopId": "s-c28rt3nkf9-sbno2fswallace",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -7415,30 +7313,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.163303,
-                    49.140958
+                    -123.177227,
+                    49.140969
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9563",
+                    "identifier": "f-translink-s-6821",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59068",
-                        "stop_desc": "WILLIAMS RD @ LASSAM RD",
-                        "stop_id": "9563",
-                        "stop_lat": "49.140958",
-                        "stop_lon": "-123.163303",
-                        "stop_name": "EB WILLIAMS RD FS LASSAM RD",
+                        "stop_code": "56756",
+                        "stop_desc": "WILLIAMS RD @ FORTUNE AVE",
+                        "stop_id": "6821",
+                        "stop_lat": "49.140969",
+                        "stop_lon": "-123.177227",
+                        "stop_name": "EB WILLIAMS RD NS FORTUNE AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB WILLIAMS RD FS LASSAM RD",
-            "onestopId": "s-c28rt3g4z4-ebwilliamsfslassam",
+            "name": "EB WILLIAMS RD NS FORTUNE AV",
+            "onestopId": "s-c28rt1c4fs-ebwilliamsnsfortune",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -7517,30 +7415,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147908,
-                    49.155324
+                    -123.143063,
+                    49.162892
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6895",
+                    "identifier": "f-translink-s-6842",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56830",
-                        "stop_desc": "GILBERT RD @ BLUNDELL RD",
-                        "stop_id": "6895",
-                        "stop_lat": "49.155324",
-                        "stop_lon": "-123.147908",
-                        "stop_name": "SB GILBERT RD FS BLUNDELL RD",
+                        "stop_code": "56777",
+                        "stop_desc": "GRANVILLE AV @ MOFFATT RD",
+                        "stop_id": "6842",
+                        "stop_lat": "49.162892",
+                        "stop_lon": "-123.143063",
+                        "stop_name": "WB GRANVILLE AV AT MOFFATT RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB GILBERT RD FS BLUNDELL RD",
-            "onestopId": "s-c28rtsqqtb-sbgilbertfsblundell",
+            "name": "WB GRANVILLE AV AT MOFFATT RD",
+            "onestopId": "s-c28rtvcfwe-wbgranvilleatmoffatt",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.156556,
+                    49.155669
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6640",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56579",
+                        "stop_desc": "BLUNDELL RD @ CHEVIOT PL",
+                        "stop_id": "6640",
+                        "stop_lat": "49.155669",
+                        "stop_lon": "-123.156556",
+                        "stop_name": "WB BLUNDELL RD FS CHEVIOT PL",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB BLUNDELL RD FS CHEVIOT PL",
+            "onestopId": "s-c28rts80s0-wbblundellfscheviotpl",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -7653,6 +7585,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.136506,
+                    49.15587
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6603",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56542",
+                        "stop_desc": "NO 3 RD @ BLUNDELL RD",
+                        "stop_id": "6603",
+                        "stop_lat": "49.15587",
+                        "stop_lon": "-123.136506",
+                        "stop_name": "NB NO. 3 RD FS BLUNDELL RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB NO. 3 RD FS BLUNDELL RD",
+            "onestopId": "s-c28rtuw9xq-nbno3fsblundell",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.169686,
                     49.152755
                 ],
@@ -7755,30 +7721,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.155267,
-                    49.170032
+                    -123.169717,
+                    49.157325
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6506",
+                    "identifier": "f-translink-s-6830",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56445",
-                        "stop_desc": "WESTMINSTER HWY @ 6400 BLOCK",
-                        "stop_id": "6506",
-                        "stop_lat": "49.170032",
-                        "stop_lon": "-123.155267",
-                        "stop_name": "EB WESTMINSTER HWY AT 6400 BLOCK",
+                        "stop_code": "56765",
+                        "stop_desc": "RAILWAY AVE @ LANCING RD",
+                        "stop_id": "6830",
+                        "stop_lat": "49.157325",
+                        "stop_lon": "-123.169717",
+                        "stop_name": "NB RAILWAY AV FS LANCING RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB WESTMINSTER HWY AT 6400 BLOCK",
-            "onestopId": "s-c28rtx1h4q-ebwestminsterat6400block",
+            "name": "NB RAILWAY AV FS LANCING RD",
+            "onestopId": "s-c28rthyd1t-nbrailwayfslancing",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.147937,
+                    49.134789
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6904",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56839",
+                        "stop_desc": "GILBERT RD @ KIMBERLEY DR",
+                        "stop_id": "6904",
+                        "stop_lat": "49.134789",
+                        "stop_lon": "-123.147937",
+                        "stop_name": "SB GILBERT RD NS KIMBERLEY DR",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB GILBERT RD NS KIMBERLEY DR",
+            "onestopId": "s-c28rt8wqvh-sbgilbertnskimberley",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

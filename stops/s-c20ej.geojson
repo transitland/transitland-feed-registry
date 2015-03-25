@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.806702,
-                    45.530912
+                    -122.824649,
+                    45.530504
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13269",
+                    "identifier": "f-trimet-s-1204",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13269",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13269)",
-                        "stop_id": "13269",
-                        "stop_lat": "45.530912",
-                        "stop_lon": "-122.806702",
-                        "stop_name": "NW Saltzman & Marshall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13269",
+                        "position": "Opposite",
+                        "stop_code": "1204",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 1204)",
+                        "stop_id": "1204",
+                        "stop_lat": "45.530504",
+                        "stop_lon": "-122.824649",
+                        "stop_name": "NW Cornell & 143rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1204",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Saltzman & Marshall",
-            "onestopId": "s-c20ej2wuu3-nwsaltzman~marshall",
+            "name": "NW Cornell & 143rd",
+            "onestopId": "s-c20ej09f6j-nwcornell~143rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -255,68 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.824649,
-                    45.530504
+                    -122.798233,
+                    45.538652
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1204",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "1204",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 1204)",
-                        "stop_id": "1204",
-                        "stop_lat": "45.530504",
-                        "stop_lon": "-122.824649",
-                        "stop_name": "NW Cornell & 143rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1204",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Cornell & 143rd",
-            "onestopId": "s-c20ej09f6j-nwcornell~143rd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.825674,
-                    45.530884
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1184",
+                    "identifier": "f-trimet-s-13283",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "1184",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 1184)",
-                        "stop_id": "1184",
-                        "stop_lat": "45.530884",
-                        "stop_lon": "-122.825674",
-                        "stop_name": "NW Cornell & Science Park Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1184",
+                        "stop_code": "13283",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 13283)",
+                        "stop_id": "13283",
+                        "stop_lat": "45.538652",
+                        "stop_lon": "-122.798233",
+                        "stop_name": "11800 Block NW McDaniel",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13283",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & Science Park Dr",
-            "onestopId": "s-c20ej09hd7-nwcornell~sciencepark",
+            "name": "11800 Block NW McDaniel",
+            "onestopId": "s-c20ejdj1cu-11800blocknwmcdaniel",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -327,32 +291,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.820308,
-                    45.529252
+                    -122.820185,
+                    45.529474
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1186",
+                    "identifier": "f-trimet-s-1165",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "1186",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1186)",
-                        "stop_id": "1186",
-                        "stop_lat": "45.529252",
-                        "stop_lon": "-122.820308",
-                        "stop_name": "13800 Block NW Cornell (Sunset HS)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1186",
+                        "stop_code": "1165",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 1165)",
+                        "stop_id": "1165",
+                        "stop_lat": "45.529474",
+                        "stop_lon": "-122.820185",
+                        "stop_name": "13900 Block NW Cornell",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1165",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "13800 Block NW Cornell (Sunset HS)",
-            "onestopId": "s-c20ej0kgp7-13800blocknwcornellsunseths",
+            "name": "13900 Block NW Cornell",
+            "onestopId": "s-c20ej0mh6m-13900blocknwcornell",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.810499,
+                    45.54817
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13243",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13243",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13243)",
+                        "stop_id": "13243",
+                        "stop_lat": "45.54817",
+                        "stop_lon": "-122.810499",
+                        "stop_name": "NW Saltzman & Thompson",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13243",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Saltzman & Thompson",
+            "onestopId": "s-c20ej7u17f-nwsaltzman~thompson",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -507,78 +507,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.798233,
-                    45.538652
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13283",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "13283",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 13283)",
-                        "stop_id": "13283",
-                        "stop_lat": "45.538652",
-                        "stop_lon": "-122.798233",
-                        "stop_name": "11800 Block NW McDaniel",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13283",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "11800 Block NW McDaniel",
-            "onestopId": "s-c20ejdj1cu-11800blocknwmcdaniel",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.820185,
-                    45.529474
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1165",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "1165",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 1165)",
-                        "stop_id": "1165",
-                        "stop_lat": "45.529474",
-                        "stop_lon": "-122.820185",
-                        "stop_name": "13900 Block NW Cornell",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1165",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "13900 Block NW Cornell",
-            "onestopId": "s-c20ej0mh6m-13900blocknwcornell",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.799721,
                     45.530235
                 ],
@@ -677,6 +605,42 @@
             ],
             "name": "NW 119th & Kathleen Dr",
             "onestopId": "s-c20ej9u19s-nw119th~kathleen",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.806702,
+                    45.530912
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13269",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13269",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13269)",
+                        "stop_id": "13269",
+                        "stop_lat": "45.530912",
+                        "stop_lon": "-122.806702",
+                        "stop_name": "NW Saltzman & Marshall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13269",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Saltzman & Marshall",
+            "onestopId": "s-c20ej2wuu3-nwsaltzman~marshall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1083,6 +1047,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.825674,
+                    45.530884
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1184",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "1184",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 1184)",
+                        "stop_id": "1184",
+                        "stop_lat": "45.530884",
+                        "stop_lon": "-122.825674",
+                        "stop_name": "NW Cornell & Science Park Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1184",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Cornell & Science Park Dr",
+            "onestopId": "s-c20ej09hd7-nwcornell~sciencepark",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.789414,
                     45.540171
                 ],
@@ -1119,32 +1119,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.810499,
-                    45.54817
+                    -122.820308,
+                    45.529252
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13243",
+                    "identifier": "f-trimet-s-1186",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13243",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13243)",
-                        "stop_id": "13243",
-                        "stop_lat": "45.54817",
-                        "stop_lon": "-122.810499",
-                        "stop_name": "NW Saltzman & Thompson",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13243",
+                        "position": "At",
+                        "stop_code": "1186",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 1186)",
+                        "stop_id": "1186",
+                        "stop_lat": "45.529252",
+                        "stop_lon": "-122.820308",
+                        "stop_name": "13800 Block NW Cornell (Sunset HS)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1186",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Saltzman & Thompson",
-            "onestopId": "s-c20ej7u17f-nwsaltzman~thompson",
+            "name": "13800 Block NW Cornell (Sunset HS)",
+            "onestopId": "s-c20ej0kgp7-13800blocknwcornellsunseths",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

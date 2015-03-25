@@ -10,13 +10,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G14N",
+                    "identifier": "f-nyctsubway-s-G14S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G14",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G14N",
+                        "stop_id": "G14S",
                         "stop_lat": "40.746644",
                         "stop_lon": "-73.891338",
                         "stop_name": "Jackson Hts - Roosevelt Av",
@@ -25,13 +25,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G14S",
+                    "identifier": "f-nyctsubway-s-G14N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G14",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G14S",
+                        "stop_id": "G14N",
                         "stop_lat": "40.746644",
                         "stop_lon": "-73.891338",
                         "stop_name": "Jackson Hts - Roosevelt Av",
@@ -52,6 +52,55 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.912034,
+                    40.775036
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-R01N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "R01",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "R01N",
+                        "stop_lat": "40.775036",
+                        "stop_lon": "-73.912034",
+                        "stop_name": "Astoria - Ditmars Blvd",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-R01S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "R01",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "R01S",
+                        "stop_lat": "40.775036",
+                        "stop_lon": "-73.912034",
+                        "stop_name": "Astoria - Ditmars Blvd",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Astoria - Ditmars Blvd",
+            "onestopId": "s-dr5rynfguc-astoriaditmars",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.891394,
                     40.746848
                 ],
@@ -59,13 +108,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-710S",
+                    "identifier": "f-nyctsubway-s-710N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "710",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "710S",
+                        "stop_id": "710N",
                         "stop_lat": "40.746848",
                         "stop_lon": "-73.891394",
                         "stop_name": "74 St - Broadway",
@@ -74,13 +123,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-710N",
+                    "identifier": "f-nyctsubway-s-710S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "710",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "710N",
+                        "stop_id": "710S",
                         "stop_lat": "40.746848",
                         "stop_lon": "-73.891394",
                         "stop_name": "74 St - Broadway",
@@ -108,7 +157,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-712S",
+                    "identifier": "f-nyctsubway-s-712S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "712",
@@ -123,7 +172,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-712N",
+                    "identifier": "f-nyctsubway-s-712N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "712",
@@ -150,104 +199,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.913333,
-                    40.756312
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-G18N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "G18",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "G18N",
-                        "stop_lat": "40.756312",
-                        "stop_lon": "-73.913333",
-                        "stop_name": "46 St",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-G18S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "G18",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "G18S",
-                        "stop_lat": "40.756312",
-                        "stop_lon": "-73.913333",
-                        "stop_name": "46 St",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "46 St",
-            "onestopId": "s-dr5ry53ywx-46",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.898453,
-                    40.749669
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-G15N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "G15",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "G15N",
-                        "stop_lat": "40.749669",
-                        "stop_lon": "-73.898453",
-                        "stop_name": "65 St",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-G15S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "G15",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "G15S",
-                        "stop_lat": "40.749669",
-                        "stop_lon": "-73.898453",
-                        "stop_name": "65 St",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "65 St",
-            "onestopId": "s-dr5ry6kb10-65",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -73.896403,
                     40.746325
                 ],
@@ -255,13 +206,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-711S",
+                    "identifier": "f-nyctsubway-s-711N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "711",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "711S",
+                        "stop_id": "711N",
                         "stop_lat": "40.746325",
                         "stop_lon": "-73.896403",
                         "stop_name": "69 St",
@@ -270,13 +221,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-711N",
+                    "identifier": "f-nyctsubway-s-711S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "711",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "711N",
+                        "stop_id": "711S",
                         "stop_lat": "40.746325",
                         "stop_lon": "-73.896403",
                         "stop_name": "69 St",
@@ -304,7 +255,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-713S",
+                    "identifier": "f-nyctsubway-s-713S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "713",
@@ -319,7 +270,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-713N",
+                    "identifier": "f-nyctsubway-s-713N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "713",
@@ -346,45 +297,45 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.912034,
-                    40.775036
+                    -73.913333,
+                    40.756312
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-R01S",
+                    "identifier": "f-nyctsubway-s-G18S",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "R01",
+                        "parent_station": "G18",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "R01S",
-                        "stop_lat": "40.775036",
-                        "stop_lon": "-73.912034",
-                        "stop_name": "Astoria - Ditmars Blvd",
+                        "stop_id": "G18S",
+                        "stop_lat": "40.756312",
+                        "stop_lon": "-73.913333",
+                        "stop_name": "46 St",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-R01N",
+                    "identifier": "f-nyctsubway-s-G18N",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "R01",
+                        "parent_station": "G18",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "R01N",
-                        "stop_lat": "40.775036",
-                        "stop_lon": "-73.912034",
-                        "stop_name": "Astoria - Ditmars Blvd",
+                        "stop_id": "G18N",
+                        "stop_lat": "40.756312",
+                        "stop_lon": "-73.913333",
+                        "stop_name": "46 St",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Astoria - Ditmars Blvd",
-            "onestopId": "s-dr5rynfguc-astoriaditmars",
+            "name": "46 St",
+            "onestopId": "s-dr5ry53ywx-46",
             "properties": {},
             "servedBy": [
                 "o-dr5r-mtanewyorkcitytransit"
@@ -402,7 +353,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G16N",
+                    "identifier": "f-nyctsubway-s-G16N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G16",
@@ -417,7 +368,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G16S",
+                    "identifier": "f-nyctsubway-s-G16S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G16",
@@ -451,13 +402,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-708N",
+                    "identifier": "f-nyctsubway-s-708S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "708",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "708N",
+                        "stop_id": "708S",
                         "stop_lat": "40.748408",
                         "stop_lon": "-73.876613",
                         "stop_name": "90 St - Elmhurst Av",
@@ -466,13 +417,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-708S",
+                    "identifier": "f-nyctsubway-s-708N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "708",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "708S",
+                        "stop_id": "708N",
                         "stop_lat": "40.748408",
                         "stop_lon": "-73.876613",
                         "stop_name": "90 St - Elmhurst Av",
@@ -500,7 +451,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G13N",
+                    "identifier": "f-nyctsubway-s-G13N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G13",
@@ -515,7 +466,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G13S",
+                    "identifier": "f-nyctsubway-s-G13S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G13",
@@ -542,6 +493,55 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.898453,
+                    40.749669
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-G15N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "G15",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "G15N",
+                        "stop_lat": "40.749669",
+                        "stop_lon": "-73.898453",
+                        "stop_name": "65 St",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-G15S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "G15",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "G15S",
+                        "stop_lat": "40.749669",
+                        "stop_lon": "-73.898453",
+                        "stop_name": "65 St",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "65 St",
+            "onestopId": "s-dr5ry6kb10-65",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.883697,
                     40.747659
                 ],
@@ -549,7 +549,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-709N",
+                    "identifier": "f-nyctsubway-s-709N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "709",
@@ -564,7 +564,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-709S",
+                    "identifier": "f-nyctsubway-s-709S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "709",

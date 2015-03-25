@@ -219,42 +219,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.461739,
-                    45.545372
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9725",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "9725",
-                        "stop_desc": "Westbound stop in Gresham (Stop ID 9725)",
-                        "stop_id": "9725",
-                        "stop_lat": "45.545372",
-                        "stop_lon": "-122.461739",
-                        "stop_name": "19000 Block NE Sandy (East Entrance)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9725",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "19000 Block NE Sandy (East Entrance)",
-            "onestopId": "s-c20gj76148-19000blocknesandyeastentrance",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.433778,
                     45.529378
                 ],
@@ -317,6 +281,42 @@
             ],
             "name": "NE Halsey & 196th",
             "onestopId": "s-c20gj34j79-nehalsey~196th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47008,
+                    45.545768
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9726",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9726",
+                        "stop_desc": "Westbound stop in Gresham (Stop ID 9726)",
+                        "stop_id": "9726",
+                        "stop_lat": "45.545768",
+                        "stop_lon": "-122.47008",
+                        "stop_name": "18600 Block NE Sandy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9726",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "18600 Block NE Sandy",
+            "onestopId": "s-c20gj5k526-18600blocknesandy",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -471,32 +471,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.472426,
-                    45.533537
+                    -122.461739,
+                    45.545372
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2405",
+                    "identifier": "f-trimet-s-9725",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2405",
-                        "stop_desc": "Eastbound stop in Gresham (Stop ID 2405)",
-                        "stop_id": "2405",
-                        "stop_lat": "45.533537",
-                        "stop_lon": "-122.472426",
-                        "stop_name": "NE Halsey & 186th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2405",
+                        "position": "Opposite",
+                        "stop_code": "9725",
+                        "stop_desc": "Westbound stop in Gresham (Stop ID 9725)",
+                        "stop_id": "9725",
+                        "stop_lat": "45.545372",
+                        "stop_lon": "-122.461739",
+                        "stop_name": "19000 Block NE Sandy (East Entrance)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9725",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Halsey & 186th",
-            "onestopId": "s-c20gj14k1d-nehalsey~186th",
+            "name": "19000 Block NE Sandy (East Entrance)",
+            "onestopId": "s-c20gj76148-19000blocknesandyeastentrance",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -795,32 +795,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.47008,
-                    45.545768
+                    -122.456051,
+                    45.544828
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9726",
+                    "identifier": "f-trimet-s-9718",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9726",
-                        "stop_desc": "Westbound stop in Gresham (Stop ID 9726)",
-                        "stop_id": "9726",
-                        "stop_lat": "45.545768",
-                        "stop_lon": "-122.47008",
-                        "stop_name": "18600 Block NE Sandy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9726",
+                        "position": "Farside",
+                        "stop_code": "9718",
+                        "stop_desc": "Eastbound stop in Gresham (Stop ID 9718)",
+                        "stop_id": "9718",
+                        "stop_lat": "45.544828",
+                        "stop_lon": "-122.456051",
+                        "stop_name": "NE Sandy & 201st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9718",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "18600 Block NE Sandy",
-            "onestopId": "s-c20gj5k526-18600blocknesandy",
+            "name": "NE Sandy & 201st",
+            "onestopId": "s-c20gj7njz5-nesandy~201st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1047,32 +1047,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.456051,
-                    45.544828
+                    -122.472426,
+                    45.533537
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9718",
+                    "identifier": "f-trimet-s-2405",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9718",
-                        "stop_desc": "Eastbound stop in Gresham (Stop ID 9718)",
-                        "stop_id": "9718",
-                        "stop_lat": "45.544828",
-                        "stop_lon": "-122.456051",
-                        "stop_name": "NE Sandy & 201st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9718",
+                        "position": "Nearside",
+                        "stop_code": "2405",
+                        "stop_desc": "Eastbound stop in Gresham (Stop ID 2405)",
+                        "stop_id": "2405",
+                        "stop_lat": "45.533537",
+                        "stop_lon": "-122.472426",
+                        "stop_name": "NE Halsey & 186th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2405",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Sandy & 201st",
-            "onestopId": "s-c20gj7njz5-nesandy~201st",
+            "name": "NE Halsey & 186th",
+            "onestopId": "s-c20gj14k1d-nehalsey~186th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

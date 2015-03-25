@@ -3,6 +3,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -70.851699,
+                    42.267524
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-114882",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "114882",
+                        "stop_desc": "",
+                        "stop_id": "114882",
+                        "stop_lat": "42.267524",
+                        "stop_lon": "-70.851699",
+                        "stop_name": "Nantasket Ave from Park Ave to Atlantic Ave (FLAG)",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Nantasket Ave from Park Ave to Atlantic Ave (FLAG)",
+            "onestopId": "s-drt87wx65v-nantasketfromparktoatlanticflag",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -70.860687,
                     42.274431
                 ],
@@ -248,31 +283,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.853148,
-                    42.267533
+                    -70.851408,
+                    42.267545
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-111843",
+                    "identifier": "f-mbta-s-114878",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "111843",
+                        "stop_code": "114878",
                         "stop_desc": "",
-                        "stop_id": "111843",
-                        "stop_lat": "42.267533",
-                        "stop_lon": "-70.853148",
-                        "stop_name": "Park Ave from Rockland Cir to Nantasket Ave (FLAG)",
+                        "stop_id": "114878",
+                        "stop_lat": "42.267545",
+                        "stop_lon": "-70.851408",
+                        "stop_name": "Nantasket Ave from Atlantic Ave to Park Ave (FLAG)",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Park Ave from Rockland Cir to Nantasket Ave (FLAG)",
-            "onestopId": "s-drt87ww61z-parkfromrocklandcirtonantasketflag",
+            "name": "Nantasket Ave from Atlantic Ave to Park Ave (FLAG)",
+            "onestopId": "s-drt87wxd69-nantasketfromatlantictoparkflag",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -353,31 +388,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.851408,
-                    42.267545
+                    -70.853148,
+                    42.267533
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-114878",
+                    "identifier": "f-mbta-s-111843",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "114878",
+                        "stop_code": "111843",
                         "stop_desc": "",
-                        "stop_id": "114878",
-                        "stop_lat": "42.267545",
-                        "stop_lon": "-70.851408",
-                        "stop_name": "Nantasket Ave from Atlantic Ave to Park Ave (FLAG)",
+                        "stop_id": "111843",
+                        "stop_lat": "42.267533",
+                        "stop_lon": "-70.853148",
+                        "stop_name": "Park Ave from Rockland Cir to Nantasket Ave (FLAG)",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Nantasket Ave from Atlantic Ave to Park Ave (FLAG)",
-            "onestopId": "s-drt87wxd69-nantasketfromatlantictoparkflag",
+            "name": "Park Ave from Rockland Cir to Nantasket Ave (FLAG)",
+            "onestopId": "s-drt87ww61z-parkfromrocklandcirtonantasketflag",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -598,31 +633,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.851699,
-                    42.267524
+                    -70.880118,
+                    42.232863
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-114882",
+                    "identifier": "f-mbta-s-3573",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "114882",
+                        "stop_code": "3573",
                         "stop_desc": "",
-                        "stop_id": "114882",
-                        "stop_lat": "42.267524",
-                        "stop_lon": "-70.851699",
-                        "stop_name": "Nantasket Ave from Park Ave to Atlantic Ave (FLAG)",
+                        "stop_id": "3573",
+                        "stop_lat": "42.232863",
+                        "stop_lon": "-70.880118",
+                        "stop_name": "Main St @ Playground",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Nantasket Ave from Park Ave to Atlantic Ave (FLAG)",
-            "onestopId": "s-drt87wx65v-nantasketfromparktoatlanticflag",
+            "name": "Main St @ Playground",
+            "onestopId": "s-drt87068m8-main~playground",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1183,41 +1218,6 @@
             ],
             "name": "Park Ave from Nantasket Ave to Rockland Cir (FLAG)",
             "onestopId": "s-drt87ww4q2-parkfromnantaskettorocklandcirflag",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -70.880118,
-                    42.232863
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-3573",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3573",
-                        "stop_desc": "",
-                        "stop_id": "3573",
-                        "stop_lat": "42.232863",
-                        "stop_lon": "-70.880118",
-                        "stop_name": "Main St @ Playground",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Main St @ Playground",
-            "onestopId": "s-drt87068m8-main~playground",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

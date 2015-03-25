@@ -75,42 +75,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.612611,
-                    45.390596
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3839",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3839",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3839)",
-                        "stop_id": "3839",
-                        "stop_lat": "45.390596",
-                        "stop_lon": "-122.612611",
-                        "stop_name": "SE McLoughlin & Jennings",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3839",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE McLoughlin & Jennings",
-            "onestopId": "s-c20f1zh5rh-semcloughlin~jennings",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.641532,
                     45.387439
                 ],
@@ -219,42 +183,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.647198,
-                    45.392603
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6346",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6346",
-                        "stop_desc": "Northbound stop in West Linn (Stop ID 6346)",
-                        "stop_id": "6346",
-                        "stop_lat": "45.392603",
-                        "stop_lon": "-122.647198",
-                        "stop_name": "Willamette Dr & Shady Hollow",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6346",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Willamette Dr & Shady Hollow",
-            "onestopId": "s-c20f1p7p14-willamette~shadyhollow",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.616513,
                     45.367791
                 ],
@@ -327,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.611196,
-                    45.388752
+                    -122.608082,
+                    45.355714
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3838",
+                    "identifier": "f-trimet-s-7604",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3838",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3838)",
-                        "stop_id": "3838",
-                        "stop_lat": "45.388752",
-                        "stop_lon": "-122.611196",
-                        "stop_name": "SE McLoughlin & Hull Ave",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3838",
+                        "position": "Nearside",
+                        "stop_code": "7604",
+                        "stop_desc": "Westbound stop in Oregon City (Stop ID 7604)",
+                        "stop_id": "7604",
+                        "stop_lat": "45.355714",
+                        "stop_lon": "-122.608082",
+                        "stop_name": "5th & High",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7604",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE McLoughlin & Hull Ave",
-            "onestopId": "s-c20f1yv28h-semcloughlin~hull",
+            "name": "5th & High",
+            "onestopId": "s-c20f1bz80t-5th~high",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -471,42 +399,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.650239,
-                    45.395398
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6301",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6301",
-                        "stop_desc": "Northbound stop in West Linn (Stop ID 6301)",
-                        "stop_id": "6301",
-                        "stop_lat": "45.395398",
-                        "stop_lon": "-122.650239",
-                        "stop_name": "Willamette Dr & Arbor",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6301",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Willamette Dr & Arbor",
-            "onestopId": "s-c20f1pbz67-willamette~arbor",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.611518,
                     45.352608
                 ],
@@ -533,6 +425,78 @@
             ],
             "name": "S High & 1st",
             "onestopId": "s-c20f1bjn0d-shigh~1st",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.623305,
+                    45.370779
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6314",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6314",
+                        "stop_desc": "Eastbound stop in West Linn (Stop ID 6314)",
+                        "stop_id": "6314",
+                        "stop_lat": "45.370779",
+                        "stop_lon": "-122.623305",
+                        "stop_name": "Willamette Dr & West A",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6314",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Willamette Dr & West A",
+            "onestopId": "s-c20f1ekrvy-willamette~westa",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.647198,
+                    45.392603
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6346",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6346",
+                        "stop_desc": "Northbound stop in West Linn (Stop ID 6346)",
+                        "stop_id": "6346",
+                        "stop_lat": "45.392603",
+                        "stop_lon": "-122.647198",
+                        "stop_name": "Willamette Dr & Shady Hollow",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6346",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Willamette Dr & Shady Hollow",
+            "onestopId": "s-c20f1p7p14-willamette~shadyhollow",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -605,6 +569,42 @@
             ],
             "name": "S High & 1st",
             "onestopId": "s-c20f1bjnnn-shigh~1st",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.609879,
+                    45.38707
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3841",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "3841",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3841)",
+                        "stop_id": "3841",
+                        "stop_lat": "45.38707",
+                        "stop_lon": "-122.609879",
+                        "stop_name": "SE McLoughlin & Meldrum",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3841",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE McLoughlin & Meldrum",
+            "onestopId": "s-c20f1yqnye-semcloughlin~meldrum",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,6 +1587,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.61254,
+                    45.365642
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6339",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6339",
+                        "stop_desc": "Southbound stop in West Linn (Stop ID 6339)",
+                        "stop_id": "6339",
+                        "stop_lat": "45.365642",
+                        "stop_lon": "-122.61254",
+                        "stop_name": "Willamette Dr & McKillican",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6339",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Willamette Dr & McKillican",
+            "onestopId": "s-c20f1fs608-willamette~mckillican",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.611061,
                     45.364339
                 ],
@@ -1731,32 +1767,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.609879,
-                    45.38707
+                    -122.607737,
+                    45.385456
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3841",
+                    "identifier": "f-trimet-s-1994",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3841",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3841)",
-                        "stop_id": "3841",
-                        "stop_lat": "45.38707",
-                        "stop_lon": "-122.609879",
-                        "stop_name": "SE McLoughlin & Meldrum",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3841",
+                        "position": "Farside",
+                        "stop_code": "1994",
+                        "stop_desc": "Westbound stop in Gladstone (Stop ID 1994)",
+                        "stop_id": "1994",
+                        "stop_lat": "45.385456",
+                        "stop_lon": "-122.607737",
+                        "stop_name": "Glen Echo & Mildred",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1994",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE McLoughlin & Meldrum",
-            "onestopId": "s-c20f1yqnye-semcloughlin~meldrum",
+            "name": "Glen Echo & Mildred",
+            "onestopId": "s-c20f1ypv2w-glenecho~mildred",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1839,32 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.608082,
-                    45.355714
+                    -122.611196,
+                    45.388752
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7604",
+                    "identifier": "f-trimet-s-3838",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7604",
-                        "stop_desc": "Westbound stop in Oregon City (Stop ID 7604)",
-                        "stop_id": "7604",
-                        "stop_lat": "45.355714",
-                        "stop_lon": "-122.608082",
-                        "stop_name": "5th & High",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7604",
+                        "position": "Farside",
+                        "stop_code": "3838",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3838)",
+                        "stop_id": "3838",
+                        "stop_lat": "45.388752",
+                        "stop_lon": "-122.611196",
+                        "stop_name": "SE McLoughlin & Hull Ave",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3838",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "5th & High",
-            "onestopId": "s-c20f1bz80t-5th~high",
+            "name": "SE McLoughlin & Hull Ave",
+            "onestopId": "s-c20f1yv28h-semcloughlin~hull",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2127,32 +2163,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.61254,
-                    45.365642
+                    -122.650239,
+                    45.395398
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6339",
+                    "identifier": "f-trimet-s-6301",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6339",
-                        "stop_desc": "Southbound stop in West Linn (Stop ID 6339)",
-                        "stop_id": "6339",
-                        "stop_lat": "45.365642",
-                        "stop_lon": "-122.61254",
-                        "stop_name": "Willamette Dr & McKillican",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6339",
+                        "stop_code": "6301",
+                        "stop_desc": "Northbound stop in West Linn (Stop ID 6301)",
+                        "stop_id": "6301",
+                        "stop_lat": "45.395398",
+                        "stop_lon": "-122.650239",
+                        "stop_name": "Willamette Dr & Arbor",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6301",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Willamette Dr & McKillican",
-            "onestopId": "s-c20f1fs608-willamette~mckillican",
+            "name": "Willamette Dr & Arbor",
+            "onestopId": "s-c20f1pbz67-willamette~arbor",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2199,32 +2235,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.607737,
-                    45.385456
+                    -122.612611,
+                    45.390596
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1994",
+                    "identifier": "f-trimet-s-3839",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1994",
-                        "stop_desc": "Westbound stop in Gladstone (Stop ID 1994)",
-                        "stop_id": "1994",
-                        "stop_lat": "45.385456",
-                        "stop_lon": "-122.607737",
-                        "stop_name": "Glen Echo & Mildred",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1994",
+                        "stop_code": "3839",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3839)",
+                        "stop_id": "3839",
+                        "stop_lat": "45.390596",
+                        "stop_lon": "-122.612611",
+                        "stop_name": "SE McLoughlin & Jennings",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3839",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Glen Echo & Mildred",
-            "onestopId": "s-c20f1ypv2w-glenecho~mildred",
+            "name": "SE McLoughlin & Jennings",
+            "onestopId": "s-c20f1zh5rh-semcloughlin~jennings",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2405,42 +2441,6 @@
             ],
             "name": "Willamette Dr & Pimlico",
             "onestopId": "s-c20f1kt9ek-willamette~pimlico",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.623305,
-                    45.370779
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6314",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6314",
-                        "stop_desc": "Eastbound stop in West Linn (Stop ID 6314)",
-                        "stop_id": "6314",
-                        "stop_lat": "45.370779",
-                        "stop_lon": "-122.623305",
-                        "stop_name": "Willamette Dr & West A",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6314",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Willamette Dr & West A",
-            "onestopId": "s-c20f1ekrvy-willamette~westa",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

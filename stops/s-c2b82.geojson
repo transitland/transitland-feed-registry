@@ -513,27 +513,12 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.01418,
-                    49.264943
+                    -123.014184,
+                    49.264942
                 ],
                 "type": "Point"
             },
             "identifiers": [
-                {
-                    "identifier": "f-translink-s-8673",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58344",
-                        "stop_desc": "GILMORE AVE @ DAWSON ST",
-                        "stop_id": "8673",
-                        "stop_lat": "49.264943",
-                        "stop_lon": "-123.01418",
-                        "stop_name": "NB GILMORE AV FS DAWSON ST--",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                },
                 {
                     "identifier": "f-translink-s-11835",
                     "tags": {
@@ -548,9 +533,24 @@
                         "stop_url": "",
                         "zone_id": "ZN1/2"
                     }
+                },
+                {
+                    "identifier": "f-translink-s-8673",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58344",
+                        "stop_desc": "GILMORE AVE @ DAWSON ST",
+                        "stop_id": "8673",
+                        "stop_lat": "49.264943",
+                        "stop_lon": "-123.01418",
+                        "stop_name": "NB GILMORE AV FS DAWSON ST--",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
                 }
             ],
-            "name": "NB GILMORE AV FS DAWSON ST--",
+            "name": "NB GILMORE AV FS DAWSON ST-",
             "onestopId": "s-c2b828rv1f-nbgilmorefsdawson",
             "properties": {},
             "servedBy": [
@@ -800,6 +800,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.044245,
+                    49.276141
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-1048",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "51039",
+                        "stop_desc": "RENFREW ST @ VENABLES ST",
+                        "stop_id": "1048",
+                        "stop_lat": "49.276141",
+                        "stop_lon": "-123.044245",
+                        "stop_name": "SB RENFREW ST FS VENABLES ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "SB RENFREW ST FS VENABLES ST",
+            "onestopId": "s-c2b8243ym6-sbrenfrewfsvenables",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.003061,
                     49.278616
                 ],
@@ -824,6 +858,40 @@
             ],
             "name": "NB WILLINGDON AV FS GEORGIA ST",
             "onestopId": "s-c2b82fzusz-nbwillingdonfsgeorgia",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.028984,
+                    49.281215
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-965",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "50956",
+                        "stop_desc": "E HASTINGS ST @ SKEENA ST",
+                        "stop_id": "965",
+                        "stop_lat": "49.281215",
+                        "stop_lon": "-123.028984",
+                        "stop_name": "WB E HASTINGS ST FS SKEENA ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "WB E HASTINGS ST FS SKEENA ST",
+            "onestopId": "s-c2b827m5bu-wbehastingsfsskeena",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1038,30 +1106,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.014164,
-                    49.272367
+                    -123.023842,
+                    49.263322
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2828",
+                    "identifier": "f-translink-s-1782",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "52799",
-                        "stop_desc": "GILMORE AVE @ KITCHENER ST",
-                        "stop_id": "2828",
-                        "stop_lat": "49.272367",
-                        "stop_lon": "-123.014164",
-                        "stop_name": "NB GILMORE AV FS KITCHENER ST",
+                        "stop_code": "51768",
+                        "stop_desc": "BOUNDARY RD @ HENNING DR",
+                        "stop_id": "1782",
+                        "stop_lat": "49.263322",
+                        "stop_lon": "-123.023842",
+                        "stop_name": "SB BOUNDARY RD FS HENNING DR",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN1/2"
                     }
                 }
             ],
-            "name": "NB GILMORE AV FS KITCHENER ST",
-            "onestopId": "s-c2b829zb64-nbgilmorefskitchener",
+            "name": "SB BOUNDARY RD FS HENNING DR",
+            "onestopId": "s-c2b8280g8s-sbboundaryfshenning",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1412,30 +1480,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.026407,
-                    49.281212
+                    -123.02636,
+                    49.2815
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-1482",
+                    "identifier": "f-translink-s-10415",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "51470",
-                        "stop_desc": "KOOTENAY LOOP @ BAY 6",
-                        "stop_id": "1482",
-                        "stop_lat": "49.281212",
-                        "stop_lon": "-123.026407",
-                        "stop_name": "KOOTENAY LOOP BAY 6",
+                        "stop_code": "58041",
+                        "stop_desc": "KOOTENAY LOOP @ BAY 1",
+                        "stop_id": "10415",
+                        "stop_lat": "49.2815",
+                        "stop_lon": "-123.02636",
+                        "stop_name": "KOOTENAY LOOP BAY 1",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "KOOTENAY LOOP BAY 6",
-            "onestopId": "s-c2b827qgug-kootenayloopbay6",
+            "name": "KOOTENAY LOOP BAY 1",
+            "onestopId": "s-c2b827qvw1-kootenayloopbay1",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1548,30 +1616,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.015179,
-                    49.264569
+                    -123.028313,
+                    49.30514
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8674",
+                    "identifier": "f-translink-s-4381",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58345",
-                        "stop_desc": "HENNING DR @ GILMORE AVE",
-                        "stop_id": "8674",
-                        "stop_lat": "49.264569",
-                        "stop_lon": "-123.015179",
-                        "stop_name": "WB HENNING DR FS GILMORE AV",
+                        "stop_code": "54333",
+                        "stop_desc": "PHIBBS EXCHANGE @ BAY 11",
+                        "stop_id": "4381",
+                        "stop_lat": "49.30514",
+                        "stop_lon": "-123.028313",
+                        "stop_name": "PHIBBS EXCHANGE BAY 11",
                         "stop_url": "",
-                        "zone_id": "ZN1/2"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB HENNING DR FS GILMORE AV",
-            "onestopId": "s-c2b828r4ft-wbhenningfsgilmore",
+            "name": "PHIBBS EXCHANGE BAY 11",
+            "onestopId": "s-c2b82rtx28-phibbsexchangebay11",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1616,6 +1684,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.014164,
+                    49.272367
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-2828",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "52799",
+                        "stop_desc": "GILMORE AVE @ KITCHENER ST",
+                        "stop_id": "2828",
+                        "stop_lat": "49.272367",
+                        "stop_lon": "-123.014164",
+                        "stop_name": "NB GILMORE AV FS KITCHENER ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB GILMORE AV FS KITCHENER ST",
+            "onestopId": "s-c2b829zb64-nbgilmorefskitchener",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.014113,
                     49.279523
                 ],
@@ -1640,6 +1742,40 @@
             ],
             "name": "NB GILMORE AV FS FRANCES ST",
             "onestopId": "s-c2b82epf52-nbgilmorefsfrances",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.014956,
+                    49.266207
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-8743",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58386",
+                        "stop_desc": "LOUGHEED HWY @ GILMORE AVE",
+                        "stop_id": "8743",
+                        "stop_lat": "49.266207",
+                        "stop_lon": "-123.014956",
+                        "stop_name": "WB LOUGHEED HWY FS GILMORE AV",
+                        "stop_url": "",
+                        "zone_id": "ZN1/2"
+                    }
+                }
+            ],
+            "name": "WB LOUGHEED HWY FS GILMORE AV",
+            "onestopId": "s-c2b828xhry-wblougheedfsgilmore",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1708,40 +1844,6 @@
             ],
             "name": "WB PENDER ST FS WILLINGDON AV",
             "onestopId": "s-c2b82gnvwq-wbpenderfswillingdon",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.028889,
-                    49.263328
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-909",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "50902",
-                        "stop_desc": "LOUGHEED HWY @ SKEENA ST",
-                        "stop_id": "909",
-                        "stop_lat": "49.263328",
-                        "stop_lon": "-123.028889",
-                        "stop_name": "WB LOUGHEED HWY FS SKEENA ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "WB LOUGHEED HWY FS SKEENA ST",
-            "onestopId": "s-c2b822j5ej-wblougheedfsskeena",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2364,6 +2466,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.028588,
+                    49.305475
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4163",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54119",
+                        "stop_desc": "PHIBBS EXCHANGE @ BAY 9",
+                        "stop_id": "4163",
+                        "stop_lat": "49.305475",
+                        "stop_lon": "-123.028588",
+                        "stop_name": "PHIBBS EXCHANGE BAY 9",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "PHIBBS EXCHANGE BAY 9",
+            "onestopId": "s-c2b82rv34n-phibbsexchangebay9",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.04414,
                     49.264174
                 ],
@@ -2568,40 +2704,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.018495,
-                    49.263861
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-8741",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58391",
-                        "stop_desc": "HENNING DR @ 3800 BLOCK",
-                        "stop_id": "8741",
-                        "stop_lat": "49.263861",
-                        "stop_lon": "-123.018495",
-                        "stop_name": "EB HENNING DR AT 3800 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN1/2"
-                    }
-                }
-            ],
-            "name": "EB HENNING DR AT 3800 BLOCK",
-            "onestopId": "s-c2b828hwv3-ebhenningat3800block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.014337,
                     49.273627
                 ],
@@ -2660,6 +2762,40 @@
             ],
             "name": "SB WILLINGDON AV NS PENDER ST",
             "onestopId": "s-c2b82gpy2u-sbwillingdonnspender",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.035464,
+                    49.281027
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-961",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "50953",
+                        "stop_desc": "E HASTINGS ST @ WINDERMERE ST",
+                        "stop_id": "961",
+                        "stop_lat": "49.281027",
+                        "stop_lon": "-123.035464",
+                        "stop_name": "EB E HASTINGS ST FS WINDERMERE ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "EB E HASTINGS ST FS WINDERMERE ST",
+            "onestopId": "s-c2b82726cc-ebehastingsfswindermere",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2874,30 +3010,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.044245,
-                    49.276141
+                    -123.033609,
+                    49.264088
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-1048",
+                    "identifier": "f-translink-s-1698",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "51039",
-                        "stop_desc": "RENFREW ST @ VENABLES ST",
-                        "stop_id": "1048",
-                        "stop_lat": "49.276141",
-                        "stop_lon": "-123.044245",
-                        "stop_name": "SB RENFREW ST FS VENABLES ST",
+                        "stop_code": "51684",
+                        "stop_desc": "RUPERT ST @ E 7 AVE",
+                        "stop_id": "1698",
+                        "stop_lat": "49.264088",
+                        "stop_lon": "-123.033609",
+                        "stop_name": "NB RUPERT ST FS E 7 AV",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "SB RENFREW ST FS VENABLES ST",
-            "onestopId": "s-c2b8243ym6-sbrenfrewfsvenables",
+            "name": "NB RUPERT ST FS E 7 AV",
+            "onestopId": "s-c2b82238j5-nbrupertfse7",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3350,30 +3486,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.028984,
-                    49.281215
+                    -123.029001,
+                    49.30564
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-965",
+                    "identifier": "f-translink-s-4067",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50956",
-                        "stop_desc": "E HASTINGS ST @ SKEENA ST",
-                        "stop_id": "965",
-                        "stop_lat": "49.281215",
-                        "stop_lon": "-123.028984",
-                        "stop_name": "WB E HASTINGS ST FS SKEENA ST",
+                        "stop_code": "54026",
+                        "stop_desc": "PHIBBS EXCHANGE @ BAY 4",
+                        "stop_id": "4067",
+                        "stop_lat": "49.30564",
+                        "stop_lon": "-123.029001",
+                        "stop_name": "PHIBBS EXCHANGE BAY 4",
                         "stop_url": "",
-                        "zone_id": "ZN 1"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB E HASTINGS ST FS SKEENA ST",
-            "onestopId": "s-c2b827m5bu-wbehastingsfsskeena",
+            "name": "PHIBBS EXCHANGE BAY 4",
+            "onestopId": "s-c2b82rv40m-phibbsexchangebay4",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3452,40 +3588,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.02636,
-                    49.2815
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-10415",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58041",
-                        "stop_desc": "KOOTENAY LOOP @ BAY 1",
-                        "stop_id": "10415",
-                        "stop_lat": "49.2815",
-                        "stop_lon": "-123.02636",
-                        "stop_name": "KOOTENAY LOOP BAY 1",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "KOOTENAY LOOP BAY 1",
-            "onestopId": "s-c2b827qvw1-kootenayloopbay1",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.033605,
                     49.265981
                 ],
@@ -3520,30 +3622,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.014956,
-                    49.266207
+                    -123.015179,
+                    49.264569
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8743",
+                    "identifier": "f-translink-s-8674",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58386",
-                        "stop_desc": "LOUGHEED HWY @ GILMORE AVE",
-                        "stop_id": "8743",
-                        "stop_lat": "49.266207",
-                        "stop_lon": "-123.014956",
-                        "stop_name": "WB LOUGHEED HWY FS GILMORE AV",
+                        "stop_code": "58345",
+                        "stop_desc": "HENNING DR @ GILMORE AVE",
+                        "stop_id": "8674",
+                        "stop_lat": "49.264569",
+                        "stop_lon": "-123.015179",
+                        "stop_name": "WB HENNING DR FS GILMORE AV",
                         "stop_url": "",
                         "zone_id": "ZN1/2"
                     }
                 }
             ],
-            "name": "WB LOUGHEED HWY FS GILMORE AV",
-            "onestopId": "s-c2b828xhry-wblougheedfsgilmore",
+            "name": "WB HENNING DR FS GILMORE AV",
+            "onestopId": "s-c2b828r4ft-wbhenningfsgilmore",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3962,74 +4064,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.028313,
-                    49.30514
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4381",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54333",
-                        "stop_desc": "PHIBBS EXCHANGE @ BAY 11",
-                        "stop_id": "4381",
-                        "stop_lat": "49.30514",
-                        "stop_lon": "-123.028313",
-                        "stop_name": "PHIBBS EXCHANGE BAY 11",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "PHIBBS EXCHANGE BAY 11",
-            "onestopId": "s-c2b82rtx28-phibbsexchangebay11",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.033609,
-                    49.264088
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-1698",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "51684",
-                        "stop_desc": "RUPERT ST @ E 7 AVE",
-                        "stop_id": "1698",
-                        "stop_lat": "49.264088",
-                        "stop_lon": "-123.033609",
-                        "stop_name": "NB RUPERT ST FS E 7 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "NB RUPERT ST FS E 7 AV",
-            "onestopId": "s-c2b82238j5-nbrupertfse7",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.003116,
                     49.271387
                 ],
@@ -4234,30 +4268,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.035464,
-                    49.281027
+                    -123.028889,
+                    49.263328
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-961",
+                    "identifier": "f-translink-s-909",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50953",
-                        "stop_desc": "E HASTINGS ST @ WINDERMERE ST",
-                        "stop_id": "961",
-                        "stop_lat": "49.281027",
-                        "stop_lon": "-123.035464",
-                        "stop_name": "EB E HASTINGS ST FS WINDERMERE ST",
+                        "stop_code": "50902",
+                        "stop_desc": "LOUGHEED HWY @ SKEENA ST",
+                        "stop_id": "909",
+                        "stop_lat": "49.263328",
+                        "stop_lon": "-123.028889",
+                        "stop_name": "WB LOUGHEED HWY FS SKEENA ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB E HASTINGS ST FS WINDERMERE ST",
-            "onestopId": "s-c2b82726cc-ebehastingsfswindermere",
+            "name": "WB LOUGHEED HWY FS SKEENA ST",
+            "onestopId": "s-c2b822j5ej-wblougheedfsskeena",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4438,6 +4472,74 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.026407,
+                    49.281212
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-1482",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "51470",
+                        "stop_desc": "KOOTENAY LOOP @ BAY 6",
+                        "stop_id": "1482",
+                        "stop_lat": "49.281212",
+                        "stop_lon": "-123.026407",
+                        "stop_name": "KOOTENAY LOOP BAY 6",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "KOOTENAY LOOP BAY 6",
+            "onestopId": "s-c2b827qgug-kootenayloopbay6",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.009657,
+                    49.281127
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-1478",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "51466",
+                        "stop_desc": "HASTINGS ST @ MADISON AVE",
+                        "stop_id": "1478",
+                        "stop_lat": "49.281127",
+                        "stop_lon": "-123.009657",
+                        "stop_name": "WB HASTINGS ST FS MADISON AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB HASTINGS ST FS MADISON AV",
+            "onestopId": "s-c2b82g7575-wbhastingsfsmadison",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.018134,
                     49.305282
                 ],
@@ -4506,40 +4608,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.023842,
-                    49.263322
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-1782",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "51768",
-                        "stop_desc": "BOUNDARY RD @ HENNING DR",
-                        "stop_id": "1782",
-                        "stop_lat": "49.263322",
-                        "stop_lon": "-123.023842",
-                        "stop_name": "SB BOUNDARY RD FS HENNING DR",
-                        "stop_url": "",
-                        "zone_id": "ZN1/2"
-                    }
-                }
-            ],
-            "name": "SB BOUNDARY RD FS HENNING DR",
-            "onestopId": "s-c2b8280g8s-sbboundaryfshenning",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.033883,
                     49.269052
                 ],
@@ -4598,40 +4666,6 @@
             ],
             "name": "SB BOUNDARY RD FS E PENDER ST",
             "onestopId": "s-c2b82e0u4r-sbboundaryfsepender",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.028862,
-                    49.305484
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-451",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "50447",
-                        "stop_desc": "PHIBBS EXCHANGE @ BAY 3",
-                        "stop_id": "451",
-                        "stop_lat": "49.305484",
-                        "stop_lon": "-123.028862",
-                        "stop_name": "PHIBBS EXCHANGE BAY 3",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "PHIBBS EXCHANGE BAY 3",
-            "onestopId": "s-c2b82rv178-phibbsexchangebay3",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5356,30 +5390,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.009657,
-                    49.281127
+                    -123.003374,
+                    49.267569
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-1478",
+                    "identifier": "f-translink-s-11878",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "51466",
-                        "stop_desc": "HASTINGS ST @ MADISON AVE",
-                        "stop_id": "1478",
-                        "stop_lat": "49.281127",
-                        "stop_lon": "-123.009657",
-                        "stop_name": "WB HASTINGS ST FS MADISON AV",
+                        "stop_code": "61806",
+                        "stop_desc": "BRENTWOOD STN @ BAY 6",
+                        "stop_id": "11878",
+                        "stop_lat": "49.267569",
+                        "stop_lon": "-123.003374",
+                        "stop_name": "BRENTWOOD STN BAY 6",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB HASTINGS ST FS MADISON AV",
-            "onestopId": "s-c2b82g7575-wbhastingsfsmadison",
+            "name": "BRENTWOOD STN BAY 6",
+            "onestopId": "s-c2b82bzsms-brentwoodstnbay6",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5730,30 +5764,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.029001,
-                    49.30564
+                    -123.028862,
+                    49.305484
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4067",
+                    "identifier": "f-translink-s-451",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54026",
-                        "stop_desc": "PHIBBS EXCHANGE @ BAY 4",
-                        "stop_id": "4067",
-                        "stop_lat": "49.30564",
-                        "stop_lon": "-123.029001",
-                        "stop_name": "PHIBBS EXCHANGE BAY 4",
+                        "stop_code": "50447",
+                        "stop_desc": "PHIBBS EXCHANGE @ BAY 3",
+                        "stop_id": "451",
+                        "stop_lat": "49.305484",
+                        "stop_lon": "-123.028862",
+                        "stop_name": "PHIBBS EXCHANGE BAY 3",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "PHIBBS EXCHANGE BAY 4",
-            "onestopId": "s-c2b82rv40m-phibbsexchangebay4",
+            "name": "PHIBBS EXCHANGE BAY 3",
+            "onestopId": "s-c2b82rv178-phibbsexchangebay3",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6002,64 +6036,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.028588,
-                    49.305475
+                    -123.018495,
+                    49.263861
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4163",
+                    "identifier": "f-translink-s-8741",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54119",
-                        "stop_desc": "PHIBBS EXCHANGE @ BAY 9",
-                        "stop_id": "4163",
-                        "stop_lat": "49.305475",
-                        "stop_lon": "-123.028588",
-                        "stop_name": "PHIBBS EXCHANGE BAY 9",
+                        "stop_code": "58391",
+                        "stop_desc": "HENNING DR @ 3800 BLOCK",
+                        "stop_id": "8741",
+                        "stop_lat": "49.263861",
+                        "stop_lon": "-123.018495",
+                        "stop_name": "EB HENNING DR AT 3800 BLOCK",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN1/2"
                     }
                 }
             ],
-            "name": "PHIBBS EXCHANGE BAY 9",
-            "onestopId": "s-c2b82rv34n-phibbsexchangebay9",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.003374,
-                    49.267569
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-11878",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61806",
-                        "stop_desc": "BRENTWOOD STN @ BAY 6",
-                        "stop_id": "11878",
-                        "stop_lat": "49.267569",
-                        "stop_lon": "-123.003374",
-                        "stop_name": "BRENTWOOD STN BAY 6",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "BRENTWOOD STN BAY 6",
-            "onestopId": "s-c2b82bzsms-brentwoodstnbay6",
+            "name": "EB HENNING DR AT 3800 BLOCK",
+            "onestopId": "s-c2b828hwv3-ebhenningat3800block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

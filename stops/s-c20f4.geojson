@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.593418,
-                    45.378217
+                    -122.583812,
+                    45.381391
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-136",
+                    "identifier": "f-trimet-s-140",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "136",
-                        "stop_desc": "Eastbound stop in Gladstone (Stop ID 136)",
-                        "stop_id": "136",
-                        "stop_lat": "45.378217",
-                        "stop_lon": "-122.593418",
-                        "stop_name": "W Arlington & Portland Ave",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=136",
+                        "stop_code": "140",
+                        "stop_desc": "Eastbound stop in Gladstone (Stop ID 140)",
+                        "stop_id": "140",
+                        "stop_lat": "45.381391",
+                        "stop_lon": "-122.583812",
+                        "stop_name": "E Arlington & 82nd Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=140",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Arlington & Portland Ave",
-            "onestopId": "s-c20f4kf5q2-warlington~portland",
+            "name": "E Arlington & 82nd Dr",
+            "onestopId": "s-c20f4t3jy0-earlington~82nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -291,42 +291,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.604285,
-                    45.360143
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10447",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "10447",
-                        "stop_desc": "Southbound stop in Oregon City (Stop ID 10447)",
-                        "stop_id": "10447",
-                        "stop_lat": "45.360143",
-                        "stop_lon": "-122.604285",
-                        "stop_name": "Oregon City Transit Center ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10447",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Oregon City Transit Center ",
-            "onestopId": "s-c20f41d3cp-oregoncitytransit",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.579727,
                     45.366128
                 ],
@@ -435,6 +399,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.57939,
+                    45.36643
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8441",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "8441",
+                        "stop_desc": "Westbound stop in Oregon City (Stop ID 8441)",
+                        "stop_id": "8441",
+                        "stop_lat": "45.36643",
+                        "stop_lon": "-122.57939",
+                        "stop_name": "S Holcomb & Front Ave",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8441",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "S Holcomb & Front Ave",
+            "onestopId": "s-c20f4dsqt5-sholcomb~front",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.575282,
                     45.368247
                 ],
@@ -471,32 +471,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.594257,
-                    45.393895
+                    -122.598181,
+                    45.384222
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4187",
+                    "identifier": "f-trimet-s-16",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4187",
-                        "stop_desc": "Westbound stop in Gladstone (Stop ID 4187)",
-                        "stop_id": "4187",
-                        "stop_lat": "45.393895",
-                        "stop_lon": "-122.594257",
-                        "stop_name": "Oatfield & Park Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4187",
+                        "position": "Farside",
+                        "stop_code": "16",
+                        "stop_desc": "Westbound stop in Gladstone (Stop ID 16)",
+                        "stop_id": "16",
+                        "stop_lat": "45.384222",
+                        "stop_lon": "-122.598181",
+                        "stop_name": "Abernethy & Portland Ave",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=16",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Oatfield & Park Way",
-            "onestopId": "s-c20f4r9wdg-oatfield~park",
+            "name": "Abernethy & Portland Ave",
+            "onestopId": "s-c20f4jywr2-abernethy~portland",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -831,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.57939,
-                    45.36643
+                    -122.604285,
+                    45.360143
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8441",
+                    "identifier": "f-trimet-s-10447",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "8441",
-                        "stop_desc": "Westbound stop in Oregon City (Stop ID 8441)",
-                        "stop_id": "8441",
-                        "stop_lat": "45.36643",
-                        "stop_lon": "-122.57939",
-                        "stop_name": "S Holcomb & Front Ave",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8441",
+                        "position": "At",
+                        "stop_code": "10447",
+                        "stop_desc": "Southbound stop in Oregon City (Stop ID 10447)",
+                        "stop_id": "10447",
+                        "stop_lat": "45.360143",
+                        "stop_lon": "-122.604285",
+                        "stop_name": "Oregon City Transit Center ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10447",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "S Holcomb & Front Ave",
-            "onestopId": "s-c20f4dsqt5-sholcomb~front",
+            "name": "Oregon City Transit Center ",
+            "onestopId": "s-c20f41d3cp-oregoncitytransit",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -965,42 +965,6 @@
             ],
             "name": "18000 Block Webster",
             "onestopId": "s-c20f4x1pjs-18000blockwebster",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.583812,
-                    45.381391
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-140",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "140",
-                        "stop_desc": "Eastbound stop in Gladstone (Stop ID 140)",
-                        "stop_id": "140",
-                        "stop_lat": "45.381391",
-                        "stop_lon": "-122.583812",
-                        "stop_name": "E Arlington & 82nd Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=140",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "E Arlington & 82nd Dr",
-            "onestopId": "s-c20f4t3jy0-earlington~82nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1551,42 +1515,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.60319,
-                    45.38472
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "10",
-                        "stop_desc": "Southbound stop in Gladstone (Stop ID 10)",
-                        "stop_id": "10",
-                        "stop_lat": "45.38472",
-                        "stop_lon": "-122.60319",
-                        "stop_name": "Abernethy & Barclay",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Abernethy & Barclay",
-            "onestopId": "s-c20f4n514t-abernethy~barclay",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.593564,
                     45.393474
                 ],
@@ -2019,6 +1947,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.593418,
+                    45.378217
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-136",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "136",
+                        "stop_desc": "Eastbound stop in Gladstone (Stop ID 136)",
+                        "stop_id": "136",
+                        "stop_lat": "45.378217",
+                        "stop_lon": "-122.593418",
+                        "stop_name": "W Arlington & Portland Ave",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=136",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "W Arlington & Portland Ave",
+            "onestopId": "s-c20f4kf5q2-warlington~portland",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.583288,
                     45.36445
                 ],
@@ -2379,32 +2343,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.585507,
-                    45.3883
+                    -122.596965,
+                    45.377061
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6206",
+                    "identifier": "f-trimet-s-123",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6206",
-                        "stop_desc": "Southbound stop in Gladstone (Stop ID 6206)",
-                        "stop_id": "6206",
-                        "stop_lat": "45.3883",
-                        "stop_lon": "-122.585507",
-                        "stop_name": "Webster & Oatfield",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6206",
+                        "stop_code": "123",
+                        "stop_desc": "Eastbound stop in Gladstone (Stop ID 123)",
+                        "stop_id": "123",
+                        "stop_lat": "45.377061",
+                        "stop_lon": "-122.596965",
+                        "stop_name": "W Arlington & Beatrice",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=123",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Webster & Oatfield",
-            "onestopId": "s-c20f4qxyn8-webster~oatfield",
+            "name": "W Arlington & Beatrice",
+            "onestopId": "s-c20f4hxse9-warlington~beatrice",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3171,6 +3135,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.59617,
+                    45.395034
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4182",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "4182",
+                        "stop_desc": "Westbound stop in Gladstone (Stop ID 4182)",
+                        "stop_id": "4182",
+                        "stop_lat": "45.395034",
+                        "stop_lon": "-122.59617",
+                        "stop_name": "Oatfield & Oakridge",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4182",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Oatfield & Oakridge",
+            "onestopId": "s-c20f4rbjnp-oatfield~oakridge",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.593539,
                     45.378495
                 ],
@@ -3243,32 +3243,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.598181,
-                    45.384222
+                    -122.594257,
+                    45.393895
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-16",
+                    "identifier": "f-trimet-s-4187",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "16",
-                        "stop_desc": "Westbound stop in Gladstone (Stop ID 16)",
-                        "stop_id": "16",
-                        "stop_lat": "45.384222",
-                        "stop_lon": "-122.598181",
-                        "stop_name": "Abernethy & Portland Ave",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=16",
+                        "position": "Nearside",
+                        "stop_code": "4187",
+                        "stop_desc": "Westbound stop in Gladstone (Stop ID 4187)",
+                        "stop_id": "4187",
+                        "stop_lat": "45.393895",
+                        "stop_lon": "-122.594257",
+                        "stop_name": "Oatfield & Park Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4187",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Abernethy & Portland Ave",
-            "onestopId": "s-c20f4jywr2-abernethy~portland",
+            "name": "Oatfield & Park Way",
+            "onestopId": "s-c20f4r9wdg-oatfield~park",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3279,32 +3279,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.596965,
-                    45.377061
+                    -122.585507,
+                    45.3883
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-123",
+                    "identifier": "f-trimet-s-6206",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "123",
-                        "stop_desc": "Eastbound stop in Gladstone (Stop ID 123)",
-                        "stop_id": "123",
-                        "stop_lat": "45.377061",
-                        "stop_lon": "-122.596965",
-                        "stop_name": "W Arlington & Beatrice",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=123",
+                        "stop_code": "6206",
+                        "stop_desc": "Southbound stop in Gladstone (Stop ID 6206)",
+                        "stop_id": "6206",
+                        "stop_lat": "45.3883",
+                        "stop_lon": "-122.585507",
+                        "stop_name": "Webster & Oatfield",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6206",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Arlington & Beatrice",
-            "onestopId": "s-c20f4hxse9-warlington~beatrice",
+            "name": "Webster & Oatfield",
+            "onestopId": "s-c20f4qxyn8-webster~oatfield",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4323,32 +4323,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.59617,
-                    45.395034
+                    -122.60319,
+                    45.38472
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4182",
+                    "identifier": "f-trimet-s-10",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4182",
-                        "stop_desc": "Westbound stop in Gladstone (Stop ID 4182)",
-                        "stop_id": "4182",
-                        "stop_lat": "45.395034",
-                        "stop_lon": "-122.59617",
-                        "stop_name": "Oatfield & Oakridge",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4182",
+                        "position": "Opposite",
+                        "stop_code": "10",
+                        "stop_desc": "Southbound stop in Gladstone (Stop ID 10)",
+                        "stop_id": "10",
+                        "stop_lat": "45.38472",
+                        "stop_lon": "-122.60319",
+                        "stop_name": "Abernethy & Barclay",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Oatfield & Oakridge",
-            "onestopId": "s-c20f4rbjnp-oatfield~oakridge",
+            "name": "Abernethy & Barclay",
+            "onestopId": "s-c20f4n514t-abernethy~barclay",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

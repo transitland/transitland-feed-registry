@@ -3,29 +3,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69198388,
-                    41.90294718
+                    -87.68412951,
+                    41.8907743
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2004",
+                    "identifier": "f-cta-s-791",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2004",
-                        "stop_desc": "Division & Rockwell, Eastbound, Southwest Corner",
-                        "stop_id": "2004",
-                        "stop_lat": "41.90294718",
-                        "stop_lon": "-87.69198388",
-                        "stop_name": "Division & Rockwell",
+                        "stop_code": "791",
+                        "stop_desc": "Grand & Oakley, Westbound, Northeast Corner",
+                        "stop_id": "791",
+                        "stop_lat": "41.8907743",
+                        "stop_lon": "-87.68412951",
+                        "stop_name": "Grand & Oakley",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & Rockwell",
-            "onestopId": "s-dp3wks0wke-division~rockwell",
+            "name": "Grand & Oakley",
+            "onestopId": "s-dp3wk9yr7w-grand~oakley",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -234,29 +234,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.711919,
-                    41.915597
+                    -87.70215669,
+                    41.90294545
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11153",
+                    "identifier": "f-cta-s-2074",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11153",
-                        "stop_desc": "Kimball & Cortland, Southbound, Northwest Corner",
-                        "stop_id": "11153",
-                        "stop_lat": "41.915597",
-                        "stop_lon": "-87.711919",
-                        "stop_name": "Kimball & Cortland",
+                        "stop_code": "2074",
+                        "stop_desc": "Division & Humboldt, Westbound, Northeast Corner",
+                        "stop_id": "2074",
+                        "stop_lat": "41.90294545",
+                        "stop_lon": "-87.70215669",
+                        "stop_name": "Division & Humboldt",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Kimball & Cortland",
-            "onestopId": "s-dp3wknd0h1-kimball~cortland",
+            "name": "Division & Humboldt",
+            "onestopId": "s-dp3wkk1nre-division~humboldt",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.7113416,
+                    41.89538343
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11246",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11246",
+                        "stop_desc": "Homan & Chicago, Northbound, Southeast Corner",
+                        "stop_id": "11246",
+                        "stop_lat": "41.89538343",
+                        "stop_lon": "-87.7113416",
+                        "stop_name": "Homan & Chicago",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Homan & Chicago",
+            "onestopId": "s-dp3wk4fd39-homan~chicago",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -399,29 +432,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68412951,
-                    41.8907743
+                    -87.69198388,
+                    41.90294718
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-791",
+                    "identifier": "f-cta-s-2004",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "791",
-                        "stop_desc": "Grand & Oakley, Westbound, Northeast Corner",
-                        "stop_id": "791",
-                        "stop_lat": "41.8907743",
-                        "stop_lon": "-87.68412951",
-                        "stop_name": "Grand & Oakley",
+                        "stop_code": "2004",
+                        "stop_desc": "Division & Rockwell, Eastbound, Southwest Corner",
+                        "stop_id": "2004",
+                        "stop_lat": "41.90294718",
+                        "stop_lon": "-87.69198388",
+                        "stop_name": "Division & Rockwell",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Oakley",
-            "onestopId": "s-dp3wk9yr7w-grand~oakley",
+            "name": "Division & Rockwell",
+            "onestopId": "s-dp3wks0wke-division~rockwell",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -696,39 +729,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.708722,
-                    41.880887
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-415",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "415",
-                        "stop_desc": "Madison & Spaulding, Eastbound, Southwest Corner",
-                        "stop_id": "415",
-                        "stop_lat": "41.880887",
-                        "stop_lon": "-87.708722",
-                        "stop_name": "Madison & Spaulding",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Madison & Spaulding",
-            "onestopId": "s-dp3wk0hmye-madison~spaulding",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.7012013,
                     41.88652149
                 ],
@@ -762,29 +762,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70602471,
-                    41.88087025
+                    -87.71110361,
+                    41.8873689
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3162",
+                    "identifier": "f-cta-s-11241",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3162",
-                        "stop_desc": "Kedzie & Madison, Northbound, Southeast Corner",
-                        "stop_id": "3162",
-                        "stop_lat": "41.88087025",
-                        "stop_lon": "-87.70602471",
-                        "stop_name": "Kedzie & Madison",
+                        "stop_code": "11241",
+                        "stop_desc": "Homan & Carroll, Northbound, Southeast Corner",
+                        "stop_id": "11241",
+                        "stop_lat": "41.8873689",
+                        "stop_lon": "-87.71110361",
+                        "stop_name": "Homan & Carroll",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Kedzie & Madison",
-            "onestopId": "s-dp3wk0nmv2-kedzie~madison",
+            "name": "Homan & Carroll",
+            "onestopId": "s-dp3wk16ex5-homan~carroll",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -828,29 +828,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69674311,
-                    41.90286058
+                    -87.70670517,
+                    41.89772636
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15014",
+                    "identifier": "f-cta-s-15568",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15014",
-                        "stop_desc": "Division & California, Eastbound, Southeast Corner",
-                        "stop_id": "15014",
-                        "stop_lat": "41.90286058",
-                        "stop_lon": "-87.69674311",
-                        "stop_name": "Division & California",
+                        "stop_code": "15568",
+                        "stop_desc": "Kedzie & Grand, Southbound, Southwest Corner",
+                        "stop_id": "15568",
+                        "stop_lat": "41.89772636",
+                        "stop_lon": "-87.70670517",
+                        "stop_name": "Kedzie & Grand",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & California",
-            "onestopId": "s-dp3wkkjjvg-division~california",
+            "name": "Kedzie & Grand",
+            "onestopId": "s-dp3wk5jzvw-kedzie~grand",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1158,29 +1158,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.7113416,
-                    41.89538343
+                    -87.711919,
+                    41.915597
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11246",
+                    "identifier": "f-cta-s-11153",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11246",
-                        "stop_desc": "Homan & Chicago, Northbound, Southeast Corner",
-                        "stop_id": "11246",
-                        "stop_lat": "41.89538343",
-                        "stop_lon": "-87.7113416",
-                        "stop_name": "Homan & Chicago",
+                        "stop_code": "11153",
+                        "stop_desc": "Kimball & Cortland, Southbound, Northwest Corner",
+                        "stop_id": "11153",
+                        "stop_lat": "41.915597",
+                        "stop_lon": "-87.711919",
+                        "stop_name": "Kimball & Cortland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Chicago",
-            "onestopId": "s-dp3wk4fd39-homan~chicago",
+            "name": "Kimball & Cortland",
+            "onestopId": "s-dp3wknd0h1-kimball~cortland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1198,20 +1198,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30208",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41070",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30208",
-                        "stop_lat": "41.884321",
-                        "stop_lon": "-87.706155",
-                        "stop_name": "Kedzie-Green",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30207",
                     "tags": {
                         "location_type": "0",
@@ -1219,6 +1205,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30207",
+                        "stop_lat": "41.884321",
+                        "stop_lon": "-87.706155",
+                        "stop_name": "Kedzie-Green",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30208",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41070",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30208",
                         "stop_lat": "41.884321",
                         "stop_lon": "-87.706155",
                         "stop_name": "Kedzie-Green",
@@ -1337,29 +1337,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69727664,
-                    41.92268777
+                    -87.71073049,
+                    41.88084064
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3192",
+                    "identifier": "f-cta-s-14764",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3192",
-                        "stop_desc": "California & Milwaukee, Northbound, Southeast Corner",
-                        "stop_id": "3192",
-                        "stop_lat": "41.92268777",
-                        "stop_lon": "-87.69727664",
-                        "stop_name": "California & Milwaukee",
+                        "stop_code": "14764",
+                        "stop_desc": "Madison & Homan, Eastbound, Southeast Corner",
+                        "stop_id": "14764",
+                        "stop_lat": "41.88084064",
+                        "stop_lon": "-87.71073049",
+                        "stop_name": "Madison & Homan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "California & Milwaukee",
-            "onestopId": "s-dp3wkruc37-california~milwaukee",
+            "name": "Madison & Homan",
+            "onestopId": "s-dp3wk04vxf-madison~homan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1469,29 +1469,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67133817,
-                    41.91599719
+                    -87.68953036,
+                    41.91036749
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4068",
+                    "identifier": "f-cta-s-950",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4068",
-                        "stop_desc": "Cortland & Hermitage, Eastbound, Southeast Corner",
-                        "stop_id": "4068",
-                        "stop_lat": "41.91599719",
-                        "stop_lon": "-87.67133817",
-                        "stop_name": "Cortland & Hermitage",
+                        "stop_code": "950",
+                        "stop_desc": "North Ave & Campbell, Westbound, Northeast Corner",
+                        "stop_id": "950",
+                        "stop_lat": "41.91036749",
+                        "stop_lon": "-87.68953036",
+                        "stop_name": "North Ave & Campbell",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cortland & Hermitage",
-            "onestopId": "s-dp3wkyxdmu-cortland~hermitage",
+            "name": "North Ave & Campbell",
+            "onestopId": "s-dp3wktd3tf-north~campbell",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1898,29 +1898,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71154689,
-                    41.90027454
+                    -87.67424663,
+                    41.88129674
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11161",
+                    "identifier": "f-cta-s-429",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11161",
-                        "stop_desc": "Homan & Grand, Southbound, Northwest Corner",
-                        "stop_id": "11161",
-                        "stop_lat": "41.90027454",
-                        "stop_lon": "-87.71154689",
-                        "stop_name": "Homan & Grand",
+                        "stop_code": "429",
+                        "stop_desc": "Madison & United Center (1900 W), Eastbound, Southside of the Street",
+                        "stop_id": "429",
+                        "stop_lat": "41.88129674",
+                        "stop_lon": "-87.67424663",
+                        "stop_name": "Madison & United Center (1900 W)",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Grand",
-            "onestopId": "s-dp3wk5dquc-homan~grand",
+            "name": "Madison & United Center (1900 W)",
+            "onestopId": "s-dp3wkbm81z-madison~united1900w",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1964,29 +1964,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69711126,
-                    41.90852113
+                    -87.69717068,
+                    41.9141084
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3015",
+                    "identifier": "f-cta-s-3012",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3015",
-                        "stop_desc": "California & Le Moyne, Southbound, Northwest Corner",
-                        "stop_id": "3015",
-                        "stop_lat": "41.90852113",
-                        "stop_lon": "-87.69711126",
-                        "stop_name": "California & Le Moyne",
+                        "stop_code": "3012",
+                        "stop_desc": "California & Bloomingdale, Southbound, Westside of the Street",
+                        "stop_id": "3012",
+                        "stop_lat": "41.9141084",
+                        "stop_lon": "-87.69717068",
+                        "stop_name": "California & Bloomingdale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "California & Le Moyne",
-            "onestopId": "s-dp3wkmhyv4-california~lemoyne",
+            "name": "California & Bloomingdale",
+            "onestopId": "s-dp3wkqhz7u-california~bloomingdale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2030,29 +2030,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71091,
-                    41.88082
+                    -87.69907004,
+                    41.89539181
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11236",
+                    "identifier": "f-cta-s-798",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11236",
-                        "stop_desc": "Homan & Madison, Northbound, Southeast Corner",
-                        "stop_id": "11236",
-                        "stop_lat": "41.88082",
-                        "stop_lon": "-87.71091",
-                        "stop_name": "Homan & Madison",
+                        "stop_code": "798",
+                        "stop_desc": "Grand & Chicago, Westbound, Northeast Corner",
+                        "stop_id": "798",
+                        "stop_lat": "41.89539181",
+                        "stop_lon": "-87.69907004",
+                        "stop_name": "Grand & Chicago",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Madison",
-            "onestopId": "s-dp3wk04v7w-homan~madison",
+            "name": "Grand & Chicago",
+            "onestopId": "s-dp3wk6g6re-grand~chicago",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2129,29 +2129,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68702917,
-                    41.9103899
+                    -87.71142,
+                    41.897239
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-949",
+                    "identifier": "f-cta-s-11247",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "949",
-                        "stop_desc": "North Ave & Western, Westbound, Northeast Corner",
-                        "stop_id": "949",
-                        "stop_lat": "41.9103899",
-                        "stop_lon": "-87.68702917",
-                        "stop_name": "North Ave & Western",
+                        "stop_code": "11247",
+                        "stop_desc": "Homan & Iowa, Northbound, Southeast Corner",
+                        "stop_id": "11247",
+                        "stop_lat": "41.897239",
+                        "stop_lon": "-87.71142",
+                        "stop_name": "Homan & Iowa",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Western",
-            "onestopId": "s-dp3wkts38n-north~western",
+            "name": "Homan & Iowa",
+            "onestopId": "s-dp3wk54mpg-homan~iowa",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2218,6 +2218,39 @@
             ],
             "name": "Kedzie & Ohio",
             "onestopId": "s-dp3wk4npme-kedzie~ohio",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.67186305,
+                    41.8813284
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-430",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "430",
+                        "stop_desc": "Madison & Wood, Eastbound, Southwest Corner",
+                        "stop_id": "430",
+                        "stop_lat": "41.8813284",
+                        "stop_lon": "-87.67186305",
+                        "stop_name": "Madison & Wood",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Madison & Wood",
+            "onestopId": "s-dp3wkbr23t-madison~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2565,20 +2598,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30266",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41360",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30266",
-                        "stop_lat": "41.88422",
-                        "stop_lon": "-87.696234",
-                        "stop_name": "California-Green",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30265",
                     "tags": {
                         "location_type": "0",
@@ -2586,6 +2605,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30265",
+                        "stop_lat": "41.88422",
+                        "stop_lon": "-87.696234",
+                        "stop_name": "California-Green",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30266",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41360",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30266",
                         "stop_lat": "41.88422",
                         "stop_lon": "-87.696234",
                         "stop_name": "California-Green",
@@ -3100,29 +3133,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.691763,
-                    41.892279
+                    -87.71204162,
+                    41.91728581
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-719",
+                    "identifier": "f-cta-s-4047",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "719",
-                        "stop_desc": "Grand & Rockwell, Eastbound, Southside of the Street",
-                        "stop_id": "719",
-                        "stop_lat": "41.892279",
-                        "stop_lon": "-87.691763",
-                        "stop_name": "Grand & Rockwell",
+                        "stop_code": "4047",
+                        "stop_desc": "Armitage & Kimball, Eastbound, Southwest Corner",
+                        "stop_id": "4047",
+                        "stop_lat": "41.91728581",
+                        "stop_lon": "-87.71204162",
+                        "stop_name": "Armitage & Kimball",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Rockwell",
-            "onestopId": "s-dp3wkd2b1y-grand~rockwell",
+            "name": "Armitage & Kimball",
+            "onestopId": "s-dp3wknf1ck-armitage~kimball",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3133,29 +3166,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68688161,
-                    41.89380051
+                    -87.70209784,
+                    41.89202429
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8226",
+                    "identifier": "f-cta-s-4220",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8226",
-                        "stop_desc": "Western & Huron, Southbound, Southwest Corner",
-                        "stop_id": "8226",
-                        "stop_lat": "41.89380051",
-                        "stop_lon": "-87.68688161",
-                        "stop_name": "Western & Huron",
+                        "stop_code": "4220",
+                        "stop_desc": "Sacrmnto & Ohio, Southbound, Northwest Corner",
+                        "stop_id": "4220",
+                        "stop_lat": "41.89202429",
+                        "stop_lon": "-87.70209784",
+                        "stop_name": "Sacrmnto & Ohio",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Western & Huron",
-            "onestopId": "s-dp3wkds35d-western~huron",
+            "name": "Sacrmnto & Ohio",
+            "onestopId": "s-dp3wk61q9p-sacrmnto~ohio",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3166,29 +3199,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68236737,
-                    41.91772165
+                    -87.69600765,
+                    41.88100858
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4103",
+                    "identifier": "f-cta-s-420",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4103",
-                        "stop_desc": "Armitage & Leavitt, Westbound, Northeast Corner",
-                        "stop_id": "4103",
-                        "stop_lat": "41.91772165",
-                        "stop_lon": "-87.68236737",
-                        "stop_name": "Armitage & Leavitt",
+                        "stop_code": "420",
+                        "stop_desc": "Madison & California, Eastbound, Southeast Corner",
+                        "stop_id": "420",
+                        "stop_lat": "41.88100858",
+                        "stop_lon": "-87.69600765",
+                        "stop_name": "Madison & California",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Armitage & Leavitt",
-            "onestopId": "s-dp3wkwzskv-armitage~leavitt",
+            "name": "Madison & California",
+            "onestopId": "s-dp3wk2jwwc-madison~california",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3331,29 +3364,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.677658,
-                    41.916312
+                    -87.71159335,
+                    41.90284678
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8845",
+                    "identifier": "f-cta-s-2077",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8845",
-                        "stop_desc": "Damen & Cortland, Southbound, Northwest Corner",
-                        "stop_id": "8845",
-                        "stop_lat": "41.916312",
-                        "stop_lon": "-87.677658",
-                        "stop_name": "Damen & Cortland",
+                        "stop_code": "2077",
+                        "stop_desc": "Division & Homan, Westbound, Northeast Corner",
+                        "stop_id": "2077",
+                        "stop_lat": "41.90284678",
+                        "stop_lon": "-87.71159335",
+                        "stop_name": "Division & Homan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Damen & Cortland",
-            "onestopId": "s-dp3wkyeh4q-damen~cortland",
+            "name": "Division & Homan",
+            "onestopId": "s-dp3wkh4mg8-division~homan",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.692892,
+                    41.892725
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-718",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "718",
+                        "stop_desc": "Grand & Talman, Eastbound, Southside of the Street",
+                        "stop_id": "718",
+                        "stop_lat": "41.892725",
+                        "stop_lon": "-87.692892",
+                        "stop_name": "Grand & Talman",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Grand & Talman",
+            "onestopId": "s-dp3wk6rfz9-grand~talman",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3661,29 +3727,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71204162,
-                    41.91728581
+                    -87.67949289,
+                    41.90328215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4047",
+                    "identifier": "f-cta-s-2064",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4047",
-                        "stop_desc": "Armitage & Kimball, Eastbound, Southwest Corner",
-                        "stop_id": "4047",
-                        "stop_lat": "41.91728581",
-                        "stop_lon": "-87.71204162",
-                        "stop_name": "Armitage & Kimball",
+                        "stop_code": "2064",
+                        "stop_desc": "Division & Hoyne, Westbound, Northeast Corner",
+                        "stop_id": "2064",
+                        "stop_lat": "41.90328215",
+                        "stop_lon": "-87.67949289",
+                        "stop_name": "Division & Hoyne",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Armitage & Kimball",
-            "onestopId": "s-dp3wknf1ck-armitage~kimball",
+            "name": "Division & Hoyne",
+            "onestopId": "s-dp3wku38r9-division~hoyne",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4189,29 +4255,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71110361,
-                    41.8873689
+                    -87.70602471,
+                    41.88087025
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11241",
+                    "identifier": "f-cta-s-3162",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11241",
-                        "stop_desc": "Homan & Carroll, Northbound, Southeast Corner",
-                        "stop_id": "11241",
-                        "stop_lat": "41.8873689",
-                        "stop_lon": "-87.71110361",
-                        "stop_name": "Homan & Carroll",
+                        "stop_code": "3162",
+                        "stop_desc": "Kedzie & Madison, Northbound, Southeast Corner",
+                        "stop_id": "3162",
+                        "stop_lat": "41.88087025",
+                        "stop_lon": "-87.70602471",
+                        "stop_name": "Kedzie & Madison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Carroll",
-            "onestopId": "s-dp3wk16ex5-homan~carroll",
+            "name": "Kedzie & Madison",
+            "onestopId": "s-dp3wk0nmv2-kedzie~madison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4354,29 +4420,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68178907,
-                    41.89069201
+                    -87.709452,
+                    41.902754
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-723",
+                    "identifier": "f-cta-s-1997",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "723",
-                        "stop_desc": "Grand & Leavitt, Eastbound, Southwest Corner",
-                        "stop_id": "723",
-                        "stop_lat": "41.89069201",
-                        "stop_lon": "-87.68178907",
-                        "stop_name": "Grand & Leavitt",
+                        "stop_code": "1997",
+                        "stop_desc": "Division & Spaulding, Eastbound, Southwest Corner",
+                        "stop_id": "1997",
+                        "stop_lat": "41.902754",
+                        "stop_lon": "-87.709452",
+                        "stop_name": "Division & Spaulding",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Leavitt",
-            "onestopId": "s-dp3wkcbnfn-grand~leavitt",
+            "name": "Division & Spaulding",
+            "onestopId": "s-dp3wkh5vjx-division~spaulding",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4816,29 +4882,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70670517,
-                    41.89772636
+                    -87.69674311,
+                    41.90286058
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15568",
+                    "identifier": "f-cta-s-15014",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15568",
-                        "stop_desc": "Kedzie & Grand, Southbound, Southwest Corner",
-                        "stop_id": "15568",
-                        "stop_lat": "41.89772636",
-                        "stop_lon": "-87.70670517",
-                        "stop_name": "Kedzie & Grand",
+                        "stop_code": "15014",
+                        "stop_desc": "Division & California, Eastbound, Southeast Corner",
+                        "stop_id": "15014",
+                        "stop_lat": "41.90286058",
+                        "stop_lon": "-87.69674311",
+                        "stop_name": "Division & California",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Kedzie & Grand",
-            "onestopId": "s-dp3wk5jzvw-kedzie~grand",
+            "name": "Division & California",
+            "onestopId": "s-dp3wkkjjvg-division~california",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4905,39 +4971,6 @@
             ],
             "name": "Western & Iowa",
             "onestopId": "s-dp3wkehm8j-western~iowa",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.69468616,
-                    41.91757364
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-4109",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4109",
-                        "stop_desc": "Armitage & Washtenaw, Westbound, Northside of the Street",
-                        "stop_id": "4109",
-                        "stop_lat": "41.91757364",
-                        "stop_lon": "-87.69468616",
-                        "stop_name": "Armitage & Washtenaw",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Armitage & Washtenaw",
-            "onestopId": "s-dp3wkqyetd-armitage~washtenaw",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5575,29 +5608,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70119863,
-                    41.88640712
+                    -87.706631,
+                    41.895366
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4223",
+                    "identifier": "f-cta-s-3024",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4223",
-                        "stop_desc": "Fulton & Sacramento, Eastbound, Southeast Corner",
-                        "stop_id": "4223",
-                        "stop_lat": "41.88640712",
-                        "stop_lon": "-87.70119863",
-                        "stop_name": "Fulton & Sacramento",
+                        "stop_code": "3024",
+                        "stop_desc": "Kedzie & Chicago, Southbound, Southwest Corner",
+                        "stop_id": "3024",
+                        "stop_lat": "41.895366",
+                        "stop_lon": "-87.706631",
+                        "stop_name": "Kedzie & Chicago",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Fulton & Sacramento",
-            "onestopId": "s-dp3wk31yjb-fulton~sacramento",
+            "name": "Kedzie & Chicago",
+            "onestopId": "s-dp3wk4vfpq-kedzie~chicago",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5938,29 +5971,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.706631,
-                    41.895366
+                    -87.70119863,
+                    41.88640712
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3024",
+                    "identifier": "f-cta-s-4223",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3024",
-                        "stop_desc": "Kedzie & Chicago, Southbound, Southwest Corner",
-                        "stop_id": "3024",
-                        "stop_lat": "41.895366",
-                        "stop_lon": "-87.706631",
-                        "stop_name": "Kedzie & Chicago",
+                        "stop_code": "4223",
+                        "stop_desc": "Fulton & Sacramento, Eastbound, Southeast Corner",
+                        "stop_id": "4223",
+                        "stop_lat": "41.88640712",
+                        "stop_lon": "-87.70119863",
+                        "stop_name": "Fulton & Sacramento",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Kedzie & Chicago",
-            "onestopId": "s-dp3wk4vfpq-kedzie~chicago",
+            "name": "Fulton & Sacramento",
+            "onestopId": "s-dp3wk31yjb-fulton~sacramento",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5978,20 +6011,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30111",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40570",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30111",
-                        "stop_lat": "41.921939",
-                        "stop_lon": "-87.69689",
-                        "stop_name": "California-O'Hare",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30112",
                     "tags": {
                         "location_type": "0",
@@ -5999,6 +6018,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30112",
+                        "stop_lat": "41.921939",
+                        "stop_lon": "-87.69689",
+                        "stop_name": "California-O'Hare",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30111",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40570",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30111",
                         "stop_lat": "41.921939",
                         "stop_lon": "-87.69689",
                         "stop_name": "California-O'Hare",
@@ -6084,29 +6117,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67285792,
-                    41.91777718
+                    -87.67192275,
+                    41.88146205
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4066",
+                    "identifier": "f-cta-s-15090",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4066",
-                        "stop_desc": "Armitage & Wood, Eastbound, Southwest Corner",
-                        "stop_id": "4066",
-                        "stop_lat": "41.91777718",
-                        "stop_lon": "-87.67285792",
-                        "stop_name": "Armitage & Wood",
+                        "stop_code": "15090",
+                        "stop_desc": "Madison & Wood, Westbound, Northwest Corner",
+                        "stop_id": "15090",
+                        "stop_lat": "41.88146205",
+                        "stop_lon": "-87.67192275",
+                        "stop_name": "Madison & Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Armitage & Wood",
-            "onestopId": "s-dp3wkyysf2-armitage~wood",
+            "name": "Madison & Wood",
+            "onestopId": "s-dp3wkbr30n-madison~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6150,6 +6183,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.69356962,
+                    41.92072237
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-5552",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "5552",
+                        "stop_desc": "Milwaukee & Talman, Northwestbound, Southeast Corner",
+                        "stop_id": "5552",
+                        "stop_lat": "41.92072237",
+                        "stop_lon": "-87.69356962",
+                        "stop_name": "Milwaukee & Talman",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Milwaukee & Talman",
+            "onestopId": "s-dp3wkrrmzt-milwaukee~talman",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.70248018,
                     41.9027994
                 ],
@@ -6183,29 +6249,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.7017202,
-                    41.89645974
+                    -87.6728055,
+                    41.90748086
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-799",
+                    "identifier": "f-cta-s-15845",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "799",
-                        "stop_desc": "Grand & Sacramento, Westbound, Northeast Corner",
-                        "stop_id": "799",
-                        "stop_lat": "41.89645974",
-                        "stop_lon": "-87.7017202",
-                        "stop_name": "Grand & Sacramento",
+                        "stop_code": "15845",
+                        "stop_desc": "Milwaukee & Wolcott/Wood, Northwestbound, Northeast Corner",
+                        "stop_id": "15845",
+                        "stop_lat": "41.90748086",
+                        "stop_lon": "-87.6728055",
+                        "stop_name": "Milwaukee & Wolcott/Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Sacramento",
-            "onestopId": "s-dp3wk7189f-grand~sacramento",
+            "name": "Milwaukee & Wolcott/Wood",
+            "onestopId": "s-dp3wkvn8g8-milwaukee~wolcott~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6282,29 +6348,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68659653,
-                    41.88219259
+                    -87.69419,
+                    41.902995
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8233",
+                    "identifier": "f-cta-s-2070",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8233",
-                        "stop_desc": "Western & Warren, Southbound, Northwest Corner",
-                        "stop_id": "8233",
-                        "stop_lat": "41.88219259",
-                        "stop_lon": "-87.68659653",
-                        "stop_name": "Western & Warren",
+                        "stop_code": "2070",
+                        "stop_desc": "Division & Washtenaw, Westbound, Northeast Corner",
+                        "stop_id": "2070",
+                        "stop_lat": "41.902995",
+                        "stop_lon": "-87.69419",
+                        "stop_name": "Division & Washtenaw",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Western & Warren",
-            "onestopId": "s-dp3wk8kt6n-western~warren",
+            "name": "Division & Washtenaw",
+            "onestopId": "s-dp3wkkpn9k-division~washtenaw",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6315,29 +6381,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67184869,
-                    41.89592031
+                    -87.706572,
+                    41.893798
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15205",
+                    "identifier": "f-cta-s-3025",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15205",
-                        "stop_desc": "Chicago & Wood, Eastbound, Southeast Corner",
-                        "stop_id": "15205",
-                        "stop_lat": "41.89592031",
-                        "stop_lon": "-87.67184869",
-                        "stop_name": "Chicago & Wood",
+                        "stop_code": "3025",
+                        "stop_desc": "Kedzie & Huron, Southbound, Northwest Corner",
+                        "stop_id": "3025",
+                        "stop_lat": "41.893798",
+                        "stop_lon": "-87.706572",
+                        "stop_name": "Kedzie & Huron",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Chicago & Wood",
-            "onestopId": "s-dp3wkfzm3v-chicago~wood",
+            "name": "Kedzie & Huron",
+            "onestopId": "s-dp3wk4w109-kedzie~huron",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6381,29 +6447,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71099775,
-                    41.88348535
+                    -87.70475033,
+                    41.91003426
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14089",
+                    "identifier": "f-cta-s-887",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14089",
-                        "stop_desc": "Homan & Maypole, Northbound, Southeast Corner",
-                        "stop_id": "14089",
-                        "stop_lat": "41.88348535",
-                        "stop_lon": "-87.71099775",
-                        "stop_name": "Homan & Maypole",
+                        "stop_code": "887",
+                        "stop_desc": "North Ave & Albany, Eastbound, Southwest Corner",
+                        "stop_id": "887",
+                        "stop_lat": "41.91003426",
+                        "stop_lon": "-87.70475033",
+                        "stop_name": "North Ave & Albany",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Maypole",
-            "onestopId": "s-dp3wk0ducx-homan~maypole",
+            "name": "North Ave & Albany",
+            "onestopId": "s-dp3wkjrreh-north~albany",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6414,29 +6480,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67959733,
-                    41.89578741
+                    -87.68719814,
+                    41.91676642
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-551",
+                    "identifier": "f-cta-s-5547",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "551",
-                        "stop_desc": "Chicago & Hoyne, Eastbound, Southwest Corner",
-                        "stop_id": "551",
-                        "stop_lat": "41.89578741",
-                        "stop_lon": "-87.67959733",
-                        "stop_name": "Chicago & Hoyne",
+                        "stop_code": "5547",
+                        "stop_desc": "Milwaukee & Western, Northwestbound, Southeast Corner",
+                        "stop_id": "5547",
+                        "stop_lat": "41.91676642",
+                        "stop_lon": "-87.68719814",
+                        "stop_name": "Milwaukee & Western",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Chicago & Hoyne",
-            "onestopId": "s-dp3wkfcstk-chicago~hoyne",
+            "name": "Milwaukee & Western",
+            "onestopId": "s-dp3wkwsnu5-milwaukee~western",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6513,29 +6579,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67733626,
-                    41.91037029
+                    -87.68728053,
+                    41.91746248
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5543",
+                    "identifier": "f-cta-s-8400",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5543",
-                        "stop_desc": "Milwaukee & North Ave/Damen, Northwestbound, Southeast Corner",
-                        "stop_id": "5543",
-                        "stop_lat": "41.91037029",
-                        "stop_lon": "-87.67733626",
-                        "stop_name": "Milwaukee & North Ave/Damen",
+                        "stop_code": "8400",
+                        "stop_desc": "Western & Armitage, Northbound, Southeast Corner",
+                        "stop_id": "8400",
+                        "stop_lat": "41.91746248",
+                        "stop_lon": "-87.68728053",
+                        "stop_name": "Western & Armitage",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Milwaukee & North Ave/Damen",
-            "onestopId": "s-dp3wkve39g-milwaukee~north~damen",
+            "name": "Western & Armitage",
+            "onestopId": "s-dp3wkwu4fm-western~armitage",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6711,6 +6777,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.7017202,
+                    41.89645974
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-799",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "799",
+                        "stop_desc": "Grand & Sacramento, Westbound, Northeast Corner",
+                        "stop_id": "799",
+                        "stop_lat": "41.89645974",
+                        "stop_lon": "-87.7017202",
+                        "stop_name": "Grand & Sacramento",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Grand & Sacramento",
+            "onestopId": "s-dp3wk7189f-grand~sacramento",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.676904,
                     41.894021
                 ],
@@ -6777,62 +6876,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.7095756,
-                    41.90998056
+                    -87.6884902,
+                    41.91762857
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-885",
+                    "identifier": "f-cta-s-4106",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "885",
-                        "stop_desc": "North Ave & Spaulding, Eastbound, Southwest Corner",
-                        "stop_id": "885",
-                        "stop_lat": "41.90998056",
-                        "stop_lon": "-87.7095756",
-                        "stop_name": "North Ave & Spaulding",
+                        "stop_code": "4106",
+                        "stop_desc": "Armitage & Milwaukee, Westbound, Northeast Corner",
+                        "stop_id": "4106",
+                        "stop_lat": "41.91762857",
+                        "stop_lon": "-87.6884902",
+                        "stop_name": "Armitage & Milwaukee",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Spaulding",
-            "onestopId": "s-dp3wkj7z6f-north~spaulding",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.67749927,
-                    41.91587564
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-8932",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "8932",
-                        "stop_desc": "Damen & Cortland, Northbound, Southeast Corner",
-                        "stop_id": "8932",
-                        "stop_lat": "41.91587564",
-                        "stop_lon": "-87.67749927",
-                        "stop_name": "Damen & Cortland",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Damen & Cortland",
-            "onestopId": "s-dp3wkye1wj-damen~cortland",
+            "name": "Armitage & Milwaukee",
+            "onestopId": "s-dp3wkwg5yh-armitage~milwaukee",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6942,29 +7008,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.711862,
-                    41.913417
+                    -87.700674,
+                    41.902832
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11154",
+                    "identifier": "f-cta-s-2000",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11154",
-                        "stop_desc": "Kimball & Bloomingdale, Southbound, Southwest Corner",
-                        "stop_id": "11154",
-                        "stop_lat": "41.913417",
-                        "stop_lon": "-87.711862",
-                        "stop_name": "Kimball & Bloomingdale",
+                        "stop_code": "2000",
+                        "stop_desc": "Division & Richmond, Eastbound, Southwest Corner",
+                        "stop_id": "2000",
+                        "stop_lat": "41.902832",
+                        "stop_lon": "-87.700674",
+                        "stop_name": "Division & Richmond",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Kimball & Bloomingdale",
-            "onestopId": "s-dp3wkn45m7-kimball~bloomingdale",
+            "name": "Division & Richmond",
+            "onestopId": "s-dp3wkk4mdn-division~richmond",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6975,29 +7041,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68735325,
-                    41.91978679
+                    -87.69890875,
+                    41.91030323
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8401",
+                    "identifier": "f-cta-s-954",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8401",
-                        "stop_desc": "Western & Charleston, Northbound, Southeast Corner",
-                        "stop_id": "8401",
-                        "stop_lat": "41.91978679",
-                        "stop_lon": "-87.68735325",
-                        "stop_name": "Western & Charleston",
+                        "stop_code": "954",
+                        "stop_desc": "North Ave & Francisco, Westbound, Northeast Corner",
+                        "stop_id": "954",
+                        "stop_lat": "41.91030323",
+                        "stop_lon": "-87.69890875",
+                        "stop_name": "North Ave & Francisco",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Western & Charleston",
-            "onestopId": "s-dp3wkxk02w-western~charleston",
+            "name": "North Ave & Francisco",
+            "onestopId": "s-dp3wkme95q-north~francisco",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7437,29 +7503,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71159335,
-                    41.90284678
+                    -87.68659653,
+                    41.88219259
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2077",
+                    "identifier": "f-cta-s-8233",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2077",
-                        "stop_desc": "Division & Homan, Westbound, Northeast Corner",
-                        "stop_id": "2077",
-                        "stop_lat": "41.90284678",
-                        "stop_lon": "-87.71159335",
-                        "stop_name": "Division & Homan",
+                        "stop_code": "8233",
+                        "stop_desc": "Western & Warren, Southbound, Northwest Corner",
+                        "stop_id": "8233",
+                        "stop_lat": "41.88219259",
+                        "stop_lon": "-87.68659653",
+                        "stop_name": "Western & Warren",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & Homan",
-            "onestopId": "s-dp3wkh4mg8-division~homan",
+            "name": "Western & Warren",
+            "onestopId": "s-dp3wk8kt6n-western~warren",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7503,29 +7569,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69727933,
-                    41.91759312
+                    -87.694048,
+                    41.88103245
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3010",
+                    "identifier": "f-cta-s-421",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3010",
-                        "stop_desc": "California & Armitage, Southbound, Northwest Corner",
-                        "stop_id": "3010",
-                        "stop_lat": "41.91759312",
-                        "stop_lon": "-87.69727933",
-                        "stop_name": "California & Armitage",
+                        "stop_code": "421",
+                        "stop_desc": "Madison & Washtenaw, Eastbound, Southwest Corner",
+                        "stop_id": "421",
+                        "stop_lat": "41.88103245",
+                        "stop_lon": "-87.694048",
+                        "stop_name": "Madison & Washtenaw",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "California & Armitage",
-            "onestopId": "s-dp3wkqug9m-california~armitage",
+            "name": "Madison & Washtenaw",
+            "onestopId": "s-dp3wk2pnsw-madison~washtenaw",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7767,29 +7833,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.706572,
-                    41.893798
+                    -87.67184869,
+                    41.89592031
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3025",
+                    "identifier": "f-cta-s-15205",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3025",
-                        "stop_desc": "Kedzie & Huron, Southbound, Northwest Corner",
-                        "stop_id": "3025",
-                        "stop_lat": "41.893798",
-                        "stop_lon": "-87.706572",
-                        "stop_name": "Kedzie & Huron",
+                        "stop_code": "15205",
+                        "stop_desc": "Chicago & Wood, Eastbound, Southeast Corner",
+                        "stop_id": "15205",
+                        "stop_lat": "41.89592031",
+                        "stop_lon": "-87.67184869",
+                        "stop_name": "Chicago & Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Kedzie & Huron",
-            "onestopId": "s-dp3wk4w109-kedzie~huron",
+            "name": "Chicago & Wood",
+            "onestopId": "s-dp3wkfzm3v-chicago~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7866,29 +7932,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68953036,
-                    41.91036749
+                    -87.67133817,
+                    41.91599719
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-950",
+                    "identifier": "f-cta-s-4068",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "950",
-                        "stop_desc": "North Ave & Campbell, Westbound, Northeast Corner",
-                        "stop_id": "950",
-                        "stop_lat": "41.91036749",
-                        "stop_lon": "-87.68953036",
-                        "stop_name": "North Ave & Campbell",
+                        "stop_code": "4068",
+                        "stop_desc": "Cortland & Hermitage, Eastbound, Southeast Corner",
+                        "stop_id": "4068",
+                        "stop_lat": "41.91599719",
+                        "stop_lon": "-87.67133817",
+                        "stop_name": "Cortland & Hermitage",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Campbell",
-            "onestopId": "s-dp3wktd3tf-north~campbell",
+            "name": "Cortland & Hermitage",
+            "onestopId": "s-dp3wkyxdmu-cortland~hermitage",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7899,29 +7965,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68719814,
-                    41.91676642
+                    -87.67959733,
+                    41.89578741
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5547",
+                    "identifier": "f-cta-s-551",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5547",
-                        "stop_desc": "Milwaukee & Western, Northwestbound, Southeast Corner",
-                        "stop_id": "5547",
-                        "stop_lat": "41.91676642",
-                        "stop_lon": "-87.68719814",
-                        "stop_name": "Milwaukee & Western",
+                        "stop_code": "551",
+                        "stop_desc": "Chicago & Hoyne, Eastbound, Southwest Corner",
+                        "stop_id": "551",
+                        "stop_lat": "41.89578741",
+                        "stop_lon": "-87.67959733",
+                        "stop_name": "Chicago & Hoyne",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Milwaukee & Western",
-            "onestopId": "s-dp3wkwsnu5-milwaukee~western",
+            "name": "Chicago & Hoyne",
+            "onestopId": "s-dp3wkfcstk-chicago~hoyne",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7932,29 +7998,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67186305,
-                    41.8813284
+                    -87.69416606,
+                    41.88116532
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-430",
+                    "identifier": "f-cta-s-17597",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "430",
-                        "stop_desc": "Madison & Wood, Eastbound, Southwest Corner",
-                        "stop_id": "430",
-                        "stop_lat": "41.8813284",
-                        "stop_lon": "-87.67186305",
-                        "stop_name": "Madison & Wood",
+                        "stop_code": "17597",
+                        "stop_desc": "Madison & Washtenaw, Westbound, Northwest Corner",
+                        "stop_id": "17597",
+                        "stop_lat": "41.88116532",
+                        "stop_lon": "-87.69416606",
+                        "stop_name": "Madison & Washtenaw",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Wood",
-            "onestopId": "s-dp3wkbr23t-madison~wood",
+            "name": "Madison & Washtenaw",
+            "onestopId": "s-dp3wk2pp3z-madison~washtenaw",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8097,29 +8163,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.692892,
-                    41.892725
+                    -87.68236737,
+                    41.91772165
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-718",
+                    "identifier": "f-cta-s-4103",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "718",
-                        "stop_desc": "Grand & Talman, Eastbound, Southside of the Street",
-                        "stop_id": "718",
-                        "stop_lat": "41.892725",
-                        "stop_lon": "-87.692892",
-                        "stop_name": "Grand & Talman",
+                        "stop_code": "4103",
+                        "stop_desc": "Armitage & Leavitt, Westbound, Northeast Corner",
+                        "stop_id": "4103",
+                        "stop_lat": "41.91772165",
+                        "stop_lon": "-87.68236737",
+                        "stop_name": "Armitage & Leavitt",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Talman",
-            "onestopId": "s-dp3wk6rfz9-grand~talman",
+            "name": "Armitage & Leavitt",
+            "onestopId": "s-dp3wkwzskv-armitage~leavitt",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8757,29 +8823,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68728053,
-                    41.91746248
+                    -87.67733626,
+                    41.91037029
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8400",
+                    "identifier": "f-cta-s-5543",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8400",
-                        "stop_desc": "Western & Armitage, Northbound, Southeast Corner",
-                        "stop_id": "8400",
-                        "stop_lat": "41.91746248",
-                        "stop_lon": "-87.68728053",
-                        "stop_name": "Western & Armitage",
+                        "stop_code": "5543",
+                        "stop_desc": "Milwaukee & North Ave/Damen, Northwestbound, Southeast Corner",
+                        "stop_id": "5543",
+                        "stop_lat": "41.91037029",
+                        "stop_lon": "-87.67733626",
+                        "stop_name": "Milwaukee & North Ave/Damen",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Western & Armitage",
-            "onestopId": "s-dp3wkwu4fm-western~armitage",
+            "name": "Milwaukee & North Ave/Damen",
+            "onestopId": "s-dp3wkve39g-milwaukee~north~damen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9054,29 +9120,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71073049,
-                    41.88084064
+                    -87.67285792,
+                    41.91777718
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14764",
+                    "identifier": "f-cta-s-4066",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14764",
-                        "stop_desc": "Madison & Homan, Eastbound, Southeast Corner",
-                        "stop_id": "14764",
-                        "stop_lat": "41.88084064",
-                        "stop_lon": "-87.71073049",
-                        "stop_name": "Madison & Homan",
+                        "stop_code": "4066",
+                        "stop_desc": "Armitage & Wood, Eastbound, Southwest Corner",
+                        "stop_id": "4066",
+                        "stop_lat": "41.91777718",
+                        "stop_lon": "-87.67285792",
+                        "stop_name": "Armitage & Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Homan",
-            "onestopId": "s-dp3wk04vxf-madison~homan",
+            "name": "Armitage & Wood",
+            "onestopId": "s-dp3wkyysf2-armitage~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9431,6 +9497,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.68178907,
+                    41.89069201
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-723",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "723",
+                        "stop_desc": "Grand & Leavitt, Eastbound, Southwest Corner",
+                        "stop_id": "723",
+                        "stop_lat": "41.89069201",
+                        "stop_lon": "-87.68178907",
+                        "stop_name": "Grand & Leavitt",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Grand & Leavitt",
+            "onestopId": "s-dp3wkcbnfn-grand~leavitt",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.677291,
                     41.907053
                 ],
@@ -9728,29 +9827,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67733771,
-                    41.91055826
+                    -87.71135798,
+                    41.88962705
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-944",
+                    "identifier": "f-cta-s-11168",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "944",
-                        "stop_desc": "North Ave & Damen, Westbound, Northeast Corner",
-                        "stop_id": "944",
-                        "stop_lat": "41.91055826",
-                        "stop_lon": "-87.67733771",
-                        "stop_name": "North Ave & Damen",
+                        "stop_code": "11168",
+                        "stop_desc": "Homan & Franklin, Southbound, Southwest Corner",
+                        "stop_id": "11168",
+                        "stop_lat": "41.88962705",
+                        "stop_lon": "-87.71135798",
+                        "stop_name": "Homan & Franklin",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Damen",
-            "onestopId": "s-dp3wkve69y-north~damen",
+            "name": "Homan & Franklin",
+            "onestopId": "s-dp3wk1f8c0-homan~franklin",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9827,29 +9926,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67681006,
-                    41.88476449
+                    -87.69625579,
+                    41.88276585
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14962",
+                    "identifier": "f-cta-s-4211",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14962",
-                        "stop_desc": "Damen & Lake, Southbound, Southwest Corner",
-                        "stop_id": "14962",
-                        "stop_lat": "41.88476449",
-                        "stop_lon": "-87.67681006",
-                        "stop_name": "Damen & Lake",
+                        "stop_code": "4211",
+                        "stop_desc": "California & Washington, Northbound, Southeast Corner",
+                        "stop_id": "4211",
+                        "stop_lat": "41.88276585",
+                        "stop_lon": "-87.69625579",
+                        "stop_name": "California & Washington",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Damen & Lake",
-            "onestopId": "s-dp3wkbgsqn-damen~lake",
+            "name": "California & Washington",
+            "onestopId": "s-dp3wk2t8c1-california~washington",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10553,29 +10652,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6728055,
-                    41.90748086
+                    -87.708722,
+                    41.880887
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15845",
+                    "identifier": "f-cta-s-415",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15845",
-                        "stop_desc": "Milwaukee & Wolcott/Wood, Northwestbound, Northeast Corner",
-                        "stop_id": "15845",
-                        "stop_lat": "41.90748086",
-                        "stop_lon": "-87.6728055",
-                        "stop_name": "Milwaukee & Wolcott/Wood",
+                        "stop_code": "415",
+                        "stop_desc": "Madison & Spaulding, Eastbound, Southwest Corner",
+                        "stop_id": "415",
+                        "stop_lat": "41.880887",
+                        "stop_lon": "-87.708722",
+                        "stop_name": "Madison & Spaulding",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Milwaukee & Wolcott/Wood",
-            "onestopId": "s-dp3wkvn8g8-milwaukee~wolcott~wood",
+            "name": "Madison & Spaulding",
+            "onestopId": "s-dp3wk0hmye-madison~spaulding",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10619,29 +10718,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69717814,
-                    41.90298818
+                    -87.67749927,
+                    41.91587564
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14597",
+                    "identifier": "f-cta-s-8932",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14597",
-                        "stop_desc": "Division & California, Westbound, Northwest Corner",
-                        "stop_id": "14597",
-                        "stop_lat": "41.90298818",
-                        "stop_lon": "-87.69717814",
-                        "stop_name": "Division & California",
+                        "stop_code": "8932",
+                        "stop_desc": "Damen & Cortland, Northbound, Southeast Corner",
+                        "stop_id": "8932",
+                        "stop_lat": "41.91587564",
+                        "stop_lon": "-87.67749927",
+                        "stop_name": "Damen & Cortland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & California",
-            "onestopId": "s-dp3wkkhyee-division~california",
+            "name": "Damen & Cortland",
+            "onestopId": "s-dp3wkye1wj-damen~cortland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10675,6 +10774,39 @@
             ],
             "name": "Chicago & Sacramento",
             "onestopId": "s-dp3wk6bguq-chicago~sacramento",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.69727664,
+                    41.92268777
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3192",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3192",
+                        "stop_desc": "California & Milwaukee, Northbound, Southeast Corner",
+                        "stop_id": "3192",
+                        "stop_lat": "41.92268777",
+                        "stop_lon": "-87.69727664",
+                        "stop_name": "California & Milwaukee",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "California & Milwaukee",
+            "onestopId": "s-dp3wkruc37-california~milwaukee",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10751,29 +10883,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67424663,
-                    41.88129674
+                    -87.71154689,
+                    41.90027454
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-429",
+                    "identifier": "f-cta-s-11161",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "429",
-                        "stop_desc": "Madison & United Center (1900 W), Eastbound, Southside of the Street",
-                        "stop_id": "429",
-                        "stop_lat": "41.88129674",
-                        "stop_lon": "-87.67424663",
-                        "stop_name": "Madison & United Center (1900 W)",
+                        "stop_code": "11161",
+                        "stop_desc": "Homan & Grand, Southbound, Northwest Corner",
+                        "stop_id": "11161",
+                        "stop_lat": "41.90027454",
+                        "stop_lon": "-87.71154689",
+                        "stop_name": "Homan & Grand",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & United Center (1900 W)",
-            "onestopId": "s-dp3wkbm81z-madison~united1900w",
+            "name": "Homan & Grand",
+            "onestopId": "s-dp3wk5dquc-homan~grand",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10883,39 +11015,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.709452,
-                    41.902754
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1997",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1997",
-                        "stop_desc": "Division & Spaulding, Eastbound, Southwest Corner",
-                        "stop_id": "1997",
-                        "stop_lat": "41.902754",
-                        "stop_lon": "-87.709452",
-                        "stop_name": "Division & Spaulding",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Division & Spaulding",
-            "onestopId": "s-dp3wkh5vjx-division~spaulding",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.67214172,
                     41.89084079
                 ],
@@ -10949,29 +11048,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69416606,
-                    41.88116532
+                    -87.677658,
+                    41.916312
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17597",
+                    "identifier": "f-cta-s-8845",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17597",
-                        "stop_desc": "Madison & Washtenaw, Westbound, Northwest Corner",
-                        "stop_id": "17597",
-                        "stop_lat": "41.88116532",
-                        "stop_lon": "-87.69416606",
-                        "stop_name": "Madison & Washtenaw",
+                        "stop_code": "8845",
+                        "stop_desc": "Damen & Cortland, Southbound, Northwest Corner",
+                        "stop_id": "8845",
+                        "stop_lat": "41.916312",
+                        "stop_lon": "-87.677658",
+                        "stop_name": "Damen & Cortland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Washtenaw",
-            "onestopId": "s-dp3wk2pp3z-madison~washtenaw",
+            "name": "Damen & Cortland",
+            "onestopId": "s-dp3wkyeh4q-damen~cortland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11477,29 +11576,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69356962,
-                    41.92072237
+                    -87.69717814,
+                    41.90298818
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5552",
+                    "identifier": "f-cta-s-14597",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5552",
-                        "stop_desc": "Milwaukee & Talman, Northwestbound, Southeast Corner",
-                        "stop_id": "5552",
-                        "stop_lat": "41.92072237",
-                        "stop_lon": "-87.69356962",
-                        "stop_name": "Milwaukee & Talman",
+                        "stop_code": "14597",
+                        "stop_desc": "Division & California, Westbound, Northwest Corner",
+                        "stop_id": "14597",
+                        "stop_lat": "41.90298818",
+                        "stop_lon": "-87.69717814",
+                        "stop_name": "Division & California",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Milwaukee & Talman",
-            "onestopId": "s-dp3wkrrmzt-milwaukee~talman",
+            "name": "Division & California",
+            "onestopId": "s-dp3wkkhyee-division~california",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11543,29 +11642,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70475033,
-                    41.91003426
+                    -87.71099775,
+                    41.88348535
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-887",
+                    "identifier": "f-cta-s-14089",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "887",
-                        "stop_desc": "North Ave & Albany, Eastbound, Southwest Corner",
-                        "stop_id": "887",
-                        "stop_lat": "41.91003426",
-                        "stop_lon": "-87.70475033",
-                        "stop_name": "North Ave & Albany",
+                        "stop_code": "14089",
+                        "stop_desc": "Homan & Maypole, Northbound, Southeast Corner",
+                        "stop_id": "14089",
+                        "stop_lat": "41.88348535",
+                        "stop_lon": "-87.71099775",
+                        "stop_name": "Homan & Maypole",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Albany",
-            "onestopId": "s-dp3wkjrreh-north~albany",
+            "name": "Homan & Maypole",
+            "onestopId": "s-dp3wk0ducx-homan~maypole",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11609,29 +11708,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6884902,
-                    41.91762857
+                    -87.7095756,
+                    41.90998056
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4106",
+                    "identifier": "f-cta-s-885",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4106",
-                        "stop_desc": "Armitage & Milwaukee, Westbound, Northeast Corner",
-                        "stop_id": "4106",
-                        "stop_lat": "41.91762857",
-                        "stop_lon": "-87.6884902",
-                        "stop_name": "Armitage & Milwaukee",
+                        "stop_code": "885",
+                        "stop_desc": "North Ave & Spaulding, Eastbound, Southwest Corner",
+                        "stop_id": "885",
+                        "stop_lat": "41.90998056",
+                        "stop_lon": "-87.7095756",
+                        "stop_name": "North Ave & Spaulding",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Armitage & Milwaukee",
-            "onestopId": "s-dp3wkwg5yh-armitage~milwaukee",
+            "name": "North Ave & Spaulding",
+            "onestopId": "s-dp3wkj7z6f-north~spaulding",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11972,29 +12071,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71135798,
-                    41.88962705
+                    -87.67733771,
+                    41.91055826
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11168",
+                    "identifier": "f-cta-s-944",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11168",
-                        "stop_desc": "Homan & Franklin, Southbound, Southwest Corner",
-                        "stop_id": "11168",
-                        "stop_lat": "41.88962705",
-                        "stop_lon": "-87.71135798",
-                        "stop_name": "Homan & Franklin",
+                        "stop_code": "944",
+                        "stop_desc": "North Ave & Damen, Westbound, Northeast Corner",
+                        "stop_id": "944",
+                        "stop_lat": "41.91055826",
+                        "stop_lon": "-87.67733771",
+                        "stop_name": "North Ave & Damen",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Franklin",
-            "onestopId": "s-dp3wk1f8c0-homan~franklin",
+            "name": "North Ave & Damen",
+            "onestopId": "s-dp3wkve69y-north~damen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12203,29 +12302,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.700674,
-                    41.902832
+                    -87.711862,
+                    41.913417
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2000",
+                    "identifier": "f-cta-s-11154",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2000",
-                        "stop_desc": "Division & Richmond, Eastbound, Southwest Corner",
-                        "stop_id": "2000",
-                        "stop_lat": "41.902832",
-                        "stop_lon": "-87.700674",
-                        "stop_name": "Division & Richmond",
+                        "stop_code": "11154",
+                        "stop_desc": "Kimball & Bloomingdale, Southbound, Southwest Corner",
+                        "stop_id": "11154",
+                        "stop_lat": "41.913417",
+                        "stop_lon": "-87.711862",
+                        "stop_name": "Kimball & Bloomingdale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & Richmond",
-            "onestopId": "s-dp3wkk4mdn-division~richmond",
+            "name": "Kimball & Bloomingdale",
+            "onestopId": "s-dp3wkn45m7-kimball~bloomingdale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12302,29 +12401,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69625579,
-                    41.88276585
+                    -87.67681006,
+                    41.88476449
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4211",
+                    "identifier": "f-cta-s-14962",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4211",
-                        "stop_desc": "California & Washington, Northbound, Southeast Corner",
-                        "stop_id": "4211",
-                        "stop_lat": "41.88276585",
-                        "stop_lon": "-87.69625579",
-                        "stop_name": "California & Washington",
+                        "stop_code": "14962",
+                        "stop_desc": "Damen & Lake, Southbound, Southwest Corner",
+                        "stop_id": "14962",
+                        "stop_lat": "41.88476449",
+                        "stop_lon": "-87.67681006",
+                        "stop_name": "Damen & Lake",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "California & Washington",
-            "onestopId": "s-dp3wk2t8c1-california~washington",
+            "name": "Damen & Lake",
+            "onestopId": "s-dp3wkbgsqn-damen~lake",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12335,29 +12434,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69726903,
-                    41.91033711
+                    -87.69468616,
+                    41.91757364
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17128",
+                    "identifier": "f-cta-s-4109",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17128",
-                        "stop_desc": "North Ave & California, Westbound, Northwest Corner",
-                        "stop_id": "17128",
-                        "stop_lat": "41.91033711",
-                        "stop_lon": "-87.69726903",
-                        "stop_name": "North Ave & California",
+                        "stop_code": "4109",
+                        "stop_desc": "Armitage & Washtenaw, Westbound, Northside of the Street",
+                        "stop_id": "4109",
+                        "stop_lat": "41.91757364",
+                        "stop_lon": "-87.69468616",
+                        "stop_name": "Armitage & Washtenaw",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & California",
-            "onestopId": "s-dp3wkmsc3t-north~california",
+            "name": "Armitage & Washtenaw",
+            "onestopId": "s-dp3wkqyetd-armitage~washtenaw",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12424,6 +12523,39 @@
             ],
             "name": "Damen & Wabansia",
             "onestopId": "s-dp3wkvghrg-damen~wabansia",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.691763,
+                    41.892279
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-719",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "719",
+                        "stop_desc": "Grand & Rockwell, Eastbound, Southside of the Street",
+                        "stop_id": "719",
+                        "stop_lat": "41.892279",
+                        "stop_lon": "-87.691763",
+                        "stop_name": "Grand & Rockwell",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Grand & Rockwell",
+            "onestopId": "s-dp3wkd2b1y-grand~rockwell",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12599,29 +12731,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70673788,
-                    41.8956296
+                    -87.68674153,
+                    41.897844
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14522",
+                    "identifier": "f-cta-s-8389",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14522",
-                        "stop_desc": "Chicago & Kedzie, Westbound, Northwest Corner",
-                        "stop_id": "14522",
-                        "stop_lat": "41.8956296",
-                        "stop_lon": "-87.70673788",
-                        "stop_name": "Chicago & Kedzie",
+                        "stop_code": "8389",
+                        "stop_desc": "Western & Iowa, Northbound, Northeast Corner",
+                        "stop_id": "8389",
+                        "stop_lat": "41.897844",
+                        "stop_lon": "-87.68674153",
+                        "stop_name": "Western & Iowa",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Chicago & Kedzie",
-            "onestopId": "s-dp3wk4vgsz-chicago~kedzie",
+            "name": "Western & Iowa",
+            "onestopId": "s-dp3wkek2wu-western~iowa",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12698,29 +12830,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69717068,
-                    41.9141084
+                    -87.69711126,
+                    41.90852113
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3012",
+                    "identifier": "f-cta-s-3015",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3012",
-                        "stop_desc": "California & Bloomingdale, Southbound, Westside of the Street",
-                        "stop_id": "3012",
-                        "stop_lat": "41.9141084",
-                        "stop_lon": "-87.69717068",
-                        "stop_name": "California & Bloomingdale",
+                        "stop_code": "3015",
+                        "stop_desc": "California & Le Moyne, Southbound, Northwest Corner",
+                        "stop_id": "3015",
+                        "stop_lat": "41.90852113",
+                        "stop_lon": "-87.69711126",
+                        "stop_name": "California & Le Moyne",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "California & Bloomingdale",
-            "onestopId": "s-dp3wkqhz7u-california~bloomingdale",
+            "name": "California & Le Moyne",
+            "onestopId": "s-dp3wkmhyv4-california~lemoyne",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12764,29 +12896,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68674153,
-                    41.897844
+                    -87.70673788,
+                    41.8956296
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8389",
+                    "identifier": "f-cta-s-14522",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8389",
-                        "stop_desc": "Western & Iowa, Northbound, Northeast Corner",
-                        "stop_id": "8389",
-                        "stop_lat": "41.897844",
-                        "stop_lon": "-87.68674153",
-                        "stop_name": "Western & Iowa",
+                        "stop_code": "14522",
+                        "stop_desc": "Chicago & Kedzie, Westbound, Northwest Corner",
+                        "stop_id": "14522",
+                        "stop_lat": "41.8956296",
+                        "stop_lon": "-87.70673788",
+                        "stop_name": "Chicago & Kedzie",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Western & Iowa",
-            "onestopId": "s-dp3wkek2wu-western~iowa",
+            "name": "Chicago & Kedzie",
+            "onestopId": "s-dp3wk4vgsz-chicago~kedzie",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12830,29 +12962,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69890875,
-                    41.91030323
+                    -87.70052166,
+                    41.89579281
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-954",
+                    "identifier": "f-cta-s-715",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "954",
-                        "stop_desc": "North Ave & Francisco, Westbound, Northeast Corner",
-                        "stop_id": "954",
-                        "stop_lat": "41.91030323",
-                        "stop_lon": "-87.69890875",
-                        "stop_name": "North Ave & Francisco",
+                        "stop_code": "715",
+                        "stop_desc": "Grand & Chicago, Eastbound, Southwest Corner",
+                        "stop_id": "715",
+                        "stop_lat": "41.89579281",
+                        "stop_lon": "-87.70052166",
+                        "stop_name": "Grand & Chicago",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Francisco",
-            "onestopId": "s-dp3wkme95q-north~francisco",
+            "name": "Grand & Chicago",
+            "onestopId": "s-dp3wk6fktt-grand~chicago",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.68735325,
+                    41.91978679
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-8401",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "8401",
+                        "stop_desc": "Western & Charleston, Northbound, Southeast Corner",
+                        "stop_id": "8401",
+                        "stop_lat": "41.91978679",
+                        "stop_lon": "-87.68735325",
+                        "stop_name": "Western & Charleston",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Western & Charleston",
+            "onestopId": "s-dp3wkxk02w-western~charleston",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12896,29 +13061,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.677703,
-                    41.9213
+                    -87.69856203,
+                    41.88099888
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8935",
+                    "identifier": "f-cta-s-16110",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8935",
-                        "stop_desc": "Damen & Webster, Northbound, Southeast Corner",
-                        "stop_id": "8935",
-                        "stop_lat": "41.9213",
-                        "stop_lon": "-87.677703",
-                        "stop_name": "Damen & Webster",
+                        "stop_code": "16110",
+                        "stop_desc": "Madison & Francisco, Eastbound, Southeast Corner",
+                        "stop_id": "16110",
+                        "stop_lat": "41.88099888",
+                        "stop_lon": "-87.69856203",
+                        "stop_name": "Madison & Francisco",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Damen & Webster",
-            "onestopId": "s-dp3wkze132-damen~webster",
+            "name": "Madison & Francisco",
+            "onestopId": "s-dp3wk25ye2-madison~francisco",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13028,29 +13193,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69877017,
-                    41.88653364
+                    -87.67752329,
+                    41.91765787
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4215",
+                    "identifier": "f-cta-s-8933",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4215",
-                        "stop_desc": "Fulton & Francisco, Westbound, Northeast Corner",
-                        "stop_id": "4215",
-                        "stop_lat": "41.88653364",
-                        "stop_lon": "-87.69877017",
-                        "stop_name": "Fulton & Francisco",
+                        "stop_code": "8933",
+                        "stop_desc": "Damen & Armitage, Northbound, Southeast Corner",
+                        "stop_id": "8933",
+                        "stop_lat": "41.91765787",
+                        "stop_lon": "-87.67752329",
+                        "stop_name": "Damen & Armitage",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Fulton & Francisco",
-            "onestopId": "s-dp3wk35wwx-fulton~francisco",
+            "name": "Damen & Armitage",
+            "onestopId": "s-dp3wkyghj9-damen~armitage",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13061,29 +13226,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70052166,
-                    41.89579281
+                    -87.6997458,
+                    41.89570621
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-715",
+                    "identifier": "f-cta-s-636",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "715",
-                        "stop_desc": "Grand & Chicago, Eastbound, Southwest Corner",
-                        "stop_id": "715",
-                        "stop_lat": "41.89579281",
-                        "stop_lon": "-87.70052166",
-                        "stop_name": "Grand & Chicago",
+                        "stop_code": "636",
+                        "stop_desc": "Chicago & Grand, Westbound, Northeast Corner",
+                        "stop_id": "636",
+                        "stop_lat": "41.89570621",
+                        "stop_lon": "-87.6997458",
+                        "stop_name": "Chicago & Grand",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Chicago",
-            "onestopId": "s-dp3wk6fktt-grand~chicago",
+            "name": "Chicago & Grand",
+            "onestopId": "s-dp3wk6fupv-chicago~grand",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13150,39 +13315,6 @@
             ],
             "name": "North Ave & Hoyne",
             "onestopId": "s-dp3wkv9d99-north~hoyne",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.69600765,
-                    41.88100858
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-420",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "420",
-                        "stop_desc": "Madison & California, Eastbound, Southeast Corner",
-                        "stop_id": "420",
-                        "stop_lat": "41.88100858",
-                        "stop_lon": "-87.69600765",
-                        "stop_name": "Madison & California",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Madison & California",
-            "onestopId": "s-dp3wk2jwwc-madison~california",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13325,29 +13457,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70215669,
-                    41.90294545
+                    -87.68723766,
+                    41.91763528
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2074",
+                    "identifier": "f-cta-s-4105",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2074",
-                        "stop_desc": "Division & Humboldt, Westbound, Northeast Corner",
-                        "stop_id": "2074",
-                        "stop_lat": "41.90294545",
-                        "stop_lon": "-87.70215669",
-                        "stop_name": "Division & Humboldt",
+                        "stop_code": "4105",
+                        "stop_desc": "Armitage & Western, Westbound, Northeast Corner",
+                        "stop_id": "4105",
+                        "stop_lat": "41.91763528",
+                        "stop_lon": "-87.68723766",
+                        "stop_name": "Armitage & Western",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & Humboldt",
-            "onestopId": "s-dp3wkk1nre-division~humboldt",
+            "name": "Armitage & Western",
+            "onestopId": "s-dp3wkwu5gm-armitage~western",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13721,29 +13853,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69907004,
-                    41.89539181
+                    -87.71091,
+                    41.88082
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-798",
+                    "identifier": "f-cta-s-11236",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "798",
-                        "stop_desc": "Grand & Chicago, Westbound, Northeast Corner",
-                        "stop_id": "798",
-                        "stop_lat": "41.89539181",
-                        "stop_lon": "-87.69907004",
-                        "stop_name": "Grand & Chicago",
+                        "stop_code": "11236",
+                        "stop_desc": "Homan & Madison, Northbound, Southeast Corner",
+                        "stop_id": "11236",
+                        "stop_lat": "41.88082",
+                        "stop_lon": "-87.71091",
+                        "stop_name": "Homan & Madison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Chicago",
-            "onestopId": "s-dp3wk6g6re-grand~chicago",
+            "name": "Homan & Madison",
+            "onestopId": "s-dp3wk04v7w-homan~madison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13787,39 +13919,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69419,
-                    41.902995
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2070",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2070",
-                        "stop_desc": "Division & Washtenaw, Westbound, Northeast Corner",
-                        "stop_id": "2070",
-                        "stop_lat": "41.902995",
-                        "stop_lon": "-87.69419",
-                        "stop_name": "Division & Washtenaw",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Division & Washtenaw",
-            "onestopId": "s-dp3wkkpn9k-division~washtenaw",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.70088084,
                     41.88095403
                 ],
@@ -13843,39 +13942,6 @@
             ],
             "name": "Madison & Sacramento",
             "onestopId": "s-dp3wk24njr-madison~sacramento",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.6997458,
-                    41.89570621
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-636",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "636",
-                        "stop_desc": "Chicago & Grand, Westbound, Northeast Corner",
-                        "stop_id": "636",
-                        "stop_lat": "41.89570621",
-                        "stop_lon": "-87.6997458",
-                        "stop_name": "Chicago & Grand",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Chicago & Grand",
-            "onestopId": "s-dp3wk6fupv-chicago~grand",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13985,29 +14051,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.70209784,
-                    41.89202429
+                    -87.68688161,
+                    41.89380051
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4220",
+                    "identifier": "f-cta-s-8226",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4220",
-                        "stop_desc": "Sacrmnto & Ohio, Southbound, Northwest Corner",
-                        "stop_id": "4220",
-                        "stop_lat": "41.89202429",
-                        "stop_lon": "-87.70209784",
-                        "stop_name": "Sacrmnto & Ohio",
+                        "stop_code": "8226",
+                        "stop_desc": "Western & Huron, Southbound, Southwest Corner",
+                        "stop_id": "8226",
+                        "stop_lat": "41.89380051",
+                        "stop_lon": "-87.68688161",
+                        "stop_name": "Western & Huron",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Sacrmnto & Ohio",
-            "onestopId": "s-dp3wk61q9p-sacrmnto~ohio",
+            "name": "Western & Huron",
+            "onestopId": "s-dp3wkds35d-western~huron",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14183,39 +14249,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67949289,
-                    41.90328215
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2064",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2064",
-                        "stop_desc": "Division & Hoyne, Westbound, Northeast Corner",
-                        "stop_id": "2064",
-                        "stop_lat": "41.90328215",
-                        "stop_lon": "-87.67949289",
-                        "stop_name": "Division & Hoyne",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Division & Hoyne",
-            "onestopId": "s-dp3wku38r9-division~hoyne",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.70383501,
                     41.89727124
                 ],
@@ -14338,6 +14371,39 @@
             ],
             "name": "Milwaukee & Maplewood",
             "onestopId": "s-dp3wkx1jz2-milwaukee~maplewood",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.69726903,
+                    41.91033711
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-17128",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "17128",
+                        "stop_desc": "North Ave & California, Westbound, Northwest Corner",
+                        "stop_id": "17128",
+                        "stop_lat": "41.91033711",
+                        "stop_lon": "-87.69726903",
+                        "stop_name": "North Ave & California",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "North Ave & California",
+            "onestopId": "s-dp3wkmsc3t-north~california",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14593,29 +14659,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71142,
-                    41.897239
+                    -87.68702917,
+                    41.9103899
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11247",
+                    "identifier": "f-cta-s-949",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11247",
-                        "stop_desc": "Homan & Iowa, Northbound, Southeast Corner",
-                        "stop_id": "11247",
-                        "stop_lat": "41.897239",
-                        "stop_lon": "-87.71142",
-                        "stop_name": "Homan & Iowa",
+                        "stop_code": "949",
+                        "stop_desc": "North Ave & Western, Westbound, Northeast Corner",
+                        "stop_id": "949",
+                        "stop_lat": "41.9103899",
+                        "stop_lon": "-87.68702917",
+                        "stop_name": "North Ave & Western",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Homan & Iowa",
-            "onestopId": "s-dp3wk54mpg-homan~iowa",
+            "name": "North Ave & Western",
+            "onestopId": "s-dp3wkts38n-north~western",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14725,29 +14791,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.694048,
-                    41.88103245
+                    -87.69727933,
+                    41.91759312
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-421",
+                    "identifier": "f-cta-s-3010",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "421",
-                        "stop_desc": "Madison & Washtenaw, Eastbound, Southwest Corner",
-                        "stop_id": "421",
-                        "stop_lat": "41.88103245",
-                        "stop_lon": "-87.694048",
-                        "stop_name": "Madison & Washtenaw",
+                        "stop_code": "3010",
+                        "stop_desc": "California & Armitage, Southbound, Northwest Corner",
+                        "stop_id": "3010",
+                        "stop_lat": "41.91759312",
+                        "stop_lon": "-87.69727933",
+                        "stop_name": "California & Armitage",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Washtenaw",
-            "onestopId": "s-dp3wk2pnsw-madison~washtenaw",
+            "name": "California & Armitage",
+            "onestopId": "s-dp3wkqug9m-california~armitage",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14989,39 +15055,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68723766,
-                    41.91763528
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-4105",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4105",
-                        "stop_desc": "Armitage & Western, Westbound, Northeast Corner",
-                        "stop_id": "4105",
-                        "stop_lat": "41.91763528",
-                        "stop_lon": "-87.68723766",
-                        "stop_name": "Armitage & Western",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Armitage & Western",
-            "onestopId": "s-dp3wkwu5gm-armitage~western",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.68766424,
                     41.92174041
                 ],
@@ -15187,39 +15220,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67192275,
-                    41.88146205
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-15090",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "15090",
-                        "stop_desc": "Madison & Wood, Westbound, Northwest Corner",
-                        "stop_id": "15090",
-                        "stop_lat": "41.88146205",
-                        "stop_lon": "-87.67192275",
-                        "stop_name": "Madison & Wood",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Madison & Wood",
-            "onestopId": "s-dp3wkbr30n-madison~wood",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.69726743,
                     41.92293105
                 ],
@@ -15253,29 +15253,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.69856203,
-                    41.88099888
+                    -87.677703,
+                    41.9213
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-16110",
+                    "identifier": "f-cta-s-8935",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "16110",
-                        "stop_desc": "Madison & Francisco, Eastbound, Southeast Corner",
-                        "stop_id": "16110",
-                        "stop_lat": "41.88099888",
-                        "stop_lon": "-87.69856203",
-                        "stop_name": "Madison & Francisco",
+                        "stop_code": "8935",
+                        "stop_desc": "Damen & Webster, Northbound, Southeast Corner",
+                        "stop_id": "8935",
+                        "stop_lat": "41.9213",
+                        "stop_lon": "-87.677703",
+                        "stop_name": "Damen & Webster",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Francisco",
-            "onestopId": "s-dp3wk25ye2-madison~francisco",
+            "name": "Damen & Webster",
+            "onestopId": "s-dp3wkze132-damen~webster",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15319,29 +15319,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67752329,
-                    41.91765787
+                    -87.69877017,
+                    41.88653364
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-8933",
+                    "identifier": "f-cta-s-4215",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8933",
-                        "stop_desc": "Damen & Armitage, Northbound, Southeast Corner",
-                        "stop_id": "8933",
-                        "stop_lat": "41.91765787",
-                        "stop_lon": "-87.67752329",
-                        "stop_name": "Damen & Armitage",
+                        "stop_code": "4215",
+                        "stop_desc": "Fulton & Francisco, Westbound, Northeast Corner",
+                        "stop_id": "4215",
+                        "stop_lat": "41.88653364",
+                        "stop_lon": "-87.69877017",
+                        "stop_name": "Fulton & Francisco",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Damen & Armitage",
-            "onestopId": "s-dp3wkyghj9-damen~armitage",
+            "name": "Fulton & Francisco",
+            "onestopId": "s-dp3wk35wwx-fulton~francisco",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15451,29 +15451,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.68743416,
-                    41.91020502
+                    -87.706333,
+                    41.880902
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-894",
+                    "identifier": "f-cta-s-416",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "894",
-                        "stop_desc": "North Ave & Western, Eastbound, Southwest Corner",
-                        "stop_id": "894",
-                        "stop_lat": "41.91020502",
-                        "stop_lon": "-87.68743416",
-                        "stop_name": "North Ave & Western",
+                        "stop_code": "416",
+                        "stop_desc": "Madison & Kedzie, Eastbound, Southwest Corner",
+                        "stop_id": "416",
+                        "stop_lat": "41.880902",
+                        "stop_lon": "-87.706333",
+                        "stop_name": "Madison & Kedzie",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Western",
-            "onestopId": "s-dp3wktebws-north~western",
+            "name": "Madison & Kedzie",
+            "onestopId": "s-dp3wk0njym-madison~kedzie",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15913,29 +15913,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.706333,
-                    41.880902
+                    -87.68743416,
+                    41.91020502
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-416",
+                    "identifier": "f-cta-s-894",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "416",
-                        "stop_desc": "Madison & Kedzie, Eastbound, Southwest Corner",
-                        "stop_id": "416",
-                        "stop_lat": "41.880902",
-                        "stop_lon": "-87.706333",
-                        "stop_name": "Madison & Kedzie",
+                        "stop_code": "894",
+                        "stop_desc": "North Ave & Western, Eastbound, Southwest Corner",
+                        "stop_id": "894",
+                        "stop_lat": "41.91020502",
+                        "stop_lon": "-87.68743416",
+                        "stop_name": "North Ave & Western",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Kedzie",
-            "onestopId": "s-dp3wk0njym-madison~kedzie",
+            "name": "North Ave & Western",
+            "onestopId": "s-dp3wktebws-north~western",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

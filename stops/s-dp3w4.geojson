@@ -10,20 +10,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30035",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40180",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30035",
-                        "stop_lat": "41.872108",
-                        "stop_lon": "-87.791602",
-                        "stop_name": "Oak Park-Blue",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30034",
                     "tags": {
                         "location_type": "0",
@@ -31,6 +17,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30034",
+                        "stop_lat": "41.872108",
+                        "stop_lon": "-87.791602",
+                        "stop_name": "Oak Park-Blue",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30035",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40180",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30035",
                         "stop_lat": "41.872108",
                         "stop_lon": "-87.791602",
                         "stop_name": "Oak Park-Blue",
@@ -50,29 +50,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.790629,
-                    41.850633
+                    -87.77433754,
+                    41.86903499
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6962",
+                    "identifier": "f-cta-s-9613",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6962",
-                        "stop_desc": "Cermak & Riverside Drive, Westbound, Northeast Corner",
-                        "stop_id": "6962",
-                        "stop_lat": "41.850633",
-                        "stop_lon": "-87.790629",
-                        "stop_name": "Cermak & Riverside Drive",
+                        "stop_code": "9613",
+                        "stop_desc": "Austin & Harvard/Arthington, Southbound, Southwest Corner",
+                        "stop_id": "9613",
+                        "stop_lat": "41.86903499",
+                        "stop_lon": "-87.77433754",
+                        "stop_name": "Austin & Harvard/Arthington",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Riverside Drive",
-            "onestopId": "s-dp3w468vd5-cermak~riverside",
+            "name": "Austin & Harvard/Arthington",
+            "onestopId": "s-dp3w4wh8v9-austin~harvard~arthington",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -182,29 +182,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76480172,
-                    41.87256595
+                    -87.79299878,
+                    41.85046468
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11575",
+                    "identifier": "f-cta-s-15863",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11575",
-                        "stop_desc": "Central & Harrison Terminal, Northbound, Bus Terminal",
-                        "stop_id": "11575",
-                        "stop_lat": "41.87256595",
-                        "stop_lon": "-87.76480172",
-                        "stop_name": "Central & Harrison Terminal",
+                        "stop_code": "15863",
+                        "stop_desc": "Cermak & Oak Park, Eastbound, Southeast Corner",
+                        "stop_id": "15863",
+                        "stop_lat": "41.85046468",
+                        "stop_lon": "-87.79299878",
+                        "stop_name": "Cermak & Oak Park",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Harrison Terminal",
-            "onestopId": "s-dp3w4yet7u-central~harrisonterminal",
+            "name": "Cermak & Oak Park",
+            "onestopId": "s-dp3w44xhdu-cermak~oakpark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -248,29 +248,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.772963,
-                    41.865551
+                    -87.778325,
+                    41.850856
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9616",
+                    "identifier": "f-cta-s-6959",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9616",
-                        "stop_desc": "Mason & Roosevelt, Southbound, Northwest Corner",
-                        "stop_id": "9616",
-                        "stop_lat": "41.865551",
-                        "stop_lon": "-87.772963",
-                        "stop_name": "Mason & Roosevelt",
+                        "stop_code": "6959",
+                        "stop_desc": "Cermak & Lombard, Westbound, Northeast Corner",
+                        "stop_id": "6959",
+                        "stop_lat": "41.850856",
+                        "stop_lon": "-87.778325",
+                        "stop_name": "Cermak & Lombard",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Mason & Roosevelt",
-            "onestopId": "s-dp3w4tmst8-mason~roosevelt",
+            "name": "Cermak & Lombard",
+            "onestopId": "s-dp3w4d9ybv-cermak~lombard",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -347,62 +347,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76480598,
-                    41.87635683
+                    -87.76154549,
+                    41.87661212
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15515",
+                    "identifier": "f-cta-s-148",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15515",
-                        "stop_desc": "Central & Jackson, Southbound, Southwest Corner",
-                        "stop_id": "15515",
-                        "stop_lat": "41.87635683",
-                        "stop_lon": "-87.76480598",
-                        "stop_name": "Central & Jackson",
+                        "stop_code": "148",
+                        "stop_desc": "Jackson & Lotus, Westbound, Northwest Corner",
+                        "stop_id": "148",
+                        "stop_lat": "41.87661212",
+                        "stop_lon": "-87.76154549",
+                        "stop_name": "Jackson & Lotus",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Jackson",
-            "onestopId": "s-dp3w4z7e7y-central~jackson",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.764565,
-                    41.874638
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-11576",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "11576",
-                        "stop_desc": "Central & Van Buren, Northbound, Southeast Corner",
-                        "stop_id": "11576",
-                        "stop_lat": "41.874638",
-                        "stop_lon": "-87.764565",
-                        "stop_name": "Central & Van Buren",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Central & Van Buren",
-            "onestopId": "s-dp3w4z5c3q-central~vanburen",
+            "name": "Jackson & Lotus",
+            "onestopId": "s-dp3w4zmuzy-jackson~lotus",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -479,39 +446,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77444435,
-                    41.87267096
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-9611",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "9611",
-                        "stop_desc": "Austin & Harrison, Southbound, Southwest Corner",
-                        "stop_id": "9611",
-                        "stop_lat": "41.87267096",
-                        "stop_lon": "-87.77444435",
-                        "stop_name": "Austin & Harrison",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Austin & Harrison",
-            "onestopId": "s-dp3w4wstgp-austin~harrison",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.76447722,
                     41.87292396
                 ],
@@ -545,39 +479,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.778325,
-                    41.850856
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6959",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6959",
-                        "stop_desc": "Cermak & Lombard, Westbound, Northeast Corner",
-                        "stop_id": "6959",
-                        "stop_lat": "41.850856",
-                        "stop_lon": "-87.778325",
-                        "stop_name": "Cermak & Lombard",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cermak & Lombard",
-            "onestopId": "s-dp3w4d9ybv-cermak~lombard",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.77877185,
                     41.85065508
                 ],
@@ -601,6 +502,39 @@
             ],
             "name": "Cermak & Lombard",
             "onestopId": "s-dp3w4d9mwr-cermak~lombard",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.798156,
+                    41.850558
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6964",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6964",
+                        "stop_desc": "Cermak & Home, Westbound, Northeast Corner",
+                        "stop_id": "6964",
+                        "stop_lat": "41.850558",
+                        "stop_lon": "-87.798156",
+                        "stop_name": "Cermak & Home",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Cermak & Home",
+            "onestopId": "s-dp3w44em4t-cermak~home",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -710,29 +644,95 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76459825,
-                    41.87660365
+                    -87.76480172,
+                    41.87256595
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-149",
+                    "identifier": "f-cta-s-11575",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "149",
-                        "stop_desc": "Jackson & Central, Westbound, Northeast Corner",
-                        "stop_id": "149",
-                        "stop_lat": "41.87660365",
-                        "stop_lon": "-87.76459825",
-                        "stop_name": "Jackson & Central",
+                        "stop_code": "11575",
+                        "stop_desc": "Central & Harrison Terminal, Northbound, Bus Terminal",
+                        "stop_id": "11575",
+                        "stop_lat": "41.87256595",
+                        "stop_lon": "-87.76480172",
+                        "stop_name": "Central & Harrison Terminal",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson & Central",
-            "onestopId": "s-dp3w4z7ubs-jackson~central",
+            "name": "Central & Harrison Terminal",
+            "onestopId": "s-dp3w4yet7u-central~harrisonterminal",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.77406269,
+                    41.86722455
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-9614",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "9614",
+                        "stop_desc": "Fillmore & Austin, Eastbound, Southeast Corner",
+                        "stop_id": "9614",
+                        "stop_lat": "41.86722455",
+                        "stop_lon": "-87.77406269",
+                        "stop_name": "Fillmore & Austin",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Fillmore & Austin",
+            "onestopId": "s-dp3w4tsyk0-fillmore~austin",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.78371594,
+                    41.85061692
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6977",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6977",
+                        "stop_desc": "Cermak & Ridgeland, Eastbound, Southwest Corner",
+                        "stop_id": "6977",
+                        "stop_lat": "41.85061692",
+                        "stop_lon": "-87.78371594",
+                        "stop_name": "Cermak & Ridgeland",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Cermak & Ridgeland",
+            "onestopId": "s-dp3w46tve0-cermak~ridgeland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -809,39 +809,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.75967824,
-                    41.87664899
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-147",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "147",
-                        "stop_desc": "5400 W Jackson, Westbound, Northside of the Street",
-                        "stop_id": "147",
-                        "stop_lat": "41.87664899",
-                        "stop_lon": "-87.75967824",
-                        "stop_name": "5400 W Jackson",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "5400 W Jackson",
-            "onestopId": "s-dp3w4zrm5m-5400wjackson",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.76447858,
                     41.86715994
                 ],
@@ -875,29 +842,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78866727,
-                    41.85051717
+                    -87.790629,
+                    41.850633
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6976",
+                    "identifier": "f-cta-s-6962",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6976",
-                        "stop_desc": "Cermak & East, Eastbound, Southwest Corner",
-                        "stop_id": "6976",
-                        "stop_lat": "41.85051717",
-                        "stop_lon": "-87.78866727",
-                        "stop_name": "Cermak & East",
+                        "stop_code": "6962",
+                        "stop_desc": "Cermak & Riverside Drive, Westbound, Northeast Corner",
+                        "stop_id": "6962",
+                        "stop_lat": "41.850633",
+                        "stop_lon": "-87.790629",
+                        "stop_name": "Cermak & Riverside Drive",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & East",
-            "onestopId": "s-dp3w46dhzv-cermak~east",
+            "name": "Cermak & Riverside Drive",
+            "onestopId": "s-dp3w468vd5-cermak~riverside",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1040,29 +1007,76 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79299878,
-                    41.85046468
+                    -87.776812,
+                    41.870851
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15863",
+                    "identifier": "f-cta-s-30001",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40010",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30001",
+                        "stop_lat": "41.870851",
+                        "stop_lon": "-87.776812",
+                        "stop_name": "Austin-Blue",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30002",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40010",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30002",
+                        "stop_lat": "41.870851",
+                        "stop_lon": "-87.776812",
+                        "stop_name": "Austin-Blue",
+                        "wheelchair_boarding": "0"
+                    }
+                }
+            ],
+            "name": "Austin-Blue",
+            "onestopId": "s-dp3w4w6gkh-austinblue",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.774465,
+                    41.87778
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-9624",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15863",
-                        "stop_desc": "Cermak & Oak Park, Eastbound, Southeast Corner",
-                        "stop_id": "15863",
-                        "stop_lat": "41.85046468",
-                        "stop_lon": "-87.79299878",
-                        "stop_name": "Cermak & Oak Park",
+                        "stop_code": "9624",
+                        "stop_desc": "Austin & Adams, Northbound, Northeast Corner",
+                        "stop_id": "9624",
+                        "stop_lat": "41.87778",
+                        "stop_lon": "-87.774465",
+                        "stop_name": "Austin & Adams",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Oak Park",
-            "onestopId": "s-dp3w44xhdu-cermak~oakpark",
+            "name": "Austin & Adams",
+            "onestopId": "s-dp3w4xsef8-austin~adams",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1106,29 +1120,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77131794,
-                    41.87706679
+                    -87.75967824,
+                    41.87664899
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2",
+                    "identifier": "f-cta-s-147",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2",
-                        "stop_desc": "5900 W Jackson, Eastbound, Southside of the Street",
-                        "stop_id": "2",
-                        "stop_lat": "41.87706679",
-                        "stop_lon": "-87.77131794",
-                        "stop_name": "5900 W Jackson",
+                        "stop_code": "147",
+                        "stop_desc": "5400 W Jackson, Westbound, Northside of the Street",
+                        "stop_id": "147",
+                        "stop_lat": "41.87664899",
+                        "stop_lon": "-87.75967824",
+                        "stop_name": "5400 W Jackson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "5900 W Jackson",
-            "onestopId": "s-dp3w4xqzs5-5900wjackson",
+            "name": "5400 W Jackson",
+            "onestopId": "s-dp3w4zrm5m-5400wjackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1205,62 +1219,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76745055,
-                    41.87702418
+                    -87.76416931,
+                    41.86566632
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4",
+                    "identifier": "f-cta-s-382",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4",
-                        "stop_desc": "5700 W Jackson, Eastbound, Southside of the Street",
-                        "stop_id": "4",
-                        "stop_lat": "41.87702418",
-                        "stop_lon": "-87.76745055",
-                        "stop_name": "5700 W Jackson",
+                        "stop_code": "382",
+                        "stop_desc": "Roosevelt & Central, Westbound, Northeast Corner",
+                        "stop_id": "382",
+                        "stop_lat": "41.86566632",
+                        "stop_lon": "-87.76416931",
+                        "stop_name": "Roosevelt & Central",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "5700 W Jackson",
-            "onestopId": "s-dp3w4z3xq5-5700wjackson",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.78371594,
-                    41.85061692
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6977",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6977",
-                        "stop_desc": "Cermak & Ridgeland, Eastbound, Southwest Corner",
-                        "stop_id": "6977",
-                        "stop_lat": "41.85061692",
-                        "stop_lon": "-87.78371594",
-                        "stop_name": "Cermak & Ridgeland",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cermak & Ridgeland",
-            "onestopId": "s-dp3w46tve0-cermak~ridgeland",
+            "name": "Roosevelt & Central",
+            "onestopId": "s-dp3w4vkj4t-roosevelt~central",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1337,29 +1318,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76416931,
-                    41.86566632
+                    -87.77444435,
+                    41.87267096
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-382",
+                    "identifier": "f-cta-s-9611",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "382",
-                        "stop_desc": "Roosevelt & Central, Westbound, Northeast Corner",
-                        "stop_id": "382",
-                        "stop_lat": "41.86566632",
-                        "stop_lon": "-87.76416931",
-                        "stop_name": "Roosevelt & Central",
+                        "stop_code": "9611",
+                        "stop_desc": "Austin & Harrison, Southbound, Southwest Corner",
+                        "stop_id": "9611",
+                        "stop_lat": "41.87267096",
+                        "stop_lon": "-87.77444435",
+                        "stop_name": "Austin & Harrison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Roosevelt & Central",
-            "onestopId": "s-dp3w4vkj4t-roosevelt~central",
+            "name": "Austin & Harrison",
+            "onestopId": "s-dp3w4wstgp-austin~harrison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1436,29 +1417,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.798156,
-                    41.850558
+                    -87.78383409,
+                    41.85083517
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6964",
+                    "identifier": "f-cta-s-6960",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6964",
-                        "stop_desc": "Cermak & Home, Westbound, Northeast Corner",
-                        "stop_id": "6964",
-                        "stop_lat": "41.850558",
-                        "stop_lon": "-87.798156",
-                        "stop_name": "Cermak & Home",
+                        "stop_code": "6960",
+                        "stop_desc": "Cermak & Ridgeland, Westbound, Northwest Corner",
+                        "stop_id": "6960",
+                        "stop_lat": "41.85083517",
+                        "stop_lon": "-87.78383409",
+                        "stop_name": "Cermak & Ridgeland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Home",
-            "onestopId": "s-dp3w44em4t-cermak~home",
+            "name": "Cermak & Ridgeland",
+            "onestopId": "s-dp3w46tyb3-cermak~ridgeland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1568,6 +1549,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.78866727,
+                    41.85051717
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6976",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6976",
+                        "stop_desc": "Cermak & East, Eastbound, Southwest Corner",
+                        "stop_id": "6976",
+                        "stop_lat": "41.85051717",
+                        "stop_lon": "-87.78866727",
+                        "stop_name": "Cermak & East",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Cermak & East",
+            "onestopId": "s-dp3w46dhzv-cermak~east",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.7620988,
                     41.86571503
                 ],
@@ -1634,29 +1648,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.764711,
-                    41.87479
+                    -87.76480598,
+                    41.87635683
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11574",
+                    "identifier": "f-cta-s-15515",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11574",
-                        "stop_desc": "Central & Van Buren, Southbound, Westside of the Street",
-                        "stop_id": "11574",
-                        "stop_lat": "41.87479",
-                        "stop_lon": "-87.764711",
-                        "stop_name": "Central & Van Buren",
+                        "stop_code": "15515",
+                        "stop_desc": "Central & Jackson, Southbound, Southwest Corner",
+                        "stop_id": "15515",
+                        "stop_lat": "41.87635683",
+                        "stop_lon": "-87.76480598",
+                        "stop_name": "Central & Jackson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Van Buren",
-            "onestopId": "s-dp3w4z5dq4-central~vanburen",
+            "name": "Central & Jackson",
+            "onestopId": "s-dp3w4z7e7y-central~jackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1667,62 +1681,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77433754,
-                    41.86903499
+                    -87.772963,
+                    41.865551
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9613",
+                    "identifier": "f-cta-s-9616",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9613",
-                        "stop_desc": "Austin & Harvard/Arthington, Southbound, Southwest Corner",
-                        "stop_id": "9613",
-                        "stop_lat": "41.86903499",
-                        "stop_lon": "-87.77433754",
-                        "stop_name": "Austin & Harvard/Arthington",
+                        "stop_code": "9616",
+                        "stop_desc": "Mason & Roosevelt, Southbound, Northwest Corner",
+                        "stop_id": "9616",
+                        "stop_lat": "41.865551",
+                        "stop_lon": "-87.772963",
+                        "stop_name": "Mason & Roosevelt",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Harvard/Arthington",
-            "onestopId": "s-dp3w4wh8v9-austin~harvard~arthington",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.78383409,
-                    41.85083517
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6960",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6960",
-                        "stop_desc": "Cermak & Ridgeland, Westbound, Northwest Corner",
-                        "stop_id": "6960",
-                        "stop_lat": "41.85083517",
-                        "stop_lon": "-87.78383409",
-                        "stop_name": "Cermak & Ridgeland",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cermak & Ridgeland",
-            "onestopId": "s-dp3w46tyb3-cermak~ridgeland",
+            "name": "Mason & Roosevelt",
+            "onestopId": "s-dp3w4tmst8-mason~roosevelt",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1766,29 +1747,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.774045,
-                    41.865629
+                    -87.77131794,
+                    41.87706679
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9617",
+                    "identifier": "f-cta-s-2",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9617",
-                        "stop_desc": "Austin & Roosevelt, Northbound, Northeast Corner",
-                        "stop_id": "9617",
-                        "stop_lat": "41.865629",
-                        "stop_lon": "-87.774045",
-                        "stop_name": "Austin & Roosevelt",
+                        "stop_code": "2",
+                        "stop_desc": "5900 W Jackson, Eastbound, Southside of the Street",
+                        "stop_id": "2",
+                        "stop_lat": "41.87706679",
+                        "stop_lon": "-87.77131794",
+                        "stop_name": "5900 W Jackson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Roosevelt",
-            "onestopId": "s-dp3w4tkuuw-austin~roosevelt",
+            "name": "5900 W Jackson",
+            "onestopId": "s-dp3w4xqzs5-5900wjackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1865,29 +1846,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.774465,
-                    41.87778
+                    -87.774045,
+                    41.865629
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9624",
+                    "identifier": "f-cta-s-9617",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9624",
-                        "stop_desc": "Austin & Adams, Northbound, Northeast Corner",
-                        "stop_id": "9624",
-                        "stop_lat": "41.87778",
-                        "stop_lon": "-87.774465",
-                        "stop_name": "Austin & Adams",
+                        "stop_code": "9617",
+                        "stop_desc": "Austin & Roosevelt, Northbound, Northeast Corner",
+                        "stop_id": "9617",
+                        "stop_lat": "41.865629",
+                        "stop_lon": "-87.774045",
+                        "stop_name": "Austin & Roosevelt",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Adams",
-            "onestopId": "s-dp3w4xsef8-austin~adams",
+            "name": "Austin & Roosevelt",
+            "onestopId": "s-dp3w4tkuuw-austin~roosevelt",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.764711,
+                    41.87479
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11574",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11574",
+                        "stop_desc": "Central & Van Buren, Southbound, Westside of the Street",
+                        "stop_id": "11574",
+                        "stop_lat": "41.87479",
+                        "stop_lon": "-87.764711",
+                        "stop_name": "Central & Van Buren",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & Van Buren",
+            "onestopId": "s-dp3w4z5dq4-central~vanburen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1931,43 +1945,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.776812,
-                    41.870851
+                    -87.76745055,
+                    41.87702418
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30001",
+                    "identifier": "f-cta-s-4",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40010",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30001",
-                        "stop_lat": "41.870851",
-                        "stop_lon": "-87.776812",
-                        "stop_name": "Austin-Blue",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30002",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40010",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30002",
-                        "stop_lat": "41.870851",
-                        "stop_lon": "-87.776812",
-                        "stop_name": "Austin-Blue",
-                        "wheelchair_boarding": "0"
+                        "parent_station": "",
+                        "stop_code": "4",
+                        "stop_desc": "5700 W Jackson, Eastbound, Southside of the Street",
+                        "stop_id": "4",
+                        "stop_lat": "41.87702418",
+                        "stop_lon": "-87.76745055",
+                        "stop_name": "5700 W Jackson",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin-Blue",
-            "onestopId": "s-dp3w4w6gkh-austinblue",
+            "name": "5700 W Jackson",
+            "onestopId": "s-dp3w4z3xq5-5700wjackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2176,29 +2176,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77406269,
-                    41.86722455
+                    -87.76459825,
+                    41.87660365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9614",
+                    "identifier": "f-cta-s-149",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9614",
-                        "stop_desc": "Fillmore & Austin, Eastbound, Southeast Corner",
-                        "stop_id": "9614",
-                        "stop_lat": "41.86722455",
-                        "stop_lon": "-87.77406269",
-                        "stop_name": "Fillmore & Austin",
+                        "stop_code": "149",
+                        "stop_desc": "Jackson & Central, Westbound, Northeast Corner",
+                        "stop_id": "149",
+                        "stop_lat": "41.87660365",
+                        "stop_lon": "-87.76459825",
+                        "stop_name": "Jackson & Central",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Fillmore & Austin",
-            "onestopId": "s-dp3w4tsyk0-fillmore~austin",
+            "name": "Jackson & Central",
+            "onestopId": "s-dp3w4z7ubs-jackson~central",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2341,29 +2341,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76154549,
-                    41.87661212
+                    -87.764565,
+                    41.874638
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-148",
+                    "identifier": "f-cta-s-11576",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "148",
-                        "stop_desc": "Jackson & Lotus, Westbound, Northwest Corner",
-                        "stop_id": "148",
-                        "stop_lat": "41.87661212",
-                        "stop_lon": "-87.76154549",
-                        "stop_name": "Jackson & Lotus",
+                        "stop_code": "11576",
+                        "stop_desc": "Central & Van Buren, Northbound, Southeast Corner",
+                        "stop_id": "11576",
+                        "stop_lat": "41.874638",
+                        "stop_lon": "-87.764565",
+                        "stop_name": "Central & Van Buren",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson & Lotus",
-            "onestopId": "s-dp3w4zmuzy-jackson~lotus",
+            "name": "Central & Van Buren",
+            "onestopId": "s-dp3w4z5c3q-central~vanburen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2407,29 +2407,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79355164,
-                    41.8506062
+                    -87.77414589,
+                    41.86916521
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15862",
+                    "identifier": "f-cta-s-9619",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15862",
-                        "stop_desc": "Cermak & Oak Park, Westbound, Northwest Corner",
-                        "stop_id": "15862",
-                        "stop_lat": "41.8506062",
-                        "stop_lon": "-87.79355164",
-                        "stop_name": "Cermak & Oak Park",
+                        "stop_code": "9619",
+                        "stop_desc": "Austin & Harvard/Arthington, Northbound, Northeast Corner",
+                        "stop_id": "9619",
+                        "stop_lat": "41.86916521",
+                        "stop_lon": "-87.77414589",
+                        "stop_name": "Austin & Harvard/Arthington",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Oak Park",
-            "onestopId": "s-dp3w44wtmy-cermak~oakpark",
+            "name": "Austin & Harvard/Arthington",
+            "onestopId": "s-dp3w4whcd4-austin~harvard~arthington",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2473,29 +2473,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77414589,
-                    41.86916521
+                    -87.79355164,
+                    41.8506062
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9619",
+                    "identifier": "f-cta-s-15862",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9619",
-                        "stop_desc": "Austin & Harvard/Arthington, Northbound, Northeast Corner",
-                        "stop_id": "9619",
-                        "stop_lat": "41.86916521",
-                        "stop_lon": "-87.77414589",
-                        "stop_name": "Austin & Harvard/Arthington",
+                        "stop_code": "15862",
+                        "stop_desc": "Cermak & Oak Park, Westbound, Northwest Corner",
+                        "stop_id": "15862",
+                        "stop_lat": "41.8506062",
+                        "stop_lon": "-87.79355164",
+                        "stop_name": "Cermak & Oak Park",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Harvard/Arthington",
-            "onestopId": "s-dp3w4whcd4-austin~harvard~arthington",
+            "name": "Cermak & Oak Park",
+            "onestopId": "s-dp3w44wtmy-cermak~oakpark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

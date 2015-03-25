@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.068481,
-                    33.913639
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-13000133",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13000133",
-                        "stop_desc": "",
-                        "stop_id": "13000133",
-                        "stop_lat": "33.913639",
-                        "stop_lon": "-118.068481",
-                        "stop_name": "Civic Center / Volunteer",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Civic Center / Volunteer",
-            "onestopId": "s-9qh0cmc1kb-civic~volunteer",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.046013,
                     33.887768
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "Alondra / Carmenita",
             "onestopId": "s-9qh0cc1d89-alondra~carmenita",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.068481,
+                    33.913639
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-13000133",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13000133",
+                        "stop_desc": "",
+                        "stop_id": "13000133",
+                        "stop_lat": "33.913639",
+                        "stop_lon": "-118.068481",
+                        "stop_name": "Civic Center / Volunteer",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Civic Center / Volunteer",
+            "onestopId": "s-9qh0cmc1kb-civic~volunteer",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -139,74 +139,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.055,
-                    33.887699
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-17197",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "17197",
-                        "stop_desc": "",
-                        "stop_id": "17197",
-                        "stop_lat": "33.887699",
-                        "stop_lon": "-118.055",
-                        "stop_name": "Alondra / Shoemaker",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Alondra / Shoemaker",
-            "onestopId": "s-9qh0c94fph-alondra~shoemaker",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.064331,
-                    33.902477
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-13048",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13048",
-                        "stop_desc": "",
-                        "stop_id": "13048",
-                        "stop_lat": "33.902477",
-                        "stop_lon": "-118.064331",
-                        "stop_name": "Rosecrans / Bloomfield",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Bloomfield",
-            "onestopId": "s-9qh0c7u0jx-rosecrans~bloomfield",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.071388,
                     33.914104
                 ],
@@ -241,30 +173,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.058235,
-                    33.902512
+                    -118.06012,
+                    33.902493
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-13055",
+                    "identifier": "f-lacmta-s-17530",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13055",
+                        "stop_code": "17530",
                         "stop_desc": "",
-                        "stop_id": "13055",
-                        "stop_lat": "33.902512",
-                        "stop_lon": "-118.058235",
-                        "stop_name": "Rosecrans / Greenstone",
+                        "stop_id": "17530",
+                        "stop_lat": "33.902493",
+                        "stop_lon": "-118.06012",
+                        "stop_name": "Rosecrans / Firestone",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rosecrans / Greenstone",
-            "onestopId": "s-9qh0ceb87w-rosecrans~greenstone",
+            "name": "Rosecrans / Firestone",
+            "onestopId": "s-9qh0c7z0rf-rosecrans~firestone",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -275,64 +207,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.079063,
-                    33.911434
+                    -118.046722,
+                    33.898548
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-2711",
+                    "identifier": "f-lacmta-s-602",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2711",
+                        "stop_code": "602",
                         "stop_desc": "",
-                        "stop_id": "2711",
-                        "stop_lat": "33.911434",
-                        "stop_lon": "-118.079063",
-                        "stop_name": "Firestone / Paddison",
+                        "stop_id": "602",
+                        "stop_lat": "33.898548",
+                        "stop_lon": "-118.046722",
+                        "stop_name": "Carmenita / Mapledale",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Firestone / Paddison",
-            "onestopId": "s-9qh0cj3kqm-firestone~paddison",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.050735,
-                    33.902557
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-13050",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13050",
-                        "stop_desc": "",
-                        "stop_id": "13050",
-                        "stop_lat": "33.902557",
-                        "stop_lon": "-118.050735",
-                        "stop_name": "Rosecrans / Dinard",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Dinard",
-            "onestopId": "s-9qh0cey0dq-rosecrans~dinard",
+            "name": "Carmenita / Mapledale",
+            "onestopId": "s-9qh0cg1125-carmenita~mapledale",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -479,30 +377,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.075905,
-                    33.909313
+                    -118.074097,
+                    33.911198
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-5804",
+                    "identifier": "f-lacmta-s-14179",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5804",
+                        "stop_code": "14179",
                         "stop_desc": "",
-                        "stop_id": "5804",
-                        "stop_lat": "33.909313",
-                        "stop_lon": "-118.075905",
-                        "stop_name": "San Antonio / Firestone",
+                        "stop_id": "14179",
+                        "stop_lat": "33.911198",
+                        "stop_lon": "-118.074097",
+                        "stop_name": "San Antonio / Olive",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Antonio / Firestone",
-            "onestopId": "s-9qh0cj58pf-sanantonio~firestone",
+            "name": "San Antonio / Olive",
+            "onestopId": "s-9qh0cjm541-sanantonio~olive",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.055,
+                    33.887699
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-17197",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "17197",
+                        "stop_desc": "",
+                        "stop_id": "17197",
+                        "stop_lat": "33.887699",
+                        "stop_lon": "-118.055",
+                        "stop_name": "Alondra / Shoemaker",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Alondra / Shoemaker",
+            "onestopId": "s-9qh0c94fph-alondra~shoemaker",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -547,30 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.063728,
-                    33.917599
+                    -118.072762,
+                    33.920918
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-25020",
+                    "identifier": "f-lacmta-s-4073",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "25020",
+                        "stop_code": "4073",
                         "stop_desc": "",
-                        "stop_id": "25020",
-                        "stop_lat": "33.917599",
-                        "stop_lon": "-118.063728",
-                        "stop_name": "Bloomfield / Imperial",
+                        "stop_id": "4073",
+                        "stop_lat": "33.920918",
+                        "stop_lon": "-118.072762",
+                        "stop_name": "Norwalk / Crewe",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Bloomfield / Imperial",
-            "onestopId": "s-9qh0cqs87d-bloomfield~imperial",
+            "name": "Norwalk / Crewe",
+            "onestopId": "s-9qh0cpn59j-norwalk~crewe",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -605,40 +537,6 @@
             ],
             "name": "Carmenita / Molette",
             "onestopId": "s-9qh0ccc12z-carmenita~molette",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.079895,
-                    33.902351
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-13054",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13054",
-                        "stop_desc": "",
-                        "stop_id": "13054",
-                        "stop_lat": "33.902351",
-                        "stop_lon": "-118.079895",
-                        "stop_name": "Rosecrans / Clarkdale",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Clarkdale",
-            "onestopId": "s-9qh0c58ze0-rosecrans~clarkdale",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -717,6 +615,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.073463,
+                    33.90239
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-13056",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13056",
+                        "stop_desc": "",
+                        "stop_id": "13056",
+                        "stop_lat": "33.90239",
+                        "stop_lon": "-118.073463",
+                        "stop_name": "Rosecrans / Norwalk",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Norwalk",
+            "onestopId": "s-9qh0c5tx8z-rosecrans~norwalk",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.074684,
                     33.9109
                 ],
@@ -741,278 +673,6 @@
             ],
             "name": "San Antonio / Olive",
             "onestopId": "s-9qh0cjk9k3-sanantonio~olive",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.079544,
-                    33.902088
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-4594",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4594",
-                        "stop_desc": "",
-                        "stop_id": "4594",
-                        "stop_lat": "33.902088",
-                        "stop_lon": "-118.079544",
-                        "stop_name": "Rosecrans / Clarkdale",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Clarkdale",
-            "onestopId": "s-9qh0c59jgp-rosecrans~clarkdale",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.069275,
-                    33.90213
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-4598",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4598",
-                        "stop_desc": "",
-                        "stop_id": "4598",
-                        "stop_lat": "33.90213",
-                        "stop_lon": "-118.069275",
-                        "stop_name": "Rosecrans / Helwig",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Helwig",
-            "onestopId": "s-9qh0c78w4r-rosecrans~helwig",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.072479,
-                    33.923603
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-12561",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "12561",
-                        "stop_desc": "",
-                        "stop_id": "12561",
-                        "stop_lat": "33.923603",
-                        "stop_lon": "-118.072479",
-                        "stop_name": "Norwalk / Aegean",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Norwalk / Aegean",
-            "onestopId": "s-9qh0cpw5rc-norwalk~aegean",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.069115,
-                    33.902386
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-13052",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13052",
-                        "stop_desc": "",
-                        "stop_id": "13052",
-                        "stop_lat": "33.902386",
-                        "stop_lon": "-118.069115",
-                        "stop_name": "Rosecrans / Helwig",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Helwig",
-            "onestopId": "s-9qh0c78xwn-rosecrans~helwig",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.046722,
-                    33.898548
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-602",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "602",
-                        "stop_desc": "",
-                        "stop_id": "602",
-                        "stop_lat": "33.898548",
-                        "stop_lon": "-118.046722",
-                        "stop_name": "Carmenita / Mapledale",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Carmenita / Mapledale",
-            "onestopId": "s-9qh0cg1125-carmenita~mapledale",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.057411,
-                    33.902264
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-4597",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4597",
-                        "stop_desc": "",
-                        "stop_id": "4597",
-                        "stop_lat": "33.902264",
-                        "stop_lon": "-118.057411",
-                        "stop_name": "Rosecrans / Greenstone",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosecrans / Greenstone",
-            "onestopId": "s-9qh0ce9pnb-rosecrans~greenstone",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.080246,
-                    33.904209
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-14180",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "14180",
-                        "stop_desc": "",
-                        "stop_id": "14180",
-                        "stop_lat": "33.904209",
-                        "stop_lon": "-118.080246",
-                        "stop_name": "San Antonio / Orange",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "San Antonio / Orange",
-            "onestopId": "s-9qh0ch0d6f-sanantonio~orange",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.055656,
-                    33.887951
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-17218",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "17218",
-                        "stop_desc": "",
-                        "stop_id": "17218",
-                        "stop_lat": "33.887951",
-                        "stop_lon": "-118.055656",
-                        "stop_name": "Alondra / Shoemaker",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Alondra / Shoemaker",
-            "onestopId": "s-9qh0c947xg-alondra~shoemaker",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1057,6 +717,346 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.079544,
+                    33.902088
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-4594",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4594",
+                        "stop_desc": "",
+                        "stop_id": "4594",
+                        "stop_lat": "33.902088",
+                        "stop_lon": "-118.079544",
+                        "stop_name": "Rosecrans / Clarkdale",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Clarkdale",
+            "onestopId": "s-9qh0c59jgp-rosecrans~clarkdale",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.075905,
+                    33.909313
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-5804",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5804",
+                        "stop_desc": "",
+                        "stop_id": "5804",
+                        "stop_lat": "33.909313",
+                        "stop_lon": "-118.075905",
+                        "stop_name": "San Antonio / Firestone",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "San Antonio / Firestone",
+            "onestopId": "s-9qh0cj58pf-sanantonio~firestone",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.069275,
+                    33.90213
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-4598",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4598",
+                        "stop_desc": "",
+                        "stop_id": "4598",
+                        "stop_lat": "33.90213",
+                        "stop_lon": "-118.069275",
+                        "stop_name": "Rosecrans / Helwig",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Helwig",
+            "onestopId": "s-9qh0c78w4r-rosecrans~helwig",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.069115,
+                    33.902386
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-13052",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13052",
+                        "stop_desc": "",
+                        "stop_id": "13052",
+                        "stop_lat": "33.902386",
+                        "stop_lon": "-118.069115",
+                        "stop_name": "Rosecrans / Helwig",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Helwig",
+            "onestopId": "s-9qh0c78xwn-rosecrans~helwig",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.063728,
+                    33.917599
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-25020",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "25020",
+                        "stop_desc": "",
+                        "stop_id": "25020",
+                        "stop_lat": "33.917599",
+                        "stop_lon": "-118.063728",
+                        "stop_name": "Bloomfield / Imperial",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Bloomfield / Imperial",
+            "onestopId": "s-9qh0cqs87d-bloomfield~imperial",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.057411,
+                    33.902264
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-4597",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4597",
+                        "stop_desc": "",
+                        "stop_id": "4597",
+                        "stop_lat": "33.902264",
+                        "stop_lon": "-118.057411",
+                        "stop_name": "Rosecrans / Greenstone",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Greenstone",
+            "onestopId": "s-9qh0ce9pnb-rosecrans~greenstone",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.064331,
+                    33.902477
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-13048",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13048",
+                        "stop_desc": "",
+                        "stop_id": "13048",
+                        "stop_lat": "33.902477",
+                        "stop_lon": "-118.064331",
+                        "stop_name": "Rosecrans / Bloomfield",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Bloomfield",
+            "onestopId": "s-9qh0c7u0jx-rosecrans~bloomfield",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.055656,
+                    33.887951
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-17218",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "17218",
+                        "stop_desc": "",
+                        "stop_id": "17218",
+                        "stop_lat": "33.887951",
+                        "stop_lon": "-118.055656",
+                        "stop_name": "Alondra / Shoemaker",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Alondra / Shoemaker",
+            "onestopId": "s-9qh0c947xg-alondra~shoemaker",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.080246,
+                    33.904209
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-14180",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "14180",
+                        "stop_desc": "",
+                        "stop_id": "14180",
+                        "stop_lat": "33.904209",
+                        "stop_lon": "-118.080246",
+                        "stop_name": "San Antonio / Orange",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "San Antonio / Orange",
+            "onestopId": "s-9qh0ch0d6f-sanantonio~orange",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.070862,
+                    33.914288
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-25400208",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "25400208",
+                        "stop_desc": "",
+                        "stop_id": "25400208",
+                        "stop_lat": "33.914288",
+                        "stop_lon": "-118.070862",
+                        "stop_name": "Civic Center / 20 AMC Theaters",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Civic Center / 20 AMC Theaters",
+            "onestopId": "s-9qh0cjzmj9-civic~20amctheaters",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.046684,
                     33.895332
                 ],
@@ -1091,30 +1091,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.069275,
-                    33.887817
+                    -118.071625,
+                    33.916996
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17221",
+                    "identifier": "f-lacmta-s-2649",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17221",
+                        "stop_code": "2649",
                         "stop_desc": "",
-                        "stop_id": "17221",
-                        "stop_lat": "33.887817",
-                        "stop_lon": "-118.069275",
-                        "stop_name": "Alondra / Madris",
+                        "stop_id": "2649",
+                        "stop_lat": "33.916996",
+                        "stop_lon": "-118.071625",
+                        "stop_name": "Imperial / Norwalk",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Alondra / Madris",
-            "onestopId": "s-9qh0c30df6-alondra~madris",
+            "name": "Imperial / Norwalk",
+            "onestopId": "s-9qh0cnqugd-imperial~norwalk",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1125,64 +1125,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.046738,
-                    33.88776
+                    -118.038322,
+                    33.902622
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17198",
+                    "identifier": "f-lacmta-s-17531",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17198",
+                        "stop_code": "17531",
                         "stop_desc": "",
-                        "stop_id": "17198",
-                        "stop_lat": "33.88776",
-                        "stop_lon": "-118.046738",
-                        "stop_name": "Alondra / Carmenita",
+                        "stop_id": "17531",
+                        "stop_lat": "33.902622",
+                        "stop_lon": "-118.038322",
+                        "stop_name": "Rosecrans / Marquardt",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Alondra / Carmenita",
-            "onestopId": "s-9qh0cc0fx8-alondra~carmenita",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.075798,
-                    33.908939
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-14177",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "14177",
-                        "stop_desc": "",
-                        "stop_id": "14177",
-                        "stop_lat": "33.908939",
-                        "stop_lon": "-118.075798",
-                        "stop_name": "San Antonio / Firestone",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "San Antonio / Firestone",
-            "onestopId": "s-9qh0chgvfk-sanantonio~firestone",
+            "name": "Rosecrans / Marquardt",
+            "onestopId": "s-9qh0cgz15d-rosecrans~marquardt",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1261,30 +1227,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.072762,
-                    33.920918
+                    -118.079063,
+                    33.911434
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4073",
+                    "identifier": "f-lacmta-s-2711",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4073",
+                        "stop_code": "2711",
                         "stop_desc": "",
-                        "stop_id": "4073",
-                        "stop_lat": "33.920918",
-                        "stop_lon": "-118.072762",
-                        "stop_name": "Norwalk / Crewe",
+                        "stop_id": "2711",
+                        "stop_lat": "33.911434",
+                        "stop_lon": "-118.079063",
+                        "stop_name": "Firestone / Paddison",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Norwalk / Crewe",
-            "onestopId": "s-9qh0cpn59j-norwalk~crewe",
+            "name": "Firestone / Paddison",
+            "onestopId": "s-9qh0cj3kqm-firestone~paddison",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1363,30 +1329,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.06012,
-                    33.902493
+                    -118.072533,
+                    33.887558
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17530",
+                    "identifier": "f-lacmta-s-17193",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17530",
+                        "stop_code": "17193",
                         "stop_desc": "",
-                        "stop_id": "17530",
-                        "stop_lat": "33.902493",
-                        "stop_lon": "-118.06012",
-                        "stop_name": "Rosecrans / Firestone",
+                        "stop_id": "17193",
+                        "stop_lat": "33.887558",
+                        "stop_lon": "-118.072533",
+                        "stop_name": "Alondra / Norwalk",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rosecrans / Firestone",
-            "onestopId": "s-9qh0c7z0rf-rosecrans~firestone",
+            "name": "Alondra / Norwalk",
+            "onestopId": "s-9qh0c1n1qd-alondra~norwalk",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1397,30 +1363,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.074097,
-                    33.911198
+                    -118.072479,
+                    33.923603
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14179",
+                    "identifier": "f-lacmta-s-12561",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14179",
+                        "stop_code": "12561",
                         "stop_desc": "",
-                        "stop_id": "14179",
-                        "stop_lat": "33.911198",
-                        "stop_lon": "-118.074097",
-                        "stop_name": "San Antonio / Olive",
+                        "stop_id": "12561",
+                        "stop_lat": "33.923603",
+                        "stop_lon": "-118.072479",
+                        "stop_name": "Norwalk / Aegean",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Antonio / Olive",
-            "onestopId": "s-9qh0cjm541-sanantonio~olive",
+            "name": "Norwalk / Aegean",
+            "onestopId": "s-9qh0cpw5rc-norwalk~aegean",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1465,30 +1431,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.071625,
-                    33.916996
+                    -118.069275,
+                    33.887817
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-2649",
+                    "identifier": "f-lacmta-s-17221",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2649",
+                        "stop_code": "17221",
                         "stop_desc": "",
-                        "stop_id": "2649",
-                        "stop_lat": "33.916996",
-                        "stop_lon": "-118.071625",
-                        "stop_name": "Imperial / Norwalk",
+                        "stop_id": "17221",
+                        "stop_lat": "33.887817",
+                        "stop_lon": "-118.069275",
+                        "stop_name": "Alondra / Madris",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Imperial / Norwalk",
-            "onestopId": "s-9qh0cnqugd-imperial~norwalk",
+            "name": "Alondra / Madris",
+            "onestopId": "s-9qh0c30df6-alondra~madris",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1533,6 +1499,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.058235,
+                    33.902512
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-13055",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13055",
+                        "stop_desc": "",
+                        "stop_id": "13055",
+                        "stop_lat": "33.902512",
+                        "stop_lon": "-118.058235",
+                        "stop_name": "Rosecrans / Greenstone",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Greenstone",
+            "onestopId": "s-9qh0ceb87w-rosecrans~greenstone",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.046265,
                     33.902332
                 ],
@@ -1567,30 +1567,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.037331,
-                    33.902374
+                    -118.080727,
+                    33.90414
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4602",
+                    "identifier": "f-lacmta-s-5807",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4602",
+                        "stop_code": "5807",
                         "stop_desc": "",
-                        "stop_id": "4602",
-                        "stop_lat": "33.902374",
-                        "stop_lon": "-118.037331",
-                        "stop_name": "Rosecrans / Marquardt",
+                        "stop_id": "5807",
+                        "stop_lat": "33.90414",
+                        "stop_lon": "-118.080727",
+                        "stop_name": "San Antonio / Orange",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rosecrans / Marquardt",
-            "onestopId": "s-9qh0cgxzdu-rosecrans~marquardt",
+            "name": "San Antonio / Orange",
+            "onestopId": "s-9qh0ch01zt-sanantonio~orange",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1601,30 +1601,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.038322,
-                    33.902622
+                    -118.046738,
+                    33.90218
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17531",
+                    "identifier": "f-lacmta-s-607",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17531",
+                        "stop_code": "607",
                         "stop_desc": "",
-                        "stop_id": "17531",
-                        "stop_lat": "33.902622",
-                        "stop_lon": "-118.038322",
-                        "stop_name": "Rosecrans / Marquardt",
+                        "stop_id": "607",
+                        "stop_lat": "33.90218",
+                        "stop_lon": "-118.046738",
+                        "stop_name": "Carmenita / Rosecrans",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rosecrans / Marquardt",
-            "onestopId": "s-9qh0cgz15d-rosecrans~marquardt",
+            "name": "Carmenita / Rosecrans",
+            "onestopId": "s-9qh0cg8yx8-carmenita~rosecrans",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1703,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.073463,
-                    33.90239
+                    -118.037331,
+                    33.902374
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-13056",
+                    "identifier": "f-lacmta-s-4602",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13056",
+                        "stop_code": "4602",
                         "stop_desc": "",
-                        "stop_id": "13056",
-                        "stop_lat": "33.90239",
-                        "stop_lon": "-118.073463",
-                        "stop_name": "Rosecrans / Norwalk",
+                        "stop_id": "4602",
+                        "stop_lat": "33.902374",
+                        "stop_lon": "-118.037331",
+                        "stop_name": "Rosecrans / Marquardt",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rosecrans / Norwalk",
-            "onestopId": "s-9qh0c5tx8z-rosecrans~norwalk",
+            "name": "Rosecrans / Marquardt",
+            "onestopId": "s-9qh0cgxzdu-rosecrans~marquardt",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1761,6 +1761,40 @@
             ],
             "name": "Rosecrans / Dinard",
             "onestopId": "s-9qh0cetz4z-rosecrans~dinard",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.079895,
+                    33.902351
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-13054",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13054",
+                        "stop_desc": "",
+                        "stop_id": "13054",
+                        "stop_lat": "33.902351",
+                        "stop_lon": "-118.079895",
+                        "stop_name": "Rosecrans / Clarkdale",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Rosecrans / Clarkdale",
+            "onestopId": "s-9qh0c58ze0-rosecrans~clarkdale",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1863,6 +1897,40 @@
             ],
             "name": "Civic Center / Bloomfield",
             "onestopId": "s-9qh0cmgzud-civic~bloomfield",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.046738,
+                    33.88776
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-17198",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "17198",
+                        "stop_desc": "",
+                        "stop_id": "17198",
+                        "stop_lat": "33.88776",
+                        "stop_lon": "-118.046738",
+                        "stop_name": "Alondra / Carmenita",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Alondra / Carmenita",
+            "onestopId": "s-9qh0cc0fx8-alondra~carmenita",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2111,30 +2179,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.080727,
-                    33.90414
+                    -118.075798,
+                    33.908939
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-5807",
+                    "identifier": "f-lacmta-s-14177",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5807",
+                        "stop_code": "14177",
                         "stop_desc": "",
-                        "stop_id": "5807",
-                        "stop_lat": "33.90414",
-                        "stop_lon": "-118.080727",
-                        "stop_name": "San Antonio / Orange",
+                        "stop_id": "14177",
+                        "stop_lat": "33.908939",
+                        "stop_lon": "-118.075798",
+                        "stop_name": "San Antonio / Firestone",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Antonio / Orange",
-            "onestopId": "s-9qh0ch01zt-sanantonio~orange",
+            "name": "San Antonio / Firestone",
+            "onestopId": "s-9qh0chgvfk-sanantonio~firestone",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2145,98 +2213,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.072533,
-                    33.887558
+                    -118.050735,
+                    33.902557
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17193",
+                    "identifier": "f-lacmta-s-13050",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17193",
+                        "stop_code": "13050",
                         "stop_desc": "",
-                        "stop_id": "17193",
-                        "stop_lat": "33.887558",
-                        "stop_lon": "-118.072533",
-                        "stop_name": "Alondra / Norwalk",
+                        "stop_id": "13050",
+                        "stop_lat": "33.902557",
+                        "stop_lon": "-118.050735",
+                        "stop_name": "Rosecrans / Dinard",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Alondra / Norwalk",
-            "onestopId": "s-9qh0c1n1qd-alondra~norwalk",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.046738,
-                    33.90218
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-607",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "607",
-                        "stop_desc": "",
-                        "stop_id": "607",
-                        "stop_lat": "33.90218",
-                        "stop_lon": "-118.046738",
-                        "stop_name": "Carmenita / Rosecrans",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Carmenita / Rosecrans",
-            "onestopId": "s-9qh0cg8yx8-carmenita~rosecrans",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.070862,
-                    33.914288
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-25400208",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "25400208",
-                        "stop_desc": "",
-                        "stop_id": "25400208",
-                        "stop_lat": "33.914288",
-                        "stop_lon": "-118.070862",
-                        "stop_name": "Civic Center / 20 AMC Theaters",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Civic Center / 20 AMC Theaters",
-            "onestopId": "s-9qh0cjzmj9-civic~20amctheaters",
+            "name": "Rosecrans / Dinard",
+            "onestopId": "s-9qh0cey0dq-rosecrans~dinard",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

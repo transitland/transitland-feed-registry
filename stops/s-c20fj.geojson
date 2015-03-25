@@ -3,6 +3,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.440431,
+                    45.387043
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8721",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "8721",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 8721)",
+                        "stop_id": "8721",
+                        "stop_lat": "45.387043",
+                        "stop_lon": "-122.440431",
+                        "stop_name": "21700 Block SE Hwy 224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8721",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "21700 Block SE Hwy 224",
+            "onestopId": "s-c20fjy3wen-21700blockse224",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.440271,
                     45.386853
                 ],
@@ -75,42 +111,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46003,
-                    45.388786
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2913",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "2913",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2913)",
-                        "stop_id": "2913",
-                        "stop_lat": "45.388786",
-                        "stop_lon": "-122.46003",
-                        "stop_name": "SE Hwy 224 & 197th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2913",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Hwy 224 & 197th",
-            "onestopId": "s-c20fjqg2f6-se224~197th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.436033,
                     45.390424
                 ],
@@ -147,32 +147,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.440431,
-                    45.387043
+                    -122.45369,
+                    45.385386
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8721",
+                    "identifier": "f-trimet-s-13654",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8721",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 8721)",
-                        "stop_id": "8721",
-                        "stop_lat": "45.387043",
-                        "stop_lon": "-122.440431",
-                        "stop_name": "21700 Block SE Hwy 224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8721",
+                        "position": "At",
+                        "stop_code": "13654",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 13654)",
+                        "stop_id": "13654",
+                        "stop_lat": "45.385386",
+                        "stop_lon": "-122.45369",
+                        "stop_name": "20300 Block SE Hwy 224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13654",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "21700 Block SE Hwy 224",
-            "onestopId": "s-c20fjy3wen-21700blockse224",
+            "name": "20300 Block SE Hwy 224",
+            "onestopId": "s-c20fjqpvn1-20300blockse224",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -183,32 +183,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.461016,
-                    45.39306
+                    -122.46003,
+                    45.388786
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-12936",
+                    "identifier": "f-trimet-s-2913",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "12936",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 12936)",
-                        "stop_id": "12936",
-                        "stop_lat": "45.39306",
-                        "stop_lon": "-122.461016",
-                        "stop_name": "19000 Block SE Hwy 224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12936",
+                        "position": "Opposite",
+                        "stop_code": "2913",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2913)",
+                        "stop_id": "2913",
+                        "stop_lat": "45.388786",
+                        "stop_lon": "-122.46003",
+                        "stop_name": "SE Hwy 224 & 197th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2913",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "19000 Block SE Hwy 224",
-            "onestopId": "s-c20fjrd9ex-19000blockse224",
+            "name": "SE Hwy 224 & 197th",
+            "onestopId": "s-c20fjqg2f6-se224~197th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -399,32 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45369,
-                    45.385386
+                    -122.461016,
+                    45.39306
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13654",
+                    "identifier": "f-trimet-s-12936",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "13654",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 13654)",
-                        "stop_id": "13654",
-                        "stop_lat": "45.385386",
-                        "stop_lon": "-122.45369",
-                        "stop_name": "20300 Block SE Hwy 224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13654",
+                        "stop_code": "12936",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 12936)",
+                        "stop_id": "12936",
+                        "stop_lat": "45.39306",
+                        "stop_lon": "-122.461016",
+                        "stop_name": "19000 Block SE Hwy 224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12936",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "20300 Block SE Hwy 224",
-            "onestopId": "s-c20fjqpvn1-20300blockse224",
+            "name": "19000 Block SE Hwy 224",
+            "onestopId": "s-c20fjrd9ex-19000blockse224",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

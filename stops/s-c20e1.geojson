@@ -3,42 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.995423,
-                    45.548473
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9941",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9941",
-                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 9941)",
-                        "stop_id": "9941",
-                        "stop_lat": "45.548473",
-                        "stop_lon": "-122.995423",
-                        "stop_name": "NW Glencoe & NE Milne",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9941",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Glencoe & NE Milne",
-            "onestopId": "s-c20e15v7nf-nwglencoe~nemilne",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.974134,
                     45.550112
                 ],
@@ -111,6 +75,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.995633,
+                    45.548729
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9994",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9994",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9994)",
+                        "stop_id": "9994",
+                        "stop_lat": "45.548729",
+                        "stop_lon": "-122.995633",
+                        "stop_name": "NW Glencoe & Milne",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9994",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Glencoe & Milne",
+            "onestopId": "s-c20e15vkd4-nwglencoe~milne",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.989812,
                     45.535111
                 ],
@@ -173,6 +173,42 @@
             ],
             "name": "NE 15th & Jones Farm Pkwy",
             "onestopId": "s-c20e1ff83k-ne15th~jonesfarm",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.995546,
+                    45.54427
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9940",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9940",
+                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 9940)",
+                        "stop_id": "9940",
+                        "stop_lat": "45.54427",
+                        "stop_lon": "-122.995546",
+                        "stop_name": "NW Glencoe & NE Lenox",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9940",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Glencoe & NE Lenox",
+            "onestopId": "s-c20e15j6s5-nwglencoe~nelenox",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -327,32 +363,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.995546,
-                    45.54427
+                    -122.995423,
+                    45.548473
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9940",
+                    "identifier": "f-trimet-s-9941",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9940",
-                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 9940)",
-                        "stop_id": "9940",
-                        "stop_lat": "45.54427",
-                        "stop_lon": "-122.995546",
-                        "stop_name": "NW Glencoe & NE Lenox",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9940",
+                        "stop_code": "9941",
+                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 9941)",
+                        "stop_id": "9941",
+                        "stop_lat": "45.548473",
+                        "stop_lon": "-122.995423",
+                        "stop_name": "NW Glencoe & NE Milne",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9941",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Glencoe & NE Lenox",
-            "onestopId": "s-c20e15j6s5-nwglencoe~nelenox",
+            "name": "NW Glencoe & NE Milne",
+            "onestopId": "s-c20e15v7nf-nwglencoe~nemilne",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -425,6 +461,42 @@
             ],
             "name": "NE Cornell & Hillaire Dr",
             "onestopId": "s-c20e1btdu5-necornell~hillaire",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.95984,
+                    45.54019
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10198",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "10198",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10198)",
+                        "stop_id": "10198",
+                        "stop_lat": "45.54019",
+                        "stop_lon": "-122.95984",
+                        "stop_name": "2200 Block NE Griffin Oaks",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10198",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "2200 Block NE Griffin Oaks",
+            "onestopId": "s-c20e1fr6u4-2200blocknegriffinoaks",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -579,68 +651,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.989491,
-                    45.53152
+                    -122.995811,
+                    45.5429
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9937",
+                    "identifier": "f-trimet-s-9993",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9937",
-                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 9937)",
-                        "stop_id": "9937",
-                        "stop_lat": "45.53152",
-                        "stop_lon": "-122.989491",
-                        "stop_name": "N 1st & NE Tiffany",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9937",
+                        "position": "At",
+                        "stop_code": "9993",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9993)",
+                        "stop_id": "9993",
+                        "stop_lat": "45.5429",
+                        "stop_lon": "-122.995811",
+                        "stop_name": "3100 Block NW Glencoe",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9993",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N 1st & NE Tiffany",
-            "onestopId": "s-c20e12cb34-n1st~netiffany",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.979986,
-                    45.54992
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9945",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9945",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 9945)",
-                        "stop_id": "9945",
-                        "stop_lat": "45.54992",
-                        "stop_lon": "-122.979986",
-                        "stop_name": "NW Evergreen & NE Jackson School Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9945",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Evergreen & NE Jackson School Rd",
-            "onestopId": "s-c20e1s0ew8-nwevergreen~nejacksonschool",
+            "name": "3100 Block NW Glencoe",
+            "onestopId": "s-c20e14v4tg-3100blocknwglencoe",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -795,32 +831,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.995633,
-                    45.548729
+                    -122.962148,
+                    45.530783
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9994",
+                    "identifier": "f-trimet-s-8548",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9994",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9994)",
-                        "stop_id": "9994",
-                        "stop_lat": "45.548729",
-                        "stop_lon": "-122.995633",
-                        "stop_name": "NW Glencoe & Milne",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9994",
+                        "stop_code": "8548",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 8548)",
+                        "stop_id": "8548",
+                        "stop_lat": "45.530783",
+                        "stop_lon": "-122.962148",
+                        "stop_name": "NE Cornell & Hillaire Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8548",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Glencoe & Milne",
-            "onestopId": "s-c20e15vkd4-nwglencoe~milne",
+            "name": "NE Cornell & Hillaire Dr",
+            "onestopId": "s-c20e1btsn3-necornell~hillaire",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.966105,
+                    45.530395
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8555",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "8555",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8555)",
+                        "stop_id": "8555",
+                        "stop_lat": "45.530395",
+                        "stop_lon": "-122.966105",
+                        "stop_name": "NE Cornell & Arrington",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8555",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Cornell & Arrington",
+            "onestopId": "s-c20e1bdcf0-necornell~arrington",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -939,32 +1011,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.95984,
-                    45.54019
+                    -122.989641,
+                    45.534432
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10198",
+                    "identifier": "f-trimet-s-11024",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "10198",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10198)",
-                        "stop_id": "10198",
-                        "stop_lat": "45.54019",
-                        "stop_lon": "-122.95984",
-                        "stop_name": "2200 Block NE Griffin Oaks",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10198",
+                        "position": "Farside",
+                        "stop_code": "11024",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 11024)",
+                        "stop_id": "11024",
+                        "stop_lat": "45.534432",
+                        "stop_lon": "-122.989641",
+                        "stop_name": "NW Glencoe & Cody Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11024",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "2200 Block NE Griffin Oaks",
-            "onestopId": "s-c20e1fr6u4-2200blocknegriffinoaks",
+            "name": "NW Glencoe & Cody Ct",
+            "onestopId": "s-c20e1339m9-nwglencoe~cody",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1083,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.962148,
-                    45.530783
+                    -122.989491,
+                    45.53152
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8548",
+                    "identifier": "f-trimet-s-9937",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "8548",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 8548)",
-                        "stop_id": "8548",
-                        "stop_lat": "45.530783",
-                        "stop_lon": "-122.962148",
-                        "stop_name": "NE Cornell & Hillaire Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8548",
+                        "position": "Farside",
+                        "stop_code": "9937",
+                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 9937)",
+                        "stop_id": "9937",
+                        "stop_lat": "45.53152",
+                        "stop_lon": "-122.989491",
+                        "stop_name": "N 1st & NE Tiffany",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9937",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Cornell & Hillaire Dr",
-            "onestopId": "s-c20e1btsn3-necornell~hillaire",
+            "name": "N 1st & NE Tiffany",
+            "onestopId": "s-c20e12cb34-n1st~netiffany",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1145,42 +1217,6 @@
             ],
             "name": "2800 Block NW Glencoe",
             "onestopId": "s-c20e14mqfx-2800blocknwglencoe",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.989641,
-                    45.534432
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11024",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11024",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 11024)",
-                        "stop_id": "11024",
-                        "stop_lat": "45.534432",
-                        "stop_lon": "-122.989641",
-                        "stop_name": "NW Glencoe & Cody Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11024",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Glencoe & Cody Ct",
-            "onestopId": "s-c20e1339m9-nwglencoe~cody",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1299,68 +1335,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.966105,
-                    45.530395
+                    -122.979986,
+                    45.54992
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8555",
+                    "identifier": "f-trimet-s-9945",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8555",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8555)",
-                        "stop_id": "8555",
-                        "stop_lat": "45.530395",
-                        "stop_lon": "-122.966105",
-                        "stop_name": "NE Cornell & Arrington",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8555",
+                        "position": "Nearside",
+                        "stop_code": "9945",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 9945)",
+                        "stop_id": "9945",
+                        "stop_lat": "45.54992",
+                        "stop_lon": "-122.979986",
+                        "stop_name": "NW Evergreen & NE Jackson School Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9945",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Cornell & Arrington",
-            "onestopId": "s-c20e1bdcf0-necornell~arrington",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.995811,
-                    45.5429
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9993",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9993",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9993)",
-                        "stop_id": "9993",
-                        "stop_lat": "45.5429",
-                        "stop_lon": "-122.995811",
-                        "stop_name": "3100 Block NW Glencoe",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9993",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "3100 Block NW Glencoe",
-            "onestopId": "s-c20e14v4tg-3100blocknwglencoe",
+            "name": "NW Evergreen & NE Jackson School Rd",
+            "onestopId": "s-c20e1s0ew8-nwevergreen~nejacksonschool",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

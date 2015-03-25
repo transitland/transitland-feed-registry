@@ -39,32 +39,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.840362,
-                    45.538326
+                    -122.838212,
+                    45.544633
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10086",
+                    "identifier": "f-trimet-s-10089",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10086",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10086)",
-                        "stop_id": "10086",
-                        "stop_lat": "45.538326",
-                        "stop_lon": "-122.840362",
-                        "stop_name": "NW Bethany & Oak Hills Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10086",
+                        "position": "Farside",
+                        "stop_code": "10089",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10089)",
+                        "stop_id": "10089",
+                        "stop_lat": "45.544633",
+                        "stop_lon": "-122.838212",
+                        "stop_name": "NW Bethany & West Union",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10089",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Bethany & Oak Hills Dr",
-            "onestopId": "s-c20eh9yrup-nwbethany~oakhills",
+            "name": "NW Bethany & West Union",
+            "onestopId": "s-c20ehepuwn-nwbethany~westunion",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -219,32 +219,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.855301,
-                    45.541036
+                    -122.860486,
+                    45.562916
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13692",
+                    "identifier": "f-trimet-s-8839",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13692",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13692)",
-                        "stop_id": "13692",
-                        "stop_lat": "45.541036",
-                        "stop_lon": "-122.855301",
-                        "stop_name": "NW 174th & Parkview",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13692",
+                        "position": "Farside",
+                        "stop_code": "8839",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 8839)",
+                        "stop_id": "8839",
+                        "stop_lat": "45.562916",
+                        "stop_lon": "-122.860486",
+                        "stop_name": "NW Springville & 178th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8839",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 174th & Parkview",
-            "onestopId": "s-c20eh67rzb-nw174th~parkview",
+            "name": "NW Springville & 178th",
+            "onestopId": "s-c20ehnrxpp-nwspringville~178th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -939,6 +939,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.840362,
+                    45.538326
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10086",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10086",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10086)",
+                        "stop_id": "10086",
+                        "stop_lat": "45.538326",
+                        "stop_lon": "-122.840362",
+                        "stop_name": "NW Bethany & Oak Hills Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10086",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Bethany & Oak Hills Dr",
+            "onestopId": "s-c20eh9yrup-nwbethany~oakhills",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.862251,
                     45.534554
                 ],
@@ -1083,32 +1119,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.868284,
-                    45.534358
+                    -122.836897,
+                    45.556034
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9012",
+                    "identifier": "f-trimet-s-10107",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9012",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 9012)",
-                        "stop_id": "9012",
-                        "stop_lat": "45.534358",
-                        "stop_lon": "-122.868284",
-                        "stop_name": "NW Cornell & 185th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9012",
+                        "position": "Nearside",
+                        "stop_code": "10107",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 10107)",
+                        "stop_id": "10107",
+                        "stop_lat": "45.556034",
+                        "stop_lon": "-122.836897",
+                        "stop_name": "NW Bethany & Laidlaw",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10107",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & 185th",
-            "onestopId": "s-c20eh160c7-nwcornell~185th",
+            "name": "NW Bethany & Laidlaw",
+            "onestopId": "s-c20ehv0zhu-nwbethany~laidlaw",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1155,32 +1191,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.845713,
-                    45.564819
+                    -122.869908,
+                    45.538283
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10080",
+                    "identifier": "f-trimet-s-1159",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10080",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 10080)",
-                        "stop_id": "10080",
-                        "stop_lat": "45.564819",
-                        "stop_lon": "-122.845713",
-                        "stop_name": "NW Springville & Sickle Terrace",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10080",
+                        "position": "Nearside",
+                        "stop_code": "1159",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 1159)",
+                        "stop_id": "1159",
+                        "stop_lat": "45.538283",
+                        "stop_lon": "-122.869908",
+                        "stop_name": "NW Evergreen Pkwy & 188th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1159",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Springville & Sickle Terrace",
-            "onestopId": "s-c20ehwf6r3-nwspringville~sickleterrace",
+            "name": "NW Evergreen Pkwy & 188th",
+            "onestopId": "s-c20eh1bzex-nwevergreen~188th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1191,32 +1227,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.856027,
-                    45.562947
+                    -122.834851,
+                    45.562544
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10103",
+                    "identifier": "f-trimet-s-10076",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10103",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 10103)",
-                        "stop_id": "10103",
-                        "stop_lat": "45.562947",
-                        "stop_lon": "-122.856027",
-                        "stop_name": "NW Springville & 173rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10103",
+                        "stop_code": "10076",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10076)",
+                        "stop_id": "10076",
+                        "stop_lat": "45.562544",
+                        "stop_lon": "-122.834851",
+                        "stop_name": "NW Kaiser & Snowlily Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10076",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Springville & 173rd",
-            "onestopId": "s-c20ehq6zrh-nwspringville~173rd",
+            "name": "NW Kaiser & Snowlily Dr",
+            "onestopId": "s-c20ehy6mh9-nwkaiser~snowlily",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1335,32 +1371,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.855471,
-                    45.538702
+                    -122.851032,
+                    45.533965
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6905",
+                    "identifier": "f-trimet-s-10313",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6905",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 6905)",
-                        "stop_id": "6905",
-                        "stop_lat": "45.538702",
-                        "stop_lon": "-122.855471",
-                        "stop_name": "NW 174th & Santiam",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6905",
+                        "position": "Opposite",
+                        "stop_code": "10313",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 10313)",
+                        "stop_id": "10313",
+                        "stop_lat": "45.533965",
+                        "stop_lon": "-122.851032",
+                        "stop_name": "NW Cornell & 169th Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10313",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 174th & Santiam",
-            "onestopId": "s-c20eh656hj-nw174th~santiam",
+            "name": "NW Cornell & 169th Pl",
+            "onestopId": "s-c20eh3nwe6-nwcornell~169thpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1479,32 +1515,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.836897,
-                    45.556034
+                    -122.868284,
+                    45.534358
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10107",
+                    "identifier": "f-trimet-s-9012",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10107",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 10107)",
-                        "stop_id": "10107",
-                        "stop_lat": "45.556034",
-                        "stop_lon": "-122.836897",
-                        "stop_name": "NW Bethany & Laidlaw",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10107",
+                        "position": "Farside",
+                        "stop_code": "9012",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 9012)",
+                        "stop_id": "9012",
+                        "stop_lat": "45.534358",
+                        "stop_lon": "-122.868284",
+                        "stop_name": "NW Cornell & 185th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9012",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Bethany & Laidlaw",
-            "onestopId": "s-c20ehv0zhu-nwbethany~laidlaw",
+            "name": "NW Cornell & 185th",
+            "onestopId": "s-c20eh160c7-nwcornell~185th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,32 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.851032,
-                    45.533965
+                    -122.855471,
+                    45.538702
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10313",
+                    "identifier": "f-trimet-s-6905",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "10313",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 10313)",
-                        "stop_id": "10313",
-                        "stop_lat": "45.533965",
-                        "stop_lon": "-122.851032",
-                        "stop_name": "NW Cornell & 169th Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10313",
+                        "position": "Farside",
+                        "stop_code": "6905",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 6905)",
+                        "stop_id": "6905",
+                        "stop_lat": "45.538702",
+                        "stop_lon": "-122.855471",
+                        "stop_name": "NW 174th & Santiam",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6905",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & 169th Pl",
-            "onestopId": "s-c20eh3nwe6-nwcornell~169thpl",
+            "name": "NW 174th & Santiam",
+            "onestopId": "s-c20eh656hj-nw174th~santiam",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2091,32 +2127,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.838212,
-                    45.544633
+                    -122.836708,
+                    45.550525
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10089",
+                    "identifier": "f-trimet-s-10091",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10089",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10089)",
-                        "stop_id": "10089",
-                        "stop_lat": "45.544633",
-                        "stop_lon": "-122.838212",
-                        "stop_name": "NW Bethany & West Union",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10089",
+                        "position": "Nearside",
+                        "stop_code": "10091",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10091)",
+                        "stop_id": "10091",
+                        "stop_lat": "45.550525",
+                        "stop_lon": "-122.836708",
+                        "stop_name": "NW Bethany & Mitchell",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10091",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Bethany & West Union",
-            "onestopId": "s-c20ehepuwn-nwbethany~westunion",
+            "name": "NW Bethany & Mitchell",
+            "onestopId": "s-c20ehu1p11-nwbethany~mitchell",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2379,32 +2415,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867739,
-                    45.552887
+                    -122.849015,
+                    45.53323
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6954",
+                    "identifier": "f-trimet-s-9054",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6954",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 6954)",
-                        "stop_id": "6954",
-                        "stop_lat": "45.552887",
-                        "stop_lon": "-122.867739",
-                        "stop_name": "NW 185th & Adrian",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6954",
+                        "position": "Nearside",
+                        "stop_code": "9054",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 9054)",
+                        "stop_id": "9054",
+                        "stop_lat": "45.53323",
+                        "stop_lon": "-122.849015",
+                        "stop_name": "NW Cornell & 167th Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9054",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 185th & Adrian",
-            "onestopId": "s-c20ehhdky1-nw185th~adrian",
+            "name": "NW Cornell & 167th Pl",
+            "onestopId": "s-c20eh90463-nwcornell~167thpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2523,32 +2559,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.860486,
-                    45.562916
+                    -122.855301,
+                    45.541036
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8839",
+                    "identifier": "f-trimet-s-13692",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8839",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 8839)",
-                        "stop_id": "8839",
-                        "stop_lat": "45.562916",
-                        "stop_lon": "-122.860486",
-                        "stop_name": "NW Springville & 178th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8839",
+                        "position": "Nearside",
+                        "stop_code": "13692",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13692)",
+                        "stop_id": "13692",
+                        "stop_lat": "45.541036",
+                        "stop_lon": "-122.855301",
+                        "stop_name": "NW 174th & Parkview",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13692",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Springville & 178th",
-            "onestopId": "s-c20ehnrxpp-nwspringville~178th",
+            "name": "NW 174th & Parkview",
+            "onestopId": "s-c20eh67rzb-nw174th~parkview",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2657,6 +2693,42 @@
             ],
             "name": "NW Cornell & 153rd",
             "onestopId": "s-c20ehbfcqu-nwcornell~153rd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.856027,
+                    45.562947
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10103",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10103",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 10103)",
+                        "stop_id": "10103",
+                        "stop_lat": "45.562947",
+                        "stop_lon": "-122.856027",
+                        "stop_name": "NW Springville & 173rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10103",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Springville & 173rd",
+            "onestopId": "s-c20ehq6zrh-nwspringville~173rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2883,32 +2955,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.869908,
-                    45.538283
+                    -122.845713,
+                    45.564819
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1159",
+                    "identifier": "f-trimet-s-10080",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1159",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 1159)",
-                        "stop_id": "1159",
-                        "stop_lat": "45.538283",
-                        "stop_lon": "-122.869908",
-                        "stop_name": "NW Evergreen Pkwy & 188th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1159",
+                        "position": "Farside",
+                        "stop_code": "10080",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 10080)",
+                        "stop_id": "10080",
+                        "stop_lat": "45.564819",
+                        "stop_lon": "-122.845713",
+                        "stop_name": "NW Springville & Sickle Terrace",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10080",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Evergreen Pkwy & 188th",
-            "onestopId": "s-c20eh1bzex-nwevergreen~188th",
+            "name": "NW Springville & Sickle Terrace",
+            "onestopId": "s-c20ehwf6r3-nwspringville~sickleterrace",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3027,32 +3099,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.849015,
-                    45.53323
+                    -122.867739,
+                    45.552887
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9054",
+                    "identifier": "f-trimet-s-6954",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9054",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 9054)",
-                        "stop_id": "9054",
-                        "stop_lat": "45.53323",
-                        "stop_lon": "-122.849015",
-                        "stop_name": "NW Cornell & 167th Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9054",
+                        "position": "Farside",
+                        "stop_code": "6954",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 6954)",
+                        "stop_id": "6954",
+                        "stop_lat": "45.552887",
+                        "stop_lon": "-122.867739",
+                        "stop_name": "NW 185th & Adrian",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6954",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & 167th Pl",
-            "onestopId": "s-c20eh90463-nwcornell~167thpl",
+            "name": "NW 185th & Adrian",
+            "onestopId": "s-c20ehhdky1-nw185th~adrian",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3161,42 +3233,6 @@
             ],
             "name": "NW Laidlaw & Preakness",
             "onestopId": "s-c20eht7rvr-nwlaidlaw~preakness",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.836708,
-                    45.550525
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10091",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10091",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10091)",
-                        "stop_id": "10091",
-                        "stop_lat": "45.550525",
-                        "stop_lon": "-122.836708",
-                        "stop_name": "NW Bethany & Mitchell",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10091",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Bethany & Mitchell",
-            "onestopId": "s-c20ehu1p11-nwbethany~mitchell",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3917,42 +3953,6 @@
             ],
             "name": "NW 185th & Walker",
             "onestopId": "s-c20eh04gc6-nw185th~walker",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.834851,
-                    45.562544
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10076",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10076",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 10076)",
-                        "stop_id": "10076",
-                        "stop_lat": "45.562544",
-                        "stop_lon": "-122.834851",
-                        "stop_name": "NW Kaiser & Snowlily Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10076",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Kaiser & Snowlily Dr",
-            "onestopId": "s-c20ehy6mh9-nwkaiser~snowlily",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

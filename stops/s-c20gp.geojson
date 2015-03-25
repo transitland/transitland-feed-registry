@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.38762,
-                    45.531045
+                    -122.387416,
+                    45.528112
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5870",
+                    "identifier": "f-trimet-s-5874",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5870",
-                        "stop_desc": "Southbound stop in Troutdale (Stop ID 5870)",
-                        "stop_id": "5870",
-                        "stop_lat": "45.531045",
-                        "stop_lon": "-122.38762",
-                        "stop_name": "S Troutdale Rd & SW Chapman",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5870",
+                        "position": "Farside",
+                        "stop_code": "5874",
+                        "stop_desc": "Northbound stop in Troutdale (Stop ID 5874)",
+                        "stop_id": "5874",
+                        "stop_lat": "45.528112",
+                        "stop_lon": "-122.387416",
+                        "stop_name": "S Troutdale & SE 19th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5874",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "S Troutdale Rd & SW Chapman",
-            "onestopId": "s-c20gp08j9c-stroutdale~swchapman",
+            "name": "S Troutdale & SE 19th",
+            "onestopId": "s-c20gp00hqx-stroutdale~se19th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -255,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.387416,
-                    45.528112
+                    -122.38762,
+                    45.531045
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5874",
+                    "identifier": "f-trimet-s-5870",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "5874",
-                        "stop_desc": "Northbound stop in Troutdale (Stop ID 5874)",
-                        "stop_id": "5874",
-                        "stop_lat": "45.528112",
-                        "stop_lon": "-122.387416",
-                        "stop_name": "S Troutdale & SE 19th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5874",
+                        "position": "Nearside",
+                        "stop_code": "5870",
+                        "stop_desc": "Southbound stop in Troutdale (Stop ID 5870)",
+                        "stop_id": "5870",
+                        "stop_lat": "45.531045",
+                        "stop_lon": "-122.38762",
+                        "stop_name": "S Troutdale Rd & SW Chapman",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5870",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "S Troutdale & SE 19th",
-            "onestopId": "s-c20gp00hqx-stroutdale~se19th",
+            "name": "S Troutdale Rd & SW Chapman",
+            "onestopId": "s-c20gp08j9c-stroutdale~swchapman",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

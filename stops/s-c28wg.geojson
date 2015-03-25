@@ -37,40 +37,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.878512,
-                    49.041349
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-8912",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58487",
-                        "stop_desc": "124 ST @ 21A AVE",
-                        "stop_id": "8912",
-                        "stop_lat": "49.041349",
-                        "stop_lon": "-122.878512",
-                        "stop_name": "SB 124 ST FS 21A AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 124 ST FS 21A AV",
-            "onestopId": "s-c28wgzdwe4-sb124fs21a",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.878309,
                     49.042388
                 ],
@@ -95,6 +61,40 @@
             ],
             "name": "NB 124 ST NS 22 AV",
             "onestopId": "s-c28wgzfsxg-nb124ns22",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.878512,
+                    49.041349
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-8912",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58487",
+                        "stop_desc": "124 ST @ 21A AVE",
+                        "stop_id": "8912",
+                        "stop_lat": "49.041349",
+                        "stop_lon": "-122.878512",
+                        "stop_name": "SB 124 ST FS 21A AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB 124 ST FS 21A AV",
+            "onestopId": "s-c28wgzdwe4-sb124fs21a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

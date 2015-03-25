@@ -168,43 +168,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.626149,
-                    41.884431
+                    -87.625502,
+                    41.890866
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30039",
+                    "identifier": "f-cta-s-750",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40200",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30039",
-                        "stop_lat": "41.884431",
-                        "stop_lon": "-87.626149",
-                        "stop_name": "Randolph/Wabash",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30038",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40200",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30038",
-                        "stop_lat": "41.884431",
-                        "stop_lon": "-87.626149",
-                        "stop_name": "Randolph/Wabash",
-                        "wheelchair_boarding": "0"
+                        "parent_station": "",
+                        "stop_code": "750",
+                        "stop_desc": "Illinois & Rush, Eastbound, Southwest Corner",
+                        "stop_id": "750",
+                        "stop_lat": "41.890866",
+                        "stop_lon": "-87.625502",
+                        "stop_name": "Illinois & Rush",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Randolph/Wabash",
-            "onestopId": "s-dp3wq0bd6x-randolph~wabash",
+            "name": "Illinois & Rush",
+            "onestopId": "s-dp3wq1cpcz-illinois~rush",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -248,62 +234,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.625966,
-                    41.883159
+                    -87.625507,
+                    41.907044
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-449",
+                    "identifier": "f-cta-s-1135",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "449",
-                        "stop_desc": "",
-                        "stop_id": "449",
-                        "stop_lat": "41.883159",
-                        "stop_lon": "-87.625966",
-                        "stop_name": "Washington & Wabash",
+                        "stop_code": "1135",
+                        "stop_desc": "Lake Shore & Banks, Northbound, Eastside of the Street",
+                        "stop_id": "1135",
+                        "stop_lat": "41.907044",
+                        "stop_lon": "-87.625507",
+                        "stop_name": "Lake Shore & Banks",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Washington & Wabash",
-            "onestopId": "s-dp3wq08ep4-washington~wabash",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.625502,
-                    41.890866
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-750",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "750",
-                        "stop_desc": "Illinois & Rush, Eastbound, Southwest Corner",
-                        "stop_id": "750",
-                        "stop_lat": "41.890866",
-                        "stop_lon": "-87.625502",
-                        "stop_name": "Illinois & Rush",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Illinois & Rush",
-            "onestopId": "s-dp3wq1cpcz-illinois~rush",
+            "name": "Lake Shore & Banks",
+            "onestopId": "s-dp3wqhcn1x-lakeshore~banks",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -568,6 +521,53 @@
             ],
             "name": "Michigan (Lower) & Illinois",
             "onestopId": "s-dp3wq1fpuc-michiganlower~illinois",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.626149,
+                    41.884431
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-30038",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40200",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30038",
+                        "stop_lat": "41.884431",
+                        "stop_lon": "-87.626149",
+                        "stop_name": "Randolph/Wabash",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30039",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40200",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30039",
+                        "stop_lat": "41.884431",
+                        "stop_lon": "-87.626149",
+                        "stop_name": "Randolph/Wabash",
+                        "wheelchair_boarding": "0"
+                    }
+                }
+            ],
+            "name": "Randolph/Wabash",
+            "onestopId": "s-dp3wq0bd6x-randolph~wabash",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1238,6 +1238,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.620843,
+                    41.887577
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-5515",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "5515",
+                        "stop_desc": "Columbus (mid) & E. Wacker, Southbound, Southwest Corner",
+                        "stop_id": "5515",
+                        "stop_lat": "41.887577",
+                        "stop_lon": "-87.620843",
+                        "stop_name": "Columbus (mid) & E. Wacker",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Columbus (mid) & E. Wacker",
+            "onestopId": "s-dp3wq1kky6-columbusmid~ewacker",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.615391,
                     41.891949
                 ],
@@ -1733,29 +1766,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.620009,
-                    41.891862
+                    -87.61764992,
+                    41.89338038
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-590",
+                    "identifier": "f-cta-s-17743",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "590",
-                        "stop_desc": "Grand & Fairbanks/Columbus, Westbound, Northeast Corner",
-                        "stop_id": "590",
-                        "stop_lat": "41.891862",
-                        "stop_lon": "-87.620009",
-                        "stop_name": "Grand & Fairbanks/Columbus",
+                        "stop_code": "17743",
+                        "stop_desc": "McClurg & Ontario, Northbound, Southeast Corner",
+                        "stop_id": "17743",
+                        "stop_lat": "41.89338038",
+                        "stop_lon": "-87.61764992",
+                        "stop_name": "McClurg & Ontario",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Fairbanks/Columbus",
-            "onestopId": "s-dp3wq4jjcc-grand~fairbanks~columbus",
+            "name": "McClurg & Ontario",
+            "onestopId": "s-dp3wq4qy8u-mcclurg~ontario",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2096,29 +2129,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62008,
-                    41.890852
+                    -87.625024,
+                    41.904949
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5511",
+                    "identifier": "f-cta-s-1133",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5511",
-                        "stop_desc": "Columbus & Illinois, Northbound, Southeast Corner",
-                        "stop_id": "5511",
-                        "stop_lat": "41.890852",
-                        "stop_lon": "-87.62008",
-                        "stop_name": "Columbus & Illinois",
+                        "stop_code": "1133",
+                        "stop_desc": "Lake Shore & Scott, Northbound, Eastside of the Street",
+                        "stop_id": "1133",
+                        "stop_lat": "41.904949",
+                        "stop_lon": "-87.625024",
+                        "stop_name": "Lake Shore & Scott",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Columbus & Illinois",
-            "onestopId": "s-dp3wq1vpbh-columbus~illinois",
+            "name": "Lake Shore & Scott",
+            "onestopId": "s-dp3wqh96hb-lakeshore~scott",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2251,39 +2284,6 @@
             ],
             "name": "South Water (Mid) & Michigan",
             "onestopId": "s-dp3wq168wb-southwatermid~michigan",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.625507,
-                    41.907044
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1135",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1135",
-                        "stop_desc": "Lake Shore & Banks, Northbound, Eastside of the Street",
-                        "stop_id": "1135",
-                        "stop_lat": "41.907044",
-                        "stop_lon": "-87.625507",
-                        "stop_name": "Lake Shore & Banks",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Lake Shore & Banks",
-            "onestopId": "s-dp3wqhcn1x-lakeshore~banks",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2515,6 +2515,39 @@
             ],
             "name": "Wacker Place & Wabash",
             "onestopId": "s-dp3wq10ruw-wackerplace~wabash",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.625966,
+                    41.883159
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-449",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "449",
+                        "stop_desc": "",
+                        "stop_id": "449",
+                        "stop_lat": "41.883159",
+                        "stop_lon": "-87.625966",
+                        "stop_name": "Washington & Wabash",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Washington & Wabash",
+            "onestopId": "s-dp3wq08ep4-washington~wabash",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3010,39 +3043,6 @@
             ],
             "name": "Columbus & Illinois",
             "onestopId": "s-dp3wq4hc9t-columbus~illinois",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.624246,
-                    41.899345
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1097",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1097",
-                        "stop_desc": "Michigan & Delaware, Southbound, Northwest Corner",
-                        "stop_id": "1097",
-                        "stop_lat": "41.899345",
-                        "stop_lon": "-87.624246",
-                        "stop_name": "Michigan & Delaware",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Michigan & Delaware",
-            "onestopId": "s-dp3wq59crh-michigan~delaware",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3614,29 +3614,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.620843,
-                    41.887577
+                    -87.624246,
+                    41.899345
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5515",
+                    "identifier": "f-cta-s-1097",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5515",
-                        "stop_desc": "Columbus (mid) & E. Wacker, Southbound, Southwest Corner",
-                        "stop_id": "5515",
-                        "stop_lat": "41.887577",
-                        "stop_lon": "-87.620843",
-                        "stop_name": "Columbus (mid) & E. Wacker",
+                        "stop_code": "1097",
+                        "stop_desc": "Michigan & Delaware, Southbound, Northwest Corner",
+                        "stop_id": "1097",
+                        "stop_lat": "41.899345",
+                        "stop_lon": "-87.624246",
+                        "stop_name": "Michigan & Delaware",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Columbus (mid) & E. Wacker",
-            "onestopId": "s-dp3wq1kky6-columbusmid~ewacker",
+            "name": "Michigan & Delaware",
+            "onestopId": "s-dp3wq59crh-michigan~delaware",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3746,29 +3746,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.625024,
-                    41.904949
+                    -87.62008,
+                    41.890852
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1133",
+                    "identifier": "f-cta-s-5511",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1133",
-                        "stop_desc": "Lake Shore & Scott, Northbound, Eastside of the Street",
-                        "stop_id": "1133",
-                        "stop_lat": "41.904949",
-                        "stop_lon": "-87.625024",
-                        "stop_name": "Lake Shore & Scott",
+                        "stop_code": "5511",
+                        "stop_desc": "Columbus & Illinois, Northbound, Southeast Corner",
+                        "stop_id": "5511",
+                        "stop_lat": "41.890852",
+                        "stop_lon": "-87.62008",
+                        "stop_name": "Columbus & Illinois",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lake Shore & Scott",
-            "onestopId": "s-dp3wqh96hb-lakeshore~scott",
+            "name": "Columbus & Illinois",
+            "onestopId": "s-dp3wq1vpbh-columbus~illinois",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4043,29 +4043,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61764992,
-                    41.89338038
+                    -87.620009,
+                    41.891862
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17743",
+                    "identifier": "f-cta-s-590",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17743",
-                        "stop_desc": "McClurg & Ontario, Northbound, Southeast Corner",
-                        "stop_id": "17743",
-                        "stop_lat": "41.89338038",
-                        "stop_lon": "-87.61764992",
-                        "stop_name": "McClurg & Ontario",
+                        "stop_code": "590",
+                        "stop_desc": "Grand & Fairbanks/Columbus, Westbound, Northeast Corner",
+                        "stop_id": "590",
+                        "stop_lat": "41.891862",
+                        "stop_lon": "-87.620009",
+                        "stop_name": "Grand & Fairbanks/Columbus",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "McClurg & Ontario",
-            "onestopId": "s-dp3wq4qy8u-mcclurg~ontario",
+            "name": "Grand & Fairbanks/Columbus",
+            "onestopId": "s-dp3wq4jjcc-grand~fairbanks~columbus",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

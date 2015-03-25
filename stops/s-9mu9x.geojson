@@ -39,32 +39,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.086800701,
-                    32.6246476784
+                    -117.082457412,
+                    32.6366000397
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-60415",
+                    "identifier": "f-mtssandiego-s-30407",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "60415",
-                        "stop_id": "60415",
-                        "stop_lat": "32.6246476784",
-                        "stop_lon": "-117.086800701",
-                        "stop_name": "Broadway & J St",
-                        "stop_name_short": "Brdwy&J",
+                        "stop_code": "30407",
+                        "stop_id": "30407",
+                        "stop_lat": "32.6366000397",
+                        "stop_lon": "-117.082457412",
+                        "stop_name": "4th Av & G St",
+                        "stop_name_short": "4th&G",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & J St",
-            "onestopId": "s-9mu9xe5urg-broadway~j",
+            "name": "4th Av & G St",
+            "onestopId": "s-9mu9xtr1vp-4th~g",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -173,6 +173,42 @@
             ],
             "name": "4th Av & F St",
             "onestopId": "s-9mu9xwjfyt-4th~f",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.071551162,
+                    32.6433905374
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-30415",
+                    "tags": {
+                        "intersection_code": "N-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "30415",
+                        "stop_id": "30415",
+                        "stop_lat": "32.6433905374",
+                        "stop_lon": "-117.071551162",
+                        "stop_name": "1st Av & F St",
+                        "stop_name_short": "1st&F",
+                        "stop_place": "",
+                        "wheelchair_boarding": "0"
+                    }
+                }
+            ],
+            "name": "1st Av & F St",
+            "onestopId": "s-9mu9xyx1e1-1st~f",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -327,32 +363,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.079194288,
-                    32.6415885591
+                    -117.089389582,
+                    32.6304870971
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30225",
+                    "identifier": "f-mtssandiego-s-30342",
                     "tags": {
-                        "intersection_code": "N-W/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30225",
-                        "stop_id": "30225",
-                        "stop_lat": "32.6415885591",
-                        "stop_lon": "-117.079194288",
-                        "stop_name": "F St & 3rd Av",
-                        "stop_name_short": "F&3rd",
-                        "stop_place": "3rdf",
+                        "stop_code": "30342",
+                        "stop_id": "30342",
+                        "stop_lat": "32.6304870971",
+                        "stop_lon": "-117.089389582",
+                        "stop_name": "Broadway & H St",
+                        "stop_name_short": "Brdwy&H",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "F St & 3rd Av",
-            "onestopId": "s-9mu9xy1x11-f~3rd",
+            "name": "Broadway & H St",
+            "onestopId": "s-9mu9xs4n77-broadway~h",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -471,6 +507,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -117.097177659,
+                    32.6395367986
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-30402",
+                    "tags": {
+                        "intersection_code": "M-Street-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "30402",
+                        "stop_id": "30402",
+                        "stop_lat": "32.6395367986",
+                        "stop_lon": "-117.097177659",
+                        "stop_name": "Woodlawn Av & E St",
+                        "stop_name_short": "Woodlawn&E",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Woodlawn Av & E St",
+            "onestopId": "s-9mu9xmu7jf-woodlawn~e",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -117.079735863,
                     32.6290573071
                 ],
@@ -569,42 +641,6 @@
             ],
             "name": "Broadway & Moss St",
             "onestopId": "s-9mu9x9nfpv-broadway~moss",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.076971276,
-                    32.6341990721
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-12553",
-                    "tags": {
-                        "intersection_code": "N-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "12553",
-                        "stop_id": "12553",
-                        "stop_lat": "32.6341990721",
-                        "stop_lon": "-117.076971276",
-                        "stop_name": "3rd Av & H St",
-                        "stop_name_short": "3rd&H",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "3rd Av & H St",
-            "onestopId": "s-9mu9xug5uz-3rd~h",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -723,42 +759,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.085594344,
-                    32.6447335764
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-12539",
-                    "tags": {
-                        "intersection_code": "F-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "12539",
-                        "stop_id": "12539",
-                        "stop_lat": "32.6447335764",
-                        "stop_lon": "-117.085594344",
-                        "stop_name": "4th Av & E St",
-                        "stop_name_short": "4th&E",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "4th Av & E St",
-            "onestopId": "s-9mu9xwuc7g-4th~e",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.080404407,
                     32.641077437
                 ],
@@ -821,42 +821,6 @@
             ],
             "name": "4th Av & K St",
             "onestopId": "s-9mu9xfehtk-4th~k",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.081111825,
-                    32.6334126313
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-39050",
-                    "tags": {
-                        "intersection_code": "N-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "39050",
-                        "stop_id": "39050",
-                        "stop_lat": "32.6334126313",
-                        "stop_lon": "-117.081111825",
-                        "stop_name": "H St & 4th Av",
-                        "stop_name_short": "H&4th",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "H St & 4th Av",
-            "onestopId": "s-9mu9xu8pkm-h~4th",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1191,42 +1155,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.096763524,
-                    32.6502010477
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-60025",
-                    "tags": {
-                        "intersection_code": "N-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "60025",
-                        "stop_id": "60025",
-                        "stop_lat": "32.6502010477",
-                        "stop_lon": "-117.096763524",
-                        "stop_name": "National City Bl & 35th St",
-                        "stop_name_short": "Natl City&35th",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "National City Bl & 35th St",
-            "onestopId": "s-9mu9xru9pw-nationalcitybl~35th",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.077385717,
                     32.6236668392
                 ],
@@ -1263,32 +1191,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.071551162,
-                    32.6433905374
+                    -117.084020411,
+                    32.6167316501
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30415",
+                    "identifier": "f-mtssandiego-s-60299",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30415",
-                        "stop_id": "30415",
-                        "stop_lat": "32.6433905374",
-                        "stop_lon": "-117.071551162",
-                        "stop_name": "1st Av & F St",
-                        "stop_name_short": "1st&F",
-                        "stop_place": "",
-                        "wheelchair_boarding": "0"
+                        "stop_code": "60299",
+                        "stop_id": "60299",
+                        "stop_lat": "32.6167316501",
+                        "stop_lon": "-117.084020411",
+                        "stop_name": "Broadway & L St",
+                        "stop_name_short": "Brdwy&L",
+                        "stop_place": "brol",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "1st Av & F St",
-            "onestopId": "s-9mu9xyx1e1-1st~f",
+            "name": "Broadway & L St",
+            "onestopId": "s-9mu9x9wn0x-broadway~l",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1371,32 +1299,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.097177659,
-                    32.6395367986
+                    -117.081671976,
+                    32.6346016956
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30402",
+                    "identifier": "f-mtssandiego-s-30524",
                     "tags": {
-                        "intersection_code": "M-Street-N/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30402",
-                        "stop_id": "30402",
-                        "stop_lat": "32.6395367986",
-                        "stop_lon": "-117.097177659",
-                        "stop_name": "Woodlawn Av & E St",
-                        "stop_name_short": "Woodlawn&E",
-                        "stop_place": "",
+                        "stop_code": "30524",
+                        "stop_id": "30524",
+                        "stop_lat": "32.6346016956",
+                        "stop_lon": "-117.081671976",
+                        "stop_name": "4th Av & Roosevelt St",
+                        "stop_name_short": "4th&Roosevelt",
+                        "stop_place": "h4th",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Woodlawn Av & E St",
-            "onestopId": "s-9mu9xmu7jf-woodlawn~e",
+            "name": "4th Av & Roosevelt St",
+            "onestopId": "s-9mu9xszwr6-4th~roosevelt",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2199,6 +2127,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -117.080818447,
+                    32.6333019218
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-30009",
+                    "tags": {
+                        "intersection_code": "F-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "30009",
+                        "stop_id": "30009",
+                        "stop_lat": "32.6333019218",
+                        "stop_lon": "-117.080818447",
+                        "stop_name": "H St & 4th Av",
+                        "stop_name_short": "H&4th",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "H St & 4th Av",
+            "onestopId": "s-9mu9xu8qg0-h~4th",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -117.078524161,
                     32.6259239411
                 ],
@@ -2235,32 +2199,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.074253106,
-                    32.6266122245
+                    -117.078356319,
+                    32.637105914
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12194",
+                    "identifier": "f-mtssandiego-s-12180",
                     "tags": {
                         "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12194",
-                        "stop_id": "12194",
-                        "stop_lat": "32.6266122245",
-                        "stop_lon": "-117.074253106",
-                        "stop_name": "3rd Av & J St",
-                        "stop_name_short": "3rd&J",
-                        "stop_place": "3rdj",
+                        "stop_code": "12180",
+                        "stop_id": "12180",
+                        "stop_lat": "32.637105914",
+                        "stop_lon": "-117.078356319",
+                        "stop_name": "3rd Av & G St",
+                        "stop_name_short": "3rd&G",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "3rd Av & J St",
-            "onestopId": "s-9mu9xgmpu1-3rd~j",
+            "name": "3rd Av & G St",
+            "onestopId": "s-9mu9xv6hut-3rd~g",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2307,32 +2271,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.082457412,
-                    32.6366000397
+                    -117.086800701,
+                    32.6246476784
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30407",
+                    "identifier": "f-mtssandiego-s-60415",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "F-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30407",
-                        "stop_id": "30407",
-                        "stop_lat": "32.6366000397",
-                        "stop_lon": "-117.082457412",
-                        "stop_name": "4th Av & G St",
-                        "stop_name_short": "4th&G",
+                        "stop_code": "60415",
+                        "stop_id": "60415",
+                        "stop_lat": "32.6246476784",
+                        "stop_lon": "-117.086800701",
+                        "stop_name": "Broadway & J St",
+                        "stop_name_short": "Brdwy&J",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "4th Av & G St",
-            "onestopId": "s-9mu9xtr1vp-4th~g",
+            "name": "Broadway & J St",
+            "onestopId": "s-9mu9xe5urg-broadway~j",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2343,32 +2307,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.080818447,
-                    32.6333019218
+                    -117.076971276,
+                    32.6341990721
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30009",
+                    "identifier": "f-mtssandiego-s-12553",
                     "tags": {
-                        "intersection_code": "F-E/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30009",
-                        "stop_id": "30009",
-                        "stop_lat": "32.6333019218",
-                        "stop_lon": "-117.080818447",
-                        "stop_name": "H St & 4th Av",
-                        "stop_name_short": "H&4th",
+                        "stop_code": "12553",
+                        "stop_id": "12553",
+                        "stop_lat": "32.6341990721",
+                        "stop_lon": "-117.076971276",
+                        "stop_name": "3rd Av & H St",
+                        "stop_name_short": "3rd&H",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "H St & 4th Av",
-            "onestopId": "s-9mu9xu8qg0-h~4th",
+            "name": "3rd Av & H St",
+            "onestopId": "s-9mu9xug5uz-3rd~h",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2487,32 +2451,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.084020411,
-                    32.6167316501
+                    -117.085594344,
+                    32.6447335764
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-60299",
+                    "identifier": "f-mtssandiego-s-12539",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "F-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "60299",
-                        "stop_id": "60299",
-                        "stop_lat": "32.6167316501",
-                        "stop_lon": "-117.084020411",
-                        "stop_name": "Broadway & L St",
-                        "stop_name_short": "Brdwy&L",
-                        "stop_place": "brol",
+                        "stop_code": "12539",
+                        "stop_id": "12539",
+                        "stop_lat": "32.6447335764",
+                        "stop_lon": "-117.085594344",
+                        "stop_name": "4th Av & E St",
+                        "stop_name_short": "4th&E",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & L St",
-            "onestopId": "s-9mu9x9wn0x-broadway~l",
+            "name": "4th Av & E St",
+            "onestopId": "s-9mu9xwuc7g-4th~e",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2703,32 +2667,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.081671976,
-                    32.6346016956
+                    -117.081331687,
+                    32.609864869
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30524",
+                    "identifier": "f-mtssandiego-s-60301",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30524",
-                        "stop_id": "30524",
-                        "stop_lat": "32.6346016956",
-                        "stop_lon": "-117.081671976",
-                        "stop_name": "4th Av & Roosevelt St",
-                        "stop_name_short": "4th&Roosevelt",
-                        "stop_place": "h4th",
+                        "stop_code": "60301",
+                        "stop_id": "60301",
+                        "stop_lat": "32.609864869",
+                        "stop_lon": "-117.081331687",
+                        "stop_name": "Broadway & Naples St",
+                        "stop_name_short": "Brdwy&Naples",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "4th Av & Roosevelt St",
-            "onestopId": "s-9mu9xszwr6-4th~roosevelt",
+            "name": "Broadway & Naples St",
+            "onestopId": "s-9mu9x8rypp-broadway~naples",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2775,32 +2739,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.081331687,
-                    32.609864869
+                    -117.081111825,
+                    32.6334126313
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-60301",
+                    "identifier": "f-mtssandiego-s-39050",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "60301",
-                        "stop_id": "60301",
-                        "stop_lat": "32.609864869",
-                        "stop_lon": "-117.081331687",
-                        "stop_name": "Broadway & Naples St",
-                        "stop_name_short": "Brdwy&Naples",
+                        "stop_code": "39050",
+                        "stop_id": "39050",
+                        "stop_lat": "32.6334126313",
+                        "stop_lon": "-117.081111825",
+                        "stop_name": "H St & 4th Av",
+                        "stop_name_short": "H&4th",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & Naples St",
-            "onestopId": "s-9mu9x8rypp-broadway~naples",
+            "name": "H St & 4th Av",
+            "onestopId": "s-9mu9xu8pkm-h~4th",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2847,32 +2811,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.087689402,
-                    32.6269146388
+                    -117.088272089,
+                    32.6311543422
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-60351",
+                    "identifier": "f-mtssandiego-s-30075",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "F-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "60351",
-                        "stop_id": "60351",
-                        "stop_lat": "32.6269146388",
-                        "stop_lon": "-117.087689402",
-                        "stop_name": "Broadway & I St",
-                        "stop_name_short": "Brdwy&I",
+                        "stop_code": "30075",
+                        "stop_id": "30075",
+                        "stop_lat": "32.6311543422",
+                        "stop_lon": "-117.088272089",
+                        "stop_name": "H St & Broadway",
+                        "stop_name_short": "H&Brdwy",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & I St",
-            "onestopId": "s-9mu9xee3e1-broadway~i",
+            "name": "H St & Broadway",
+            "onestopId": "s-9mu9xs6fm8-h~broadway",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -3106,23 +3070,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-75013",
-                    "tags": {
-                        "intersection_code": "M-TC-Train-S/B",
-                        "location_type": "0",
-                        "parent_station": "baytro",
-                        "reference_place": "estS",
-                        "stop_code": "75013",
-                        "stop_id": "75013",
-                        "stop_lat": "32.6390182774",
-                        "stop_lon": "-117.099037254",
-                        "stop_name": "E Street Station",
-                        "stop_name_short": "E St ",
-                        "stop_place": "estS_S",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-mtssandiego-s-75012",
                     "tags": {
                         "intersection_code": "M-TC-Train-N/B",
@@ -3136,6 +3083,23 @@
                         "stop_name": "E Street Station",
                         "stop_name_short": "E St ",
                         "stop_place": "estS_N",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-mtssandiego-s-75013",
+                    "tags": {
+                        "intersection_code": "M-TC-Train-S/B",
+                        "location_type": "0",
+                        "parent_station": "baytro",
+                        "reference_place": "estS",
+                        "stop_code": "75013",
+                        "stop_id": "75013",
+                        "stop_lat": "32.6390182774",
+                        "stop_lon": "-117.099037254",
+                        "stop_name": "E Street Station",
+                        "stop_name_short": "E St ",
+                        "stop_place": "estS_S",
                         "wheelchair_boarding": "0"
                     }
                 }
@@ -3224,32 +3188,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.089389582,
-                    32.6304870971
+                    -117.079194288,
+                    32.6415885591
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30342",
+                    "identifier": "f-mtssandiego-s-30225",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30342",
-                        "stop_id": "30342",
-                        "stop_lat": "32.6304870971",
-                        "stop_lon": "-117.089389582",
-                        "stop_name": "Broadway & H St",
-                        "stop_name_short": "Brdwy&H",
-                        "stop_place": "",
+                        "stop_code": "30225",
+                        "stop_id": "30225",
+                        "stop_lat": "32.6415885591",
+                        "stop_lon": "-117.079194288",
+                        "stop_name": "F St & 3rd Av",
+                        "stop_name_short": "F&3rd",
+                        "stop_place": "3rdf",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Broadway & H St",
-            "onestopId": "s-9mu9xs4n77-broadway~h",
+            "name": "F St & 3rd Av",
+            "onestopId": "s-9mu9xy1x11-f~3rd",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -3548,32 +3512,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.088272089,
-                    32.6311543422
+                    -117.087689402,
+                    32.6269146388
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30075",
+                    "identifier": "f-mtssandiego-s-60351",
                     "tags": {
-                        "intersection_code": "F-E/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30075",
-                        "stop_id": "30075",
-                        "stop_lat": "32.6311543422",
-                        "stop_lon": "-117.088272089",
-                        "stop_name": "H St & Broadway",
-                        "stop_name_short": "H&Brdwy",
+                        "stop_code": "60351",
+                        "stop_id": "60351",
+                        "stop_lat": "32.6269146388",
+                        "stop_lon": "-117.087689402",
+                        "stop_name": "Broadway & I St",
+                        "stop_name_short": "Brdwy&I",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "H St & Broadway",
-            "onestopId": "s-9mu9xs6fm8-h~broadway",
+            "name": "Broadway & I St",
+            "onestopId": "s-9mu9xee3e1-broadway~i",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -3836,32 +3800,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.075869045,
-                    32.6313068114
+                    -117.096763524,
+                    32.6502010477
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12918",
+                    "identifier": "f-mtssandiego-s-60025",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "N-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12918",
-                        "stop_id": "12918",
-                        "stop_lat": "32.6313068114",
-                        "stop_lon": "-117.075869045",
-                        "stop_name": "3rd Av & I St",
-                        "stop_name_short": "3rd&I",
+                        "stop_code": "60025",
+                        "stop_id": "60025",
+                        "stop_lat": "32.6502010477",
+                        "stop_lon": "-117.096763524",
+                        "stop_name": "National City Bl & 35th St",
+                        "stop_name_short": "Natl City&35th",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "3rd Av & I St",
-            "onestopId": "s-9mu9xu7gns-3rd~i",
+            "name": "National City Bl & 35th St",
+            "onestopId": "s-9mu9xru9pw-nationalcitybl~35th",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -4124,6 +4088,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -117.083150145,
+                    32.6384093604
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-30549",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "30549",
+                        "stop_id": "30549",
+                        "stop_lat": "32.6384093604",
+                        "stop_lon": "-117.083150145",
+                        "stop_name": "4th Av & Park Wy",
+                        "stop_name_short": "4th&Park",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "4th Av & Park Wy",
+            "onestopId": "s-9mu9xtwssb-4th~parkwy",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -117.076070803,
                     32.6424478256
                 ],
@@ -4304,32 +4304,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.078356319,
-                    32.637105914
+                    -117.074253106,
+                    32.6266122245
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12180",
+                    "identifier": "f-mtssandiego-s-12194",
                     "tags": {
                         "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12180",
-                        "stop_id": "12180",
-                        "stop_lat": "32.637105914",
-                        "stop_lon": "-117.078356319",
-                        "stop_name": "3rd Av & G St",
-                        "stop_name_short": "3rd&G",
-                        "stop_place": "",
+                        "stop_code": "12194",
+                        "stop_id": "12194",
+                        "stop_lat": "32.6266122245",
+                        "stop_lon": "-117.074253106",
+                        "stop_name": "3rd Av & J St",
+                        "stop_name_short": "3rd&J",
+                        "stop_place": "3rdj",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "3rd Av & G St",
-            "onestopId": "s-9mu9xv6hut-3rd~g",
+            "name": "3rd Av & J St",
+            "onestopId": "s-9mu9xgmpu1-3rd~j",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -4340,32 +4340,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.083150145,
-                    32.6384093604
+                    -117.075869045,
+                    32.6313068114
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30549",
+                    "identifier": "f-mtssandiego-s-12918",
                     "tags": {
                         "intersection_code": "F-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30549",
-                        "stop_id": "30549",
-                        "stop_lat": "32.6384093604",
-                        "stop_lon": "-117.083150145",
-                        "stop_name": "4th Av & Park Wy",
-                        "stop_name_short": "4th&Park",
+                        "stop_code": "12918",
+                        "stop_id": "12918",
+                        "stop_lat": "32.6313068114",
+                        "stop_lon": "-117.075869045",
+                        "stop_name": "3rd Av & I St",
+                        "stop_name_short": "3rd&I",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "4th Av & Park Wy",
-            "onestopId": "s-9mu9xtwssb-4th~parkwy",
+            "name": "3rd Av & I St",
+            "onestopId": "s-9mu9xu7gns-3rd~i",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

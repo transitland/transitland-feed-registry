@@ -10,7 +10,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28377",
+                    "identifier": "f-f-wmata-s-28377",
                     "tags": {
                         "stop_code": "2000330",
                         "stop_desc": "",
@@ -41,7 +41,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-1479",
+                    "identifier": "f-f-wmata-s-1479",
                     "tags": {
                         "stop_code": "2000342",
                         "stop_desc": "",
@@ -72,7 +72,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-21995",
+                    "identifier": "f-f-wmata-s-21995",
                     "tags": {
                         "stop_code": "2000318",
                         "stop_desc": "",
@@ -103,7 +103,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3403",
+                    "identifier": "f-f-wmata-s-3403",
                     "tags": {
                         "stop_code": "2000324",
                         "stop_desc": "",
@@ -134,7 +134,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3364",
+                    "identifier": "f-f-wmata-s-3364",
                     "tags": {
                         "stop_code": "2000237",
                         "stop_desc": "",
@@ -158,6 +158,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -77.208533,
+                    39.018723
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-20875",
+                    "tags": {
+                        "stop_code": "2001340",
+                        "stop_desc": "",
+                        "stop_id": "20875",
+                        "stop_lat": "39.018723",
+                        "stop_lon": "-77.208533",
+                        "stop_name": "FALLS RD & RIVER RD",
+                        "zone_id": "4"
+                    }
+                }
+            ],
+            "name": "FALLS RD & RIVER RD",
+            "onestopId": "s-dqcjgp4kwc-falls~river",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.196782,
                     39.009998
                 ],
@@ -165,7 +196,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-21997",
+                    "identifier": "f-f-wmata-s-21997",
                     "tags": {
                         "stop_code": "2001114",
                         "stop_desc": "",
@@ -196,7 +227,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3363",
+                    "identifier": "f-f-wmata-s-3363",
                     "tags": {
                         "stop_code": "2001335",
                         "stop_desc": "",
@@ -227,7 +258,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3375",
+                    "identifier": "f-f-wmata-s-3375",
                     "tags": {
                         "stop_code": "2001337",
                         "stop_desc": "",
@@ -258,7 +289,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28353",
+                    "identifier": "f-f-wmata-s-28353",
                     "tags": {
                         "stop_code": "2000273",
                         "stop_desc": "",
@@ -289,7 +320,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3404",
+                    "identifier": "f-f-wmata-s-3404",
                     "tags": {
                         "stop_code": "2000328",
                         "stop_desc": "",
@@ -320,7 +351,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12581",
+                    "identifier": "f-f-wmata-s-12581",
                     "tags": {
                         "stop_code": "2001341",
                         "stop_desc": "",
@@ -351,7 +382,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3374",
+                    "identifier": "f-f-wmata-s-3374",
                     "tags": {
                         "stop_code": "2001338",
                         "stop_desc": "",
@@ -382,7 +413,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-21990",
+                    "identifier": "f-f-wmata-s-21990",
                     "tags": {
                         "stop_code": "2000296",
                         "stop_desc": "",
@@ -413,7 +444,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3367",
+                    "identifier": "f-f-wmata-s-3367",
                     "tags": {
                         "stop_code": "2000249",
                         "stop_desc": "",
@@ -444,7 +475,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-22006",
+                    "identifier": "f-f-wmata-s-22006",
                     "tags": {
                         "stop_code": "2001334",
                         "stop_desc": "",
@@ -475,7 +506,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28357",
+                    "identifier": "f-f-wmata-s-28357",
                     "tags": {
                         "stop_code": "2000286",
                         "stop_desc": "",
@@ -506,7 +537,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3365",
+                    "identifier": "f-f-wmata-s-3365",
                     "tags": {
                         "stop_code": "2000243",
                         "stop_desc": "",
@@ -530,27 +561,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.208533,
-                    39.018723
+                    -77.174211,
+                    38.999158
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-20875",
+                    "identifier": "f-f-wmata-s-3376",
                     "tags": {
-                        "stop_code": "2001340",
+                        "stop_code": "2000215",
                         "stop_desc": "",
-                        "stop_id": "20875",
-                        "stop_lat": "39.018723",
-                        "stop_lon": "-77.208533",
-                        "stop_name": "FALLS RD & RIVER RD",
-                        "zone_id": "4"
+                        "stop_id": "3376",
+                        "stop_lat": "38.999158",
+                        "stop_lon": "-77.174211",
+                        "stop_name": "RIVER RD & FENWAY DR",
+                        "zone_id": "7"
                     }
                 }
             ],
-            "name": "FALLS RD & RIVER RD",
-            "onestopId": "s-dqcjgp4kwc-falls~river",
+            "name": "RIVER RD & FENWAY DR",
+            "onestopId": "s-dqcjgge6w9-river~fenway",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -568,7 +599,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12580",
+                    "identifier": "f-f-wmata-s-12580",
                     "tags": {
                         "stop_code": "2000359",
                         "stop_desc": "",
@@ -599,7 +630,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3377",
+                    "identifier": "f-f-wmata-s-3377",
                     "tags": {
                         "stop_code": "2000195",
                         "stop_desc": "",
@@ -623,37 +654,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.174211,
-                    38.999158
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-3376",
-                    "tags": {
-                        "stop_code": "2000215",
-                        "stop_desc": "",
-                        "stop_id": "3376",
-                        "stop_lat": "38.999158",
-                        "stop_lon": "-77.174211",
-                        "stop_name": "RIVER RD & FENWAY DR",
-                        "zone_id": "7"
-                    }
-                }
-            ],
-            "name": "RIVER RD & FENWAY DR",
-            "onestopId": "s-dqcjgge6w9-river~fenway",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.205794,
                     39.016084
                 ],
@@ -661,7 +661,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3406",
+                    "identifier": "f-f-wmata-s-3406",
                     "tags": {
                         "stop_code": "2000325",
                         "stop_desc": "",
@@ -692,7 +692,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29783",
+                    "identifier": "f-f-wmata-s-29783",
                     "tags": {
                         "stop_code": "2001336",
                         "stop_desc": "",
@@ -723,7 +723,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-21994",
+                    "identifier": "f-f-wmata-s-21994",
                     "tags": {
                         "stop_code": "2000263",
                         "stop_desc": "",
@@ -754,7 +754,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3372",
+                    "identifier": "f-f-wmata-s-3372",
                     "tags": {
                         "stop_code": "2001339",
                         "stop_desc": "",
@@ -785,7 +785,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28324",
+                    "identifier": "f-f-wmata-s-28324",
                     "tags": {
                         "stop_code": "2000223",
                         "stop_desc": "",
@@ -816,7 +816,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3402",
+                    "identifier": "f-f-wmata-s-3402",
                     "tags": {
                         "stop_code": "2000317",
                         "stop_desc": "",
@@ -847,7 +847,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3408",
+                    "identifier": "f-f-wmata-s-3408",
                     "tags": {
                         "stop_code": "2000262",
                         "stop_desc": "",

@@ -173,6 +173,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.447525,
+                    34.320961
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-1937",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1937",
+                        "stop_desc": "",
+                        "stop_id": "1937",
+                        "stop_lat": "34.320961",
+                        "stop_lon": "-118.447525",
+                        "stop_name": "Foothill / Bledsoe",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Foothill / Bledsoe",
+            "onestopId": "s-9q5g0xvnhd-foothill~bledsoe",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.443024,
                     34.279446
                 ],
@@ -445,30 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.440796,
-                    34.283489
+                    -118.433655,
+                    34.288723
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-6617",
+                    "identifier": "f-lacmta-s-3767",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6617",
+                        "stop_code": "3767",
                         "stop_desc": "",
-                        "stop_id": "6617",
-                        "stop_lat": "34.283489",
-                        "stop_lon": "-118.440796",
-                        "stop_name": "Truman / Maclay",
+                        "stop_id": "3767",
+                        "stop_lat": "34.288723",
+                        "stop_lon": "-118.433655",
+                        "stop_name": "Maclay / 5th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Truman / Maclay",
-            "onestopId": "s-9q5g0c45c3-truman~maclay",
+            "name": "Maclay / 5th",
+            "onestopId": "s-9q5g0fp4rc-maclay~5th",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -751,30 +785,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.439568,
-                    34.304577
+                    -118.445496,
+                    34.294044
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-9037",
+                    "identifier": "f-lacmta-s-11063",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9037",
+                        "stop_code": "11063",
                         "stop_desc": "",
-                        "stop_id": "9037",
-                        "stop_lat": "34.304577",
-                        "stop_lon": "-118.439568",
-                        "stop_name": "Borden / Sayre",
+                        "stop_id": "11063",
+                        "stop_lat": "34.294044",
+                        "stop_lon": "-118.445496",
+                        "stop_name": "Hubbard / Bradley",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Borden / Sayre",
-            "onestopId": "s-9q5g0ufywh-borden~sayre",
+            "name": "Hubbard / Bradley",
+            "onestopId": "s-9q5g0en97c-hubbard~bradley",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1363,30 +1397,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.454605,
-                    34.27969
+                    -118.440628,
+                    34.315273
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-20032",
+                    "identifier": "f-lacmta-s-10598",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "20032",
+                        "stop_code": "10598",
                         "stop_desc": "",
-                        "stop_id": "20032",
-                        "stop_lat": "34.27969",
-                        "stop_lon": "-118.454605",
-                        "stop_name": "Rinaldi / Laurel Canyon",
+                        "stop_id": "10598",
+                        "stop_lat": "34.315273",
+                        "stop_lon": "-118.440628",
+                        "stop_name": "Foothill / Polk",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Rinaldi / Laurel Canyon",
-            "onestopId": "s-9q5g02rvxt-rinaldi~laurelcanyon",
+            "name": "Foothill / Polk",
+            "onestopId": "s-9q5g0yfhvq-foothill~polk",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.439568,
+                    34.304577
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-9037",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "9037",
+                        "stop_desc": "",
+                        "stop_id": "9037",
+                        "stop_lat": "34.304577",
+                        "stop_lon": "-118.439568",
+                        "stop_name": "Borden / Sayre",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Borden / Sayre",
+            "onestopId": "s-9q5g0ufywh-borden~sayre",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1839,30 +1907,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.447525,
-                    34.320961
+                    -118.455704,
+                    34.296322
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-1937",
+                    "identifier": "f-lacmta-s-14197",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1937",
+                        "stop_code": "14197",
                         "stop_desc": "",
-                        "stop_id": "1937",
-                        "stop_lat": "34.320961",
-                        "stop_lon": "-118.447525",
-                        "stop_name": "Foothill / Bledsoe",
+                        "stop_id": "14197",
+                        "stop_lat": "34.296322",
+                        "stop_lon": "-118.455704",
+                        "stop_name": "San Fernando / Astoria",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Foothill / Bledsoe",
-            "onestopId": "s-9q5g0xvnhd-foothill~bledsoe",
+            "name": "San Fernando / Astoria",
+            "onestopId": "s-9q5g07rnw1-sanfernando~astoria",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1897,40 +1965,6 @@
             ],
             "name": "Sayre / Foothill",
             "onestopId": "s-9q5g0vzruk-sayre~foothill",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.433029,
-                    34.299183
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-20103",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "20103",
-                        "stop_desc": "",
-                        "stop_id": "20103",
-                        "stop_lat": "34.299183",
-                        "stop_lon": "-118.433029",
-                        "stop_name": "7th / Orange Grove",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "7th / Orange Grove",
-            "onestopId": "s-9q5g0gzxnr-7th~orangegrove",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2009,30 +2043,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.433655,
-                    34.288723
+                    -118.440796,
+                    34.283489
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-3767",
+                    "identifier": "f-lacmta-s-6617",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3767",
+                        "stop_code": "6617",
                         "stop_desc": "",
-                        "stop_id": "3767",
-                        "stop_lat": "34.288723",
-                        "stop_lon": "-118.433655",
-                        "stop_name": "Maclay / 5th",
+                        "stop_id": "6617",
+                        "stop_lat": "34.283489",
+                        "stop_lon": "-118.440796",
+                        "stop_name": "Truman / Maclay",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Maclay / 5th",
-            "onestopId": "s-9q5g0fp4rc-maclay~5th",
+            "name": "Truman / Maclay",
+            "onestopId": "s-9q5g0c45c3-truman~maclay",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2169,40 +2203,6 @@
             ],
             "name": "Truman / San Fernando Mission",
             "onestopId": "s-9q5g0c2ewq-truman~sanfernandomission",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.445496,
-                    34.294044
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-11063",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11063",
-                        "stop_desc": "",
-                        "stop_id": "11063",
-                        "stop_lat": "34.294044",
-                        "stop_lon": "-118.445496",
-                        "stop_name": "Hubbard / Bradley",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Hubbard / Bradley",
-            "onestopId": "s-9q5g0en97c-hubbard~bradley",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3505,30 +3505,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.440628,
-                    34.315273
+                    -118.454605,
+                    34.27969
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-10598",
+                    "identifier": "f-lacmta-s-20032",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10598",
+                        "stop_code": "20032",
                         "stop_desc": "",
-                        "stop_id": "10598",
-                        "stop_lat": "34.315273",
-                        "stop_lon": "-118.440628",
-                        "stop_name": "Foothill / Polk",
+                        "stop_id": "20032",
+                        "stop_lat": "34.27969",
+                        "stop_lon": "-118.454605",
+                        "stop_name": "Rinaldi / Laurel Canyon",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Foothill / Polk",
-            "onestopId": "s-9q5g0yfhvq-foothill~polk",
+            "name": "Rinaldi / Laurel Canyon",
+            "onestopId": "s-9q5g02rvxt-rinaldi~laurelcanyon",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3607,30 +3607,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.455704,
-                    34.296322
+                    -118.433029,
+                    34.299183
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14197",
+                    "identifier": "f-lacmta-s-20103",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14197",
+                        "stop_code": "20103",
                         "stop_desc": "",
-                        "stop_id": "14197",
-                        "stop_lat": "34.296322",
-                        "stop_lon": "-118.455704",
-                        "stop_name": "San Fernando / Astoria",
+                        "stop_id": "20103",
+                        "stop_lat": "34.299183",
+                        "stop_lon": "-118.433029",
+                        "stop_name": "7th / Orange Grove",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Fernando / Astoria",
-            "onestopId": "s-9q5g07rnw1-sanfernando~astoria",
+            "name": "7th / Orange Grove",
+            "onestopId": "s-9q5g0gzxnr-7th~orangegrove",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

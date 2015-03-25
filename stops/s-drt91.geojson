@@ -108,41 +108,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.970361,
-                    42.370549
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-109865",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "109865",
-                        "stop_desc": "",
-                        "stop_id": "109865",
-                        "stop_lat": "42.370549",
-                        "stop_lon": "-70.970361",
-                        "stop_name": "Shirley St @ Moore St",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Shirley St @ Moore St",
-            "onestopId": "s-drt9112fqd-shirley~moore",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -70.96932,
                     42.36538
                 ],
@@ -168,6 +133,41 @@
             ],
             "name": "Shirley St @ Pontos St",
             "onestopId": "s-drt9103snz-shirley~pontos",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.970361,
+                    42.370549
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-109865",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "109865",
+                        "stop_desc": "",
+                        "stop_id": "109865",
+                        "stop_lat": "42.370549",
+                        "stop_lon": "-70.970361",
+                        "stop_name": "Shirley St @ Moore St",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Shirley St @ Moore St",
+            "onestopId": "s-drt9112fqd-shirley~moore",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

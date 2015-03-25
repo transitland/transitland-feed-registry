@@ -3,6 +3,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.633981624,
+                    37.146640287
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-228",
+                    "tags": {
+                        "stop_code": "60228",
+                        "stop_desc": "",
+                        "stop_id": "228",
+                        "stop_lat": "37.146640286999997",
+                        "stop_lon": "-121.633981624",
+                        "stop_name": "LIVE OAK HIGH SCHOOL",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "LIVE OAK HIGH SCHOOL",
+            "onestopId": "s-9q9e24kffg-liveoakhighschool",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.633666568,
                     37.14668807
                 ],
@@ -24,37 +55,6 @@
             ],
             "name": "LIVE OAK HIGH SCHOOL",
             "onestopId": "s-9q9e24m54h-liveoakhighschool",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.631097271,
-                    37.148849231
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-227",
-                    "tags": {
-                        "stop_code": "60227",
-                        "stop_desc": "",
-                        "stop_id": "227",
-                        "stop_lat": "37.148849231",
-                        "stop_lon": "-121.631097271",
-                        "stop_name": "MAIN & ELM",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "MAIN & ELM",
-            "onestopId": "s-9q9e24wzwp-main~elm",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -96,37 +96,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.633981624,
-                    37.146640287
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-228",
-                    "tags": {
-                        "stop_code": "60228",
-                        "stop_desc": "",
-                        "stop_id": "228",
-                        "stop_lat": "37.146640286999997",
-                        "stop_lon": "-121.633981624",
-                        "stop_name": "LIVE OAK HIGH SCHOOL",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "LIVE OAK HIGH SCHOOL",
-            "onestopId": "s-9q9e24kffg-liveoakhighschool",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.63798708,
                     37.151128294
                 ],
@@ -148,6 +117,37 @@
             ],
             "name": "HALF & MISSION VIEW",
             "onestopId": "s-9q9e251vj2-half~missionview",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.631097271,
+                    37.148849231
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-227",
+                    "tags": {
+                        "stop_code": "60227",
+                        "stop_desc": "",
+                        "stop_id": "227",
+                        "stop_lat": "37.148849231",
+                        "stop_lon": "-121.631097271",
+                        "stop_name": "MAIN & ELM",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "MAIN & ELM",
+            "onestopId": "s-9q9e24wzwp-main~elm",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

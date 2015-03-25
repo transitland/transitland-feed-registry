@@ -139,40 +139,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.290428,
-                    33.828228
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-17451",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "17451",
-                        "stop_desc": "",
-                        "stop_id": "17451",
-                        "stop_lat": "33.828228",
-                        "stop_lon": "-118.290428",
-                        "stop_name": "Vermont / 220th",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Vermont / 220th",
-            "onestopId": "s-9q5bknpx9n-vermont~220th",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.290421,
                     33.831329
                 ],
@@ -241,30 +207,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.290634,
-                    33.798038
+                    -118.263512,
+                    33.827721
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-5638",
+                    "identifier": "f-lacmta-s-246",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5638",
+                        "stop_code": "246",
                         "stop_desc": "",
-                        "stop_id": "5638",
-                        "stop_lat": "33.798038",
-                        "stop_lon": "-118.290634",
-                        "stop_name": "Vermont / Lomita",
+                        "stop_id": "246",
+                        "stop_lat": "33.827721",
+                        "stop_lon": "-118.263512",
+                        "stop_name": "Avalon / 220th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Vermont / Lomita",
-            "onestopId": "s-9q5bk0xru6-vermont~lomita",
+            "name": "Avalon / 220th",
+            "onestopId": "s-9q5bky5hu2-avalon~220th",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -343,30 +309,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.290413,
-                    33.824196
+                    -118.264259,
+                    33.808479
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17449",
+                    "identifier": "f-lacmta-s-8876",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17449",
+                        "stop_code": "8876",
                         "stop_desc": "",
-                        "stop_id": "17449",
-                        "stop_lat": "33.824196",
-                        "stop_lon": "-118.290413",
-                        "stop_name": "Vermont / 223rd",
+                        "stop_id": "8876",
+                        "stop_lat": "33.808479",
+                        "stop_lon": "-118.264259",
+                        "stop_name": "Avalon / Sepulveda",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Vermont / 223rd",
-            "onestopId": "s-9q5bkjx81x-vermont~223rd",
+            "name": "Avalon / Sepulveda",
+            "onestopId": "s-9q5bkfdsej-avalon~sepulveda",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -377,30 +343,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.263512,
-                    33.827721
+                    -118.290428,
+                    33.828228
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-246",
+                    "identifier": "f-lacmta-s-17451",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "246",
+                        "stop_code": "17451",
                         "stop_desc": "",
-                        "stop_id": "246",
-                        "stop_lat": "33.827721",
-                        "stop_lon": "-118.263512",
-                        "stop_name": "Avalon / 220th",
+                        "stop_id": "17451",
+                        "stop_lat": "33.828228",
+                        "stop_lon": "-118.290428",
+                        "stop_name": "Vermont / 220th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avalon / 220th",
-            "onestopId": "s-9q5bky5hu2-avalon~220th",
+            "name": "Vermont / 220th",
+            "onestopId": "s-9q5bknpx9n-vermont~220th",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.290634,
+                    33.798038
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-5638",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5638",
+                        "stop_desc": "",
+                        "stop_id": "5638",
+                        "stop_lat": "33.798038",
+                        "stop_lon": "-118.290634",
+                        "stop_name": "Vermont / Lomita",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Vermont / Lomita",
+            "onestopId": "s-9q5bk0xru6-vermont~lomita",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -717,30 +717,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.264259,
-                    33.808479
+                    -118.290421,
+                    33.818687
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-8876",
+                    "identifier": "f-lacmta-s-17447",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8876",
+                        "stop_code": "17447",
                         "stop_desc": "",
-                        "stop_id": "8876",
-                        "stop_lat": "33.808479",
-                        "stop_lon": "-118.264259",
-                        "stop_name": "Avalon / Sepulveda",
+                        "stop_id": "17447",
+                        "stop_lat": "33.818687",
+                        "stop_lon": "-118.290421",
+                        "stop_name": "Vermont / 228th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avalon / Sepulveda",
-            "onestopId": "s-9q5bkfdsej-avalon~sepulveda",
+            "name": "Vermont / 228th",
+            "onestopId": "s-9q5bkhx81k-vermont~228th",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -819,30 +819,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.290421,
-                    33.818687
+                    -118.290413,
+                    33.824196
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17447",
+                    "identifier": "f-lacmta-s-17449",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17447",
+                        "stop_code": "17449",
                         "stop_desc": "",
-                        "stop_id": "17447",
-                        "stop_lat": "33.818687",
-                        "stop_lon": "-118.290421",
-                        "stop_name": "Vermont / 228th",
+                        "stop_id": "17449",
+                        "stop_lat": "33.824196",
+                        "stop_lon": "-118.290413",
+                        "stop_name": "Vermont / 223rd",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Vermont / 228th",
-            "onestopId": "s-9q5bkhx81k-vermont~228th",
+            "name": "Vermont / 223rd",
+            "onestopId": "s-9q5bkjx81x-vermont~223rd",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -887,30 +887,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.264145,
-                    33.804802
+                    -118.263535,
+                    33.835648
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-8798",
+                    "identifier": "f-lacmta-s-245",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8798",
+                        "stop_code": "245",
                         "stop_desc": "",
-                        "stop_id": "8798",
-                        "stop_lat": "33.804802",
-                        "stop_lon": "-118.264145",
-                        "stop_name": "Avalon / RR-Xing",
+                        "stop_id": "245",
+                        "stop_lat": "33.835648",
+                        "stop_lon": "-118.263535",
+                        "stop_name": "Avalon / 213th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avalon / RR-Xing",
-            "onestopId": "s-9q5bkcfxjx-avalon~rrxing",
+            "name": "Avalon / 213th",
+            "onestopId": "s-9q5bkze4gv-avalon~213th",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1703,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.263535,
-                    33.835648
+                    -118.264145,
+                    33.804802
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-245",
+                    "identifier": "f-lacmta-s-8798",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "245",
+                        "stop_code": "8798",
                         "stop_desc": "",
-                        "stop_id": "245",
-                        "stop_lat": "33.835648",
-                        "stop_lon": "-118.263535",
-                        "stop_name": "Avalon / 213th",
+                        "stop_id": "8798",
+                        "stop_lat": "33.804802",
+                        "stop_lon": "-118.264145",
+                        "stop_name": "Avalon / RR-Xing",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avalon / 213th",
-            "onestopId": "s-9q5bkze4gv-avalon~213th",
+            "name": "Avalon / RR-Xing",
+            "onestopId": "s-9q5bkcfxjx-avalon~rrxing",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

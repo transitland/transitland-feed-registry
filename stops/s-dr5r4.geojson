@@ -3,55 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -74.074835,
-                    40.636949
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-S30N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "S30",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "S30N",
-                        "stop_lat": "40.636949",
-                        "stop_lon": "-74.074835",
-                        "stop_name": "Tompkinsville",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-S30S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "S30",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "S30S",
-                        "stop_lat": "40.636949",
-                        "stop_lon": "-74.074835",
-                        "stop_name": "Tompkinsville",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Tompkinsville",
-            "onestopId": "s-dr5r4msr7h-tompkinsville",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -74.073643,
                     40.643748
                 ],
@@ -59,13 +10,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-S31S",
+                    "identifier": "f-nyctsubway-s-S31N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S31",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "S31S",
+                        "stop_id": "S31N",
                         "stop_lat": "40.643748",
                         "stop_lon": "-74.073643",
                         "stop_name": "St George",
@@ -74,13 +25,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-S31N",
+                    "identifier": "f-nyctsubway-s-S31S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S31",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "S31N",
+                        "stop_id": "S31S",
                         "stop_lat": "40.643748",
                         "stop_lon": "-74.073643",
                         "stop_name": "St George",
@@ -101,6 +52,55 @@
         {
             "geometry": {
                 "coordinates": [
+                    -74.071402,
+                    40.621319
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-S28N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "S28",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "S28N",
+                        "stop_lat": "40.621319",
+                        "stop_lon": "-74.071402",
+                        "stop_name": "Clifton",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-S28S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "S28",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "S28S",
+                        "stop_lat": "40.621319",
+                        "stop_lon": "-74.071402",
+                        "stop_name": "Clifton",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Clifton",
+            "onestopId": "s-dr5r46yu74-clifton",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.075162,
                     40.627915
                 ],
@@ -108,7 +108,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-S29N",
+                    "identifier": "f-nyctsubway-s-S29N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S29",
@@ -123,7 +123,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-S29S",
+                    "identifier": "f-nyctsubway-s-S29S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S29",
@@ -150,45 +150,45 @@
         {
             "geometry": {
                 "coordinates": [
-                    -74.071402,
-                    40.621319
+                    -74.074835,
+                    40.636949
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-S28N",
+                    "identifier": "f-nyctsubway-s-S30N",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "S28",
+                        "parent_station": "S30",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "S28N",
-                        "stop_lat": "40.621319",
-                        "stop_lon": "-74.071402",
-                        "stop_name": "Clifton",
+                        "stop_id": "S30N",
+                        "stop_lat": "40.636949",
+                        "stop_lon": "-74.074835",
+                        "stop_name": "Tompkinsville",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-S28S",
+                    "identifier": "f-nyctsubway-s-S30S",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "S28",
+                        "parent_station": "S30",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "S28S",
-                        "stop_lat": "40.621319",
-                        "stop_lon": "-74.071402",
-                        "stop_name": "Clifton",
+                        "stop_id": "S30S",
+                        "stop_lat": "40.636949",
+                        "stop_lon": "-74.074835",
+                        "stop_name": "Tompkinsville",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Clifton",
-            "onestopId": "s-dr5r46yu74-clifton",
+            "name": "Tompkinsville",
+            "onestopId": "s-dr5r4msr7h-tompkinsville",
             "properties": {},
             "servedBy": [
                 "o-dr5r-mtanewyorkcitytransit"

@@ -651,32 +651,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.09530977,
-                    32.970064892
+                    -117.113011358,
+                    32.9607324416
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-11741",
+                    "identifier": "f-mtssandiego-s-10579",
                     "tags": {
-                        "intersection_code": "N-S/B",
+                        "intersection_code": "F-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "11741",
-                        "stop_id": "11741",
-                        "stop_lat": "32.970064892",
-                        "stop_lon": "-117.09530977",
-                        "stop_name": "Carmel Mountain Rd & Cuca St",
-                        "stop_name_short": "Carmel Mtn&Cuca",
-                        "stop_place": "cmrcuc",
+                        "stop_code": "10579",
+                        "stop_id": "10579",
+                        "stop_lat": "32.9607324416",
+                        "stop_lon": "-117.113011358",
+                        "stop_name": "Carmel Mountain Rd & Paseo Cardiel",
+                        "stop_name_short": "Carmel Mtn&Paseo Cardiel",
+                        "stop_place": "cmrpas",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Carmel Mountain Rd & Cuca St",
-            "onestopId": "s-9muex6jb99-carmelmountain~cuca",
+            "name": "Carmel Mountain Rd & Paseo Cardiel",
+            "onestopId": "s-9muex02fjj-carmelmountain~paseocardiel",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -831,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.113011358,
-                    32.9607324416
+                    -117.09530977,
+                    32.970064892
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-10579",
+                    "identifier": "f-mtssandiego-s-11741",
                     "tags": {
-                        "intersection_code": "F-E/B",
+                        "intersection_code": "N-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "10579",
-                        "stop_id": "10579",
-                        "stop_lat": "32.9607324416",
-                        "stop_lon": "-117.113011358",
-                        "stop_name": "Carmel Mountain Rd & Paseo Cardiel",
-                        "stop_name_short": "Carmel Mtn&Paseo Cardiel",
-                        "stop_place": "cmrpas",
+                        "stop_code": "11741",
+                        "stop_id": "11741",
+                        "stop_lat": "32.970064892",
+                        "stop_lon": "-117.09530977",
+                        "stop_name": "Carmel Mountain Rd & Cuca St",
+                        "stop_name_short": "Carmel Mtn&Cuca",
+                        "stop_place": "cmrcuc",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Carmel Mountain Rd & Paseo Cardiel",
-            "onestopId": "s-9muex02fjj-carmelmountain~paseocardiel",
+            "name": "Carmel Mountain Rd & Cuca St",
+            "onestopId": "s-9muex6jb99-carmelmountain~cuca",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1083,42 +1083,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.075514728,
-                    32.9881352081
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-13442",
-                    "tags": {
-                        "intersection_code": "F-S/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "13442",
-                        "stop_id": "13442",
-                        "stop_lat": "32.9881352081",
-                        "stop_lon": "-117.075514728",
-                        "stop_name": "Carmel Mountain Rd & Rancho Carmel Dr (N)",
-                        "stop_name_short": "Carmel Mtn&Rcho Carmel (N)",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Carmel Mountain Rd & Rancho Carmel Dr (N)",
-            "onestopId": "s-9muexvk1yf-carmelmountain~ranchocarmeln",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.092504329,
                     32.9733300002
                 ],
@@ -1145,6 +1109,42 @@
             ],
             "name": "Carmel Mountain Rd & Gerana St",
             "onestopId": "s-9muex6xgdf-carmelmountain~gerana",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.075514728,
+                    32.9881352081
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-13442",
+                    "tags": {
+                        "intersection_code": "F-S/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "13442",
+                        "stop_id": "13442",
+                        "stop_lat": "32.9881352081",
+                        "stop_lon": "-117.075514728",
+                        "stop_name": "Carmel Mountain Rd & Rancho Carmel Dr (N)",
+                        "stop_name_short": "Carmel Mtn&Rcho Carmel (N)",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Carmel Mountain Rd & Rancho Carmel Dr (N)",
+            "onestopId": "s-9muexvk1yf-carmelmountain~ranchocarmeln",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

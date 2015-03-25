@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.2514,
-                    37.40426
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-321011",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "321011",
-                        "stop_desc": "",
-                        "stop_id": "321011",
-                        "stop_lat": "  37.404260",
-                        "stop_lon": "-122.251400",
-                        "stop_name": "Portola Rd & Phillip Rd",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Portola Rd & Phillip Rd",
-            "onestopId": "s-9q9hf15pxg-portola~phillip",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.24812,
                     37.40399
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "Portola Rd & Mountain Home Rd",
             "onestopId": "s-9q9hf1jwh3-portola~mountainhome",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.244202,
+                    37.398597
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-322024",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "322024",
+                        "stop_desc": "",
+                        "stop_id": "322024",
+                        "stop_lat": "  37.398597",
+                        "stop_lon": "-122.244202",
+                        "stop_name": "Portola Rd & Family Farm Rd North",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Portola Rd & Family Farm Rd North",
+            "onestopId": "s-9q9hf20qxe-portola~familyfarmnorth",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -241,30 +241,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.244202,
-                    37.398597
+                    -122.2514,
+                    37.40426
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-322024",
+                    "identifier": "f-samtrans-s-321011",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "322024",
+                        "stop_code": "321011",
                         "stop_desc": "",
-                        "stop_id": "322024",
-                        "stop_lat": "  37.398597",
-                        "stop_lon": "-122.244202",
-                        "stop_name": "Portola Rd & Family Farm Rd North",
+                        "stop_id": "321011",
+                        "stop_lat": "  37.404260",
+                        "stop_lon": "-122.251400",
+                        "stop_name": "Portola Rd & Phillip Rd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Portola Rd & Family Farm Rd North",
-            "onestopId": "s-9q9hf20qxe-portola~familyfarmnorth",
+            "name": "Portola Rd & Phillip Rd",
+            "onestopId": "s-9q9hf15pxg-portola~phillip",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

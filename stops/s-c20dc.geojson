@@ -219,32 +219,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.989776,
-                    45.525939
+                    -122.991598,
+                    45.521357
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9997",
+                    "identifier": "f-trimet-s-6477",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9997",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9997)",
-                        "stop_id": "9997",
-                        "stop_lat": "45.525939",
-                        "stop_lon": "-122.989776",
-                        "stop_name": "300 Block N 1st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9997",
+                        "position": "Nearside",
+                        "stop_code": "6477",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 6477)",
+                        "stop_id": "6477",
+                        "stop_lat": "45.521357",
+                        "stop_lon": "-122.991598",
+                        "stop_name": "SW Washington & Adams",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6477",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "300 Block N 1st",
-            "onestopId": "s-c20dcr9xfd-300blockn1st",
+            "name": "SW Washington & Adams",
+            "onestopId": "s-c20dcqbm05-swwashington~adams",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -903,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.988197,
-                    45.521307
+                    -122.978678,
+                    45.520085
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10290",
+                    "identifier": "f-trimet-s-308",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10290",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10290)",
-                        "stop_id": "10290",
-                        "stop_lat": "45.521307",
-                        "stop_lon": "-122.988197",
-                        "stop_name": "SE Washington & 2nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10290",
+                        "stop_code": "308",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 308)",
+                        "stop_id": "308",
+                        "stop_lat": "45.520085",
+                        "stop_lon": "-122.978678",
+                        "stop_name": "SE Baseline St & 7th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=308",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Washington & 2nd",
-            "onestopId": "s-c20dcqfsz6-sewashington~2nd",
+            "name": "SE Baseline St & 7th",
+            "onestopId": "s-c20dcw9ttn-sebaseline~7th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1011,32 +1011,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.991598,
-                    45.521357
+                    -122.989776,
+                    45.525939
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6477",
+                    "identifier": "f-trimet-s-9997",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6477",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 6477)",
-                        "stop_id": "6477",
-                        "stop_lat": "45.521357",
-                        "stop_lon": "-122.991598",
-                        "stop_name": "SW Washington & Adams",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6477",
+                        "position": "At",
+                        "stop_code": "9997",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9997)",
+                        "stop_id": "9997",
+                        "stop_lat": "45.525939",
+                        "stop_lon": "-122.989776",
+                        "stop_name": "300 Block N 1st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9997",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Washington & Adams",
-            "onestopId": "s-c20dcqbm05-swwashington~adams",
+            "name": "300 Block N 1st",
+            "onestopId": "s-c20dcr9xfd-300blockn1st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1181,6 +1181,42 @@
             ],
             "name": "E Main & N 1st",
             "onestopId": "s-c20dcr1v0z-emain~n1st",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.979251,
+                    45.518689
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4123",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "4123",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 4123)",
+                        "stop_id": "4123",
+                        "stop_lat": "45.518689",
+                        "stop_lon": "-122.979251",
+                        "stop_name": "SE Oak & 7th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4123",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Oak & 7th",
+            "onestopId": "s-c20dcw3jxf-seoak~7th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1407,32 +1443,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.979251,
-                    45.518689
+                    -122.973727,
+                    45.521748
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4123",
+                    "identifier": "f-trimet-s-8552",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "4123",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 4123)",
-                        "stop_id": "4123",
-                        "stop_lat": "45.518689",
-                        "stop_lon": "-122.979251",
-                        "stop_name": "SE Oak & 7th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4123",
+                        "stop_code": "8552",
+                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 8552)",
+                        "stop_id": "8552",
+                        "stop_lat": "45.521748",
+                        "stop_lon": "-122.973727",
+                        "stop_name": "SE 10th & E Main",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8552",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Oak & 7th",
-            "onestopId": "s-c20dcw3jxf-seoak~7th",
+            "name": "SE 10th & E Main",
+            "onestopId": "s-c20dcwvr2k-se10th~emain",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1695,68 +1731,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.978678,
-                    45.520085
+                    -122.988197,
+                    45.521307
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-308",
+                    "identifier": "f-trimet-s-10290",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "308",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 308)",
-                        "stop_id": "308",
-                        "stop_lat": "45.520085",
-                        "stop_lon": "-122.978678",
-                        "stop_name": "SE Baseline St & 7th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=308",
+                        "stop_code": "10290",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10290)",
+                        "stop_id": "10290",
+                        "stop_lat": "45.521307",
+                        "stop_lon": "-122.988197",
+                        "stop_name": "SE Washington & 2nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10290",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Baseline St & 7th",
-            "onestopId": "s-c20dcw9ttn-sebaseline~7th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.973727,
-                    45.521748
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8552",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "8552",
-                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 8552)",
-                        "stop_id": "8552",
-                        "stop_lat": "45.521748",
-                        "stop_lon": "-122.973727",
-                        "stop_name": "SE 10th & E Main",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8552",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 10th & E Main",
-            "onestopId": "s-c20dcwvr2k-se10th~emain",
+            "name": "SE Washington & 2nd",
+            "onestopId": "s-c20dcqfsz6-sewashington~2nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

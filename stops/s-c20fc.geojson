@@ -183,42 +183,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.644417,
-                    45.503444
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1092",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1092",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1092)",
-                        "stop_id": "1092",
-                        "stop_lat": "45.503444",
-                        "stop_lon": "-122.644417",
-                        "stop_name": "SE Clinton & 21st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1092",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Clinton & 21st",
-            "onestopId": "s-c20fc5thcb-seclinton~21st",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.639912,
                     45.504859
                 ],
@@ -1767,32 +1731,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.615726,
-                    45.490353
+                    -122.639722,
+                    45.49021
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2733",
+                    "identifier": "f-trimet-s-2712",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "2733",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2733)",
-                        "stop_id": "2733",
-                        "stop_lat": "45.490353",
-                        "stop_lon": "-122.615726",
-                        "stop_name": "SE Holgate & 45th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2733",
+                        "stop_code": "2712",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 2712)",
+                        "stop_id": "2712",
+                        "stop_lat": "45.49021",
+                        "stop_lon": "-122.639722",
+                        "stop_name": "SE Holgate & 26th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2712",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Holgate & 45th",
-            "onestopId": "s-c20fcc3bw2-seholgate~45th",
+            "name": "SE Holgate & 26th",
+            "onestopId": "s-c20fc30rxm-seholgate~26th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1937,42 +1901,6 @@
             ],
             "name": "SE Milwaukie & Insley",
             "onestopId": "s-c20fc014xm-semilwaukie~insley",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.622837,
-                    45.490465
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7463",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7463",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7463)",
-                        "stop_id": "7463",
-                        "stop_lat": "45.490465",
-                        "stop_lon": "-122.622837",
-                        "stop_name": "SE Cesar Chavez Blvd & Holgate",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7463",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Cesar Chavez Blvd & Holgate",
-            "onestopId": "s-c20fc9kc0v-secesarchavez~holgate",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2991,32 +2919,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.608957,
-                    45.497162
+                    -122.622837,
+                    45.490465
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7704",
+                    "identifier": "f-trimet-s-7463",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7704",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7704)",
-                        "stop_id": "7704",
-                        "stop_lat": "45.497162",
-                        "stop_lon": "-122.608957",
-                        "stop_name": "SE 52nd & Powell",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7704",
+                        "stop_code": "7463",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7463)",
+                        "stop_id": "7463",
+                        "stop_lat": "45.490465",
+                        "stop_lon": "-122.622837",
+                        "stop_name": "SE Cesar Chavez Blvd & Holgate",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7463",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 52nd & Powell",
-            "onestopId": "s-c20fcfwbhj-se52nd~powell",
+            "name": "SE Cesar Chavez Blvd & Holgate",
+            "onestopId": "s-c20fc9kc0v-secesarchavez~holgate",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3063,32 +2991,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.63248,
-                    45.504855
+                    -122.613746,
+                    45.526586
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1450",
+                    "identifier": "f-trimet-s-2009",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1450",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1450)",
-                        "stop_id": "1450",
-                        "stop_lat": "45.504855",
-                        "stop_lon": "-122.63248",
-                        "stop_name": "SE Division & 32nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1450",
+                        "position": "Opposite",
+                        "stop_code": "2009",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2009)",
+                        "stop_id": "2009",
+                        "stop_lat": "45.526586",
+                        "stop_lon": "-122.613746",
+                        "stop_name": "4700 Block NE Glisan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2009",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Division & 32nd",
-            "onestopId": "s-c20fc7vubp-sedivision~32nd",
+            "name": "4700 Block NE Glisan",
+            "onestopId": "s-c20fczg7sd-4700blockneglisan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3675,32 +3603,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.641882,
-                    45.498648
+                    -122.627268,
+                    45.526374
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4626",
+                    "identifier": "f-trimet-s-2003",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "4626",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 4626)",
-                        "stop_id": "4626",
-                        "stop_lat": "45.498648",
-                        "stop_lon": "-122.641882",
-                        "stop_name": "SE Powell & 24th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4626",
+                        "position": "Nearside",
+                        "stop_code": "2003",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 2003)",
+                        "stop_id": "2003",
+                        "stop_lat": "45.526374",
+                        "stop_lon": "-122.627268",
+                        "stop_name": "NE Glisan & Laurelhurst",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2003",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Powell & 24th",
-            "onestopId": "s-c20fc4ybv4-sepowell~24th",
+            "name": "NE Glisan & Laurelhurst",
+            "onestopId": "s-c20fcxcd3e-neglisan~laurelhurst",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3845,6 +3773,42 @@
             ],
             "name": "SE Clinton & 26th",
             "onestopId": "s-c20fc78k9j-seclinton~26th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63248,
+                    45.504855
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-1450",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1450",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1450)",
+                        "stop_id": "1450",
+                        "stop_lat": "45.504855",
+                        "stop_lon": "-122.63248",
+                        "stop_name": "SE Division & 32nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1450",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Division & 32nd",
+            "onestopId": "s-c20fc7vubp-sedivision~32nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4061,6 +4025,42 @@
             ],
             "name": "SE Hawthorne & 34th",
             "onestopId": "s-c20fcmpzr4-sehawthorne~34th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.632417,
+                    45.512139
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2619",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "2619",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2619)",
+                        "stop_id": "2619",
+                        "stop_lat": "45.512139",
+                        "stop_lon": "-122.632417",
+                        "stop_name": "SE Hawthorne & 32nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2619",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Hawthorne & 32nd",
+            "onestopId": "s-c20fcmjz3t-sehawthorne~32nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4827,6 +4827,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.615726,
+                    45.490353
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2733",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "2733",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2733)",
+                        "stop_id": "2733",
+                        "stop_lat": "45.490353",
+                        "stop_lon": "-122.615726",
+                        "stop_name": "SE Holgate & 45th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2733",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Holgate & 45th",
+            "onestopId": "s-c20fcc3bw2-seholgate~45th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.634374,
                     45.526541
                 ],
@@ -5187,32 +5223,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622899,
-                    45.519195
+                    -122.623116,
+                    45.523707
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7485",
+                    "identifier": "f-trimet-s-7441",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7485",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7485)",
-                        "stop_id": "7485",
-                        "stop_lat": "45.519195",
-                        "stop_lon": "-122.622899",
-                        "stop_name": "SE Cesar Chavez Blvd & Stark",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7485",
+                        "stop_code": "7441",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7441)",
+                        "stop_id": "7441",
+                        "stop_lat": "45.523707",
+                        "stop_lon": "-122.623116",
+                        "stop_name": "NE Cesar Chavez Blvd & E Burnside",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7441",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Cesar Chavez Blvd & Stark",
-            "onestopId": "s-c20fcws8x2-secesarchavez~stark",
+            "name": "NE Cesar Chavez Blvd & E Burnside",
+            "onestopId": "s-c20fcxkdf6-necesarchavez~eburnside",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5223,32 +5259,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.627268,
-                    45.526374
+                    -122.641882,
+                    45.498648
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2003",
+                    "identifier": "f-trimet-s-4626",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2003",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 2003)",
-                        "stop_id": "2003",
-                        "stop_lat": "45.526374",
-                        "stop_lon": "-122.627268",
-                        "stop_name": "NE Glisan & Laurelhurst",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2003",
+                        "position": "Farside",
+                        "stop_code": "4626",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 4626)",
+                        "stop_id": "4626",
+                        "stop_lat": "45.498648",
+                        "stop_lon": "-122.641882",
+                        "stop_name": "SE Powell & 24th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4626",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Glisan & Laurelhurst",
-            "onestopId": "s-c20fcxcd3e-neglisan~laurelhurst",
+            "name": "SE Powell & 24th",
+            "onestopId": "s-c20fc4ybv4-sepowell~24th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5547,32 +5583,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.623116,
-                    45.523707
+                    -122.622899,
+                    45.519195
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7441",
+                    "identifier": "f-trimet-s-7485",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7441",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7441)",
-                        "stop_id": "7441",
-                        "stop_lat": "45.523707",
-                        "stop_lon": "-122.623116",
-                        "stop_name": "NE Cesar Chavez Blvd & E Burnside",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7441",
+                        "stop_code": "7485",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7485)",
+                        "stop_id": "7485",
+                        "stop_lat": "45.519195",
+                        "stop_lon": "-122.622899",
+                        "stop_name": "SE Cesar Chavez Blvd & Stark",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7485",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Cesar Chavez Blvd & E Burnside",
-            "onestopId": "s-c20fcxkdf6-necesarchavez~eburnside",
+            "name": "SE Cesar Chavez Blvd & Stark",
+            "onestopId": "s-c20fcws8x2-secesarchavez~stark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6771,32 +6807,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.637753,
-                    45.4933
+                    -122.645757,
+                    45.504875
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1991",
+                    "identifier": "f-trimet-s-1341",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1991",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1991)",
-                        "stop_id": "1991",
-                        "stop_lat": "45.4933",
-                        "stop_lon": "-122.637753",
-                        "stop_name": "SE Gladstone & 28th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1991",
+                        "position": "Farside",
+                        "stop_code": "1341",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1341)",
+                        "stop_id": "1341",
+                        "stop_lat": "45.504875",
+                        "stop_lon": "-122.645757",
+                        "stop_name": "SE Division & Ladd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1341",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Gladstone & 28th",
-            "onestopId": "s-c20fc3cctj-segladstone~28th",
+            "name": "SE Division & Ladd",
+            "onestopId": "s-c20fc5uj4e-sedivision~ladd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6987,42 +7023,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.609104,
-                    45.50302
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7673",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "7673",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7673)",
-                        "stop_id": "7673",
-                        "stop_lat": "45.50302",
-                        "stop_lon": "-122.609104",
-                        "stop_name": "SE 52nd & Clinton",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7673",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 52nd & Clinton",
-            "onestopId": "s-c20fcgwf2c-se52nd~clinton",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.646165,
                     45.525564
                 ],
@@ -7049,42 +7049,6 @@
             ],
             "name": "NE Sandy & Flanders",
             "onestopId": "s-c20fcpev9h-nesandy~flanders",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.613746,
-                    45.526586
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2009",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "2009",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2009)",
-                        "stop_id": "2009",
-                        "stop_lat": "45.526586",
-                        "stop_lon": "-122.613746",
-                        "stop_name": "4700 Block NE Glisan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2009",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "4700 Block NE Glisan",
-            "onestopId": "s-c20fczg7sd-4700blockneglisan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7167,32 +7131,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.636553,
-                    45.504852
+                    -122.623022,
+                    45.515101
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1444",
+                    "identifier": "f-trimet-s-7492",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1444",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1444)",
-                        "stop_id": "1444",
-                        "stop_lat": "45.504852",
-                        "stop_lon": "-122.636553",
-                        "stop_name": "SE Division & 28th Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1444",
+                        "stop_code": "7492",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7492)",
+                        "stop_id": "7492",
+                        "stop_lat": "45.515101",
+                        "stop_lon": "-122.623022",
+                        "stop_name": "SE Cesar Chavez Blvd & Taylor",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7492",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Division & 28th Pl",
-            "onestopId": "s-c20fc7fucp-sedivision~28thpl",
+            "name": "SE Cesar Chavez Blvd & Taylor",
+            "onestopId": "s-c20fctu8sm-secesarchavez~taylor",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7851,42 +7815,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.611464,
-                    45.500687
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8241",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8241",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 8241)",
-                        "stop_id": "8241",
-                        "stop_lat": "45.500687",
-                        "stop_lon": "-122.611464",
-                        "stop_name": "SE 50th & Brooklyn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8241",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 50th & Brooklyn",
-            "onestopId": "s-c20fcgjh9y-se50th~brooklyn",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.622217,
                     45.497225
                 ],
@@ -7913,6 +7841,42 @@
             ],
             "name": "SE Powell & Cesar Chavez Blvd",
             "onestopId": "s-c20fcdt0x1-sepowell~cesarchavez",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.611464,
+                    45.500687
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8241",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "8241",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 8241)",
+                        "stop_id": "8241",
+                        "stop_lat": "45.500687",
+                        "stop_lon": "-122.611464",
+                        "stop_name": "SE 50th & Brooklyn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8241",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 50th & Brooklyn",
+            "onestopId": "s-c20fcgjh9y-se50th~brooklyn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -8823,32 +8787,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.639722,
-                    45.49021
+                    -122.644417,
+                    45.503444
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2712",
+                    "identifier": "f-trimet-s-1092",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "2712",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 2712)",
-                        "stop_id": "2712",
-                        "stop_lat": "45.49021",
-                        "stop_lon": "-122.639722",
-                        "stop_name": "SE Holgate & 26th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2712",
+                        "stop_code": "1092",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1092)",
+                        "stop_id": "1092",
+                        "stop_lat": "45.503444",
+                        "stop_lon": "-122.644417",
+                        "stop_name": "SE Clinton & 21st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1092",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Holgate & 26th",
-            "onestopId": "s-c20fc30rxm-seholgate~26th",
+            "name": "SE Clinton & 21st",
+            "onestopId": "s-c20fc5thcb-seclinton~21st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9651,32 +9615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.623022,
-                    45.515101
+                    -122.636553,
+                    45.504852
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7492",
+                    "identifier": "f-trimet-s-1444",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7492",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7492)",
-                        "stop_id": "7492",
-                        "stop_lat": "45.515101",
-                        "stop_lon": "-122.623022",
-                        "stop_name": "SE Cesar Chavez Blvd & Taylor",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7492",
+                        "stop_code": "1444",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1444)",
+                        "stop_id": "1444",
+                        "stop_lat": "45.504852",
+                        "stop_lon": "-122.636553",
+                        "stop_name": "SE Division & 28th Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1444",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Cesar Chavez Blvd & Taylor",
-            "onestopId": "s-c20fctu8sm-secesarchavez~taylor",
+            "name": "SE Division & 28th Pl",
+            "onestopId": "s-c20fc7fucp-sedivision~28thpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9759,32 +9723,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622726,
-                    45.500565
+                    -122.610602,
+                    45.51661
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7493",
+                    "identifier": "f-trimet-s-10449",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7493",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7493)",
-                        "stop_id": "7493",
-                        "stop_lat": "45.500565",
-                        "stop_lon": "-122.622726",
-                        "stop_name": "SE Cesar Chavez Blvd & Tibbetts",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7493",
+                        "position": "Farside",
+                        "stop_code": "10449",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 10449)",
+                        "stop_id": "10449",
+                        "stop_lat": "45.51661",
+                        "stop_lon": "-122.610602",
+                        "stop_name": "SE Belmont & 51st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10449",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Cesar Chavez Blvd & Tibbetts",
-            "onestopId": "s-c20fcehu52-secesarchavez~tibbetts",
+            "name": "SE Belmont & 51st",
+            "onestopId": "s-c20fcyj9mz-sebelmont~51st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10371,32 +10335,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.615794,
-                    45.505227
+                    -122.63766,
+                    45.526555
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1465",
+                    "identifier": "f-trimet-s-9709",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1465",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1465)",
-                        "stop_id": "1465",
-                        "stop_lat": "45.505227",
-                        "stop_lon": "-122.615794",
-                        "stop_name": "SE Division & 45th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1465",
+                        "stop_code": "9709",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 9709)",
+                        "stop_id": "9709",
+                        "stop_lat": "45.526555",
+                        "stop_lon": "-122.63766",
+                        "stop_name": "NE Glisan & 28th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9709",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Division & 45th",
-            "onestopId": "s-c20fcgczhv-sedivision~45th",
+            "name": "NE Glisan & 28th",
+            "onestopId": "s-c20fcrcgrk-neglisan~28th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10443,32 +10407,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.63766,
-                    45.526555
+                    -122.615794,
+                    45.505227
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9709",
+                    "identifier": "f-trimet-s-1465",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "9709",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 9709)",
-                        "stop_id": "9709",
-                        "stop_lat": "45.526555",
-                        "stop_lon": "-122.63766",
-                        "stop_name": "NE Glisan & 28th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9709",
+                        "stop_code": "1465",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1465)",
+                        "stop_id": "1465",
+                        "stop_lat": "45.505227",
+                        "stop_lon": "-122.615794",
+                        "stop_name": "SE Division & 45th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1465",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Glisan & 28th",
-            "onestopId": "s-c20fcrcgrk-neglisan~28th",
+            "name": "SE Division & 45th",
+            "onestopId": "s-c20fcgczhv-sedivision~45th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10829,6 +10793,42 @@
             ],
             "name": "SE Division & 52nd",
             "onestopId": "s-c20fcunbpd-sedivision~52nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.608957,
+                    45.497162
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7704",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "7704",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7704)",
+                        "stop_id": "7704",
+                        "stop_lat": "45.497162",
+                        "stop_lon": "-122.608957",
+                        "stop_name": "SE 52nd & Powell",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7704",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 52nd & Powell",
+            "onestopId": "s-c20fcfwbhj-se52nd~powell",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -11739,32 +11739,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.632417,
-                    45.512139
+                    -122.609104,
+                    45.50302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2619",
+                    "identifier": "f-trimet-s-7673",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2619",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2619)",
-                        "stop_id": "2619",
-                        "stop_lat": "45.512139",
-                        "stop_lon": "-122.632417",
-                        "stop_name": "SE Hawthorne & 32nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2619",
+                        "position": "Farside",
+                        "stop_code": "7673",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7673)",
+                        "stop_id": "7673",
+                        "stop_lat": "45.50302",
+                        "stop_lon": "-122.609104",
+                        "stop_name": "SE 52nd & Clinton",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7673",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hawthorne & 32nd",
-            "onestopId": "s-c20fcmjz3t-sehawthorne~32nd",
+            "name": "SE 52nd & Clinton",
+            "onestopId": "s-c20fcgwf2c-se52nd~clinton",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -11811,32 +11811,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.610602,
-                    45.51661
+                    -122.622726,
+                    45.500565
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10449",
+                    "identifier": "f-trimet-s-7493",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10449",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 10449)",
-                        "stop_id": "10449",
-                        "stop_lat": "45.51661",
-                        "stop_lon": "-122.610602",
-                        "stop_name": "SE Belmont & 51st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10449",
+                        "position": "Nearside",
+                        "stop_code": "7493",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7493)",
+                        "stop_id": "7493",
+                        "stop_lat": "45.500565",
+                        "stop_lon": "-122.622726",
+                        "stop_name": "SE Cesar Chavez Blvd & Tibbetts",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7493",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Belmont & 51st",
-            "onestopId": "s-c20fcyj9mz-sebelmont~51st",
+            "name": "SE Cesar Chavez Blvd & Tibbetts",
+            "onestopId": "s-c20fcehu52-secesarchavez~tibbetts",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -12315,32 +12315,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.645757,
-                    45.504875
+                    -122.637753,
+                    45.4933
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1341",
+                    "identifier": "f-trimet-s-1991",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1341",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1341)",
-                        "stop_id": "1341",
-                        "stop_lat": "45.504875",
-                        "stop_lon": "-122.645757",
-                        "stop_name": "SE Division & Ladd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1341",
+                        "position": "Nearside",
+                        "stop_code": "1991",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1991)",
+                        "stop_id": "1991",
+                        "stop_lat": "45.4933",
+                        "stop_lon": "-122.637753",
+                        "stop_name": "SE Gladstone & 28th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1991",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Division & Ladd",
-            "onestopId": "s-c20fc5uj4e-sedivision~ladd",
+            "name": "SE Gladstone & 28th",
+            "onestopId": "s-c20fc3cctj-segladstone~28th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

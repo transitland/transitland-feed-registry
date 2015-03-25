@@ -105,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45327,
-                    37.49325
+                    -122.46733,
+                    37.50067
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-315001",
+                    "identifier": "f-samtrans-s-314011",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "315001",
+                        "stop_code": "314011",
                         "stop_desc": "",
-                        "stop_id": "315001",
-                        "stop_lat": "  37.493250",
-                        "stop_lon": "-122.453270",
-                        "stop_name": "3040 Hwy 1",
+                        "stop_id": "314011",
+                        "stop_lat": "  37.500670",
+                        "stop_lon": "-122.467330",
+                        "stop_name": "Plaza Alhambra & Coronado St",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "3040 Hwy 1",
-            "onestopId": "s-9q8vm92npb-30401",
+            "name": "Plaza Alhambra & Coronado St",
+            "onestopId": "s-9q8vm4y10r-plazaalhambra~coronado",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -139,22 +139,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.4575,
-                    37.49585
+                    -122.45771,
+                    37.49613
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-314013",
+                    "identifier": "f-samtrans-s-314016",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "314013",
+                        "stop_code": "314016",
                         "stop_desc": "",
-                        "stop_id": "314013",
-                        "stop_lat": "  37.495850",
-                        "stop_lon": "-122.457500",
+                        "stop_id": "314016",
+                        "stop_lat": "  37.496130",
+                        "stop_lon": "-122.457710",
                         "stop_name": "Hwy 1 & Medio Ave",
                         "stop_url": "",
                         "zone_id": "1"
@@ -162,7 +162,7 @@
                 }
             ],
             "name": "Hwy 1 & Medio Ave",
-            "onestopId": "s-9q8vm3vjjm-1~medio",
+            "onestopId": "s-9q8vm3vnb9-1~medio",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -207,30 +207,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.46733,
-                    37.50067
+                    -122.45327,
+                    37.49325
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-314011",
+                    "identifier": "f-samtrans-s-315001",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "314011",
+                        "stop_code": "315001",
                         "stop_desc": "",
-                        "stop_id": "314011",
-                        "stop_lat": "  37.500670",
-                        "stop_lon": "-122.467330",
-                        "stop_name": "Plaza Alhambra & Coronado St",
+                        "stop_id": "315001",
+                        "stop_lat": "  37.493250",
+                        "stop_lon": "-122.453270",
+                        "stop_name": "3040 Hwy 1",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Plaza Alhambra & Coronado St",
-            "onestopId": "s-9q8vm4y10r-plazaalhambra~coronado",
+            "name": "3040 Hwy 1",
+            "onestopId": "s-9q8vm92npb-30401",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45439,
+                    37.49462
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-315002",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "315002",
+                        "stop_desc": "",
+                        "stop_id": "315002",
+                        "stop_lat": "  37.494620",
+                        "stop_lon": "-122.454390",
+                        "stop_name": "Hwy 1 & Alto Ave",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Hwy 1 & Alto Ave",
+            "onestopId": "s-9q8vm3xmvz-1~alto",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -309,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45439,
-                    37.49462
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-315002",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "315002",
-                        "stop_desc": "",
-                        "stop_id": "315002",
-                        "stop_lat": "  37.494620",
-                        "stop_lon": "-122.454390",
-                        "stop_name": "Hwy 1 & Alto Ave",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Hwy 1 & Alto Ave",
-            "onestopId": "s-9q8vm3xmvz-1~alto",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.45171,
                     37.49135
                 ],
@@ -377,22 +377,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.45771,
-                    37.49613
+                    -122.4575,
+                    37.49585
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-314016",
+                    "identifier": "f-samtrans-s-314013",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "314016",
+                        "stop_code": "314013",
                         "stop_desc": "",
-                        "stop_id": "314016",
-                        "stop_lat": "  37.496130",
-                        "stop_lon": "-122.457710",
+                        "stop_id": "314013",
+                        "stop_lat": "  37.495850",
+                        "stop_lon": "-122.457500",
                         "stop_name": "Hwy 1 & Medio Ave",
                         "stop_url": "",
                         "zone_id": "1"
@@ -400,7 +400,7 @@
                 }
             ],
             "name": "Hwy 1 & Medio Ave",
-            "onestopId": "s-9q8vm3vnb9-1~medio",
+            "onestopId": "s-9q8vm3vjjm-1~medio",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

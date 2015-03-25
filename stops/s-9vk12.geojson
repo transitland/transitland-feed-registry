@@ -353,6 +353,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -95.60713,
+                    29.779851
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtaharriscounty-s-11493",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "11493",
+                        "stop_desc": "",
+                        "stop_id": "11493",
+                        "stop_lat": "29.779851",
+                        "stop_lon": "-95.60713",
+                        "stop_name": "BARRYKNOLL LN @ DAIRY ASHFORD RD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "BARRYKNOLL LN @ DAIRY ASHFORD RD",
+            "onestopId": "s-9vk12mm00q-barryknoll~dairyashford",
+            "properties": {},
+            "servedBy": [
+                "o-9vk-metropolitantransitauthorityofharriscounty"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -95.61884,
                     29.7572
                 ],
@@ -773,41 +808,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -95.59955,
-                    29.77012
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtaharriscounty-s-8952",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "8952",
-                        "stop_desc": "",
-                        "stop_id": "8952",
-                        "stop_lat": "29.77012",
-                        "stop_lon": "-95.59955",
-                        "stop_name": "MEMORIAL DR @ KICKERILLO DR",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "MEMORIAL DR @ KICKERILLO DR",
-            "onestopId": "s-9vk12e6x90-memorial~kickerillo",
-            "properties": {},
-            "servedBy": [
-                "o-9vk-metropolitantransitauthorityofharriscounty"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -95.59219,
                     29.7512
                 ],
@@ -1193,31 +1193,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -95.60713,
-                    29.779851
+                    -95.59955,
+                    29.77012
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtaharriscounty-s-11493",
+                    "identifier": "f-mtaharriscounty-s-8952",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11493",
+                        "stop_code": "8952",
                         "stop_desc": "",
-                        "stop_id": "11493",
-                        "stop_lat": "29.779851",
-                        "stop_lon": "-95.60713",
-                        "stop_name": "BARRYKNOLL LN @ DAIRY ASHFORD RD",
+                        "stop_id": "8952",
+                        "stop_lat": "29.77012",
+                        "stop_lon": "-95.59955",
+                        "stop_name": "MEMORIAL DR @ KICKERILLO DR",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BARRYKNOLL LN @ DAIRY ASHFORD RD",
-            "onestopId": "s-9vk12mm00q-barryknoll~dairyashford",
+            "name": "MEMORIAL DR @ KICKERILLO DR",
+            "onestopId": "s-9vk12e6x90-memorial~kickerillo",
             "properties": {},
             "servedBy": [
                 "o-9vk-metropolitantransitauthorityofharriscounty"

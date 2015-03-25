@@ -37,30 +37,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.3853,
-                    33.834846
+                    -118.352478,
+                    33.831791
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-23200024",
+                    "identifier": "f-lacmta-s-2379",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "23200024",
+                        "stop_code": "2379",
                         "stop_desc": "",
-                        "stop_id": "23200024",
-                        "stop_lat": "33.834846",
-                        "stop_lon": "-118.3853",
-                        "stop_name": "Pacific Coast Highway / Ruby",
+                        "stop_id": "2379",
+                        "stop_lat": "33.831791",
+                        "stop_lon": "-118.352478",
+                        "stop_name": "Hawthorne / Carson",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Pacific Coast Highway / Ruby",
-            "onestopId": "s-9q5b6p6qq8-pacificcoasthighway~ruby",
+            "name": "Hawthorne / Carson",
+            "onestopId": "s-9q5b6yfk7q-hawthorne~carson",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -819,40 +819,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.352478,
-                    33.831791
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-2379",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2379",
-                        "stop_desc": "",
-                        "stop_id": "2379",
-                        "stop_lat": "33.831791",
-                        "stop_lon": "-118.352478",
-                        "stop_name": "Hawthorne / Carson",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Hawthorne / Carson",
-            "onestopId": "s-9q5b6yfk7q-hawthorne~carson",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.350975,
                     33.799698
                 ],
@@ -1047,6 +1013,40 @@
             ],
             "name": "Pacific Coast Highway / Madison",
             "onestopId": "s-9q5b6cvbn1-pacificcoasthighway~madison",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.3853,
+                    33.834846
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-23200024",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "23200024",
+                        "stop_desc": "",
+                        "stop_id": "23200024",
+                        "stop_lat": "33.834846",
+                        "stop_lon": "-118.3853",
+                        "stop_name": "Pacific Coast Highway / Ruby",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Pacific Coast Highway / Ruby",
+            "onestopId": "s-9q5b6p6qq8-pacificcoasthighway~ruby",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

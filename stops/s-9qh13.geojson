@@ -173,6 +173,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.037178,
+                    33.986126
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-9378",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "9378",
+                        "stop_desc": "",
+                        "stop_id": "9378",
+                        "stop_lat": "33.986126",
+                        "stop_lon": "-118.037178",
+                        "stop_name": "Greenleaf / Broadway",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Greenleaf / Broadway",
+            "onestopId": "s-9qh13fzzw3-greenleaf~broadway",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.037201,
                     33.973789
                 ],
@@ -537,40 +571,6 @@
             ],
             "name": "Pickering / Walnut",
             "onestopId": "s-9qh13bk73y-pickering~walnut",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.080643,
-                    34.010921
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-2386",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2386",
-                        "stop_desc": "",
-                        "stop_id": "2386",
-                        "stop_lat": "34.010921",
-                        "stop_lon": "-118.080643",
-                        "stop_name": "Rosemead / Beverly Bl",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Rosemead / Beverly Bl",
-            "onestopId": "s-9qh13p2rcx-rosemead~beverlybl",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -989,30 +989,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.037178,
-                    33.986126
+                    -118.080643,
+                    34.010921
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-9378",
+                    "identifier": "f-lacmta-s-2386",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9378",
+                        "stop_code": "2386",
                         "stop_desc": "",
-                        "stop_id": "9378",
-                        "stop_lat": "33.986126",
-                        "stop_lon": "-118.037178",
-                        "stop_name": "Greenleaf / Broadway",
+                        "stop_id": "2386",
+                        "stop_lat": "34.010921",
+                        "stop_lon": "-118.080643",
+                        "stop_name": "Rosemead / Beverly Bl",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Greenleaf / Broadway",
-            "onestopId": "s-9qh13fzzw3-greenleaf~broadway",
+            "name": "Rosemead / Beverly Bl",
+            "onestopId": "s-9qh13p2rcx-rosemead~beverlybl",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

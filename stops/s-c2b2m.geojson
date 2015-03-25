@@ -105,6 +105,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.136104,
+                    49.297003
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-9105",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "51477",
+                        "stop_desc": "STANLEY PARK DR @ PIPELINE RD",
+                        "stop_id": "9105",
+                        "stop_lat": "49.297003",
+                        "stop_lon": "-123.136104",
+                        "stop_name": "WB STANLEY PARK DR NS PIPELINE RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "WB STANLEY PARK DR NS PIPELINE RD",
+            "onestopId": "s-c2b2myppbg-wbstanleyparknspipeline",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.142673,
                     49.285864
                 ],
@@ -241,40 +275,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.140897,
-                    49.269373
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-2079",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "52062",
-                        "stop_desc": "FIR ST @ W 2 AVE",
-                        "stop_id": "2079",
-                        "stop_lat": "49.269373",
-                        "stop_lon": "-123.140897",
-                        "stop_name": "SB FIR ST FS W 2 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "SB FIR ST FS W 2 AV",
-            "onestopId": "s-c2b2mc5wch-sbfirfsw2",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.139763,
                     49.263723
                 ],
@@ -367,40 +367,6 @@
             ],
             "name": "WB W BROADWAY FS BURRARD ST",
             "onestopId": "s-c2b2m8pwe5-wbwbroadwayfsburrard",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.150761,
-                    49.268177
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-586",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "50580",
-                        "stop_desc": "W 4 AVE @ MAPLE ST",
-                        "stop_id": "586",
-                        "stop_lat": "49.268177",
-                        "stop_lon": "-123.150761",
-                        "stop_name": "WB W 4 AV FS MAPLE ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "WB W 4 AV FS MAPLE ST",
-            "onestopId": "s-c2b2m8urgm-wbw4fsmaple",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -513,30 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.147374,
-                    49.272372
+                    -123.138296,
+                    49.280306
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-72",
+                    "identifier": "f-translink-s-5",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50072",
-                        "stop_desc": "CORNWALL AVE @ CYPRESS ST",
-                        "stop_id": "72",
-                        "stop_lat": "49.272372",
-                        "stop_lon": "-123.147374",
-                        "stop_name": "EB CORNWALL AV FS CYPRESS ST",
+                        "stop_code": "50005",
+                        "stop_desc": "BEACH AVE @ JERVIS ST",
+                        "stop_id": "5",
+                        "stop_lat": "49.280306",
+                        "stop_lon": "-123.138296",
+                        "stop_name": "EB BEACH AV FS JERVIS ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB CORNWALL AV FS CYPRESS ST",
-            "onestopId": "s-c2b2m9yb65-ebcornwallfscypress",
+            "name": "EB BEACH AV FS JERVIS ST",
+            "onestopId": "s-c2b2mgjqtd-ebbeachfsjervis",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -683,30 +649,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.14003,
-                    49.286012
+                    -123.150761,
+                    49.268177
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10044",
+                    "identifier": "f-translink-s-586",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59386",
-                        "stop_desc": "DAVIE ST @ BIDWELL ST",
-                        "stop_id": "10044",
-                        "stop_lat": "49.286012",
-                        "stop_lon": "-123.14003",
-                        "stop_name": "EB DAVIE ST FS BIDWELL ST",
+                        "stop_code": "50580",
+                        "stop_desc": "W 4 AVE @ MAPLE ST",
+                        "stop_id": "586",
+                        "stop_lat": "49.268177",
+                        "stop_lon": "-123.150761",
+                        "stop_name": "WB W 4 AV FS MAPLE ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB DAVIE ST FS BIDWELL ST",
-            "onestopId": "s-c2b2muhpv6-ebdaviefsbidwell",
+            "name": "WB W 4 AV FS MAPLE ST",
+            "onestopId": "s-c2b2m8urgm-wbw4fsmaple",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -955,6 +921,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.145082,
+                    49.26793
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-404",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "50400",
+                        "stop_desc": "W 4 AVE @ BURRARD ST",
+                        "stop_id": "404",
+                        "stop_lat": "49.26793",
+                        "stop_lon": "-123.145082",
+                        "stop_name": "EB W 4 AV FS BURRARD ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "EB W 4 AV FS BURRARD ST",
+            "onestopId": "s-c2b2mbbqrx-ebw4fsburrard",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.136507,
                     49.283898
                 ],
@@ -1159,30 +1159,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.140148,
-                    49.263506
+                    -123.148176,
+                    49.267965
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9080",
+                    "identifier": "f-translink-s-403",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58240",
-                        "stop_desc": "W BROADWAY @ FIR ST",
-                        "stop_id": "9080",
-                        "stop_lat": "49.263506",
-                        "stop_lon": "-123.140148",
-                        "stop_name": "EB W BROADWAY FS FIR ST--",
+                        "stop_code": "50399",
+                        "stop_desc": "W 4 AVE @ CYPRESS ST",
+                        "stop_id": "403",
+                        "stop_lat": "49.267965",
+                        "stop_lon": "-123.148176",
+                        "stop_name": "EB W 4 AV NS CYPRESS ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W BROADWAY FS FIR ST--",
-            "onestopId": "s-c2b2mbhhdx-ebwbroadwayfsfir",
+            "name": "EB W 4 AV NS CYPRESS ST",
+            "onestopId": "s-c2b2m8ynxw-ebw4nscypress",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1601,30 +1601,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.135926,
-                    49.29124
+                    -123.150628,
+                    49.272566
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-635",
+                    "identifier": "f-translink-s-102",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50629",
-                        "stop_desc": "DENMAN ST @ ROBSON ST",
-                        "stop_id": "635",
-                        "stop_lat": "49.29124",
-                        "stop_lon": "-123.135926",
-                        "stop_name": "SB DENMAN ST FS ROBSON ST",
+                        "stop_code": "50102",
+                        "stop_desc": "CORNWALL AVE @ MAPLE ST",
+                        "stop_id": "102",
+                        "stop_lat": "49.272566",
+                        "stop_lon": "-123.150628",
+                        "stop_name": "WB CORNWALL AV FS MAPLE ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "SB DENMAN ST FS ROBSON ST",
-            "onestopId": "s-c2b2mvpnkc-sbdenmanfsrobson",
+            "name": "WB CORNWALL AV FS MAPLE ST",
+            "onestopId": "s-c2b2m9u3w2-wbcornwallfsmaple",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1805,6 +1805,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.135926,
+                    49.29124
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-635",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "50629",
+                        "stop_desc": "DENMAN ST @ ROBSON ST",
+                        "stop_id": "635",
+                        "stop_lat": "49.29124",
+                        "stop_lon": "-123.135926",
+                        "stop_name": "SB DENMAN ST FS ROBSON ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "SB DENMAN ST FS ROBSON ST",
+            "onestopId": "s-c2b2mvpnkc-sbdenmanfsrobson",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.161651,
                     49.272616
                 ],
@@ -1873,30 +1907,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.148176,
-                    49.267965
+                    -123.140148,
+                    49.263506
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-403",
+                    "identifier": "f-translink-s-9080",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50399",
-                        "stop_desc": "W 4 AVE @ CYPRESS ST",
-                        "stop_id": "403",
-                        "stop_lat": "49.267965",
-                        "stop_lon": "-123.148176",
-                        "stop_name": "EB W 4 AV NS CYPRESS ST",
+                        "stop_code": "58240",
+                        "stop_desc": "W BROADWAY @ FIR ST",
+                        "stop_id": "9080",
+                        "stop_lat": "49.263506",
+                        "stop_lon": "-123.140148",
+                        "stop_name": "EB W BROADWAY FS FIR ST--",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W 4 AV NS CYPRESS ST",
-            "onestopId": "s-c2b2m8ynxw-ebw4nscypress",
+            "name": "EB W BROADWAY FS FIR ST--",
+            "onestopId": "s-c2b2mbhhdx-ebwbroadwayfsfir",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1941,30 +1975,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.138459,
-                    49.262957
+                    -123.173572,
+                    49.264095
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11403",
+                    "identifier": "f-translink-s-10652",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54826",
-                        "stop_desc": "GRANVILLE ST @ W 10TH AVE",
-                        "stop_id": "11403",
-                        "stop_lat": "49.262957",
-                        "stop_lon": "-123.138459",
-                        "stop_name": "NB GRANVILLE ST FS W 10 AV",
+                        "stop_code": "60727",
+                        "stop_desc": "W BROADWAY ST @ BALACLAVA ST",
+                        "stop_id": "10652",
+                        "stop_lat": "49.264095",
+                        "stop_lon": "-123.173572",
+                        "stop_name": "EB W BROADWAY ST FS BALACLAVA ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "NB GRANVILLE ST FS W 10 AV",
-            "onestopId": "s-c2b2mbj39b-nbgranvillefsw10",
+            "name": "EB W BROADWAY ST FS BALACLAVA ST",
+            "onestopId": "s-c2b2m078ps-ebwbroadwayfsbalaclava",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2485,64 +2519,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.153286,
-                    49.263733
+                    -123.145163,
+                    49.263611
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-326",
+                    "identifier": "f-translink-s-328",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50323",
-                        "stop_desc": "W BROADWAY @ ARBUTUS ST",
-                        "stop_id": "326",
-                        "stop_lat": "49.263733",
-                        "stop_lon": "-123.153286",
-                        "stop_name": "EB W BROADWAY NS ARBUTUS ST",
+                        "stop_code": "50325",
+                        "stop_desc": "W BROADWAY @ BURRARD ST",
+                        "stop_id": "328",
+                        "stop_lat": "49.263611",
+                        "stop_lon": "-123.145163",
+                        "stop_name": "EB W BROADWAY FS BURRARD ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W BROADWAY NS ARBUTUS ST",
-            "onestopId": "s-c2b2m84w03-ebwbroadwaynsarbutus",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.167895,
-                    49.268277
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-397",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "50393",
-                        "stop_desc": "W 4 AVE @ MACDONALD ST",
-                        "stop_id": "397",
-                        "stop_lat": "49.268277",
-                        "stop_lon": "-123.167895",
-                        "stop_name": "EB W 4 AV FS MACDONALD ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "EB W 4 AV FS MACDONALD ST",
-            "onestopId": "s-c2b2m1pbs0-ebw4fsmacdonald",
+            "name": "EB W BROADWAY FS BURRARD ST",
+            "onestopId": "s-c2b2mb0mmd-ebwbroadwayfsburrard",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2621,30 +2621,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.138296,
-                    49.280306
+                    -123.147374,
+                    49.272372
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5",
+                    "identifier": "f-translink-s-72",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50005",
-                        "stop_desc": "BEACH AVE @ JERVIS ST",
-                        "stop_id": "5",
-                        "stop_lat": "49.280306",
-                        "stop_lon": "-123.138296",
-                        "stop_name": "EB BEACH AV FS JERVIS ST",
+                        "stop_code": "50072",
+                        "stop_desc": "CORNWALL AVE @ CYPRESS ST",
+                        "stop_id": "72",
+                        "stop_lat": "49.272372",
+                        "stop_lon": "-123.147374",
+                        "stop_name": "EB CORNWALL AV FS CYPRESS ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB BEACH AV FS JERVIS ST",
-            "onestopId": "s-c2b2mgjqtd-ebbeachfsjervis",
+            "name": "EB CORNWALL AV FS CYPRESS ST",
+            "onestopId": "s-c2b2m9yb65-ebcornwallfscypress",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3029,30 +3029,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.157195,
-                    49.263809
+                    -123.135121,
+                    49.283006
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-325",
+                    "identifier": "f-translink-s-51",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50322",
-                        "stop_desc": "W BROADWAY @ VINE ST",
-                        "stop_id": "325",
-                        "stop_lat": "49.263809",
-                        "stop_lon": "-123.157195",
-                        "stop_name": "EB W BROADWAY FS VINE ST",
+                        "stop_code": "50051",
+                        "stop_desc": "DAVIE ST @ JERVIS ST",
+                        "stop_id": "51",
+                        "stop_lat": "49.283006",
+                        "stop_lon": "-123.135121",
+                        "stop_name": "WB DAVIE ST FS JERVIS ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W BROADWAY FS VINE ST",
-            "onestopId": "s-c2b2m2pwmr-ebwbroadwayfsvine",
+            "name": "WB DAVIE ST FS JERVIS ST",
+            "onestopId": "s-c2b2mgxwrd-wbdaviefsjervis",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3335,40 +3335,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.150628,
-                    49.272566
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-102",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "50102",
-                        "stop_desc": "CORNWALL AVE @ MAPLE ST",
-                        "stop_id": "102",
-                        "stop_lat": "49.272566",
-                        "stop_lon": "-123.150628",
-                        "stop_name": "WB CORNWALL AV FS MAPLE ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 1"
-                    }
-                }
-            ],
-            "name": "WB CORNWALL AV FS MAPLE ST",
-            "onestopId": "s-c2b2m9u3w2-wbcornwallfsmaple",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.141124,
                     49.286705
                 ],
@@ -3607,30 +3573,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.136104,
-                    49.297003
+                    -123.140897,
+                    49.269373
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9105",
+                    "identifier": "f-translink-s-2079",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "51477",
-                        "stop_desc": "STANLEY PARK DR @ PIPELINE RD",
-                        "stop_id": "9105",
-                        "stop_lat": "49.297003",
-                        "stop_lon": "-123.136104",
-                        "stop_name": "WB STANLEY PARK DR NS PIPELINE RD",
+                        "stop_code": "52062",
+                        "stop_desc": "FIR ST @ W 2 AVE",
+                        "stop_id": "2079",
+                        "stop_lat": "49.269373",
+                        "stop_lon": "-123.140897",
+                        "stop_name": "SB FIR ST FS W 2 AV",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "WB STANLEY PARK DR NS PIPELINE RD",
-            "onestopId": "s-c2b2myppbg-wbstanleyparknspipeline",
+            "name": "SB FIR ST FS W 2 AV",
+            "onestopId": "s-c2b2mc5wch-sbfirfsw2",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3743,30 +3709,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.145082,
-                    49.26793
+                    -123.167895,
+                    49.268277
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-404",
+                    "identifier": "f-translink-s-397",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50400",
-                        "stop_desc": "W 4 AVE @ BURRARD ST",
-                        "stop_id": "404",
-                        "stop_lat": "49.26793",
-                        "stop_lon": "-123.145082",
-                        "stop_name": "EB W 4 AV FS BURRARD ST",
+                        "stop_code": "50393",
+                        "stop_desc": "W 4 AVE @ MACDONALD ST",
+                        "stop_id": "397",
+                        "stop_lat": "49.268277",
+                        "stop_lon": "-123.167895",
+                        "stop_name": "EB W 4 AV FS MACDONALD ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W 4 AV FS BURRARD ST",
-            "onestopId": "s-c2b2mbbqrx-ebw4fsburrard",
+            "name": "EB W 4 AV FS MACDONALD ST",
+            "onestopId": "s-c2b2m1pbs0-ebw4fsmacdonald",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3981,30 +3947,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.173572,
-                    49.264095
+                    -123.138459,
+                    49.262957
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10652",
+                    "identifier": "f-translink-s-11403",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "60727",
-                        "stop_desc": "W BROADWAY ST @ BALACLAVA ST",
-                        "stop_id": "10652",
-                        "stop_lat": "49.264095",
-                        "stop_lon": "-123.173572",
-                        "stop_name": "EB W BROADWAY ST FS BALACLAVA ST",
+                        "stop_code": "54826",
+                        "stop_desc": "GRANVILLE ST @ W 10TH AVE",
+                        "stop_id": "11403",
+                        "stop_lat": "49.262957",
+                        "stop_lon": "-123.138459",
+                        "stop_name": "NB GRANVILLE ST FS W 10 AV",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W BROADWAY ST FS BALACLAVA ST",
-            "onestopId": "s-c2b2m078ps-ebwbroadwayfsbalaclava",
+            "name": "NB GRANVILLE ST FS W 10 AV",
+            "onestopId": "s-c2b2mbj39b-nbgranvillefsw10",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4253,6 +4219,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.14003,
+                    49.286012
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-10044",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "59386",
+                        "stop_desc": "DAVIE ST @ BIDWELL ST",
+                        "stop_id": "10044",
+                        "stop_lat": "49.286012",
+                        "stop_lon": "-123.14003",
+                        "stop_name": "EB DAVIE ST FS BIDWELL ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 1"
+                    }
+                }
+            ],
+            "name": "EB DAVIE ST FS BIDWELL ST",
+            "onestopId": "s-c2b2muhpv6-ebdaviefsbidwell",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.158111,
                     49.268301
                 ],
@@ -4287,30 +4287,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.135121,
-                    49.283006
+                    -123.157195,
+                    49.263809
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-51",
+                    "identifier": "f-translink-s-325",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50051",
-                        "stop_desc": "DAVIE ST @ JERVIS ST",
-                        "stop_id": "51",
-                        "stop_lat": "49.283006",
-                        "stop_lon": "-123.135121",
-                        "stop_name": "WB DAVIE ST FS JERVIS ST",
+                        "stop_code": "50322",
+                        "stop_desc": "W BROADWAY @ VINE ST",
+                        "stop_id": "325",
+                        "stop_lat": "49.263809",
+                        "stop_lon": "-123.157195",
+                        "stop_name": "EB W BROADWAY FS VINE ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "WB DAVIE ST FS JERVIS ST",
-            "onestopId": "s-c2b2mgxwrd-wbdaviefsjervis",
+            "name": "EB W BROADWAY FS VINE ST",
+            "onestopId": "s-c2b2m2pwmr-ebwbroadwayfsvine",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4389,30 +4389,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.145163,
-                    49.263611
+                    -123.153286,
+                    49.263733
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-328",
+                    "identifier": "f-translink-s-326",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "50325",
-                        "stop_desc": "W BROADWAY @ BURRARD ST",
-                        "stop_id": "328",
-                        "stop_lat": "49.263611",
-                        "stop_lon": "-123.145163",
-                        "stop_name": "EB W BROADWAY FS BURRARD ST",
+                        "stop_code": "50323",
+                        "stop_desc": "W BROADWAY @ ARBUTUS ST",
+                        "stop_id": "326",
+                        "stop_lat": "49.263733",
+                        "stop_lon": "-123.153286",
+                        "stop_name": "EB W BROADWAY NS ARBUTUS ST",
                         "stop_url": "",
                         "zone_id": "ZN 1"
                     }
                 }
             ],
-            "name": "EB W BROADWAY FS BURRARD ST",
-            "onestopId": "s-c2b2mb0mmd-ebwbroadwayfsburrard",
+            "name": "EB W BROADWAY NS ARBUTUS ST",
+            "onestopId": "s-c2b2m84w03-ebwbroadwaynsarbutus",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

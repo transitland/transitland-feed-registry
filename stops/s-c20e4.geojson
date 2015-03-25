@@ -399,6 +399,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.917225,
+                    45.534095
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8650",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "8650",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 8650)",
+                        "stop_id": "8650",
+                        "stop_lat": "45.534095",
+                        "stop_lon": "-122.917225",
+                        "stop_name": "NE Cornell & Orenco Station Pkwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8650",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Cornell & Orenco Station Pkwy",
+            "onestopId": "s-c20e4cnrm4-necornell~orencostation",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.94652,
                     45.531489
                 ],
@@ -867,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.917225,
-                    45.534095
+                    -122.915467,
+                    45.530257
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8650",
+                    "identifier": "f-trimet-s-9835",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8650",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 8650)",
-                        "stop_id": "8650",
-                        "stop_lat": "45.534095",
-                        "stop_lon": "-122.917225",
-                        "stop_name": "NE Cornell & Orenco Station Pkwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8650",
-                        "zone_id": "B"
+                        "parent_station": "landmark-103",
+                        "position": "At",
+                        "stop_code": "9835",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 9835)",
+                        "stop_id": "9835",
+                        "stop_lat": "45.530257",
+                        "stop_lon": "-122.915467",
+                        "stop_name": "Orenco/NW 231st Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9835",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "NE Cornell & Orenco Station Pkwy",
-            "onestopId": "s-c20e4cnrm4-necornell~orencostation",
+            "name": "Orenco/NW 231st Ave MAX Station",
+            "onestopId": "s-c20e4bx8yp-orenco~nw231stmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1047,32 +1083,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.915467,
-                    45.530257
+                    -122.926721,
+                    45.550771
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9835",
+                    "identifier": "f-trimet-s-10004",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
-                        "parent_station": "landmark-103",
-                        "position": "At",
-                        "stop_code": "9835",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 9835)",
-                        "stop_id": "9835",
-                        "stop_lat": "45.530257",
-                        "stop_lon": "-122.915467",
-                        "stop_name": "Orenco/NW 231st Ave MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9835",
-                        "zone_id": "R"
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10004",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10004)",
+                        "stop_id": "10004",
+                        "stop_lat": "45.550771",
+                        "stop_lon": "-122.926721",
+                        "stop_name": "Evergreen & Brookwood",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10004",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "Orenco/NW 231st Ave MAX Station",
-            "onestopId": "s-c20e4bx8yp-orenco~nw231stmaxstation",
+            "name": "Evergreen & Brookwood",
+            "onestopId": "s-c20e4sr2rz-evergreen~brookwood",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1109,42 +1145,6 @@
             ],
             "name": "NE 25th & Sunrise Lane",
             "onestopId": "s-c20e419mzx-ne25th~sunrise",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.926721,
-                    45.550771
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10004",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10004",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10004)",
-                        "stop_id": "10004",
-                        "stop_lat": "45.550771",
-                        "stop_lon": "-122.926721",
-                        "stop_name": "Evergreen & Brookwood",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10004",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Evergreen & Brookwood",
-            "onestopId": "s-c20e4sr2rz-evergreen~brookwood",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

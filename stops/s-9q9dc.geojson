@@ -34,37 +34,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.590650586,
-                    37.050005733
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3462",
-                    "tags": {
-                        "stop_code": "63462",
-                        "stop_desc": "",
-                        "stop_id": "3462",
-                        "stop_lat": "37.050005732999999",
-                        "stop_lon": "-121.590650586",
-                        "stop_name": "MONTEREY & RUCKER",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "MONTEREY & RUCKER",
-            "onestopId": "s-9q9dc0srum-monterey~rucker",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.593879134,
                     37.056739067
                 ],
@@ -86,6 +55,37 @@
             ],
             "name": "MONTEREY & MASTEN",
             "onestopId": "s-9q9dc1fp1k-monterey~masten",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.590650586,
+                    37.050005733
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3462",
+                    "tags": {
+                        "stop_code": "63462",
+                        "stop_desc": "",
+                        "stop_id": "3462",
+                        "stop_lat": "37.050005732999999",
+                        "stop_lon": "-121.590650586",
+                        "stop_name": "MONTEREY & RUCKER",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "MONTEREY & RUCKER",
+            "onestopId": "s-9q9dc0srum-monterey~rucker",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

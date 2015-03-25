@@ -795,32 +795,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.712712,
-                    45.418796
+                    -122.714821,
+                    45.416735
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-569",
+                    "identifier": "f-trimet-s-564",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "569",
-                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 569)",
-                        "stop_id": "569",
-                        "stop_lat": "45.418796",
-                        "stop_lon": "-122.712712",
-                        "stop_name": "Boones Ferry Rd & Twin Fir",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=569",
+                        "position": "Nearside",
+                        "stop_code": "564",
+                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 564)",
+                        "stop_id": "564",
+                        "stop_lat": "45.416735",
+                        "stop_lon": "-122.714821",
+                        "stop_name": "Boones Ferry Rd & Spring Lane",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=564",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Boones Ferry Rd & Twin Fir",
-            "onestopId": "s-c20drs5rdt-boonesferry~twinfir",
+            "name": "Boones Ferry Rd & Spring Lane",
+            "onestopId": "s-c20drecg9m-boonesferry~spring",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -975,6 +975,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.715345,
+                    45.416596
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-536",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "536",
+                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 536)",
+                        "stop_id": "536",
+                        "stop_lat": "45.416596",
+                        "stop_lon": "-122.715345",
+                        "stop_name": "Boones Ferry Rd & Kruse Way Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=536",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Boones Ferry Rd & Kruse Way Pl",
+            "onestopId": "s-c20drec6v5-boonesferry~krusepl",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.699044,
                     45.434869
                 ],
@@ -1083,32 +1119,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.700142,
-                    45.434307
+                    -122.697652,
+                    45.423845
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-581",
+                    "identifier": "f-trimet-s-1233",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "581",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 581)",
-                        "stop_id": "581",
-                        "stop_lat": "45.434307",
-                        "stop_lon": "-122.700142",
-                        "stop_name": "SW Boones Ferry Rd & 22nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=581",
+                        "stop_code": "1233",
+                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 1233)",
+                        "stop_id": "1233",
+                        "stop_lat": "45.423845",
+                        "stop_lon": "-122.697652",
+                        "stop_name": "Country Club & Wembley Park",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1233",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & 22nd",
-            "onestopId": "s-c20drzh6p2-swboonesferry~22nd",
+            "name": "Country Club & Wembley Park",
+            "onestopId": "s-c20drvnm16-countryclub~wembleypark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1217,6 +1253,42 @@
             ],
             "name": "Boones Ferry Rd & SW Madrona",
             "onestopId": "s-c20dr6199v-boonesferry~swmadrona",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.710596,
+                    45.40224
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10175",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "10175",
+                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 10175)",
+                        "stop_id": "10175",
+                        "stop_lat": "45.40224",
+                        "stop_lon": "-122.710596",
+                        "stop_name": "South Shore & Cedar Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10175",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "South Shore & Cedar Rd",
+            "onestopId": "s-c20dr9hz5y-southshore~cedar",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1479,6 +1551,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.700142,
+                    45.434307
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-581",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "581",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 581)",
+                        "stop_id": "581",
+                        "stop_lat": "45.434307",
+                        "stop_lon": "-122.700142",
+                        "stop_name": "SW Boones Ferry Rd & 22nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=581",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Boones Ferry Rd & 22nd",
+            "onestopId": "s-c20drzh6p2-swboonesferry~22nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.738836,
+                    45.419186
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3295",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "3295",
+                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 3295)",
+                        "stop_id": "3295",
+                        "stop_lat": "45.419186",
+                        "stop_lon": "-122.738836",
+                        "stop_name": "Kruse Way & Kruse Oaks",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3295",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Kruse Way & Kruse Oaks",
+            "onestopId": "s-c20drh23cv-kruse~kruseoaks",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.702545,
                     45.425159
                 ],
@@ -1541,78 +1685,6 @@
             ],
             "name": "Country Club & Wembley Park",
             "onestopId": "s-c20drvjuem-countryclub~wembleypark",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.715345,
-                    45.416596
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-536",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "536",
-                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 536)",
-                        "stop_id": "536",
-                        "stop_lat": "45.416596",
-                        "stop_lon": "-122.715345",
-                        "stop_name": "Boones Ferry Rd & Kruse Way Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=536",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Boones Ferry Rd & Kruse Way Pl",
-            "onestopId": "s-c20drec6v5-boonesferry~krusepl",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.738836,
-                    45.419186
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3295",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3295",
-                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 3295)",
-                        "stop_id": "3295",
-                        "stop_lat": "45.419186",
-                        "stop_lon": "-122.738836",
-                        "stop_name": "Kruse Way & Kruse Oaks",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3295",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Kruse Way & Kruse Oaks",
-            "onestopId": "s-c20drh23cv-kruse~kruseoaks",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2379,32 +2451,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.697115,
-                    45.436068
+                    -122.71884,
+                    45.416533
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-580",
+                    "identifier": "f-trimet-s-3299",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "580",
-                        "stop_desc": "Eastbound stop in Multnomah Co. (Stop ID 580)",
-                        "stop_id": "580",
-                        "stop_lat": "45.436068",
-                        "stop_lon": "-122.697115",
-                        "stop_name": "SW Boones Ferry Rd & 19th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=580",
+                        "stop_code": "3299",
+                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 3299)",
+                        "stop_id": "3299",
+                        "stop_lat": "45.416533",
+                        "stop_lon": "-122.71884",
+                        "stop_name": "Kruse Way & Mercantile",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3299",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & 19th",
-            "onestopId": "s-c20drzqsmb-swboonesferry~19th",
+            "name": "Kruse Way & Mercantile",
+            "onestopId": "s-c20dr7yf7z-kruse~mercantile",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2667,78 +2739,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.714821,
-                    45.416735
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-564",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "564",
-                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 564)",
-                        "stop_id": "564",
-                        "stop_lat": "45.416735",
-                        "stop_lon": "-122.714821",
-                        "stop_name": "Boones Ferry Rd & Spring Lane",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=564",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Boones Ferry Rd & Spring Lane",
-            "onestopId": "s-c20drecg9m-boonesferry~spring",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.710596,
-                    45.40224
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10175",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10175",
-                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 10175)",
-                        "stop_id": "10175",
-                        "stop_lat": "45.40224",
-                        "stop_lon": "-122.710596",
-                        "stop_name": "South Shore & Cedar Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10175",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "South Shore & Cedar Rd",
-            "onestopId": "s-c20dr9hz5y-southshore~cedar",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.723022,
                     45.399472
                 ],
@@ -2765,42 +2765,6 @@
             ],
             "name": "Bryant & Black Forest Ct",
             "onestopId": "s-c20dr2ez46-bryant~blackforest",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.697652,
-                    45.423845
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-1233",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "1233",
-                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 1233)",
-                        "stop_id": "1233",
-                        "stop_lat": "45.423845",
-                        "stop_lon": "-122.697652",
-                        "stop_name": "Country Club & Wembley Park",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1233",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Country Club & Wembley Park",
-            "onestopId": "s-c20drvnm16-countryclub~wembleypark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2955,32 +2919,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.71884,
-                    45.416533
+                    -122.697115,
+                    45.436068
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3299",
+                    "identifier": "f-trimet-s-580",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "3299",
-                        "stop_desc": "Eastbound stop in Lake Oswego (Stop ID 3299)",
-                        "stop_id": "3299",
-                        "stop_lat": "45.416533",
-                        "stop_lon": "-122.71884",
-                        "stop_name": "Kruse Way & Mercantile",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3299",
+                        "stop_code": "580",
+                        "stop_desc": "Eastbound stop in Multnomah Co. (Stop ID 580)",
+                        "stop_id": "580",
+                        "stop_lat": "45.436068",
+                        "stop_lon": "-122.697115",
+                        "stop_name": "SW Boones Ferry Rd & 19th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=580",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Kruse Way & Mercantile",
-            "onestopId": "s-c20dr7yf7z-kruse~mercantile",
+            "name": "SW Boones Ferry Rd & 19th",
+            "onestopId": "s-c20drzqsmb-swboonesferry~19th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3207,32 +3171,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.732388,
-                    45.419069
+                    -122.704295,
+                    45.431314
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3300",
+                    "identifier": "f-trimet-s-2250",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "3300",
-                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 3300)",
-                        "stop_id": "3300",
-                        "stop_lat": "45.419069",
-                        "stop_lon": "-122.732388",
-                        "stop_name": "Kruse Way & Westlake Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3300",
+                        "stop_code": "2250",
+                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 2250)",
+                        "stop_id": "2250",
+                        "stop_lat": "45.431314",
+                        "stop_lon": "-122.704295",
+                        "stop_name": "Greenridge & Greenridge Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2250",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Kruse Way & Westlake Dr",
-            "onestopId": "s-c20drhm120-kruse~westlake",
+            "name": "Greenridge & Greenridge Ct",
+            "onestopId": "s-c20dry92wd-greenridge~greenridge",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3459,32 +3423,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.704295,
-                    45.431314
+                    -122.712712,
+                    45.418796
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2250",
+                    "identifier": "f-trimet-s-569",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "2250",
-                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 2250)",
-                        "stop_id": "2250",
-                        "stop_lat": "45.431314",
-                        "stop_lon": "-122.704295",
-                        "stop_name": "Greenridge & Greenridge Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2250",
+                        "stop_code": "569",
+                        "stop_desc": "Northbound stop in Lake Oswego (Stop ID 569)",
+                        "stop_id": "569",
+                        "stop_lat": "45.418796",
+                        "stop_lon": "-122.712712",
+                        "stop_name": "Boones Ferry Rd & Twin Fir",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=569",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Greenridge & Greenridge Ct",
-            "onestopId": "s-c20dry92wd-greenridge~greenridge",
+            "name": "Boones Ferry Rd & Twin Fir",
+            "onestopId": "s-c20drs5rdt-boonesferry~twinfir",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.732388,
+                    45.419069
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3300",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "3300",
+                        "stop_desc": "Westbound stop in Lake Oswego (Stop ID 3300)",
+                        "stop_id": "3300",
+                        "stop_lat": "45.419069",
+                        "stop_lon": "-122.732388",
+                        "stop_name": "Kruse Way & Westlake Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3300",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Kruse Way & Westlake Dr",
+            "onestopId": "s-c20drhm120-kruse~westlake",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

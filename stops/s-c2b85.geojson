@@ -37,6 +37,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.892169,
+                    49.258818
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-3579",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "53540",
+                        "stop_desc": "COTTONWOOD AVE @ WHITING WAY",
+                        "stop_id": "3579",
+                        "stop_lat": "49.258818",
+                        "stop_lon": "-122.892169",
+                        "stop_name": "EB COTTONWOOD AV NS WHITING WAY",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB COTTONWOOD AV NS WHITING WAY",
+            "onestopId": "s-c2b85x29kv-ebcottonwoodnswhiting",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.883136,
                     49.232855
                 ],
@@ -71,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.913544,
-                    49.247955
+                    -122.906296,
+                    49.255731
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2289",
+                    "identifier": "f-translink-s-2884",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "52267",
-                        "stop_desc": "CARIBOO RD @ AVALON AVE",
-                        "stop_id": "2289",
-                        "stop_lat": "49.247955",
-                        "stop_lon": "-122.913544",
-                        "stop_name": "NB CARIBOO RD NS AVALON AV",
+                        "stop_code": "52855",
+                        "stop_desc": "BEAVERBROOK DR @ CENTAURUS DR",
+                        "stop_id": "2884",
+                        "stop_lat": "49.255731",
+                        "stop_lon": "-122.906296",
+                        "stop_name": "EB BEAVERBROOK DR AT CENTAURUS DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB CARIBOO RD NS AVALON AV",
-            "onestopId": "s-c2b85j344u-nbcariboonsavalon",
+            "name": "EB BEAVERBROOK DR AT CENTAURUS DR",
+            "onestopId": "s-c2b85nwr7t-ebbeaverbrookatcentaurus",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -683,30 +717,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.88616,
-                    49.242188
+                    -122.883614,
+                    49.241094
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3351",
+                    "identifier": "f-translink-s-3426",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53315",
-                        "stop_desc": "LOUGHEED HWY @ GUILBY ST",
-                        "stop_id": "3351",
-                        "stop_lat": "49.242188",
-                        "stop_lon": "-122.88616",
-                        "stop_name": "EB LOUGHEED HWY NS GUILBY ST",
+                        "stop_code": "53389",
+                        "stop_desc": "LOUGHEED HWY @ 600 BLOCK",
+                        "stop_id": "3426",
+                        "stop_lat": "49.241094",
+                        "stop_lon": "-122.883614",
+                        "stop_name": "WB LOUGHEED HWY AT 600 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB LOUGHEED HWY NS GUILBY ST",
-            "onestopId": "s-c2b85sm08c-eblougheednsguilby",
+            "name": "WB LOUGHEED HWY AT 600 BLOCK",
+            "onestopId": "s-c2b85snfhm-wblougheedat600block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -751,30 +785,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.895894,
-                    49.230861
+                    -122.911708,
+                    49.222083
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3547",
+                    "identifier": "f-translink-s-9506",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53509",
-                        "stop_desc": "E 8 AVE @ BUCHANAN AVE",
-                        "stop_id": "3547",
-                        "stop_lat": "49.230861",
-                        "stop_lon": "-122.895894",
-                        "stop_name": "EB E 8 AV FS BUCHANAN AV",
+                        "stop_code": "58986",
+                        "stop_desc": "MCBRIDE BLVD @ EIGHTH AVE",
+                        "stop_id": "9506",
+                        "stop_lat": "49.222083",
+                        "stop_lon": "-122.911708",
+                        "stop_name": "SB MCBRIDE BLVD FS 8 AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB E 8 AV FS BUCHANAN AV",
-            "onestopId": "s-c2b856jyw1-ebe8fsbuchanan",
+            "name": "SB MCBRIDE BLVD FS 8 AV",
+            "onestopId": "s-c2b850d7mt-sbmcbridefs8",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -921,30 +955,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.906699,
-                    49.222954
+                    -122.892999,
+                    49.248476
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9192",
+                    "identifier": "f-translink-s-3248",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58740",
-                        "stop_desc": "CUMBERLAND ST @ E 7 AVE",
-                        "stop_id": "9192",
-                        "stop_lat": "49.222954",
-                        "stop_lon": "-122.906699",
-                        "stop_name": "NB CUMBERLAND ST FS E 7 AV",
+                        "stop_code": "53214",
+                        "stop_desc": "NORTH RD @ AUSTIN RD",
+                        "stop_id": "3248",
+                        "stop_lat": "49.248476",
+                        "stop_lon": "-122.892999",
+                        "stop_name": "SB NORTH RD FS AUSTIN RD",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN2/3"
                     }
                 }
             ],
-            "name": "NB CUMBERLAND ST FS E 7 AV",
-            "onestopId": "s-c2b850y06r-nbcumberlandfse7",
+            "name": "SB NORTH RD FS AUSTIN RD",
+            "onestopId": "s-c2b85t2j1t-sbnorthfsaustin",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1023,98 +1057,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.892617,
-                    49.237544
+                    -122.893814,
+                    49.231798
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10076",
+                    "identifier": "f-translink-s-3613",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59345",
-                        "stop_desc": "E COLUMBIA ST @ 600 BLOCK",
-                        "stop_id": "10076",
-                        "stop_lat": "49.237544",
-                        "stop_lon": "-122.892617",
-                        "stop_name": "SB E COLUMBIA ST AT 600 BLOCK",
+                        "stop_code": "53574",
+                        "stop_desc": "BRAID ST @ E COLUMBIA ST",
+                        "stop_id": "3613",
+                        "stop_lat": "49.231798",
+                        "stop_lon": "-122.893814",
+                        "stop_name": "WB BRAID ST FS E COLUMBIA ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB E COLUMBIA ST AT 600 BLOCK",
-            "onestopId": "s-c2b85e2m6r-sbecolumbiaat600block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.906818,
-                    49.247775
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-11104",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "59816",
-                        "stop_desc": "GOVERNMENT ST @ HALSTON COURT",
-                        "stop_id": "11104",
-                        "stop_lat": "49.247775",
-                        "stop_lon": "-122.906818",
-                        "stop_name": "EB GOVERNMENT ST FS HALSTON COURT",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "EB GOVERNMENT ST FS HALSTON COURT",
-            "onestopId": "s-c2b85jmcpd-ebgovernmentfshalston",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.907929,
-                    49.249347
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-2299",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "52277",
-                        "stop_desc": "GOVERNMENT ST @ HORNE ST",
-                        "stop_id": "2299",
-                        "stop_lat": "49.249347",
-                        "stop_lon": "-122.907929",
-                        "stop_name": "WB GOVERNMENT ST FS HORNE ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB GOVERNMENT ST FS HORNE ST",
-            "onestopId": "s-c2b85jt4jx-wbgovernmentfshorne",
+            "name": "WB BRAID ST FS E COLUMBIA ST",
+            "onestopId": "s-c2b856rkn8-wbbraidfsecolumbia",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1193,30 +1159,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.902753,
-                    49.254307
+                    -122.894857,
+                    49.247483
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2895",
+                    "identifier": "f-translink-s-8688",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "52865",
-                        "stop_desc": "BEAVERBROOK DR @ CAMERON ST",
-                        "stop_id": "2895",
-                        "stop_lat": "49.254307",
-                        "stop_lon": "-122.902753",
-                        "stop_name": "NB BEAVERBROOK DR FS CAMERON ST",
+                        "stop_code": "58431",
+                        "stop_desc": "LOUGHEED STN @ BAY 7",
+                        "stop_id": "8688",
+                        "stop_lat": "49.247483",
+                        "stop_lon": "-122.894857",
+                        "stop_name": "LOUGHEED STN BAY 7",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB BEAVERBROOK DR FS CAMERON ST",
-            "onestopId": "s-c2b85q2znk-nbbeaverbrookfscameron",
+            "name": "LOUGHEED STN BAY 7",
+            "onestopId": "s-c2b85mnxqk-lougheedstnbay7",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1227,30 +1193,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.893814,
-                    49.231798
+                    -122.905682,
+                    49.221957
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3613",
+                    "identifier": "f-translink-s-2346",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53574",
-                        "stop_desc": "BRAID ST @ E COLUMBIA ST",
-                        "stop_id": "3613",
-                        "stop_lat": "49.231798",
-                        "stop_lon": "-122.893814",
-                        "stop_name": "WB BRAID ST FS E COLUMBIA ST",
+                        "stop_code": "52324",
+                        "stop_desc": "CUMBERLAND ST @ E 7 AVE",
+                        "stop_id": "2346",
+                        "stop_lat": "49.221957",
+                        "stop_lon": "-122.905682",
+                        "stop_name": "SB CUMBERLAND ST FS E 7 AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB BRAID ST FS E COLUMBIA ST",
-            "onestopId": "s-c2b856rkn8-wbbraidfsecolumbia",
+            "name": "SB CUMBERLAND ST FS E 7 AV",
+            "onestopId": "s-c2b850wfdj-sbcumberlandfse7",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1601,30 +1567,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.899,
-                    49.25352
+                    -122.902753,
+                    49.254307
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2894",
+                    "identifier": "f-translink-s-2895",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "52864",
-                        "stop_desc": "CAMERON ST @ BARTLETT COURT",
-                        "stop_id": "2894",
-                        "stop_lat": "49.25352",
-                        "stop_lon": "-122.899",
-                        "stop_name": "WB CAMERON ST FS BARTLETT COURT",
+                        "stop_code": "52865",
+                        "stop_desc": "BEAVERBROOK DR @ CAMERON ST",
+                        "stop_id": "2895",
+                        "stop_lat": "49.254307",
+                        "stop_lon": "-122.902753",
+                        "stop_name": "NB BEAVERBROOK DR FS CAMERON ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB CAMERON ST FS BARTLETT COURT",
-            "onestopId": "s-c2b85q7dt9-wbcameronfsbartlett",
+            "name": "NB BEAVERBROOK DR FS CAMERON ST",
+            "onestopId": "s-c2b85q2znk-nbbeaverbrookfscameron",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1635,30 +1601,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.890391,
-                    49.249197
+                    -122.892693,
+                    49.235386
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3529",
+                    "identifier": "f-translink-s-3251",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53491",
-                        "stop_desc": "AUSTIN AVE @ WHITING WAY",
-                        "stop_id": "3529",
-                        "stop_lat": "49.249197",
-                        "stop_lon": "-122.890391",
-                        "stop_name": "WB AUSTIN AV FS WHITING WAY",
+                        "stop_code": "53217",
+                        "stop_desc": "E COLUMBIA ST @ HOLMES ST",
+                        "stop_id": "3251",
+                        "stop_lat": "49.235386",
+                        "stop_lon": "-122.892693",
+                        "stop_name": "SB E COLUMBIA ST FS HOLMES ST",
                         "stop_url": "",
-                        "zone_id": "ZN 3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB AUSTIN AV FS WHITING WAY",
-            "onestopId": "s-c2b85t9cq7-wbaustinfswhiting",
+            "name": "SB E COLUMBIA ST FS HOLMES ST",
+            "onestopId": "s-c2b85e02bt-sbecolumbiafsholmes",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.898714,
+                    49.225339
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-3654",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "53615",
+                        "stop_desc": "RICHMOND ST @ SHILES ST",
+                        "stop_id": "3654",
+                        "stop_lat": "49.225339",
+                        "stop_lon": "-122.898714",
+                        "stop_name": "SB RICHMOND ST NS SHILES ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB RICHMOND ST NS SHILES ST",
+            "onestopId": "s-c2b8535ykk-sbrichmondnsshiles",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1941,30 +1941,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.906296,
-                    49.255731
+                    -122.906875,
+                    49.248331
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2884",
+                    "identifier": "f-translink-s-2298",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "52855",
-                        "stop_desc": "BEAVERBROOK DR @ CENTAURUS DR",
-                        "stop_id": "2884",
-                        "stop_lat": "49.255731",
-                        "stop_lon": "-122.906296",
-                        "stop_name": "EB BEAVERBROOK DR AT CENTAURUS DR",
+                        "stop_code": "59815",
+                        "stop_desc": "GOVERNMENT ST @ HALSTON COURT",
+                        "stop_id": "2298",
+                        "stop_lat": "49.248331",
+                        "stop_lon": "-122.906875",
+                        "stop_name": "WB GOVERNMENT ST FS HALSTON COURT",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB BEAVERBROOK DR AT CENTAURUS DR",
-            "onestopId": "s-c2b85nwr7t-ebbeaverbrookatcentaurus",
+            "name": "WB GOVERNMENT ST FS HALSTON COURT",
+            "onestopId": "s-c2b85jmuq4-wbgovernmentfshalston",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2417,30 +2417,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.892169,
-                    49.258818
+                    -122.892617,
+                    49.237544
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3579",
+                    "identifier": "f-translink-s-10076",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53540",
-                        "stop_desc": "COTTONWOOD AVE @ WHITING WAY",
-                        "stop_id": "3579",
-                        "stop_lat": "49.258818",
-                        "stop_lon": "-122.892169",
-                        "stop_name": "EB COTTONWOOD AV NS WHITING WAY",
+                        "stop_code": "59345",
+                        "stop_desc": "E COLUMBIA ST @ 600 BLOCK",
+                        "stop_id": "10076",
+                        "stop_lat": "49.237544",
+                        "stop_lon": "-122.892617",
+                        "stop_name": "SB E COLUMBIA ST AT 600 BLOCK",
                         "stop_url": "",
-                        "zone_id": "ZN 3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB COTTONWOOD AV NS WHITING WAY",
-            "onestopId": "s-c2b85x29kv-ebcottonwoodnswhiting",
+            "name": "SB E COLUMBIA ST AT 600 BLOCK",
+            "onestopId": "s-c2b85e2m6r-sbecolumbiaat600block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2553,30 +2553,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.901597,
-                    49.228005
+                    -122.882555,
+                    49.233144
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3616",
+                    "identifier": "f-translink-s-8574",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53577",
-                        "stop_desc": "E 8 AVE @ CHERRY ST",
-                        "stop_id": "3616",
-                        "stop_lat": "49.228005",
-                        "stop_lon": "-122.901597",
-                        "stop_name": "WB E 8 AV FS CHERRY ST",
+                        "stop_code": "58085",
+                        "stop_desc": "BRAID STATION @ BAY 5",
+                        "stop_id": "8574",
+                        "stop_lat": "49.233144",
+                        "stop_lon": "-122.882555",
+                        "stop_name": "BRAID STN BAY 5",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB E 8 AV FS CHERRY ST",
-            "onestopId": "s-c2b8539vcj-wbe8fscherry",
+            "name": "BRAID STN BAY 5",
+            "onestopId": "s-c2b85dxeug-braidstnbay5",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2713,6 +2713,40 @@
             ],
             "name": "EB HOSPITAL ST FS RICHMOND ST",
             "onestopId": "s-c2b853kkuv-ebhospitalfsrichmond",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.907929,
+                    49.249347
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-2299",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "52277",
+                        "stop_desc": "GOVERNMENT ST @ HORNE ST",
+                        "stop_id": "2299",
+                        "stop_lat": "49.249347",
+                        "stop_lon": "-122.907929",
+                        "stop_name": "WB GOVERNMENT ST FS HORNE ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB GOVERNMENT ST FS HORNE ST",
+            "onestopId": "s-c2b85jt4jx-wbgovernmentfshorne",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2893,30 +2927,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.898799,
-                    49.22304
+                    -122.883796,
+                    49.258819
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3655",
+                    "identifier": "f-translink-s-3308",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53616",
-                        "stop_desc": "RICHMOND ST @ ALBERTA ST",
-                        "stop_id": "3655",
-                        "stop_lat": "49.22304",
-                        "stop_lon": "-122.898799",
-                        "stop_name": "SB RICHMOND ST FS ALBERTA ST",
+                        "stop_code": "53273",
+                        "stop_desc": "COTTONWOOD AVE @ FAIRVIEW ST",
+                        "stop_id": "3308",
+                        "stop_lat": "49.258819",
+                        "stop_lon": "-122.883796",
+                        "stop_name": "WB COTTONWOOD AV FS FAIRVIEW ST",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB RICHMOND ST FS ALBERTA ST",
-            "onestopId": "s-c2b852gbfr-sbrichmondfsalberta",
+            "name": "WB COTTONWOOD AV FS FAIRVIEW ST",
+            "onestopId": "s-c2b85xqc2j-wbcottonwoodfsfairview",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3267,30 +3301,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.895589,
-                    49.247966
+                    -122.899,
+                    49.25352
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8656",
+                    "identifier": "f-translink-s-2894",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58435",
-                        "stop_desc": "LOUGHEED STN @ BAY 1",
-                        "stop_id": "8656",
-                        "stop_lat": "49.247966",
-                        "stop_lon": "-122.895589",
-                        "stop_name": "LOUGHEED STN BAY 1",
+                        "stop_code": "52864",
+                        "stop_desc": "CAMERON ST @ BARTLETT COURT",
+                        "stop_id": "2894",
+                        "stop_lat": "49.25352",
+                        "stop_lon": "-122.899",
+                        "stop_name": "WB CAMERON ST FS BARTLETT COURT",
                         "stop_url": "",
-                        "zone_id": "ZN2/3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "LOUGHEED STN BAY 1",
-            "onestopId": "s-c2b85mq4jn-lougheedstnbay1",
+            "name": "WB CAMERON ST FS BARTLETT COURT",
+            "onestopId": "s-c2b85q7dt9-wbcameronfsbartlett",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3607,40 +3641,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.905682,
-                    49.221957
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-2346",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "52324",
-                        "stop_desc": "CUMBERLAND ST @ E 7 AVE",
-                        "stop_id": "2346",
-                        "stop_lat": "49.221957",
-                        "stop_lon": "-122.905682",
-                        "stop_name": "SB CUMBERLAND ST FS E 7 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB CUMBERLAND ST FS E 7 AV",
-            "onestopId": "s-c2b850wfdj-sbcumberlandfse7",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.892715,
                     49.228132
                 ],
@@ -3709,30 +3709,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.913354,
-                    49.252623
+                    -122.908157,
+                    49.219268
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2869",
+                    "identifier": "f-translink-s-9507",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "52840",
-                        "stop_desc": "LOUGHEED HWY @ GAGLARDI WAY",
-                        "stop_id": "2869",
-                        "stop_lat": "49.252623",
-                        "stop_lon": "-122.913354",
-                        "stop_name": "WB LOUGHEED HWY FS GAGLARDI WAY",
+                        "stop_code": "58985",
+                        "stop_desc": "MCBRIDE BLVD @ SIXTH AVE",
+                        "stop_id": "9507",
+                        "stop_lat": "49.219268",
+                        "stop_lon": "-122.908157",
+                        "stop_name": "SB MCBRIDE BLVD FS 6 AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB LOUGHEED HWY FS GAGLARDI WAY",
-            "onestopId": "s-c2b85n1jr6-wblougheedfsgaglardi",
+            "name": "SB MCBRIDE BLVD FS 6 AV",
+            "onestopId": "s-c2b850j502-sbmcbridefs6",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3777,30 +3777,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.882555,
-                    49.233144
+                    -122.901597,
+                    49.228005
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8574",
+                    "identifier": "f-translink-s-3616",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58085",
-                        "stop_desc": "BRAID STATION @ BAY 5",
-                        "stop_id": "8574",
-                        "stop_lat": "49.233144",
-                        "stop_lon": "-122.882555",
-                        "stop_name": "BRAID STN BAY 5",
+                        "stop_code": "53577",
+                        "stop_desc": "E 8 AVE @ CHERRY ST",
+                        "stop_id": "3616",
+                        "stop_lat": "49.228005",
+                        "stop_lon": "-122.901597",
+                        "stop_name": "WB E 8 AV FS CHERRY ST",
                         "stop_url": "",
-                        "zone_id": "ZN 3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "BRAID STN BAY 5",
-            "onestopId": "s-c2b85dxeug-braidstnbay5",
+            "name": "WB E 8 AV FS CHERRY ST",
+            "onestopId": "s-c2b8539vcj-wbe8fscherry",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3879,74 +3879,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.892693,
-                    49.235386
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-3251",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "53217",
-                        "stop_desc": "E COLUMBIA ST @ HOLMES ST",
-                        "stop_id": "3251",
-                        "stop_lat": "49.235386",
-                        "stop_lon": "-122.892693",
-                        "stop_name": "SB E COLUMBIA ST FS HOLMES ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB E COLUMBIA ST FS HOLMES ST",
-            "onestopId": "s-c2b85e02bt-sbecolumbiafsholmes",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.908157,
-                    49.219268
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9507",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58985",
-                        "stop_desc": "MCBRIDE BLVD @ SIXTH AVE",
-                        "stop_id": "9507",
-                        "stop_lat": "49.219268",
-                        "stop_lon": "-122.908157",
-                        "stop_name": "SB MCBRIDE BLVD FS 6 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB MCBRIDE BLVD FS 6 AV",
-            "onestopId": "s-c2b850j502-sbmcbridefs6",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.895291,
                     49.24772
                 ],
@@ -4015,30 +3947,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.883614,
-                    49.241094
+                    -122.88616,
+                    49.242188
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3426",
+                    "identifier": "f-translink-s-3351",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53389",
-                        "stop_desc": "LOUGHEED HWY @ 600 BLOCK",
-                        "stop_id": "3426",
-                        "stop_lat": "49.241094",
-                        "stop_lon": "-122.883614",
-                        "stop_name": "WB LOUGHEED HWY AT 600 BLOCK",
+                        "stop_code": "53315",
+                        "stop_desc": "LOUGHEED HWY @ GUILBY ST",
+                        "stop_id": "3351",
+                        "stop_lat": "49.242188",
+                        "stop_lon": "-122.88616",
+                        "stop_name": "EB LOUGHEED HWY NS GUILBY ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB LOUGHEED HWY AT 600 BLOCK",
-            "onestopId": "s-c2b85snfhm-wblougheedat600block",
+            "name": "EB LOUGHEED HWY NS GUILBY ST",
+            "onestopId": "s-c2b85sm08c-eblougheednsguilby",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4073,6 +4005,40 @@
             ],
             "name": "WB ROCHESTER AV NS GUILBY ST",
             "onestopId": "s-c2b85sy7c0-wbrochesternsguilby",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.913544,
+                    49.247955
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-2289",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "52267",
+                        "stop_desc": "CARIBOO RD @ AVALON AVE",
+                        "stop_id": "2289",
+                        "stop_lat": "49.247955",
+                        "stop_lon": "-122.913544",
+                        "stop_name": "NB CARIBOO RD NS AVALON AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB CARIBOO RD NS AVALON AV",
+            "onestopId": "s-c2b85j344u-nbcariboonsavalon",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4253,6 +4219,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.904202,
+                    49.221282
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-9193",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58741",
+                        "stop_desc": "CUMBERLAND ST @ E 6 AVE",
+                        "stop_id": "9193",
+                        "stop_lat": "49.221282",
+                        "stop_lon": "-122.904202",
+                        "stop_name": "WB CUMBERLAND ST NS E 6 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB CUMBERLAND ST NS E 6 AV",
+            "onestopId": "s-c2b850rysx-wbcumberlandnse6",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.903692,
                     49.250977
                 ],
@@ -4287,30 +4287,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.898714,
-                    49.225339
+                    -122.890391,
+                    49.249197
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3654",
+                    "identifier": "f-translink-s-3529",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53615",
-                        "stop_desc": "RICHMOND ST @ SHILES ST",
-                        "stop_id": "3654",
-                        "stop_lat": "49.225339",
-                        "stop_lon": "-122.898714",
-                        "stop_name": "SB RICHMOND ST NS SHILES ST",
+                        "stop_code": "53491",
+                        "stop_desc": "AUSTIN AVE @ WHITING WAY",
+                        "stop_id": "3529",
+                        "stop_lat": "49.249197",
+                        "stop_lon": "-122.890391",
+                        "stop_name": "WB AUSTIN AV FS WHITING WAY",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB RICHMOND ST NS SHILES ST",
-            "onestopId": "s-c2b8535ykk-sbrichmondnsshiles",
+            "name": "WB AUSTIN AV FS WHITING WAY",
+            "onestopId": "s-c2b85t9cq7-wbaustinfswhiting",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4389,30 +4389,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.911708,
-                    49.222083
+                    -122.895894,
+                    49.230861
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9506",
+                    "identifier": "f-translink-s-3547",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58986",
-                        "stop_desc": "MCBRIDE BLVD @ EIGHTH AVE",
-                        "stop_id": "9506",
-                        "stop_lat": "49.222083",
-                        "stop_lon": "-122.911708",
-                        "stop_name": "SB MCBRIDE BLVD FS 8 AV",
+                        "stop_code": "53509",
+                        "stop_desc": "E 8 AVE @ BUCHANAN AVE",
+                        "stop_id": "3547",
+                        "stop_lat": "49.230861",
+                        "stop_lon": "-122.895894",
+                        "stop_name": "EB E 8 AV FS BUCHANAN AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB MCBRIDE BLVD FS 8 AV",
-            "onestopId": "s-c2b850d7mt-sbmcbridefs8",
+            "name": "EB E 8 AV FS BUCHANAN AV",
+            "onestopId": "s-c2b856jyw1-ebe8fsbuchanan",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4593,30 +4593,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.894695,
-                    49.247483
+                    -122.913354,
+                    49.252623
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8657",
+                    "identifier": "f-translink-s-2869",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58439",
-                        "stop_desc": "LOUGHEED STN @ BAY 5",
-                        "stop_id": "8657",
-                        "stop_lat": "49.247483",
-                        "stop_lon": "-122.894695",
-                        "stop_name": "LOUGHEED STN BAY 5",
+                        "stop_code": "52840",
+                        "stop_desc": "LOUGHEED HWY @ GAGLARDI WAY",
+                        "stop_id": "2869",
+                        "stop_lat": "49.252623",
+                        "stop_lon": "-122.913354",
+                        "stop_name": "WB LOUGHEED HWY FS GAGLARDI WAY",
                         "stop_url": "",
-                        "zone_id": "ZN2/3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "LOUGHEED STN BAY 5",
-            "onestopId": "s-c2b85mnz6h-lougheedstnbay5",
+            "name": "WB LOUGHEED HWY FS GAGLARDI WAY",
+            "onestopId": "s-c2b85n1jr6-wblougheedfsgaglardi",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5001,30 +5001,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.882272,
-                    49.245459
+                    -122.90574,
+                    49.220926
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3525",
+                    "identifier": "f-translink-s-3632",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53487",
-                        "stop_desc": "ROCHESTER AVE @ DONALD ST",
-                        "stop_id": "3525",
-                        "stop_lat": "49.245459",
-                        "stop_lon": "-122.882272",
-                        "stop_name": "WB ROCHESTER AV FS DONALD ST",
+                        "stop_code": "53593",
+                        "stop_desc": "E 6 AV @ GLENBROOK DR",
+                        "stop_id": "3632",
+                        "stop_lat": "49.220926",
+                        "stop_lon": "-122.90574",
+                        "stop_name": "EB E 6 AV FS GLENBROOK DR",
                         "stop_url": "",
-                        "zone_id": "ZN 3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB ROCHESTER AV FS DONALD ST",
-            "onestopId": "s-c2b85szged-wbrochesterfsdonald",
+            "name": "EB E 6 AV FS GLENBROOK DR",
+            "onestopId": "s-c2b850qu8t-ebe6fsglenbrook",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5103,30 +5103,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.904202,
-                    49.221282
+                    -122.892819,
+                    49.231131
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9193",
+                    "identifier": "f-translink-s-3133",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58741",
-                        "stop_desc": "CUMBERLAND ST @ E 6 AVE",
-                        "stop_id": "9193",
-                        "stop_lat": "49.221282",
-                        "stop_lon": "-122.904202",
-                        "stop_name": "WB CUMBERLAND ST NS E 6 AV",
+                        "stop_code": "53100",
+                        "stop_desc": "E COLUMBIA ST @ BRAID ST",
+                        "stop_id": "3133",
+                        "stop_lat": "49.231131",
+                        "stop_lon": "-122.892819",
+                        "stop_name": "SB E COLUMBIA ST FS BRAID ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB CUMBERLAND ST NS E 6 AV",
-            "onestopId": "s-c2b850rysx-wbcumberlandnse6",
+            "name": "SB E COLUMBIA ST FS BRAID ST",
+            "onestopId": "s-c2b85d20jg-sbecolumbiafsbraid",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5307,30 +5307,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.894857,
-                    49.247483
+                    -122.906818,
+                    49.247775
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8688",
+                    "identifier": "f-translink-s-11104",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58431",
-                        "stop_desc": "LOUGHEED STN @ BAY 7",
-                        "stop_id": "8688",
-                        "stop_lat": "49.247483",
-                        "stop_lon": "-122.894857",
-                        "stop_name": "LOUGHEED STN BAY 7",
+                        "stop_code": "59816",
+                        "stop_desc": "GOVERNMENT ST @ HALSTON COURT",
+                        "stop_id": "11104",
+                        "stop_lat": "49.247775",
+                        "stop_lon": "-122.906818",
+                        "stop_name": "EB GOVERNMENT ST FS HALSTON COURT",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "LOUGHEED STN BAY 7",
-            "onestopId": "s-c2b85mnxqk-lougheedstnbay7",
+            "name": "EB GOVERNMENT ST FS HALSTON COURT",
+            "onestopId": "s-c2b85jmcpd-ebgovernmentfshalston",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5511,30 +5511,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.90574,
-                    49.220926
+                    -122.882272,
+                    49.245459
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3632",
+                    "identifier": "f-translink-s-3525",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53593",
-                        "stop_desc": "E 6 AV @ GLENBROOK DR",
-                        "stop_id": "3632",
-                        "stop_lat": "49.220926",
-                        "stop_lon": "-122.90574",
-                        "stop_name": "EB E 6 AV FS GLENBROOK DR",
+                        "stop_code": "53487",
+                        "stop_desc": "ROCHESTER AVE @ DONALD ST",
+                        "stop_id": "3525",
+                        "stop_lat": "49.245459",
+                        "stop_lon": "-122.882272",
+                        "stop_name": "WB ROCHESTER AV FS DONALD ST",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB E 6 AV FS GLENBROOK DR",
-            "onestopId": "s-c2b850qu8t-ebe6fsglenbrook",
+            "name": "WB ROCHESTER AV FS DONALD ST",
+            "onestopId": "s-c2b85szged-wbrochesterfsdonald",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5647,30 +5647,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.883796,
-                    49.258819
+                    -122.898799,
+                    49.22304
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3308",
+                    "identifier": "f-translink-s-3655",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53273",
-                        "stop_desc": "COTTONWOOD AVE @ FAIRVIEW ST",
-                        "stop_id": "3308",
-                        "stop_lat": "49.258819",
-                        "stop_lon": "-122.883796",
-                        "stop_name": "WB COTTONWOOD AV FS FAIRVIEW ST",
+                        "stop_code": "53616",
+                        "stop_desc": "RICHMOND ST @ ALBERTA ST",
+                        "stop_id": "3655",
+                        "stop_lat": "49.22304",
+                        "stop_lon": "-122.898799",
+                        "stop_name": "SB RICHMOND ST FS ALBERTA ST",
                         "stop_url": "",
-                        "zone_id": "ZN 3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB COTTONWOOD AV FS FAIRVIEW ST",
-            "onestopId": "s-c2b85xqc2j-wbcottonwoodfsfairview",
+            "name": "SB RICHMOND ST FS ALBERTA ST",
+            "onestopId": "s-c2b852gbfr-sbrichmondfsalberta",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5783,30 +5783,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.892999,
-                    49.248476
+                    -122.906699,
+                    49.222954
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3248",
+                    "identifier": "f-translink-s-9192",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53214",
-                        "stop_desc": "NORTH RD @ AUSTIN RD",
-                        "stop_id": "3248",
-                        "stop_lat": "49.248476",
-                        "stop_lon": "-122.892999",
-                        "stop_name": "SB NORTH RD FS AUSTIN RD",
+                        "stop_code": "58740",
+                        "stop_desc": "CUMBERLAND ST @ E 7 AVE",
+                        "stop_id": "9192",
+                        "stop_lat": "49.222954",
+                        "stop_lon": "-122.906699",
+                        "stop_name": "NB CUMBERLAND ST FS E 7 AV",
                         "stop_url": "",
-                        "zone_id": "ZN2/3"
+                        "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NORTH RD FS AUSTIN RD",
-            "onestopId": "s-c2b85t2j1t-sbnorthfsaustin",
+            "name": "NB CUMBERLAND ST FS E 7 AV",
+            "onestopId": "s-c2b850y06r-nbcumberlandfse7",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5987,30 +5987,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.892819,
-                    49.231131
+                    -122.894695,
+                    49.247483
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-3133",
+                    "identifier": "f-translink-s-8657",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53100",
-                        "stop_desc": "E COLUMBIA ST @ BRAID ST",
-                        "stop_id": "3133",
-                        "stop_lat": "49.231131",
-                        "stop_lon": "-122.892819",
-                        "stop_name": "SB E COLUMBIA ST FS BRAID ST",
+                        "stop_code": "58439",
+                        "stop_desc": "LOUGHEED STN @ BAY 5",
+                        "stop_id": "8657",
+                        "stop_lat": "49.247483",
+                        "stop_lon": "-122.894695",
+                        "stop_name": "LOUGHEED STN BAY 5",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN2/3"
                     }
                 }
             ],
-            "name": "SB E COLUMBIA ST FS BRAID ST",
-            "onestopId": "s-c2b85d20jg-sbecolumbiafsbraid",
+            "name": "LOUGHEED STN BAY 5",
+            "onestopId": "s-c2b85mnz6h-lougheedstnbay5",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -6021,30 +6021,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.906875,
-                    49.248331
+                    -122.895589,
+                    49.247966
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-2298",
+                    "identifier": "f-translink-s-8656",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59815",
-                        "stop_desc": "GOVERNMENT ST @ HALSTON COURT",
-                        "stop_id": "2298",
-                        "stop_lat": "49.248331",
-                        "stop_lon": "-122.906875",
-                        "stop_name": "WB GOVERNMENT ST FS HALSTON COURT",
+                        "stop_code": "58435",
+                        "stop_desc": "LOUGHEED STN @ BAY 1",
+                        "stop_id": "8656",
+                        "stop_lat": "49.247966",
+                        "stop_lon": "-122.895589",
+                        "stop_name": "LOUGHEED STN BAY 1",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN2/3"
                     }
                 }
             ],
-            "name": "WB GOVERNMENT ST FS HALSTON COURT",
-            "onestopId": "s-c2b85jmuq4-wbgovernmentfshalston",
+            "name": "LOUGHEED STN BAY 1",
+            "onestopId": "s-c2b85mq4jn-lougheedstnbay1",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

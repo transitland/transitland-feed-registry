@@ -255,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.751612,
-                    45.586142
+                    -122.749858,
+                    45.596548
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6282",
+                    "identifier": "f-trimet-s-11007",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6282",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6282)",
-                        "stop_id": "6282",
-                        "stop_lat": "45.586142",
-                        "stop_lon": "-122.751612",
-                        "stop_name": "N Willamette & Oswego",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6282",
+                        "position": "Farside",
+                        "stop_code": "11007",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 11007)",
+                        "stop_id": "11007",
+                        "stop_lat": "45.596548",
+                        "stop_lon": "-122.749858",
+                        "stop_name": "N Fessenden & Seneca",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11007",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Willamette & Oswego",
-            "onestopId": "s-c20eqdxn80-nwillamette~oswego",
+            "name": "N Fessenden & Seneca",
+            "onestopId": "s-c20equ870u-nfessenden~seneca",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -461,6 +461,42 @@
             ],
             "name": "N Columbia Blvd & Hendricks",
             "onestopId": "s-c20eqtzvz1-ncolumbia~hendricks",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.757147,
+                    45.592405
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9505",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9505",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 9505)",
+                        "stop_id": "9505",
+                        "stop_lat": "45.592405",
+                        "stop_lon": "-122.757147",
+                        "stop_name": "N Lombard & New York",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9505",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "N Lombard & New York",
+            "onestopId": "s-c20eqefgp0-nlombard~newyork",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1191,32 +1227,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.757933,
-                    45.592164
+                    -122.762435,
+                    45.602148
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11934",
+                    "identifier": "f-trimet-s-10697",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11934",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 11934)",
-                        "stop_id": "11934",
-                        "stop_lat": "45.592164",
-                        "stop_lon": "-122.757933",
-                        "stop_name": "N Ivanhoe & New York",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11934",
+                        "position": "At",
+                        "stop_code": "10697",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 10697)",
+                        "stop_id": "10697",
+                        "stop_lat": "45.602148",
+                        "stop_lon": "-122.762435",
+                        "stop_name": "Pier Park",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10697",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Ivanhoe & New York",
-            "onestopId": "s-c20eqef3sg-nivanhoe~newyork",
+            "name": "Pier Park",
+            "onestopId": "s-c20eqmx5gb-pierpark",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.749144,
+                    45.603598
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-11828",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "11828",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 11828)",
+                        "stop_id": "11828",
+                        "stop_lat": "45.603598",
+                        "stop_lon": "-122.749144",
+                        "stop_name": "N Columbia Blvd & Swift",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11828",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "N Columbia Blvd & Swift",
+            "onestopId": "s-c20eqvbu1w-ncolumbia~swift",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1253,42 +1325,6 @@
             ],
             "name": "N Lombard & Baltimore",
             "onestopId": "s-c20eqes52t-nlombard~baltimore",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.749255,
-                    45.585375
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6288",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6288",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6288)",
-                        "stop_id": "6288",
-                        "stop_lat": "45.585375",
-                        "stop_lon": "-122.749255",
-                        "stop_name": "N Willamette & Tyler",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6288",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "N Willamette & Tyler",
-            "onestopId": "s-c20eqf8dp1-nwillamette~tyler",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,32 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.757147,
-                    45.592405
+                    -122.749255,
+                    45.585375
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9505",
+                    "identifier": "f-trimet-s-6288",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9505",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 9505)",
-                        "stop_id": "9505",
-                        "stop_lat": "45.592405",
-                        "stop_lon": "-122.757147",
-                        "stop_name": "N Lombard & New York",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9505",
+                        "position": "Farside",
+                        "stop_code": "6288",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6288)",
+                        "stop_id": "6288",
+                        "stop_lat": "45.585375",
+                        "stop_lon": "-122.749255",
+                        "stop_name": "N Willamette & Tyler",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6288",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Lombard & New York",
-            "onestopId": "s-c20eqefgp0-nlombard~newyork",
+            "name": "N Willamette & Tyler",
+            "onestopId": "s-c20eqf8dp1-nwillamette~tyler",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1685,42 +1721,6 @@
             ],
             "name": "Pier Park",
             "onestopId": "s-c20eqmx5w1-pierpark",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.749144,
-                    45.603598
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11828",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11828",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 11828)",
-                        "stop_id": "11828",
-                        "stop_lat": "45.603598",
-                        "stop_lon": "-122.749144",
-                        "stop_name": "N Columbia Blvd & Swift",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11828",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "N Columbia Blvd & Swift",
-            "onestopId": "s-c20eqvbu1w-ncolumbia~swift",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1839,32 +1839,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.762435,
-                    45.602148
+                    -122.757933,
+                    45.592164
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10697",
+                    "identifier": "f-trimet-s-11934",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "10697",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 10697)",
-                        "stop_id": "10697",
-                        "stop_lat": "45.602148",
-                        "stop_lon": "-122.762435",
-                        "stop_name": "Pier Park",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10697",
+                        "position": "Farside",
+                        "stop_code": "11934",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 11934)",
+                        "stop_id": "11934",
+                        "stop_lat": "45.592164",
+                        "stop_lon": "-122.757933",
+                        "stop_name": "N Ivanhoe & New York",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11934",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Pier Park",
-            "onestopId": "s-c20eqmx5gb-pierpark",
+            "name": "N Ivanhoe & New York",
+            "onestopId": "s-c20eqef3sg-nivanhoe~newyork",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2127,32 +2127,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.749858,
-                    45.596548
+                    -122.751612,
+                    45.586142
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11007",
+                    "identifier": "f-trimet-s-6282",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11007",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 11007)",
-                        "stop_id": "11007",
-                        "stop_lat": "45.596548",
-                        "stop_lon": "-122.749858",
-                        "stop_name": "N Fessenden & Seneca",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11007",
+                        "position": "Nearside",
+                        "stop_code": "6282",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6282)",
+                        "stop_id": "6282",
+                        "stop_lat": "45.586142",
+                        "stop_lon": "-122.751612",
+                        "stop_name": "N Willamette & Oswego",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6282",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Fessenden & Seneca",
-            "onestopId": "s-c20equ870u-nfessenden~seneca",
+            "name": "N Willamette & Oswego",
+            "onestopId": "s-c20eqdxn80-nwillamette~oswego",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,32 +2559,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.743864,
-                    45.595446
+                    -122.743312,
+                    45.588047
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1699",
+                    "identifier": "f-trimet-s-3464",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1699",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1699)",
-                        "stop_id": "1699",
-                        "stop_lat": "45.595446",
-                        "stop_lon": "-122.743864",
-                        "stop_name": "N Fessenden & Allegheny",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1699",
+                        "stop_code": "3464",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 3464)",
+                        "stop_id": "3464",
+                        "stop_lat": "45.588047",
+                        "stop_lon": "-122.743312",
+                        "stop_name": "N Lombard & Buchanan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3464",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Fessenden & Allegheny",
-            "onestopId": "s-c20equkssx-nfessenden~allegheny",
+            "name": "N Lombard & Buchanan",
+            "onestopId": "s-c20eqgj19e-nlombard~buchanan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2883,32 +2883,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.743312,
-                    45.588047
+                    -122.743864,
+                    45.595446
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3464",
+                    "identifier": "f-trimet-s-1699",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "3464",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 3464)",
-                        "stop_id": "3464",
-                        "stop_lat": "45.588047",
-                        "stop_lon": "-122.743312",
-                        "stop_name": "N Lombard & Buchanan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3464",
+                        "stop_code": "1699",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1699)",
+                        "stop_id": "1699",
+                        "stop_lat": "45.595446",
+                        "stop_lon": "-122.743864",
+                        "stop_name": "N Fessenden & Allegheny",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1699",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "N Lombard & Buchanan",
-            "onestopId": "s-c20eqgj19e-nlombard~buchanan",
+            "name": "N Fessenden & Allegheny",
+            "onestopId": "s-c20equkssx-nfessenden~allegheny",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

@@ -73,41 +73,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.041512,
-                    47.6877174
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-72524",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "72524",
-                        "stop_lat": "47.6877174",
-                        "stop_lon": "-122.041512",
-                        "stop_name": "Cedar Park NE & NE 100th Way",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "40"
-                    }
-                }
-            ],
-            "name": "Cedar Park NE & NE 100th Way",
-            "onestopId": "s-c23pqck14d-cedarparkne~ne100th",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.044884,
                     47.693161
                 ],
@@ -133,6 +98,41 @@
             ],
             "name": "Cedar Park NE & NE Marketplace Dr",
             "onestopId": "s-c23pqf38u1-cedarparkne~nemarketplace",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.041512,
+                    47.6877174
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-72524",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "72524",
+                        "stop_lat": "47.6877174",
+                        "stop_lon": "-122.041512",
+                        "stop_name": "Cedar Park NE & NE 100th Way",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "40"
+                    }
+                }
+            ],
+            "name": "Cedar Park NE & NE 100th Way",
+            "onestopId": "s-c23pqck14d-cedarparkne~ne100th",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

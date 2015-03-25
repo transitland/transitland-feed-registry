@@ -241,20 +241,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30080",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41400",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30080",
-                        "stop_lat": "41.867405",
-                        "stop_lon": "-87.62659",
-                        "stop_name": "Roosevelt (Elevated)",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30081",
                     "tags": {
                         "location_type": "0",
@@ -262,6 +248,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30081",
+                        "stop_lat": "41.867405",
+                        "stop_lon": "-87.62659",
+                        "stop_name": "Roosevelt (Elevated)",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30080",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41400",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30080",
                         "stop_lat": "41.867405",
                         "stop_lon": "-87.62659",
                         "stop_name": "Roosevelt (Elevated)",
@@ -486,20 +486,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30131",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40680",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30131",
-                        "stop_lat": "41.879507",
-                        "stop_lon": "-87.626037",
-                        "stop_name": "Adams/Wabash",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30132",
                     "tags": {
                         "location_type": "0",
@@ -507,6 +493,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30132",
+                        "stop_lat": "41.879507",
+                        "stop_lon": "-87.626037",
+                        "stop_name": "Adams/Wabash",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30131",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40680",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30131",
                         "stop_lat": "41.879507",
                         "stop_lon": "-87.626037",
                         "stop_name": "Adams/Wabash",
@@ -691,29 +691,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62270435,
-                    41.86565668
+                    -87.6239989,
+                    41.86598373
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15918",
+                    "identifier": "f-cta-s-1579",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15918",
-                        "stop_desc": "Indiana & 13th Street, Southbound, Southwest Corner",
-                        "stop_id": "15918",
-                        "stop_lat": "41.86565668",
-                        "stop_lon": "-87.62270435",
-                        "stop_name": "Indiana & 13th Street",
+                        "stop_code": "1579",
+                        "stop_desc": "Michigan & 13th Street, Northbound, Northeast Corner",
+                        "stop_id": "1579",
+                        "stop_lat": "41.86598373",
+                        "stop_lon": "-87.6239989",
+                        "stop_name": "Michigan & 13th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Indiana & 13th Street",
-            "onestopId": "s-dp3wnj7j5h-indiana~13th",
+            "name": "Michigan & 13th Street",
+            "onestopId": "s-dp3wnj6phc-michigan~13th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1219,6 +1219,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.62270435,
+                    41.86565668
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-15918",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "15918",
+                        "stop_desc": "Indiana & 13th Street, Southbound, Southwest Corner",
+                        "stop_id": "15918",
+                        "stop_lat": "41.86565668",
+                        "stop_lon": "-87.62270435",
+                        "stop_name": "Indiana & 13th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Indiana & 13th Street",
+            "onestopId": "s-dp3wnj7j5h-indiana~13th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.62359131,
                     41.83819038
                 ],
@@ -1450,29 +1483,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62374128,
-                    41.85452045
+                    -87.62416,
+                    41.87669
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1573",
+                    "identifier": "f-cta-s-75",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1573",
-                        "stop_desc": "Michigan & 21st Street, Northbound, Northeast Corner",
-                        "stop_id": "1573",
-                        "stop_lat": "41.85452045",
-                        "stop_lon": "-87.62374128",
-                        "stop_name": "Michigan & 21st Street",
+                        "stop_code": "75",
+                        "stop_desc": "Michigan & Van Buren, Northbound, Southeast Corner",
+                        "stop_id": "75",
+                        "stop_lat": "41.87669",
+                        "stop_lon": "-87.62416",
+                        "stop_name": "Michigan & Van Buren",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & 21st Street",
-            "onestopId": "s-dp3wn56k6b-michigan~21st",
+            "name": "Michigan & Van Buren",
+            "onestopId": "s-dp3wnp6j3h-michigan~vanburen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1648,29 +1681,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62037371,
-                    41.8457474
+                    -87.624082,
+                    41.873395
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7493",
+                    "identifier": "f-cta-s-1584",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7493",
-                        "stop_desc": "26th Street & Prairie, Westbound, Northeast Corner",
-                        "stop_id": "7493",
-                        "stop_lat": "41.8457474",
-                        "stop_lon": "-87.62037371",
-                        "stop_name": "26th Street & Prairie",
+                        "stop_code": "1584",
+                        "stop_desc": "Michigan & Balbo, Northbound, Northeast Corner",
+                        "stop_id": "1584",
+                        "stop_lat": "41.873395",
+                        "stop_lon": "-87.624082",
+                        "stop_name": "Michigan & Balbo",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "26th Street & Prairie",
-            "onestopId": "s-dp3wn1uc1k-26th~prairie",
+            "name": "Michigan & Balbo",
+            "onestopId": "s-dp3wnnf44y-michigan~balbo",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2051,20 +2084,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30381",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41690",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30381",
-                        "stop_lat": "41.853115",
-                        "stop_lon": "-87.626402",
-                        "stop_name": "Cermak-McCormick Place",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30382",
                     "tags": {
                         "location_type": "0",
@@ -2072,6 +2091,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30382",
+                        "stop_lat": "41.853115",
+                        "stop_lon": "-87.626402",
+                        "stop_name": "Cermak-McCormick Place",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30381",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41690",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30381",
                         "stop_lat": "41.853115",
                         "stop_lon": "-87.626402",
                         "stop_name": "Cermak-McCormick Place",
@@ -2487,29 +2520,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61754018,
-                    41.83630773
+                    -87.60985753,
+                    41.86651683
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2199",
+                    "identifier": "f-cta-s-4593",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2199",
-                        "stop_desc": "King Drive & 32nd Street, Southbound, Southwest Corner",
-                        "stop_id": "2199",
-                        "stop_lat": "41.83630773",
-                        "stop_lon": "-87.61754018",
-                        "stop_name": "King Drive & 32nd Street",
+                        "stop_code": "4593",
+                        "stop_desc": "Solidarity Dr & Lynn White Drive, Westbound, Northside of the Street",
+                        "stop_id": "4593",
+                        "stop_lat": "41.86651683",
+                        "stop_lon": "-87.60985753",
+                        "stop_name": "Solidarity Dr & Lynn White Drive",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 32nd Street",
-            "onestopId": "s-dp3wn0nf5m-king~32nd",
+            "name": "Solidarity Dr & Lynn White Drive",
+            "onestopId": "s-dp3wnms6nk-solidarity~lynnwhite",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2586,29 +2619,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62399267,
-                    41.85534056
+                    -87.623938,
+                    41.873221
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1597",
+                    "identifier": "f-cta-s-4884",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1597",
-                        "stop_desc": "Michigan & Cullerton, Southbound, Southwest Corner",
-                        "stop_id": "1597",
-                        "stop_lat": "41.85534056",
-                        "stop_lon": "-87.62399267",
-                        "stop_name": "Michigan & Cullerton",
+                        "stop_code": "4884",
+                        "stop_desc": "Balbo & Michigan, Westbound, Northeast Corner",
+                        "stop_id": "4884",
+                        "stop_lat": "41.873221",
+                        "stop_lon": "-87.623938",
+                        "stop_name": "Balbo & Michigan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & Cullerton",
-            "onestopId": "s-dp3wn5d1hb-michigan~cullerton",
+            "name": "Balbo & Michigan",
+            "onestopId": "s-dp3wnnf1nq-balbo~michigan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2652,29 +2685,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61696608,
-                    41.83678366
+                    -87.623115,
+                    41.840602
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2170",
+                    "identifier": "f-cta-s-1564",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2170",
-                        "stop_desc": "King Drive & 32nd Street, Northbound, Northeast Corner",
-                        "stop_id": "2170",
-                        "stop_lat": "41.83678366",
-                        "stop_lon": "-87.61696608",
-                        "stop_name": "King Drive & 32nd Street",
+                        "stop_code": "1564",
+                        "stop_desc": "3000 S Michigan, Northbound, Eastside of the Street",
+                        "stop_id": "1564",
+                        "stop_lat": "41.840602",
+                        "stop_lon": "-87.623115",
+                        "stop_name": "3000 S Michigan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 32nd Street",
-            "onestopId": "s-dp3wn0pkbt-king~32nd",
+            "name": "3000 S Michigan",
+            "onestopId": "s-dp3wn0fg1m-3000smichigan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2685,29 +2718,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61722,
-                    41.845508
+                    -87.62324,
+                    41.841882
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2181",
+                    "identifier": "f-cta-s-1565",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2181",
-                        "stop_desc": "King Drive & 26th Street, Northbound, Southeast Corner",
-                        "stop_id": "2181",
-                        "stop_lat": "41.845508",
-                        "stop_lon": "-87.61722",
-                        "stop_name": "King Drive & 26th Street",
+                        "stop_code": "1565",
+                        "stop_desc": "Michigan & 29th Street, Northbound, Eastside of the Street",
+                        "stop_id": "1565",
+                        "stop_lat": "41.841882",
+                        "stop_lon": "-87.62324",
+                        "stop_name": "Michigan & 29th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 26th Street",
-            "onestopId": "s-dp3wn1xpfb-king~26th",
+            "name": "Michigan & 29th Street",
+            "onestopId": "s-dp3wn14dws-michigan~29th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2982,29 +3015,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62416,
-                    41.87669
+                    -87.62374128,
+                    41.85452045
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-75",
+                    "identifier": "f-cta-s-1573",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "75",
-                        "stop_desc": "Michigan & Van Buren, Northbound, Southeast Corner",
-                        "stop_id": "75",
-                        "stop_lat": "41.87669",
-                        "stop_lon": "-87.62416",
-                        "stop_name": "Michigan & Van Buren",
+                        "stop_code": "1573",
+                        "stop_desc": "Michigan & 21st Street, Northbound, Northeast Corner",
+                        "stop_id": "1573",
+                        "stop_lat": "41.85452045",
+                        "stop_lon": "-87.62374128",
+                        "stop_name": "Michigan & 21st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & Van Buren",
-            "onestopId": "s-dp3wnp6j3h-michigan~vanburen",
+            "name": "Michigan & 21st Street",
+            "onestopId": "s-dp3wn56k6b-michigan~21st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3048,29 +3081,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.624082,
-                    41.873395
+                    -87.62037371,
+                    41.8457474
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1584",
+                    "identifier": "f-cta-s-7493",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1584",
-                        "stop_desc": "Michigan & Balbo, Northbound, Northeast Corner",
-                        "stop_id": "1584",
-                        "stop_lat": "41.873395",
-                        "stop_lon": "-87.624082",
-                        "stop_name": "Michigan & Balbo",
+                        "stop_code": "7493",
+                        "stop_desc": "26th Street & Prairie, Westbound, Northeast Corner",
+                        "stop_id": "7493",
+                        "stop_lat": "41.8457474",
+                        "stop_lon": "-87.62037371",
+                        "stop_name": "26th Street & Prairie",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & Balbo",
-            "onestopId": "s-dp3wnnf44y-michigan~balbo",
+            "name": "26th Street & Prairie",
+            "onestopId": "s-dp3wn1uc1k-26th~prairie",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3147,29 +3180,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60985753,
-                    41.86651683
+                    -87.61754018,
+                    41.83630773
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4593",
+                    "identifier": "f-cta-s-2199",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4593",
-                        "stop_desc": "Solidarity Dr & Lynn White Drive, Westbound, Northside of the Street",
-                        "stop_id": "4593",
-                        "stop_lat": "41.86651683",
-                        "stop_lon": "-87.60985753",
-                        "stop_name": "Solidarity Dr & Lynn White Drive",
+                        "stop_code": "2199",
+                        "stop_desc": "King Drive & 32nd Street, Southbound, Southwest Corner",
+                        "stop_id": "2199",
+                        "stop_lat": "41.83630773",
+                        "stop_lon": "-87.61754018",
+                        "stop_name": "King Drive & 32nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Solidarity Dr & Lynn White Drive",
-            "onestopId": "s-dp3wnms6nk-solidarity~lynnwhite",
+            "name": "King Drive & 32nd Street",
+            "onestopId": "s-dp3wn0nf5m-king~32nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3203,39 +3236,6 @@
             ],
             "name": "Cermak-McCormick Place Green Line Station",
             "onestopId": "s-dp3wn506vt-cermakmccormickplacegreenlinestation",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.6239989,
-                    41.86598373
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1579",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1579",
-                        "stop_desc": "Michigan & 13th Street, Northbound, Northeast Corner",
-                        "stop_id": "1579",
-                        "stop_lat": "41.86598373",
-                        "stop_lon": "-87.6239989",
-                        "stop_name": "Michigan & 13th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Michigan & 13th Street",
-            "onestopId": "s-dp3wnj6phc-michigan~13th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3378,29 +3378,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.623938,
-                    41.873221
+                    -87.62399267,
+                    41.85534056
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4884",
+                    "identifier": "f-cta-s-1597",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4884",
-                        "stop_desc": "Balbo & Michigan, Westbound, Northeast Corner",
-                        "stop_id": "4884",
-                        "stop_lat": "41.873221",
-                        "stop_lon": "-87.623938",
-                        "stop_name": "Balbo & Michigan",
+                        "stop_code": "1597",
+                        "stop_desc": "Michigan & Cullerton, Southbound, Southwest Corner",
+                        "stop_id": "1597",
+                        "stop_lat": "41.85534056",
+                        "stop_lon": "-87.62399267",
+                        "stop_name": "Michigan & Cullerton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Balbo & Michigan",
-            "onestopId": "s-dp3wnnf1nq-balbo~michigan",
+            "name": "Michigan & Cullerton",
+            "onestopId": "s-dp3wn5d1hb-michigan~cullerton",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3477,29 +3477,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.624193,
-                    41.878135
+                    -87.62636742,
+                    41.85279561
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-76",
+                    "identifier": "f-cta-s-18052",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "76",
-                        "stop_desc": "Michigan & Jackson, Northbound, Southeast Corner",
-                        "stop_id": "76",
-                        "stop_lat": "41.878135",
-                        "stop_lon": "-87.624193",
-                        "stop_name": "Michigan & Jackson",
+                        "stop_code": "18052",
+                        "stop_desc": "Cermak-McCormick Place Green Line Station, Eastbound, Southside of the Street",
+                        "stop_id": "18052",
+                        "stop_lat": "41.85279561",
+                        "stop_lon": "-87.62636742",
+                        "stop_name": "Cermak-McCormick Place Green Line Station",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & Jackson",
-            "onestopId": "s-dp3wnpdjb6-michigan~jackson",
+            "name": "Cermak-McCormick Place Green Line Station",
+            "onestopId": "s-dp3wn506jw-cermakmccormickplacegreenlinestation",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3510,29 +3510,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.623115,
-                    41.840602
+                    -87.61696608,
+                    41.83678366
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1564",
+                    "identifier": "f-cta-s-2170",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1564",
-                        "stop_desc": "3000 S Michigan, Northbound, Eastside of the Street",
-                        "stop_id": "1564",
-                        "stop_lat": "41.840602",
-                        "stop_lon": "-87.623115",
-                        "stop_name": "3000 S Michigan",
+                        "stop_code": "2170",
+                        "stop_desc": "King Drive & 32nd Street, Northbound, Northeast Corner",
+                        "stop_id": "2170",
+                        "stop_lat": "41.83678366",
+                        "stop_lon": "-87.61696608",
+                        "stop_name": "King Drive & 32nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "3000 S Michigan",
-            "onestopId": "s-dp3wn0fg1m-3000smichigan",
+            "name": "King Drive & 32nd Street",
+            "onestopId": "s-dp3wn0pkbt-king~32nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3576,29 +3576,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62324,
-                    41.841882
+                    -87.61722,
+                    41.845508
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1565",
+                    "identifier": "f-cta-s-2181",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1565",
-                        "stop_desc": "Michigan & 29th Street, Northbound, Eastside of the Street",
-                        "stop_id": "1565",
-                        "stop_lat": "41.841882",
-                        "stop_lon": "-87.62324",
-                        "stop_name": "Michigan & 29th Street",
+                        "stop_code": "2181",
+                        "stop_desc": "King Drive & 26th Street, Northbound, Southeast Corner",
+                        "stop_id": "2181",
+                        "stop_lat": "41.845508",
+                        "stop_lon": "-87.61722",
+                        "stop_name": "King Drive & 26th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & 29th Street",
-            "onestopId": "s-dp3wn14dws-michigan~29th",
+            "name": "King Drive & 26th Street",
+            "onestopId": "s-dp3wn1xpfb-king~26th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3840,29 +3840,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62636742,
-                    41.85279561
+                    -87.624193,
+                    41.878135
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-18052",
+                    "identifier": "f-cta-s-76",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "18052",
-                        "stop_desc": "Cermak-McCormick Place Green Line Station, Eastbound, Southside of the Street",
-                        "stop_id": "18052",
-                        "stop_lat": "41.85279561",
-                        "stop_lon": "-87.62636742",
-                        "stop_name": "Cermak-McCormick Place Green Line Station",
+                        "stop_code": "76",
+                        "stop_desc": "Michigan & Jackson, Northbound, Southeast Corner",
+                        "stop_id": "76",
+                        "stop_lat": "41.878135",
+                        "stop_lon": "-87.624193",
+                        "stop_name": "Michigan & Jackson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak-McCormick Place Green Line Station",
-            "onestopId": "s-dp3wn506jw-cermakmccormickplacegreenlinestation",
+            "name": "Michigan & Jackson",
+            "onestopId": "s-dp3wnpdjb6-michigan~jackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

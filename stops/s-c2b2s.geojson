@@ -105,6 +105,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.206384,
+                    49.344086
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-8668",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "60889",
+                        "stop_desc": "THOMPSON CRES @ THOMPSON PL",
+                        "stop_id": "8668",
+                        "stop_lat": "49.344086",
+                        "stop_lon": "-123.206384",
+                        "stop_name": "NB THOMPSON CRES FS THOMPSON PL",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB THOMPSON CRES FS THOMPSON PL",
+            "onestopId": "s-c2b2sqgf5h-nbthompsoncresfsthompsonpl",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.179475,
                     49.338442
                 ],
@@ -173,30 +207,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.182475,
-                    49.336764
+                    -123.2218,
+                    49.33951
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4755",
+                    "identifier": "f-translink-s-4684",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54703",
-                        "stop_desc": "25 ST @ KINGS AVE",
-                        "stop_id": "4755",
-                        "stop_lat": "49.336764",
-                        "stop_lon": "-123.182475",
-                        "stop_name": "SB 25 ST NS KINGS AV",
+                        "stop_code": "54632",
+                        "stop_desc": "MARINE DR @ 3700 BLOCK",
+                        "stop_id": "4684",
+                        "stop_lat": "49.33951",
+                        "stop_lon": "-123.2218",
+                        "stop_name": "WB MARINE DR AT 3700 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB 25 ST NS KINGS AV",
-            "onestopId": "s-c2b2svmr2r-sb25nskings",
+            "name": "WB MARINE DR AT 3700 BLOCK",
+            "onestopId": "s-c2b2sjbx7z-wbmarineat3700block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -309,30 +343,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.206384,
-                    49.344086
+                    -123.2,
+                    49.33951
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8668",
+                    "identifier": "f-translink-s-4640",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "60889",
-                        "stop_desc": "THOMPSON CRES @ THOMPSON PL",
-                        "stop_id": "8668",
-                        "stop_lat": "49.344086",
-                        "stop_lon": "-123.206384",
-                        "stop_name": "NB THOMPSON CRES FS THOMPSON PL",
+                        "stop_code": "54588",
+                        "stop_desc": "MARINE DR @ 30 ST",
+                        "stop_id": "4640",
+                        "stop_lat": "49.33951",
+                        "stop_lon": "-123.2",
+                        "stop_name": "EB MARINE DR NS 30 ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB THOMPSON CRES FS THOMPSON PL",
-            "onestopId": "s-c2b2sqgf5h-nbthompsoncresfsthompsonpl",
+            "name": "EB MARINE DR NS 30 ST",
+            "onestopId": "s-c2b2stbrrz-ebmarinens30",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -445,30 +479,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.205458,
-                    49.343256
+                    -123.18239,
+                    49.338122
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4767",
+                    "identifier": "f-translink-s-4754",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54715",
-                        "stop_desc": "THOMPSON CRES @ MATHERS AVE",
-                        "stop_id": "4767",
-                        "stop_lat": "49.343256",
-                        "stop_lon": "-123.205458",
-                        "stop_name": "WB THOMPSON CRES FS MATHERS AV",
+                        "stop_code": "54702",
+                        "stop_desc": "25 ST @ MATHERS AVE",
+                        "stop_id": "4754",
+                        "stop_lat": "49.338122",
+                        "stop_lon": "-123.18239",
+                        "stop_name": "SB 25 ST FS MATHERS AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB THOMPSON CRES FS MATHERS AV",
-            "onestopId": "s-c2b2sqst29-wbthompsoncresfsmathers",
+            "name": "SB 25 ST FS MATHERS AV",
+            "onestopId": "s-c2b2svtr6k-sb25fsmathers",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.18886,
+                    49.339568
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4732",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54680",
+                        "stop_desc": "27 ST @ NELSON AVE",
+                        "stop_id": "4732",
+                        "stop_lat": "49.339568",
+                        "stop_lon": "-123.18886",
+                        "stop_name": "SB 27 ST NS NELSON AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB 27 ST NS NELSON AV",
+            "onestopId": "s-c2b2svbxgd-sb27nsnelson",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -513,30 +581,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.18886,
-                    49.339568
+                    -123.182475,
+                    49.336764
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4732",
+                    "identifier": "f-translink-s-4755",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54680",
-                        "stop_desc": "27 ST @ NELSON AVE",
-                        "stop_id": "4732",
-                        "stop_lat": "49.339568",
-                        "stop_lon": "-123.18886",
-                        "stop_name": "SB 27 ST NS NELSON AV",
+                        "stop_code": "54703",
+                        "stop_desc": "25 ST @ KINGS AVE",
+                        "stop_id": "4755",
+                        "stop_lat": "49.336764",
+                        "stop_lon": "-123.182475",
+                        "stop_name": "SB 25 ST NS KINGS AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB 27 ST NS NELSON AV",
-            "onestopId": "s-c2b2svbxgd-sb27nsnelson",
+            "name": "SB 25 ST NS KINGS AV",
+            "onestopId": "s-c2b2svmr2r-sb25nskings",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -649,30 +717,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.18239,
-                    49.338122
+                    -123.18287,
+                    49.33508
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4754",
+                    "identifier": "f-translink-s-4674",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54702",
-                        "stop_desc": "25 ST @ MATHERS AVE",
-                        "stop_id": "4754",
-                        "stop_lat": "49.338122",
-                        "stop_lon": "-123.18239",
-                        "stop_name": "SB 25 ST FS MATHERS AV",
+                        "stop_code": "54622",
+                        "stop_desc": "MARINE DR @ 25 ST",
+                        "stop_id": "4674",
+                        "stop_lat": "49.33508",
+                        "stop_lon": "-123.18287",
+                        "stop_name": "WB MARINE DR FS 25 ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB 25 ST FS MATHERS AV",
-            "onestopId": "s-c2b2svtr6k-sb25fsmathers",
+            "name": "WB MARINE DR FS 25 ST",
+            "onestopId": "s-c2b2svhvxj-wbmarinefs25",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -989,30 +1057,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.2,
-                    49.33951
+                    -123.189253,
+                    49.343004
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4640",
+                    "identifier": "f-translink-s-4730",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54588",
-                        "stop_desc": "MARINE DR @ 30 ST",
-                        "stop_id": "4640",
-                        "stop_lat": "49.33951",
-                        "stop_lon": "-123.2",
-                        "stop_name": "EB MARINE DR NS 30 ST",
+                        "stop_code": "54678",
+                        "stop_desc": "27 ST @ 28 ST",
+                        "stop_id": "4730",
+                        "stop_lat": "49.343004",
+                        "stop_lon": "-123.189253",
+                        "stop_name": "SB 27 ST NS 28 ST",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB MARINE DR NS 30 ST",
-            "onestopId": "s-c2b2stbrrz-ebmarinens30",
+            "name": "SB 27 ST NS 28 ST",
+            "onestopId": "s-c2b2sy87f6-sb27ns28",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1193,30 +1261,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.21395,
-                    49.34562
+                    -123.21663,
+                    49.34564
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4770",
+                    "identifier": "f-translink-s-4771",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54718",
-                        "stop_desc": "WESTMOUNT RD @ ROCKVIEW PLACE",
-                        "stop_id": "4770",
-                        "stop_lat": "49.34562",
-                        "stop_lon": "-123.21395",
-                        "stop_name": "WB WESTMOUNT RD FS ROCKVIEW PL",
+                        "stop_code": "54719",
+                        "stop_desc": "WESTMOUNT RD @ CEDARIDGE PLACE",
+                        "stop_id": "4771",
+                        "stop_lat": "49.34564",
+                        "stop_lon": "-123.21663",
+                        "stop_name": "WB WESTMOUNT RD NS CEDARIDGE PL",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB WESTMOUNT RD FS ROCKVIEW PL",
-            "onestopId": "s-c2b2spn74f-wbwestmountfsrockviewpl",
+            "name": "WB WESTMOUNT RD NS CEDARIDGE PL",
+            "onestopId": "s-c2b2sph7hq-wbwestmountnscedaridgepl",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1295,74 +1363,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.18287,
-                    49.33508
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4674",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54622",
-                        "stop_desc": "MARINE DR @ 25 ST",
-                        "stop_id": "4674",
-                        "stop_lat": "49.33508",
-                        "stop_lon": "-123.18287",
-                        "stop_name": "WB MARINE DR FS 25 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB MARINE DR FS 25 ST",
-            "onestopId": "s-c2b2svhvxj-wbmarinefs25",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.189253,
-                    49.343004
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4730",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54678",
-                        "stop_desc": "27 ST @ 28 ST",
-                        "stop_id": "4730",
-                        "stop_lat": "49.343004",
-                        "stop_lon": "-123.189253",
-                        "stop_name": "SB 27 ST NS 28 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB 27 ST NS 28 ST",
-            "onestopId": "s-c2b2sy87f6-sb27ns28",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.21628,
                     49.33923
                 ],
@@ -1387,40 +1387,6 @@
             ],
             "name": "EB MARINE DR AT 3600 BLOCK",
             "onestopId": "s-c2b2sjutue-ebmarineat3600block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.2218,
-                    49.33951
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4684",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54632",
-                        "stop_desc": "MARINE DR @ 3700 BLOCK",
-                        "stop_id": "4684",
-                        "stop_lat": "49.33951",
-                        "stop_lon": "-123.2218",
-                        "stop_name": "WB MARINE DR AT 3700 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB MARINE DR AT 3700 BLOCK",
-            "onestopId": "s-c2b2sjbx7z-wbmarineat3700block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1635,30 +1601,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.21663,
-                    49.34564
+                    -123.205458,
+                    49.343256
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4771",
+                    "identifier": "f-translink-s-4767",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54719",
-                        "stop_desc": "WESTMOUNT RD @ CEDARIDGE PLACE",
-                        "stop_id": "4771",
-                        "stop_lat": "49.34564",
-                        "stop_lon": "-123.21663",
-                        "stop_name": "WB WESTMOUNT RD NS CEDARIDGE PL",
+                        "stop_code": "54715",
+                        "stop_desc": "THOMPSON CRES @ MATHERS AVE",
+                        "stop_id": "4767",
+                        "stop_lat": "49.343256",
+                        "stop_lon": "-123.205458",
+                        "stop_name": "WB THOMPSON CRES FS MATHERS AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB WESTMOUNT RD NS CEDARIDGE PL",
-            "onestopId": "s-c2b2sph7hq-wbwestmountnscedaridgepl",
+            "name": "WB THOMPSON CRES FS MATHERS AV",
+            "onestopId": "s-c2b2sqst29-wbthompsoncresfsmathers",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.21395,
+                    49.34562
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4770",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54718",
+                        "stop_desc": "WESTMOUNT RD @ ROCKVIEW PLACE",
+                        "stop_id": "4770",
+                        "stop_lat": "49.34562",
+                        "stop_lon": "-123.21395",
+                        "stop_name": "WB WESTMOUNT RD FS ROCKVIEW PL",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB WESTMOUNT RD FS ROCKVIEW PL",
+            "onestopId": "s-c2b2spn74f-wbwestmountfsrockviewpl",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

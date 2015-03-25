@@ -73,31 +73,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.503233,
-                    43.815013
+                    -79.50415,
+                    43.818798
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3959",
+                    "identifier": "f-ttc-s-6091",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3957",
+                        "stop_code": "4005",
                         "stop_desc": "",
-                        "stop_id": "3959",
-                        "stop_lat": "43.815013",
-                        "stop_lon": "-79.503233",
-                        "stop_name": "KEELE ST AT BOWES RD",
+                        "stop_id": "6091",
+                        "stop_lat": "43.818798",
+                        "stop_lon": "-79.50415",
+                        "stop_name": "KEELE ST AT LANGSTAFF RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KEELE ST AT BOWES RD",
-            "onestopId": "s-dpz3qb78bq-keeleatbowes",
+            "name": "KEELE ST AT LANGSTAFF RD",
+            "onestopId": "s-dpz3qbfygp-keeleatlangstaff",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1158,41 +1158,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.50415,
-                    43.818798
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-6091",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4005",
-                        "stop_desc": "",
-                        "stop_id": "6091",
-                        "stop_lat": "43.818798",
-                        "stop_lon": "-79.50415",
-                        "stop_name": "KEELE ST AT LANGSTAFF RD",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "KEELE ST AT LANGSTAFF RD",
-            "onestopId": "s-dpz3qbfygp-keeleatlangstaff",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.497644,
                     43.824081
                 ],
@@ -1743,6 +1708,41 @@
             ],
             "name": "BASALTIC RD AT JACOB KEFFER PKWY SOUTH SIDE",
             "onestopId": "s-dpz3qfyg6v-basalticatjacobkeffersouthside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.503233,
+                    43.815013
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-3959",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3957",
+                        "stop_desc": "",
+                        "stop_id": "3959",
+                        "stop_lat": "43.815013",
+                        "stop_lon": "-79.503233",
+                        "stop_name": "KEELE ST AT BOWES RD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KEELE ST AT BOWES RD",
+            "onestopId": "s-dpz3qb78bq-keeleatbowes",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"

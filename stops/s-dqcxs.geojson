@@ -73,31 +73,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.454347,
-                    39.319027
+                    -76.445041,
+                    39.30879
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12512",
+                    "identifier": "f-mtamaryland-s-4530",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12512",
-                        "stop_desc": "STEMMERS RUN RD at EASTERN BLVD fs sb",
-                        "stop_id": "12512",
-                        "stop_lat": "39.319027",
-                        "stop_lon": "-76.454347",
-                        "stop_name": "STEMMERS RUN RD & EASTERN fs sb",
+                        "stop_code": "4530",
+                        "stop_desc": "BACK RIVER NECK RD at WILLIAMS AVE sb",
+                        "stop_id": "4530",
+                        "stop_lat": "39.30879",
+                        "stop_lon": "-76.445041",
+                        "stop_name": "BACK RIVER NECK & WILLIAMS sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "STEMMERS RUN RD & EASTERN fs sb",
-            "onestopId": "s-dqcxsjz9ut-stemmersrun~easternfssb",
+            "name": "BACK RIVER NECK & WILLIAMS sb",
+            "onestopId": "s-dqcxs7yqm3-backriverneck~williamssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -203,6 +203,41 @@
             ],
             "name": "BACK RIVER NECK & LANFLAIR RD nb",
             "onestopId": "s-dqcxse27zv-backriverneck~lanflairnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.450918,
+                    39.293789
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-4571",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4571",
+                        "stop_desc": "MIDDLEBOROUGH RD at MARLYN AVE fs nb",
+                        "stop_id": "4571",
+                        "stop_lat": "39.293789",
+                        "stop_lon": "-76.450918",
+                        "stop_name": "MIDDLEBOROUGH RD & MARLYN AVE fs",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "MIDDLEBOROUGH RD & MARLYN AVE fs",
+            "onestopId": "s-dqcxs34num-middleborough~marlynfs",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -458,66 +493,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.449009,
-                    39.323627
+                    -76.447863,
+                    39.298406
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4774",
+                    "identifier": "f-mtamaryland-s-7613",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4774",
-                        "stop_desc": "EASTERN BLVD at ORVILLE RD wb",
-                        "stop_id": "4774",
-                        "stop_lat": "39.323627",
-                        "stop_lon": "-76.449009",
-                        "stop_name": "EASTERN BLVD & ORVLLE RD wb",
+                        "stop_code": "7613",
+                        "stop_desc": "MIDDLEBOROUGH RD at EDDYSTONE PL fs sb",
+                        "stop_id": "7613",
+                        "stop_lat": "39.298406",
+                        "stop_lon": "-76.447863",
+                        "stop_name": "MIDDLEBOROUGH & EDDYSTONE fs sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN BLVD & ORVLLE RD wb",
-            "onestopId": "s-dqcxsqes8z-eastern~orvllewb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.442306,
-                    39.305664
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-4533",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4533",
-                        "stop_desc": "BACK RIVER NECK RD at LANFLAIR RD sb",
-                        "stop_id": "4533",
-                        "stop_lat": "39.305664",
-                        "stop_lon": "-76.442306",
-                        "stop_name": "BACK RIVER NECK & LANFLAIR RD sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "BACK RIVER NECK & LANFLAIR RD sb",
-            "onestopId": "s-dqcxse2kj4-backriverneck~lanflairsb",
+            "name": "MIDDLEBOROUGH & EDDYSTONE fs sb",
+            "onestopId": "s-dqcxs6h3g9-middleborough~eddystonefssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -598,31 +598,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.445041,
-                    39.30879
+                    -76.454347,
+                    39.319027
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4530",
+                    "identifier": "f-mtamaryland-s-12512",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4530",
-                        "stop_desc": "BACK RIVER NECK RD at WILLIAMS AVE sb",
-                        "stop_id": "4530",
-                        "stop_lat": "39.30879",
-                        "stop_lon": "-76.445041",
-                        "stop_name": "BACK RIVER NECK & WILLIAMS sb",
+                        "stop_code": "12512",
+                        "stop_desc": "STEMMERS RUN RD at EASTERN BLVD fs sb",
+                        "stop_id": "12512",
+                        "stop_lat": "39.319027",
+                        "stop_lon": "-76.454347",
+                        "stop_name": "STEMMERS RUN RD & EASTERN fs sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BACK RIVER NECK & WILLIAMS sb",
-            "onestopId": "s-dqcxs7yqm3-backriverneck~williamssb",
+            "name": "STEMMERS RUN RD & EASTERN fs sb",
+            "onestopId": "s-dqcxsjz9ut-stemmersrun~easternfssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -843,31 +843,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.450918,
-                    39.293789
+                    -76.442306,
+                    39.305664
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4571",
+                    "identifier": "f-mtamaryland-s-4533",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4571",
-                        "stop_desc": "MIDDLEBOROUGH RD at MARLYN AVE fs nb",
-                        "stop_id": "4571",
-                        "stop_lat": "39.293789",
-                        "stop_lon": "-76.450918",
-                        "stop_name": "MIDDLEBOROUGH RD & MARLYN AVE fs",
+                        "stop_code": "4533",
+                        "stop_desc": "BACK RIVER NECK RD at LANFLAIR RD sb",
+                        "stop_id": "4533",
+                        "stop_lat": "39.305664",
+                        "stop_lon": "-76.442306",
+                        "stop_name": "BACK RIVER NECK & LANFLAIR RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MIDDLEBOROUGH RD & MARLYN AVE fs",
-            "onestopId": "s-dqcxs34num-middleborough~marlynfs",
+            "name": "BACK RIVER NECK & LANFLAIR RD sb",
+            "onestopId": "s-dqcxse2kj4-backriverneck~lanflairsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1193,31 +1193,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.447863,
-                    39.298406
+                    -76.449009,
+                    39.323627
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-7613",
+                    "identifier": "f-mtamaryland-s-4774",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7613",
-                        "stop_desc": "MIDDLEBOROUGH RD at EDDYSTONE PL fs sb",
-                        "stop_id": "7613",
-                        "stop_lat": "39.298406",
-                        "stop_lon": "-76.447863",
-                        "stop_name": "MIDDLEBOROUGH & EDDYSTONE fs sb",
+                        "stop_code": "4774",
+                        "stop_desc": "EASTERN BLVD at ORVILLE RD wb",
+                        "stop_id": "4774",
+                        "stop_lat": "39.323627",
+                        "stop_lon": "-76.449009",
+                        "stop_name": "EASTERN BLVD & ORVLLE RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MIDDLEBOROUGH & EDDYSTONE fs sb",
-            "onestopId": "s-dqcxs6h3g9-middleborough~eddystonefssb",
+            "name": "EASTERN BLVD & ORVLLE RD wb",
+            "onestopId": "s-dqcxsqes8z-eastern~orvllewb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1403,31 +1403,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.461653,
-                    39.313166
+                    -76.449997,
+                    39.295805
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4522",
+                    "identifier": "f-mtamaryland-s-4572",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4522",
-                        "stop_desc": "OLD EASTERN AVE at SELIG RD fs eb",
-                        "stop_id": "4522",
-                        "stop_lat": "39.313166",
-                        "stop_lon": "-76.461653",
-                        "stop_name": "OLD EASTERN & SELIG FS E/B",
+                        "stop_code": "4572",
+                        "stop_desc": "MIDDLEBOROUGH RD at HYDE PARK mid eb",
+                        "stop_id": "4572",
+                        "stop_lat": "39.295805",
+                        "stop_lon": "-76.449997",
+                        "stop_name": "MIDDLEBOROUGH & HYDE PARK mid eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "OLD EASTERN & SELIG FS E/B",
-            "onestopId": "s-dqcxshdrf3-oldeastern~seligfse~b",
+            "name": "MIDDLEBOROUGH & HYDE PARK mid eb",
+            "onestopId": "s-dqcxs3df9u-middleborough~hydeparkmideb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1648,41 +1648,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.449997,
-                    39.295805
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-4572",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4572",
-                        "stop_desc": "MIDDLEBOROUGH RD at HYDE PARK mid eb",
-                        "stop_id": "4572",
-                        "stop_lat": "39.295805",
-                        "stop_lon": "-76.449997",
-                        "stop_name": "MIDDLEBOROUGH & HYDE PARK mid eb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "MIDDLEBOROUGH & HYDE PARK mid eb",
-            "onestopId": "s-dqcxs3df9u-middleborough~hydeparkmideb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.456895,
                     39.296226
                 ],
@@ -1708,6 +1673,41 @@
             ],
             "name": "FOX RIDGE",
             "onestopId": "s-dqcxs1tv15-foxridge",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.449387,
+                    39.314009
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-7581",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "7581",
+                        "stop_desc": "BACK RIVER NECK RD at DARTFORD RD nb",
+                        "stop_id": "7581",
+                        "stop_lat": "39.314009",
+                        "stop_lon": "-76.449387",
+                        "stop_name": "BACK RIVER NECK & DARTFORD nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "BACK RIVER NECK & DARTFORD nb",
+            "onestopId": "s-dqcxskgk8n-backriverneck~dartfordnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1788,31 +1788,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.449387,
-                    39.314009
+                    -76.461653,
+                    39.313166
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-7581",
+                    "identifier": "f-mtamaryland-s-4522",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7581",
-                        "stop_desc": "BACK RIVER NECK RD at DARTFORD RD nb",
-                        "stop_id": "7581",
-                        "stop_lat": "39.314009",
-                        "stop_lon": "-76.449387",
-                        "stop_name": "BACK RIVER NECK & DARTFORD nb",
+                        "stop_code": "4522",
+                        "stop_desc": "OLD EASTERN AVE at SELIG RD fs eb",
+                        "stop_id": "4522",
+                        "stop_lat": "39.313166",
+                        "stop_lon": "-76.461653",
+                        "stop_name": "OLD EASTERN & SELIG FS E/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BACK RIVER NECK & DARTFORD nb",
-            "onestopId": "s-dqcxskgk8n-backriverneck~dartfordnb",
+            "name": "OLD EASTERN & SELIG FS E/B",
+            "onestopId": "s-dqcxshdrf3-oldeastern~seligfse~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

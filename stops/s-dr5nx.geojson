@@ -3,55 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -74.217847,
-                    40.52241
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-S14N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "S14",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "S14N",
-                        "stop_lat": "40.52241",
-                        "stop_lon": "-74.217847",
-                        "stop_name": "Pleasant Plains",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-S14S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "S14",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "S14S",
-                        "stop_lat": "40.52241",
-                        "stop_lon": "-74.217847",
-                        "stop_name": "Pleasant Plains",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Pleasant Plains",
-            "onestopId": "s-dr5nx0uhnu-pleasantplains",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -74.191794,
                     40.533674
                 ],
@@ -59,7 +10,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-S16S",
+                    "identifier": "f-nyctsubway-s-S16S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S16",
@@ -74,7 +25,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-S16N",
+                    "identifier": "f-nyctsubway-s-S16N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S16",
@@ -101,6 +52,55 @@
         {
             "geometry": {
                 "coordinates": [
+                    -74.217847,
+                    40.52241
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-S14N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "S14",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "S14N",
+                        "stop_lat": "40.52241",
+                        "stop_lon": "-74.217847",
+                        "stop_name": "Pleasant Plains",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-S14S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "S14",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "S14S",
+                        "stop_lat": "40.52241",
+                        "stop_lon": "-74.217847",
+                        "stop_name": "Pleasant Plains",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Pleasant Plains",
+            "onestopId": "s-dr5nx0uhnu-pleasantplains",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -74.200064,
                     40.525507
                 ],
@@ -108,13 +108,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-S15S",
+                    "identifier": "f-nyctsubway-s-S15N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S15",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "S15S",
+                        "stop_id": "S15N",
                         "stop_lat": "40.525507",
                         "stop_lon": "-74.200064",
                         "stop_name": "Prince's Bay",
@@ -123,13 +123,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-S15N",
+                    "identifier": "f-nyctsubway-s-S15S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "S15",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "S15N",
+                        "stop_id": "S15S",
                         "stop_lat": "40.525507",
                         "stop_lon": "-74.200064",
                         "stop_name": "Prince's Bay",

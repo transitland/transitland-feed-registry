@@ -3,27 +3,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.83735,
-                    39.053333
+                    -76.837828,
+                    39.056259
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-40031",
+                    "identifier": "f-f-wmata-s-28462",
                     "tags": {
-                        "stop_code": "3004164",
+                        "stop_code": "3002514",
                         "stop_desc": "",
-                        "stop_id": "40031",
-                        "stop_lat": "39.053333",
-                        "stop_lon": "-76.837350",
-                        "stop_name": "RT 197 LAUREL-BOWIE RD & SNOWDEN RD",
+                        "stop_id": "28462",
+                        "stop_lat": "39.056259",
+                        "stop_lon": "-76.837828",
+                        "stop_name": "RT 197 LAUREL-BOWIE RD & MILLARD DR",
                         "zone_id": "0"
                     }
                 }
             ],
-            "name": "RT 197 LAUREL-BOWIE RD & SNOWDEN RD",
-            "onestopId": "s-dqcq5t2wpu-rt197laurelbowie~snowden",
+            "name": "RT 197 LAUREL-BOWIE RD & MILLARD DR",
+            "onestopId": "s-dqcq5tbrhy-rt197laurelbowie~millard",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -41,7 +41,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-40124",
+                    "identifier": "f-f-wmata-s-40124",
                     "tags": {
                         "stop_code": "3004274",
                         "stop_desc": "",
@@ -65,6 +65,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.83735,
+                    39.053333
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-40031",
+                    "tags": {
+                        "stop_code": "3004164",
+                        "stop_desc": "",
+                        "stop_id": "40031",
+                        "stop_lat": "39.053333",
+                        "stop_lon": "-76.837350",
+                        "stop_name": "RT 197 LAUREL-BOWIE RD & SNOWDEN RD",
+                        "zone_id": "0"
+                    }
+                }
+            ],
+            "name": "RT 197 LAUREL-BOWIE RD & SNOWDEN RD",
+            "onestopId": "s-dqcq5t2wpu-rt197laurelbowie~snowden",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.839628,
                     39.064179
                 ],
@@ -72,7 +103,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28472",
+                    "identifier": "f-f-wmata-s-28472",
                     "tags": {
                         "stop_code": "3002517",
                         "stop_desc": "",
@@ -86,37 +117,6 @@
             ],
             "name": "RT 197 LAUREL-BOWIE RD & MURKIRK RD",
             "onestopId": "s-dqcq5rrj6f-rt197laurelbowie~murkirk",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.837828,
-                    39.056259
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-28462",
-                    "tags": {
-                        "stop_code": "3002514",
-                        "stop_desc": "",
-                        "stop_id": "28462",
-                        "stop_lat": "39.056259",
-                        "stop_lon": "-76.837828",
-                        "stop_name": "RT 197 LAUREL-BOWIE RD & MILLARD DR",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "RT 197 LAUREL-BOWIE RD & MILLARD DR",
-            "onestopId": "s-dqcq5tbrhy-rt197laurelbowie~millard",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"

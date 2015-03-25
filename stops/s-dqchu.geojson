@@ -3,27 +3,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.149443,
-                    38.841162
+                    -77.130081,
+                    38.805889
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26378",
+                    "identifier": "f-f-wmata-s-25922",
                     "tags": {
-                        "stop_code": "5000907",
+                        "stop_code": "4000031",
                         "stop_desc": "",
-                        "stop_id": "26378",
-                        "stop_lat": "38.841162",
-                        "stop_lon": "-77.149443",
-                        "stop_name": "COLUMBIA PK & AQUA TERR",
+                        "stop_id": "25922",
+                        "stop_lat": "38.805889",
+                        "stop_lon": "-77.130081",
+                        "stop_name": "S PICKETT ST & #600",
                         "zone_id": "0"
                     }
                 }
             ],
-            "name": "COLUMBIA PK & AQUA TERR",
-            "onestopId": "s-dqchuqv6pt-columbiapk~aquaterr",
+            "name": "S PICKETT ST & #600",
+            "onestopId": "s-dqchub7sdy-spickett~600",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.137022,
+                    38.821298
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-11687",
+                    "tags": {
+                        "stop_code": "4000239",
+                        "stop_desc": "",
+                        "stop_id": "11687",
+                        "stop_lat": "38.821298",
+                        "stop_lon": "-77.137022",
+                        "stop_name": "BEAUREGARD ST & QUANTRELL AV ",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "BEAUREGARD ST & QUANTRELL AV ",
+            "onestopId": "s-dqchuenw3n-beauregard~quantrell",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -41,7 +72,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-6432",
+                    "identifier": "f-f-wmata-s-6432",
                     "tags": {
                         "stop_code": "4000132",
                         "stop_desc": "",
@@ -72,7 +103,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-14390",
+                    "identifier": "f-f-wmata-s-14390",
                     "tags": {
                         "stop_code": "5002218",
                         "stop_desc": "",
@@ -103,7 +134,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-10739",
+                    "identifier": "f-f-wmata-s-10739",
                     "tags": {
                         "stop_code": "4000205",
                         "stop_desc": "",
@@ -134,7 +165,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9760",
+                    "identifier": "f-f-wmata-s-9760",
                     "tags": {
                         "stop_code": "5000896",
                         "stop_desc": "",
@@ -158,27 +189,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.129888,
-                    38.808783
+                    -77.154757,
+                    38.804017
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11710",
+                    "identifier": "f-f-wmata-s-10826",
                     "tags": {
-                        "stop_code": "4000459",
+                        "stop_code": "5000427",
                         "stop_desc": "",
-                        "stop_id": "11710",
-                        "stop_lat": "38.808783",
-                        "stop_lon": "-77.129888",
-                        "stop_name": "ESSEX HOUSE APTS;375 REYNOLDS ST",
-                        "zone_id": "1"
+                        "stop_id": "10826",
+                        "stop_lat": "38.804017",
+                        "stop_lon": "-77.154757",
+                        "stop_name": "INDIAN RUN PW & EDSALL RD",
+                        "zone_id": "2"
                     }
                 }
             ],
-            "name": "ESSEX HOUSE APTS;375 REYNOLDS ST",
-            "onestopId": "s-dqchubgtx3-essexhouseapts375reynolds",
+            "name": "INDIAN RUN PW & EDSALL RD",
+            "onestopId": "s-dqchu219gc-indianrunpw~edsall",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -196,7 +227,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-8470",
+                    "identifier": "f-f-wmata-s-8470",
                     "tags": {
                         "stop_code": "4000273",
                         "stop_desc": "",
@@ -220,6 +251,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -77.161496,
+                    38.837676
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-9790",
+                    "tags": {
+                        "stop_code": "5000872",
+                        "stop_desc": "",
+                        "stop_id": "9790",
+                        "stop_lat": "38.837676",
+                        "stop_lon": "-77.161496",
+                        "stop_name": "COLUMBIA PI & DOWNING ST",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "COLUMBIA PI & DOWNING ST",
+            "onestopId": "s-dqchunhtyg-columbiapi~downing",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.124506,
                     38.816913
                 ],
@@ -227,7 +289,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26027",
+                    "identifier": "f-f-wmata-s-26027",
                     "tags": {
                         "stop_code": "4000192",
                         "stop_desc": "",
@@ -258,7 +320,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12030",
+                    "identifier": "f-f-wmata-s-12030",
                     "tags": {
                         "stop_code": "4000259",
                         "stop_desc": "",
@@ -289,7 +351,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9799",
+                    "identifier": "f-f-wmata-s-9799",
                     "tags": {
                         "stop_code": "5000967",
                         "stop_desc": "",
@@ -320,7 +382,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-23816",
+                    "identifier": "f-f-wmata-s-23816",
                     "tags": {
                         "stop_code": "4000237",
                         "stop_desc": "",
@@ -351,7 +413,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-10827",
+                    "identifier": "f-f-wmata-s-10827",
                     "tags": {
                         "stop_code": "5000433",
                         "stop_desc": "",
@@ -382,7 +444,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12516",
+                    "identifier": "f-f-wmata-s-12516",
                     "tags": {
                         "stop_code": "4000068",
                         "stop_desc": "",
@@ -413,7 +475,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26116",
+                    "identifier": "f-f-wmata-s-26116",
                     "tags": {
                         "stop_code": "4000277",
                         "stop_desc": "",
@@ -437,6 +499,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -77.132468,
+                    38.824701
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-9271",
+                    "tags": {
+                        "stop_code": "4000282",
+                        "stop_desc": "",
+                        "stop_id": "9271",
+                        "stop_lat": "38.824701",
+                        "stop_lon": "-77.132468",
+                        "stop_name": "BEAUREGARD ST & MORGAN ST",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "BEAUREGARD ST & MORGAN ST",
+            "onestopId": "s-dqchugcf70-beauregard~morgan",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.139912,
                     38.812405
                 ],
@@ -444,7 +537,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12511",
+                    "identifier": "f-f-wmata-s-12511",
                     "tags": {
                         "stop_code": "4000133",
                         "stop_desc": "",
@@ -475,7 +568,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26072",
+                    "identifier": "f-f-wmata-s-26072",
                     "tags": {
                         "stop_code": "5000614",
                         "stop_desc": "",
@@ -506,7 +599,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9275",
+                    "identifier": "f-f-wmata-s-9275",
                     "tags": {
                         "stop_code": "4000336",
                         "stop_desc": "",
@@ -530,27 +623,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.140589,
-                    38.845185
+                    -77.155313,
+                    38.820865
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26438",
+                    "identifier": "f-f-wmata-s-26067",
                     "tags": {
-                        "stop_code": "5000947",
+                        "stop_code": "5000606",
                         "stop_desc": "",
-                        "stop_id": "26438",
-                        "stop_lat": "38.845185",
-                        "stop_lon": "-77.140589",
-                        "stop_name": "COLUMBIA PK & BLAIR RD",
+                        "stop_id": "26067",
+                        "stop_lat": "38.820865",
+                        "stop_lon": "-77.155313",
+                        "stop_name": "RT 236 LITTLE RIVER TPKE & MERRITT RD",
                         "zone_id": "0"
                     }
                 }
             ],
-            "name": "COLUMBIA PK & BLAIR RD",
-            "onestopId": "s-dqchuxectg-columbiapk~blair",
+            "name": "RT 236 LITTLE RIVER TPKE & MERRITT RD",
+            "onestopId": "s-dqchu715yv-rt236littlerivertpke~merritt",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -568,7 +661,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9273",
+                    "identifier": "f-f-wmata-s-9273",
                     "tags": {
                         "stop_code": "4000316",
                         "stop_desc": "",
@@ -599,7 +692,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-8681",
+                    "identifier": "f-f-wmata-s-8681",
                     "tags": {
                         "stop_code": "4000217",
                         "stop_desc": "",
@@ -630,7 +723,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9701",
+                    "identifier": "f-f-wmata-s-9701",
                     "tags": {
                         "stop_code": "4000274",
                         "stop_desc": "",
@@ -654,27 +747,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.13878,
-                    38.82455
+                    -77.147957,
+                    38.820147
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11344",
+                    "identifier": "f-f-wmata-s-11105",
                     "tags": {
-                        "stop_code": "4000280",
+                        "stop_code": "5000599",
                         "stop_desc": "",
-                        "stop_id": "11344",
-                        "stop_lat": "38.824550",
-                        "stop_lon": "-77.138780",
-                        "stop_name": "MORGAN ST & BANKS PL",
+                        "stop_id": "11105",
+                        "stop_lat": "38.820147",
+                        "stop_lon": "-77.147957",
+                        "stop_name": "SOUTHLAND AV & KING LOUIS DR",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "MORGAN ST & BANKS PL",
-            "onestopId": "s-dqchuev32h-morgan~bankspl",
+            "name": "SOUTHLAND AV & KING LOUIS DR",
+            "onestopId": "s-dqchu6yxdr-southland~kinglouis",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -692,7 +785,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9467",
+                    "identifier": "f-f-wmata-s-9467",
                     "tags": {
                         "stop_code": "5001751",
                         "stop_desc": "",
@@ -716,27 +809,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.154757,
-                    38.804017
+                    -77.129888,
+                    38.808783
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-10826",
+                    "identifier": "f-f-wmata-s-11710",
                     "tags": {
-                        "stop_code": "5000427",
+                        "stop_code": "4000459",
                         "stop_desc": "",
-                        "stop_id": "10826",
-                        "stop_lat": "38.804017",
-                        "stop_lon": "-77.154757",
-                        "stop_name": "INDIAN RUN PW & EDSALL RD",
-                        "zone_id": "2"
+                        "stop_id": "11710",
+                        "stop_lat": "38.808783",
+                        "stop_lon": "-77.129888",
+                        "stop_name": "ESSEX HOUSE APTS;375 REYNOLDS ST",
+                        "zone_id": "1"
                     }
                 }
             ],
-            "name": "INDIAN RUN PW & EDSALL RD",
-            "onestopId": "s-dqchu219gc-indianrunpw~edsall",
+            "name": "ESSEX HOUSE APTS;375 REYNOLDS ST",
+            "onestopId": "s-dqchubgtx3-essexhouseapts375reynolds",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -754,7 +847,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26066",
+                    "identifier": "f-f-wmata-s-26066",
                     "tags": {
                         "stop_code": "5000605",
                         "stop_desc": "",
@@ -785,7 +878,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26035",
+                    "identifier": "f-f-wmata-s-26035",
                     "tags": {
                         "stop_code": "5000578",
                         "stop_desc": "",
@@ -816,7 +909,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29202",
+                    "identifier": "f-f-wmata-s-29202",
                     "tags": {
                         "stop_code": "5002022",
                         "stop_desc": "",
@@ -847,7 +940,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-31525",
+                    "identifier": "f-f-wmata-s-31525",
                     "tags": {
                         "stop_code": "5004576",
                         "stop_desc": "",
@@ -878,7 +971,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26042",
+                    "identifier": "f-f-wmata-s-26042",
                     "tags": {
                         "stop_code": "4000219",
                         "stop_desc": "",
@@ -902,27 +995,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.137022,
-                    38.821298
+                    -77.137202,
+                    38.846848
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11687",
+                    "identifier": "f-f-wmata-s-26462",
                     "tags": {
-                        "stop_code": "4000239",
+                        "stop_code": "5000964",
                         "stop_desc": "",
-                        "stop_id": "11687",
-                        "stop_lat": "38.821298",
-                        "stop_lon": "-77.137022",
-                        "stop_name": "BEAUREGARD ST & QUANTRELL AV ",
-                        "zone_id": "1"
+                        "stop_id": "26462",
+                        "stop_lat": "38.846848",
+                        "stop_lon": "-77.137202",
+                        "stop_name": "COLUMBIA PK & BARCROFT VIEW TERRACE",
+                        "zone_id": "0"
                     }
                 }
             ],
-            "name": "BEAUREGARD ST & QUANTRELL AV ",
-            "onestopId": "s-dqchuenw3n-beauregard~quantrell",
+            "name": "COLUMBIA PK & BARCROFT VIEW TERRACE",
+            "onestopId": "s-dqchuxy7kc-columbiapk~barcroftviewterrace",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -940,7 +1033,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25966",
+                    "identifier": "f-f-wmata-s-25966",
                     "tags": {
                         "stop_code": "4000085",
                         "stop_desc": "",
@@ -964,27 +1057,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.142953,
-                    38.820914
+                    -77.149443,
+                    38.841162
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-2393",
+                    "identifier": "f-f-wmata-s-26378",
                     "tags": {
-                        "stop_code": "5000608",
+                        "stop_code": "5000907",
                         "stop_desc": "",
-                        "stop_id": "2393",
-                        "stop_lat": "38.820914",
-                        "stop_lon": "-77.142953",
-                        "stop_name": "N BEAUREGARD ST & CHAMBLISS ST",
-                        "zone_id": "4"
+                        "stop_id": "26378",
+                        "stop_lat": "38.841162",
+                        "stop_lon": "-77.149443",
+                        "stop_name": "COLUMBIA PK & AQUA TERR",
+                        "zone_id": "0"
                     }
                 }
             ],
-            "name": "N BEAUREGARD ST & CHAMBLISS ST",
-            "onestopId": "s-dqchue4hny-nbeauregard~chambliss",
+            "name": "COLUMBIA PK & AQUA TERR",
+            "onestopId": "s-dqchuqv6pt-columbiapk~aquaterr",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.134597,
+                    38.823188
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-9290",
+                    "tags": {
+                        "stop_code": "4000269",
+                        "stop_desc": "",
+                        "stop_id": "9290",
+                        "stop_lat": "38.823188",
+                        "stop_lon": "-77.134597",
+                        "stop_name": "BEAUREGARD ST & N ARMISTEAD ST",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "BEAUREGARD ST & N ARMISTEAD ST",
+            "onestopId": "s-dqchug833w-beauregard~narmistead",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -1002,7 +1126,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9699",
+                    "identifier": "f-f-wmata-s-9699",
                     "tags": {
                         "stop_code": "5000612",
                         "stop_desc": "",
@@ -1033,7 +1157,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11997",
+                    "identifier": "f-f-wmata-s-11997",
                     "tags": {
                         "stop_code": "4000129",
                         "stop_desc": "",
@@ -1064,7 +1188,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9788",
+                    "identifier": "f-f-wmata-s-9788",
                     "tags": {
                         "stop_code": "5001928",
                         "stop_desc": "",
@@ -1095,7 +1219,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9466",
+                    "identifier": "f-f-wmata-s-9466",
                     "tags": {
                         "stop_code": "5001752",
                         "stop_desc": "",
@@ -1126,7 +1250,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25952",
+                    "identifier": "f-f-wmata-s-25952",
                     "tags": {
                         "stop_code": "4000069",
                         "stop_desc": "",
@@ -1150,37 +1274,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.16153,
-                    38.83741
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-9764",
-                    "tags": {
-                        "stop_code": "5000867",
-                        "stop_desc": "",
-                        "stop_id": "9764",
-                        "stop_lat": "38.837410",
-                        "stop_lon": "-77.161530",
-                        "stop_name": "COLUMBIA PI & DOWNING ST",
-                        "zone_id": "2"
-                    }
-                }
-            ],
-            "name": "COLUMBIA PI & DOWNING ST",
-            "onestopId": "s-dqchunhsq1-columbiapi~downing",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.141598,
                     38.823375
                 ],
@@ -1188,7 +1281,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9702",
+                    "identifier": "f-f-wmata-s-9702",
                     "tags": {
                         "stop_code": "5000654",
                         "stop_desc": "",
@@ -1219,7 +1312,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11206",
+                    "identifier": "f-f-wmata-s-11206",
                     "tags": {
                         "stop_code": "5000592",
                         "stop_desc": "",
@@ -1250,7 +1343,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-2857",
+                    "identifier": "f-f-wmata-s-2857",
                     "tags": {
                         "stop_code": "5002023",
                         "stop_desc": "",
@@ -1281,7 +1374,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25945",
+                    "identifier": "f-f-wmata-s-25945",
                     "tags": {
                         "stop_code": "4000057",
                         "stop_desc": "",
@@ -1312,7 +1405,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26456",
+                    "identifier": "f-f-wmata-s-26456",
                     "tags": {
                         "stop_code": "5000960",
                         "stop_desc": "",
@@ -1343,7 +1436,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9763",
+                    "identifier": "f-f-wmata-s-9763",
                     "tags": {
                         "stop_code": "5000855",
                         "stop_desc": "",
@@ -1367,27 +1460,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.134597,
-                    38.823188
+                    -77.142953,
+                    38.820914
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9290",
+                    "identifier": "f-f-wmata-s-2393",
                     "tags": {
-                        "stop_code": "4000269",
+                        "stop_code": "5000608",
                         "stop_desc": "",
-                        "stop_id": "9290",
-                        "stop_lat": "38.823188",
-                        "stop_lon": "-77.134597",
-                        "stop_name": "BEAUREGARD ST & N ARMISTEAD ST",
-                        "zone_id": "1"
+                        "stop_id": "2393",
+                        "stop_lat": "38.820914",
+                        "stop_lon": "-77.142953",
+                        "stop_name": "N BEAUREGARD ST & CHAMBLISS ST",
+                        "zone_id": "4"
                     }
                 }
             ],
-            "name": "BEAUREGARD ST & N ARMISTEAD ST",
-            "onestopId": "s-dqchug833w-beauregard~narmistead",
+            "name": "N BEAUREGARD ST & CHAMBLISS ST",
+            "onestopId": "s-dqchue4hny-nbeauregard~chambliss",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -1405,7 +1498,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26096",
+                    "identifier": "f-f-wmata-s-26096",
                     "tags": {
                         "stop_code": "5000640",
                         "stop_desc": "",
@@ -1436,7 +1529,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26034",
+                    "identifier": "f-f-wmata-s-26034",
                     "tags": {
                         "stop_code": "5000577",
                         "stop_desc": "",
@@ -1467,7 +1560,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26043",
+                    "identifier": "f-f-wmata-s-26043",
                     "tags": {
                         "stop_code": "5000583",
                         "stop_desc": "",
@@ -1498,7 +1591,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-30040",
+                    "identifier": "f-f-wmata-s-30040",
                     "tags": {
                         "stop_code": "4000576",
                         "stop_desc": "",
@@ -1522,37 +1615,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.130081,
-                    38.805889
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-25922",
-                    "tags": {
-                        "stop_code": "4000031",
-                        "stop_desc": "",
-                        "stop_id": "25922",
-                        "stop_lat": "38.805889",
-                        "stop_lon": "-77.130081",
-                        "stop_name": "S PICKETT ST & #600",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "S PICKETT ST & #600",
-            "onestopId": "s-dqchub7sdy-spickett~600",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.135741,
                     38.847489
                 ],
@@ -1560,7 +1622,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9800",
+                    "identifier": "f-f-wmata-s-9800",
                     "tags": {
                         "stop_code": "5000976",
                         "stop_desc": "",
@@ -1591,7 +1653,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9700",
+                    "identifier": "f-f-wmata-s-9700",
                     "tags": {
                         "stop_code": "5000648",
                         "stop_desc": "",
@@ -1615,27 +1677,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.155313,
-                    38.820865
+                    -77.140589,
+                    38.845185
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26067",
+                    "identifier": "f-f-wmata-s-26438",
                     "tags": {
-                        "stop_code": "5000606",
+                        "stop_code": "5000947",
                         "stop_desc": "",
-                        "stop_id": "26067",
-                        "stop_lat": "38.820865",
-                        "stop_lon": "-77.155313",
-                        "stop_name": "RT 236 LITTLE RIVER TPKE & MERRITT RD",
+                        "stop_id": "26438",
+                        "stop_lat": "38.845185",
+                        "stop_lon": "-77.140589",
+                        "stop_name": "COLUMBIA PK & BLAIR RD",
                         "zone_id": "0"
                     }
                 }
             ],
-            "name": "RT 236 LITTLE RIVER TPKE & MERRITT RD",
-            "onestopId": "s-dqchu715yv-rt236littlerivertpke~merritt",
+            "name": "COLUMBIA PK & BLAIR RD",
+            "onestopId": "s-dqchuxectg-columbiapk~blair",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -1653,7 +1715,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9797",
+                    "identifier": "f-f-wmata-s-9797",
                     "tags": {
                         "stop_code": "5000928",
                         "stop_desc": "",
@@ -1684,7 +1746,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26049",
+                    "identifier": "f-f-wmata-s-26049",
                     "tags": {
                         "stop_code": "5000590",
                         "stop_desc": "",
@@ -1715,7 +1777,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11816",
+                    "identifier": "f-f-wmata-s-11816",
                     "tags": {
                         "stop_code": "5000954",
                         "stop_desc": "",
@@ -1746,7 +1808,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25914",
+                    "identifier": "f-f-wmata-s-25914",
                     "tags": {
                         "stop_code": "5000442",
                         "stop_desc": "",
@@ -1777,7 +1839,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9794",
+                    "identifier": "f-f-wmata-s-9794",
                     "tags": {
                         "stop_code": "5000892",
                         "stop_desc": "",
@@ -1808,7 +1870,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26232",
+                    "identifier": "f-f-wmata-s-26232",
                     "tags": {
                         "stop_code": "4000341",
                         "stop_desc": "",
@@ -1839,7 +1901,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9270",
+                    "identifier": "f-f-wmata-s-9270",
                     "tags": {
                         "stop_code": "4000267",
                         "stop_desc": "",
@@ -1863,58 +1925,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.146612,
-                    38.811501
+                    -77.166646,
+                    38.837961
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-31527",
+                    "identifier": "f-f-wmata-s-9787",
                     "tags": {
-                        "stop_code": "5000539",
+                        "stop_code": "5000877",
                         "stop_desc": "",
-                        "stop_id": "31527",
-                        "stop_lat": "38.811501",
-                        "stop_lon": "-77.146612",
-                        "stop_name": "STEVENSON AVE & MANCHESTER WAY",
-                        "zone_id": "0"
+                        "stop_id": "9787",
+                        "stop_lat": "38.837961",
+                        "stop_lon": "-77.166646",
+                        "stop_name": "COLUMBIA PI & WHISPERING LA",
+                        "zone_id": "2"
                     }
                 }
             ],
-            "name": "STEVENSON AVE & MANCHESTER WAY",
-            "onestopId": "s-dqchu3rt3s-stevenson~manchester",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -77.150465,
-                    38.819536
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-26052",
-                    "tags": {
-                        "stop_code": "5000593",
-                        "stop_desc": "",
-                        "stop_id": "26052",
-                        "stop_lat": "38.819536",
-                        "stop_lon": "-77.150465",
-                        "stop_name": "RT 236 LITTLE RIVER TPKE & BROOKSIDE DR",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "RT 236 LITTLE RIVER TPKE & BROOKSIDE DR",
-            "onestopId": "s-dqchu6uspy-rt236littlerivertpke~brookside",
+            "name": "COLUMBIA PI & WHISPERING LA",
+            "onestopId": "s-dqchun0zwb-columbiapi~whisperingla",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -1932,7 +1963,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25997",
+                    "identifier": "f-f-wmata-s-25997",
                     "tags": {
                         "stop_code": "4000136",
                         "stop_desc": "",
@@ -1963,7 +1994,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9795",
+                    "identifier": "f-f-wmata-s-9795",
                     "tags": {
                         "stop_code": "5000905",
                         "stop_desc": "",
@@ -1994,7 +2025,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26332",
+                    "identifier": "f-f-wmata-s-26332",
                     "tags": {
                         "stop_code": "5000871",
                         "stop_desc": "",
@@ -2025,7 +2056,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9792",
+                    "identifier": "f-f-wmata-s-9792",
                     "tags": {
                         "stop_code": "5001932",
                         "stop_desc": "",
@@ -2056,7 +2087,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11343",
+                    "identifier": "f-f-wmata-s-11343",
                     "tags": {
                         "stop_code": "4000292",
                         "stop_desc": "",
@@ -2087,7 +2118,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-3719",
+                    "identifier": "f-f-wmata-s-3719",
                     "tags": {
                         "stop_code": "4000046",
                         "stop_desc": "",
@@ -2118,7 +2149,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11714",
+                    "identifier": "f-f-wmata-s-11714",
                     "tags": {
                         "stop_code": "4000079",
                         "stop_desc": "",
@@ -2149,7 +2180,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26026",
+                    "identifier": "f-f-wmata-s-26026",
                     "tags": {
                         "stop_code": "4000191",
                         "stop_desc": "",
@@ -2180,7 +2211,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9272",
+                    "identifier": "f-f-wmata-s-9272",
                     "tags": {
                         "stop_code": "4000299",
                         "stop_desc": "",
@@ -2211,7 +2242,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-23854",
+                    "identifier": "f-f-wmata-s-23854",
                     "tags": {
                         "stop_code": "4000228",
                         "stop_desc": "",
@@ -2242,7 +2273,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11879",
+                    "identifier": "f-f-wmata-s-11879",
                     "tags": {
                         "stop_code": "5000957",
                         "stop_desc": "",
@@ -2273,7 +2304,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29343",
+                    "identifier": "f-f-wmata-s-29343",
                     "tags": {
                         "stop_code": "5002220",
                         "stop_desc": "",
@@ -2297,27 +2328,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.161496,
-                    38.837676
+                    -77.135326,
+                    38.825416
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9790",
+                    "identifier": "f-f-wmata-s-11347",
                     "tags": {
-                        "stop_code": "5000872",
+                        "stop_code": "4000294",
                         "stop_desc": "",
-                        "stop_id": "9790",
-                        "stop_lat": "38.837676",
-                        "stop_lon": "-77.161496",
-                        "stop_name": "COLUMBIA PI & DOWNING ST",
-                        "zone_id": "2"
+                        "stop_id": "11347",
+                        "stop_lat": "38.825416",
+                        "stop_lon": "-77.135326",
+                        "stop_name": "MORGAN ST & N ANDERSON ST",
+                        "zone_id": "1"
                     }
                 }
             ],
-            "name": "COLUMBIA PI & DOWNING ST",
-            "onestopId": "s-dqchunhtyg-columbiapi~downing",
+            "name": "MORGAN ST & N ANDERSON ST",
+            "onestopId": "s-dqchuezy2w-morgan~nanderson",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -2328,27 +2359,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.166646,
-                    38.837961
+                    -77.146612,
+                    38.811501
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9787",
+                    "identifier": "f-f-wmata-s-31527",
                     "tags": {
-                        "stop_code": "5000877",
+                        "stop_code": "5000539",
                         "stop_desc": "",
-                        "stop_id": "9787",
-                        "stop_lat": "38.837961",
-                        "stop_lon": "-77.166646",
-                        "stop_name": "COLUMBIA PI & WHISPERING LA",
-                        "zone_id": "2"
+                        "stop_id": "31527",
+                        "stop_lat": "38.811501",
+                        "stop_lon": "-77.146612",
+                        "stop_name": "STEVENSON AVE & MANCHESTER WAY",
+                        "zone_id": "0"
                     }
                 }
             ],
-            "name": "COLUMBIA PI & WHISPERING LA",
-            "onestopId": "s-dqchun0zwb-columbiapi~whisperingla",
+            "name": "STEVENSON AVE & MANCHESTER WAY",
+            "onestopId": "s-dqchu3rt3s-stevenson~manchester",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -2366,7 +2397,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11072",
+                    "identifier": "f-f-wmata-s-11072",
                     "tags": {
                         "stop_code": "5000649",
                         "stop_desc": "",
@@ -2390,6 +2421,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -77.141875,
+                    38.81785
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-11415",
+                    "tags": {
+                        "stop_code": "5000577",
+                        "stop_desc": "",
+                        "stop_id": "11415",
+                        "stop_lat": "38.817850",
+                        "stop_lon": "-77.141875",
+                        "stop_name": "LITTLE RIVER TP & OASIS DR",
+                        "zone_id": "2"
+                    }
+                }
+            ],
+            "name": "LITTLE RIVER TP & OASIS DR",
+            "onestopId": "s-dqchude425-littlerivertp~oasis",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.16478,
                     38.818955
                 ],
@@ -2397,7 +2459,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9403",
+                    "identifier": "f-f-wmata-s-9403",
                     "tags": {
                         "stop_code": "5001749",
                         "stop_desc": "",
@@ -2428,7 +2490,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26113",
+                    "identifier": "f-f-wmata-s-26113",
                     "tags": {
                         "stop_code": "5000659",
                         "stop_desc": "",
@@ -2459,7 +2521,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29337",
+                    "identifier": "f-f-wmata-s-29337",
                     "tags": {
                         "stop_code": "5002213",
                         "stop_desc": "",
@@ -2490,7 +2552,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9972",
+                    "identifier": "f-f-wmata-s-9972",
                     "tags": {
                         "stop_code": "4000052",
                         "stop_desc": "",
@@ -2521,7 +2583,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-30136",
+                    "identifier": "f-f-wmata-s-30136",
                     "tags": {
                         "stop_code": "4000996",
                         "stop_desc": "",
@@ -2552,7 +2614,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9287",
+                    "identifier": "f-f-wmata-s-9287",
                     "tags": {
                         "stop_code": "4000321",
                         "stop_desc": "",
@@ -2576,89 +2638,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.132468,
-                    38.824701
+                    -77.16153,
+                    38.83741
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9271",
+                    "identifier": "f-f-wmata-s-9764",
                     "tags": {
-                        "stop_code": "4000282",
+                        "stop_code": "5000867",
                         "stop_desc": "",
-                        "stop_id": "9271",
-                        "stop_lat": "38.824701",
-                        "stop_lon": "-77.132468",
-                        "stop_name": "BEAUREGARD ST & MORGAN ST",
-                        "zone_id": "1"
+                        "stop_id": "9764",
+                        "stop_lat": "38.837410",
+                        "stop_lon": "-77.161530",
+                        "stop_name": "COLUMBIA PI & DOWNING ST",
+                        "zone_id": "2"
                     }
                 }
             ],
-            "name": "BEAUREGARD ST & MORGAN ST",
-            "onestopId": "s-dqchugcf70-beauregard~morgan",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -77.133212,
-                    38.807783
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-30132",
-                    "tags": {
-                        "stop_code": "4000668",
-                        "stop_desc": "",
-                        "stop_id": "30132",
-                        "stop_lat": "38.807783",
-                        "stop_lon": "-77.133212",
-                        "stop_name": "VAN DORN ST & EDSALL RD",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "VAN DORN ST & EDSALL RD",
-            "onestopId": "s-dqchub9r9z-vandorn~edsall",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -77.12996,
-                    38.813526
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-26003",
-                    "tags": {
-                        "stop_code": "4000151",
-                        "stop_desc": "",
-                        "stop_id": "26003",
-                        "stop_lat": "38.813526",
-                        "stop_lon": "-77.129960",
-                        "stop_name": "VAN DORN ST & OAKWOOD APTS",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "VAN DORN ST & OAKWOOD APTS",
-            "onestopId": "s-dqchucg9jt-vandorn~oakwoodapts",
+            "name": "COLUMBIA PI & DOWNING ST",
+            "onestopId": "s-dqchunhsq1-columbiapi~downing",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -2676,7 +2676,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12161",
+                    "identifier": "f-f-wmata-s-12161",
                     "tags": {
                         "stop_code": "4000262",
                         "stop_desc": "",
@@ -2700,6 +2700,99 @@
         {
             "geometry": {
                 "coordinates": [
+                    -77.16655,
+                    38.823334
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-26108",
+                    "tags": {
+                        "stop_code": "5000653",
+                        "stop_desc": "",
+                        "stop_id": "26108",
+                        "stop_lat": "38.823334",
+                        "stop_lon": "-77.166550",
+                        "stop_name": "RT 236 LITTLE RIVER TPKE & MINOR LA",
+                        "zone_id": "0"
+                    }
+                }
+            ],
+            "name": "RT 236 LITTLE RIVER TPKE & MINOR LA",
+            "onestopId": "s-dqchu59434-rt236littlerivertpke~minorla",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.12996,
+                    38.813526
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-26003",
+                    "tags": {
+                        "stop_code": "4000151",
+                        "stop_desc": "",
+                        "stop_id": "26003",
+                        "stop_lat": "38.813526",
+                        "stop_lon": "-77.129960",
+                        "stop_name": "VAN DORN ST & OAKWOOD APTS",
+                        "zone_id": "0"
+                    }
+                }
+            ],
+            "name": "VAN DORN ST & OAKWOOD APTS",
+            "onestopId": "s-dqchucg9jt-vandorn~oakwoodapts",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.133212,
+                    38.807783
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-30132",
+                    "tags": {
+                        "stop_code": "4000668",
+                        "stop_desc": "",
+                        "stop_id": "30132",
+                        "stop_lat": "38.807783",
+                        "stop_lon": "-77.133212",
+                        "stop_name": "VAN DORN ST & EDSALL RD",
+                        "zone_id": "0"
+                    }
+                }
+            ],
+            "name": "VAN DORN ST & EDSALL RD",
+            "onestopId": "s-dqchub9r9z-vandorn~edsall",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -77.126388,
                     38.811989
                 ],
@@ -2707,7 +2800,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-8872",
+                    "identifier": "f-f-wmata-s-8872",
                     "tags": {
                         "stop_code": "4000119",
                         "stop_desc": "",
@@ -2738,7 +2831,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11342",
+                    "identifier": "f-f-wmata-s-11342",
                     "tags": {
                         "stop_code": "4000291",
                         "stop_desc": "",
@@ -2769,7 +2862,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25924",
+                    "identifier": "f-f-wmata-s-25924",
                     "tags": {
                         "stop_code": "4000032",
                         "stop_desc": "",
@@ -2800,7 +2893,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-6332",
+                    "identifier": "f-f-wmata-s-6332",
                     "tags": {
                         "stop_code": "4000062",
                         "stop_desc": "",
@@ -2831,7 +2924,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-8682",
+                    "identifier": "f-f-wmata-s-8682",
                     "tags": {
                         "stop_code": "4000218",
                         "stop_desc": "",
@@ -2862,7 +2955,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-2612",
+                    "identifier": "f-f-wmata-s-2612",
                     "tags": {
                         "stop_code": "5000436",
                         "stop_desc": "",
@@ -2893,7 +2986,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9758",
+                    "identifier": "f-f-wmata-s-9758",
                     "tags": {
                         "stop_code": "5000935",
                         "stop_desc": "",
@@ -2924,7 +3017,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-8458",
+                    "identifier": "f-f-wmata-s-8458",
                     "tags": {
                         "stop_code": "4000330",
                         "stop_desc": "",
@@ -2955,7 +3048,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29201",
+                    "identifier": "f-f-wmata-s-29201",
                     "tags": {
                         "stop_code": "5002021",
                         "stop_desc": "",
@@ -2986,7 +3079,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26089",
+                    "identifier": "f-f-wmata-s-26089",
                     "tags": {
                         "stop_code": "5000634",
                         "stop_desc": "",
@@ -3017,7 +3110,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11204",
+                    "identifier": "f-f-wmata-s-11204",
                     "tags": {
                         "stop_code": "4000212",
                         "stop_desc": "",
@@ -3048,7 +3141,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12421",
+                    "identifier": "f-f-wmata-s-12421",
                     "tags": {
                         "stop_code": "4000142",
                         "stop_desc": "",
@@ -3079,7 +3172,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26111",
+                    "identifier": "f-f-wmata-s-26111",
                     "tags": {
                         "stop_code": "5000656",
                         "stop_desc": "",
@@ -3110,7 +3203,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25939",
+                    "identifier": "f-f-wmata-s-25939",
                     "tags": {
                         "stop_code": "4000045",
                         "stop_desc": "",
@@ -3141,7 +3234,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11099",
+                    "identifier": "f-f-wmata-s-11099",
                     "tags": {
                         "stop_code": "5000598",
                         "stop_desc": "",
@@ -3172,7 +3265,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12029",
+                    "identifier": "f-f-wmata-s-12029",
                     "tags": {
                         "stop_code": "4000256",
                         "stop_desc": "",
@@ -3196,37 +3289,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.135326,
-                    38.825416
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-11347",
-                    "tags": {
-                        "stop_code": "4000294",
-                        "stop_desc": "",
-                        "stop_id": "11347",
-                        "stop_lat": "38.825416",
-                        "stop_lon": "-77.135326",
-                        "stop_name": "MORGAN ST & N ANDERSON ST",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "MORGAN ST & N ANDERSON ST",
-            "onestopId": "s-dqchuezy2w-morgan~nanderson",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.147322,
                     38.821459
                 ],
@@ -3234,7 +3296,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11109",
+                    "identifier": "f-f-wmata-s-11109",
                     "tags": {
                         "stop_code": "5000620",
                         "stop_desc": "",
@@ -3265,7 +3327,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9765",
+                    "identifier": "f-f-wmata-s-9765",
                     "tags": {
                         "stop_code": "5000876",
                         "stop_desc": "",
@@ -3296,7 +3358,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26093",
+                    "identifier": "f-f-wmata-s-26093",
                     "tags": {
                         "stop_code": "5000637",
                         "stop_desc": "",
@@ -3327,7 +3389,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11688",
+                    "identifier": "f-f-wmata-s-11688",
                     "tags": {
                         "stop_code": "4000467",
                         "stop_desc": "",
@@ -3358,7 +3420,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12162",
+                    "identifier": "f-f-wmata-s-12162",
                     "tags": {
                         "stop_code": "4000224",
                         "stop_desc": "",
@@ -3389,7 +3451,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9402",
+                    "identifier": "f-f-wmata-s-9402",
                     "tags": {
                         "stop_code": "5001750",
                         "stop_desc": "",
@@ -3420,7 +3482,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9762",
+                    "identifier": "f-f-wmata-s-9762",
                     "tags": {
                         "stop_code": "5000852",
                         "stop_desc": "",
@@ -3451,7 +3513,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-6298",
+                    "identifier": "f-f-wmata-s-6298",
                     "tags": {
                         "stop_code": "4000049",
                         "stop_desc": "",
@@ -3482,7 +3544,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-10744",
+                    "identifier": "f-f-wmata-s-10744",
                     "tags": {
                         "stop_code": "4000210",
                         "stop_desc": "",
@@ -3513,7 +3575,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9766",
+                    "identifier": "f-f-wmata-s-9766",
                     "tags": {
                         "stop_code": "5000874",
                         "stop_desc": "",
@@ -3544,7 +3606,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26001",
+                    "identifier": "f-f-wmata-s-26001",
                     "tags": {
                         "stop_code": "4000148",
                         "stop_desc": "",
@@ -3575,7 +3637,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26017",
+                    "identifier": "f-f-wmata-s-26017",
                     "tags": {
                         "stop_code": "4000183",
                         "stop_desc": "",
@@ -3606,7 +3668,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25959",
+                    "identifier": "f-f-wmata-s-25959",
                     "tags": {
                         "stop_code": "4000077",
                         "stop_desc": "",
@@ -3637,7 +3699,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9975",
+                    "identifier": "f-f-wmata-s-9975",
                     "tags": {
                         "stop_code": "4000059",
                         "stop_desc": "",
@@ -3668,7 +3730,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9791",
+                    "identifier": "f-f-wmata-s-9791",
                     "tags": {
                         "stop_code": "5000856",
                         "stop_desc": "",
@@ -3699,7 +3761,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26054",
+                    "identifier": "f-f-wmata-s-26054",
                     "tags": {
                         "stop_code": "5000594",
                         "stop_desc": "",
@@ -3730,7 +3792,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9798",
+                    "identifier": "f-f-wmata-s-9798",
                     "tags": {
                         "stop_code": "5000946",
                         "stop_desc": "",
@@ -3761,7 +3823,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-31529",
+                    "identifier": "f-f-wmata-s-31529",
                     "tags": {
                         "stop_code": "4000146",
                         "stop_desc": "",
@@ -3792,7 +3854,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26048",
+                    "identifier": "f-f-wmata-s-26048",
                     "tags": {
                         "stop_code": "5000587",
                         "stop_desc": "",
@@ -3823,7 +3885,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26078",
+                    "identifier": "f-f-wmata-s-26078",
                     "tags": {
                         "stop_code": "5000618",
                         "stop_desc": "",
@@ -3854,7 +3916,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-6513",
+                    "identifier": "f-f-wmata-s-6513",
                     "tags": {
                         "stop_code": "4000167",
                         "stop_desc": "",
@@ -3885,7 +3947,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12987",
+                    "identifier": "f-f-wmata-s-12987",
                     "tags": {
                         "stop_code": "4000995",
                         "stop_desc": "",
@@ -3916,7 +3978,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26002",
+                    "identifier": "f-f-wmata-s-26002",
                     "tags": {
                         "stop_code": "4000149",
                         "stop_desc": "",
@@ -3940,27 +4002,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.147957,
-                    38.820147
+                    -77.13878,
+                    38.82455
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11105",
+                    "identifier": "f-f-wmata-s-11344",
                     "tags": {
-                        "stop_code": "5000599",
+                        "stop_code": "4000280",
                         "stop_desc": "",
-                        "stop_id": "11105",
-                        "stop_lat": "38.820147",
-                        "stop_lon": "-77.147957",
-                        "stop_name": "SOUTHLAND AV & KING LOUIS DR",
+                        "stop_id": "11344",
+                        "stop_lat": "38.824550",
+                        "stop_lon": "-77.138780",
+                        "stop_name": "MORGAN ST & BANKS PL",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "SOUTHLAND AV & KING LOUIS DR",
-            "onestopId": "s-dqchu6yxdr-southland~kinglouis",
+            "name": "MORGAN ST & BANKS PL",
+            "onestopId": "s-dqchuev32h-morgan~bankspl",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -3978,7 +4040,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12179",
+                    "identifier": "f-f-wmata-s-12179",
                     "tags": {
                         "stop_code": "4000460",
                         "stop_desc": "",
@@ -4002,27 +4064,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.16655,
-                    38.823334
+                    -77.142754,
+                    38.82229
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26108",
+                    "identifier": "f-f-wmata-s-26088",
                     "tags": {
-                        "stop_code": "5000653",
+                        "stop_code": "5000633",
                         "stop_desc": "",
-                        "stop_id": "26108",
-                        "stop_lat": "38.823334",
-                        "stop_lon": "-77.166550",
-                        "stop_name": "RT 236 LITTLE RIVER TPKE & MINOR LA",
+                        "stop_id": "26088",
+                        "stop_lat": "38.822290",
+                        "stop_lon": "-77.142754",
+                        "stop_name": "N CHAMBLISS ST & LINCOLNIA RD",
                         "zone_id": "0"
                     }
                 }
             ],
-            "name": "RT 236 LITTLE RIVER TPKE & MINOR LA",
-            "onestopId": "s-dqchu59434-rt236littlerivertpke~minorla",
+            "name": "N CHAMBLISS ST & LINCOLNIA RD",
+            "onestopId": "s-dqchue6k5x-nchambliss~lincolnia",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -4040,7 +4102,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9761",
+                    "identifier": "f-f-wmata-s-9761",
                     "tags": {
                         "stop_code": "5000864",
                         "stop_desc": "",
@@ -4071,7 +4133,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25930",
+                    "identifier": "f-f-wmata-s-25930",
                     "tags": {
                         "stop_code": "4000037",
                         "stop_desc": "",
@@ -4102,7 +4164,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9971",
+                    "identifier": "f-f-wmata-s-9971",
                     "tags": {
                         "stop_code": "4000054",
                         "stop_desc": "",
@@ -4126,37 +4188,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.142754,
-                    38.82229
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-26088",
-                    "tags": {
-                        "stop_code": "5000633",
-                        "stop_desc": "",
-                        "stop_id": "26088",
-                        "stop_lat": "38.822290",
-                        "stop_lon": "-77.142754",
-                        "stop_name": "N CHAMBLISS ST & LINCOLNIA RD",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "N CHAMBLISS ST & LINCOLNIA RD",
-            "onestopId": "s-dqchue6k5x-nchambliss~lincolnia",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.127098,
                     38.811474
                 ],
@@ -4164,7 +4195,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29310",
+                    "identifier": "f-f-wmata-s-29310",
                     "tags": {
                         "stop_code": "4000484",
                         "stop_desc": "",
@@ -4195,7 +4226,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-6404",
+                    "identifier": "f-f-wmata-s-6404",
                     "tags": {
                         "stop_code": "4000126",
                         "stop_desc": "",
@@ -4226,7 +4257,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26082",
+                    "identifier": "f-f-wmata-s-26082",
                     "tags": {
                         "stop_code": "5000622",
                         "stop_desc": "",
@@ -4257,7 +4288,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9288",
+                    "identifier": "f-f-wmata-s-9288",
                     "tags": {
                         "stop_code": "4000301",
                         "stop_desc": "",
@@ -4288,7 +4319,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-31513",
+                    "identifier": "f-f-wmata-s-31513",
                     "tags": {
                         "stop_code": "4000143",
                         "stop_desc": "",
@@ -4312,37 +4343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.137202,
-                    38.846848
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-26462",
-                    "tags": {
-                        "stop_code": "5000964",
-                        "stop_desc": "",
-                        "stop_id": "26462",
-                        "stop_lat": "38.846848",
-                        "stop_lon": "-77.137202",
-                        "stop_name": "COLUMBIA PK & BARCROFT VIEW TERRACE",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "COLUMBIA PK & BARCROFT VIEW TERRACE",
-            "onestopId": "s-dqchuxy7kc-columbiapk~barcroftviewterrace",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.125261,
                     38.847369
                 ],
@@ -4350,7 +4350,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26471",
+                    "identifier": "f-f-wmata-s-26471",
                     "tags": {
                         "stop_code": "5000972",
                         "stop_desc": "",
@@ -4381,7 +4381,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26007",
+                    "identifier": "f-f-wmata-s-26007",
                     "tags": {
                         "stop_code": "4000161",
                         "stop_desc": "",
@@ -4412,7 +4412,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-6388",
+                    "identifier": "f-f-wmata-s-6388",
                     "tags": {
                         "stop_code": "4000020",
                         "stop_desc": "",
@@ -4443,7 +4443,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25969",
+                    "identifier": "f-f-wmata-s-25969",
                     "tags": {
                         "stop_code": "4000090",
                         "stop_desc": "",
@@ -4467,27 +4467,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.141875,
-                    38.81785
+                    -77.150465,
+                    38.819536
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11415",
+                    "identifier": "f-f-wmata-s-26052",
                     "tags": {
-                        "stop_code": "5000577",
+                        "stop_code": "5000593",
                         "stop_desc": "",
-                        "stop_id": "11415",
-                        "stop_lat": "38.817850",
-                        "stop_lon": "-77.141875",
-                        "stop_name": "LITTLE RIVER TP & OASIS DR",
-                        "zone_id": "2"
+                        "stop_id": "26052",
+                        "stop_lat": "38.819536",
+                        "stop_lon": "-77.150465",
+                        "stop_name": "RT 236 LITTLE RIVER TPKE & BROOKSIDE DR",
+                        "zone_id": "0"
                     }
                 }
             ],
-            "name": "LITTLE RIVER TP & OASIS DR",
-            "onestopId": "s-dqchude425-littlerivertp~oasis",
+            "name": "RT 236 LITTLE RIVER TPKE & BROOKSIDE DR",
+            "onestopId": "s-dqchu6uspy-rt236littlerivertpke~brookside",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"
@@ -4505,7 +4505,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-8873",
+                    "identifier": "f-f-wmata-s-8873",
                     "tags": {
                         "stop_code": "4000124",
                         "stop_desc": "",
@@ -4536,7 +4536,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-12163",
+                    "identifier": "f-f-wmata-s-12163",
                     "tags": {
                         "stop_code": "4000229",
                         "stop_desc": "",
@@ -4567,7 +4567,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-9289",
+                    "identifier": "f-f-wmata-s-9289",
                     "tags": {
                         "stop_code": "4000285",
                         "stop_desc": "",
@@ -4598,7 +4598,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29196",
+                    "identifier": "f-f-wmata-s-29196",
                     "tags": {
                         "stop_code": "5002020",
                         "stop_desc": "",
@@ -4629,7 +4629,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-25900",
+                    "identifier": "f-f-wmata-s-25900",
                     "tags": {
                         "stop_code": "4000023",
                         "stop_desc": "",
@@ -4660,7 +4660,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-26468",
+                    "identifier": "f-f-wmata-s-26468",
                     "tags": {
                         "stop_code": "5000969",
                         "stop_desc": "",
@@ -4691,7 +4691,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-11346",
+                    "identifier": "f-f-wmata-s-11346",
                     "tags": {
                         "stop_code": "4000281",
                         "stop_desc": "",

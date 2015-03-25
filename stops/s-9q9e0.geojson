@@ -3,37 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.629097736,
-                    37.103657135
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3450",
-                    "tags": {
-                        "stop_code": "63450",
-                        "stop_desc": "",
-                        "stop_id": "3450",
-                        "stop_lat": "37.103657134999999",
-                        "stop_lon": "-121.62909773600001",
-                        "stop_name": "MONTEREY & JOHN WILSON WAY",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "MONTEREY & JOHN WILSON WAY",
-            "onestopId": "s-9q9e0682kx-monterey~johnwilson",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.626972312,
                     37.102314149
                 ],
@@ -55,6 +24,37 @@
             ],
             "name": "MONTEREY & WEST MIDDLE",
             "onestopId": "s-9q9e063bwh-monterey~westmiddle",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.629097736,
+                    37.103657135
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3450",
+                    "tags": {
+                        "stop_code": "63450",
+                        "stop_desc": "",
+                        "stop_id": "3450",
+                        "stop_lat": "37.103657134999999",
+                        "stop_lon": "-121.62909773600001",
+                        "stop_name": "MONTEREY & JOHN WILSON WAY",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "MONTEREY & JOHN WILSON WAY",
+            "onestopId": "s-9q9e0682kx-monterey~johnwilson",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

@@ -183,32 +183,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.568739,
-                    45.405908
+                    -122.590025,
+                    45.409977
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8073",
+                    "identifier": "f-trimet-s-6187",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8073",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 8073)",
-                        "stop_id": "8073",
-                        "stop_lat": "45.405908",
-                        "stop_lon": "-122.568739",
-                        "stop_name": "SE 82nd Dr & Greenhouse Square",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8073",
+                        "position": "Opposite",
+                        "stop_code": "6187",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 6187)",
+                        "stop_id": "6187",
+                        "stop_lat": "45.409977",
+                        "stop_lon": "-122.590025",
+                        "stop_name": "SE Webster & Bixel",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6187",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 82nd Dr & Greenhouse Square",
-            "onestopId": "s-c20f6cuht6-se82nd~greenhousesquare",
+            "name": "SE Webster & Bixel",
+            "onestopId": "s-c20f66ssm3-sewebster~bixel",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -327,32 +327,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.577507,
-                    45.413523
+                    -122.589094,
+                    45.407307
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11966",
+                    "identifier": "f-trimet-s-6203",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "11966",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11966)",
-                        "stop_id": "11966",
-                        "stop_lat": "45.413523",
-                        "stop_lon": "-122.577507",
-                        "stop_name": "SE Johnson & Cypress",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11966",
+                        "stop_code": "6203",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 6203)",
+                        "stop_id": "6203",
+                        "stop_lat": "45.407307",
+                        "stop_lon": "-122.589094",
+                        "stop_name": "SE Webster & Mabel",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6203",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Johnson & Cypress",
-            "onestopId": "s-c20f6embcn-sejohnson~cypress",
+            "name": "SE Webster & Mabel",
+            "onestopId": "s-c20f66jkep-sewebster~mabel",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -399,32 +399,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.585845,
-                    45.398717
+                    -122.593404,
+                    45.421347
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8764",
+                    "identifier": "f-trimet-s-6189",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8764",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 8764)",
-                        "stop_id": "8764",
-                        "stop_lat": "45.398717",
-                        "stop_lon": "-122.585845",
-                        "stop_name": "17100 Block SE Webster",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8764",
+                        "position": "Nearside",
+                        "stop_code": "6189",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 6189)",
+                        "stop_id": "6189",
+                        "stop_lat": "45.421347",
+                        "stop_lon": "-122.593404",
+                        "stop_name": "SE Webster & Cavalier Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6189",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "17100 Block SE Webster",
-            "onestopId": "s-c20f62xdwy-17100blocksewebster",
+            "name": "SE Webster & Cavalier Way",
+            "onestopId": "s-c20f6kdnw8-sewebster~cavalier",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.592876,
+                    45.424971
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10644",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "10644",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 10644)",
+                        "stop_id": "10644",
+                        "stop_lat": "45.424971",
+                        "stop_lon": "-122.592876",
+                        "stop_name": "SE Lake & Hwy 224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10644",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Lake & Hwy 224",
+            "onestopId": "s-c20f6m6edu-selake~224",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -831,32 +867,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.568707,
-                    45.435666
+                    -122.599072,
+                    45.429531
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13248",
+                    "identifier": "f-trimet-s-3323",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "13248",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 13248)",
-                        "stop_id": "13248",
-                        "stop_lat": "45.435666",
-                        "stop_lon": "-122.568707",
-                        "stop_name": "Clackamas Town Center Transit Center",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13248",
+                        "stop_code": "3323",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 3323)",
+                        "stop_id": "3323",
+                        "stop_lat": "45.429531",
+                        "stop_lon": "-122.599072",
+                        "stop_name": "6200 Block SE Lake",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3323",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Clackamas Town Center Transit Center",
-            "onestopId": "s-c20f6zk1yn-clackamastowntransit",
+            "name": "6200 Block SE Lake",
+            "onestopId": "s-c20f6nnn4w-6200blockselake",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1119,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.567347,
-                    45.407607
+                    -122.57926,
+                    45.435936
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2915",
+                    "identifier": "f-trimet-s-8006",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "2915",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2915)",
-                        "stop_id": "2915",
-                        "stop_lat": "45.407607",
-                        "stop_lon": "-122.567347",
-                        "stop_name": "SE Hwy 212 & 82nd Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2915",
+                        "stop_code": "8006",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8006)",
+                        "stop_id": "8006",
+                        "stop_lat": "45.435936",
+                        "stop_lon": "-122.57926",
+                        "stop_name": "SE 82nd & McBride ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8006",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 212 & 82nd Dr",
-            "onestopId": "s-c20f6fjnmz-se212~82nd",
+            "name": "SE 82nd & McBride ",
+            "onestopId": "s-c20f6xke80-se82nd~mcbride",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,32 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.592876,
-                    45.424971
+                    -122.573121,
+                    45.408986
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10644",
+                    "identifier": "f-trimet-s-13146",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10644",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 10644)",
-                        "stop_id": "10644",
-                        "stop_lat": "45.424971",
-                        "stop_lon": "-122.592876",
-                        "stop_name": "SE Lake & Hwy 224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10644",
+                        "position": "At",
+                        "stop_code": "13146",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 13146)",
+                        "stop_id": "13146",
+                        "stop_lat": "45.408986",
+                        "stop_lon": "-122.573121",
+                        "stop_name": "15700 Block SE McKinley",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13146",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Lake & Hwy 224",
-            "onestopId": "s-c20f6m6edu-selake~224",
+            "name": "15700 Block SE McKinley",
+            "onestopId": "s-c20f6f2yx2-15700blocksemckinley",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1623,32 +1659,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.585025,
-                    45.436572
+                    -122.604922,
+                    45.430828
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1936",
+                    "identifier": "f-trimet-s-8156",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "1936",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 1936)",
-                        "stop_id": "1936",
-                        "stop_lat": "45.436572",
-                        "stop_lon": "-122.585025",
-                        "stop_name": "11900 Block SE Fuller (La Salle)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1936",
+                        "position": "Opposite",
+                        "stop_code": "8156",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 8156)",
+                        "stop_id": "8156",
+                        "stop_lat": "45.430828",
+                        "stop_lon": "-122.604922",
+                        "stop_name": "5600 Block SE International Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8156",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "11900 Block SE Fuller (La Salle)",
-            "onestopId": "s-c20f6x2r1y-11900blocksefullerlasalle",
+            "name": "5600 Block SE International Way",
+            "onestopId": "s-c20f6n3vf2-5600blockseinternational",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1695,32 +1731,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.589094,
-                    45.407307
+                    -122.577507,
+                    45.413523
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6203",
+                    "identifier": "f-trimet-s-11966",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6203",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 6203)",
-                        "stop_id": "6203",
-                        "stop_lat": "45.407307",
-                        "stop_lon": "-122.589094",
-                        "stop_name": "SE Webster & Mabel",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6203",
+                        "stop_code": "11966",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11966)",
+                        "stop_id": "11966",
+                        "stop_lat": "45.413523",
+                        "stop_lon": "-122.577507",
+                        "stop_name": "SE Johnson & Cypress",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11966",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Webster & Mabel",
-            "onestopId": "s-c20f66jkep-sewebster~mabel",
+            "name": "SE Johnson & Cypress",
+            "onestopId": "s-c20f6embcn-sejohnson~cypress",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1875,42 +1911,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.578918,
-                    45.416226
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11965",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "11965",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11965)",
-                        "stop_id": "11965",
-                        "stop_lat": "45.416226",
-                        "stop_lon": "-122.578918",
-                        "stop_name": "SE Johnson & Thiessen",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11965",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Johnson & Thiessen",
-            "onestopId": "s-c20f6eub8n-sejohnson~thiessen",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.568266,
                     45.410468
                 ],
@@ -1937,6 +1937,42 @@
             ],
             "name": "SE 82nd Dr & Clackamas",
             "onestopId": "s-c20f6fsx0k-se82nd~clackamas",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.578918,
+                    45.416226
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-11965",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "11965",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11965)",
+                        "stop_id": "11965",
+                        "stop_lat": "45.416226",
+                        "stop_lon": "-122.578918",
+                        "stop_name": "SE Johnson & Thiessen",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11965",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Johnson & Thiessen",
+            "onestopId": "s-c20f6eub8n-sejohnson~thiessen",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2271,32 +2307,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.58167,
-                    45.421435
+                    -122.585275,
+                    45.401293
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11962",
+                    "identifier": "f-trimet-s-5541",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "11962",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 11962)",
-                        "stop_id": "11962",
-                        "stop_lat": "45.421435",
-                        "stop_lon": "-122.58167",
-                        "stop_name": "SE Johnson & Lake",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11962",
+                        "position": "Nearside",
+                        "stop_code": "5541",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 5541)",
+                        "stop_id": "5541",
+                        "stop_lat": "45.401293",
+                        "stop_lon": "-122.585275",
+                        "stop_name": "SE Strawberry & Webster",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5541",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Johnson & Lake",
-            "onestopId": "s-c20f6sdz01-sejohnson~lake",
+            "name": "SE Strawberry & Webster",
+            "onestopId": "s-c20f6901sn-sestrawberry~webster",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2739,32 +2775,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.604922,
-                    45.430828
+                    -122.585025,
+                    45.436572
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8156",
+                    "identifier": "f-trimet-s-1936",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8156",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 8156)",
-                        "stop_id": "8156",
-                        "stop_lat": "45.430828",
-                        "stop_lon": "-122.604922",
-                        "stop_name": "5600 Block SE International Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8156",
+                        "position": "At",
+                        "stop_code": "1936",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 1936)",
+                        "stop_id": "1936",
+                        "stop_lat": "45.436572",
+                        "stop_lon": "-122.585025",
+                        "stop_name": "11900 Block SE Fuller (La Salle)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1936",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "5600 Block SE International Way",
-            "onestopId": "s-c20f6n3vf2-5600blockseinternational",
+            "name": "11900 Block SE Fuller (La Salle)",
+            "onestopId": "s-c20f6x2r1y-11900blocksefullerlasalle",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2775,32 +2811,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.57926,
-                    45.435936
+                    -122.567347,
+                    45.407607
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8006",
+                    "identifier": "f-trimet-s-2915",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "8006",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8006)",
-                        "stop_id": "8006",
-                        "stop_lat": "45.435936",
-                        "stop_lon": "-122.57926",
-                        "stop_name": "SE 82nd & McBride ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8006",
+                        "stop_code": "2915",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2915)",
+                        "stop_id": "2915",
+                        "stop_lat": "45.407607",
+                        "stop_lon": "-122.567347",
+                        "stop_name": "SE Hwy 212 & 82nd Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2915",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 82nd & McBride ",
-            "onestopId": "s-c20f6xke80-se82nd~mcbride",
+            "name": "SE Hwy 212 & 82nd Dr",
+            "onestopId": "s-c20f6fjnmz-se212~82nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2955,42 +2991,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.573121,
-                    45.408986
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13146",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13146",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 13146)",
-                        "stop_id": "13146",
-                        "stop_lat": "45.408986",
-                        "stop_lon": "-122.573121",
-                        "stop_name": "15700 Block SE McKinley",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13146",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "15700 Block SE McKinley",
-            "onestopId": "s-c20f6f2yx2-15700blocksemckinley",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.590945,
                     45.432266
                 ],
@@ -3063,32 +3063,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.578916,
-                    45.435764
+                    -122.605935,
+                    45.400392
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8005",
+                    "identifier": "f-trimet-s-4175",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "8005",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 8005)",
-                        "stop_id": "8005",
-                        "stop_lat": "45.435764",
-                        "stop_lon": "-122.578916",
-                        "stop_name": "SE 82nd & McBride",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8005",
+                        "stop_code": "4175",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4175)",
+                        "stop_id": "4175",
+                        "stop_lat": "45.400392",
+                        "stop_lon": "-122.605935",
+                        "stop_name": "SE Oatfield & McNary",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4175",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 82nd & McBride",
-            "onestopId": "s-c20f6xkf80-se82nd~mcbride",
+            "name": "SE Oatfield & McNary",
+            "onestopId": "s-c20f60ch6w-seoatfield~mcnary",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3279,32 +3279,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.57154,
-                    45.397144
+                    -122.592917,
+                    45.4248
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8078",
+                    "identifier": "f-trimet-s-10653",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8078",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8078)",
-                        "stop_id": "8078",
-                        "stop_lat": "45.397144",
-                        "stop_lon": "-122.57154",
-                        "stop_name": "SE 82nd Dr & Manfield Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8078",
+                        "position": "Nearside",
+                        "stop_code": "10653",
+                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 10653)",
+                        "stop_id": "10653",
+                        "stop_lat": "45.4248",
+                        "stop_lon": "-122.592917",
+                        "stop_name": "SE Lake & Hwy 224",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10653",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 82nd Dr & Manfield Ct",
-            "onestopId": "s-c20f6b61s1-se82nd~manfield",
+            "name": "SE Lake & Hwy 224",
+            "onestopId": "s-c20f6m6d9u-selake~224",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3423,32 +3423,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.605935,
-                    45.400392
+                    -122.578916,
+                    45.435764
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4175",
+                    "identifier": "f-trimet-s-8005",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "4175",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4175)",
-                        "stop_id": "4175",
-                        "stop_lat": "45.400392",
-                        "stop_lon": "-122.605935",
-                        "stop_name": "SE Oatfield & McNary",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4175",
+                        "stop_code": "8005",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 8005)",
+                        "stop_id": "8005",
+                        "stop_lat": "45.435764",
+                        "stop_lon": "-122.578916",
+                        "stop_name": "SE 82nd & McBride",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8005",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Oatfield & McNary",
-            "onestopId": "s-c20f60ch6w-seoatfield~mcnary",
+            "name": "SE 82nd & McBride",
+            "onestopId": "s-c20f6xkf80-se82nd~mcbride",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3531,32 +3531,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.599072,
-                    45.429531
+                    -122.568707,
+                    45.435666
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3323",
+                    "identifier": "f-trimet-s-13248",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "3323",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 3323)",
-                        "stop_id": "3323",
-                        "stop_lat": "45.429531",
-                        "stop_lon": "-122.599072",
-                        "stop_name": "6200 Block SE Lake",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3323",
+                        "stop_code": "13248",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 13248)",
+                        "stop_id": "13248",
+                        "stop_lat": "45.435666",
+                        "stop_lon": "-122.568707",
+                        "stop_name": "Clackamas Town Center Transit Center",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13248",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "6200 Block SE Lake",
-            "onestopId": "s-c20f6nnn4w-6200blockselake",
+            "name": "Clackamas Town Center Transit Center",
+            "onestopId": "s-c20f6zk1yn-clackamastowntransit",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3737,6 +3737,42 @@
             ],
             "name": "SE Fuller & Stephanie Ct",
             "onestopId": "s-c20f6x8vyq-sefuller~stephanie",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57154,
+                    45.397144
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8078",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "8078",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8078)",
+                        "stop_id": "8078",
+                        "stop_lat": "45.397144",
+                        "stop_lon": "-122.57154",
+                        "stop_name": "SE 82nd Dr & Manfield Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8078",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 82nd Dr & Manfield Ct",
+            "onestopId": "s-c20f6b61s1-se82nd~manfield",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3999,68 +4035,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.592917,
-                    45.4248
+                    -122.575788,
+                    45.410707
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10653",
+                    "identifier": "f-trimet-s-11958",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10653",
-                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 10653)",
-                        "stop_id": "10653",
-                        "stop_lat": "45.4248",
-                        "stop_lon": "-122.592917",
-                        "stop_name": "SE Lake & Hwy 224",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10653",
+                        "stop_code": "11958",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 11958)",
+                        "stop_id": "11958",
+                        "stop_lat": "45.410707",
+                        "stop_lon": "-122.575788",
+                        "stop_name": "SE Clackamas Rd & Johnson",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11958",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Lake & Hwy 224",
-            "onestopId": "s-c20f6m6d9u-selake~224",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.573312,
-                    45.43731
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-12921",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "12921",
-                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 12921)",
-                        "stop_id": "12921",
-                        "stop_lat": "45.43731",
-                        "stop_lon": "-122.573312",
-                        "stop_name": "Clackamas Town Center Mall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12921",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Clackamas Town Center Mall",
-            "onestopId": "s-c20f6z8gdb-clackamastownmall",
+            "name": "SE Clackamas Rd & Johnson",
+            "onestopId": "s-c20f6dz091-seclackamas~johnson",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4107,32 +4107,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.590025,
-                    45.409977
+                    -122.568739,
+                    45.405908
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6187",
+                    "identifier": "f-trimet-s-8073",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "6187",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 6187)",
-                        "stop_id": "6187",
-                        "stop_lat": "45.409977",
-                        "stop_lon": "-122.590025",
-                        "stop_name": "SE Webster & Bixel",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6187",
+                        "position": "At",
+                        "stop_code": "8073",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 8073)",
+                        "stop_id": "8073",
+                        "stop_lat": "45.405908",
+                        "stop_lon": "-122.568739",
+                        "stop_name": "SE 82nd Dr & Greenhouse Square",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8073",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Webster & Bixel",
-            "onestopId": "s-c20f66ssm3-sewebster~bixel",
+            "name": "SE 82nd Dr & Greenhouse Square",
+            "onestopId": "s-c20f6cuht6-se82nd~greenhousesquare",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4143,32 +4143,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.593404,
-                    45.421347
+                    -122.585845,
+                    45.398717
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6189",
+                    "identifier": "f-trimet-s-8764",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6189",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 6189)",
-                        "stop_id": "6189",
-                        "stop_lat": "45.421347",
-                        "stop_lon": "-122.593404",
-                        "stop_name": "SE Webster & Cavalier Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6189",
+                        "position": "At",
+                        "stop_code": "8764",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 8764)",
+                        "stop_id": "8764",
+                        "stop_lat": "45.398717",
+                        "stop_lon": "-122.585845",
+                        "stop_name": "17100 Block SE Webster",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8764",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Webster & Cavalier Way",
-            "onestopId": "s-c20f6kdnw8-sewebster~cavalier",
+            "name": "17100 Block SE Webster",
+            "onestopId": "s-c20f62xdwy-17100blocksewebster",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4719,32 +4719,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.575788,
-                    45.410707
+                    -122.573312,
+                    45.43731
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11958",
+                    "identifier": "f-trimet-s-12921",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "11958",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 11958)",
-                        "stop_id": "11958",
-                        "stop_lat": "45.410707",
-                        "stop_lon": "-122.575788",
-                        "stop_name": "SE Clackamas Rd & Johnson",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11958",
+                        "position": "At",
+                        "stop_code": "12921",
+                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 12921)",
+                        "stop_id": "12921",
+                        "stop_lat": "45.43731",
+                        "stop_lon": "-122.573312",
+                        "stop_name": "Clackamas Town Center Mall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12921",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Clackamas Rd & Johnson",
-            "onestopId": "s-c20f6dz091-seclackamas~johnson",
+            "name": "Clackamas Town Center Mall",
+            "onestopId": "s-c20f6z8gdb-clackamastownmall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5007,32 +5007,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.585275,
-                    45.401293
+                    -122.58167,
+                    45.421435
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5541",
+                    "identifier": "f-trimet-s-11962",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5541",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 5541)",
-                        "stop_id": "5541",
-                        "stop_lat": "45.401293",
-                        "stop_lon": "-122.585275",
-                        "stop_name": "SE Strawberry & Webster",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5541",
+                        "position": "Farside",
+                        "stop_code": "11962",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 11962)",
+                        "stop_id": "11962",
+                        "stop_lat": "45.421435",
+                        "stop_lon": "-122.58167",
+                        "stop_name": "SE Johnson & Lake",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11962",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Strawberry & Webster",
-            "onestopId": "s-c20f6901sn-sestrawberry~webster",
+            "name": "SE Johnson & Lake",
+            "onestopId": "s-c20f6sdz01-sejohnson~lake",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

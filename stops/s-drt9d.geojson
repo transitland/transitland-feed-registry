@@ -178,41 +178,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.889103,
-                    42.482127
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4781",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4781",
-                        "stop_desc": "",
-                        "stop_id": "4781",
-                        "stop_lat": "42.482127",
-                        "stop_lon": "-70.889103",
-                        "stop_name": "Humphrey St @ Seaview Ave",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Humphrey St @ Seaview Ave",
-            "onestopId": "s-drt9dvshk4-humphrey~seaview",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -70.903688,
                     42.467937
                 ],
@@ -283,31 +248,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.893932,
-                    42.477713
+                    -70.907598,
+                    42.483823
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4776",
+                    "identifier": "f-mbta-s-6156",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4776",
+                        "stop_code": "6156",
                         "stop_desc": "",
-                        "stop_id": "4776",
-                        "stop_lat": "42.477713",
-                        "stop_lon": "-70.893932",
-                        "stop_name": "Salem St opp Aycliffe Rd",
+                        "stop_id": "6156",
+                        "stop_lat": "42.483823",
+                        "stop_lon": "-70.907598",
+                        "stop_name": "Essex St @ Shopping Center",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Salem St opp Aycliffe Rd",
-            "onestopId": "s-drt9dubdee-salemoppaycliffe",
+            "name": "Essex St @ Shopping Center",
+            "onestopId": "s-drt9dmywjn-essex~shopping",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -738,66 +703,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.889838,
-                    42.480109
+                    -70.907537,
+                    42.467792
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4779",
+                    "identifier": "f-mbta-s-4909",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4779",
+                        "stop_code": "4909",
                         "stop_desc": "",
-                        "stop_id": "4779",
-                        "stop_lat": "42.480109",
-                        "stop_lon": "-70.889838",
-                        "stop_name": "Humphrey St @ Beach Bluff Ave",
+                        "stop_id": "4909",
+                        "stop_lat": "42.467792",
+                        "stop_lon": "-70.907537",
+                        "stop_name": "Humphrey St @ Cedar Hill Terr",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Humphrey St @ Beach Bluff Ave",
-            "onestopId": "s-drt9dv78e4-humphrey~beachbluff",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -70.908098,
-                    42.477874
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4768",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4768",
-                        "stop_desc": "",
-                        "stop_id": "4768",
-                        "stop_lat": "42.477874",
-                        "stop_lon": "-70.908098",
-                        "stop_name": "Paradise Rd opp Longwood Dr",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Paradise Rd opp Longwood Dr",
-            "onestopId": "s-drt9dky799-paradiseopplongwood",
+            "name": "Humphrey St @ Cedar Hill Terr",
+            "onestopId": "s-drt9d7n8yd-humphrey~cedarhillterr",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -843,6 +773,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -70.892579,
+                    42.476191
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-4777",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4777",
+                        "stop_desc": "",
+                        "stop_id": "4777",
+                        "stop_lat": "42.476191",
+                        "stop_lon": "-70.892579",
+                        "stop_name": "Salem St @ Humphrey St",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Salem St @ Humphrey St",
+            "onestopId": "s-drt9du99ep-salem~humphrey",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -70.905654,
                     42.467785
                 ],
@@ -878,31 +843,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.892579,
-                    42.476191
+                    -70.908098,
+                    42.477874
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4777",
+                    "identifier": "f-mbta-s-4768",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4777",
+                        "stop_code": "4768",
                         "stop_desc": "",
-                        "stop_id": "4777",
-                        "stop_lat": "42.476191",
-                        "stop_lon": "-70.892579",
-                        "stop_name": "Salem St @ Humphrey St",
+                        "stop_id": "4768",
+                        "stop_lat": "42.477874",
+                        "stop_lon": "-70.908098",
+                        "stop_name": "Paradise Rd opp Longwood Dr",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Salem St @ Humphrey St",
-            "onestopId": "s-drt9du99ep-salem~humphrey",
+            "name": "Paradise Rd opp Longwood Dr",
+            "onestopId": "s-drt9dky799-paradiseopplongwood",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1158,6 +1123,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -70.883794,
+                    42.486794
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-4787",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4787",
+                        "stop_desc": "",
+                        "stop_id": "4787",
+                        "stop_lat": "42.486794",
+                        "stop_lon": "-70.883794",
+                        "stop_name": "Humphrey St @ Ware Ln",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Humphrey St @ Ware Ln",
+            "onestopId": "s-drt9dyrzxb-humphrey~ware",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -70.896583,
                     42.490034
                 ],
@@ -1368,31 +1368,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.899901,
-                    42.487158
+                    -70.893378,
+                    42.492143
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-6158",
+                    "identifier": "f-mbta-s-6121",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6158",
+                        "stop_code": "6121",
                         "stop_desc": "",
-                        "stop_id": "6158",
-                        "stop_lat": "42.487158",
-                        "stop_lon": "-70.899901",
-                        "stop_name": "Loring Ave @ Maple Ave",
+                        "stop_id": "6121",
+                        "stop_lat": "42.492143",
+                        "stop_lon": "-70.893378",
+                        "stop_name": "Loring Ave opp Leggs Hill Rd",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Loring Ave @ Maple Ave",
-            "onestopId": "s-drt9dws38s-loring~maple",
+            "name": "Loring Ave opp Leggs Hill Rd",
+            "onestopId": "s-drt9dz3n8t-loringoppleggshill",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1533,41 +1533,6 @@
             ],
             "name": "Humphrey St @ Shelton Rd",
             "onestopId": "s-drt9dejq7u-humphrey~shelton",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -70.918439,
-                    42.468389
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-4914",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4914",
-                        "stop_desc": "",
-                        "stop_id": "4914",
-                        "stop_lat": "42.468389",
-                        "stop_lon": "-70.918439",
-                        "stop_name": "Humphrey St @ Monument Ave",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Humphrey St @ Monument Ave",
-            "onestopId": "s-drt9d5nu29-humphrey~monument",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1788,31 +1753,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.907537,
-                    42.467792
+                    -70.889838,
+                    42.480109
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4909",
+                    "identifier": "f-mbta-s-4779",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4909",
+                        "stop_code": "4779",
                         "stop_desc": "",
-                        "stop_id": "4909",
-                        "stop_lat": "42.467792",
-                        "stop_lon": "-70.907537",
-                        "stop_name": "Humphrey St @ Cedar Hill Terr",
+                        "stop_id": "4779",
+                        "stop_lat": "42.480109",
+                        "stop_lon": "-70.889838",
+                        "stop_name": "Humphrey St @ Beach Bluff Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Humphrey St @ Cedar Hill Terr",
-            "onestopId": "s-drt9d7n8yd-humphrey~cedarhillterr",
+            "name": "Humphrey St @ Beach Bluff Ave",
+            "onestopId": "s-drt9dv78e4-humphrey~beachbluff",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2208,31 +2173,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.898059,
-                    42.482638
+                    -70.893804,
+                    42.474759
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4869",
+                    "identifier": "f-mbta-s-4900",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4869",
+                        "stop_code": "4900",
                         "stop_desc": "",
-                        "stop_id": "4869",
-                        "stop_lat": "42.482638",
-                        "stop_lon": "-70.898059",
-                        "stop_name": "Opp 212 Salem St",
+                        "stop_id": "4900",
+                        "stop_lat": "42.474759",
+                        "stop_lon": "-70.893804",
+                        "stop_name": "Humphrey St opp Ocean Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Opp 212 Salem St",
-            "onestopId": "s-drt9dttx73-opp212salem",
+            "name": "Humphrey St opp Ocean Ave",
+            "onestopId": "s-drt9du29qs-humphreyoppocean",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2383,31 +2348,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.916394,
-                    42.479482
+                    -70.889103,
+                    42.482127
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-6151",
+                    "identifier": "f-mbta-s-4781",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6151",
+                        "stop_code": "4781",
                         "stop_desc": "",
-                        "stop_id": "6151",
-                        "stop_lat": "42.479482",
-                        "stop_lon": "-70.916394",
-                        "stop_name": "253 Essex St",
+                        "stop_id": "4781",
+                        "stop_lat": "42.482127",
+                        "stop_lon": "-70.889103",
+                        "stop_name": "Humphrey St @ Seaview Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "253 Essex St",
-            "onestopId": "s-drt9dm0kbj-253essex",
+            "name": "Humphrey St @ Seaview Ave",
+            "onestopId": "s-drt9dvshk4-humphrey~seaview",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2698,31 +2663,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.895681,
-                    42.479706
+                    -70.886852,
+                    42.48453
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4774",
+                    "identifier": "f-mbta-s-4784",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4774",
+                        "stop_code": "4784",
                         "stop_desc": "",
-                        "stop_id": "4774",
-                        "stop_lat": "42.479706",
-                        "stop_lon": "-70.895681",
-                        "stop_name": "Salem St opp Stanley Rd",
+                        "stop_id": "4784",
+                        "stop_lat": "42.48453",
+                        "stop_lon": "-70.886852",
+                        "stop_name": "Humphrey St opp  Ruby Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Salem St opp Stanley Rd",
-            "onestopId": "s-drt9dtpq4z-salemoppstanley",
+            "name": "Humphrey St opp  Ruby Ave",
+            "onestopId": "s-drt9dyjf2d-humphreyoppruby",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2733,31 +2698,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.902456,
-                    42.485375
+                    -70.918439,
+                    42.468389
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-6126",
+                    "identifier": "f-mbta-s-4914",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6126",
+                        "stop_code": "4914",
                         "stop_desc": "",
-                        "stop_id": "6126",
-                        "stop_lat": "42.485375",
-                        "stop_lon": "-70.902456",
-                        "stop_name": "Loring Ave @ Vinnin St",
+                        "stop_id": "4914",
+                        "stop_lat": "42.468389",
+                        "stop_lon": "-70.918439",
+                        "stop_name": "Humphrey St @ Monument Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Loring Ave @ Vinnin St",
-            "onestopId": "s-drt9dw4rjp-loring~vinnin",
+            "name": "Humphrey St @ Monument Ave",
+            "onestopId": "s-drt9d5nu29-humphrey~monument",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2943,31 +2908,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.886852,
-                    42.48453
+                    -70.895681,
+                    42.479706
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4784",
+                    "identifier": "f-mbta-s-4774",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4784",
+                        "stop_code": "4774",
                         "stop_desc": "",
-                        "stop_id": "4784",
-                        "stop_lat": "42.48453",
-                        "stop_lon": "-70.886852",
-                        "stop_name": "Humphrey St opp  Ruby Ave",
+                        "stop_id": "4774",
+                        "stop_lat": "42.479706",
+                        "stop_lon": "-70.895681",
+                        "stop_name": "Salem St opp Stanley Rd",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Humphrey St opp  Ruby Ave",
-            "onestopId": "s-drt9dyjf2d-humphreyoppruby",
+            "name": "Salem St opp Stanley Rd",
+            "onestopId": "s-drt9dtpq4z-salemoppstanley",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3083,31 +3048,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.907598,
-                    42.483823
+                    -70.893932,
+                    42.477713
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-6156",
+                    "identifier": "f-mbta-s-4776",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6156",
+                        "stop_code": "4776",
                         "stop_desc": "",
-                        "stop_id": "6156",
-                        "stop_lat": "42.483823",
-                        "stop_lon": "-70.907598",
-                        "stop_name": "Essex St @ Shopping Center",
+                        "stop_id": "4776",
+                        "stop_lat": "42.477713",
+                        "stop_lon": "-70.893932",
+                        "stop_name": "Salem St opp Aycliffe Rd",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Essex St @ Shopping Center",
-            "onestopId": "s-drt9dmywjn-essex~shopping",
+            "name": "Salem St opp Aycliffe Rd",
+            "onestopId": "s-drt9dubdee-salemoppaycliffe",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3223,31 +3188,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.883794,
-                    42.486794
+                    -70.902456,
+                    42.485375
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4787",
+                    "identifier": "f-mbta-s-6126",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4787",
+                        "stop_code": "6126",
                         "stop_desc": "",
-                        "stop_id": "4787",
-                        "stop_lat": "42.486794",
-                        "stop_lon": "-70.883794",
-                        "stop_name": "Humphrey St @ Ware Ln",
+                        "stop_id": "6126",
+                        "stop_lat": "42.485375",
+                        "stop_lon": "-70.902456",
+                        "stop_name": "Loring Ave @ Vinnin St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Humphrey St @ Ware Ln",
-            "onestopId": "s-drt9dyrzxb-humphrey~ware",
+            "name": "Loring Ave @ Vinnin St",
+            "onestopId": "s-drt9dw4rjp-loring~vinnin",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3433,31 +3398,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.893378,
-                    42.492143
+                    -70.899901,
+                    42.487158
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-6121",
+                    "identifier": "f-mbta-s-6158",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6121",
+                        "stop_code": "6158",
                         "stop_desc": "",
-                        "stop_id": "6121",
-                        "stop_lat": "42.492143",
-                        "stop_lon": "-70.893378",
-                        "stop_name": "Loring Ave opp Leggs Hill Rd",
+                        "stop_id": "6158",
+                        "stop_lat": "42.487158",
+                        "stop_lon": "-70.899901",
+                        "stop_name": "Loring Ave @ Maple Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Loring Ave opp Leggs Hill Rd",
-            "onestopId": "s-drt9dz3n8t-loringoppleggshill",
+            "name": "Loring Ave @ Maple Ave",
+            "onestopId": "s-drt9dws38s-loring~maple",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3818,6 +3783,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -70.903891,
+                    42.480586
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-4875",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4875",
+                        "stop_desc": "",
+                        "stop_id": "4875",
+                        "stop_lat": "42.480586",
+                        "stop_lon": "-70.903891",
+                        "stop_name": "Opp 383 Paradise Rd",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Opp 383 Paradise Rd",
+            "onestopId": "s-drt9dt377e-opp383paradise",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -70.925387,
                     42.466898
                 ],
@@ -4063,31 +4063,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.893804,
-                    42.474759
+                    -70.898059,
+                    42.482638
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4900",
+                    "identifier": "f-mbta-s-4869",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4900",
+                        "stop_code": "4869",
                         "stop_desc": "",
-                        "stop_id": "4900",
-                        "stop_lat": "42.474759",
-                        "stop_lon": "-70.893804",
-                        "stop_name": "Humphrey St opp Ocean Ave",
+                        "stop_id": "4869",
+                        "stop_lat": "42.482638",
+                        "stop_lon": "-70.898059",
+                        "stop_name": "Opp 212 Salem St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Humphrey St opp Ocean Ave",
-            "onestopId": "s-drt9du29qs-humphreyoppocean",
+            "name": "Opp 212 Salem St",
+            "onestopId": "s-drt9dttx73-opp212salem",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -4483,31 +4483,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -70.903891,
-                    42.480586
+                    -70.916394,
+                    42.479482
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-4875",
+                    "identifier": "f-mbta-s-6151",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4875",
+                        "stop_code": "6151",
                         "stop_desc": "",
-                        "stop_id": "4875",
-                        "stop_lat": "42.480586",
-                        "stop_lon": "-70.903891",
-                        "stop_name": "Opp 383 Paradise Rd",
+                        "stop_id": "6151",
+                        "stop_lat": "42.479482",
+                        "stop_lon": "-70.916394",
+                        "stop_name": "253 Essex St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Opp 383 Paradise Rd",
-            "onestopId": "s-drt9dt377e-opp383paradise",
+            "name": "253 Essex St",
+            "onestopId": "s-drt9dm0kbj-253essex",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

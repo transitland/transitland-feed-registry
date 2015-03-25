@@ -3,29 +3,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66467448,
-                    42.01520955
+                    -87.66511368,
+                    42.01580068
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1216",
+                    "identifier": "f-cta-s-1014",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1216",
-                        "stop_desc": "Sheridan & Sherwin, Northbound, Northeast Corner",
-                        "stop_id": "1216",
-                        "stop_lat": "42.01520955",
-                        "stop_lon": "-87.66467448",
-                        "stop_name": "Sheridan & Sherwin",
+                        "stop_code": "1014",
+                        "stop_desc": "Sheridan & Jarvis, Southbound, Southwest Corner",
+                        "stop_id": "1014",
+                        "stop_lat": "42.01580068",
+                        "stop_lon": "-87.66511368",
+                        "stop_name": "Sheridan & Jarvis",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Sheridan & Sherwin",
-            "onestopId": "s-dp3xj0ss34-sheridan~sherwin",
+            "name": "Sheridan & Jarvis",
+            "onestopId": "s-dp3xj0spyb-sheridan~jarvis",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -366,29 +366,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66511368,
-                    42.01580068
+                    -87.663526,
+                    42.012649
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1014",
+                    "identifier": "f-cta-s-1017",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1014",
-                        "stop_desc": "Sheridan & Jarvis, Southbound, Southwest Corner",
-                        "stop_id": "1014",
-                        "stop_lat": "42.01580068",
-                        "stop_lon": "-87.66511368",
-                        "stop_name": "Sheridan & Jarvis",
+                        "stop_code": "1017",
+                        "stop_desc": "Sheridan & Touhy, Southbound, Southwest Corner",
+                        "stop_id": "1017",
+                        "stop_lat": "42.012649",
+                        "stop_lon": "-87.663526",
+                        "stop_name": "Sheridan & Touhy",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Sheridan & Jarvis",
-            "onestopId": "s-dp3xj0spyb-sheridan~jarvis",
+            "name": "Sheridan & Touhy",
+            "onestopId": "s-dp3xj0jm7v-sheridan~touhy",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -432,6 +432,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.66467448,
+                    42.01520955
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-1216",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "1216",
+                        "stop_desc": "Sheridan & Sherwin, Northbound, Northeast Corner",
+                        "stop_id": "1216",
+                        "stop_lat": "42.01520955",
+                        "stop_lon": "-87.66467448",
+                        "stop_name": "Sheridan & Sherwin",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Sheridan & Sherwin",
+            "onestopId": "s-dp3xj0ss34-sheridan~sherwin",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.66932276,
                     42.01931247
                 ],
@@ -455,39 +488,6 @@
             ],
             "name": "Howard & Bosworth",
             "onestopId": "s-dp3xj13hhx-howard~bosworth",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.663526,
-                    42.012649
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1017",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1017",
-                        "stop_desc": "Sheridan & Touhy, Southbound, Southwest Corner",
-                        "stop_id": "1017",
-                        "stop_lat": "42.012649",
-                        "stop_lon": "-87.663526",
-                        "stop_name": "Sheridan & Touhy",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Sheridan & Touhy",
-            "onestopId": "s-dp3xj0jm7v-sheridan~touhy",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

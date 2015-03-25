@@ -3,42 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.624794,
-                    45.446619
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2578",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2578",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2578)",
-                        "stop_id": "2578",
-                        "stop_lat": "45.446619",
-                        "stop_lon": "-122.624794",
-                        "stop_name": "SE Harrison & 37th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2578",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Harrison & 37th",
-            "onestopId": "s-c20f9973ep-seharrison~37th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.641955,
                     45.448642
                 ],
@@ -183,32 +147,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.621965,
-                    45.439557
+                    -122.623703,
+                    45.479126
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8167",
+                    "identifier": "f-trimet-s-8243",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8167",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 8167)",
-                        "stop_id": "8167",
-                        "stop_lat": "45.439557",
-                        "stop_lon": "-122.621965",
-                        "stop_name": "SE International Way & 40th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8167",
+                        "position": "Nearside",
+                        "stop_code": "8243",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 8243)",
+                        "stop_id": "8243",
+                        "stop_lat": "45.479126",
+                        "stop_lon": "-122.623703",
+                        "stop_name": "SE Woodstock & 38th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8243",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE International Way & 40th",
-            "onestopId": "s-c20f98j2t5-seinternational~40th",
+            "name": "SE Woodstock & 38th",
+            "onestopId": "s-c20f9xhphe-sewoodstock~38th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -245,42 +209,6 @@
             ],
             "name": "SE 42nd & Howe",
             "onestopId": "s-c20f9dqvc9-se42nd~howe",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.630049,
-                    45.457845
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7334",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "7334",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 7334)",
-                        "stop_id": "7334",
-                        "stop_lat": "45.457845",
-                        "stop_lon": "-122.630049",
-                        "stop_name": "SE 32nd & Floss",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7334",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 32nd & Floss",
-            "onestopId": "s-c20f97re0s-se32nd~floss",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -399,32 +327,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.609051,
-                    45.448072
+                    -122.635709,
+                    45.446515
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3246",
+                    "identifier": "f-trimet-s-2571",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "3246",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3246)",
-                        "stop_id": "3246",
-                        "stop_lat": "45.448072",
-                        "stop_lon": "-122.609051",
-                        "stop_name": "SE King & 52nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3246",
+                        "stop_code": "2571",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 2571)",
+                        "stop_id": "2571",
+                        "stop_lat": "45.446515",
+                        "stop_lon": "-122.635709",
+                        "stop_name": "2700 Block SE Harrison",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2571",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE King & 52nd",
-            "onestopId": "s-c20f9cwf4n-seking~52nd",
+            "name": "2700 Block SE Harrison",
+            "onestopId": "s-c20f9373hu-2700blockseharrison",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -687,68 +615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.644661,
-                    45.474019
+                    -122.629877,
+                    45.451393
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-848",
+                    "identifier": "f-trimet-s-7340",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "848",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 848)",
-                        "stop_id": "848",
-                        "stop_lat": "45.474019",
-                        "stop_lon": "-122.644661",
-                        "stop_name": "SE Bybee & 20th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=848",
+                        "position": "Opposite",
+                        "stop_code": "7340",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 7340)",
+                        "stop_id": "7340",
+                        "stop_lat": "45.451393",
+                        "stop_lon": "-122.629877",
+                        "stop_name": "SE 32nd & Harvey",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7340",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Bybee & 20th",
-            "onestopId": "s-c20f9nkck7-sebybee~20th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.641816,
-                    45.448536
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-12462",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "12462",
-                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 12462)",
-                        "stop_id": "12462",
-                        "stop_lat": "45.448536",
-                        "stop_lon": "-122.641816",
-                        "stop_name": "10200 Block SE Main",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12462",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "10200 Block SE Main",
-            "onestopId": "s-c20f91wuyt-10200blocksemain",
+            "name": "SE 32nd & Harvey",
+            "onestopId": "s-c20f96ptsc-se32nd~harvey",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -867,6 +759,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.639338,
+                    45.458805
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3797",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "3797",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3797)",
+                        "stop_id": "3797",
+                        "stop_lat": "45.458805",
+                        "stop_lon": "-122.639338",
+                        "stop_name": "SE Ochoco & McLoughlin",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3797",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Ochoco & McLoughlin",
+            "onestopId": "s-c20f978b8r-seochoco~mcloughlin",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.645928,
                     45.452991
                 ],
@@ -903,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.614527,
-                    45.447935
+                    -122.639976,
+                    45.455622
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3242",
+                    "identifier": "f-trimet-s-3658",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3242",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 3242)",
-                        "stop_id": "3242",
-                        "stop_lat": "45.447935",
-                        "stop_lon": "-122.614527",
-                        "stop_name": "SE King & 47th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3242",
+                        "position": "Farside",
+                        "stop_code": "3658",
+                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 3658)",
+                        "stop_id": "3658",
+                        "stop_lat": "45.455622",
+                        "stop_lon": "-122.639976",
+                        "stop_name": "SE Main & Mailwell",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3658",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE King & 47th",
-            "onestopId": "s-c20f9cdc6m-seking~47th",
+            "name": "SE Main & Mailwell",
+            "onestopId": "s-c20f96bq1q-semain~mailwell",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -975,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.649477,
-                    45.480763
+                    -122.648402,
+                    45.473797
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3940",
+                    "identifier": "f-trimet-s-838",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3940",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 3940)",
-                        "stop_id": "3940",
-                        "stop_lat": "45.480763",
-                        "stop_lon": "-122.649477",
-                        "stop_name": "SE Milwaukie & Ramona",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3940",
+                        "position": "Nearside",
+                        "stop_code": "838",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 838)",
+                        "stop_id": "838",
+                        "stop_lat": "45.473797",
+                        "stop_lon": "-122.648402",
+                        "stop_name": "SE Bybee & Milwaukie",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=838",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Milwaukie & Ramona",
-            "onestopId": "s-c20f9p92sh-semilwaukie~ramona",
+            "name": "SE Bybee & Milwaukie",
+            "onestopId": "s-c20f9n60j4-sebybee~milwaukie",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1119,42 +1047,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.626593,
-                    45.451348
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2586",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2586",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2586)",
-                        "stop_id": "2586",
-                        "stop_lat": "45.451348",
-                        "stop_lon": "-122.626593",
-                        "stop_name": "SE Harvey & 36th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2586",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Harvey & 36th",
-            "onestopId": "s-c20f9d4j33-seharvey~36th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.634323,
                     45.47493
                 ],
@@ -1191,32 +1083,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.607504,
-                    45.475762
+                    -122.618649,
+                    45.452797
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1528",
+                    "identifier": "f-trimet-s-2801",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "1528",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1528)",
-                        "stop_id": "1528",
-                        "stop_lat": "45.475762",
-                        "stop_lon": "-122.607504",
-                        "stop_name": "5400 Block SE Duke",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1528",
+                        "position": "Nearside",
+                        "stop_code": "2801",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2801)",
+                        "stop_id": "2801",
+                        "stop_lat": "45.452797",
+                        "stop_lon": "-122.618649",
+                        "stop_name": "SE Howe & 43rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2801",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "5400 Block SE Duke",
-            "onestopId": "s-c20f9yxgw0-5400blockseduke",
+            "name": "SE Howe & 43rd",
+            "onestopId": "s-c20f9drvdr-sehowe~43rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1335,32 +1227,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.639338,
-                    45.458805
+                    -122.608808,
+                    45.475941
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3797",
+                    "identifier": "f-trimet-s-7682",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "3797",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3797)",
-                        "stop_id": "3797",
-                        "stop_lat": "45.458805",
-                        "stop_lon": "-122.639338",
-                        "stop_name": "SE Ochoco & McLoughlin",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3797",
+                        "stop_code": "7682",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7682)",
+                        "stop_id": "7682",
+                        "stop_lat": "45.475941",
+                        "stop_lon": "-122.608808",
+                        "stop_name": "SE 52nd & Duke",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7682",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Ochoco & McLoughlin",
-            "onestopId": "s-c20f978b8r-seochoco~mcloughlin",
+            "name": "SE 52nd & Duke",
+            "onestopId": "s-c20f9ywux9-se52nd~duke",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1551,32 +1443,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.640508,
-                    45.445098
+                    -122.622566,
+                    45.48272
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13482",
+                    "identifier": "f-trimet-s-7456",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "13482",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 13482)",
-                        "stop_id": "13482",
-                        "stop_lat": "45.445098",
-                        "stop_lon": "-122.640508",
-                        "stop_name": "SE 21st & Jackson",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13482",
+                        "stop_code": "7456",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7456)",
+                        "stop_id": "7456",
+                        "stop_lat": "45.48272",
+                        "stop_lon": "-122.622566",
+                        "stop_name": "SE Cesar Chavez Blvd & Harold",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7456",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 21st & Jackson",
-            "onestopId": "s-c20f91pbvh-se21st~jackson",
+            "name": "SE Cesar Chavez Blvd & Harold",
+            "onestopId": "s-c20f9xuup1-secesarchavez~harold",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,32 +1479,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.623703,
-                    45.479126
+                    -122.622734,
+                    45.480022
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8243",
+                    "identifier": "f-trimet-s-7466",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "8243",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 8243)",
-                        "stop_id": "8243",
-                        "stop_lat": "45.479126",
-                        "stop_lon": "-122.623703",
-                        "stop_name": "SE Woodstock & 38th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8243",
+                        "stop_code": "7466",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7466)",
+                        "stop_id": "7466",
+                        "stop_lat": "45.480022",
+                        "stop_lon": "-122.622734",
+                        "stop_name": "SE Cesar Chavez Blvd & Knight",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7466",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Woodstock & 38th",
-            "onestopId": "s-c20f9xhphe-sewoodstock~38th",
+            "name": "SE Cesar Chavez Blvd & Knight",
+            "onestopId": "s-c20f9xku74-secesarchavez~knight",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1803,42 +1695,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.617172,
-                    45.460457
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3078",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3078",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 3078)",
-                        "stop_id": "3078",
-                        "stop_lat": "45.460457",
-                        "stop_lon": "-122.617172",
-                        "stop_name": "SE Johnson Creek & Brookside",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3078",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Johnson Creek & Brookside",
-            "onestopId": "s-c20f9gbfkg-sejohnsoncreek~brookside",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.62982,
                     45.448631
                 ],
@@ -1875,32 +1731,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.627809,
-                    45.441775
+                    -122.617172,
+                    45.460457
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7409",
+                    "identifier": "f-trimet-s-3078",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7409",
-                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 7409)",
-                        "stop_id": "7409",
-                        "stop_lat": "45.441775",
-                        "stop_lon": "-122.627809",
-                        "stop_name": "SE 34th & Washington",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7409",
+                        "position": "Opposite",
+                        "stop_code": "3078",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 3078)",
+                        "stop_id": "3078",
+                        "stop_lat": "45.460457",
+                        "stop_lon": "-122.617172",
+                        "stop_name": "SE Johnson Creek & Brookside",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3078",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 34th & Washington",
-            "onestopId": "s-c20f983jsb-se34th~washington",
+            "name": "SE Johnson Creek & Brookside",
+            "onestopId": "s-c20f9gbfkg-sejohnsoncreek~brookside",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.608814,
+                    45.479391
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10481",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10481",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 10481)",
+                        "stop_id": "10481",
+                        "stop_lat": "45.479391",
+                        "stop_lon": "-122.608814",
+                        "stop_name": "SE 52nd & Woodstock",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10481",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 52nd & Woodstock",
+            "onestopId": "s-c20f9zqbxs-se52nd~woodstock",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1973,6 +1865,78 @@
             ],
             "name": "2400 Block SE Bybee",
             "onestopId": "s-c20f9q65dx-2400blocksebybee",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.647117,
+                    45.460893
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6852",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6852",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 6852)",
+                        "stop_id": "6852",
+                        "stop_lat": "45.460893",
+                        "stop_lon": "-122.647117",
+                        "stop_name": "SE 17th & Clatsop",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6852",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 17th & Clatsop",
+            "onestopId": "s-c20f95ghgh-se17th~clatsop",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.636399,
+                    45.443102
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6153",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6153",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 6153)",
+                        "stop_id": "6153",
+                        "stop_lat": "45.443102",
+                        "stop_lon": "-122.636399",
+                        "stop_name": "SE Washington & 25th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6153",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Washington & 25th",
+            "onestopId": "s-c20f92dvkb-sewashington~25th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2163,32 +2127,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.615658,
-                    45.479125
+                    -122.648066,
+                    45.477266
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6415",
+                    "identifier": "f-trimet-s-6898",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6415",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 6415)",
-                        "stop_id": "6415",
-                        "stop_lat": "45.479125",
-                        "stop_lon": "-122.615658",
-                        "stop_name": "SE Woodstock & 46th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6415",
+                        "stop_code": "6898",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 6898)",
+                        "stop_id": "6898",
+                        "stop_lat": "45.477266",
+                        "stop_lon": "-122.648066",
+                        "stop_name": "SE 17th & Tolman",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6898",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Woodstock & 46th",
-            "onestopId": "s-c20f9z4p05-sewoodstock~46th",
+            "name": "SE 17th & Tolman",
+            "onestopId": "s-c20f9nfkkb-se17th~tolman",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2235,32 +2199,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622083,
-                    45.45145
+                    -122.649477,
+                    45.480763
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2589",
+                    "identifier": "f-trimet-s-3940",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2589",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 2589)",
-                        "stop_id": "2589",
-                        "stop_lat": "45.45145",
-                        "stop_lon": "-122.622083",
-                        "stop_name": "SE Harvey & 40th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2589",
+                        "position": "Opposite",
+                        "stop_code": "3940",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 3940)",
+                        "stop_id": "3940",
+                        "stop_lat": "45.480763",
+                        "stop_lon": "-122.649477",
+                        "stop_name": "SE Milwaukie & Ramona",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3940",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Harvey & 40th",
-            "onestopId": "s-c20f9djmfk-seharvey~40th",
+            "name": "SE Milwaukie & Ramona",
+            "onestopId": "s-c20f9p92sh-semilwaukie~ramona",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2271,32 +2235,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.636399,
-                    45.443102
+                    -122.630518,
+                    45.443268
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6153",
+                    "identifier": "f-trimet-s-6141",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6153",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 6153)",
-                        "stop_id": "6153",
-                        "stop_lat": "45.443102",
-                        "stop_lon": "-122.636399",
-                        "stop_name": "SE Washington & 25th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6153",
+                        "position": "Farside",
+                        "stop_code": "6141",
+                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 6141)",
+                        "stop_id": "6141",
+                        "stop_lat": "45.443268",
+                        "stop_lon": "-122.630518",
+                        "stop_name": "SE Washington & Oak",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6141",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Washington & 25th",
-            "onestopId": "s-c20f92dvkb-sewashington~25th",
+            "name": "SE Washington & Oak",
+            "onestopId": "s-c20f92xnjz-sewashington~oak",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2379,6 +2343,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.643463,
+                    45.447957
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6871",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "6871",
+                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 6871)",
+                        "stop_id": "6871",
+                        "stop_lat": "45.447957",
+                        "stop_lon": "-122.643463",
+                        "stop_name": "SE 17th & Lava",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6871",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 17th & Lava",
+            "onestopId": "s-c20f91tc81-se17th~lava",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.620027,
                     45.452946
                 ],
@@ -2415,32 +2415,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.647117,
-                    45.460893
+                    -122.627809,
+                    45.441775
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6852",
+                    "identifier": "f-trimet-s-7409",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6852",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 6852)",
-                        "stop_id": "6852",
-                        "stop_lat": "45.460893",
-                        "stop_lon": "-122.647117",
-                        "stop_name": "SE 17th & Clatsop",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6852",
+                        "stop_code": "7409",
+                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 7409)",
+                        "stop_id": "7409",
+                        "stop_lat": "45.441775",
+                        "stop_lon": "-122.627809",
+                        "stop_name": "SE 34th & Washington",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7409",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 17th & Clatsop",
-            "onestopId": "s-c20f95ghgh-se17th~clatsop",
+            "name": "SE 34th & Washington",
+            "onestopId": "s-c20f983jsb-se34th~washington",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2487,32 +2487,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.635709,
-                    45.446515
+                    -122.616114,
+                    45.473642
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2571",
+                    "identifier": "f-trimet-s-7543",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "2571",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 2571)",
-                        "stop_id": "2571",
-                        "stop_lat": "45.446515",
-                        "stop_lon": "-122.635709",
-                        "stop_name": "2700 Block SE Harrison",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2571",
+                        "position": "Nearside",
+                        "stop_code": "7543",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7543)",
+                        "stop_id": "7543",
+                        "stop_lat": "45.473642",
+                        "stop_lon": "-122.616114",
+                        "stop_name": "SE 45th & Evergreen",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7543",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "2700 Block SE Harrison",
-            "onestopId": "s-c20f9373hu-2700blockseharrison",
+            "name": "SE 45th & Evergreen",
+            "onestopId": "s-c20f9y1xjm-se45th~evergreen",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,32 +2559,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.647381,
-                    45.470261
+                    -122.647652,
+                    45.473664
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6890",
+                    "identifier": "f-trimet-s-6848",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6890",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 6890)",
-                        "stop_id": "6890",
-                        "stop_lat": "45.470261",
-                        "stop_lon": "-122.647381",
-                        "stop_name": "SE 17th & Rex",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6890",
+                        "stop_code": "6848",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 6848)",
+                        "stop_id": "6848",
+                        "stop_lat": "45.473664",
+                        "stop_lon": "-122.647652",
+                        "stop_name": "SE 17th & Bybee",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6848",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 17th & Rex",
-            "onestopId": "s-c20f9jdgkz-se17th~rex",
+            "name": "SE 17th & Bybee",
+            "onestopId": "s-c20f9n4xq9-se17th~bybee",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.621965,
+                    45.439557
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8167",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "8167",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 8167)",
+                        "stop_id": "8167",
+                        "stop_lat": "45.439557",
+                        "stop_lon": "-122.621965",
+                        "stop_name": "SE International Way & 40th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8167",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE International Way & 40th",
+            "onestopId": "s-c20f98j2t5-seinternational~40th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2631,32 +2667,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.646932,
-                    45.4621
+                    -122.624794,
+                    45.446619
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6860",
+                    "identifier": "f-trimet-s-2578",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6860",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 6860)",
-                        "stop_id": "6860",
-                        "stop_lat": "45.4621",
-                        "stop_lon": "-122.646932",
-                        "stop_name": "SE 17th & Harney",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6860",
+                        "stop_code": "2578",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2578)",
+                        "stop_id": "2578",
+                        "stop_lat": "45.446619",
+                        "stop_lon": "-122.624794",
+                        "stop_name": "SE Harrison & 37th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2578",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 17th & Harney",
-            "onestopId": "s-c20f9h55zm-se17th~harney",
+            "name": "SE Harrison & 37th",
+            "onestopId": "s-c20f9973ep-seharrison~37th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3171,42 +3207,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.648066,
-                    45.477266
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6898",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6898",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 6898)",
-                        "stop_id": "6898",
-                        "stop_lat": "45.477266",
-                        "stop_lon": "-122.648066",
-                        "stop_name": "SE 17th & Tolman",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6898",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 17th & Tolman",
-            "onestopId": "s-c20f9nfkkb-se17th~tolman",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.625864,
                     45.479274
                 ],
@@ -3341,42 +3341,6 @@
             ],
             "name": "SE 52nd & Reedway",
             "onestopId": "s-c20f9zwurm-se52nd~reedway",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.64088,
-                    45.452273
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3661",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3661",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 3661)",
-                        "stop_id": "3661",
-                        "stop_lat": "45.452273",
-                        "stop_lon": "-122.64088",
-                        "stop_name": "SE Main & Milport",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3661",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Main & Milport",
-            "onestopId": "s-c20f94rdsm-semain~milport",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3783,32 +3747,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.638746,
-                    45.457034
+                    -122.630049,
+                    45.457845
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3652",
+                    "identifier": "f-trimet-s-7334",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3652",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 3652)",
-                        "stop_id": "3652",
-                        "stop_lat": "45.457034",
-                        "stop_lon": "-122.638746",
-                        "stop_name": "SE Main & Beta",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3652",
+                        "position": "Opposite",
+                        "stop_code": "7334",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 7334)",
+                        "stop_id": "7334",
+                        "stop_lat": "45.457845",
+                        "stop_lon": "-122.630049",
+                        "stop_name": "SE 32nd & Floss",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7334",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Main & Beta",
-            "onestopId": "s-c20f971nqj-semain~beta",
+            "name": "SE 32nd & Floss",
+            "onestopId": "s-c20f97re0s-se32nd~floss",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3845,6 +3809,42 @@
             ],
             "name": "SE Woodstock & 46th",
             "onestopId": "s-c20f9z4r8y-sewoodstock~46th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.615816,
+                    45.46551
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7560",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "7560",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7560)",
+                        "stop_id": "7560",
+                        "stop_lat": "45.46551",
+                        "stop_lon": "-122.615816",
+                        "stop_name": "SE 45th & 46th/Nehalem",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7560",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 45th & 46th/Nehalem",
+            "onestopId": "s-c20f9u9zu3-se45th~46th~nehalem",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3927,42 +3927,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.6218,
-                    45.460616
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3085",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3085",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3085)",
-                        "stop_id": "3085",
-                        "stop_lat": "45.460616",
-                        "stop_lon": "-122.6218",
-                        "stop_name": "SE Johnson Creek & 40th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3085",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Johnson Creek & 40th",
-            "onestopId": "s-c20f9eve2c-sejohnsoncreek~40th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.643689,
                     45.483292
                 ],
@@ -4035,32 +3999,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.640265,
-                    45.458383
+                    -122.630447,
+                    45.473529
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3846",
+                    "identifier": "f-trimet-s-7336",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3846",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 3846)",
-                        "stop_id": "3846",
-                        "stop_lat": "45.458383",
-                        "stop_lon": "-122.640265",
-                        "stop_name": "SE Frontage Rd & Ochoco St",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3846",
+                        "position": "Nearside",
+                        "stop_code": "7336",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7336)",
+                        "stop_id": "7336",
+                        "stop_lat": "45.473529",
+                        "stop_lon": "-122.630447",
+                        "stop_name": "SE 32nd & Bybee",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7336",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Frontage Rd & Ochoco St",
-            "onestopId": "s-c20f972n68-sefrontage~ochoco",
+            "name": "SE 32nd & Bybee",
+            "onestopId": "s-c20f9qpnx2-se32nd~bybee",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4143,104 +4107,104 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.615967,
-                    45.463076
+                    -122.640265,
+                    45.458383
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7548",
+                    "identifier": "f-trimet-s-3846",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7548",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7548)",
-                        "stop_id": "7548",
-                        "stop_lat": "45.463076",
-                        "stop_lon": "-122.615967",
-                        "stop_name": "SE 45th & Harney St",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7548",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 45th & Harney St",
-            "onestopId": "s-c20f9u3c8g-se45th~harney",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.608641,
-                    45.481709
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7708",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7708",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7708)",
-                        "stop_id": "7708",
-                        "stop_lat": "45.481709",
-                        "stop_lon": "-122.608641",
-                        "stop_name": "SE 52nd & Reedway",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7708",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 52nd & Reedway",
-            "onestopId": "s-c20f9zxn5t-se52nd~reedway",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.639976,
-                    45.455622
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3658",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "3658",
-                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 3658)",
-                        "stop_id": "3658",
-                        "stop_lat": "45.455622",
-                        "stop_lon": "-122.639976",
-                        "stop_name": "SE Main & Mailwell",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3658",
+                        "stop_code": "3846",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 3846)",
+                        "stop_id": "3846",
+                        "stop_lat": "45.458383",
+                        "stop_lon": "-122.640265",
+                        "stop_name": "SE Frontage Rd & Ochoco St",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3846",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Main & Mailwell",
-            "onestopId": "s-c20f96bq1q-semain~mailwell",
+            "name": "SE Frontage Rd & Ochoco St",
+            "onestopId": "s-c20f972n68-sefrontage~ochoco",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.627508,
+                    45.443764
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9329",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "9329",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 9329)",
+                        "stop_id": "9329",
+                        "stop_lat": "45.443764",
+                        "stop_lon": "-122.627508",
+                        "stop_name": "Milwaukie Marketplace & Albertsons",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9329",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Milwaukie Marketplace & Albertsons",
+            "onestopId": "s-c20f98c35g-milwaukiemarketplace~albertsons",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.614527,
+                    45.447935
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3242",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "3242",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 3242)",
+                        "stop_id": "3242",
+                        "stop_lat": "45.447935",
+                        "stop_lon": "-122.614527",
+                        "stop_name": "SE King & 47th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3242",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE King & 47th",
+            "onestopId": "s-c20f9cdc6m-seking~47th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4313,6 +4277,42 @@
             ],
             "name": "SE 17th & Umatilla",
             "onestopId": "s-c20f9h5ne5-se17th~umatilla",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.628166,
+                    45.479374
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6406",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "6406",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6406)",
+                        "stop_id": "6406",
+                        "stop_lat": "45.479374",
+                        "stop_lon": "-122.628166",
+                        "stop_name": "SE Woodstock & 34th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6406",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Woodstock & 34th",
+            "onestopId": "s-c20f9x2bs9-sewoodstock~34th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4421,42 +4421,6 @@
             ],
             "name": "SE 32nd & Rex",
             "onestopId": "s-c20f9mrnr1-se32nd~rex",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.632781,
-                    45.443556
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6157",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6157",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 6157)",
-                        "stop_id": "6157",
-                        "stop_lat": "45.443556",
-                        "stop_lon": "-122.632781",
-                        "stop_name": "SE Washington & 29th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6157",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Washington & 29th",
-            "onestopId": "s-c20f92txch-sewashington~29th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4755,32 +4719,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622428,
-                    45.479246
+                    -122.64088,
+                    45.452273
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6409",
+                    "identifier": "f-trimet-s-3661",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6409",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6409)",
-                        "stop_id": "6409",
-                        "stop_lat": "45.479246",
-                        "stop_lon": "-122.622428",
-                        "stop_name": "SE Woodstock & Cesar Chavez Blvd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6409",
+                        "position": "Farside",
+                        "stop_code": "3661",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 3661)",
+                        "stop_id": "3661",
+                        "stop_lat": "45.452273",
+                        "stop_lon": "-122.64088",
+                        "stop_name": "SE Main & Milport",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3661",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Woodstock & Cesar Chavez Blvd",
-            "onestopId": "s-c20f9xjpf3-sewoodstock~cesarchavez",
+            "name": "SE Main & Milport",
+            "onestopId": "s-c20f94rdsm-semain~milport",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4827,68 +4791,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.61592,
-                    45.472104
+                    -122.6218,
+                    45.460616
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7557",
+                    "identifier": "f-trimet-s-3085",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "7557",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7557)",
-                        "stop_id": "7557",
-                        "stop_lat": "45.472104",
-                        "stop_lon": "-122.61592",
-                        "stop_name": "SE 45th & Rural",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7557",
+                        "position": "Opposite",
+                        "stop_code": "3085",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3085)",
+                        "stop_id": "3085",
+                        "stop_lat": "45.460616",
+                        "stop_lon": "-122.6218",
+                        "stop_name": "SE Johnson Creek & 40th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3085",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 45th & Rural",
-            "onestopId": "s-c20f9vcy1y-se45th~rural",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.626379,
-                    45.462185
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3083",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3083",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 3083)",
-                        "stop_id": "3083",
-                        "stop_lat": "45.462185",
-                        "stop_lon": "-122.626379",
-                        "stop_name": "SE Johnson Creek & 36th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3083",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Johnson Creek & 36th",
-            "onestopId": "s-c20f9s4hqm-sejohnsoncreek~36th",
+            "name": "SE Johnson Creek & 40th",
+            "onestopId": "s-c20f9eve2c-sejohnsoncreek~40th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4935,42 +4863,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.608814,
-                    45.479391
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10481",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10481",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 10481)",
-                        "stop_id": "10481",
-                        "stop_lat": "45.479391",
-                        "stop_lon": "-122.608814",
-                        "stop_name": "SE 52nd & Woodstock",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10481",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 52nd & Woodstock",
-            "onestopId": "s-c20f9zqbxs-se52nd~woodstock",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.615989,
                     45.46528
                 ],
@@ -5007,32 +4899,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.615816,
-                    45.46551
+                    -122.61592,
+                    45.472104
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7560",
+                    "identifier": "f-trimet-s-7557",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "7560",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7560)",
-                        "stop_id": "7560",
-                        "stop_lat": "45.46551",
-                        "stop_lon": "-122.615816",
-                        "stop_name": "SE 45th & 46th/Nehalem",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7560",
+                        "stop_code": "7557",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7557)",
+                        "stop_id": "7557",
+                        "stop_lat": "45.472104",
+                        "stop_lon": "-122.61592",
+                        "stop_name": "SE 45th & Rural",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7557",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 45th & 46th/Nehalem",
-            "onestopId": "s-c20f9u9zu3-se45th~46th~nehalem",
+            "name": "SE 45th & Rural",
+            "onestopId": "s-c20f9vcy1y-se45th~rural",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5115,42 +5007,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.627508,
-                    45.443764
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9329",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9329",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 9329)",
-                        "stop_id": "9329",
-                        "stop_lat": "45.443764",
-                        "stop_lon": "-122.627508",
-                        "stop_name": "Milwaukie Marketplace & Albertsons",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9329",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Milwaukie Marketplace & Albertsons",
-            "onestopId": "s-c20f98c35g-milwaukiemarketplace~albertsons",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.637887,
                     45.446367
                 ],
@@ -5177,6 +5033,42 @@
             ],
             "name": "SE Harrison & 24th",
             "onestopId": "s-c20f933b60-seharrison~24th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.615967,
+                    45.463076
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7548",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "7548",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7548)",
+                        "stop_id": "7548",
+                        "stop_lat": "45.463076",
+                        "stop_lon": "-122.615967",
+                        "stop_name": "SE 45th & Harney St",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7548",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 45th & Harney St",
+            "onestopId": "s-c20f9u3c8g-se45th~harney",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5285,6 +5177,42 @@
             ],
             "name": "SE 17th & Ochoco St",
             "onestopId": "s-c20f95e070-se17th~ochoco",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.646932,
+                    45.4621
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6860",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6860",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 6860)",
+                        "stop_id": "6860",
+                        "stop_lat": "45.4621",
+                        "stop_lon": "-122.646932",
+                        "stop_name": "SE 17th & Harney",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6860",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 17th & Harney",
+            "onestopId": "s-c20f9h55zm-se17th~harney",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5727,32 +5655,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.643463,
-                    45.447957
+                    -122.622083,
+                    45.45145
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6871",
+                    "identifier": "f-trimet-s-2589",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "6871",
-                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 6871)",
-                        "stop_id": "6871",
-                        "stop_lat": "45.447957",
-                        "stop_lon": "-122.643463",
-                        "stop_name": "SE 17th & Lava",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6871",
+                        "position": "Nearside",
+                        "stop_code": "2589",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 2589)",
+                        "stop_id": "2589",
+                        "stop_lat": "45.45145",
+                        "stop_lon": "-122.622083",
+                        "stop_name": "SE Harvey & 40th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2589",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 17th & Lava",
-            "onestopId": "s-c20f91tc81-se17th~lava",
+            "name": "SE Harvey & 40th",
+            "onestopId": "s-c20f9djmfk-seharvey~40th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5763,32 +5691,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.616114,
-                    45.473642
+                    -122.644661,
+                    45.474019
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7543",
+                    "identifier": "f-trimet-s-848",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7543",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7543)",
-                        "stop_id": "7543",
-                        "stop_lat": "45.473642",
-                        "stop_lon": "-122.616114",
-                        "stop_name": "SE 45th & Evergreen",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7543",
+                        "stop_code": "848",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 848)",
+                        "stop_id": "848",
+                        "stop_lat": "45.474019",
+                        "stop_lon": "-122.644661",
+                        "stop_name": "SE Bybee & 20th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=848",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 45th & Evergreen",
-            "onestopId": "s-c20f9y1xjm-se45th~evergreen",
+            "name": "SE Bybee & 20th",
+            "onestopId": "s-c20f9nkck7-sebybee~20th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5979,32 +5907,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.618335,
-                    45.479245
+                    -122.622428,
+                    45.479246
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6414",
+                    "identifier": "f-trimet-s-6409",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6414",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6414)",
-                        "stop_id": "6414",
-                        "stop_lat": "45.479245",
-                        "stop_lon": "-122.618335",
-                        "stop_name": "SE Woodstock & 43rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6414",
+                        "stop_code": "6409",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6409)",
+                        "stop_id": "6409",
+                        "stop_lat": "45.479246",
+                        "stop_lon": "-122.622428",
+                        "stop_name": "SE Woodstock & Cesar Chavez Blvd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6409",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Woodstock & 43rd",
-            "onestopId": "s-c20f9z0pc9-sewoodstock~43rd",
+            "name": "SE Woodstock & Cesar Chavez Blvd",
+            "onestopId": "s-c20f9xjpf3-sewoodstock~cesarchavez",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.624448,
+                    45.446701
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2579",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "2579",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 2579)",
+                        "stop_id": "2579",
+                        "stop_lat": "45.446701",
+                        "stop_lon": "-122.624448",
+                        "stop_name": "SE Harrison & 37th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2579",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Harrison & 37th",
+            "onestopId": "s-c20f997d5r-seharrison~37th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6447,32 +6411,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.630447,
-                    45.473529
+                    -122.638746,
+                    45.457034
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7336",
+                    "identifier": "f-trimet-s-3652",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7336",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7336)",
-                        "stop_id": "7336",
-                        "stop_lat": "45.473529",
-                        "stop_lon": "-122.630447",
-                        "stop_name": "SE 32nd & Bybee",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7336",
+                        "stop_code": "3652",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 3652)",
+                        "stop_id": "3652",
+                        "stop_lat": "45.457034",
+                        "stop_lon": "-122.638746",
+                        "stop_name": "SE Main & Beta",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3652",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 32nd & Bybee",
-            "onestopId": "s-c20f9qpnx2-se32nd~bybee",
+            "name": "SE Main & Beta",
+            "onestopId": "s-c20f971nqj-semain~beta",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6519,32 +6483,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.618649,
-                    45.452797
+                    -122.607504,
+                    45.475762
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2801",
+                    "identifier": "f-trimet-s-1528",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2801",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2801)",
-                        "stop_id": "2801",
-                        "stop_lat": "45.452797",
-                        "stop_lon": "-122.618649",
-                        "stop_name": "SE Howe & 43rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2801",
+                        "position": "At",
+                        "stop_code": "1528",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1528)",
+                        "stop_id": "1528",
+                        "stop_lat": "45.475762",
+                        "stop_lon": "-122.607504",
+                        "stop_name": "5400 Block SE Duke",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1528",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Howe & 43rd",
-            "onestopId": "s-c20f9drvdr-sehowe~43rd",
+            "name": "5400 Block SE Duke",
+            "onestopId": "s-c20f9yxgw0-5400blockseduke",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6663,32 +6627,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.630606,
-                    45.479086
+                    -122.635,
+                    45.446415
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6402",
+                    "identifier": "f-trimet-s-2572",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6402",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 6402)",
-                        "stop_id": "6402",
-                        "stop_lat": "45.479086",
-                        "stop_lon": "-122.630606",
-                        "stop_name": "SE Woodstock & 32nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6402",
+                        "stop_code": "2572",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2572)",
+                        "stop_id": "2572",
+                        "stop_lat": "45.446415",
+                        "stop_lon": "-122.635",
+                        "stop_name": "SE Harrison & 28th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2572",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Woodstock & 32nd",
-            "onestopId": "s-c20f9rpngu-sewoodstock~32nd",
+            "name": "SE Harrison & 28th",
+            "onestopId": "s-c20f937bt3-seharrison~28th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6699,32 +6663,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.616727,
-                    45.461576
+                    -122.608641,
+                    45.481709
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3079",
+                    "identifier": "f-trimet-s-7708",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "3079",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 3079)",
-                        "stop_id": "3079",
-                        "stop_lat": "45.461576",
-                        "stop_lon": "-122.616727",
-                        "stop_name": "SE Johnson Creek & Springwater Corridor",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3079",
+                        "stop_code": "7708",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7708)",
+                        "stop_id": "7708",
+                        "stop_lat": "45.481709",
+                        "stop_lon": "-122.608641",
+                        "stop_name": "SE 52nd & Reedway",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7708",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Johnson Creek & Springwater Corridor",
-            "onestopId": "s-c20f9u10zh-sejohnsoncreek~springwatercorridor",
+            "name": "SE 52nd & Reedway",
+            "onestopId": "s-c20f9zxn5t-se52nd~reedway",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6807,32 +6771,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.629877,
-                    45.451393
+                    -122.641816,
+                    45.448536
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7340",
+                    "identifier": "f-trimet-s-12462",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "7340",
-                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 7340)",
-                        "stop_id": "7340",
-                        "stop_lat": "45.451393",
-                        "stop_lon": "-122.629877",
-                        "stop_name": "SE 32nd & Harvey",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7340",
+                        "position": "At",
+                        "stop_code": "12462",
+                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 12462)",
+                        "stop_id": "12462",
+                        "stop_lat": "45.448536",
+                        "stop_lon": "-122.641816",
+                        "stop_name": "10200 Block SE Main",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12462",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 32nd & Harvey",
-            "onestopId": "s-c20f96ptsc-se32nd~harvey",
+            "name": "10200 Block SE Main",
+            "onestopId": "s-c20f91wuyt-10200blocksemain",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6951,32 +6915,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.608808,
-                    45.475941
+                    -122.626593,
+                    45.451348
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7682",
+                    "identifier": "f-trimet-s-2586",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7682",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7682)",
-                        "stop_id": "7682",
-                        "stop_lat": "45.475941",
-                        "stop_lon": "-122.608808",
-                        "stop_name": "SE 52nd & Duke",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7682",
+                        "stop_code": "2586",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2586)",
+                        "stop_id": "2586",
+                        "stop_lat": "45.451348",
+                        "stop_lon": "-122.626593",
+                        "stop_name": "SE Harvey & 36th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2586",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 52nd & Duke",
-            "onestopId": "s-c20f9ywux9-se52nd~duke",
+            "name": "SE Harvey & 36th",
+            "onestopId": "s-c20f9d4j33-seharvey~36th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6987,68 +6951,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622734,
-                    45.480022
+                    -122.609051,
+                    45.448072
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7466",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7466",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7466)",
-                        "stop_id": "7466",
-                        "stop_lat": "45.480022",
-                        "stop_lon": "-122.622734",
-                        "stop_name": "SE Cesar Chavez Blvd & Knight",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7466",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Cesar Chavez Blvd & Knight",
-            "onestopId": "s-c20f9xku74-secesarchavez~knight",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.648402,
-                    45.473797
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-838",
+                    "identifier": "f-trimet-s-3246",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "838",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 838)",
-                        "stop_id": "838",
-                        "stop_lat": "45.473797",
-                        "stop_lon": "-122.648402",
-                        "stop_name": "SE Bybee & Milwaukie",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=838",
+                        "position": "Opposite",
+                        "stop_code": "3246",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3246)",
+                        "stop_id": "3246",
+                        "stop_lat": "45.448072",
+                        "stop_lon": "-122.609051",
+                        "stop_name": "SE King & 52nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3246",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Bybee & Milwaukie",
-            "onestopId": "s-c20f9n60j4-sebybee~milwaukie",
+            "name": "SE King & 52nd",
+            "onestopId": "s-c20f9cwf4n-seking~52nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7167,32 +7095,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.647652,
-                    45.473664
+                    -122.647381,
+                    45.470261
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6848",
+                    "identifier": "f-trimet-s-6890",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "6848",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 6848)",
-                        "stop_id": "6848",
-                        "stop_lat": "45.473664",
-                        "stop_lon": "-122.647652",
-                        "stop_name": "SE 17th & Bybee",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6848",
+                        "stop_code": "6890",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 6890)",
+                        "stop_id": "6890",
+                        "stop_lat": "45.470261",
+                        "stop_lon": "-122.647381",
+                        "stop_name": "SE 17th & Rex",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6890",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 17th & Bybee",
-            "onestopId": "s-c20f9n4xq9-se17th~bybee",
+            "name": "SE 17th & Rex",
+            "onestopId": "s-c20f9jdgkz-se17th~rex",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7419,32 +7347,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.635,
-                    45.446415
+                    -122.630606,
+                    45.479086
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2572",
+                    "identifier": "f-trimet-s-6402",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "2572",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 2572)",
-                        "stop_id": "2572",
-                        "stop_lat": "45.446415",
-                        "stop_lon": "-122.635",
-                        "stop_name": "SE Harrison & 28th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2572",
+                        "stop_code": "6402",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 6402)",
+                        "stop_id": "6402",
+                        "stop_lat": "45.479086",
+                        "stop_lon": "-122.630606",
+                        "stop_name": "SE Woodstock & 32nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6402",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Harrison & 28th",
-            "onestopId": "s-c20f937bt3-seharrison~28th",
+            "name": "SE Woodstock & 32nd",
+            "onestopId": "s-c20f9rpngu-sewoodstock~32nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7491,32 +7419,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.628166,
-                    45.479374
+                    -122.626379,
+                    45.462185
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6406",
+                    "identifier": "f-trimet-s-3083",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "6406",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6406)",
-                        "stop_id": "6406",
-                        "stop_lat": "45.479374",
-                        "stop_lon": "-122.628166",
-                        "stop_name": "SE Woodstock & 34th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6406",
+                        "position": "Nearside",
+                        "stop_code": "3083",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 3083)",
+                        "stop_id": "3083",
+                        "stop_lat": "45.462185",
+                        "stop_lon": "-122.626379",
+                        "stop_name": "SE Johnson Creek & 36th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3083",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Woodstock & 34th",
-            "onestopId": "s-c20f9x2bs9-sewoodstock~34th",
+            "name": "SE Johnson Creek & 36th",
+            "onestopId": "s-c20f9s4hqm-sejohnsoncreek~36th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7743,32 +7671,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.624448,
-                    45.446701
+                    -122.618335,
+                    45.479245
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2579",
+                    "identifier": "f-trimet-s-6414",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "2579",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 2579)",
-                        "stop_id": "2579",
-                        "stop_lat": "45.446701",
-                        "stop_lon": "-122.624448",
-                        "stop_name": "SE Harrison & 37th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2579",
+                        "stop_code": "6414",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6414)",
+                        "stop_id": "6414",
+                        "stop_lat": "45.479245",
+                        "stop_lon": "-122.618335",
+                        "stop_name": "SE Woodstock & 43rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6414",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Harrison & 37th",
-            "onestopId": "s-c20f997d5r-seharrison~37th",
+            "name": "SE Woodstock & 43rd",
+            "onestopId": "s-c20f9z0pc9-sewoodstock~43rd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.616727,
+                    45.461576
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3079",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "3079",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 3079)",
+                        "stop_id": "3079",
+                        "stop_lat": "45.461576",
+                        "stop_lon": "-122.616727",
+                        "stop_name": "SE Johnson Creek & Springwater Corridor",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3079",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Johnson Creek & Springwater Corridor",
+            "onestopId": "s-c20f9u10zh-sejohnsoncreek~springwatercorridor",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7887,32 +7851,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.630518,
-                    45.443268
+                    -122.632781,
+                    45.443556
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6141",
+                    "identifier": "f-trimet-s-6157",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6141",
-                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 6141)",
-                        "stop_id": "6141",
-                        "stop_lat": "45.443268",
-                        "stop_lon": "-122.630518",
-                        "stop_name": "SE Washington & Oak",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6141",
+                        "position": "Nearside",
+                        "stop_code": "6157",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 6157)",
+                        "stop_id": "6157",
+                        "stop_lat": "45.443556",
+                        "stop_lon": "-122.632781",
+                        "stop_name": "SE Washington & 29th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6157",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Washington & Oak",
-            "onestopId": "s-c20f92xnjz-sewashington~oak",
+            "name": "SE Washington & 29th",
+            "onestopId": "s-c20f92txch-sewashington~29th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7995,32 +7959,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622566,
-                    45.48272
+                    -122.640508,
+                    45.445098
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7456",
+                    "identifier": "f-trimet-s-13482",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7456",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7456)",
-                        "stop_id": "7456",
-                        "stop_lat": "45.48272",
-                        "stop_lon": "-122.622566",
-                        "stop_name": "SE Cesar Chavez Blvd & Harold",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7456",
+                        "stop_code": "13482",
+                        "stop_desc": "Southbound stop in Milwaukie (Stop ID 13482)",
+                        "stop_id": "13482",
+                        "stop_lat": "45.445098",
+                        "stop_lon": "-122.640508",
+                        "stop_name": "SE 21st & Jackson",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13482",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Cesar Chavez Blvd & Harold",
-            "onestopId": "s-c20f9xuup1-secesarchavez~harold",
+            "name": "SE 21st & Jackson",
+            "onestopId": "s-c20f91pbvh-se21st~jackson",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -8057,6 +8021,42 @@
             ],
             "name": "SE Harrison & 29th",
             "onestopId": "s-c20f93m1ed-seharrison~29th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.615658,
+                    45.479125
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6415",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "6415",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 6415)",
+                        "stop_id": "6415",
+                        "stop_lat": "45.479125",
+                        "stop_lon": "-122.615658",
+                        "stop_name": "SE Woodstock & 46th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6415",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Woodstock & 46th",
+            "onestopId": "s-c20f9z4p05-sewoodstock~46th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

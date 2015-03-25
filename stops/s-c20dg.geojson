@@ -255,6 +255,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.880714,
+                    45.504818
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7094",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "7094",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 7094)",
+                        "stop_id": "7094",
+                        "stop_lat": "45.504818",
+                        "stop_lon": "-122.880714",
+                        "stop_name": "SW 198th & York",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7094",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW 198th & York",
+            "onestopId": "s-c20dggbuzb-sw198th~york",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.881442,
                     45.484113
                 ],
@@ -363,32 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.879632,
-                    45.51339
+                    -122.889131,
+                    45.523319
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13035",
+                    "identifier": "f-trimet-s-9833",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13035",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 13035)",
-                        "stop_id": "13035",
-                        "stop_lat": "45.51339",
-                        "stop_lon": "-122.879632",
-                        "stop_name": "SW 197th & Brookfield",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13035",
-                        "zone_id": "B"
+                        "parent_station": "landmark-102",
+                        "position": "At",
+                        "stop_code": "9833",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 9833)",
+                        "stop_id": "9833",
+                        "stop_lat": "45.523319",
+                        "stop_lon": "-122.889131",
+                        "stop_name": "Quatama/NW 205th Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9833",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "SW 197th & Brookfield",
-            "onestopId": "s-c20dgv3y9n-sw197th~brookfield",
+            "name": "Quatama/NW 205th Ave MAX Station",
+            "onestopId": "s-c20dgx6be9-quatama~nw205thmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -543,6 +579,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.871246,
+                    45.516383
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-265",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "265",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 265)",
+                        "stop_id": "265",
+                        "stop_lat": "45.516383",
+                        "stop_lon": "-122.871246",
+                        "stop_name": "W Baseline Rd & SW Lisa",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=265",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "W Baseline Rd & SW Lisa",
+            "onestopId": "s-c20dgypbhk-wbaseline~swlisa",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.896549,
                     45.497191
                 ],
@@ -579,32 +651,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.87641,
-                    45.515931
+                    -122.87584,
+                    45.494851
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-278",
+                    "identifier": "f-trimet-s-5633",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "278",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 278)",
-                        "stop_id": "278",
-                        "stop_lat": "45.515931",
-                        "stop_lon": "-122.87641",
-                        "stop_name": "W Baseline Rd & SW 194th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=278",
+                        "position": "Farside",
+                        "stop_code": "5633",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 5633)",
+                        "stop_id": "5633",
+                        "stop_lat": "45.494851",
+                        "stop_lon": "-122.87584",
+                        "stop_name": "SW Tualatin Valley Hwy & 192nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5633",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Baseline Rd & SW 194th",
-            "onestopId": "s-c20dgvujs0-wbaseline~sw194th",
+            "name": "SW Tualatin Valley Hwy & 192nd",
+            "onestopId": "s-c20dgfhd9q-swtualatinvalley~192nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -651,32 +723,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.871246,
-                    45.516383
+                    -122.879424,
+                    45.509517
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-265",
+                    "identifier": "f-trimet-s-13706",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "265",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 265)",
-                        "stop_id": "265",
-                        "stop_lat": "45.516383",
-                        "stop_lon": "-122.871246",
-                        "stop_name": "W Baseline Rd & SW Lisa",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=265",
+                        "stop_code": "13706",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13706)",
+                        "stop_id": "13706",
+                        "stop_lat": "45.509517",
+                        "stop_lon": "-122.879424",
+                        "stop_name": "SW 197th & Limestone Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13706",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Baseline Rd & SW Lisa",
-            "onestopId": "s-c20dgypbhk-wbaseline~swlisa",
+            "name": "SW 197th & Limestone Ct",
+            "onestopId": "s-c20dgucbju-sw197th~limestone",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -687,32 +759,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.881129,
-                    45.498193
+                    -122.881233,
+                    45.496055
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7089",
+                    "identifier": "f-trimet-s-13705",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "7089",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 7089)",
-                        "stop_id": "7089",
-                        "stop_lat": "45.498193",
-                        "stop_lon": "-122.881129",
-                        "stop_name": "SW 198th & Trelane",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7089",
+                        "position": "At",
+                        "stop_code": "13705",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 13705)",
+                        "stop_id": "13705",
+                        "stop_lat": "45.496055",
+                        "stop_lon": "-122.881233",
+                        "stop_name": "3300 Block SW 198th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13705",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 198th & Trelane",
-            "onestopId": "s-c20dgf8wnj-sw198th~trelane",
+            "name": "3300 Block SW 198th",
+            "onestopId": "s-c20dgf29ex-3300blocksw198th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -903,32 +975,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.889131,
-                    45.523319
+                    -122.879632,
+                    45.51339
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9833",
+                    "identifier": "f-trimet-s-13035",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
-                        "parent_station": "landmark-102",
-                        "position": "At",
-                        "stop_code": "9833",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 9833)",
-                        "stop_id": "9833",
-                        "stop_lat": "45.523319",
-                        "stop_lon": "-122.889131",
-                        "stop_name": "Quatama/NW 205th Ave MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9833",
-                        "zone_id": "R"
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13035",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 13035)",
+                        "stop_id": "13035",
+                        "stop_lat": "45.51339",
+                        "stop_lon": "-122.879632",
+                        "stop_name": "SW 197th & Brookfield",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13035",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "Quatama/NW 205th Ave MAX Station",
-            "onestopId": "s-c20dgx6be9-quatama~nw205thmaxstation",
+            "name": "SW 197th & Brookfield",
+            "onestopId": "s-c20dgv3y9n-sw197th~brookfield",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -975,104 +1047,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.880714,
-                    45.504818
+                    -122.87641,
+                    45.515931
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7094",
+                    "identifier": "f-trimet-s-278",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "7094",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 7094)",
-                        "stop_id": "7094",
-                        "stop_lat": "45.504818",
-                        "stop_lon": "-122.880714",
-                        "stop_name": "SW 198th & York",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7094",
+                        "position": "Nearside",
+                        "stop_code": "278",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 278)",
+                        "stop_id": "278",
+                        "stop_lat": "45.515931",
+                        "stop_lon": "-122.87641",
+                        "stop_name": "W Baseline Rd & SW 194th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=278",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 198th & York",
-            "onestopId": "s-c20dggbuzb-sw198th~york",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.879424,
-                    45.509517
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13706",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13706",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13706)",
-                        "stop_id": "13706",
-                        "stop_lat": "45.509517",
-                        "stop_lon": "-122.879424",
-                        "stop_name": "SW 197th & Limestone Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13706",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW 197th & Limestone Ct",
-            "onestopId": "s-c20dgucbju-sw197th~limestone",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.87584,
-                    45.494851
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5633",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "5633",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 5633)",
-                        "stop_id": "5633",
-                        "stop_lat": "45.494851",
-                        "stop_lon": "-122.87584",
-                        "stop_name": "SW Tualatin Valley Hwy & 192nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5633",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Tualatin Valley Hwy & 192nd",
-            "onestopId": "s-c20dgfhd9q-swtualatinvalley~192nd",
+            "name": "W Baseline Rd & SW 194th",
+            "onestopId": "s-c20dgvujs0-wbaseline~sw194th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1299,42 +1299,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.912464,
-                    45.498422
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5651",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5651",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 5651)",
-                        "stop_id": "5651",
-                        "stop_lat": "45.498422",
-                        "stop_lon": "-122.912464",
-                        "stop_name": "SE Tualatin Valley Hwy & SW 229th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5651",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Tualatin Valley Hwy & SW 229th",
-            "onestopId": "s-c20dg49zs0-setualatinvalley~sw229th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.879605,
                     45.514394
                 ],
@@ -1371,32 +1335,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.881233,
-                    45.496055
+                    -122.881129,
+                    45.498193
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13705",
+                    "identifier": "f-trimet-s-7089",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13705",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 13705)",
-                        "stop_id": "13705",
-                        "stop_lat": "45.496055",
-                        "stop_lon": "-122.881233",
-                        "stop_name": "3300 Block SW 198th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13705",
+                        "position": "Opposite",
+                        "stop_code": "7089",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 7089)",
+                        "stop_id": "7089",
+                        "stop_lat": "45.498193",
+                        "stop_lon": "-122.881129",
+                        "stop_name": "SW 198th & Trelane",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7089",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "3300 Block SW 198th",
-            "onestopId": "s-c20dgf29ex-3300blocksw198th",
+            "name": "SW 198th & Trelane",
+            "onestopId": "s-c20dgf8wnj-sw198th~trelane",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1443,32 +1407,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.881014,
-                    45.496052
+                    -122.873087,
+                    45.494353
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13499",
+                    "identifier": "f-trimet-s-5593",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "13499",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13499)",
-                        "stop_id": "13499",
-                        "stop_lat": "45.496052",
-                        "stop_lon": "-122.881014",
-                        "stop_name": "3300 Block SW 198th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13499",
+                        "position": "At",
+                        "stop_code": "5593",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 5593)",
+                        "stop_id": "5593",
+                        "stop_lat": "45.494353",
+                        "stop_lon": "-122.873087",
+                        "stop_name": "18882-19040 SW Tualatin Valley Hwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5593",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "3300 Block SW 198th",
-            "onestopId": "s-c20dgf2c8y-3300blocksw198th",
+            "name": "18882-19040 SW Tualatin Valley Hwy",
+            "onestopId": "s-c20dgcyxcd-1888219040swtualatinvalley",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1551,32 +1515,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.87676,
-                    45.516076
+                    -122.912464,
+                    45.498422
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-279",
+                    "identifier": "f-trimet-s-5651",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "279",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 279)",
-                        "stop_id": "279",
-                        "stop_lat": "45.516076",
-                        "stop_lon": "-122.87676",
-                        "stop_name": "W Baseline Rd & SW 195th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=279",
+                        "stop_code": "5651",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 5651)",
+                        "stop_id": "5651",
+                        "stop_lat": "45.498422",
+                        "stop_lon": "-122.912464",
+                        "stop_name": "SE Tualatin Valley Hwy & SW 229th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5651",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Baseline Rd & SW 195th",
-            "onestopId": "s-c20dgvgy7g-wbaseline~sw195th",
+            "name": "SE Tualatin Valley Hwy & SW 229th",
+            "onestopId": "s-c20dg49zs0-setualatinvalley~sw229th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.9146,
+                    45.522302
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10054",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "10054",
+                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 10054)",
+                        "stop_id": "10054",
+                        "stop_lat": "45.522302",
+                        "stop_lon": "-122.9146",
+                        "stop_name": "NW 231st & NE Deer Run",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10054",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW 231st & NE Deer Run",
+            "onestopId": "s-c20dgp06dh-nw231st~nedeerrun",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1839,32 +1839,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.873087,
-                    45.494353
+                    -122.881014,
+                    45.496052
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5593",
+                    "identifier": "f-trimet-s-13499",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "5593",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 5593)",
-                        "stop_id": "5593",
-                        "stop_lat": "45.494353",
-                        "stop_lon": "-122.873087",
-                        "stop_name": "18882-19040 SW Tualatin Valley Hwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5593",
+                        "position": "Opposite",
+                        "stop_code": "13499",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 13499)",
+                        "stop_id": "13499",
+                        "stop_lat": "45.496052",
+                        "stop_lon": "-122.881014",
+                        "stop_name": "3300 Block SW 198th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13499",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "18882-19040 SW Tualatin Valley Hwy",
-            "onestopId": "s-c20dgcyxcd-1888219040swtualatinvalley",
+            "name": "3300 Block SW 198th",
+            "onestopId": "s-c20dgf2c8y-3300blocksw198th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1875,32 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.9146,
-                    45.522302
+                    -122.87676,
+                    45.516076
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10054",
+                    "identifier": "f-trimet-s-279",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10054",
-                        "stop_desc": "Northbound stop in Hillsboro (Stop ID 10054)",
-                        "stop_id": "10054",
-                        "stop_lat": "45.522302",
-                        "stop_lon": "-122.9146",
-                        "stop_name": "NW 231st & NE Deer Run",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10054",
+                        "position": "Nearside",
+                        "stop_code": "279",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 279)",
+                        "stop_id": "279",
+                        "stop_lat": "45.516076",
+                        "stop_lon": "-122.87676",
+                        "stop_name": "W Baseline Rd & SW 195th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=279",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 231st & NE Deer Run",
-            "onestopId": "s-c20dgp06dh-nw231st~nedeerrun",
+            "name": "W Baseline Rd & SW 195th",
+            "onestopId": "s-c20dgvgy7g-wbaseline~sw195th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

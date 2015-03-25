@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.78501,
-                    49.029166
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6245",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56185",
-                        "stop_desc": "RUSSELL AVE @ KENT ST",
-                        "stop_id": "6245",
-                        "stop_lat": "49.029166",
-                        "stop_lon": "-122.78501",
-                        "stop_name": "EB RUSSELL AV NS KENT ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB RUSSELL AV NS KENT ST",
-            "onestopId": "s-c28wvvqxtf-ebrussellnskent",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.802185,
                     49.027644
                 ],
@@ -71,30 +37,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.797676,
-                    49.019004
+                    -122.78501,
+                    49.029166
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6258",
+                    "identifier": "f-translink-s-6245",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56198",
-                        "stop_desc": "MARINE DR @ DOLPHIN ST",
-                        "stop_id": "6258",
-                        "stop_lat": "49.019004",
-                        "stop_lon": "-122.797676",
-                        "stop_name": "WB MARINE DR NS DOLPHIN ST",
+                        "stop_code": "56185",
+                        "stop_desc": "RUSSELL AVE @ KENT ST",
+                        "stop_id": "6245",
+                        "stop_lat": "49.029166",
+                        "stop_lon": "-122.78501",
+                        "stop_name": "EB RUSSELL AV NS KENT ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB MARINE DR NS DOLPHIN ST",
-            "onestopId": "s-c28wvetkqu-wbmarinensdolphin",
+            "name": "EB RUSSELL AV NS KENT ST",
+            "onestopId": "s-c28wvvqxtf-ebrussellnskent",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.796817,
+                    49.020515
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6337",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56277",
+                        "stop_desc": "COLUMBIA AVE @ 15300 BLOCK",
+                        "stop_id": "6337",
+                        "stop_lat": "49.020515",
+                        "stop_lon": "-122.796817",
+                        "stop_name": "WB COLUMBIA AV AT 15300 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB COLUMBIA AV AT 15300 BLOCK",
+            "onestopId": "s-c28wveyj4y-wbcolumbiaat15300block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -129,6 +129,40 @@
             ],
             "name": "WB MARINE DR NS LEE ST",
             "onestopId": "s-c28wvgjnds-wbmarinenslee",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.796769,
+                    49.020384
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6360",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56300",
+                        "stop_desc": "COLUMBIA AVE @ CENTRE ST",
+                        "stop_id": "6360",
+                        "stop_lat": "49.020384",
+                        "stop_lon": "-122.796769",
+                        "stop_name": "EB COLUMBIA AV FS CENTRE ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB COLUMBIA AV FS CENTRE ST",
+            "onestopId": "s-c28wveyh7v-ebcolumbiafscentre",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -207,30 +241,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.796817,
-                    49.020515
+                    -122.797676,
+                    49.019004
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6337",
+                    "identifier": "f-translink-s-6258",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56277",
-                        "stop_desc": "COLUMBIA AVE @ 15300 BLOCK",
-                        "stop_id": "6337",
-                        "stop_lat": "49.020515",
-                        "stop_lon": "-122.796817",
-                        "stop_name": "WB COLUMBIA AV AT 15300 BLOCK",
+                        "stop_code": "56198",
+                        "stop_desc": "MARINE DR @ DOLPHIN ST",
+                        "stop_id": "6258",
+                        "stop_lat": "49.019004",
+                        "stop_lon": "-122.797676",
+                        "stop_name": "WB MARINE DR NS DOLPHIN ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB COLUMBIA AV AT 15300 BLOCK",
-            "onestopId": "s-c28wveyj4y-wbcolumbiaat15300block",
+            "name": "WB MARINE DR NS DOLPHIN ST",
+            "onestopId": "s-c28wvetkqu-wbmarinensdolphin",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -275,30 +309,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.802876,
-                    49.038421
+                    -122.81897,
+                    49.031065
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9421",
+                    "identifier": "f-translink-s-6165",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58320",
-                        "stop_desc": "20 AVE @ 151A ST",
-                        "stop_id": "9421",
-                        "stop_lat": "49.038421",
-                        "stop_lon": "-122.802876",
-                        "stop_name": "WB 20 AV FS 151A ST",
+                        "stop_code": "56107",
+                        "stop_desc": "NORTH BLUFF RD @ HIGH ST",
+                        "stop_id": "6165",
+                        "stop_lat": "49.031065",
+                        "stop_lon": "-122.81897",
+                        "stop_name": "EB N BLUFF RD FS HIGH ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 20 AV FS 151A ST",
-            "onestopId": "s-c28wvx1tt8-wb20fs151a",
+            "name": "EB N BLUFF RD FS HIGH ST",
+            "onestopId": "s-c28wvjvfws-ebnblufffshigh",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -547,30 +581,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.79637,
-                    49.031168
+                    -122.802091,
+                    49.031208
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5435",
+                    "identifier": "f-translink-s-6340",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55382",
-                        "stop_desc": "16 AVE @ 154 ST",
-                        "stop_id": "5435",
-                        "stop_lat": "49.031168",
-                        "stop_lon": "-122.79637",
-                        "stop_name": "WB 16 AV FS 154 ST",
+                        "stop_code": "56280",
+                        "stop_desc": "WHITE ROCK CENTRE @ BAY 4",
+                        "stop_id": "6340",
+                        "stop_lat": "49.031208",
+                        "stop_lon": "-122.802091",
+                        "stop_name": "WHITE ROCK CENTRE BAY 4",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 16 AV FS 154 ST",
-            "onestopId": "s-c28wvty7m0-wb16fs154",
+            "name": "WHITE ROCK CENTRE BAY 4",
+            "onestopId": "s-c28wvtf5rz-whiterockcentrebay4",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -649,30 +683,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.812114,
-                    49.029755
+                    -122.822273,
+                    49.02544
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6201",
+                    "identifier": "f-translink-s-6293",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56142",
-                        "stop_desc": "OXFORD ST @ RUSSELL AVE",
-                        "stop_id": "6201",
-                        "stop_lat": "49.029755",
-                        "stop_lon": "-122.812114",
-                        "stop_name": "NB OXFORD ST FS RUSSELL AV",
+                        "stop_code": "56233",
+                        "stop_desc": "MARINE DR @ MAGDALEN CRES",
+                        "stop_id": "6293",
+                        "stop_lat": "49.02544",
+                        "stop_lon": "-122.822273",
+                        "stop_name": "EB MARINE DR FS MAGDALEN CRES",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB OXFORD ST FS RUSSELL AV",
-            "onestopId": "s-c28wvmdgn2-nboxfordfsrussell",
+            "name": "EB MARINE DR FS MAGDALEN CRES",
+            "onestopId": "s-c28wvhg9cs-ebmarinefsmagdalencres",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -887,6 +921,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.804416,
+                    49.027647
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6198",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56139",
+                        "stop_desc": "THRIFT AVE @ FOSTER ST",
+                        "stop_id": "6198",
+                        "stop_lat": "49.027647",
+                        "stop_lon": "-122.804416",
+                        "stop_name": "WB THRIFT AV FS FOSTER ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB THRIFT AV FS FOSTER ST",
+            "onestopId": "s-c28wvt0w9x-wbthriftfsfoster",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.812097,
                     49.033669
                 ],
@@ -1023,30 +1091,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.822273,
-                    49.02544
+                    -122.794806,
+                    49.01977
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6293",
+                    "identifier": "f-translink-s-6361",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56233",
-                        "stop_desc": "MARINE DR @ MAGDALEN CRES",
-                        "stop_id": "6293",
-                        "stop_lat": "49.02544",
-                        "stop_lon": "-122.822273",
-                        "stop_name": "EB MARINE DR FS MAGDALEN CRES",
+                        "stop_code": "56301",
+                        "stop_desc": "COLUMBIA AVE @ 15400 BLOCK",
+                        "stop_id": "6361",
+                        "stop_lat": "49.01977",
+                        "stop_lon": "-122.794806",
+                        "stop_name": "EB COLUMBIA AV AT 15400 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB MARINE DR FS MAGDALEN CRES",
-            "onestopId": "s-c28wvhg9cs-ebmarinefsmagdalencres",
+            "name": "EB COLUMBIA AV AT 15400 BLOCK",
+            "onestopId": "s-c28wvez8ce-ebcolumbiaat15400block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1091,30 +1159,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.823385,
-                    49.037667
+                    -122.810074,
+                    49.022583
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6231",
+                    "identifier": "f-translink-s-6297",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56171",
-                        "stop_desc": "144 ST @ 19A AVE",
-                        "stop_id": "6231",
-                        "stop_lat": "49.037667",
-                        "stop_lon": "-122.823385",
-                        "stop_name": "SB 144 ST NS 19A AV",
+                        "stop_code": "56237",
+                        "stop_desc": "MARINE DR @ ELM ST",
+                        "stop_id": "6297",
+                        "stop_lat": "49.022583",
+                        "stop_lon": "-122.810074",
+                        "stop_name": "EB MARINE DR FS ELM ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 144 ST NS 19A AV",
-            "onestopId": "s-c28wvp49pe-sb144ns19a",
+            "name": "EB MARINE DR FS ELM ST",
+            "onestopId": "s-c28wvkk3jz-ebmarinefselm",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1159,30 +1227,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.790274,
-                    49.034149
+                    -122.823385,
+                    49.037667
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6410",
+                    "identifier": "f-translink-s-6231",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56350",
-                        "stop_desc": "156 ST @ 18 AVE",
-                        "stop_id": "6410",
-                        "stop_lat": "49.034149",
-                        "stop_lon": "-122.790274",
-                        "stop_name": "SB 156 ST FS 18 AV",
+                        "stop_code": "56171",
+                        "stop_desc": "144 ST @ 19A AVE",
+                        "stop_id": "6231",
+                        "stop_lat": "49.037667",
+                        "stop_lon": "-122.823385",
+                        "stop_name": "SB 144 ST NS 19A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 156 ST FS 18 AV",
-            "onestopId": "s-c28wvy6ue5-sb156fs18",
+            "name": "SB 144 ST NS 19A AV",
+            "onestopId": "s-c28wvp49pe-sb144ns19a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1217,40 +1285,6 @@
             ],
             "name": "SB 152 ST FS 18 AV",
             "onestopId": "s-c28wvw6vct-sb152fs18",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.806207,
-                    49.031219
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6341",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56281",
-                        "stop_desc": "16 AVE @ MARTIN DR",
-                        "stop_id": "6341",
-                        "stop_lat": "49.031219",
-                        "stop_lon": "-122.806207",
-                        "stop_name": "WB 16 AV FS MARTIN DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB 16 AV FS MARTIN DR",
-            "onestopId": "s-c28wvmz5xc-wb16fsmartin",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1635,30 +1669,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.812293,
-                    49.041583
+                    -122.806207,
+                    49.031219
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6229",
+                    "identifier": "f-translink-s-6341",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56169",
-                        "stop_desc": "148 ST @ 21A AVE",
-                        "stop_id": "6229",
-                        "stop_lat": "49.041583",
-                        "stop_lon": "-122.812293",
-                        "stop_name": "SB 148 ST NS 21A AV",
+                        "stop_code": "56281",
+                        "stop_desc": "16 AVE @ MARTIN DR",
+                        "stop_id": "6341",
+                        "stop_lat": "49.031219",
+                        "stop_lon": "-122.806207",
+                        "stop_name": "WB 16 AV FS MARTIN DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 148 ST NS 21A AV",
-            "onestopId": "s-c28wvrdzfj-sb148ns21a",
+            "name": "WB 16 AV FS MARTIN DR",
+            "onestopId": "s-c28wvmz5xc-wb16fsmartin",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.812114,
+                    49.029755
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6201",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56142",
+                        "stop_desc": "OXFORD ST @ RUSSELL AVE",
+                        "stop_id": "6201",
+                        "stop_lat": "49.029755",
+                        "stop_lon": "-122.812114",
+                        "stop_name": "NB OXFORD ST FS RUSSELL AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB OXFORD ST FS RUSSELL AV",
+            "onestopId": "s-c28wvmdgn2-nboxfordfsrussell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1737,30 +1805,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.796769,
-                    49.020384
+                    -122.800982,
+                    49.027923
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6360",
+                    "identifier": "f-translink-s-6172",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56300",
-                        "stop_desc": "COLUMBIA AVE @ CENTRE ST",
-                        "stop_id": "6360",
-                        "stop_lat": "49.020384",
-                        "stop_lon": "-122.796769",
-                        "stop_name": "EB COLUMBIA AV FS CENTRE ST",
+                        "stop_code": "56114",
+                        "stop_desc": "JOHNSTON RD @ THRIFT AVE",
+                        "stop_id": "6172",
+                        "stop_lat": "49.027923",
+                        "stop_lon": "-122.800982",
+                        "stop_name": "NB JOHNSTON RD FS THRIFT AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB COLUMBIA AV FS CENTRE ST",
-            "onestopId": "s-c28wveyh7v-ebcolumbiafscentre",
+            "name": "NB JOHNSTON RD FS THRIFT AV",
+            "onestopId": "s-c28wvt703e-nbjohnstonfsthrift",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1771,30 +1839,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.792996,
-                    49.019309
+                    -122.798787,
+                    49.029368
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6336",
+                    "identifier": "f-translink-s-6320",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56276",
-                        "stop_desc": "COLUMBIA AVE @ 15500 BLOCK",
-                        "stop_id": "6336",
-                        "stop_lat": "49.019309",
-                        "stop_lon": "-122.792996",
-                        "stop_name": "WB COLUMBIA AV AT 15500 BLOCK",
+                        "stop_code": "56260",
+                        "stop_desc": "RUSSELL AVE @ FIR ST",
+                        "stop_id": "6320",
+                        "stop_lat": "49.029368",
+                        "stop_lon": "-122.798787",
+                        "stop_name": "WB RUSSELL AV FS FIR ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB COLUMBIA AV AT 15500 BLOCK",
-            "onestopId": "s-c28wvg8y5v-wbcolumbiaat15500block",
+            "name": "WB RUSSELL AV FS FIR ST",
+            "onestopId": "s-c28wvts8ub-wbrussellfsfir",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2179,6 +2247,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.812294,
+                    49.029213
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6168",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56110",
+                        "stop_desc": "OXFORD ST @ RUSSELL AVE",
+                        "stop_id": "6168",
+                        "stop_lat": "49.029213",
+                        "stop_lon": "-122.812294",
+                        "stop_name": "SB OXFORD ST FS RUSSELL AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB OXFORD ST FS RUSSELL AV",
+            "onestopId": "s-c28wvm6zf5-sboxfordfsrussell",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.808888,
                     49.023978
                 ],
@@ -2247,30 +2349,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.801091,
-                    49.031826
+                    -122.822838,
+                    49.031064
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6139",
+                    "identifier": "f-translink-s-6164",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56081",
-                        "stop_desc": "WHITE ROCK CENTRE @ BAY 5",
-                        "stop_id": "6139",
-                        "stop_lat": "49.031826",
-                        "stop_lon": "-122.801091",
-                        "stop_name": "WHITE ROCK CENTRE BAY 5",
+                        "stop_code": "56106",
+                        "stop_desc": "NORTH BLUFF RD @ ARCHIBALD RD",
+                        "stop_id": "6164",
+                        "stop_lat": "49.031064",
+                        "stop_lon": "-122.822838",
+                        "stop_name": "EB N BLUFF RD FS ARCHIBALD RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WHITE ROCK CENTRE BAY 5",
-            "onestopId": "s-c28wvtfzp4-whiterockcentrebay5",
+            "name": "EB N BLUFF RD FS ARCHIBALD RD",
+            "onestopId": "s-c28wvjg4sk-ebnblufffsarchibald",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2553,30 +2655,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.801352,
-                    49.038079
+                    -122.824792,
+                    49.026054
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5537",
+                    "identifier": "f-translink-s-6292",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55483",
-                        "stop_desc": "152 ST @ 20 AVE",
-                        "stop_id": "5537",
-                        "stop_lat": "49.038079",
-                        "stop_lon": "-122.801352",
-                        "stop_name": "SB 152 ST FS 20 AV",
+                        "stop_code": "56232",
+                        "stop_desc": "MARINE DR @ MAGDALEN CRES",
+                        "stop_id": "6292",
+                        "stop_lat": "49.026054",
+                        "stop_lon": "-122.824792",
+                        "stop_name": "EB MARINE DR NS MAGDALEN CRES",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 152 ST FS 20 AV",
-            "onestopId": "s-c28wvx4g90-sb152fs20",
+            "name": "EB MARINE DR NS MAGDALEN CRES",
+            "onestopId": "s-c28wvhctqy-ebmarinensmagdalencres",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2587,30 +2689,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.802091,
-                    49.031208
+                    -122.79637,
+                    49.031168
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6340",
+                    "identifier": "f-translink-s-5435",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56280",
-                        "stop_desc": "WHITE ROCK CENTRE @ BAY 4",
-                        "stop_id": "6340",
-                        "stop_lat": "49.031208",
-                        "stop_lon": "-122.802091",
-                        "stop_name": "WHITE ROCK CENTRE BAY 4",
+                        "stop_code": "55382",
+                        "stop_desc": "16 AVE @ 154 ST",
+                        "stop_id": "5435",
+                        "stop_lat": "49.031168",
+                        "stop_lon": "-122.79637",
+                        "stop_name": "WB 16 AV FS 154 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WHITE ROCK CENTRE BAY 4",
-            "onestopId": "s-c28wvtf5rz-whiterockcentrebay4",
+            "name": "WB 16 AV FS 154 ST",
+            "onestopId": "s-c28wvty7m0-wb16fs154",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2713,40 +2815,6 @@
             ],
             "name": "WB COLUMBIA AV FS MAPLE ST",
             "onestopId": "s-c28wvge3hq-wbcolumbiafsmaple",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.812294,
-                    49.029213
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6168",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56110",
-                        "stop_desc": "OXFORD ST @ RUSSELL AVE",
-                        "stop_id": "6168",
-                        "stop_lat": "49.029213",
-                        "stop_lon": "-122.812294",
-                        "stop_name": "SB OXFORD ST FS RUSSELL AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB OXFORD ST FS RUSSELL AV",
-            "onestopId": "s-c28wvm6zf5-sboxfordfsrussell",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3131,40 +3199,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.794806,
-                    49.01977
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6361",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56301",
-                        "stop_desc": "COLUMBIA AVE @ 15400 BLOCK",
-                        "stop_id": "6361",
-                        "stop_lat": "49.01977",
-                        "stop_lon": "-122.794806",
-                        "stop_name": "EB COLUMBIA AV AT 15400 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB COLUMBIA AV AT 15400 BLOCK",
-            "onestopId": "s-c28wvez8ce-ebcolumbiaat15400block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.787433,
                     49.016532
                 ],
@@ -3369,30 +3403,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.81897,
-                    49.031065
+                    -122.790274,
+                    49.034149
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6165",
+                    "identifier": "f-translink-s-6410",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56107",
-                        "stop_desc": "NORTH BLUFF RD @ HIGH ST",
-                        "stop_id": "6165",
-                        "stop_lat": "49.031065",
-                        "stop_lon": "-122.81897",
-                        "stop_name": "EB N BLUFF RD FS HIGH ST",
+                        "stop_code": "56350",
+                        "stop_desc": "156 ST @ 18 AVE",
+                        "stop_id": "6410",
+                        "stop_lat": "49.034149",
+                        "stop_lon": "-122.790274",
+                        "stop_name": "SB 156 ST FS 18 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB N BLUFF RD FS HIGH ST",
-            "onestopId": "s-c28wvjvfws-ebnblufffshigh",
+            "name": "SB 156 ST FS 18 AV",
+            "onestopId": "s-c28wvy6ue5-sb156fs18",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3573,30 +3607,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.822838,
-                    49.031064
+                    -122.801091,
+                    49.031826
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6164",
+                    "identifier": "f-translink-s-6139",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56106",
-                        "stop_desc": "NORTH BLUFF RD @ ARCHIBALD RD",
-                        "stop_id": "6164",
-                        "stop_lat": "49.031064",
-                        "stop_lon": "-122.822838",
-                        "stop_name": "EB N BLUFF RD FS ARCHIBALD RD",
+                        "stop_code": "56081",
+                        "stop_desc": "WHITE ROCK CENTRE @ BAY 5",
+                        "stop_id": "6139",
+                        "stop_lat": "49.031826",
+                        "stop_lon": "-122.801091",
+                        "stop_name": "WHITE ROCK CENTRE BAY 5",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB N BLUFF RD FS ARCHIBALD RD",
-            "onestopId": "s-c28wvjg4sk-ebnblufffsarchibald",
+            "name": "WHITE ROCK CENTRE BAY 5",
+            "onestopId": "s-c28wvtfzp4-whiterockcentrebay5",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3607,30 +3641,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.798086,
-                    49.019036
+                    -122.812794,
+                    49.038515
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6301",
+                    "identifier": "f-translink-s-6230",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56241",
-                        "stop_desc": "MARINE DR @ DOLPHIN ST",
-                        "stop_id": "6301",
-                        "stop_lat": "49.019036",
-                        "stop_lon": "-122.798086",
-                        "stop_name": "EB MARINE DR NS DOLPHIN ST",
+                        "stop_code": "56170",
+                        "stop_desc": "20 AVE @ 148 ST",
+                        "stop_id": "6230",
+                        "stop_lat": "49.038515",
+                        "stop_lon": "-122.812794",
+                        "stop_name": "WB 20 AV FS 148 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB MARINE DR NS DOLPHIN ST",
-            "onestopId": "s-c28wvetht4-ebmarinensdolphin",
+            "name": "WB 20 AV FS 148 ST",
+            "onestopId": "s-c28wvr4qn3-wb20fs148",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.802876,
+                    49.038421
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-9421",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58320",
+                        "stop_desc": "20 AVE @ 151A ST",
+                        "stop_id": "9421",
+                        "stop_lat": "49.038421",
+                        "stop_lon": "-122.802876",
+                        "stop_name": "WB 20 AV FS 151A ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB 20 AV FS 151A ST",
+            "onestopId": "s-c28wvx1tt8-wb20fs151a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3743,30 +3811,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.812794,
-                    49.038515
+                    -122.798086,
+                    49.019036
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6230",
+                    "identifier": "f-translink-s-6301",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56170",
-                        "stop_desc": "20 AVE @ 148 ST",
-                        "stop_id": "6230",
-                        "stop_lat": "49.038515",
-                        "stop_lon": "-122.812794",
-                        "stop_name": "WB 20 AV FS 148 ST",
+                        "stop_code": "56241",
+                        "stop_desc": "MARINE DR @ DOLPHIN ST",
+                        "stop_id": "6301",
+                        "stop_lat": "49.019036",
+                        "stop_lon": "-122.798086",
+                        "stop_name": "EB MARINE DR NS DOLPHIN ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 20 AV FS 148 ST",
-            "onestopId": "s-c28wvr4qn3-wb20fs148",
+            "name": "EB MARINE DR NS DOLPHIN ST",
+            "onestopId": "s-c28wvetht4-ebmarinensdolphin",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3879,30 +3947,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.806309,
-                    49.038322
+                    -122.812293,
+                    49.041583
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6347",
+                    "identifier": "f-translink-s-6229",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56287",
-                        "stop_desc": "20 AVE @ 150 ST",
-                        "stop_id": "6347",
-                        "stop_lat": "49.038322",
-                        "stop_lon": "-122.806309",
-                        "stop_name": "EB 20 AV FS 150 ST",
+                        "stop_code": "56169",
+                        "stop_desc": "148 ST @ 21A AVE",
+                        "stop_id": "6229",
+                        "stop_lat": "49.041583",
+                        "stop_lon": "-122.812293",
+                        "stop_name": "SB 148 ST NS 21A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 20 AV FS 150 ST",
-            "onestopId": "s-c28wvrphvt-eb20fs150",
+            "name": "SB 148 ST NS 21A AV",
+            "onestopId": "s-c28wvrdzfj-sb148ns21a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4151,30 +4219,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.804416,
-                    49.027647
+                    -122.794239,
+                    49.017816
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6198",
+                    "identifier": "f-translink-s-6302",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56139",
-                        "stop_desc": "THRIFT AVE @ FOSTER ST",
-                        "stop_id": "6198",
-                        "stop_lat": "49.027647",
-                        "stop_lon": "-122.804416",
-                        "stop_name": "WB THRIFT AV FS FOSTER ST",
+                        "stop_code": "56242",
+                        "stop_desc": "MARINE DR @ BALSAM ST",
+                        "stop_id": "6302",
+                        "stop_lat": "49.017816",
+                        "stop_lon": "-122.794239",
+                        "stop_name": "EB MARINE DR AT BALSAM ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB THRIFT AV FS FOSTER ST",
-            "onestopId": "s-c28wvt0w9x-wbthriftfsfoster",
+            "name": "EB MARINE DR AT BALSAM ST",
+            "onestopId": "s-c28wvervqz-ebmarineatbalsam",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4209,74 +4277,6 @@
             ],
             "name": "SB 144 ST FS 18 AV",
             "onestopId": "s-c28wvn6wph-sb144fs18",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.798787,
-                    49.029368
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6320",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56260",
-                        "stop_desc": "RUSSELL AVE @ FIR ST",
-                        "stop_id": "6320",
-                        "stop_lat": "49.029368",
-                        "stop_lon": "-122.798787",
-                        "stop_name": "WB RUSSELL AV FS FIR ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB RUSSELL AV FS FIR ST",
-            "onestopId": "s-c28wvts8ub-wbrussellfsfir",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.794239,
-                    49.017816
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6302",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56242",
-                        "stop_desc": "MARINE DR @ BALSAM ST",
-                        "stop_id": "6302",
-                        "stop_lat": "49.017816",
-                        "stop_lon": "-122.794239",
-                        "stop_name": "EB MARINE DR AT BALSAM ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB MARINE DR AT BALSAM ST",
-            "onestopId": "s-c28wvervqz-ebmarineatbalsam",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4355,30 +4355,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.810074,
-                    49.022583
+                    -122.806309,
+                    49.038322
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6297",
+                    "identifier": "f-translink-s-6347",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56237",
-                        "stop_desc": "MARINE DR @ ELM ST",
-                        "stop_id": "6297",
-                        "stop_lat": "49.022583",
-                        "stop_lon": "-122.810074",
-                        "stop_name": "EB MARINE DR FS ELM ST",
+                        "stop_code": "56287",
+                        "stop_desc": "20 AVE @ 150 ST",
+                        "stop_id": "6347",
+                        "stop_lat": "49.038322",
+                        "stop_lon": "-122.806309",
+                        "stop_name": "EB 20 AV FS 150 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB MARINE DR FS ELM ST",
-            "onestopId": "s-c28wvkk3jz-ebmarinefselm",
+            "name": "EB 20 AV FS 150 ST",
+            "onestopId": "s-c28wvrphvt-eb20fs150",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4389,30 +4389,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.824792,
-                    49.026054
+                    -122.801352,
+                    49.038079
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6292",
+                    "identifier": "f-translink-s-5537",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56232",
-                        "stop_desc": "MARINE DR @ MAGDALEN CRES",
-                        "stop_id": "6292",
-                        "stop_lat": "49.026054",
-                        "stop_lon": "-122.824792",
-                        "stop_name": "EB MARINE DR NS MAGDALEN CRES",
+                        "stop_code": "55483",
+                        "stop_desc": "152 ST @ 20 AVE",
+                        "stop_id": "5537",
+                        "stop_lat": "49.038079",
+                        "stop_lon": "-122.801352",
+                        "stop_name": "SB 152 ST FS 20 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB MARINE DR NS MAGDALEN CRES",
-            "onestopId": "s-c28wvhctqy-ebmarinensmagdalencres",
+            "name": "SB 152 ST FS 20 AV",
+            "onestopId": "s-c28wvx4g90-sb152fs20",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4447,40 +4447,6 @@
             ],
             "name": "NB 152 ST FS 19 AV",
             "onestopId": "s-c28wvwgh0p-nb152fs19",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.800982,
-                    49.027923
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6172",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56114",
-                        "stop_desc": "JOHNSTON RD @ THRIFT AVE",
-                        "stop_id": "6172",
-                        "stop_lat": "49.027923",
-                        "stop_lon": "-122.800982",
-                        "stop_name": "NB JOHNSTON RD FS THRIFT AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB JOHNSTON RD FS THRIFT AV",
-            "onestopId": "s-c28wvt703e-nbjohnstonfsthrift",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4583,6 +4549,40 @@
             ],
             "name": "WB 20 AV FS 144 ST",
             "onestopId": "s-c28wvp4myp-wb20fs144",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.792996,
+                    49.019309
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6336",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56276",
+                        "stop_desc": "COLUMBIA AVE @ 15500 BLOCK",
+                        "stop_id": "6336",
+                        "stop_lat": "49.019309",
+                        "stop_lon": "-122.792996",
+                        "stop_name": "WB COLUMBIA AV AT 15500 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB COLUMBIA AV AT 15500 BLOCK",
+            "onestopId": "s-c28wvg8y5v-wbcolumbiaat15500block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

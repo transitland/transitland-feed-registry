@@ -343,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.30455,
-                    37.51254
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-342093",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "342093",
-                        "stop_desc": "",
-                        "stop_id": "342093",
-                        "stop_lat": "  37.512540",
-                        "stop_lon": "-122.304550",
-                        "stop_name": "Ralston Ave & Cipriani Blvd",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Ralston Ave & Cipriani Blvd",
-            "onestopId": "s-9q9j2uuw3k-ralston~cipriani",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.30398,
                     37.5131
                 ],
@@ -411,64 +377,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.305636,
-                    37.528027
+                    -122.30455,
+                    37.51254
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-341048",
+                    "identifier": "f-samtrans-s-342093",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "341048",
+                        "stop_code": "342093",
                         "stop_desc": "",
-                        "stop_id": "341048",
-                        "stop_lat": "  37.528027",
-                        "stop_lon": "-122.305636",
-                        "stop_name": "Alameda de las Pulgas & 39th Ave",
+                        "stop_id": "342093",
+                        "stop_lat": "  37.512540",
+                        "stop_lon": "-122.304550",
+                        "stop_name": "Ralston Ave & Cipriani Blvd",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Alameda de las Pulgas & 39th Ave",
-            "onestopId": "s-9q9j2zgb85-alamedadelaspulgas~39th",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.31949,
-                    37.51143
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-342101",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "342101",
-                        "stop_desc": "",
-                        "stop_id": "342101",
-                        "stop_lat": "  37.511430",
-                        "stop_lon": "-122.319490",
-                        "stop_name": "Ralston Ave & Hallmark Dr",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Ralston Ave & Hallmark Dr",
-            "onestopId": "s-9q9j2s9xvm-ralston~hallmark",
+            "name": "Ralston Ave & Cipriani Blvd",
+            "onestopId": "s-9q9j2uuw3k-ralston~cipriani",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -503,6 +435,74 @@
             ],
             "name": "Polhemus Rd & Tower Rd",
             "onestopId": "s-9q9j2jrnku-polhemus~tower",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.31629,
+                    37.51198
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-342089",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "342089",
+                        "stop_desc": "",
+                        "stop_id": "342089",
+                        "stop_lat": "  37.511980",
+                        "stop_lon": "-122.316290",
+                        "stop_name": "Ralston Ave & Belmont Canyon Rd",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Ralston Ave & Belmont Canyon Rd",
+            "onestopId": "s-9q9j2sggpg-ralston~belmontcanyon",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.31949,
+                    37.51143
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-342101",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "342101",
+                        "stop_desc": "",
+                        "stop_id": "342101",
+                        "stop_lat": "  37.511430",
+                        "stop_lon": "-122.319490",
+                        "stop_name": "Ralston Ave & Hallmark Dr",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Ralston Ave & Hallmark Dr",
+            "onestopId": "s-9q9j2s9xvm-ralston~hallmark",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -751,30 +751,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.32636,
-                    37.51157
+                    -122.30884,
+                    37.51242
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-342900",
+                    "identifier": "f-samtrans-s-342095",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "342900",
+                        "stop_code": "342095",
                         "stop_desc": "",
-                        "stop_id": "342900",
-                        "stop_lat": "  37.511570",
-                        "stop_lon": "-122.326360",
-                        "stop_name": "Ralston Ave & Christian Dr",
+                        "stop_id": "342095",
+                        "stop_lat": "  37.512420",
+                        "stop_lon": "-122.308840",
+                        "stop_name": "Ralston Ave & Davis Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Ralston Ave & Christian Dr",
-            "onestopId": "s-9q9j2ku8tp-ralston~christian",
+            "name": "Ralston Ave & Davis Dr",
+            "onestopId": "s-9q9j2ucmtm-ralston~davis",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -853,30 +853,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.31629,
-                    37.51198
+                    -122.305636,
+                    37.528027
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-342089",
+                    "identifier": "f-samtrans-s-341048",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "342089",
+                        "stop_code": "341048",
                         "stop_desc": "",
-                        "stop_id": "342089",
-                        "stop_lat": "  37.511980",
-                        "stop_lon": "-122.316290",
-                        "stop_name": "Ralston Ave & Belmont Canyon Rd",
+                        "stop_id": "341048",
+                        "stop_lat": "  37.528027",
+                        "stop_lon": "-122.305636",
+                        "stop_name": "Alameda de las Pulgas & 39th Ave",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Ralston Ave & Belmont Canyon Rd",
-            "onestopId": "s-9q9j2sggpg-ralston~belmontcanyon",
+            "name": "Alameda de las Pulgas & 39th Ave",
+            "onestopId": "s-9q9j2zgb85-alamedadelaspulgas~39th",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"
@@ -1023,30 +1023,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.30884,
-                    37.51242
+                    -122.32636,
+                    37.51157
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-samtrans-s-342095",
+                    "identifier": "f-samtrans-s-342900",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "342095",
+                        "stop_code": "342900",
                         "stop_desc": "",
-                        "stop_id": "342095",
-                        "stop_lat": "  37.512420",
-                        "stop_lon": "-122.308840",
-                        "stop_name": "Ralston Ave & Davis Dr",
+                        "stop_id": "342900",
+                        "stop_lat": "  37.511570",
+                        "stop_lon": "-122.326360",
+                        "stop_name": "Ralston Ave & Christian Dr",
                         "stop_url": "",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "Ralston Ave & Davis Dr",
-            "onestopId": "s-9q9j2ucmtm-ralston~davis",
+            "name": "Ralston Ave & Christian Dr",
+            "onestopId": "s-9q9j2ku8tp-ralston~christian",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

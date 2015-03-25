@@ -3,32 +3,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.153819801,
-                    32.8329017585
+                    -117.126822307,
+                    32.8284074323
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-11255",
+                    "identifier": "f-mtssandiego-s-99246",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "11255",
-                        "stop_id": "11255",
-                        "stop_lat": "32.8329017585",
-                        "stop_lon": "-117.153819801",
-                        "stop_name": "Clairemont Mesa Bl & Convoy St",
-                        "stop_name_short": "Cmnt Mesa&Convoy",
-                        "stop_place": "clacnW",
+                        "stop_code": "99246",
+                        "stop_id": "99246",
+                        "stop_lat": "32.8284074323",
+                        "stop_lon": "-117.126822307",
+                        "stop_name": "Ruffin Rd & Lightwave Av",
+                        "stop_name_short": "Ruffin&Lightwave",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Clairemont Mesa Bl & Convoy St",
-            "onestopId": "s-9mudy151w0-clairemontmesabl~convoy",
+            "name": "Ruffin Rd & Lightwave Av",
+            "onestopId": "s-9mudy8nz74-ruffin~lightwave",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -147,68 +147,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.127016906,
-                    32.8312754944
+                    -117.131261955,
+                    32.8312645142
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-10180",
+                    "identifier": "f-mtssandiego-s-10159",
                     "tags": {
                         "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "10180",
-                        "stop_id": "10180",
-                        "stop_lat": "32.8312754944",
-                        "stop_lon": "-117.127016906",
-                        "stop_name": "Clairemont Mesa Bl & Ruffin Rd",
-                        "stop_name_short": "Cmnt Mesa&Ruffin",
-                        "stop_place": "",
+                        "stop_code": "10159",
+                        "stop_id": "10159",
+                        "stop_lat": "32.8312645142",
+                        "stop_lon": "-117.131261955",
+                        "stop_name": "Clairemont Mesa Bl & Overland Av",
+                        "stop_name_short": "Cmnt Mesa&Overland",
+                        "stop_place": "claove",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Clairemont Mesa Bl & Ruffin Rd",
-            "onestopId": "s-9mudy8y8n9-clairemontmesabl~ruffin",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.126822307,
-                    32.8284074323
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-99246",
-                    "tags": {
-                        "intersection_code": "F-S/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "99246",
-                        "stop_id": "99246",
-                        "stop_lat": "32.8284074323",
-                        "stop_lon": "-117.126822307",
-                        "stop_name": "Ruffin Rd & Lightwave Av",
-                        "stop_name_short": "Ruffin&Lightwave",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Ruffin Rd & Lightwave Av",
-            "onestopId": "s-9mudy8nz74-ruffin~lightwave",
+            "name": "Clairemont Mesa Bl & Overland Av",
+            "onestopId": "s-9mudy8exgz-clairemontmesabl~overland",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -317,6 +281,42 @@
             ],
             "name": "Clairemont Mesa Bl & Complex Dr",
             "onestopId": "s-9mudy8bb46-clairemontmesabl~complex",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.153819801,
+                    32.8329017585
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-11255",
+                    "tags": {
+                        "intersection_code": "F-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "11255",
+                        "stop_id": "11255",
+                        "stop_lat": "32.8329017585",
+                        "stop_lon": "-117.153819801",
+                        "stop_name": "Clairemont Mesa Bl & Convoy St",
+                        "stop_name_short": "Cmnt Mesa&Convoy",
+                        "stop_place": "clacnW",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Clairemont Mesa Bl & Convoy St",
+            "onestopId": "s-9mudy151w0-clairemontmesabl~convoy",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -461,6 +461,42 @@
             ],
             "name": "Clairemont Mesa Bl & Mercury St",
             "onestopId": "s-9mudy1p0n2-clairemontmesabl~mercury",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.12661345,
+                    32.8375092297
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-94060",
+                    "tags": {
+                        "intersection_code": "N-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "94060",
+                        "stop_id": "94060",
+                        "stop_lat": "32.8375092297",
+                        "stop_lon": "-117.12661345",
+                        "stop_name": "Ruffin Rd & Chesapeake Dr",
+                        "stop_name_short": "Ruffin&Chesapeake",
+                        "stop_place": "rufche",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Ruffin Rd & Chesapeake Dr",
+            "onestopId": "s-9mudy9zh25-ruffin~chesapeake",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -651,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.122986531,
-                    32.8322522863
+                    -117.127016906,
+                    32.8312754944
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-11321",
+                    "identifier": "f-mtssandiego-s-10180",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "11321",
-                        "stop_id": "11321",
-                        "stop_lat": "32.8322522863",
-                        "stop_lon": "-117.122986531",
-                        "stop_name": "Clairemont Mesa Bl & Chesapeake Dr",
-                        "stop_name_short": "Cmnt Mesa&Chesapeake",
+                        "stop_code": "10180",
+                        "stop_id": "10180",
+                        "stop_lat": "32.8312754944",
+                        "stop_lon": "-117.127016906",
+                        "stop_name": "Clairemont Mesa Bl & Ruffin Rd",
+                        "stop_name_short": "Cmnt Mesa&Ruffin",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Clairemont Mesa Bl & Chesapeake Dr",
-            "onestopId": "s-9mudybctsx-clairemontmesabl~chesapeake",
+            "name": "Clairemont Mesa Bl & Ruffin Rd",
+            "onestopId": "s-9mudy8y8n9-clairemontmesabl~ruffin",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -795,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.12661345,
-                    32.8375092297
+                    -117.122986531,
+                    32.8322522863
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-94060",
+                    "identifier": "f-mtssandiego-s-11321",
                     "tags": {
-                        "intersection_code": "N-N/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "94060",
-                        "stop_id": "94060",
-                        "stop_lat": "32.8375092297",
-                        "stop_lon": "-117.12661345",
-                        "stop_name": "Ruffin Rd & Chesapeake Dr",
-                        "stop_name_short": "Ruffin&Chesapeake",
-                        "stop_place": "rufche",
+                        "stop_code": "11321",
+                        "stop_id": "11321",
+                        "stop_lat": "32.8322522863",
+                        "stop_lon": "-117.122986531",
+                        "stop_name": "Clairemont Mesa Bl & Chesapeake Dr",
+                        "stop_name_short": "Cmnt Mesa&Chesapeake",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ruffin Rd & Chesapeake Dr",
-            "onestopId": "s-9mudy9zh25-ruffin~chesapeake",
+            "name": "Clairemont Mesa Bl & Chesapeake Dr",
+            "onestopId": "s-9mudybctsx-clairemontmesabl~chesapeake",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -831,32 +867,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.146303393,
-                    32.8329675329
+                    -117.133755923,
+                    32.8312906682
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-13103",
+                    "identifier": "f-mtssandiego-s-99376",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "M-Street-E/B",
                         "location_type": "0",
-                        "parent_station": "",
+                        "parent_station": "kmtc",
                         "reference_place": "",
-                        "stop_code": "13103",
-                        "stop_id": "13103",
-                        "stop_lat": "32.8329675329",
-                        "stop_lon": "-117.146303393",
-                        "stop_name": "Clairemont Mesa Bl & Industrial Park",
-                        "stop_name_short": "Cmnt Mesa&Industrial Park",
-                        "stop_place": "",
+                        "stop_code": "99376",
+                        "stop_id": "99376",
+                        "stop_lat": "32.8312906682",
+                        "stop_lon": "-117.133755923",
+                        "stop_name": "Clairemont Mesa Bl & Complex Dr",
+                        "stop_name_short": "Cmnt Mesa&Complex",
+                        "stop_place": "clacom",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Clairemont Mesa Bl & Industrial Park",
-            "onestopId": "s-9mudy309vk-clairemontmesabl~industrialpark",
+            "name": "Clairemont Mesa Bl & Complex Dr",
+            "onestopId": "s-9mudy8cb1s-clairemontmesabl~complex",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -939,32 +975,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.133755923,
-                    32.8312906682
+                    -117.146303393,
+                    32.8329675329
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-99376",
+                    "identifier": "f-mtssandiego-s-13103",
                     "tags": {
-                        "intersection_code": "M-Street-E/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
-                        "parent_station": "kmtc",
+                        "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "99376",
-                        "stop_id": "99376",
-                        "stop_lat": "32.8312906682",
-                        "stop_lon": "-117.133755923",
-                        "stop_name": "Clairemont Mesa Bl & Complex Dr",
-                        "stop_name_short": "Cmnt Mesa&Complex",
-                        "stop_place": "clacom",
+                        "stop_code": "13103",
+                        "stop_id": "13103",
+                        "stop_lat": "32.8329675329",
+                        "stop_lon": "-117.146303393",
+                        "stop_name": "Clairemont Mesa Bl & Industrial Park",
+                        "stop_name_short": "Cmnt Mesa&Industrial Park",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Clairemont Mesa Bl & Complex Dr",
-            "onestopId": "s-9mudy8cb1s-clairemontmesabl~complex",
+            "name": "Clairemont Mesa Bl & Industrial Park",
+            "onestopId": "s-9mudy309vk-clairemontmesabl~industrialpark",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1217,42 +1253,6 @@
             ],
             "name": "Clairemont Mesa Bl & 8303",
             "onestopId": "s-9mudy30b15-clairemontmesabl~8303",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.131261955,
-                    32.8312645142
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-10159",
-                    "tags": {
-                        "intersection_code": "N-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "10159",
-                        "stop_id": "10159",
-                        "stop_lat": "32.8312645142",
-                        "stop_lon": "-117.131261955",
-                        "stop_name": "Clairemont Mesa Bl & Overland Av",
-                        "stop_name_short": "Cmnt Mesa&Overland",
-                        "stop_place": "claove",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Clairemont Mesa Bl & Overland Av",
-            "onestopId": "s-9mudy8exgz-clairemontmesabl~overland",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

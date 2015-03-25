@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.12859,
-                    49.361998
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4813",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54761",
-                        "stop_desc": "SAINT ANDREWS RD @ BALLANTREE RD",
-                        "stop_id": "4813",
-                        "stop_lat": "49.361998",
-                        "stop_lon": "-123.12859",
-                        "stop_name": "NB SAINT ANDREWS RD NS BALLANTREE RD",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "NB SAINT ANDREWS RD NS BALLANTREE RD",
-            "onestopId": "s-c2b2y4h6rz-nbsaintandrewsnsballantree",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.096151,
                     49.359096
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "WB PROSPECT AV FS SARITA AV",
             "onestopId": "s-c2b2ycs1ef-wbprospectfssarita",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.12859,
+                    49.361998
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4813",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54761",
+                        "stop_desc": "SAINT ANDREWS RD @ BALLANTREE RD",
+                        "stop_id": "4813",
+                        "stop_lat": "49.361998",
+                        "stop_lon": "-123.12859",
+                        "stop_name": "NB SAINT ANDREWS RD NS BALLANTREE RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB SAINT ANDREWS RD NS BALLANTREE RD",
+            "onestopId": "s-c2b2y4h6rz-nbsaintandrewsnsballantree",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -139,30 +139,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.12422,
-                    49.36399
+                    -123.123154,
+                    49.363036
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4815",
+                    "identifier": "f-translink-s-4816",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54763",
-                        "stop_desc": "BONNYMUIR DR @ UNIT BLOCK",
-                        "stop_id": "4815",
-                        "stop_lat": "49.36399",
-                        "stop_lon": "-123.12422",
-                        "stop_name": "NB BONNYMUIR DR AT UNIT BLOCK",
+                        "stop_code": "54764",
+                        "stop_desc": "BONNYMUIR DR @ SAINT GILES RD",
+                        "stop_id": "4816",
+                        "stop_lat": "49.363036",
+                        "stop_lon": "-123.123154",
+                        "stop_name": "SB BONNYMUIR DR NS SAINT GILES RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB BONNYMUIR DR AT UNIT BLOCK",
-            "onestopId": "s-c2b2y4rwjd-nbbonnymuiratunitblock",
+            "name": "SB BONNYMUIR DR NS SAINT GILES RD",
+            "onestopId": "s-c2b2y622w8-sbbonnymuirnssaintgiles",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -173,30 +173,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.103348,
-                    49.364049
+                    -123.130436,
+                    49.358244
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4340",
+                    "identifier": "f-translink-s-8501",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54293",
-                        "stop_desc": "NANCY GREENE WAY @ BLUE GROUSE WAY",
-                        "stop_id": "4340",
-                        "stop_lat": "49.364049",
-                        "stop_lon": "-123.103348",
-                        "stop_name": "SB NANCY GREENE WAY NS BLUE GROUSE WAY",
+                        "stop_code": "60959",
+                        "stop_desc": "SAINT ANDREWS RD @ FLAG STOP",
+                        "stop_id": "8501",
+                        "stop_lat": "49.358244",
+                        "stop_lon": "-123.130436",
+                        "stop_name": "FLAGSTOP SB SAINT ANDREWS RD AT 600 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB NANCY GREENE WAY NS BLUE GROUSE WAY",
-            "onestopId": "s-c2b2ydqykj-sbnancygreenensbluegrouse",
+            "name": "FLAGSTOP SB SAINT ANDREWS RD AT 600 BLOCK",
+            "onestopId": "s-c2b2y17hsg-flagstopsbsaintandrewsat600block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -411,30 +411,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.123154,
-                    49.363036
+                    -123.095092,
+                    49.352469
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4816",
+                    "identifier": "f-translink-s-4586",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54764",
-                        "stop_desc": "BONNYMUIR DR @ SAINT GILES RD",
-                        "stop_id": "4816",
-                        "stop_lat": "49.363036",
-                        "stop_lon": "-123.123154",
-                        "stop_name": "SB BONNYMUIR DR NS SAINT GILES RD",
+                        "stop_code": "54534",
+                        "stop_desc": "HIGHLAND BLVD @ HANDSWORTH RD",
+                        "stop_id": "4586",
+                        "stop_lat": "49.352469",
+                        "stop_lon": "-123.095092",
+                        "stop_name": "SB HIGHLAND BLVD FS HANDSWORTH RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB BONNYMUIR DR NS SAINT GILES RD",
-            "onestopId": "s-c2b2y622w8-sbbonnymuirnssaintgiles",
+            "name": "SB HIGHLAND BLVD FS HANDSWORTH RD",
+            "onestopId": "s-c2b2ybkfur-sbhighlandfshandsworth",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.093575,
+                    49.356318
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4583",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54531",
+                        "stop_desc": "MONTROYAL BLVD @ CEDARCREST AVE",
+                        "stop_id": "4583",
+                        "stop_lat": "49.356318",
+                        "stop_lon": "-123.093575",
+                        "stop_name": "WB MONTROYAL BLVD NS CEDARCREST AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB MONTROYAL BLVD NS CEDARCREST AV",
+            "onestopId": "s-c2b2ycjcru-wbmontroyalnscedarcrest",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -547,30 +581,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.130436,
-                    49.358244
+                    -123.103348,
+                    49.364049
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8501",
+                    "identifier": "f-translink-s-4340",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "60959",
-                        "stop_desc": "SAINT ANDREWS RD @ FLAG STOP",
-                        "stop_id": "8501",
-                        "stop_lat": "49.358244",
-                        "stop_lon": "-123.130436",
-                        "stop_name": "FLAGSTOP SB SAINT ANDREWS RD AT 600 BLOCK",
+                        "stop_code": "54293",
+                        "stop_desc": "NANCY GREENE WAY @ BLUE GROUSE WAY",
+                        "stop_id": "4340",
+                        "stop_lat": "49.364049",
+                        "stop_lon": "-123.103348",
+                        "stop_name": "SB NANCY GREENE WAY NS BLUE GROUSE WAY",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "FLAGSTOP SB SAINT ANDREWS RD AT 600 BLOCK",
-            "onestopId": "s-c2b2y17hsg-flagstopsbsaintandrewsat600block",
+            "name": "SB NANCY GREENE WAY NS BLUE GROUSE WAY",
+            "onestopId": "s-c2b2ydqykj-sbnancygreenensbluegrouse",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -615,30 +649,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.107329,
-                    49.35273
+                    -123.094355,
+                    49.350656
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4348",
+                    "identifier": "f-translink-s-4587",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54300",
-                        "stop_desc": "CAPILANO RD @ HANDSWORTH RD",
-                        "stop_id": "4348",
-                        "stop_lat": "49.35273",
-                        "stop_lon": "-123.107329",
-                        "stop_name": "SB CAPILANO RD NS HANDSWORTH RD",
+                        "stop_code": "54535",
+                        "stop_desc": "HIGHLAND BLVD @ DERBY PL",
+                        "stop_id": "4587",
+                        "stop_lat": "49.350656",
+                        "stop_lon": "-123.094355",
+                        "stop_name": "SB HIGHLAND BLVD FS DERBY PL",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB CAPILANO RD NS HANDSWORTH RD",
-            "onestopId": "s-c2b2y87urr-sbcapilanonshandsworth",
+            "name": "SB HIGHLAND BLVD FS DERBY PL",
+            "onestopId": "s-c2b2ybj2mt-sbhighlandfsderbypl",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -717,64 +751,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.12651,
-                    49.36293
+                    -123.129769,
+                    49.354792
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4814",
+                    "identifier": "f-translink-s-8665",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54762",
-                        "stop_desc": "SAINT ANDREWS RD @ 500 BLOCK",
-                        "stop_id": "4814",
-                        "stop_lat": "49.36293",
-                        "stop_lon": "-123.12651",
-                        "stop_name": "NB SAINT ANDREWS RD AT 500 BLOCK",
+                        "stop_code": "60964",
+                        "stop_desc": "ROBIN HOOD RD @ KENWOOD RD",
+                        "stop_id": "8665",
+                        "stop_lat": "49.354792",
+                        "stop_lon": "-123.129769",
+                        "stop_name": "NB ROBIN HOOD RD NS KENWOOD RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB SAINT ANDREWS RD AT 500 BLOCK",
-            "onestopId": "s-c2b2y4npbm-nbsaintandrewsat500block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.101733,
-                    49.366284
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4422",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54373",
-                        "stop_desc": "NANCY GREENE WAY @ GROUSEWOODS DR",
-                        "stop_id": "4422",
-                        "stop_lat": "49.366284",
-                        "stop_lon": "-123.101733",
-                        "stop_name": "NB NANCY GREENE WAY FS S GROUSEWOODS DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "NB NANCY GREENE WAY FS S GROUSEWOODS DR",
-            "onestopId": "s-c2b2yfb53w-nbnancygreenefssgrousewoods",
+            "name": "NB ROBIN HOOD RD NS KENWOOD RD",
+            "onestopId": "s-c2b2y0g8s2-nbrobinhoodnskenwood",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -819,30 +819,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.090995,
-                    49.356346
+                    -123.102922,
+                    49.357975
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4582",
+                    "identifier": "f-translink-s-4343",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54530",
-                        "stop_desc": "MONTROYAL BLVD @ RANGER AVE",
-                        "stop_id": "4582",
-                        "stop_lat": "49.356346",
-                        "stop_lon": "-123.090995",
-                        "stop_name": "WB MONTROYAL BLVD FS RANGER AV",
+                        "stop_code": "54295",
+                        "stop_desc": "CLEMENTS AVE @ 1000 BLOCK",
+                        "stop_id": "4343",
+                        "stop_lat": "49.357975",
+                        "stop_lon": "-123.102922",
+                        "stop_name": "EB CLEMENTS AVE AT 1000 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB MONTROYAL BLVD FS RANGER AV",
-            "onestopId": "s-c2b2ycpcec-wbmontroyalfsranger",
+            "name": "EB CLEMENTS AVE AT 1000 BLOCK",
+            "onestopId": "s-c2b2y9r5n1-ebclementsat1000block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1193,30 +1193,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.091074,
-                    49.359118
+                    -123.12422,
+                    49.36399
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4605",
+                    "identifier": "f-translink-s-4815",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54553",
-                        "stop_desc": "PROSPECT AVE @ RANGER AVE",
-                        "stop_id": "4605",
-                        "stop_lat": "49.359118",
-                        "stop_lon": "-123.091074",
-                        "stop_name": "WB PROSPECT AV FS RANGER AV",
+                        "stop_code": "54763",
+                        "stop_desc": "BONNYMUIR DR @ UNIT BLOCK",
+                        "stop_id": "4815",
+                        "stop_lat": "49.36399",
+                        "stop_lon": "-123.12422",
+                        "stop_name": "NB BONNYMUIR DR AT UNIT BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB PROSPECT AV FS RANGER AV",
-            "onestopId": "s-c2b2ycxcdn-wbprospectfsranger",
+            "name": "NB BONNYMUIR DR AT UNIT BLOCK",
+            "onestopId": "s-c2b2y4rwjd-nbbonnymuiratunitblock",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.12651,
+                    49.36293
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4814",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54762",
+                        "stop_desc": "SAINT ANDREWS RD @ 500 BLOCK",
+                        "stop_id": "4814",
+                        "stop_lat": "49.36293",
+                        "stop_lon": "-123.12651",
+                        "stop_name": "NB SAINT ANDREWS RD AT 500 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB SAINT ANDREWS RD AT 500 BLOCK",
+            "onestopId": "s-c2b2y4npbm-nbsaintandrewsat500block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1261,40 +1295,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.132189,
-                    49.355619
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-8502",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "60960",
-                        "stop_desc": "SAINT ANDREWS RD @ FLAG STOP",
-                        "stop_id": "8502",
-                        "stop_lat": "49.355619",
-                        "stop_lon": "-123.132189",
-                        "stop_name": "FLAGSTOP SB SAINT ANDREWS RD AT 700 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "FLAGSTOP SB SAINT ANDREWS RD AT 700 BLOCK",
-            "onestopId": "s-c2b2y0cvk4-flagstopsbsaintandrewsat700block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.10677,
                     49.354149
                 ],
@@ -1319,6 +1319,40 @@
             ],
             "name": "SB CAPILANO RD FS TEVIOT PL",
             "onestopId": "s-c2b2y8sku2-sbcapilanofsteviotpl",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.132189,
+                    49.355619
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-8502",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "60960",
+                        "stop_desc": "SAINT ANDREWS RD @ FLAG STOP",
+                        "stop_id": "8502",
+                        "stop_lat": "49.355619",
+                        "stop_lon": "-123.132189",
+                        "stop_name": "FLAGSTOP SB SAINT ANDREWS RD AT 700 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "FLAGSTOP SB SAINT ANDREWS RD AT 700 BLOCK",
+            "onestopId": "s-c2b2y0cvk4-flagstopsbsaintandrewsat700block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1635,30 +1669,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.095092,
-                    49.352469
+                    -123.091074,
+                    49.359118
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4586",
+                    "identifier": "f-translink-s-4605",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54534",
-                        "stop_desc": "HIGHLAND BLVD @ HANDSWORTH RD",
-                        "stop_id": "4586",
-                        "stop_lat": "49.352469",
-                        "stop_lon": "-123.095092",
-                        "stop_name": "SB HIGHLAND BLVD FS HANDSWORTH RD",
+                        "stop_code": "54553",
+                        "stop_desc": "PROSPECT AVE @ RANGER AVE",
+                        "stop_id": "4605",
+                        "stop_lat": "49.359118",
+                        "stop_lon": "-123.091074",
+                        "stop_name": "WB PROSPECT AV FS RANGER AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "SB HIGHLAND BLVD FS HANDSWORTH RD",
-            "onestopId": "s-c2b2ybkfur-sbhighlandfshandsworth",
+            "name": "WB PROSPECT AV FS RANGER AV",
+            "onestopId": "s-c2b2ycxcdn-wbprospectfsranger",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1839,30 +1873,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.093575,
-                    49.356318
+                    -123.107329,
+                    49.35273
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4583",
+                    "identifier": "f-translink-s-4348",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54531",
-                        "stop_desc": "MONTROYAL BLVD @ CEDARCREST AVE",
-                        "stop_id": "4583",
-                        "stop_lat": "49.356318",
-                        "stop_lon": "-123.093575",
-                        "stop_name": "WB MONTROYAL BLVD NS CEDARCREST AV",
+                        "stop_code": "54300",
+                        "stop_desc": "CAPILANO RD @ HANDSWORTH RD",
+                        "stop_id": "4348",
+                        "stop_lat": "49.35273",
+                        "stop_lon": "-123.107329",
+                        "stop_name": "SB CAPILANO RD NS HANDSWORTH RD",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "WB MONTROYAL BLVD NS CEDARCREST AV",
-            "onestopId": "s-c2b2ycjcru-wbmontroyalnscedarcrest",
+            "name": "SB CAPILANO RD NS HANDSWORTH RD",
+            "onestopId": "s-c2b2y87urr-sbcapilanonshandsworth",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1975,30 +2009,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.129769,
-                    49.354792
+                    -123.101733,
+                    49.366284
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8665",
+                    "identifier": "f-translink-s-4422",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "60964",
-                        "stop_desc": "ROBIN HOOD RD @ KENWOOD RD",
-                        "stop_id": "8665",
-                        "stop_lat": "49.354792",
-                        "stop_lon": "-123.129769",
-                        "stop_name": "NB ROBIN HOOD RD NS KENWOOD RD",
+                        "stop_code": "54373",
+                        "stop_desc": "NANCY GREENE WAY @ GROUSEWOODS DR",
+                        "stop_id": "4422",
+                        "stop_lat": "49.366284",
+                        "stop_lon": "-123.101733",
+                        "stop_name": "NB NANCY GREENE WAY FS S GROUSEWOODS DR",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB ROBIN HOOD RD NS KENWOOD RD",
-            "onestopId": "s-c2b2y0g8s2-nbrobinhoodnskenwood",
+            "name": "NB NANCY GREENE WAY FS S GROUSEWOODS DR",
+            "onestopId": "s-c2b2yfb53w-nbnancygreenefssgrousewoods",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2009,30 +2043,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.102922,
-                    49.357975
+                    -123.090995,
+                    49.356346
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4343",
+                    "identifier": "f-translink-s-4582",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54295",
-                        "stop_desc": "CLEMENTS AVE @ 1000 BLOCK",
-                        "stop_id": "4343",
-                        "stop_lat": "49.357975",
-                        "stop_lon": "-123.102922",
-                        "stop_name": "EB CLEMENTS AVE AT 1000 BLOCK",
+                        "stop_code": "54530",
+                        "stop_desc": "MONTROYAL BLVD @ RANGER AVE",
+                        "stop_id": "4582",
+                        "stop_lat": "49.356346",
+                        "stop_lon": "-123.090995",
+                        "stop_name": "WB MONTROYAL BLVD FS RANGER AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "EB CLEMENTS AVE AT 1000 BLOCK",
-            "onestopId": "s-c2b2y9r5n1-ebclementsat1000block",
+            "name": "WB MONTROYAL BLVD FS RANGER AV",
+            "onestopId": "s-c2b2ycpcec-wbmontroyalfsranger",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2101,40 +2135,6 @@
             ],
             "name": "SB CLIFFRIDGE AV FS PROSPECT AV",
             "onestopId": "s-c2b2yc3qdv-sbcliffridgefsprospect",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.094355,
-                    49.350656
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4587",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54535",
-                        "stop_desc": "HIGHLAND BLVD @ DERBY PL",
-                        "stop_id": "4587",
-                        "stop_lat": "49.350656",
-                        "stop_lon": "-123.094355",
-                        "stop_name": "SB HIGHLAND BLVD FS DERBY PL",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB HIGHLAND BLVD FS DERBY PL",
-            "onestopId": "s-c2b2ybj2mt-sbhighlandfsderbypl",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

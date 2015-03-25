@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.242762,
-                    49.403085
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4837",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54785",
-                        "stop_desc": "HWY 99 @ LAWRENCE WAY",
-                        "stop_id": "4837",
-                        "stop_lat": "49.403085",
-                        "stop_lon": "-123.242762",
-                        "stop_name": "SB HWY 99 NS LAWRENCE WAY",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "SB HWY 99 NS LAWRENCE WAY",
-            "onestopId": "s-c2b35993gd-sb99nslawrence",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.248197,
                     49.398576
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "SB HWY 99 OFFRAMP NS ANSELL PL",
             "onestopId": "s-c2b352trsc-sb99offrampnsansellpl",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.242762,
+                    49.403085
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4837",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54785",
+                        "stop_desc": "HWY 99 @ LAWRENCE WAY",
+                        "stop_id": "4837",
+                        "stop_lat": "49.403085",
+                        "stop_lon": "-123.242762",
+                        "stop_name": "SB HWY 99 NS LAWRENCE WAY",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "SB HWY 99 NS LAWRENCE WAY",
+            "onestopId": "s-c2b35993gd-sb99nslawrence",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

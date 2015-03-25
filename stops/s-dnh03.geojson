@@ -177,35 +177,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.31133,
-                    33.818219
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-901601",
-                    "tags": {
-                        "stop_code": "901601",
-                        "stop_id": "901601",
-                        "stop_lat": "33.818219",
-                        "stop_lon": "-84.31133",
-                        "stop_name": "LAVISTA RD @ N DRUID HILLS RD"
-                    }
-                }
-            ],
-            "name": "LAVISTA RD @ N DRUID HILLS RD",
-            "onestopId": "s-dnh03kqm7s-lavista~ndruidhills",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -84.330239,
                     33.81668
                 ],
@@ -380,6 +351,35 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.325867,
+                    33.816551
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-901649",
+                    "tags": {
+                        "stop_code": "901649",
+                        "stop_id": "901649",
+                        "stop_lat": "33.816551",
+                        "stop_lon": "-84.325867",
+                        "stop_name": "LAVISTA RD @ BREEZY LN"
+                    }
+                }
+            ],
+            "name": "LAVISTA RD @ BREEZY LN",
+            "onestopId": "s-dnh03h5g8y-lavista~breezy",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.31628,
                     33.816716
                 ],
@@ -525,25 +525,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.287549,
-                    33.810875
+                    -84.309092,
+                    33.809577
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-904184",
+                    "identifier": "f-marta-s-905917",
                     "tags": {
-                        "stop_code": "904184",
-                        "stop_id": "904184",
-                        "stop_lat": "33.810875",
-                        "stop_lon": "-84.287549",
-                        "stop_name": "N DRUID HILLS RD @ ARBORDALE DR"
+                        "stop_code": "905917",
+                        "stop_id": "905917",
+                        "stop_lat": "33.809577",
+                        "stop_lon": "-84.309092",
+                        "stop_name": "CLAIRMONT RD@MCCONNELL DR"
                     }
                 }
             ],
-            "name": "N DRUID HILLS RD @ ARBORDALE DR",
-            "onestopId": "s-dnh03gpdtg-ndruidhills~arbordale",
+            "name": "CLAIRMONT RD@MCCONNELL DR",
+            "onestopId": "s-dnh036zgpc-clairmont~mcconnell",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -612,25 +612,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.318825,
-                    33.834599
+                    -84.300209,
+                    33.822236
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901480",
+                    "identifier": "f-marta-s-902204",
                     "tags": {
-                        "stop_code": "901480",
-                        "stop_id": "901480",
-                        "stop_lat": "33.834599",
-                        "stop_lon": "-84.318825",
-                        "stop_name": "BRIARCLIFF RD@BEACON HILL BLVD"
+                        "stop_code": "902204",
+                        "stop_id": "902204",
+                        "stop_lat": "33.822236",
+                        "stop_lon": "-84.300209",
+                        "stop_name": "LAVISTA RD @ PINE FOREST DR"
                     }
                 }
             ],
-            "name": "BRIARCLIFF RD@BEACON HILL BLVD",
-            "onestopId": "s-dnh03r2uuf-briarcliff~beaconhill",
+            "name": "LAVISTA RD @ PINE FOREST DR",
+            "onestopId": "s-dnh03tnkyc-lavista~pineforest",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -815,25 +815,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.306965,
-                    33.824555
+                    -84.30921,
+                    33.80977
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901987",
+                    "identifier": "f-marta-s-903994",
                     "tags": {
-                        "stop_code": "901987",
-                        "stop_id": "901987",
-                        "stop_lat": "33.824555",
-                        "stop_lon": "-84.306965",
-                        "stop_name": "CLAIRMONT RD@PINE FOREST DR"
+                        "stop_code": "903994",
+                        "stop_id": "903994",
+                        "stop_lat": "33.80977",
+                        "stop_lon": "-84.30921",
+                        "stop_name": "CLAIRMONT RD@MCCONNELL DR"
                     }
                 }
             ],
-            "name": "CLAIRMONT RD@PINE FOREST DR",
-            "onestopId": "s-dnh03t9d36-clairmont~pineforest",
+            "name": "CLAIRMONT RD@MCCONNELL DR",
+            "onestopId": "s-dnh036zujj-clairmont~mcconnell",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -902,54 +902,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.300209,
-                    33.822236
+                    -84.322655,
+                    33.831744
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-902204",
+                    "identifier": "f-marta-s-901976",
                     "tags": {
-                        "stop_code": "902204",
-                        "stop_id": "902204",
-                        "stop_lat": "33.822236",
-                        "stop_lon": "-84.300209",
-                        "stop_name": "LAVISTA RD @ PINE FOREST DR"
+                        "stop_code": "901976",
+                        "stop_id": "901976",
+                        "stop_lat": "33.831744",
+                        "stop_lon": "-84.322655",
+                        "stop_name": "BRIARCLIFF RD @ CLIFF VALLEY WAY"
                     }
                 }
             ],
-            "name": "LAVISTA RD @ PINE FOREST DR",
-            "onestopId": "s-dnh03tnkyc-lavista~pineforest",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.327433,
-                    33.828647
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-901485",
-                    "tags": {
-                        "stop_code": "901485",
-                        "stop_id": "901485",
-                        "stop_lat": "33.828647",
-                        "stop_lon": "-84.327433",
-                        "stop_name": "BRIARCLIFF RD@EXECUTIVE PARK LN"
-                    }
-                }
-            ],
-            "name": "BRIARCLIFF RD@EXECUTIVE PARK LN",
-            "onestopId": "s-dnh03n6dhk-briarcliff~executivepark",
+            "name": "BRIARCLIFF RD @ CLIFF VALLEY WAY",
+            "onestopId": "s-dnh03nyh5w-briarcliff~cliffvalley",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1134,25 +1105,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.297829,
-                    33.812481
+                    -84.327433,
+                    33.828647
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-904086",
+                    "identifier": "f-marta-s-901485",
                     "tags": {
-                        "stop_code": "904086",
-                        "stop_id": "904086",
-                        "stop_lat": "33.812481",
-                        "stop_lon": "-84.297829",
-                        "stop_name": "N DRUID HILLS RD @ SPRING CREEK RD"
+                        "stop_code": "901485",
+                        "stop_id": "901485",
+                        "stop_lat": "33.828647",
+                        "stop_lon": "-84.327433",
+                        "stop_name": "BRIARCLIFF RD@EXECUTIVE PARK LN"
                     }
                 }
             ],
-            "name": "N DRUID HILLS RD @ SPRING CREEK RD",
-            "onestopId": "s-dnh03g25yp-ndruidhills~springcreek",
+            "name": "BRIARCLIFF RD@EXECUTIVE PARK LN",
+            "onestopId": "s-dnh03n6dhk-briarcliff~executivepark",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1211,6 +1182,35 @@
             ],
             "name": "CLAIRMONT RD@BUTLER LN",
             "onestopId": "s-dnh036pp9x-clairmont~butler",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.294702,
+                    33.824239
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-902039",
+                    "tags": {
+                        "stop_code": "902039",
+                        "stop_id": "902039",
+                        "stop_lat": "33.824239",
+                        "stop_lon": "-84.294702",
+                        "stop_name": "LAVISTA RD@CAMBRIDGE COMMON"
+                    }
+                }
+            ],
+            "name": "LAVISTA RD@CAMBRIDGE COMMON",
+            "onestopId": "s-dnh03vd2rp-lavista~cambridgecommon",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1395,25 +1395,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.322655,
-                    33.831744
+                    -84.329857,
+                    33.827335
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901976",
+                    "identifier": "f-marta-s-902268",
                     "tags": {
-                        "stop_code": "901976",
-                        "stop_id": "901976",
-                        "stop_lat": "33.831744",
-                        "stop_lon": "-84.322655",
-                        "stop_name": "BRIARCLIFF RD @ CLIFF VALLEY WAY"
+                        "stop_code": "902268",
+                        "stop_id": "902268",
+                        "stop_lat": "33.827335",
+                        "stop_lon": "-84.329857",
+                        "stop_name": "BRIARCLIFF RD @ N DRUID HILLS RD"
                     }
                 }
             ],
-            "name": "BRIARCLIFF RD @ CLIFF VALLEY WAY",
-            "onestopId": "s-dnh03nyh5w-briarcliff~cliffvalley",
+            "name": "BRIARCLIFF RD @ N DRUID HILLS RD",
+            "onestopId": "s-dnh03n0feb-briarcliff~ndruidhills",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1598,25 +1598,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.306368,
-                    33.820062
+                    -84.297829,
+                    33.812481
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-902074",
+                    "identifier": "f-marta-s-904086",
                     "tags": {
-                        "stop_code": "902074",
-                        "stop_id": "902074",
-                        "stop_lat": "33.820062",
-                        "stop_lon": "-84.306368",
-                        "stop_name": "LAVISTA RD@2405"
+                        "stop_code": "904086",
+                        "stop_id": "904086",
+                        "stop_lat": "33.812481",
+                        "stop_lon": "-84.297829",
+                        "stop_name": "N DRUID HILLS RD @ SPRING CREEK RD"
                     }
                 }
             ],
-            "name": "LAVISTA RD@2405",
-            "onestopId": "s-dnh03scbph-lavista~2405",
+            "name": "N DRUID HILLS RD @ SPRING CREEK RD",
+            "onestopId": "s-dnh03g25yp-ndruidhills~springcreek",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1772,25 +1772,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.308772,
-                    33.820152
+                    -84.30392,
+                    33.820124
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901970",
+                    "identifier": "f-marta-s-902097",
                     "tags": {
-                        "stop_code": "901970",
-                        "stop_id": "901970",
-                        "stop_lat": "33.820152",
-                        "stop_lon": "-84.308772",
-                        "stop_name": "LAVISTA RD @ AMANDA CIR"
+                        "stop_code": "902097",
+                        "stop_id": "902097",
+                        "stop_lat": "33.820124",
+                        "stop_lon": "-84.30392",
+                        "stop_name": "LAVISTA RD @ CLAIRMONT RD"
                     }
                 }
             ],
-            "name": "LAVISTA RD @ AMANDA CIR",
-            "onestopId": "s-dnh03sb0xj-lavista~amandacir",
+            "name": "LAVISTA RD @ CLAIRMONT RD",
+            "onestopId": "s-dnh03sgb82-lavista~clairmont",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -1888,6 +1888,35 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.318825,
+                    33.834599
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-901480",
+                    "tags": {
+                        "stop_code": "901480",
+                        "stop_id": "901480",
+                        "stop_lat": "33.834599",
+                        "stop_lon": "-84.318825",
+                        "stop_name": "BRIARCLIFF RD@BEACON HILL BLVD"
+                    }
+                }
+            ],
+            "name": "BRIARCLIFF RD@BEACON HILL BLVD",
+            "onestopId": "s-dnh03r2uuf-briarcliff~beaconhill",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.32563,
                     33.835999
                 ],
@@ -1917,25 +1946,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.319664,
-                    33.815141
+                    -84.306368,
+                    33.820062
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901653",
+                    "identifier": "f-marta-s-902074",
                     "tags": {
-                        "stop_code": "901653",
-                        "stop_id": "901653",
-                        "stop_lat": "33.815141",
-                        "stop_lon": "-84.319664",
-                        "stop_name": "LAVISTA RD @ CHRISTMAS LN"
+                        "stop_code": "902074",
+                        "stop_id": "902074",
+                        "stop_lat": "33.820062",
+                        "stop_lon": "-84.306368",
+                        "stop_name": "LAVISTA RD@2405"
                     }
                 }
             ],
-            "name": "LAVISTA RD @ CHRISTMAS LN",
-            "onestopId": "s-dnh037b73r-lavista~christmas",
+            "name": "LAVISTA RD@2405",
+            "onestopId": "s-dnh03scbph-lavista~2405",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2265,25 +2294,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.309092,
-                    33.809577
+                    -84.287549,
+                    33.810875
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-905917",
+                    "identifier": "f-marta-s-904184",
                     "tags": {
-                        "stop_code": "905917",
-                        "stop_id": "905917",
-                        "stop_lat": "33.809577",
-                        "stop_lon": "-84.309092",
-                        "stop_name": "CLAIRMONT RD@MCCONNELL DR"
+                        "stop_code": "904184",
+                        "stop_id": "904184",
+                        "stop_lat": "33.810875",
+                        "stop_lon": "-84.287549",
+                        "stop_name": "N DRUID HILLS RD @ ARBORDALE DR"
                     }
                 }
             ],
-            "name": "CLAIRMONT RD@MCCONNELL DR",
-            "onestopId": "s-dnh036zgpc-clairmont~mcconnell",
+            "name": "N DRUID HILLS RD @ ARBORDALE DR",
+            "onestopId": "s-dnh03gpdtg-ndruidhills~arbordale",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2410,25 +2439,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.307655,
-                    33.825684
+                    -84.319664,
+                    33.815141
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901880",
+                    "identifier": "f-marta-s-901653",
                     "tags": {
-                        "stop_code": "901880",
-                        "stop_id": "901880",
-                        "stop_lat": "33.825684",
-                        "stop_lon": "-84.307655",
-                        "stop_name": "CLAIRMONT RD@BLACK FOX DR"
+                        "stop_code": "901653",
+                        "stop_id": "901653",
+                        "stop_lat": "33.815141",
+                        "stop_lon": "-84.319664",
+                        "stop_name": "LAVISTA RD @ CHRISTMAS LN"
                     }
                 }
             ],
-            "name": "CLAIRMONT RD@BLACK FOX DR",
-            "onestopId": "s-dnh03tc0ck-clairmont~blackfox",
+            "name": "LAVISTA RD @ CHRISTMAS LN",
+            "onestopId": "s-dnh037b73r-lavista~christmas",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -2758,25 +2787,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.297053,
-                    33.82322
+                    -84.30675,
+                    33.812687
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901881",
+                    "identifier": "f-marta-s-904143",
                     "tags": {
-                        "stop_code": "901881",
-                        "stop_id": "901881",
-                        "stop_lat": "33.82322",
-                        "stop_lon": "-84.297053",
-                        "stop_name": "LAVISTA RD@BRIANWOOD RD"
+                        "stop_code": "904143",
+                        "stop_id": "904143",
+                        "stop_lat": "33.812687",
+                        "stop_lon": "-84.30675",
+                        "stop_name": "N DRUID HILLS RD @ JAMESTOWN RD"
                     }
                 }
             ],
-            "name": "LAVISTA RD@BRIANWOOD RD",
-            "onestopId": "s-dnh03v2f83-lavista~brianwood",
+            "name": "N DRUID HILLS RD @ JAMESTOWN RD",
+            "onestopId": "s-dnh03e3tnm-ndruidhills~jamestown",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -3135,25 +3164,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.294702,
-                    33.824239
+                    -84.307655,
+                    33.825684
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-902039",
+                    "identifier": "f-marta-s-901880",
                     "tags": {
-                        "stop_code": "902039",
-                        "stop_id": "902039",
-                        "stop_lat": "33.824239",
-                        "stop_lon": "-84.294702",
-                        "stop_name": "LAVISTA RD@CAMBRIDGE COMMON"
+                        "stop_code": "901880",
+                        "stop_id": "901880",
+                        "stop_lat": "33.825684",
+                        "stop_lon": "-84.307655",
+                        "stop_name": "CLAIRMONT RD@BLACK FOX DR"
                     }
                 }
             ],
-            "name": "LAVISTA RD@CAMBRIDGE COMMON",
-            "onestopId": "s-dnh03vd2rp-lavista~cambridgecommon",
+            "name": "CLAIRMONT RD@BLACK FOX DR",
+            "onestopId": "s-dnh03tc0ck-clairmont~blackfox",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -3251,35 +3280,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.329857,
-                    33.827335
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-902268",
-                    "tags": {
-                        "stop_code": "902268",
-                        "stop_id": "902268",
-                        "stop_lat": "33.827335",
-                        "stop_lon": "-84.329857",
-                        "stop_name": "BRIARCLIFF RD @ N DRUID HILLS RD"
-                    }
-                }
-            ],
-            "name": "BRIARCLIFF RD @ N DRUID HILLS RD",
-            "onestopId": "s-dnh03n0feb-briarcliff~ndruidhills",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -84.298914,
                     33.822522
                 ],
@@ -3328,35 +3328,6 @@
             ],
             "name": "N DRUID HILLS RD NE @ 2960",
             "onestopId": "s-dnh037zm3h-ndruidhillsne~2960",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.308219,
-                    33.79936
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-903582",
-                    "tags": {
-                        "stop_code": "903582",
-                        "stop_id": "903582",
-                        "stop_lat": "33.79936",
-                        "stop_lon": "-84.308219",
-                        "stop_name": "CLAIRMONT RD@CARLYLE LK"
-                    }
-                }
-            ],
-            "name": "CLAIRMONT RD@CARLYLE LK",
-            "onestopId": "s-dnh038bxs1-clairmont~carlylelk",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -3570,54 +3541,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.30675,
-                    33.812687
+                    -84.327558,
+                    33.828391
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-904143",
+                    "identifier": "f-marta-s-901548",
                     "tags": {
-                        "stop_code": "904143",
-                        "stop_id": "904143",
-                        "stop_lat": "33.812687",
-                        "stop_lon": "-84.30675",
-                        "stop_name": "N DRUID HILLS RD @ JAMESTOWN RD"
+                        "stop_code": "901548",
+                        "stop_id": "901548",
+                        "stop_lat": "33.828391",
+                        "stop_lon": "-84.327558",
+                        "stop_name": "BRIARCLIFF RD@EXECUTIVE PARK LN NE"
                     }
                 }
             ],
-            "name": "N DRUID HILLS RD @ JAMESTOWN RD",
-            "onestopId": "s-dnh03e3tnm-ndruidhills~jamestown",
-            "properties": {},
-            "servedBy": [
-                "o-dnh-metropolitanatlantarapidtransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -84.312235,
-                    33.837644
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-marta-s-902319",
-                    "tags": {
-                        "stop_code": "902319",
-                        "stop_id": "902319",
-                        "stop_lat": "33.837644",
-                        "stop_lon": "-84.312235",
-                        "stop_name": "CLAIRMONT RD@BRIARCLIFF RD"
-                    }
-                }
-            ],
-            "name": "CLAIRMONT RD@BRIARCLIFF RD",
-            "onestopId": "s-dnh03rvwwd-clairmont~briarcliff",
+            "name": "BRIARCLIFF RD@EXECUTIVE PARK LN NE",
+            "onestopId": "s-dnh03n689m-briarcliff~executiveparkne",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -3657,25 +3599,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.290121,
-                    33.824874
+                    -84.308219,
+                    33.79936
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-902089",
+                    "identifier": "f-marta-s-903582",
                     "tags": {
-                        "stop_code": "902089",
-                        "stop_id": "902089",
-                        "stop_lat": "33.824874",
-                        "stop_lon": "-84.290121",
-                        "stop_name": "LAVISTA RD @ LEAFMORE PL"
+                        "stop_code": "903582",
+                        "stop_id": "903582",
+                        "stop_lat": "33.79936",
+                        "stop_lon": "-84.308219",
+                        "stop_name": "CLAIRMONT RD@CARLYLE LK"
                     }
                 }
             ],
-            "name": "LAVISTA RD @ LEAFMORE PL",
-            "onestopId": "s-dnh03vtu1v-lavista~leafmorepl",
+            "name": "CLAIRMONT RD@CARLYLE LK",
+            "onestopId": "s-dnh038bxs1-clairmont~carlylelk",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -3947,25 +3889,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.30392,
-                    33.820124
+                    -84.308772,
+                    33.820152
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-902097",
+                    "identifier": "f-marta-s-901970",
                     "tags": {
-                        "stop_code": "902097",
-                        "stop_id": "902097",
-                        "stop_lat": "33.820124",
-                        "stop_lon": "-84.30392",
-                        "stop_name": "LAVISTA RD @ CLAIRMONT RD"
+                        "stop_code": "901970",
+                        "stop_id": "901970",
+                        "stop_lat": "33.820152",
+                        "stop_lon": "-84.308772",
+                        "stop_name": "LAVISTA RD @ AMANDA CIR"
                     }
                 }
             ],
-            "name": "LAVISTA RD @ CLAIRMONT RD",
-            "onestopId": "s-dnh03sgb82-lavista~clairmont",
+            "name": "LAVISTA RD @ AMANDA CIR",
+            "onestopId": "s-dnh03sb0xj-lavista~amandacir",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -4092,6 +4034,35 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.297053,
+                    33.82322
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-901881",
+                    "tags": {
+                        "stop_code": "901881",
+                        "stop_id": "901881",
+                        "stop_lat": "33.82322",
+                        "stop_lon": "-84.297053",
+                        "stop_name": "LAVISTA RD@BRIANWOOD RD"
+                    }
+                }
+            ],
+            "name": "LAVISTA RD@BRIANWOOD RD",
+            "onestopId": "s-dnh03v2f83-lavista~brianwood",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.326949,
                     33.828722
                 ],
@@ -4150,25 +4121,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.325867,
-                    33.816551
+                    -84.31133,
+                    33.818219
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901649",
+                    "identifier": "f-marta-s-901601",
                     "tags": {
-                        "stop_code": "901649",
-                        "stop_id": "901649",
-                        "stop_lat": "33.816551",
-                        "stop_lon": "-84.325867",
-                        "stop_name": "LAVISTA RD @ BREEZY LN"
+                        "stop_code": "901601",
+                        "stop_id": "901601",
+                        "stop_lat": "33.818219",
+                        "stop_lon": "-84.31133",
+                        "stop_name": "LAVISTA RD @ N DRUID HILLS RD"
                     }
                 }
             ],
-            "name": "LAVISTA RD @ BREEZY LN",
-            "onestopId": "s-dnh03h5g8y-lavista~breezy",
+            "name": "LAVISTA RD @ N DRUID HILLS RD",
+            "onestopId": "s-dnh03kqm7s-lavista~ndruidhills",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -4179,25 +4150,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.327558,
-                    33.828391
+                    -84.312235,
+                    33.837644
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-901548",
+                    "identifier": "f-marta-s-902319",
                     "tags": {
-                        "stop_code": "901548",
-                        "stop_id": "901548",
-                        "stop_lat": "33.828391",
-                        "stop_lon": "-84.327558",
-                        "stop_name": "BRIARCLIFF RD@EXECUTIVE PARK LN NE"
+                        "stop_code": "902319",
+                        "stop_id": "902319",
+                        "stop_lat": "33.837644",
+                        "stop_lon": "-84.312235",
+                        "stop_name": "CLAIRMONT RD@BRIARCLIFF RD"
                     }
                 }
             ],
-            "name": "BRIARCLIFF RD@EXECUTIVE PARK LN NE",
-            "onestopId": "s-dnh03n689m-briarcliff~executiveparkne",
+            "name": "CLAIRMONT RD@BRIARCLIFF RD",
+            "onestopId": "s-dnh03rvwwd-clairmont~briarcliff",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"
@@ -4266,6 +4237,35 @@
         {
             "geometry": {
                 "coordinates": [
+                    -84.290121,
+                    33.824874
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-marta-s-902089",
+                    "tags": {
+                        "stop_code": "902089",
+                        "stop_id": "902089",
+                        "stop_lat": "33.824874",
+                        "stop_lon": "-84.290121",
+                        "stop_name": "LAVISTA RD @ LEAFMORE PL"
+                    }
+                }
+            ],
+            "name": "LAVISTA RD @ LEAFMORE PL",
+            "onestopId": "s-dnh03vtu1v-lavista~leafmorepl",
+            "properties": {},
+            "servedBy": [
+                "o-dnh-metropolitanatlantarapidtransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -84.291672,
                     33.810634
                 ],
@@ -4295,25 +4295,25 @@
         {
             "geometry": {
                 "coordinates": [
-                    -84.30921,
-                    33.80977
+                    -84.306965,
+                    33.824555
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-marta-s-903994",
+                    "identifier": "f-marta-s-901987",
                     "tags": {
-                        "stop_code": "903994",
-                        "stop_id": "903994",
-                        "stop_lat": "33.80977",
-                        "stop_lon": "-84.30921",
-                        "stop_name": "CLAIRMONT RD@MCCONNELL DR"
+                        "stop_code": "901987",
+                        "stop_id": "901987",
+                        "stop_lat": "33.824555",
+                        "stop_lon": "-84.306965",
+                        "stop_name": "CLAIRMONT RD@PINE FOREST DR"
                     }
                 }
             ],
-            "name": "CLAIRMONT RD@MCCONNELL DR",
-            "onestopId": "s-dnh036zujj-clairmont~mcconnell",
+            "name": "CLAIRMONT RD@PINE FOREST DR",
+            "onestopId": "s-dnh03t9d36-clairmont~pineforest",
             "properties": {},
             "servedBy": [
                 "o-dnh-metropolitanatlantarapidtransitauthority"

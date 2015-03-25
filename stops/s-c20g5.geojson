@@ -255,6 +255,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.5579,
+                    45.555513
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10838",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10838",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 10838)",
+                        "stop_id": "10838",
+                        "stop_lat": "45.555513",
+                        "stop_lon": "-122.5579",
+                        "stop_name": "NE 102nd & Prescott",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10838",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE 102nd & Prescott",
+            "onestopId": "s-c20g5jhh1g-ne102nd~prescott",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.537072,
                     45.537153
                 ],
@@ -615,104 +651,104 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.533067,
-                    45.533653
+                    -122.562811,
+                    45.555333
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2369",
+                    "identifier": "f-trimet-s-4769",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "4769",
+                        "stop_desc": "Eastbound stop in Maywood Park (Stop ID 4769)",
+                        "stop_id": "4769",
+                        "stop_lat": "45.555333",
+                        "stop_lon": "-122.562811",
+                        "stop_name": "NE Prescott & 97th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4769",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Prescott & 97th",
+            "onestopId": "s-c20g5j07p9-neprescott~97th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.554821,
+                    45.561706
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10733",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10733",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 10733)",
+                        "stop_id": "10733",
+                        "stop_lat": "45.561706",
+                        "stop_lon": "-122.554821",
+                        "stop_name": "NE 105th & Marx",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10733",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE 105th & Marx",
+            "onestopId": "s-c20g5nq21t-ne105th~marx",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.532799,
+                    45.555
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4773",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "2369",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2369)",
-                        "stop_id": "2369",
-                        "stop_lat": "45.533653",
-                        "stop_lon": "-122.533067",
-                        "stop_name": "NE Halsey & 126th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2369",
+                        "stop_code": "4773",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 4773)",
+                        "stop_id": "4773",
+                        "stop_lat": "45.555",
+                        "stop_lon": "-122.532799",
+                        "stop_name": "NE Prescott Dr & 125th Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4773",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Halsey & 126th",
-            "onestopId": "s-c20g59nhu8-nehalsey~126th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.530653,
-                    45.55496
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4775",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "4775",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 4775)",
-                        "stop_id": "4775",
-                        "stop_lat": "45.55496",
-                        "stop_lon": "-122.530653",
-                        "stop_name": "NE Prescott Dr & 129th Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4775",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Prescott Dr & 129th Pl",
-            "onestopId": "s-c20g5tpbuu-neprescott~129thpl",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.561853,
-                    45.527889
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10658",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10658",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 10658)",
-                        "stop_id": "10658",
-                        "stop_lat": "45.527889",
-                        "stop_lon": "-122.561853",
-                        "stop_name": "NE 99th & Irving",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10658",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE 99th & Irving",
-            "onestopId": "s-c20g5015jv-ne99th~irving",
+            "name": "NE Prescott Dr & 125th Pl",
+            "onestopId": "s-c20g5tn34g-neprescott~125thpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1047,32 +1083,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.521542,
-                    45.56182
+                    -122.556937,
+                    45.534249
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9112",
+                    "identifier": "f-trimet-s-10746",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9112",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 9112)",
-                        "stop_id": "9112",
-                        "stop_lat": "45.56182",
-                        "stop_lon": "-122.521542",
-                        "stop_name": "NE Airport Way & 138th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9112",
+                        "position": "Farside",
+                        "stop_code": "10746",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 10746)",
+                        "stop_id": "10746",
+                        "stop_lat": "45.534249",
+                        "stop_lon": "-122.556937",
+                        "stop_name": "NE Weidler & 103rd Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10746",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Airport Way & 138th",
-            "onestopId": "s-c20g5yq8c4-neairport~138th",
+            "name": "NE Weidler & 103rd Pl",
+            "onestopId": "s-c20g51kb0r-neweidler~103rdpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1227,32 +1263,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.562811,
-                    45.555333
+                    -122.533067,
+                    45.533653
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4769",
+                    "identifier": "f-trimet-s-2369",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "4769",
-                        "stop_desc": "Eastbound stop in Maywood Park (Stop ID 4769)",
-                        "stop_id": "4769",
-                        "stop_lat": "45.555333",
-                        "stop_lon": "-122.562811",
-                        "stop_name": "NE Prescott & 97th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4769",
+                        "position": "Nearside",
+                        "stop_code": "2369",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2369)",
+                        "stop_id": "2369",
+                        "stop_lat": "45.533653",
+                        "stop_lon": "-122.533067",
+                        "stop_name": "NE Halsey & 126th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2369",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Prescott & 97th",
-            "onestopId": "s-c20g5j07p9-neprescott~97th",
+            "name": "NE Halsey & 126th",
+            "onestopId": "s-c20g59nhu8-nehalsey~126th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1443,32 +1479,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.537491,
-                    45.553506
+                    -122.53449,
+                    45.552213
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5250",
+                    "identifier": "f-trimet-s-6683",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5250",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5250)",
-                        "stop_id": "5250",
-                        "stop_lat": "45.553506",
-                        "stop_lon": "-122.537491",
-                        "stop_name": "NE Skidmore & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5250",
+                        "position": "Farside",
+                        "stop_code": "6683",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 6683)",
+                        "stop_id": "6683",
+                        "stop_lat": "45.552213",
+                        "stop_lon": "-122.53449",
+                        "stop_name": "NE 125th Pl & Shaver",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6683",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Skidmore & 122nd",
-            "onestopId": "s-c20g5sfbms-neskidmore~122nd",
+            "name": "NE 125th Pl & Shaver",
+            "onestopId": "s-c20g5st0g7-ne125thpl~shaver",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1659,42 +1695,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.520926,
-                    45.554403
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10823",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10823",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 10823)",
-                        "stop_id": "10823",
-                        "stop_lat": "45.554403",
-                        "stop_lon": "-122.520926",
-                        "stop_name": "NE Sandy & 138th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10823",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Sandy & 138th",
-            "onestopId": "s-c20g5uyvxk-nesandy~138th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.537728,
                     45.53699
                 ],
@@ -1793,6 +1793,42 @@
             ],
             "name": "NE Prescott Dr & 131st Pl",
             "onestopId": "s-c20g5ucn65-neprescott~131stpl",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.530653,
+                    45.55496
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4775",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "4775",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 4775)",
+                        "stop_id": "4775",
+                        "stop_lat": "45.55496",
+                        "stop_lon": "-122.530653",
+                        "stop_name": "NE Prescott Dr & 129th Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4775",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Prescott Dr & 129th Pl",
+            "onestopId": "s-c20g5tpbuu-neprescott~129thpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2451,32 +2487,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.556937,
-                    45.534249
+                    -122.521542,
+                    45.56182
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10746",
+                    "identifier": "f-trimet-s-9112",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10746",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 10746)",
-                        "stop_id": "10746",
-                        "stop_lat": "45.534249",
-                        "stop_lon": "-122.556937",
-                        "stop_name": "NE Weidler & 103rd Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10746",
+                        "position": "Nearside",
+                        "stop_code": "9112",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 9112)",
+                        "stop_id": "9112",
+                        "stop_lat": "45.56182",
+                        "stop_lon": "-122.521542",
+                        "stop_name": "NE Airport Way & 138th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9112",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Weidler & 103rd Pl",
-            "onestopId": "s-c20g51kb0r-neweidler~103rdpl",
+            "name": "NE Airport Way & 138th",
+            "onestopId": "s-c20g5yq8c4-neairport~138th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,32 +2595,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.53449,
-                    45.552213
+                    -122.537491,
+                    45.553506
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6683",
+                    "identifier": "f-trimet-s-5250",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6683",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 6683)",
-                        "stop_id": "6683",
-                        "stop_lat": "45.552213",
-                        "stop_lon": "-122.53449",
-                        "stop_name": "NE 125th Pl & Shaver",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6683",
+                        "position": "Nearside",
+                        "stop_code": "5250",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5250)",
+                        "stop_id": "5250",
+                        "stop_lat": "45.553506",
+                        "stop_lon": "-122.537491",
+                        "stop_name": "NE Skidmore & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5250",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 125th Pl & Shaver",
-            "onestopId": "s-c20g5st0g7-ne125thpl~shaver",
+            "name": "NE Skidmore & 122nd",
+            "onestopId": "s-c20g5sfbms-neskidmore~122nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3279,32 +3315,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.558078,
-                    45.53993
+                    -122.547573,
+                    45.555317
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6509",
+                    "identifier": "f-trimet-s-4735",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6509",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 6509)",
-                        "stop_id": "6509",
-                        "stop_lat": "45.53993",
-                        "stop_lon": "-122.558078",
-                        "stop_name": "NE 102nd & Brazee",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6509",
+                        "position": "Nearside",
+                        "stop_code": "4735",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 4735)",
+                        "stop_id": "4735",
+                        "stop_lat": "45.555317",
+                        "stop_lon": "-122.547573",
+                        "stop_name": "NE Prescott & 112th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4735",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 102nd & Brazee",
-            "onestopId": "s-c20g547cmf-ne102nd~brazee",
+            "name": "NE Prescott & 112th",
+            "onestopId": "s-c20g5m5dfw-neprescott~112th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3315,32 +3351,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.558133,
-                    45.536608
+                    -122.526985,
+                    45.533624
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6507",
+                    "identifier": "f-trimet-s-2375",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "6507",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 6507)",
-                        "stop_id": "6507",
-                        "stop_lat": "45.536608",
-                        "stop_lon": "-122.558133",
-                        "stop_name": "NE 102nd & Bell",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6507",
+                        "position": "Nearside",
+                        "stop_code": "2375",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2375)",
+                        "stop_id": "2375",
+                        "stop_lat": "45.533624",
+                        "stop_lon": "-122.526985",
+                        "stop_name": "NE Halsey & 132nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2375",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 102nd & Bell",
-            "onestopId": "s-c20g51evuw-ne102nd~bell",
+            "name": "NE Halsey & 132nd",
+            "onestopId": "s-c20g5c4sd6-nehalsey~132nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3531,32 +3567,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.532799,
-                    45.555
+                    -122.561853,
+                    45.527889
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4773",
+                    "identifier": "f-trimet-s-10658",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4773",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 4773)",
-                        "stop_id": "4773",
-                        "stop_lat": "45.555",
-                        "stop_lon": "-122.532799",
-                        "stop_name": "NE Prescott Dr & 125th Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4773",
+                        "position": "Farside",
+                        "stop_code": "10658",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 10658)",
+                        "stop_id": "10658",
+                        "stop_lat": "45.527889",
+                        "stop_lon": "-122.561853",
+                        "stop_name": "NE 99th & Irving",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10658",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Prescott Dr & 125th Pl",
-            "onestopId": "s-c20g5tn34g-neprescott~125thpl",
+            "name": "NE 99th & Irving",
+            "onestopId": "s-c20g5015jv-ne99th~irving",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3711,78 +3747,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.547573,
-                    45.555317
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4735",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4735",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 4735)",
-                        "stop_id": "4735",
-                        "stop_lat": "45.555317",
-                        "stop_lon": "-122.547573",
-                        "stop_name": "NE Prescott & 112th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4735",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Prescott & 112th",
-            "onestopId": "s-c20g5m5dfw-neprescott~112th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.544412,
-                    45.533611
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2361",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2361",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2361)",
-                        "stop_id": "2361",
-                        "stop_lat": "45.533611",
-                        "stop_lon": "-122.544412",
-                        "stop_name": "NE Halsey & 114th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2361",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Halsey & 114th",
-            "onestopId": "s-c20g53jus0-nehalsey~114th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.53751,
                     45.532668
                 ],
@@ -3927,32 +3891,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.526985,
-                    45.533624
+                    -122.558133,
+                    45.536608
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2375",
+                    "identifier": "f-trimet-s-6507",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2375",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2375)",
-                        "stop_id": "2375",
-                        "stop_lat": "45.533624",
-                        "stop_lon": "-122.526985",
-                        "stop_name": "NE Halsey & 132nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2375",
+                        "position": "Farside",
+                        "stop_code": "6507",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 6507)",
+                        "stop_id": "6507",
+                        "stop_lat": "45.536608",
+                        "stop_lon": "-122.558133",
+                        "stop_name": "NE 102nd & Bell",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6507",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Halsey & 132nd",
-            "onestopId": "s-c20g5c4sd6-nehalsey~132nd",
+            "name": "NE 102nd & Bell",
+            "onestopId": "s-c20g51evuw-ne102nd~bell",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3999,32 +3963,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.5205,
-                    45.554119
+                    -122.544412,
+                    45.533611
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10788",
+                    "identifier": "f-trimet-s-2361",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10788",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 10788)",
-                        "stop_id": "10788",
-                        "stop_lat": "45.554119",
-                        "stop_lon": "-122.5205",
-                        "stop_name": "NE Sandy & 138th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10788",
+                        "position": "Nearside",
+                        "stop_code": "2361",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2361)",
+                        "stop_id": "2361",
+                        "stop_lat": "45.533611",
+                        "stop_lon": "-122.544412",
+                        "stop_name": "NE Halsey & 114th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2361",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Sandy & 138th",
-            "onestopId": "s-c20g5uz7cr-nesandy~138th",
+            "name": "NE Halsey & 114th",
+            "onestopId": "s-c20g53jus0-nehalsey~114th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4179,32 +4143,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.537789,
-                    45.534562
+                    -122.552746,
+                    45.555329
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6617",
+                    "identifier": "f-trimet-s-4725",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6617",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 6617)",
-                        "stop_id": "6617",
-                        "stop_lat": "45.534562",
-                        "stop_lon": "-122.537789",
-                        "stop_name": "NE 122nd & Halsey",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6617",
+                        "position": "At",
+                        "stop_code": "4725",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 4725)",
+                        "stop_id": "4725",
+                        "stop_lat": "45.555329",
+                        "stop_lon": "-122.552746",
+                        "stop_name": "10600 Block NE Prescott",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4725",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 122nd & Halsey",
-            "onestopId": "s-c20g596dn9-ne122nd~halsey",
+            "name": "10600 Block NE Prescott",
+            "onestopId": "s-c20g5jpg40-10600blockneprescott",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53735,
+                    45.537295
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5036",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "5036",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 5036)",
+                        "stop_id": "5036",
+                        "stop_lat": "45.537295",
+                        "stop_lon": "-122.53735",
+                        "stop_name": "NE San Rafael & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5036",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE San Rafael & 122nd",
+            "onestopId": "s-c20g59g1bz-nesanrafael~122nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4827,42 +4827,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.552746,
-                    45.555329
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4725",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "4725",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 4725)",
-                        "stop_id": "4725",
-                        "stop_lat": "45.555329",
-                        "stop_lon": "-122.552746",
-                        "stop_name": "10600 Block NE Prescott",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4725",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "10600 Block NE Prescott",
-            "onestopId": "s-c20g5jpg40-10600blockneprescott",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.557919,
                     45.534023
                 ],
@@ -4971,32 +4935,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.554821,
-                    45.561706
+                    -122.520926,
+                    45.554403
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10733",
+                    "identifier": "f-trimet-s-10823",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10733",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 10733)",
-                        "stop_id": "10733",
-                        "stop_lat": "45.561706",
-                        "stop_lon": "-122.554821",
-                        "stop_name": "NE 105th & Marx",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10733",
+                        "stop_code": "10823",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 10823)",
+                        "stop_id": "10823",
+                        "stop_lat": "45.554403",
+                        "stop_lon": "-122.520926",
+                        "stop_name": "NE Sandy & 138th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10823",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 105th & Marx",
-            "onestopId": "s-c20g5nq21t-ne105th~marx",
+            "name": "NE Sandy & 138th",
+            "onestopId": "s-c20g5uyvxk-nesandy~138th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5583,32 +5547,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.53735,
-                    45.537295
+                    -122.541586,
+                    45.551694
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5036",
+                    "identifier": "f-trimet-s-8471",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "5036",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 5036)",
-                        "stop_id": "5036",
-                        "stop_lat": "45.537295",
-                        "stop_lon": "-122.53735",
-                        "stop_name": "NE San Rafael & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5036",
+                        "position": "At",
+                        "stop_code": "8471",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 8471)",
+                        "stop_id": "8471",
+                        "stop_lat": "45.551694",
+                        "stop_lon": "-122.541586",
+                        "stop_name": "NE Shaver & Parkrose Middle School",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8471",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE San Rafael & 122nd",
-            "onestopId": "s-c20g59g1bz-nesanrafael~122nd",
+            "name": "NE Shaver & Parkrose Middle School",
+            "onestopId": "s-c20g5krvy5-neshaver~parkrosemiddleschool",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5871,32 +5835,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.5579,
-                    45.555513
+                    -122.52846,
+                    45.55566
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10838",
+                    "identifier": "f-trimet-s-10826",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10838",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 10838)",
-                        "stop_id": "10838",
-                        "stop_lat": "45.555513",
-                        "stop_lon": "-122.5579",
-                        "stop_name": "NE 102nd & Prescott",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10838",
+                        "position": "Opposite",
+                        "stop_code": "10826",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 10826)",
+                        "stop_id": "10826",
+                        "stop_lat": "45.55566",
+                        "stop_lon": "-122.52846",
+                        "stop_name": "NE Sandy & 131st Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10826",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE 102nd & Prescott",
-            "onestopId": "s-c20g5jhh1g-ne102nd~prescott",
+            "name": "NE Sandy & 131st Pl",
+            "onestopId": "s-c20g5v1kzy-nesandy~131stpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6339,6 +6303,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.558078,
+                    45.53993
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-6509",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "6509",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 6509)",
+                        "stop_id": "6509",
+                        "stop_lat": "45.53993",
+                        "stop_lon": "-122.558078",
+                        "stop_name": "NE 102nd & Brazee",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6509",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE 102nd & Brazee",
+            "onestopId": "s-c20g547cmf-ne102nd~brazee",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.548041,
                     45.568243
                 ],
@@ -6735,32 +6735,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.541586,
-                    45.551694
+                    -122.5205,
+                    45.554119
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8471",
+                    "identifier": "f-trimet-s-10788",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8471",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 8471)",
-                        "stop_id": "8471",
-                        "stop_lat": "45.551694",
-                        "stop_lon": "-122.541586",
-                        "stop_name": "NE Shaver & Parkrose Middle School",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8471",
+                        "position": "Farside",
+                        "stop_code": "10788",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 10788)",
+                        "stop_id": "10788",
+                        "stop_lat": "45.554119",
+                        "stop_lon": "-122.5205",
+                        "stop_name": "NE Sandy & 138th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10788",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Shaver & Parkrose Middle School",
-            "onestopId": "s-c20g5krvy5-neshaver~parkrosemiddleschool",
+            "name": "NE Sandy & 138th",
+            "onestopId": "s-c20g5uz7cr-nesandy~138th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6771,32 +6771,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.52846,
-                    45.55566
+                    -122.537789,
+                    45.534562
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10826",
+                    "identifier": "f-trimet-s-6617",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "10826",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 10826)",
-                        "stop_id": "10826",
-                        "stop_lat": "45.55566",
-                        "stop_lon": "-122.52846",
-                        "stop_name": "NE Sandy & 131st Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10826",
+                        "position": "Nearside",
+                        "stop_code": "6617",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 6617)",
+                        "stop_id": "6617",
+                        "stop_lat": "45.534562",
+                        "stop_lon": "-122.537789",
+                        "stop_name": "NE 122nd & Halsey",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6617",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Sandy & 131st Pl",
-            "onestopId": "s-c20g5v1kzy-nesandy~131stpl",
+            "name": "NE 122nd & Halsey",
+            "onestopId": "s-c20g596dn9-ne122nd~halsey",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

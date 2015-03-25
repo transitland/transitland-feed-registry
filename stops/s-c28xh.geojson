@@ -343,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.82948,
-                    49.067484
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6187",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56128",
-                        "stop_desc": "CRESCENT RD @ NICO WYND DR",
-                        "stop_id": "6187",
-                        "stop_lat": "49.067484",
-                        "stop_lon": "-122.82948",
-                        "stop_name": "WB CRESCENT RD NS NICO WYND DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB CRESCENT RD NS NICO WYND DR",
-            "onestopId": "s-c28xhuqqc9-wbcrescentnsnicowynd",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.844908,
                     49.063488
                 ],
@@ -445,30 +411,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.862562,
-                    49.054633
+                    -122.867241,
+                    49.048392
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6177",
+                    "identifier": "f-translink-s-6220",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56118",
-                        "stop_desc": "CRESCENT RD @ 130 ST",
-                        "stop_id": "6177",
-                        "stop_lat": "49.054633",
-                        "stop_lon": "-122.862562",
-                        "stop_name": "EB CRESCENT RD NS 130 ST",
+                        "stop_code": "56160",
+                        "stop_desc": "128 ST @ 25 AVE",
+                        "stop_id": "6220",
+                        "stop_lat": "49.048392",
+                        "stop_lon": "-122.867241",
+                        "stop_name": "NB 128 ST FS 25 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB CRESCENT RD NS 130 ST",
-            "onestopId": "s-c28xh4n5yy-ebcrescentns130",
+            "name": "NB 128 ST FS 25 AV",
+            "onestopId": "s-c28xh0fz9f-nb128fs25",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -819,6 +785,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.82948,
+                    49.067484
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6187",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56128",
+                        "stop_desc": "CRESCENT RD @ NICO WYND DR",
+                        "stop_id": "6187",
+                        "stop_lat": "49.067484",
+                        "stop_lon": "-122.82948",
+                        "stop_name": "WB CRESCENT RD NS NICO WYND DR",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB CRESCENT RD NS NICO WYND DR",
+            "onestopId": "s-c28xhuqqc9-wbcrescentnsnicowynd",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.860782,
                     49.045704
                 ],
@@ -843,40 +843,6 @@
             ],
             "name": "EB 24 AV FS 130 ST",
             "onestopId": "s-c28xh0rxbm-eb24fs130",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.867241,
-                    49.048392
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6220",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56160",
-                        "stop_desc": "128 ST @ 25 AVE",
-                        "stop_id": "6220",
-                        "stop_lat": "49.048392",
-                        "stop_lon": "-122.867241",
-                        "stop_name": "NB 128 ST FS 25 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 128 ST FS 25 AV",
-            "onestopId": "s-c28xh0fz9f-nb128fs25",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1013,6 +979,40 @@
             ],
             "name": "SB 128 ST FS 24 AV",
             "onestopId": "s-c28xh06w5g-sb128fs24",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.862562,
+                    49.054633
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-6177",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56118",
+                        "stop_desc": "CRESCENT RD @ 130 ST",
+                        "stop_id": "6177",
+                        "stop_lat": "49.054633",
+                        "stop_lon": "-122.862562",
+                        "stop_name": "EB CRESCENT RD NS 130 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB CRESCENT RD NS 130 ST",
+            "onestopId": "s-c28xh4n5yy-ebcrescentns130",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

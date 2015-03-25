@@ -173,30 +173,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.291985,
-                    34.16851
+                    -118.282715,
+                    34.161755
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-14243",
+                    "identifier": "f-lacmta-s-5830",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14243",
+                        "stop_code": "5830",
                         "stop_desc": "",
-                        "stop_id": "14243",
-                        "stop_lat": "34.16851",
-                        "stop_lon": "-118.291985",
-                        "stop_name": "San Fernando / Western",
+                        "stop_id": "5830",
+                        "stop_lat": "34.161755",
+                        "stop_lon": "-118.282715",
+                        "stop_name": "San Fernando / Grandview",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Fernando / Western",
-            "onestopId": "s-9q5fkhnmuz-sanfernando~western",
+            "name": "San Fernando / Grandview",
+            "onestopId": "s-9q5fk6vnsu-sanfernando~grandview",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -649,30 +649,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.300331,
-                    34.161415
+                    -118.264435,
+                    34.159729
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-18115",
+                    "identifier": "f-lacmta-s-7679",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "18115",
+                        "stop_code": "7679",
                         "stop_desc": "",
-                        "stop_id": "18115",
-                        "stop_lat": "34.161415",
-                        "stop_lon": "-118.300331",
-                        "stop_name": "Victory / Western",
+                        "stop_id": "7679",
+                        "stop_lat": "34.159729",
+                        "stop_lon": "-118.264435",
+                        "stop_name": "Glenoaks / Pacific",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Victory / Western",
-            "onestopId": "s-9q5fk4bkdm-victory~western",
+            "name": "Glenoaks / Pacific",
+            "onestopId": "s-9q5fkfd6yg-glenoaks~pacific",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1217,40 +1217,6 @@
             ],
             "name": "San Fernando / California",
             "onestopId": "s-9q5fk8u19v-sanfernando~california",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.282715,
-                    34.161755
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-5830",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5830",
-                        "stop_desc": "",
-                        "stop_id": "5830",
-                        "stop_lat": "34.161755",
-                        "stop_lon": "-118.282715",
-                        "stop_name": "San Fernando / Grandview",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "San Fernando / Grandview",
-            "onestopId": "s-9q5fk6vnsu-sanfernando~grandview",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2111,30 +2077,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.264435,
-                    34.159729
+                    -118.300331,
+                    34.161415
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-7679",
+                    "identifier": "f-lacmta-s-18115",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7679",
+                        "stop_code": "18115",
                         "stop_desc": "",
-                        "stop_id": "7679",
-                        "stop_lat": "34.159729",
-                        "stop_lon": "-118.264435",
-                        "stop_name": "Glenoaks / Pacific",
+                        "stop_id": "18115",
+                        "stop_lat": "34.161415",
+                        "stop_lon": "-118.300331",
+                        "stop_name": "Victory / Western",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Glenoaks / Pacific",
-            "onestopId": "s-9q5fkfd6yg-glenoaks~pacific",
+            "name": "Victory / Western",
+            "onestopId": "s-9q5fk4bkdm-victory~western",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.291985,
+                    34.16851
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-14243",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "14243",
+                        "stop_desc": "",
+                        "stop_id": "14243",
+                        "stop_lat": "34.16851",
+                        "stop_lon": "-118.291985",
+                        "stop_name": "San Fernando / Western",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "San Fernando / Western",
+            "onestopId": "s-9q5fkhnmuz-sanfernando~western",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

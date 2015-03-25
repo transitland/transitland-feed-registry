@@ -3,68 +3,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.354387,
-                    45.358864
+                    -122.364058,
+                    45.361654
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1564",
+                    "identifier": "f-trimet-s-13495",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1564",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 1564)",
-                        "stop_id": "1564",
-                        "stop_lat": "45.358864",
-                        "stop_lon": "-122.354387",
-                        "stop_name": "SE Eagle Creek Rd & Hwy 211",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1564",
+                        "position": "Farside",
+                        "stop_code": "13495",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 13495)",
+                        "stop_id": "13495",
+                        "stop_lat": "45.361654",
+                        "stop_lon": "-122.364058",
+                        "stop_name": "SE Hwy 224 & Dowty Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13495",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Eagle Creek Rd & Hwy 211",
-            "onestopId": "s-c20fpc2681-seeaglecreek~211",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.355927,
-                    45.358825
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2819",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "2819",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2819)",
-                        "stop_id": "2819",
-                        "stop_lat": "45.358825",
-                        "stop_lon": "-122.355927",
-                        "stop_name": "29800 Block SE Hwy 211",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2819",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "29800 Block SE Hwy 211",
-            "onestopId": "s-c20fp9r4k3-29800blockse211",
+            "name": "SE Hwy 224 & Dowty Rd",
+            "onestopId": "s-c20fp9c4yc-se224~dowty",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -147,68 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.377125,
-                    45.372943
+                    -122.384156,
+                    45.37829
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13632",
+                    "identifier": "f-trimet-s-2878",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "13632",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 13632)",
-                        "stop_id": "13632",
-                        "stop_lat": "45.372943",
-                        "stop_lon": "-122.377125",
-                        "stop_name": "Hwy 224  & Paul Bunyan Ln",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13632",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Hwy 224  & Paul Bunyan Ln",
-            "onestopId": "s-c20fp5zsw3-224~paulbunyan",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.36846,
-                    45.364742
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8823",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "8823",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8823)",
-                        "stop_id": "8823",
-                        "stop_lat": "45.364742",
-                        "stop_lon": "-122.36846",
-                        "stop_name": "SE Hwy 224 & Glover Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8823",
+                        "stop_code": "2878",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2878)",
+                        "stop_id": "2878",
+                        "stop_lat": "45.37829",
+                        "stop_lon": "-122.384156",
+                        "stop_name": "SE Hwy 224 & Bartlemay",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2878",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 224 & Glover Rd",
-            "onestopId": "s-c20fp6qhb0-se224~glover",
+            "name": "SE Hwy 224 & Bartlemay",
+            "onestopId": "s-c20fphfedq-se224~bartlemay",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -363,6 +291,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.377125,
+                    45.372943
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13632",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "13632",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 13632)",
+                        "stop_id": "13632",
+                        "stop_lat": "45.372943",
+                        "stop_lon": "-122.377125",
+                        "stop_name": "Hwy 224  & Paul Bunyan Ln",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13632",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Hwy 224  & Paul Bunyan Ln",
+            "onestopId": "s-c20fp5zsw3-224~paulbunyan",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.379009,
                     45.374348
                 ],
@@ -435,32 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.364058,
-                    45.361654
+                    -122.354387,
+                    45.358864
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13495",
+                    "identifier": "f-trimet-s-1564",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13495",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 13495)",
-                        "stop_id": "13495",
-                        "stop_lat": "45.361654",
-                        "stop_lon": "-122.364058",
-                        "stop_name": "SE Hwy 224 & Dowty Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13495",
+                        "position": "Nearside",
+                        "stop_code": "1564",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 1564)",
+                        "stop_id": "1564",
+                        "stop_lat": "45.358864",
+                        "stop_lon": "-122.354387",
+                        "stop_name": "SE Eagle Creek Rd & Hwy 211",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1564",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 224 & Dowty Rd",
-            "onestopId": "s-c20fp9c4yc-se224~dowty",
+            "name": "SE Eagle Creek Rd & Hwy 211",
+            "onestopId": "s-c20fpc2681-seeaglecreek~211",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -471,32 +435,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.384156,
-                    45.37829
+                    -122.354332,
+                    45.358572
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2878",
+                    "identifier": "f-trimet-s-1563",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "2878",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2878)",
-                        "stop_id": "2878",
-                        "stop_lat": "45.37829",
-                        "stop_lon": "-122.384156",
-                        "stop_name": "SE Hwy 224 & Bartlemay",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2878",
+                        "stop_code": "1563",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 1563)",
+                        "stop_id": "1563",
+                        "stop_lat": "45.358572",
+                        "stop_lon": "-122.354332",
+                        "stop_name": "SE Eagle Creek Rd & Hwy 211",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1563",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 224 & Bartlemay",
-            "onestopId": "s-c20fphfedq-se224~bartlemay",
+            "name": "SE Eagle Creek Rd & Hwy 211",
+            "onestopId": "s-c20fpc22c6-seeaglecreek~211",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.355927,
+                    45.358825
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2819",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "2819",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2819)",
+                        "stop_id": "2819",
+                        "stop_lat": "45.358825",
+                        "stop_lon": "-122.355927",
+                        "stop_name": "29800 Block SE Hwy 211",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2819",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "29800 Block SE Hwy 211",
+            "onestopId": "s-c20fp9r4k3-29800blockse211",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -687,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.354332,
-                    45.358572
+                    -122.36846,
+                    45.364742
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1563",
+                    "identifier": "f-trimet-s-8823",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1563",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 1563)",
-                        "stop_id": "1563",
-                        "stop_lat": "45.358572",
-                        "stop_lon": "-122.354332",
-                        "stop_name": "SE Eagle Creek Rd & Hwy 211",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1563",
+                        "stop_code": "8823",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8823)",
+                        "stop_id": "8823",
+                        "stop_lat": "45.364742",
+                        "stop_lon": "-122.36846",
+                        "stop_name": "SE Hwy 224 & Glover Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8823",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Eagle Creek Rd & Hwy 211",
-            "onestopId": "s-c20fpc22c6-seeaglecreek~211",
+            "name": "SE Hwy 224 & Glover Rd",
+            "onestopId": "s-c20fp6qhb0-se224~glover",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

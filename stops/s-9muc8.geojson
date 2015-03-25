@@ -39,32 +39,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.058170474,
-                    32.620347785
+                    -117.049078637,
+                    32.6194588646
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30368",
+                    "identifier": "f-mtssandiego-s-30190",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30368",
-                        "stop_id": "30368",
-                        "stop_lat": "32.620347785",
-                        "stop_lon": "-117.058170474",
-                        "stop_name": "Hilltop Dr & Moss St",
-                        "stop_name_short": "Hilltop&Moss",
+                        "stop_code": "30190",
+                        "stop_id": "30190",
+                        "stop_lat": "32.6194588646",
+                        "stop_lon": "-117.049078637",
+                        "stop_name": "E Naples St & Monserate Av",
+                        "stop_name_short": "E Naples&Monserate",
                         "stop_place": "",
+                        "wheelchair_boarding": "2"
+                    }
+                }
+            ],
+            "name": "E Naples St & Monserate Av",
+            "onestopId": "s-9muc86pqng-enaples~monserate",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.066114859,
+                    32.637610864
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-30240",
+                    "tags": {
+                        "intersection_code": "F-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "30240",
+                        "stop_id": "30240",
+                        "stop_lat": "32.637610864",
+                        "stop_lon": "-117.066114859",
+                        "stop_name": "H St & Hilltop Dr",
+                        "stop_name_short": "H&Hilltop",
+                        "stop_place": "hsthil",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Hilltop Dr & Moss St",
-            "onestopId": "s-9muc862g6c-hilltop~moss",
+            "name": "H St & Hilltop Dr",
+            "onestopId": "s-9muc8j7pcg-h~hilltop",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -615,32 +651,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.07013448,
-                    32.6161020225
+                    -117.037348078,
+                    32.6227308696
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12201",
+                    "identifier": "f-mtssandiego-s-30270",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12201",
-                        "stop_id": "12201",
-                        "stop_lat": "32.6161020225",
-                        "stop_lon": "-117.07013448",
-                        "stop_name": "3rd Av & Moss St",
-                        "stop_name_short": "3rd&Moss",
-                        "stop_place": "",
-                        "wheelchair_boarding": "2"
+                        "stop_code": "30270",
+                        "stop_id": "30270",
+                        "stop_lat": "32.6227308696",
+                        "stop_lon": "-117.037348078",
+                        "stop_name": "E Naples St & Oleander Av",
+                        "stop_name_short": "E Naples&Oleander",
+                        "stop_place": "napole",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "3rd Av & Moss St",
-            "onestopId": "s-9muc8184s4-3rd~moss",
+            "name": "E Naples St & Oleander Av",
+            "onestopId": "s-9muc8fb10j-enaples~oleander",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -687,32 +723,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.066114859,
-                    32.637610864
+                    -117.058170474,
+                    32.620347785
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30240",
+                    "identifier": "f-mtssandiego-s-30368",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30240",
-                        "stop_id": "30240",
-                        "stop_lat": "32.637610864",
-                        "stop_lon": "-117.066114859",
-                        "stop_name": "H St & Hilltop Dr",
-                        "stop_name_short": "H&Hilltop",
-                        "stop_place": "hsthil",
+                        "stop_code": "30368",
+                        "stop_id": "30368",
+                        "stop_lat": "32.620347785",
+                        "stop_lon": "-117.058170474",
+                        "stop_name": "Hilltop Dr & Moss St",
+                        "stop_name_short": "Hilltop&Moss",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "H St & Hilltop Dr",
-            "onestopId": "s-9muc8j7pcg-h~hilltop",
+            "name": "Hilltop Dr & Moss St",
+            "onestopId": "s-9muc862g6c-hilltop~moss",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1623,42 +1659,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.037348078,
-                    32.6227308696
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-30270",
-                    "tags": {
-                        "intersection_code": "F-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "30270",
-                        "stop_id": "30270",
-                        "stop_lat": "32.6227308696",
-                        "stop_lon": "-117.037348078",
-                        "stop_name": "E Naples St & Oleander Av",
-                        "stop_name_short": "E Naples&Oleander",
-                        "stop_place": "napole",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "E Naples St & Oleander Av",
-            "onestopId": "s-9muc8fb10j-enaples~oleander",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.054730285,
                     32.6483828356
                 ],
@@ -1731,32 +1731,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.049078637,
-                    32.6194588646
+                    -117.07013448,
+                    32.6161020225
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30190",
+                    "identifier": "f-mtssandiego-s-12201",
                     "tags": {
-                        "intersection_code": "N-W/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30190",
-                        "stop_id": "30190",
-                        "stop_lat": "32.6194588646",
-                        "stop_lon": "-117.049078637",
-                        "stop_name": "E Naples St & Monserate Av",
-                        "stop_name_short": "E Naples&Monserate",
+                        "stop_code": "12201",
+                        "stop_id": "12201",
+                        "stop_lat": "32.6161020225",
+                        "stop_lon": "-117.07013448",
+                        "stop_name": "3rd Av & Moss St",
+                        "stop_name_short": "3rd&Moss",
                         "stop_place": "",
                         "wheelchair_boarding": "2"
                     }
                 }
             ],
-            "name": "E Naples St & Monserate Av",
-            "onestopId": "s-9muc86pqng-enaples~monserate",
+            "name": "3rd Av & Moss St",
+            "onestopId": "s-9muc8184s4-3rd~moss",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2559,32 +2559,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.061470872,
-                    32.6289041042
+                    -117.058047447,
+                    32.6203898192
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30305",
+                    "identifier": "f-mtssandiego-s-30421",
                     "tags": {
-                        "intersection_code": "N-S/B",
+                        "intersection_code": "M-Street-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30305",
-                        "stop_id": "30305",
-                        "stop_lat": "32.6289041042",
-                        "stop_lon": "-117.061470872",
-                        "stop_name": "Hilltop Dr & Telegraph Canyon Rd",
-                        "stop_name_short": "Hilltop&Tlgrph Cyn",
+                        "stop_code": "30421",
+                        "stop_id": "30421",
+                        "stop_lat": "32.6203898192",
+                        "stop_lon": "-117.058047447",
+                        "stop_name": "Hilltop Dr & Moss St",
+                        "stop_name_short": "Hilltop&Moss",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Hilltop Dr & Telegraph Canyon Rd",
-            "onestopId": "s-9muc85ymnh-hilltop~telegraphcanyon",
+            "name": "Hilltop Dr & Moss St",
+            "onestopId": "s-9muc862gtc-hilltop~moss",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -2631,32 +2631,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.058047447,
-                    32.6203898192
+                    -117.061470872,
+                    32.6289041042
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-30421",
+                    "identifier": "f-mtssandiego-s-30305",
                     "tags": {
-                        "intersection_code": "M-Street-N/B",
+                        "intersection_code": "N-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "30421",
-                        "stop_id": "30421",
-                        "stop_lat": "32.6203898192",
-                        "stop_lon": "-117.058047447",
-                        "stop_name": "Hilltop Dr & Moss St",
-                        "stop_name_short": "Hilltop&Moss",
+                        "stop_code": "30305",
+                        "stop_id": "30305",
+                        "stop_lat": "32.6289041042",
+                        "stop_lon": "-117.061470872",
+                        "stop_name": "Hilltop Dr & Telegraph Canyon Rd",
+                        "stop_name_short": "Hilltop&Tlgrph Cyn",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Hilltop Dr & Moss St",
-            "onestopId": "s-9muc862gtc-hilltop~moss",
+            "name": "Hilltop Dr & Telegraph Canyon Rd",
+            "onestopId": "s-9muc85ymnh-hilltop~telegraphcanyon",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

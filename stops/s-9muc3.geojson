@@ -39,42 +39,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.9962398,
-                    32.568050406
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-60515",
-                    "tags": {
-                        "intersection_code": "F-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "60515",
-                        "stop_id": "60515",
-                        "stop_lat": "32.568050406",
-                        "stop_lon": "-116.9962398",
-                        "stop_name": "Otay Mesa Rd & Heritage Rd",
-                        "stop_name_short": "Otay Mesa&Heritage",
-                        "stop_place": "otaher",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Otay Mesa Rd & Heritage Rd",
-            "onestopId": "s-9muc38vfwh-otaymesa~heritage",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -116.995425021,
                     32.5684236349
                 ],
@@ -101,6 +65,42 @@
             ],
             "name": "Otay Mesa Rd & Heritage Rd",
             "onestopId": "s-9muc38ysc4-otaymesa~heritage",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.9962398,
+                    32.568050406
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-60515",
+                    "tags": {
+                        "intersection_code": "F-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "60515",
+                        "stop_id": "60515",
+                        "stop_lat": "32.568050406",
+                        "stop_lon": "-116.9962398",
+                        "stop_name": "Otay Mesa Rd & Heritage Rd",
+                        "stop_name_short": "Otay Mesa&Heritage",
+                        "stop_place": "otaher",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Otay Mesa Rd & Heritage Rd",
+            "onestopId": "s-9muc38vfwh-otaymesa~heritage",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

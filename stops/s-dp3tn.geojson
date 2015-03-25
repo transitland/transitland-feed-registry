@@ -69,29 +69,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61978427,
-                    41.66354445
+                    -87.60099056,
+                    41.69296551
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7590",
+                    "identifier": "f-cta-s-2899",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7590",
-                        "stop_desc": "127th Street & Michigan, Westbound, Northeast Corner",
-                        "stop_id": "7590",
-                        "stop_lat": "41.66354445",
-                        "stop_lon": "-87.61978427",
-                        "stop_name": "127th Street & Michigan",
+                        "stop_code": "2899",
+                        "stop_desc": "111th Street & Doty/Corliss, Westbound, Northwest Corner",
+                        "stop_id": "2899",
+                        "stop_lat": "41.69296551",
+                        "stop_lon": "-87.60099056",
+                        "stop_name": "111th Street & Doty/Corliss",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "127th Street & Michigan",
-            "onestopId": "s-dp3tn0t5xp-127th~michigan",
+            "name": "111th Street & Doty/Corliss",
+            "onestopId": "s-dp3tntfzhu-111th~doty~corliss",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -135,29 +135,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62086021,
-                    41.7016937
+                    -87.61322501,
+                    41.69086314
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7539",
+                    "identifier": "f-cta-s-14051",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7539",
-                        "stop_desc": "10600 S Michigan, Southbound, Westside of the Street",
-                        "stop_id": "7539",
-                        "stop_lat": "41.7016937",
-                        "stop_lon": "-87.62086021",
-                        "stop_name": "10600 S Michigan",
+                        "stop_code": "14051",
+                        "stop_desc": "King Drive & 112th Street, Northbound, Southeast Corner",
+                        "stop_id": "14051",
+                        "stop_lat": "41.69086314",
+                        "stop_lon": "-87.61322501",
+                        "stop_name": "King Drive & 112th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "10600 S Michigan",
-            "onestopId": "s-dp3tnps3vz-10600smichigan",
+            "name": "King Drive & 112th Street",
+            "onestopId": "s-dp3tnm9fzu-king~112th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -366,29 +366,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62093363,
-                    41.68917118
+                    -87.62085718,
+                    41.68508886
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15079",
+                    "identifier": "f-cta-s-17233",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15079",
-                        "stop_desc": "Michigan & 113th Street, Northbound, Northeast Corner",
-                        "stop_id": "15079",
-                        "stop_lat": "41.68917118",
-                        "stop_lon": "-87.62093363",
-                        "stop_name": "Michigan & 113th Street",
+                        "stop_code": "17233",
+                        "stop_desc": "Michigan & 115th Street, Southbound, Southwest Corner",
+                        "stop_id": "17233",
+                        "stop_lat": "41.68508886",
+                        "stop_lon": "-87.62085718",
+                        "stop_name": "Michigan & 115th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & 113th Street",
-            "onestopId": "s-dp3tnjk3h2-michigan~113th",
+            "name": "Michigan & 115th Street",
+            "onestopId": "s-dp3tnhs3np-michigan~115th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -663,29 +663,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62085718,
-                    41.68508886
+                    -87.62093363,
+                    41.68917118
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17233",
+                    "identifier": "f-cta-s-15079",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17233",
-                        "stop_desc": "Michigan & 115th Street, Southbound, Southwest Corner",
-                        "stop_id": "17233",
-                        "stop_lat": "41.68508886",
-                        "stop_lon": "-87.62085718",
-                        "stop_name": "Michigan & 115th Street",
+                        "stop_code": "15079",
+                        "stop_desc": "Michigan & 113th Street, Northbound, Northeast Corner",
+                        "stop_id": "15079",
+                        "stop_lat": "41.68917118",
+                        "stop_lon": "-87.62093363",
+                        "stop_name": "Michigan & 113th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & 115th Street",
-            "onestopId": "s-dp3tnhs3np-michigan~115th",
+            "name": "Michigan & 113th Street",
+            "onestopId": "s-dp3tnjk3h2-michigan~113th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.62073878,
+                    41.6826592
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-7550",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "7550",
+                        "stop_desc": "Michigan & 116th Street, Southbound, Northwest Corner",
+                        "stop_id": "7550",
+                        "stop_lat": "41.6826592",
+                        "stop_lon": "-87.62073878",
+                        "stop_name": "Michigan & 116th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Michigan & 116th Street",
+            "onestopId": "s-dp3tnhhe0f-michigan~116th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -861,29 +894,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.608661,
-                    41.698365
+                    -87.615721,
+                    41.692643
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2834",
+                    "identifier": "f-cta-s-2891",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2834",
-                        "stop_desc": "Cottage Grove & 108th Street, Southbound, Westside of the Street",
-                        "stop_id": "2834",
-                        "stop_lat": "41.698365",
-                        "stop_lon": "-87.608661",
-                        "stop_name": "Cottage Grove & 108th Street",
+                        "stop_code": "2891",
+                        "stop_desc": "300 E 111th Street, Eastbound, Southside of the Street",
+                        "stop_id": "2891",
+                        "stop_lat": "41.692643",
+                        "stop_lon": "-87.615721",
+                        "stop_name": "300 E 111th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cottage Grove & 108th Street",
-            "onestopId": "s-dp3tnqvqd4-cottagegrove~108th",
+            "name": "300 E 111th Street",
+            "onestopId": "s-dp3tnmbjjx-300e111th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1224,29 +1257,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.60099056,
-                    41.69296551
+                    -87.61978427,
+                    41.66354445
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2899",
+                    "identifier": "f-cta-s-7590",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2899",
-                        "stop_desc": "111th Street & Doty/Corliss, Westbound, Northwest Corner",
-                        "stop_id": "2899",
-                        "stop_lat": "41.69296551",
-                        "stop_lon": "-87.60099056",
-                        "stop_name": "111th Street & Doty/Corliss",
+                        "stop_code": "7590",
+                        "stop_desc": "127th Street & Michigan, Westbound, Northeast Corner",
+                        "stop_id": "7590",
+                        "stop_lat": "41.66354445",
+                        "stop_lon": "-87.61978427",
+                        "stop_name": "127th Street & Michigan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "111th Street & Doty/Corliss",
-            "onestopId": "s-dp3tntfzhu-111th~doty~corliss",
+            "name": "127th Street & Michigan",
+            "onestopId": "s-dp3tn0t5xp-127th~michigan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1257,29 +1290,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.61322501,
-                    41.69086314
+                    -87.62086021,
+                    41.7016937
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14051",
+                    "identifier": "f-cta-s-7539",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14051",
-                        "stop_desc": "King Drive & 112th Street, Northbound, Southeast Corner",
-                        "stop_id": "14051",
-                        "stop_lat": "41.69086314",
-                        "stop_lon": "-87.61322501",
-                        "stop_name": "King Drive & 112th Street",
+                        "stop_code": "7539",
+                        "stop_desc": "10600 S Michigan, Southbound, Westside of the Street",
+                        "stop_id": "7539",
+                        "stop_lat": "41.7016937",
+                        "stop_lon": "-87.62086021",
+                        "stop_name": "10600 S Michigan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "King Drive & 112th Street",
-            "onestopId": "s-dp3tnm9fzu-king~112th",
+            "name": "10600 S Michigan",
+            "onestopId": "s-dp3tnps3vz-10600smichigan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2214,29 +2247,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62095222,
-                    41.6981698
+                    -87.62503151,
+                    41.67805435
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7541",
+                    "identifier": "f-cta-s-12417",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7541",
-                        "stop_desc": "Michigan & 108th Street, Southbound, Northwest Corner",
-                        "stop_id": "7541",
-                        "stop_lat": "41.6981698",
-                        "stop_lon": "-87.62095222",
-                        "stop_name": "Michigan & 108th Street",
+                        "stop_code": "12417",
+                        "stop_desc": "119th Street & Perry, Westbound, Northeast Corner",
+                        "stop_id": "12417",
+                        "stop_lat": "41.67805435",
+                        "stop_lon": "-87.62503151",
+                        "stop_name": "119th Street & Perry",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & 108th Street",
-            "onestopId": "s-dp3tnnum7y-michigan~108th",
+            "name": "119th Street & Perry",
+            "onestopId": "s-dp3tn532kb-119th~perry",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2511,29 +2544,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62073878,
-                    41.6826592
+                    -87.62524002,
+                    41.67794172
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7550",
+                    "identifier": "f-cta-s-12460",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7550",
-                        "stop_desc": "Michigan & 116th Street, Southbound, Northwest Corner",
-                        "stop_id": "7550",
-                        "stop_lat": "41.6826592",
-                        "stop_lon": "-87.62073878",
-                        "stop_name": "Michigan & 116th Street",
+                        "stop_code": "12460",
+                        "stop_desc": "119th Street & Perry, Eastbound, Southwest Corner",
+                        "stop_id": "12460",
+                        "stop_lat": "41.67794172",
+                        "stop_lon": "-87.62524002",
+                        "stop_name": "119th Street & Perry",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Michigan & 116th Street",
-            "onestopId": "s-dp3tnhhe0f-michigan~116th",
+            "name": "119th Street & Perry",
+            "onestopId": "s-dp3tn51pxg-119th~perry",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2676,29 +2709,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.615721,
-                    41.692643
+                    -87.608661,
+                    41.698365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2891",
+                    "identifier": "f-cta-s-2834",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2891",
-                        "stop_desc": "300 E 111th Street, Eastbound, Southside of the Street",
-                        "stop_id": "2891",
-                        "stop_lat": "41.692643",
-                        "stop_lon": "-87.615721",
-                        "stop_name": "300 E 111th Street",
+                        "stop_code": "2834",
+                        "stop_desc": "Cottage Grove & 108th Street, Southbound, Westside of the Street",
+                        "stop_id": "2834",
+                        "stop_lat": "41.698365",
+                        "stop_lon": "-87.608661",
+                        "stop_name": "Cottage Grove & 108th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "300 E 111th Street",
-            "onestopId": "s-dp3tnmbjjx-300e111th",
+            "name": "Cottage Grove & 108th Street",
+            "onestopId": "s-dp3tnqvqd4-cottagegrove~108th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2841,39 +2874,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62524002,
-                    41.67794172
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-12460",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "12460",
-                        "stop_desc": "119th Street & Perry, Eastbound, Southwest Corner",
-                        "stop_id": "12460",
-                        "stop_lat": "41.67794172",
-                        "stop_lon": "-87.62524002",
-                        "stop_name": "119th Street & Perry",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "119th Street & Perry",
-            "onestopId": "s-dp3tn51pxg-119th~perry",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.61793803,
                     41.68543264
                 ],
@@ -3006,29 +3006,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62503151,
-                    41.67805435
+                    -87.62095222,
+                    41.6981698
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12417",
+                    "identifier": "f-cta-s-7541",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12417",
-                        "stop_desc": "119th Street & Perry, Westbound, Northeast Corner",
-                        "stop_id": "12417",
-                        "stop_lat": "41.67805435",
-                        "stop_lon": "-87.62503151",
-                        "stop_name": "119th Street & Perry",
+                        "stop_code": "7541",
+                        "stop_desc": "Michigan & 108th Street, Southbound, Northwest Corner",
+                        "stop_id": "7541",
+                        "stop_lat": "41.6981698",
+                        "stop_lon": "-87.62095222",
+                        "stop_name": "Michigan & 108th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "119th Street & Perry",
-            "onestopId": "s-dp3tn532kb-119th~perry",
+            "name": "Michigan & 108th Street",
+            "onestopId": "s-dp3tnnum7y-michigan~108th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

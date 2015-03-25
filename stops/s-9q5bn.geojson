@@ -105,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.189186,
-                    33.77037
+                    -118.189209,
+                    33.774654
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-3042",
+                    "identifier": "f-lacmta-s-16923",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3042",
+                        "stop_code": "16923",
                         "stop_desc": "",
-                        "stop_id": "3042",
-                        "stop_lat": "33.77037",
-                        "stop_lon": "-118.189186",
-                        "stop_name": "Long Beach / 3rd",
+                        "stop_id": "16923",
+                        "stop_lat": "33.774654",
+                        "stop_lon": "-118.189209",
+                        "stop_name": "Long Beach / 6th",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Long Beach / 3rd",
-            "onestopId": "s-9q5bne9q8m-longbeach~3rd",
+            "name": "Long Beach / 6th",
+            "onestopId": "s-9q5bns3pxg-longbeach~6th",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -163,6 +163,40 @@
             ],
             "name": "Long Beach / Dayman",
             "onestopId": "s-9q5bnx3kb2-longbeach~dayman",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.189362,
+                    33.76874
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-80153",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "80153S",
+                        "stop_code": "80153",
+                        "stop_desc": "",
+                        "stop_id": "80153",
+                        "stop_lat": "33.76874",
+                        "stop_lon": "-118.189362",
+                        "stop_name": "1st Street Station",
+                        "stop_url": "",
+                        "tpis_name": "1st St"
+                    }
+                }
+            ],
+            "name": "1st Street Station",
+            "onestopId": "s-9q5bne3jhm-1ststation",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -309,40 +343,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.189362,
-                    33.76874
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-80153",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "80153S",
-                        "stop_code": "80153",
-                        "stop_desc": "",
-                        "stop_id": "80153",
-                        "stop_lat": "33.76874",
-                        "stop_lon": "-118.189362",
-                        "stop_name": "1st Street Station",
-                        "stop_url": "",
-                        "tpis_name": "1st St"
-                    }
-                }
-            ],
-            "name": "1st Street Station",
-            "onestopId": "s-9q5bne3jhm-1ststation",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.189178,
                     33.771568
                 ],
@@ -377,30 +377,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.189209,
-                    33.774654
+                    -118.189186,
+                    33.77037
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-16923",
+                    "identifier": "f-lacmta-s-3042",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "16923",
+                        "stop_code": "3042",
                         "stop_desc": "",
-                        "stop_id": "16923",
-                        "stop_lat": "33.774654",
-                        "stop_lon": "-118.189209",
-                        "stop_name": "Long Beach / 6th",
+                        "stop_id": "3042",
+                        "stop_lat": "33.77037",
+                        "stop_lon": "-118.189186",
+                        "stop_name": "Long Beach / 3rd",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Long Beach / 6th",
-            "onestopId": "s-9q5bns3pxg-longbeach~6th",
+            "name": "Long Beach / 3rd",
+            "onestopId": "s-9q5bne9q8m-longbeach~3rd",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

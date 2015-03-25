@@ -38,31 +38,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.246968,
-                    42.153476
+                    -71.252346,
+                    42.146608
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-26631",
+                    "identifier": "f-mbta-s-98618",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "26631",
+                        "stop_code": "98618",
                         "stop_desc": "",
-                        "stop_id": "26631",
-                        "stop_lat": "42.153476",
-                        "stop_lon": "-71.246968",
-                        "stop_name": "745 Main St",
+                        "stop_id": "98618",
+                        "stop_lat": "42.146608",
+                        "stop_lon": "-71.252346",
+                        "stop_name": "Main St @ Stone St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "745 Main St",
-            "onestopId": "s-drmrf9z9c3-745main",
+            "name": "Main St @ Stone St",
+            "onestopId": "s-drmrf8e9u1-main~stone",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -633,31 +633,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.252346,
-                    42.146608
+                    -71.246449,
+                    42.154202
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-98618",
+                    "identifier": "f-mbta-s-26628",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "98618",
+                        "stop_code": "26628",
                         "stop_desc": "",
-                        "stop_id": "98618",
-                        "stop_lat": "42.146608",
-                        "stop_lon": "-71.252346",
-                        "stop_name": "Main St @ Stone St",
+                        "stop_id": "26628",
+                        "stop_lat": "42.154202",
+                        "stop_lon": "-71.246449",
+                        "stop_name": "Main St @ Spear Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Main St @ Stone St",
-            "onestopId": "s-drmrf8e9u1-main~stone",
+            "name": "Main St @ Spear Ave",
+            "onestopId": "s-drmrf9zyj2-main~spear",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -728,6 +728,41 @@
             ],
             "name": "565 Main St @ Stop & Shop Plaza",
             "onestopId": "s-drmrffds6c-565main~stop~shopplaza",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.246968,
+                    42.153476
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-26631",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "26631",
+                        "stop_desc": "",
+                        "stop_id": "26631",
+                        "stop_lat": "42.153476",
+                        "stop_lon": "-71.246968",
+                        "stop_name": "745 Main St",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "745 Main St",
+            "onestopId": "s-drmrf9z9c3-745main",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -868,41 +903,6 @@
             ],
             "name": "East St @ School St",
             "onestopId": "s-drmrf8wkb7-east~school",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.246449,
-                    42.154202
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-26628",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "26628",
-                        "stop_desc": "",
-                        "stop_id": "26628",
-                        "stop_lat": "42.154202",
-                        "stop_lon": "-71.246449",
-                        "stop_name": "Main St @ Spear Ave",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Main St @ Spear Ave",
-            "onestopId": "s-drmrf9zyj2-main~spear",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

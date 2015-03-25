@@ -3,32 +3,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.38824,
-                    45.540555
+                    -122.426163,
+                    45.53618
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-832",
+                    "identifier": "f-trimet-s-2419",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "832",
-                        "stop_desc": "Northbound stop in Troutdale (Stop ID 832)",
-                        "stop_id": "832",
-                        "stop_lat": "45.540555",
-                        "stop_lon": "-122.38824",
-                        "stop_name": "Buxton & E Columbia River Hwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=832",
+                        "position": "Opposite",
+                        "stop_code": "2419",
+                        "stop_desc": "Westbound stop in Fairview (Stop ID 2419)",
+                        "stop_id": "2419",
+                        "stop_lat": "45.53618",
+                        "stop_lon": "-122.426163",
+                        "stop_name": "NE Halsey & 230th Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2419",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Buxton & E Columbia River Hwy",
-            "onestopId": "s-c20gnfrsgq-buxton~ecolumbiariver",
+            "name": "NE Halsey & 230th Ct",
+            "onestopId": "s-c20gn1egrx-nehalsey~230th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -111,68 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.423488,
-                    45.542981
+                    -122.423498,
+                    45.543093
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13087",
+                    "identifier": "f-trimet-s-13478",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13087",
-                        "stop_desc": "Eastbound stop in Wood Village (Stop ID 13087)",
-                        "stop_id": "13087",
-                        "stop_lat": "45.542981",
-                        "stop_lon": "-122.423488",
+                        "position": "Opposite",
+                        "stop_code": "13478",
+                        "stop_desc": "Westbound stop in Fairview (Stop ID 13478)",
+                        "stop_id": "13478",
+                        "stop_lat": "45.543093",
+                        "stop_lon": "-122.423498",
                         "stop_name": "23200 Block NE Sandy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13087",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13478",
                         "zone_id": "B"
                     }
                 }
             ],
             "name": "23200 Block NE Sandy",
-            "onestopId": "s-c20gn4vgjf-23200blocknesandy",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.420683,
-                    45.542818
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13088",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13088",
-                        "stop_desc": "Eastbound stop in Wood Village (Stop ID 13088)",
-                        "stop_id": "13088",
-                        "stop_lat": "45.542818",
-                        "stop_lon": "-122.420683",
-                        "stop_name": "23500 Block NE Sandy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13088",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "23500 Block NE Sandy",
-            "onestopId": "s-c20gn4zfpk-23500blocknesandy",
+            "onestopId": "s-c20gn4vgtx-23200blocknesandy",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -209,6 +173,42 @@
             ],
             "name": "SW Halsey & Edgefield Meadows",
             "onestopId": "s-c20gndnek2-swhalsey~edgefieldmeadows",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.38824,
+                    45.540555
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-832",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "832",
+                        "stop_desc": "Northbound stop in Troutdale (Stop ID 832)",
+                        "stop_id": "832",
+                        "stop_lat": "45.540555",
+                        "stop_lon": "-122.38824",
+                        "stop_name": "Buxton & E Columbia River Hwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=832",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "Buxton & E Columbia River Hwy",
+            "onestopId": "s-c20gnfrsgq-buxton~ecolumbiariver",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -281,42 +281,6 @@
             ],
             "name": "23500 Block NE Sandy",
             "onestopId": "s-c20gn6bdb5-23500blocknesandy",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.388306,
-                    45.534422
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-830",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "830",
-                        "stop_desc": "Northbound stop in Troutdale (Stop ID 830)",
-                        "stop_id": "830",
-                        "stop_lat": "45.534422",
-                        "stop_lon": "-122.388306",
-                        "stop_name": "S Buxton & SW Cherry Park",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=830",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "S Buxton & SW Cherry Park",
-            "onestopId": "s-c20gncr91z-sbuxton~swcherrypark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -471,32 +435,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.425889,
-                    45.542962
+                    -122.417642,
+                    45.537107
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13091",
+                    "identifier": "f-trimet-s-2421",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13091",
-                        "stop_desc": "Westbound stop in Fairview (Stop ID 13091)",
-                        "stop_id": "13091",
-                        "stop_lat": "45.542962",
-                        "stop_lon": "-122.425889",
-                        "stop_name": "NE Sandy & 230th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13091",
+                        "position": "Farside",
+                        "stop_code": "2421",
+                        "stop_desc": "Eastbound stop in Wood Village (Stop ID 2421)",
+                        "stop_id": "2421",
+                        "stop_lat": "45.537107",
+                        "stop_lon": "-122.417642",
+                        "stop_name": "NE Halsey & 238th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2421",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Sandy & 230th",
-            "onestopId": "s-c20gn4u4yp-nesandy~230th",
+            "name": "NE Halsey & 238th",
+            "onestopId": "s-c20gn3f0yh-nehalsey~238th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -507,32 +471,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.388291,
-                    45.535649
+                    -122.388991,
+                    45.540831
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-837",
+                    "identifier": "f-trimet-s-13316",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "837",
-                        "stop_desc": "Northbound stop in Troutdale (Stop ID 837)",
-                        "stop_id": "837",
-                        "stop_lat": "45.535649",
-                        "stop_lon": "-122.388291",
-                        "stop_name": "S Buxton & SE 8th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=837",
+                        "stop_code": "13316",
+                        "stop_desc": "Westbound stop in Troutdale (Stop ID 13316)",
+                        "stop_id": "13316",
+                        "stop_lat": "45.540831",
+                        "stop_lon": "-122.388991",
+                        "stop_name": "W Columbia River Hwy & SW Kendall",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13316",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "S Buxton & SE 8th",
-            "onestopId": "s-c20gncx86h-sbuxton~se8th",
+            "name": "W Columbia River Hwy & SW Kendall",
+            "onestopId": "s-c20gnfrn9f-wcolumbiariver~swkendall",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -543,32 +507,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.423498,
-                    45.543093
+                    -122.423488,
+                    45.542981
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13478",
+                    "identifier": "f-trimet-s-13087",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "13478",
-                        "stop_desc": "Westbound stop in Fairview (Stop ID 13478)",
-                        "stop_id": "13478",
-                        "stop_lat": "45.543093",
-                        "stop_lon": "-122.423498",
+                        "position": "At",
+                        "stop_code": "13087",
+                        "stop_desc": "Eastbound stop in Wood Village (Stop ID 13087)",
+                        "stop_id": "13087",
+                        "stop_lat": "45.542981",
+                        "stop_lon": "-122.423488",
                         "stop_name": "23200 Block NE Sandy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13478",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13087",
                         "zone_id": "B"
                     }
                 }
             ],
             "name": "23200 Block NE Sandy",
-            "onestopId": "s-c20gn4vgtx-23200blocknesandy",
+            "onestopId": "s-c20gn4vgjf-23200blocknesandy",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -615,32 +579,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.417642,
-                    45.537107
+                    -122.425889,
+                    45.542962
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2421",
+                    "identifier": "f-trimet-s-13091",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "2421",
-                        "stop_desc": "Eastbound stop in Wood Village (Stop ID 2421)",
-                        "stop_id": "2421",
-                        "stop_lat": "45.537107",
-                        "stop_lon": "-122.417642",
-                        "stop_name": "NE Halsey & 238th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2421",
+                        "position": "Nearside",
+                        "stop_code": "13091",
+                        "stop_desc": "Westbound stop in Fairview (Stop ID 13091)",
+                        "stop_id": "13091",
+                        "stop_lat": "45.542962",
+                        "stop_lon": "-122.425889",
+                        "stop_name": "NE Sandy & 230th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13091",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Halsey & 238th",
-            "onestopId": "s-c20gn3f0yh-nehalsey~238th",
+            "name": "NE Sandy & 230th",
+            "onestopId": "s-c20gn4u4yp-nesandy~230th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -723,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.428074,
-                    45.542724
+                    -122.420683,
+                    45.542818
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13086",
+                    "identifier": "f-trimet-s-13088",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "13086",
-                        "stop_desc": "Eastbound stop in Fairview (Stop ID 13086)",
-                        "stop_id": "13086",
-                        "stop_lat": "45.542724",
-                        "stop_lon": "-122.428074",
-                        "stop_name": "22800 Block NE Sandy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13086",
+                        "stop_code": "13088",
+                        "stop_desc": "Eastbound stop in Wood Village (Stop ID 13088)",
+                        "stop_id": "13088",
+                        "stop_lat": "45.542818",
+                        "stop_lon": "-122.420683",
+                        "stop_name": "23500 Block NE Sandy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13088",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "22800 Block NE Sandy",
-            "onestopId": "s-c20gn4f9e5-22800blocknesandy",
+            "name": "23500 Block NE Sandy",
+            "onestopId": "s-c20gn4zfpk-23500blocknesandy",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1047,32 +1011,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.398192,
-                    45.544285
+                    -122.388282,
+                    45.537024
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9481",
+                    "identifier": "f-trimet-s-836",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9481",
-                        "stop_desc": "Eastbound stop in Troutdale (Stop ID 9481)",
-                        "stop_id": "9481",
-                        "stop_lat": "45.544285",
-                        "stop_lon": "-122.398192",
-                        "stop_name": "1100 Block NW Frontage Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9481",
+                        "position": "Nearside",
+                        "stop_code": "836",
+                        "stop_desc": "Northbound stop in Troutdale (Stop ID 836)",
+                        "stop_id": "836",
+                        "stop_lat": "45.537024",
+                        "stop_lon": "-122.388282",
+                        "stop_name": "S Buxton & SE 6th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=836",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "1100 Block NW Frontage Rd",
-            "onestopId": "s-c20gng06eq-1100blocknwfrontage",
+            "name": "S Buxton & SE 6th",
+            "onestopId": "s-c20gncz86k-sbuxton~se6th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1119,32 +1083,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.388991,
-                    45.540831
+                    -122.388291,
+                    45.535649
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13316",
+                    "identifier": "f-trimet-s-837",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "13316",
-                        "stop_desc": "Westbound stop in Troutdale (Stop ID 13316)",
-                        "stop_id": "13316",
-                        "stop_lat": "45.540831",
-                        "stop_lon": "-122.388991",
-                        "stop_name": "W Columbia River Hwy & SW Kendall",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13316",
+                        "stop_code": "837",
+                        "stop_desc": "Northbound stop in Troutdale (Stop ID 837)",
+                        "stop_id": "837",
+                        "stop_lat": "45.535649",
+                        "stop_lon": "-122.388291",
+                        "stop_name": "S Buxton & SE 8th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=837",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "W Columbia River Hwy & SW Kendall",
-            "onestopId": "s-c20gnfrn9f-wcolumbiariver~swkendall",
+            "name": "S Buxton & SE 8th",
+            "onestopId": "s-c20gncx86h-sbuxton~se8th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1443,32 +1407,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.426163,
-                    45.53618
+                    -122.388306,
+                    45.534422
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2419",
+                    "identifier": "f-trimet-s-830",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "2419",
-                        "stop_desc": "Westbound stop in Fairview (Stop ID 2419)",
-                        "stop_id": "2419",
-                        "stop_lat": "45.53618",
-                        "stop_lon": "-122.426163",
-                        "stop_name": "NE Halsey & 230th Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2419",
+                        "position": "Farside",
+                        "stop_code": "830",
+                        "stop_desc": "Northbound stop in Troutdale (Stop ID 830)",
+                        "stop_id": "830",
+                        "stop_lat": "45.534422",
+                        "stop_lon": "-122.388306",
+                        "stop_name": "S Buxton & SW Cherry Park",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=830",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Halsey & 230th Ct",
-            "onestopId": "s-c20gn1egrx-nehalsey~230th",
+            "name": "S Buxton & SW Cherry Park",
+            "onestopId": "s-c20gncr91z-sbuxton~swcherrypark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1659,32 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.388282,
-                    45.537024
+                    -122.398192,
+                    45.544285
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-836",
+                    "identifier": "f-trimet-s-9481",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "836",
-                        "stop_desc": "Northbound stop in Troutdale (Stop ID 836)",
-                        "stop_id": "836",
-                        "stop_lat": "45.537024",
-                        "stop_lon": "-122.388282",
-                        "stop_name": "S Buxton & SE 6th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=836",
+                        "position": "At",
+                        "stop_code": "9481",
+                        "stop_desc": "Eastbound stop in Troutdale (Stop ID 9481)",
+                        "stop_id": "9481",
+                        "stop_lat": "45.544285",
+                        "stop_lon": "-122.398192",
+                        "stop_name": "1100 Block NW Frontage Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9481",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "S Buxton & SE 6th",
-            "onestopId": "s-c20gncz86k-sbuxton~se6th",
+            "name": "1100 Block NW Frontage Rd",
+            "onestopId": "s-c20gng06eq-1100blocknwfrontage",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1757,6 +1721,42 @@
             ],
             "name": "900 Block NW North Frontage Rd",
             "onestopId": "s-c20gng39dr-900blocknwnorthfrontage",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.428074,
+                    45.542724
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13086",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "13086",
+                        "stop_desc": "Eastbound stop in Fairview (Stop ID 13086)",
+                        "stop_id": "13086",
+                        "stop_lat": "45.542724",
+                        "stop_lon": "-122.428074",
+                        "stop_name": "22800 Block NE Sandy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13086",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "22800 Block NE Sandy",
+            "onestopId": "s-c20gn4f9e5-22800blocknesandy",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

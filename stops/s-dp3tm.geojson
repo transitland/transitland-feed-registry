@@ -3,39 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64349,
-                    41.735773
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-3670",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3670",
-                        "stop_desc": "Halsted & 87th Street, Northbound, Southeast Corner",
-                        "stop_id": "3670",
-                        "stop_lat": "41.735773",
-                        "stop_lon": "-87.64349",
-                        "stop_name": "Halsted & 87th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Halsted & 87th Street",
-            "onestopId": "s-dp3tmtgbqx-halsted~87th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.65151281,
                     41.71929499
                 ],
@@ -59,6 +26,39 @@
             ],
             "name": "Vincennes & 96th Street",
             "onestopId": "s-dp3tm6y0e8-vincennes~96th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.64349,
+                    41.735773
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3670",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3670",
+                        "stop_desc": "Halsted & 87th Street, Northbound, Southeast Corner",
+                        "stop_id": "3670",
+                        "stop_lat": "41.735773",
+                        "stop_lon": "-87.64349",
+                        "stop_name": "Halsted & 87th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Halsted & 87th Street",
+            "onestopId": "s-dp3tmtgbqx-halsted~87th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -201,29 +201,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6508875,
-                    41.7209415
+                    -87.642778,
+                    41.708593
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6569",
+                    "identifier": "f-cta-s-3654",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6569",
-                        "stop_desc": "Vincennes & 95th Street, Southbound, Southwest Corner",
-                        "stop_id": "6569",
-                        "stop_lat": "41.7209415",
-                        "stop_lon": "-87.6508875",
-                        "stop_name": "Vincennes & 95th Street",
+                        "stop_code": "3654",
+                        "stop_desc": "Halsted & 102nd Street, Northbound, Southeast Corner",
+                        "stop_id": "3654",
+                        "stop_lat": "41.708593",
+                        "stop_lon": "-87.642778",
+                        "stop_name": "Halsted & 102nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Vincennes & 95th Street",
-            "onestopId": "s-dp3tm7nd47-vincennes~95th",
+            "name": "Halsted & 102nd Street",
+            "onestopId": "s-dp3tm8u6pm-halsted~102nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -300,29 +300,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64369698,
-                    41.74143804
+                    -87.66048353,
+                    41.73592938
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3673",
+                    "identifier": "f-cta-s-9504",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3673",
-                        "stop_desc": "Halsted & 84th Street, Northbound, Eastside of the Street",
-                        "stop_id": "3673",
-                        "stop_lat": "41.74143804",
-                        "stop_lon": "-87.64369698",
-                        "stop_name": "Halsted & 84th Street",
+                        "stop_code": "9504",
+                        "stop_desc": "87th Street & Laflin, Westbound, Northeast Corner",
+                        "stop_id": "9504",
+                        "stop_lat": "41.73592938",
+                        "stop_lon": "-87.66048353",
+                        "stop_name": "87th Street & Laflin",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 84th Street",
-            "onestopId": "s-dp3tmwgc9b-halsted~84th",
+            "name": "87th Street & Laflin",
+            "onestopId": "s-dp3tmjz96t-87th~laflin",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -333,29 +333,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64372671,
-                    41.73738016
+                    -87.643378,
+                    41.723228
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3688",
+                    "identifier": "f-cta-s-3697",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3688",
-                        "stop_desc": "Halsted & Vincennes, Southbound, Northwest Corner",
-                        "stop_id": "3688",
-                        "stop_lat": "41.73738016",
-                        "stop_lon": "-87.64372671",
-                        "stop_name": "Halsted & Vincennes",
+                        "stop_code": "3697",
+                        "stop_desc": "Halsted & 94th Street, Southbound, Northwest Corner",
+                        "stop_id": "3697",
+                        "stop_lat": "41.723228",
+                        "stop_lon": "-87.643378",
+                        "stop_name": "Halsted & 94th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Vincennes",
-            "onestopId": "s-dp3tmw5cc5-halsted~vincennes",
+            "name": "Halsted & 94th Street",
+            "onestopId": "s-dp3tmekp3m-halsted~94th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.65777107,
+                    41.73577621
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-15788",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "15788",
+                        "stop_desc": "87th Street & Loomis, Eastbound, Southeast Corner",
+                        "stop_id": "15788",
+                        "stop_lat": "41.73577621",
+                        "stop_lon": "-87.65777107",
+                        "stop_name": "87th Street & Loomis",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "87th Street & Loomis",
+            "onestopId": "s-dp3tmmc89b-87th~loomis",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -531,29 +564,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65311737,
-                    41.73657855
+                    -87.643458,
+                    41.734215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5041",
+                    "identifier": "f-cta-s-3669",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5041",
-                        "stop_desc": "Racine & 87th Street Terminal, Westbound, Bus Terminal",
-                        "stop_id": "5041",
-                        "stop_lat": "41.73657855",
-                        "stop_lon": "-87.65311737",
-                        "stop_name": "Racine & 87th Street Terminal",
+                        "stop_code": "3669",
+                        "stop_desc": "Halsted & 88th Street, Northbound, Southeast Corner",
+                        "stop_id": "3669",
+                        "stop_lat": "41.734215",
+                        "stop_lon": "-87.643458",
+                        "stop_name": "Halsted & 88th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Racine & 87th Street Terminal",
-            "onestopId": "s-dp3tmmuvnq-racine~87thterminal",
+            "name": "Halsted & 88th Street",
+            "onestopId": "s-dp3tmt7zrm-halsted~88th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -663,6 +696,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.63183008,
+                    41.73934022
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-17667",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "17667",
+                        "stop_desc": "8501 S Holland, Northbound, Eastside of the Street",
+                        "stop_id": "17667",
+                        "stop_lat": "41.73934022",
+                        "stop_lon": "-87.63183008",
+                        "stop_name": "8501 S Holland",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "8501 S Holland",
+            "onestopId": "s-dp3tmykmq2-8501sholland",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.65077833,
                     41.73606723
                 ],
@@ -696,29 +762,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66434122,
-                    41.70660903
+                    -87.64298,
+                    41.7089
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12147",
+                    "identifier": "f-cta-s-3705",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12147",
-                        "stop_desc": "1700 W 103rd Street, Eastbound, Southside of the Street",
-                        "stop_id": "12147",
-                        "stop_lat": "41.70660903",
-                        "stop_lon": "-87.66434122",
-                        "stop_name": "1700 W 103rd Street",
+                        "stop_code": "3705",
+                        "stop_desc": "Halsted & 102nd Street, Southbound, Northwest Corner",
+                        "stop_id": "3705",
+                        "stop_lat": "41.7089",
+                        "stop_lon": "-87.64298",
+                        "stop_name": "Halsted & 102nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "1700 W 103rd Street",
-            "onestopId": "s-dp3tm0ky8g-1700w103rd",
+            "name": "Halsted & 102nd Street",
+            "onestopId": "s-dp3tm8u7fw-halsted~102nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -729,29 +795,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66303585,
-                    41.7396402
+                    -87.66138638,
+                    41.71743334
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15455",
+                    "identifier": "f-cta-s-6133",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15455",
-                        "stop_desc": "Ashland & 85th Street, Northbound, Northeast Corner",
-                        "stop_id": "15455",
-                        "stop_lat": "41.7396402",
-                        "stop_lon": "-87.66303585",
-                        "stop_name": "Ashland & 85th Street",
+                        "stop_code": "6133",
+                        "stop_desc": "9700 S Beverly, Southbound, Westside of the Street",
+                        "stop_id": "6133",
+                        "stop_lat": "41.71743334",
+                        "stop_lon": "-87.66138638",
+                        "stop_name": "9700 S Beverly",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ashland & 85th Street",
-            "onestopId": "s-dp3tmnmxp0-ashland~85th",
+            "name": "9700 S Beverly",
+            "onestopId": "s-dp3tm4qvtt-9700sbeverly",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -894,29 +960,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6438183,
-                    41.73994525
+                    -87.62880408,
+                    41.73630036
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3687",
+                    "identifier": "f-cta-s-9492",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3687",
-                        "stop_desc": "Halsted & Summit, Southbound, Northwest Corner",
-                        "stop_id": "3687",
-                        "stop_lat": "41.73994525",
-                        "stop_lon": "-87.6438183",
-                        "stop_name": "Halsted & Summit",
+                        "stop_code": "9492",
+                        "stop_desc": "200 W 87th Street, Westbound, Northside of the Street",
+                        "stop_id": "9492",
+                        "stop_lat": "41.73630036",
+                        "stop_lon": "-87.62880408",
+                        "stop_name": "200 W 87th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Summit",
-            "onestopId": "s-dp3tmwe8z1-halsted~summit",
+            "name": "200 W 87th Street",
+            "onestopId": "s-dp3tmvyesf-200w87th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -960,6 +1026,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.64883777,
+                    41.73610083
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-15790",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "15790",
+                        "stop_desc": "87th Street & Morgan, Westbound, Northwest Corner",
+                        "stop_id": "15790",
+                        "stop_lat": "41.73610083",
+                        "stop_lon": "-87.64883777",
+                        "stop_name": "87th Street & Morgan",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "87th Street & Morgan",
+            "onestopId": "s-dp3tmtb46j-87th~morgan",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.65237314,
                     41.7068939
                 ],
@@ -993,29 +1092,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66266907,
-                    41.7265544
+                    -87.640568,
+                    41.721593
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6150",
+                    "identifier": "f-cta-s-3459",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6150",
-                        "stop_desc": "Ashland & 92nd Street, Northbound, Southeast Corner",
-                        "stop_id": "6150",
-                        "stop_lat": "41.7265544",
-                        "stop_lon": "-87.66266907",
-                        "stop_name": "Ashland & 92nd Street",
+                        "stop_code": "3459",
+                        "stop_desc": "95th Street & Union, Westbound, Northeast Corner",
+                        "stop_id": "3459",
+                        "stop_lat": "41.721593",
+                        "stop_lon": "-87.640568",
+                        "stop_name": "95th Street & Union",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ashland & 92nd Street",
-            "onestopId": "s-dp3tmhjfzc-ashland~92nd",
+            "name": "95th Street & Union",
+            "onestopId": "s-dp3tmenjfu-95th~union",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1092,95 +1191,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65351241,
-                    41.74491149
+                    -87.635503,
+                    41.745452
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5046",
+                    "identifier": "f-cta-s-6435",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5046",
-                        "stop_desc": "Racine & 82nd Street, Northbound, Southeast Corner",
-                        "stop_id": "5046",
-                        "stop_lat": "41.74491149",
-                        "stop_lon": "-87.65351241",
-                        "stop_name": "Racine & 82nd Street",
+                        "stop_code": "6435",
+                        "stop_desc": "Vincennes & 82nd Street, Northbound, Eastside of the Street",
+                        "stop_id": "6435",
+                        "stop_lat": "41.745452",
+                        "stop_lon": "-87.635503",
+                        "stop_name": "Vincennes & 82nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Racine & 82nd Street",
-            "onestopId": "s-dp3tmrkttp-racine~82nd",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.64406411,
-                    41.73616925
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-14507",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "14507",
-                        "stop_desc": "87th Street & Halsted, Westbound, Northwest Corner",
-                        "stop_id": "14507",
-                        "stop_lat": "41.73616925",
-                        "stop_lon": "-87.64406411",
-                        "stop_name": "87th Street & Halsted",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "87th Street & Halsted",
-            "onestopId": "s-dp3tmtgdc3-87th~halsted",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.64320272,
-                    41.70697906
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-15768",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "15768",
-                        "stop_desc": "103rd Street & Halsted, Westbound, Northwest Corner",
-                        "stop_id": "15768",
-                        "stop_lat": "41.70697906",
-                        "stop_lon": "-87.64320272",
-                        "stop_name": "103rd Street & Halsted",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "103rd Street & Halsted",
-            "onestopId": "s-dp3tm8s0v2-103rd~halsted",
+            "name": "Vincennes & 82nd Street",
+            "onestopId": "s-dp3tmz9bbu-vincennes~82nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1290,6 +1323,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.65347003,
+                    41.73782753
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-5200",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "5200",
+                        "stop_desc": "Racine & 86th Street, Southbound, Northwest Corner",
+                        "stop_id": "5200",
+                        "stop_lat": "41.73782753",
+                        "stop_lon": "-87.65347003",
+                        "stop_name": "Racine & 86th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Racine & 86th Street",
+            "onestopId": "s-dp3tmqhsqn-racine~86th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.62839171,
                     41.70703935
                 ],
@@ -1379,6 +1445,39 @@
             ],
             "name": "Racine & 85th Street",
             "onestopId": "s-dp3tmqky2c-racine~85th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6508875,
+                    41.7209415
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6569",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6569",
+                        "stop_desc": "Vincennes & 95th Street, Southbound, Southwest Corner",
+                        "stop_id": "6569",
+                        "stop_lat": "41.7209415",
+                        "stop_lon": "-87.6508875",
+                        "stop_name": "Vincennes & 95th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Vincennes & 95th Street",
+            "onestopId": "s-dp3tm7nd47-vincennes~95th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1488,29 +1587,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66701618,
-                    41.70665751
+                    -87.64320272,
+                    41.70697906
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12186",
+                    "identifier": "f-cta-s-15768",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12186",
-                        "stop_desc": "103rd Street & Wood, Westbound, Northeast Corner",
-                        "stop_id": "12186",
-                        "stop_lat": "41.70665751",
-                        "stop_lon": "-87.66701618",
-                        "stop_name": "103rd Street & Wood",
+                        "stop_code": "15768",
+                        "stop_desc": "103rd Street & Halsted, Westbound, Northwest Corner",
+                        "stop_id": "15768",
+                        "stop_lat": "41.70697906",
+                        "stop_lon": "-87.64320272",
+                        "stop_name": "103rd Street & Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "103rd Street & Wood",
-            "onestopId": "s-dp3tm06yfk-103rd~wood",
+            "name": "103rd Street & Halsted",
+            "onestopId": "s-dp3tm8s0v2-103rd~halsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1521,29 +1620,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65777107,
-                    41.73577621
+                    -87.66266907,
+                    41.7265544
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15788",
+                    "identifier": "f-cta-s-6150",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15788",
-                        "stop_desc": "87th Street & Loomis, Eastbound, Southeast Corner",
-                        "stop_id": "15788",
-                        "stop_lat": "41.73577621",
-                        "stop_lon": "-87.65777107",
-                        "stop_name": "87th Street & Loomis",
+                        "stop_code": "6150",
+                        "stop_desc": "Ashland & 92nd Street, Northbound, Southeast Corner",
+                        "stop_id": "6150",
+                        "stop_lat": "41.7265544",
+                        "stop_lon": "-87.66266907",
+                        "stop_name": "Ashland & 92nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "87th Street & Loomis",
-            "onestopId": "s-dp3tmmc89b-87th~loomis",
+            "name": "Ashland & 92nd Street",
+            "onestopId": "s-dp3tmhjfzc-ashland~92nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1851,29 +1950,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66048353,
-                    41.73592938
+                    -87.64369698,
+                    41.74143804
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9504",
+                    "identifier": "f-cta-s-3673",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9504",
-                        "stop_desc": "87th Street & Laflin, Westbound, Northeast Corner",
-                        "stop_id": "9504",
-                        "stop_lat": "41.73592938",
-                        "stop_lon": "-87.66048353",
-                        "stop_name": "87th Street & Laflin",
+                        "stop_code": "3673",
+                        "stop_desc": "Halsted & 84th Street, Northbound, Eastside of the Street",
+                        "stop_id": "3673",
+                        "stop_lat": "41.74143804",
+                        "stop_lon": "-87.64369698",
+                        "stop_name": "Halsted & 84th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "87th Street & Laflin",
-            "onestopId": "s-dp3tmjz96t-87th~laflin",
+            "name": "Halsted & 84th Street",
+            "onestopId": "s-dp3tmwgc9b-halsted~84th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1917,29 +2016,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.638507,
-                    41.721417
+                    -87.65198458,
+                    41.71744457
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3507",
+                    "identifier": "f-cta-s-6418",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3507",
-                        "stop_desc": "95th Street & Wallace, Eastbound, Southwest Corner",
-                        "stop_id": "3507",
-                        "stop_lat": "41.721417",
-                        "stop_lon": "-87.638507",
-                        "stop_name": "95th Street & Wallace",
+                        "stop_code": "6418",
+                        "stop_desc": "Vincennes & 97th Street, Northbound, Southeast Corner",
+                        "stop_id": "6418",
+                        "stop_lat": "41.71744457",
+                        "stop_lon": "-87.65198458",
+                        "stop_name": "Vincennes & 97th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Wallace",
-            "onestopId": "s-dp3tmepsfg-95th~wallace",
+            "name": "Vincennes & 97th Street",
+            "onestopId": "s-dp3tm6mv8x-vincennes~97th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1950,29 +2049,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65666036,
-                    41.70486187
+                    -87.64808512,
+                    41.7358845
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12415",
+                    "identifier": "f-cta-s-15789",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12415",
-                        "stop_desc": "Vincennes & 104th Street, Northbound, Southeast Corner",
-                        "stop_id": "12415",
-                        "stop_lat": "41.70486187",
-                        "stop_lon": "-87.65666036",
-                        "stop_name": "Vincennes & 104th Street",
+                        "stop_code": "15789",
+                        "stop_desc": "87th Street & Morgan, Eastbound, Southeast Corner",
+                        "stop_id": "15789",
+                        "stop_lat": "41.7358845",
+                        "stop_lon": "-87.64808512",
+                        "stop_name": "87th Street & Morgan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Vincennes & 104th Street",
-            "onestopId": "s-dp3tm24k7v-vincennes~104th",
+            "name": "87th Street & Morgan",
+            "onestopId": "s-dp3tmtb95s-87th~morgan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1983,29 +2082,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6632166,
-                    41.74692475
+                    -87.64372671,
+                    41.73738016
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15456",
+                    "identifier": "f-cta-s-3688",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15456",
-                        "stop_desc": "Ashland & 81st Street, Northbound, Northeast Corner",
-                        "stop_id": "15456",
-                        "stop_lat": "41.74692475",
-                        "stop_lon": "-87.6632166",
-                        "stop_name": "Ashland & 81st Street",
+                        "stop_code": "3688",
+                        "stop_desc": "Halsted & Vincennes, Southbound, Northwest Corner",
+                        "stop_id": "3688",
+                        "stop_lat": "41.73738016",
+                        "stop_lon": "-87.64372671",
+                        "stop_name": "Halsted & Vincennes",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ashland & 81st Street",
-            "onestopId": "s-dp3tmpv96y-ashland~81st",
+            "name": "Halsted & Vincennes",
+            "onestopId": "s-dp3tmw5cc5-halsted~vincennes",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2016,29 +2115,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.643378,
-                    41.723228
+                    -87.662541,
+                    41.722924
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3697",
+                    "identifier": "f-cta-s-6148",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3697",
-                        "stop_desc": "Halsted & 94th Street, Southbound, Northwest Corner",
-                        "stop_id": "3697",
-                        "stop_lat": "41.723228",
-                        "stop_lon": "-87.643378",
-                        "stop_name": "Halsted & 94th Street",
+                        "stop_code": "6148",
+                        "stop_desc": "Ashland & 94th Street, Northbound, Southeast Corner",
+                        "stop_id": "6148",
+                        "stop_lat": "41.722924",
+                        "stop_lon": "-87.662541",
+                        "stop_name": "Ashland & 94th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 94th Street",
-            "onestopId": "s-dp3tmekp3m-halsted~94th",
+            "name": "Ashland & 94th Street",
+            "onestopId": "s-dp3tm5qjds-ashland~94th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.64385039,
+                    41.7473055
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-16053",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "16053",
+                        "stop_desc": "Halsted & 81st Street, Northbound, Northeast Corner",
+                        "stop_id": "16053",
+                        "stop_lat": "41.7473055",
+                        "stop_lon": "-87.64385039",
+                        "stop_name": "Halsted & 81st Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Halsted & 81st Street",
+            "onestopId": "s-dp3tmxgewm-halsted~81st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2280,29 +2412,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64332714,
-                    41.72100029
+                    -87.65625638,
+                    41.70669321
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3698",
+                    "identifier": "f-cta-s-12152",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3698",
-                        "stop_desc": "Halsted & 95th Street, Southbound, Southwest Corner",
-                        "stop_id": "3698",
-                        "stop_lat": "41.72100029",
-                        "stop_lon": "-87.64332714",
-                        "stop_name": "Halsted & 95th Street",
+                        "stop_code": "12152",
+                        "stop_desc": "103rd Street & Vincennes Ave, Eastbound, Southwest Corner",
+                        "stop_id": "12152",
+                        "stop_lat": "41.70669321",
+                        "stop_lon": "-87.65625638",
+                        "stop_name": "103rd Street & Vincennes Ave",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 95th Street",
-            "onestopId": "s-dp3tmeh46q-halsted~95th",
+            "name": "103rd Street & Vincennes Ave",
+            "onestopId": "s-dp3tm26xj5-103rd~vincennes",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2313,95 +2445,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66304263,
-                    41.73033299
+                    -87.65351241,
+                    41.74491149
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6125",
+                    "identifier": "f-cta-s-5046",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6125",
-                        "stop_desc": "Ashland & 90th Street, Southbound, Northwest Corner",
-                        "stop_id": "6125",
-                        "stop_lat": "41.73033299",
-                        "stop_lon": "-87.66304263",
-                        "stop_name": "Ashland & 90th Street",
+                        "stop_code": "5046",
+                        "stop_desc": "Racine & 82nd Street, Northbound, Southeast Corner",
+                        "stop_id": "5046",
+                        "stop_lat": "41.74491149",
+                        "stop_lon": "-87.65351241",
+                        "stop_name": "Racine & 82nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ashland & 90th Street",
-            "onestopId": "s-dp3tmhv8z1-ashland~90th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.64270871,
-                    41.70707195
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-14497",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "14497",
-                        "stop_desc": "Halsted & 103rd Street, Northbound, Northeast Corner",
-                        "stop_id": "14497",
-                        "stop_lat": "41.70707195",
-                        "stop_lon": "-87.64270871",
-                        "stop_name": "Halsted & 103rd Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Halsted & 103rd Street",
-            "onestopId": "s-dp3tm8s92c-halsted~103rd",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.6598589,
-                    41.71411799
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6135",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6135",
-                        "stop_desc": "Beverly & 99th Street, Southbound, Northwest Corner",
-                        "stop_id": "6135",
-                        "stop_lat": "41.71411799",
-                        "stop_lon": "-87.6598589",
-                        "stop_name": "Beverly & 99th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Beverly & 99th Street",
-            "onestopId": "s-dp3tm3b435-beverly~99th",
+            "name": "Racine & 82nd Street",
+            "onestopId": "s-dp3tmrkttp-racine~82nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2478,72 +2544,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64298,
-                    41.7089
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-3705",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3705",
-                        "stop_desc": "Halsted & 102nd Street, Southbound, Northwest Corner",
-                        "stop_id": "3705",
-                        "stop_lat": "41.7089",
-                        "stop_lon": "-87.64298",
-                        "stop_name": "Halsted & 102nd Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Halsted & 102nd Street",
-            "onestopId": "s-dp3tm8u7fw-halsted~102nd",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.6320755,
-                    41.73909856
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-17666",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "17666",
-                        "stop_desc": "8500 S Holland, Southbound, Westside of the Street",
-                        "stop_id": "17666",
-                        "stop_lat": "41.73909856",
-                        "stop_lon": "-87.6320755",
-                        "stop_name": "8500 S Holland",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "8500 S Holland",
-            "onestopId": "s-dp3tmyk7be-8500sholland",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.65616492,
                     41.70695661
                 ],
@@ -2577,29 +2577,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66298034,
-                    41.7205904
+                    -87.66931154,
+                    41.72099458
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6131",
+                    "identifier": "f-cta-s-3492",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6131",
-                        "stop_desc": "Ashland & 95th Street Terminal, Eastbound, Bus Terminal",
-                        "stop_id": "6131",
-                        "stop_lat": "41.7205904",
-                        "stop_lon": "-87.66298034",
-                        "stop_name": "Ashland & 95th Street Terminal",
+                        "stop_code": "3492",
+                        "stop_desc": "95th Street & Longwood, Eastbound, Southwest Corner",
+                        "stop_id": "3492",
+                        "stop_lat": "41.72099458",
+                        "stop_lon": "-87.66931154",
+                        "stop_name": "95th Street & Longwood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ashland & 95th Street Terminal",
-            "onestopId": "s-dp3tm5jb09-ashland~95thterminal",
+            "name": "95th Street & Longwood",
+            "onestopId": "s-dp3tm514kv-95th~longwood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2709,29 +2709,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64373438,
-                    41.73557288
+                    -87.6429517,
+                    41.70673806
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14817",
+                    "identifier": "f-cta-s-14977",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14817",
-                        "stop_desc": "Halsted & 87th Street, Southbound, Southwest Corner",
-                        "stop_id": "14817",
-                        "stop_lat": "41.73557288",
-                        "stop_lon": "-87.64373438",
-                        "stop_name": "Halsted & 87th Street",
+                        "stop_code": "14977",
+                        "stop_desc": "Halsted & 103rd Street, Southbound, Southwest Corner",
+                        "stop_id": "14977",
+                        "stop_lat": "41.70673806",
+                        "stop_lon": "-87.6429517",
+                        "stop_name": "Halsted & 103rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 87th Street",
-            "onestopId": "s-dp3tmtez2f-halsted~87th",
+            "name": "Halsted & 103rd Street",
+            "onestopId": "s-dp3tm8kr75-halsted~103rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2874,29 +2874,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62917913,
-                    41.72175545
+                    -87.64406411,
+                    41.73616925
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15160",
+                    "identifier": "f-cta-s-14507",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15160",
-                        "stop_desc": "95th Street & Wentworth, Westbound, Northwest Corner",
-                        "stop_id": "15160",
-                        "stop_lat": "41.72175545",
-                        "stop_lon": "-87.62917913",
-                        "stop_name": "95th Street & Wentworth",
+                        "stop_code": "14507",
+                        "stop_desc": "87th Street & Halsted, Westbound, Northwest Corner",
+                        "stop_id": "14507",
+                        "stop_lat": "41.73616925",
+                        "stop_lon": "-87.64406411",
+                        "stop_name": "87th Street & Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Wentworth",
-            "onestopId": "s-dp3tmgnqu4-95th~wentworth",
+            "name": "87th Street & Halsted",
+            "onestopId": "s-dp3tmtgdc3-87th~halsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2973,29 +2973,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65347003,
-                    41.73782753
+                    -87.65358947,
+                    41.73602724
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5200",
+                    "identifier": "f-cta-s-14540",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5200",
-                        "stop_desc": "Racine & 86th Street, Southbound, Northwest Corner",
-                        "stop_id": "5200",
-                        "stop_lat": "41.73782753",
-                        "stop_lon": "-87.65347003",
-                        "stop_name": "Racine & 86th Street",
+                        "stop_code": "14540",
+                        "stop_desc": "87th Street & Racine, Westbound, Northwest Corner",
+                        "stop_id": "14540",
+                        "stop_lat": "41.73602724",
+                        "stop_lon": "-87.65358947",
+                        "stop_name": "87th Street & Racine",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Racine & 86th Street",
-            "onestopId": "s-dp3tmqhsqn-racine~86th",
+            "name": "87th Street & Racine",
+            "onestopId": "s-dp3tmmu9gr-87th~racine",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3006,29 +3006,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6554676,
-                    41.70685942
+                    -87.638507,
+                    41.721417
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12180",
+                    "identifier": "f-cta-s-3507",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12180",
-                        "stop_desc": "103rd Street & Vincennes, Westbound, Northeast Corner",
-                        "stop_id": "12180",
-                        "stop_lat": "41.70685942",
-                        "stop_lon": "-87.6554676",
-                        "stop_name": "103rd Street & Vincennes",
+                        "stop_code": "3507",
+                        "stop_desc": "95th Street & Wallace, Eastbound, Southwest Corner",
+                        "stop_id": "3507",
+                        "stop_lat": "41.721417",
+                        "stop_lon": "-87.638507",
+                        "stop_name": "95th Street & Wallace",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "103rd Street & Vincennes",
-            "onestopId": "s-dp3tm2e0pd-103rd~vincennes",
+            "name": "95th Street & Wallace",
+            "onestopId": "s-dp3tmepsfg-95th~wallace",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3039,62 +3039,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65198458,
-                    41.71744457
+                    -87.6632166,
+                    41.74692475
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6418",
+                    "identifier": "f-cta-s-15456",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6418",
-                        "stop_desc": "Vincennes & 97th Street, Northbound, Southeast Corner",
-                        "stop_id": "6418",
-                        "stop_lat": "41.71744457",
-                        "stop_lon": "-87.65198458",
-                        "stop_name": "Vincennes & 97th Street",
+                        "stop_code": "15456",
+                        "stop_desc": "Ashland & 81st Street, Northbound, Northeast Corner",
+                        "stop_id": "15456",
+                        "stop_lat": "41.74692475",
+                        "stop_lon": "-87.6632166",
+                        "stop_name": "Ashland & 81st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Vincennes & 97th Street",
-            "onestopId": "s-dp3tm6mv8x-vincennes~97th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.662541,
-                    41.722924
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6148",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6148",
-                        "stop_desc": "Ashland & 94th Street, Northbound, Southeast Corner",
-                        "stop_id": "6148",
-                        "stop_lat": "41.722924",
-                        "stop_lon": "-87.662541",
-                        "stop_name": "Ashland & 94th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Ashland & 94th Street",
-            "onestopId": "s-dp3tm5qjds-ashland~94th",
+            "name": "Ashland & 81st Street",
+            "onestopId": "s-dp3tmpv96y-ashland~81st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3204,29 +3171,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64517168,
-                    41.70696122
+                    -87.65666036,
+                    41.70486187
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12176",
+                    "identifier": "f-cta-s-12415",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12176",
-                        "stop_desc": "103rd Street & Peoria, Westbound, Northeast Corner",
-                        "stop_id": "12176",
-                        "stop_lat": "41.70696122",
-                        "stop_lon": "-87.64517168",
-                        "stop_name": "103rd Street & Peoria",
+                        "stop_code": "12415",
+                        "stop_desc": "Vincennes & 104th Street, Northbound, Southeast Corner",
+                        "stop_id": "12415",
+                        "stop_lat": "41.70486187",
+                        "stop_lon": "-87.65666036",
+                        "stop_name": "Vincennes & 104th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "103rd Street & Peoria",
-            "onestopId": "s-dp3tm8d8xm-103rd~peoria",
+            "name": "Vincennes & 104th Street",
+            "onestopId": "s-dp3tm24k7v-vincennes~104th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3402,29 +3369,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64883777,
-                    41.73610083
+                    -87.643212,
+                    41.717752
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15790",
+                    "identifier": "f-cta-s-3700",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15790",
-                        "stop_desc": "87th Street & Morgan, Westbound, Northwest Corner",
-                        "stop_id": "15790",
-                        "stop_lat": "41.73610083",
-                        "stop_lon": "-87.64883777",
-                        "stop_name": "87th Street & Morgan",
+                        "stop_code": "3700",
+                        "stop_desc": "Halsted & 97th Street, Southbound, Northwest Corner",
+                        "stop_id": "3700",
+                        "stop_lat": "41.717752",
+                        "stop_lon": "-87.643212",
+                        "stop_name": "Halsted & 97th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "87th Street & Morgan",
-            "onestopId": "s-dp3tmtb46j-87th~morgan",
+            "name": "Halsted & 97th Street",
+            "onestopId": "s-dp3tmdkpt0-halsted~97th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3534,29 +3501,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64396853,
-                    41.74525918
+                    -87.65621006,
+                    41.70656626
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3684",
+                    "identifier": "f-cta-s-17031",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3684",
-                        "stop_desc": "Halsted & 82nd Street, Southbound, Northwest Corner",
-                        "stop_id": "3684",
-                        "stop_lat": "41.74525918",
-                        "stop_lon": "-87.64396853",
-                        "stop_name": "Halsted & 82nd Street",
+                        "stop_code": "17031",
+                        "stop_desc": "",
+                        "stop_id": "17031",
+                        "stop_lat": "41.70656626",
+                        "stop_lon": "-87.65621006",
+                        "stop_name": "Vincennes & 103rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 82nd Street",
-            "onestopId": "s-dp3tmx7xg8-halsted~82nd",
+            "name": "Vincennes & 103rd Street",
+            "onestopId": "s-dp3tm26wq7-vincennes~103rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3831,29 +3798,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.643458,
-                    41.734215
+                    -87.63886053,
+                    41.73600205
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3669",
+                    "identifier": "f-cta-s-9402",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3669",
-                        "stop_desc": "Halsted & 88th Street, Northbound, Southeast Corner",
-                        "stop_id": "3669",
-                        "stop_lat": "41.734215",
-                        "stop_lon": "-87.643458",
-                        "stop_name": "Halsted & 88th Street",
+                        "stop_code": "9402",
+                        "stop_desc": "87th Street & Wallace, Eastbound, Southwest Corner",
+                        "stop_id": "9402",
+                        "stop_lat": "41.73600205",
+                        "stop_lon": "-87.63886053",
+                        "stop_name": "87th Street & Wallace",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 88th Street",
-            "onestopId": "s-dp3tmt7zrm-halsted~88th",
+            "name": "87th Street & Wallace",
+            "onestopId": "s-dp3tmtz3fd-87th~wallace",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3864,29 +3831,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6434,
-                    41.732432
+                    -87.65739229,
+                    41.70975275
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3668",
+                    "identifier": "f-cta-s-6141",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3668",
-                        "stop_desc": "Halsted & 89th Street, Northbound, Southeast Corner",
-                        "stop_id": "3668",
-                        "stop_lat": "41.732432",
-                        "stop_lon": "-87.6434",
-                        "stop_name": "Halsted & 89th Street",
+                        "stop_code": "6141",
+                        "stop_desc": "10113 S Beverly, Northbound, Eastside of the Street",
+                        "stop_id": "6141",
+                        "stop_lat": "41.70975275",
+                        "stop_lon": "-87.65739229",
+                        "stop_name": "10113 S Beverly",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 89th Street",
-            "onestopId": "s-dp3tmthj0c-halsted~89th",
+            "name": "10113 S Beverly",
+            "onestopId": "s-dp3tm31bft-10113sbeverly",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4062,29 +4029,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.643212,
-                    41.717752
+                    -87.657567,
+                    41.721337
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3700",
+                    "identifier": "f-cta-s-3467",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3700",
-                        "stop_desc": "Halsted & 97th Street, Southbound, Northwest Corner",
-                        "stop_id": "3700",
-                        "stop_lat": "41.717752",
-                        "stop_lon": "-87.643212",
-                        "stop_name": "Halsted & 97th Street",
+                        "stop_code": "3467",
+                        "stop_desc": "95th Street & Loomis, Westbound, Northeast Corner",
+                        "stop_id": "3467",
+                        "stop_lat": "41.721337",
+                        "stop_lon": "-87.657567",
+                        "stop_name": "95th Street & Loomis",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 97th Street",
-            "onestopId": "s-dp3tmdkpt0-halsted~97th",
+            "name": "95th Street & Loomis",
+            "onestopId": "s-dp3tm71sqs-95th~loomis",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4128,29 +4095,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.640932,
-                    41.721387
+                    -87.66722628,
+                    41.70655428
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3506",
+                    "identifier": "f-cta-s-12146",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3506",
-                        "stop_desc": "95th Street & Union, Eastbound, Southwest Corner",
-                        "stop_id": "3506",
-                        "stop_lat": "41.721387",
-                        "stop_lon": "-87.640932",
-                        "stop_name": "95th Street & Union",
+                        "stop_code": "12146",
+                        "stop_desc": "103rd Street & Wood, Eastbound, Southwest Corner",
+                        "stop_id": "12146",
+                        "stop_lat": "41.70655428",
+                        "stop_lon": "-87.66722628",
+                        "stop_name": "103rd Street & Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Union",
-            "onestopId": "s-dp3tmejudq-95th~union",
+            "name": "103rd Street & Wood",
+            "onestopId": "s-dp3tm06wm9-103rd~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4194,62 +4161,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63233926,
-                    41.74347769
+                    -87.643533,
+                    41.730025
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17664",
+                    "identifier": "f-cta-s-3693",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17664",
-                        "stop_desc": "83rd Street & Holland, Eastbound, Southwest Corner",
-                        "stop_id": "17664",
-                        "stop_lat": "41.74347769",
-                        "stop_lon": "-87.63233926",
-                        "stop_name": "83rd Street & Holland",
+                        "stop_code": "3693",
+                        "stop_desc": "9030 S Halsted, Southbound, Northwest Corner",
+                        "stop_id": "3693",
+                        "stop_lat": "41.730025",
+                        "stop_lon": "-87.643533",
+                        "stop_name": "9030 S Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "83rd Street & Holland",
-            "onestopId": "s-dp3tmzhj6k-83rd~holland",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.66860857,
-                    41.70664644
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-12187",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "12187",
-                        "stop_desc": "103rd Street & Hale, Westbound, Northside of the Street",
-                        "stop_id": "12187",
-                        "stop_lat": "41.70664644",
-                        "stop_lon": "-87.66860857",
-                        "stop_name": "103rd Street & Hale",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "103rd Street & Hale",
-            "onestopId": "s-dp3tm03wv6-103rd~hale",
+            "name": "9030 S Halsted",
+            "onestopId": "s-dp3tmsezj8-9030shalsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4392,39 +4326,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.642778,
-                    41.708593
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-3654",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3654",
-                        "stop_desc": "Halsted & 102nd Street, Northbound, Southeast Corner",
-                        "stop_id": "3654",
-                        "stop_lat": "41.708593",
-                        "stop_lon": "-87.642778",
-                        "stop_name": "Halsted & 102nd Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Halsted & 102nd Street",
-            "onestopId": "s-dp3tm8u6pm-halsted~102nd",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.63807319,
                     41.70691438
                 ],
@@ -4524,39 +4425,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65351406,
-                    41.73963043
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-5199",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "5199",
-                        "stop_desc": "Racine & 85th Street, Southbound, Northwest Corner",
-                        "stop_id": "5199",
-                        "stop_lat": "41.73963043",
-                        "stop_lon": "-87.65351406",
-                        "stop_name": "Racine & 85th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Racine & 85th Street",
-            "onestopId": "s-dp3tmqkwvp-racine~85th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.63928869,
                     41.74034757
                 ],
@@ -4623,29 +4491,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66931154,
-                    41.72099458
+                    -87.66298034,
+                    41.7205904
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3492",
+                    "identifier": "f-cta-s-6131",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3492",
-                        "stop_desc": "95th Street & Longwood, Eastbound, Southwest Corner",
-                        "stop_id": "3492",
-                        "stop_lat": "41.72099458",
-                        "stop_lon": "-87.66931154",
-                        "stop_name": "95th Street & Longwood",
+                        "stop_code": "6131",
+                        "stop_desc": "Ashland & 95th Street Terminal, Eastbound, Bus Terminal",
+                        "stop_id": "6131",
+                        "stop_lat": "41.7205904",
+                        "stop_lon": "-87.66298034",
+                        "stop_name": "Ashland & 95th Street Terminal",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Longwood",
-            "onestopId": "s-dp3tm514kv-95th~longwood",
+            "name": "Ashland & 95th Street Terminal",
+            "onestopId": "s-dp3tm5jb09-ashland~95thterminal",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4656,29 +4524,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65621006,
-                    41.70656626
+                    -87.6628153,
+                    41.73193239
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17031",
+                    "identifier": "f-cta-s-6153",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17031",
-                        "stop_desc": "",
-                        "stop_id": "17031",
-                        "stop_lat": "41.70656626",
-                        "stop_lon": "-87.65621006",
-                        "stop_name": "Vincennes & 103rd Street",
+                        "stop_code": "6153",
+                        "stop_desc": "Ashland & 89th Street, Northbound, Southeast Corner",
+                        "stop_id": "6153",
+                        "stop_lat": "41.73193239",
+                        "stop_lon": "-87.6628153",
+                        "stop_name": "Ashland & 89th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Vincennes & 103rd Street",
-            "onestopId": "s-dp3tm26wq7-vincennes~103rd",
+            "name": "Ashland & 89th Street",
+            "onestopId": "s-dp3tmjjfhk-ashland~89th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.64517168,
+                    41.70696122
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-12176",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "12176",
+                        "stop_desc": "103rd Street & Peoria, Westbound, Northeast Corner",
+                        "stop_id": "12176",
+                        "stop_lat": "41.70696122",
+                        "stop_lon": "-87.64517168",
+                        "stop_name": "103rd Street & Peoria",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "103rd Street & Peoria",
+            "onestopId": "s-dp3tm8d8xm-103rd~peoria",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4755,39 +4656,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65358947,
-                    41.73602724
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-14540",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "14540",
-                        "stop_desc": "87th Street & Racine, Westbound, Northwest Corner",
-                        "stop_id": "14540",
-                        "stop_lat": "41.73602724",
-                        "stop_lon": "-87.65358947",
-                        "stop_name": "87th Street & Racine",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "87th Street & Racine",
-            "onestopId": "s-dp3tmmu9gr-87th~racine",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.64344256,
                     41.72504112
                 ],
@@ -4854,29 +4722,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6628153,
-                    41.73193239
+                    -87.65366981,
+                    41.74512194
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6153",
+                    "identifier": "f-cta-s-5196",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6153",
-                        "stop_desc": "Ashland & 89th Street, Northbound, Southeast Corner",
-                        "stop_id": "6153",
-                        "stop_lat": "41.73193239",
-                        "stop_lon": "-87.6628153",
-                        "stop_name": "Ashland & 89th Street",
+                        "stop_code": "5196",
+                        "stop_desc": "Racine & 82nd Street, Southbound, Northwest Corner",
+                        "stop_id": "5196",
+                        "stop_lat": "41.74512194",
+                        "stop_lon": "-87.65366981",
+                        "stop_name": "Racine & 82nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ashland & 89th Street",
-            "onestopId": "s-dp3tmjjfhk-ashland~89th",
+            "name": "Racine & 82nd Street",
+            "onestopId": "s-dp3tmrkwcq-racine~82nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4986,29 +4854,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.658103,
-                    41.711298
+                    -87.64332714,
+                    41.72100029
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6142",
+                    "identifier": "f-cta-s-3698",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6142",
-                        "stop_desc": "Beverly & 100th Place, Northbound, Southeast Corner",
-                        "stop_id": "6142",
-                        "stop_lat": "41.711298",
-                        "stop_lon": "-87.658103",
-                        "stop_name": "Beverly & 100th Place",
+                        "stop_code": "3698",
+                        "stop_desc": "Halsted & 95th Street, Southbound, Southwest Corner",
+                        "stop_id": "3698",
+                        "stop_lat": "41.72100029",
+                        "stop_lon": "-87.64332714",
+                        "stop_name": "Halsted & 95th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Beverly & 100th Place",
-            "onestopId": "s-dp3tm333fj-beverly~100thplace",
+            "name": "Halsted & 95th Street",
+            "onestopId": "s-dp3tmeh46q-halsted~95th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5052,29 +4920,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64332,
-                    41.729668
+                    -87.6320755,
+                    41.73909856
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3666",
+                    "identifier": "f-cta-s-17666",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3666",
-                        "stop_desc": "9030 S Halsted, Northbound, Southeast Corner",
-                        "stop_id": "3666",
-                        "stop_lat": "41.729668",
-                        "stop_lon": "-87.64332",
-                        "stop_name": "9030 S Halsted",
+                        "stop_code": "17666",
+                        "stop_desc": "8500 S Holland, Southbound, Westside of the Street",
+                        "stop_id": "17666",
+                        "stop_lat": "41.73909856",
+                        "stop_lon": "-87.6320755",
+                        "stop_name": "8500 S Holland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "9030 S Halsted",
-            "onestopId": "s-dp3tmsshft-9030shalsted",
+            "name": "8500 S Holland",
+            "onestopId": "s-dp3tmyk7be-8500sholland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5250,62 +5118,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63183008,
-                    41.73934022
+                    -87.6403021,
+                    41.70701549
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17667",
+                    "identifier": "f-cta-s-12174",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17667",
-                        "stop_desc": "8501 S Holland, Northbound, Eastside of the Street",
-                        "stop_id": "17667",
-                        "stop_lat": "41.73934022",
-                        "stop_lon": "-87.63183008",
-                        "stop_name": "8501 S Holland",
+                        "stop_code": "12174",
+                        "stop_desc": "103rd Street & Union, Westbound, Northeast Corner",
+                        "stop_id": "12174",
+                        "stop_lat": "41.70701549",
+                        "stop_lon": "-87.6403021",
+                        "stop_name": "103rd Street & Union",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "8501 S Holland",
-            "onestopId": "s-dp3tmykmq2-8501sholland",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.635503,
-                    41.745452
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6435",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6435",
-                        "stop_desc": "Vincennes & 82nd Street, Northbound, Eastside of the Street",
-                        "stop_id": "6435",
-                        "stop_lat": "41.745452",
-                        "stop_lon": "-87.635503",
-                        "stop_name": "Vincennes & 82nd Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Vincennes & 82nd Street",
-            "onestopId": "s-dp3tmz9bbu-vincennes~82nd",
+            "name": "103rd Street & Union",
+            "onestopId": "s-dp3tm8w2bz-103rd~union",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5349,29 +5184,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.660823,
-                    41.721142
+                    -87.658103,
+                    41.711298
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3497",
+                    "identifier": "f-cta-s-6142",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3497",
-                        "stop_desc": "95th Street & Winston, Eastbound, Southwest Corner",
-                        "stop_id": "3497",
-                        "stop_lat": "41.721142",
-                        "stop_lon": "-87.660823",
-                        "stop_name": "95th Street & Winston",
+                        "stop_code": "6142",
+                        "stop_desc": "Beverly & 100th Place, Northbound, Southeast Corner",
+                        "stop_id": "6142",
+                        "stop_lat": "41.711298",
+                        "stop_lon": "-87.658103",
+                        "stop_name": "Beverly & 100th Place",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Winston",
-            "onestopId": "s-dp3tm5p76b-95th~winston",
+            "name": "Beverly & 100th Place",
+            "onestopId": "s-dp3tm333fj-beverly~100thplace",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.63233926,
+                    41.74347769
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-17664",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "17664",
+                        "stop_desc": "83rd Street & Holland, Eastbound, Southwest Corner",
+                        "stop_id": "17664",
+                        "stop_lat": "41.74347769",
+                        "stop_lon": "-87.63233926",
+                        "stop_name": "83rd Street & Holland",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "83rd Street & Holland",
+            "onestopId": "s-dp3tmzhj6k-83rd~holland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5580,29 +5448,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65366981,
-                    41.74512194
+                    -87.64332,
+                    41.729668
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5196",
+                    "identifier": "f-cta-s-3666",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5196",
-                        "stop_desc": "Racine & 82nd Street, Southbound, Northwest Corner",
-                        "stop_id": "5196",
-                        "stop_lat": "41.74512194",
-                        "stop_lon": "-87.65366981",
-                        "stop_name": "Racine & 82nd Street",
+                        "stop_code": "3666",
+                        "stop_desc": "9030 S Halsted, Northbound, Southeast Corner",
+                        "stop_id": "3666",
+                        "stop_lat": "41.729668",
+                        "stop_lon": "-87.64332",
+                        "stop_name": "9030 S Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Racine & 82nd Street",
-            "onestopId": "s-dp3tmrkwcq-racine~82nd",
+            "name": "9030 S Halsted",
+            "onestopId": "s-dp3tmsshft-9030shalsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5702,6 +5570,39 @@
             ],
             "name": "Ashland & 91st Street",
             "onestopId": "s-dp3tmhmy2e-ashland~91st",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.65547979,
+                    41.72120191
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3500",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3500",
+                        "stop_desc": "95th Street & Throop, Eastbound, Southwest Corner",
+                        "stop_id": "3500",
+                        "stop_lat": "41.72120191",
+                        "stop_lon": "-87.65547979",
+                        "stop_name": "95th Street & Throop",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "95th Street & Throop",
+            "onestopId": "s-dp3tm755x7-95th~throop",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5910,29 +5811,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66138638,
-                    41.71743334
+                    -87.63599,
+                    41.744308
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6133",
+                    "identifier": "f-cta-s-6555",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6133",
-                        "stop_desc": "9700 S Beverly, Southbound, Westside of the Street",
-                        "stop_id": "6133",
-                        "stop_lat": "41.71743334",
-                        "stop_lon": "-87.66138638",
-                        "stop_name": "9700 S Beverly",
+                        "stop_code": "6555",
+                        "stop_desc": "Vincennes & 83rd Street, Southbound, Westside of the Street",
+                        "stop_id": "6555",
+                        "stop_lat": "41.744308",
+                        "stop_lon": "-87.63599",
+                        "stop_name": "Vincennes & 83rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "9700 S Beverly",
-            "onestopId": "s-dp3tm4qvtt-9700sbeverly",
+            "name": "Vincennes & 83rd Street",
+            "onestopId": "s-dp3tmz36jr-vincennes~83rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5943,29 +5844,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64808512,
-                    41.7358845
+                    -87.64270871,
+                    41.70707195
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15789",
+                    "identifier": "f-cta-s-14497",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15789",
-                        "stop_desc": "87th Street & Morgan, Eastbound, Southeast Corner",
-                        "stop_id": "15789",
-                        "stop_lat": "41.7358845",
-                        "stop_lon": "-87.64808512",
-                        "stop_name": "87th Street & Morgan",
+                        "stop_code": "14497",
+                        "stop_desc": "Halsted & 103rd Street, Northbound, Northeast Corner",
+                        "stop_id": "14497",
+                        "stop_lat": "41.70707195",
+                        "stop_lon": "-87.64270871",
+                        "stop_name": "Halsted & 103rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "87th Street & Morgan",
-            "onestopId": "s-dp3tmtb95s-87th~morgan",
+            "name": "Halsted & 103rd Street",
+            "onestopId": "s-dp3tm8s92c-halsted~103rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6108,39 +6009,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65625638,
-                    41.70669321
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-12152",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "12152",
-                        "stop_desc": "103rd Street & Vincennes Ave, Eastbound, Southwest Corner",
-                        "stop_id": "12152",
-                        "stop_lat": "41.70669321",
-                        "stop_lon": "-87.65625638",
-                        "stop_name": "103rd Street & Vincennes Ave",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "103rd Street & Vincennes Ave",
-            "onestopId": "s-dp3tm26xj5-103rd~vincennes",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.652777,
                     41.721435
                 ],
@@ -6273,29 +6141,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64364031,
-                    41.73993614
+                    -87.66701618,
+                    41.70665751
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15235",
+                    "identifier": "f-cta-s-12186",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15235",
-                        "stop_desc": "Halsted & Summit, Northbound, Eastside of the Street",
-                        "stop_id": "15235",
-                        "stop_lat": "41.73993614",
-                        "stop_lon": "-87.64364031",
-                        "stop_name": "Halsted & Summit",
+                        "stop_code": "12186",
+                        "stop_desc": "103rd Street & Wood, Westbound, Northeast Corner",
+                        "stop_id": "12186",
+                        "stop_lat": "41.70665751",
+                        "stop_lon": "-87.66701618",
+                        "stop_name": "103rd Street & Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Summit",
-            "onestopId": "s-dp3tmwebg0-halsted~summit",
+            "name": "103rd Street & Wood",
+            "onestopId": "s-dp3tm06yfk-103rd~wood",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6542534,
+                    41.71133274
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6415",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6415",
+                        "stop_desc": "Vincennes & 100th Place, Northbound, Eastside of the Street",
+                        "stop_id": "6415",
+                        "stop_lat": "41.71133274",
+                        "stop_lon": "-87.6542534",
+                        "stop_name": "Vincennes & 100th Place",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Vincennes & 100th Place",
+            "onestopId": "s-dp3tm3k45g-vincennes~100thplace",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6372,29 +6273,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.643533,
-                    41.730025
+                    -87.66860857,
+                    41.70664644
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3693",
+                    "identifier": "f-cta-s-12187",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3693",
-                        "stop_desc": "9030 S Halsted, Southbound, Northwest Corner",
-                        "stop_id": "3693",
-                        "stop_lat": "41.730025",
-                        "stop_lon": "-87.643533",
-                        "stop_name": "9030 S Halsted",
+                        "stop_code": "12187",
+                        "stop_desc": "103rd Street & Hale, Westbound, Northside of the Street",
+                        "stop_id": "12187",
+                        "stop_lat": "41.70664644",
+                        "stop_lon": "-87.66860857",
+                        "stop_name": "103rd Street & Hale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "9030 S Halsted",
-            "onestopId": "s-dp3tmsezj8-9030shalsted",
+            "name": "103rd Street & Hale",
+            "onestopId": "s-dp3tm03wv6-103rd~hale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6438,29 +6339,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63886053,
-                    41.73600205
+                    -87.65351406,
+                    41.73963043
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9402",
+                    "identifier": "f-cta-s-5199",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9402",
-                        "stop_desc": "87th Street & Wallace, Eastbound, Southwest Corner",
-                        "stop_id": "9402",
-                        "stop_lat": "41.73600205",
-                        "stop_lon": "-87.63886053",
-                        "stop_name": "87th Street & Wallace",
+                        "stop_code": "5199",
+                        "stop_desc": "Racine & 85th Street, Southbound, Northwest Corner",
+                        "stop_id": "5199",
+                        "stop_lat": "41.73963043",
+                        "stop_lon": "-87.65351406",
+                        "stop_name": "Racine & 85th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "87th Street & Wallace",
-            "onestopId": "s-dp3tmtz3fd-87th~wallace",
+            "name": "Racine & 85th Street",
+            "onestopId": "s-dp3tmqkwvp-racine~85th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6537,29 +6438,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6403021,
-                    41.70701549
+                    -87.66304263,
+                    41.73033299
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12174",
+                    "identifier": "f-cta-s-6125",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12174",
-                        "stop_desc": "103rd Street & Union, Westbound, Northeast Corner",
-                        "stop_id": "12174",
-                        "stop_lat": "41.70701549",
-                        "stop_lon": "-87.6403021",
-                        "stop_name": "103rd Street & Union",
+                        "stop_code": "6125",
+                        "stop_desc": "Ashland & 90th Street, Southbound, Northwest Corner",
+                        "stop_id": "6125",
+                        "stop_lat": "41.73033299",
+                        "stop_lon": "-87.66304263",
+                        "stop_name": "Ashland & 90th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "103rd Street & Union",
-            "onestopId": "s-dp3tm8w2bz-103rd~union",
+            "name": "Ashland & 90th Street",
+            "onestopId": "s-dp3tmhv8z1-ashland~90th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6603,29 +6504,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65739229,
-                    41.70975275
+                    -87.6434,
+                    41.732432
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6141",
+                    "identifier": "f-cta-s-3668",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6141",
-                        "stop_desc": "10113 S Beverly, Northbound, Eastside of the Street",
-                        "stop_id": "6141",
-                        "stop_lat": "41.70975275",
-                        "stop_lon": "-87.65739229",
-                        "stop_name": "10113 S Beverly",
+                        "stop_code": "3668",
+                        "stop_desc": "Halsted & 89th Street, Northbound, Southeast Corner",
+                        "stop_id": "3668",
+                        "stop_lat": "41.732432",
+                        "stop_lon": "-87.6434",
+                        "stop_name": "Halsted & 89th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "10113 S Beverly",
-            "onestopId": "s-dp3tm31bft-10113sbeverly",
+            "name": "Halsted & 89th Street",
+            "onestopId": "s-dp3tmthj0c-halsted~89th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6669,29 +6570,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63599,
-                    41.744308
+                    -87.6598589,
+                    41.71411799
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6555",
+                    "identifier": "f-cta-s-6135",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6555",
-                        "stop_desc": "Vincennes & 83rd Street, Southbound, Westside of the Street",
-                        "stop_id": "6555",
-                        "stop_lat": "41.744308",
-                        "stop_lon": "-87.63599",
-                        "stop_name": "Vincennes & 83rd Street",
+                        "stop_code": "6135",
+                        "stop_desc": "Beverly & 99th Street, Southbound, Northwest Corner",
+                        "stop_id": "6135",
+                        "stop_lat": "41.71411799",
+                        "stop_lon": "-87.6598589",
+                        "stop_name": "Beverly & 99th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Vincennes & 83rd Street",
-            "onestopId": "s-dp3tmz36jr-vincennes~83rd",
+            "name": "Beverly & 99th Street",
+            "onestopId": "s-dp3tm3b435-beverly~99th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6966,29 +6867,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64329073,
-                    41.71939767
+                    -87.65363316,
+                    41.74331597
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3699",
+                    "identifier": "f-cta-s-5197",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3699",
-                        "stop_desc": "Halsted & 96th Street, Southbound, Northwest Corner",
-                        "stop_id": "3699",
-                        "stop_lat": "41.71939767",
-                        "stop_lon": "-87.64329073",
-                        "stop_name": "Halsted & 96th Street",
+                        "stop_code": "5197",
+                        "stop_desc": "Racine & 83rd Street, Southbound, Northwest Corner",
+                        "stop_id": "5197",
+                        "stop_lat": "41.74331597",
+                        "stop_lon": "-87.65363316",
+                        "stop_name": "Racine & 83rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 96th Street",
-            "onestopId": "s-dp3tmdu157-halsted~96th",
+            "name": "Racine & 83rd Street",
+            "onestopId": "s-dp3tmrhs6q-racine~83rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7022,6 +6923,39 @@
             ],
             "name": "Vincennes & Gilbert Court",
             "onestopId": "s-dp3tmwmdpn-vincennes~gilbert",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.66434122,
+                    41.70660903
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-12147",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "12147",
+                        "stop_desc": "1700 W 103rd Street, Eastbound, Southside of the Street",
+                        "stop_id": "12147",
+                        "stop_lat": "41.70660903",
+                        "stop_lon": "-87.66434122",
+                        "stop_name": "1700 W 103rd Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "1700 W 103rd Street",
+            "onestopId": "s-dp3tm0ky8g-1700w103rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7131,29 +7065,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6542534,
-                    41.71133274
+                    -87.660823,
+                    41.721142
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6415",
+                    "identifier": "f-cta-s-3497",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6415",
-                        "stop_desc": "Vincennes & 100th Place, Northbound, Eastside of the Street",
-                        "stop_id": "6415",
-                        "stop_lat": "41.71133274",
-                        "stop_lon": "-87.6542534",
-                        "stop_name": "Vincennes & 100th Place",
+                        "stop_code": "3497",
+                        "stop_desc": "95th Street & Winston, Eastbound, Southwest Corner",
+                        "stop_id": "3497",
+                        "stop_lat": "41.721142",
+                        "stop_lon": "-87.660823",
+                        "stop_name": "95th Street & Winston",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Vincennes & 100th Place",
-            "onestopId": "s-dp3tm3k45g-vincennes~100thplace",
+            "name": "95th Street & Winston",
+            "onestopId": "s-dp3tm5p76b-95th~winston",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7164,29 +7098,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.643125,
-                    41.723162
+                    -87.66303585,
+                    41.7396402
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3662",
+                    "identifier": "f-cta-s-15455",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3662",
-                        "stop_desc": "Halsted & 94th Street, Northbound, Southeast Corner",
-                        "stop_id": "3662",
-                        "stop_lat": "41.723162",
-                        "stop_lon": "-87.643125",
-                        "stop_name": "Halsted & 94th Street",
+                        "stop_code": "15455",
+                        "stop_desc": "Ashland & 85th Street, Northbound, Northeast Corner",
+                        "stop_id": "15455",
+                        "stop_lat": "41.7396402",
+                        "stop_lon": "-87.66303585",
+                        "stop_name": "Ashland & 85th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 94th Street",
-            "onestopId": "s-dp3tmekpp1-halsted~94th",
+            "name": "Ashland & 85th Street",
+            "onestopId": "s-dp3tmnmxp0-ashland~85th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7197,29 +7131,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62880408,
-                    41.73630036
+                    -87.6438183,
+                    41.73994525
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9492",
+                    "identifier": "f-cta-s-3687",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9492",
-                        "stop_desc": "200 W 87th Street, Westbound, Northside of the Street",
-                        "stop_id": "9492",
-                        "stop_lat": "41.73630036",
-                        "stop_lon": "-87.62880408",
-                        "stop_name": "200 W 87th Street",
+                        "stop_code": "3687",
+                        "stop_desc": "Halsted & Summit, Southbound, Northwest Corner",
+                        "stop_id": "3687",
+                        "stop_lat": "41.73994525",
+                        "stop_lon": "-87.6438183",
+                        "stop_name": "Halsted & Summit",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "200 W 87th Street",
-            "onestopId": "s-dp3tmvyesf-200w87th",
+            "name": "Halsted & Summit",
+            "onestopId": "s-dp3tmwe8z1-halsted~summit",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7527,29 +7461,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6429517,
-                    41.70673806
+                    -87.64373438,
+                    41.73557288
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14977",
+                    "identifier": "f-cta-s-14817",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14977",
-                        "stop_desc": "Halsted & 103rd Street, Southbound, Southwest Corner",
-                        "stop_id": "14977",
-                        "stop_lat": "41.70673806",
-                        "stop_lon": "-87.6429517",
-                        "stop_name": "Halsted & 103rd Street",
+                        "stop_code": "14817",
+                        "stop_desc": "Halsted & 87th Street, Southbound, Southwest Corner",
+                        "stop_id": "14817",
+                        "stop_lat": "41.73557288",
+                        "stop_lon": "-87.64373438",
+                        "stop_name": "Halsted & 87th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 103rd Street",
-            "onestopId": "s-dp3tm8kr75-halsted~103rd",
+            "name": "Halsted & 87th Street",
+            "onestopId": "s-dp3tmtez2f-halsted~87th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7659,29 +7593,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65547979,
-                    41.72120191
+                    -87.64396853,
+                    41.74525918
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3500",
+                    "identifier": "f-cta-s-3684",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3500",
-                        "stop_desc": "95th Street & Throop, Eastbound, Southwest Corner",
-                        "stop_id": "3500",
-                        "stop_lat": "41.72120191",
-                        "stop_lon": "-87.65547979",
-                        "stop_name": "95th Street & Throop",
+                        "stop_code": "3684",
+                        "stop_desc": "Halsted & 82nd Street, Southbound, Northwest Corner",
+                        "stop_id": "3684",
+                        "stop_lat": "41.74525918",
+                        "stop_lon": "-87.64396853",
+                        "stop_name": "Halsted & 82nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Throop",
-            "onestopId": "s-dp3tm755x7-95th~throop",
+            "name": "Halsted & 82nd Street",
+            "onestopId": "s-dp3tmx7xg8-halsted~82nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7824,29 +7758,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.657567,
-                    41.721337
+                    -87.6554676,
+                    41.70685942
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3467",
+                    "identifier": "f-cta-s-12180",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3467",
-                        "stop_desc": "95th Street & Loomis, Westbound, Northeast Corner",
-                        "stop_id": "3467",
-                        "stop_lat": "41.721337",
-                        "stop_lon": "-87.657567",
-                        "stop_name": "95th Street & Loomis",
+                        "stop_code": "12180",
+                        "stop_desc": "103rd Street & Vincennes, Westbound, Northeast Corner",
+                        "stop_id": "12180",
+                        "stop_lat": "41.70685942",
+                        "stop_lon": "-87.6554676",
+                        "stop_name": "103rd Street & Vincennes",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Loomis",
-            "onestopId": "s-dp3tm71sqs-95th~loomis",
+            "name": "103rd Street & Vincennes",
+            "onestopId": "s-dp3tm2e0pd-103rd~vincennes",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.65311737,
+                    41.73657855
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-5041",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "5041",
+                        "stop_desc": "Racine & 87th Street Terminal, Westbound, Bus Terminal",
+                        "stop_id": "5041",
+                        "stop_lat": "41.73657855",
+                        "stop_lon": "-87.65311737",
+                        "stop_name": "Racine & 87th Street Terminal",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Racine & 87th Street Terminal",
+            "onestopId": "s-dp3tmmuvnq-racine~87thterminal",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7923,29 +7890,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.642822,
-                    41.710438
+                    -87.64365322,
+                    41.73262594
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3655",
+                    "identifier": "f-cta-s-3691",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3655",
-                        "stop_desc": "Halsted & 101st Street, Northbound, Southeast Corner",
-                        "stop_id": "3655",
-                        "stop_lat": "41.710438",
-                        "stop_lon": "-87.642822",
-                        "stop_name": "Halsted & 101st Street",
+                        "stop_code": "3691",
+                        "stop_desc": "Halsted & 89th Street, Southbound, Northwest Corner",
+                        "stop_id": "3691",
+                        "stop_lat": "41.73262594",
+                        "stop_lon": "-87.64365322",
+                        "stop_name": "Halsted & 89th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 101st Street",
-            "onestopId": "s-dp3tm9hkyj-halsted~101st",
+            "name": "Halsted & 89th Street",
+            "onestopId": "s-dp3tmt5y4v-halsted~89th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8055,29 +8022,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66722628,
-                    41.70655428
+                    -87.640932,
+                    41.721387
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-12146",
+                    "identifier": "f-cta-s-3506",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "12146",
-                        "stop_desc": "103rd Street & Wood, Eastbound, Southwest Corner",
-                        "stop_id": "12146",
-                        "stop_lat": "41.70655428",
-                        "stop_lon": "-87.66722628",
-                        "stop_name": "103rd Street & Wood",
+                        "stop_code": "3506",
+                        "stop_desc": "95th Street & Union, Eastbound, Southwest Corner",
+                        "stop_id": "3506",
+                        "stop_lat": "41.721387",
+                        "stop_lon": "-87.640932",
+                        "stop_name": "95th Street & Union",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "103rd Street & Wood",
-            "onestopId": "s-dp3tm06wm9-103rd~wood",
+            "name": "95th Street & Union",
+            "onestopId": "s-dp3tmejudq-95th~union",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8121,29 +8088,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.640568,
-                    41.721593
+                    -87.62917913,
+                    41.72175545
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3459",
+                    "identifier": "f-cta-s-15160",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3459",
-                        "stop_desc": "95th Street & Union, Westbound, Northeast Corner",
-                        "stop_id": "3459",
-                        "stop_lat": "41.721593",
-                        "stop_lon": "-87.640568",
-                        "stop_name": "95th Street & Union",
+                        "stop_code": "15160",
+                        "stop_desc": "95th Street & Wentworth, Westbound, Northwest Corner",
+                        "stop_id": "15160",
+                        "stop_lat": "41.72175545",
+                        "stop_lon": "-87.62917913",
+                        "stop_name": "95th Street & Wentworth",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Union",
-            "onestopId": "s-dp3tmenjfu-95th~union",
+            "name": "95th Street & Wentworth",
+            "onestopId": "s-dp3tmgnqu4-95th~wentworth",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8154,29 +8121,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65363316,
-                    41.74331597
+                    -87.64355341,
+                    41.72155944
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5197",
+                    "identifier": "f-cta-s-17433",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5197",
-                        "stop_desc": "Racine & 83rd Street, Southbound, Northwest Corner",
-                        "stop_id": "5197",
-                        "stop_lat": "41.74331597",
-                        "stop_lon": "-87.65363316",
-                        "stop_name": "Racine & 83rd Street",
+                        "stop_code": "17433",
+                        "stop_desc": "95th Street & Halsted, Westbound, Northwest Corner",
+                        "stop_id": "17433",
+                        "stop_lat": "41.72155944",
+                        "stop_lon": "-87.64355341",
+                        "stop_name": "95th Street & Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Racine & 83rd Street",
-            "onestopId": "s-dp3tmrhs6q-racine~83rd",
+            "name": "95th Street & Halsted",
+            "onestopId": "s-dp3tme5vtn-95th~halsted",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.64329073,
+                    41.71939767
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-3699",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3699",
+                        "stop_desc": "Halsted & 96th Street, Southbound, Northwest Corner",
+                        "stop_id": "3699",
+                        "stop_lat": "41.71939767",
+                        "stop_lon": "-87.64329073",
+                        "stop_name": "Halsted & 96th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Halsted & 96th Street",
+            "onestopId": "s-dp3tmdu157-halsted~96th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8220,29 +8220,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64385039,
-                    41.7473055
+                    -87.643125,
+                    41.723162
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-16053",
+                    "identifier": "f-cta-s-3662",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "16053",
-                        "stop_desc": "Halsted & 81st Street, Northbound, Northeast Corner",
-                        "stop_id": "16053",
-                        "stop_lat": "41.7473055",
-                        "stop_lon": "-87.64385039",
-                        "stop_name": "Halsted & 81st Street",
+                        "stop_code": "3662",
+                        "stop_desc": "Halsted & 94th Street, Northbound, Southeast Corner",
+                        "stop_id": "3662",
+                        "stop_lat": "41.723162",
+                        "stop_lon": "-87.643125",
+                        "stop_name": "Halsted & 94th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 81st Street",
-            "onestopId": "s-dp3tmxgewm-halsted~81st",
+            "name": "Halsted & 94th Street",
+            "onestopId": "s-dp3tmekpp1-halsted~94th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8385,29 +8385,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64365322,
-                    41.73262594
+                    -87.642822,
+                    41.710438
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3691",
+                    "identifier": "f-cta-s-3655",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3691",
-                        "stop_desc": "Halsted & 89th Street, Southbound, Northwest Corner",
-                        "stop_id": "3691",
-                        "stop_lat": "41.73262594",
-                        "stop_lon": "-87.64365322",
-                        "stop_name": "Halsted & 89th Street",
+                        "stop_code": "3655",
+                        "stop_desc": "Halsted & 101st Street, Northbound, Southeast Corner",
+                        "stop_id": "3655",
+                        "stop_lat": "41.710438",
+                        "stop_lon": "-87.642822",
+                        "stop_name": "Halsted & 101st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 89th Street",
-            "onestopId": "s-dp3tmt5y4v-halsted~89th",
+            "name": "Halsted & 101st Street",
+            "onestopId": "s-dp3tm9hkyj-halsted~101st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8451,29 +8451,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64355341,
-                    41.72155944
+                    -87.64364031,
+                    41.73993614
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17433",
+                    "identifier": "f-cta-s-15235",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17433",
-                        "stop_desc": "95th Street & Halsted, Westbound, Northwest Corner",
-                        "stop_id": "17433",
-                        "stop_lat": "41.72155944",
-                        "stop_lon": "-87.64355341",
-                        "stop_name": "95th Street & Halsted",
+                        "stop_code": "15235",
+                        "stop_desc": "Halsted & Summit, Northbound, Eastside of the Street",
+                        "stop_id": "15235",
+                        "stop_lat": "41.73993614",
+                        "stop_lon": "-87.64364031",
+                        "stop_name": "Halsted & Summit",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "95th Street & Halsted",
-            "onestopId": "s-dp3tme5vtn-95th~halsted",
+            "name": "Halsted & Summit",
+            "onestopId": "s-dp3tmwebg0-halsted~summit",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

@@ -108,31 +108,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.419337,
-                    39.338446
+                    -76.388739,
+                    39.347453
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12003",
+                    "identifier": "f-mtamaryland-s-7562",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12003",
-                        "stop_desc": "MARTIN AIRPORT at MARC STATION nb",
-                        "stop_id": "12003",
-                        "stop_lat": "39.338446",
-                        "stop_lon": "-76.419337",
-                        "stop_name": "MARTIN AIRPORT MARC nb",
+                        "stop_code": "7562",
+                        "stop_desc": "",
+                        "stop_id": "7562",
+                        "stop_lat": "39.347453",
+                        "stop_lon": "-76.388739",
+                        "stop_name": "EASTERN AVE & METHODIST CHURCH",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MARTIN AIRPORT MARC nb",
-            "onestopId": "s-dqcxv135h3-martinairportmarcnb",
+            "name": "EASTERN AVE & METHODIST CHURCH",
+            "onestopId": "s-dqcxvdzrt2-eastern~methodistchurch",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -273,6 +273,41 @@
             ],
             "name": "CARROLL ISL & EASTERN BLVD fs sb",
             "onestopId": "s-dqcxv3mfey-carrollisl~easternfssb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.419337,
+                    39.338446
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-12003",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12003",
+                        "stop_desc": "MARTIN AIRPORT at MARC STATION nb",
+                        "stop_id": "12003",
+                        "stop_lat": "39.338446",
+                        "stop_lon": "-76.419337",
+                        "stop_name": "MARTIN AIRPORT MARC nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "MARTIN AIRPORT MARC nb",
+            "onestopId": "s-dqcxv135h3-martinairportmarcnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -518,41 +553,6 @@
             ],
             "name": "EASTERN AV AT CHASE ELEM FS eb",
             "onestopId": "s-dqcxvd7yej-easternatchaseelemfseb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.388739,
-                    39.347453
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-7562",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "7562",
-                        "stop_desc": "",
-                        "stop_id": "7562",
-                        "stop_lat": "39.347453",
-                        "stop_lon": "-76.388739",
-                        "stop_name": "EASTERN AVE & METHODIST CHURCH",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EASTERN AVE & METHODIST CHURCH",
-            "onestopId": "s-dqcxvdzrt2-eastern~methodistchurch",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

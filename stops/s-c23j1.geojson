@@ -38,6 +38,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.297401,
+                    47.3220596
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-80464",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "80464",
+                        "stop_lat": "47.3220596",
+                        "stop_lon": "-122.297401",
+                        "stop_name": "28th Ave S & S 312th St",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "24"
+                    }
+                }
+            ],
+            "name": "28th Ave S & S 312th St",
+            "onestopId": "s-c23j1n9ybp-28ths~s312th",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.297577,
                     47.3225136
                 ],
@@ -143,31 +178,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.297401,
-                    47.3220596
+                    -122.299789,
+                    47.3178406
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-80464",
+                    "identifier": "f-kingcounty-s-80458",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "80464",
-                        "stop_lat": "47.3220596",
-                        "stop_lon": "-122.297401",
-                        "stop_name": "28th Ave S & S 312th St",
+                        "stop_id": "80458",
+                        "stop_lat": "47.3178406",
+                        "stop_lon": "-122.299789",
+                        "stop_name": "S 317th St & 26th Ave S",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "24"
                     }
                 }
             ],
-            "name": "28th Ave S & S 312th St",
-            "onestopId": "s-c23j1n9ybp-28ths~s312th",
+            "name": "S 317th St & 26th Ave S",
+            "onestopId": "s-c23j1jbn2k-s317th~26ths",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -343,41 +378,6 @@
             ],
             "name": "28th Ave S & S 308th Ln",
             "onestopId": "s-c23j1p3sut-28ths~s308th",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.299789,
-                    47.3178406
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-80458",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "80458",
-                        "stop_lat": "47.3178406",
-                        "stop_lon": "-122.299789",
-                        "stop_name": "S 317th St & 26th Ave S",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "24"
-                    }
-                }
-            ],
-            "name": "S 317th St & 26th Ave S",
-            "onestopId": "s-c23j1jbn2k-s317th~26ths",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

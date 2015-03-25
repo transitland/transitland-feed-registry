@@ -143,31 +143,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.36724,
-                    43.885934
+                    -79.372976,
+                    43.884417
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13582",
+                    "identifier": "f-ttc-s-8054",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_MWOO",
+                        "stop_code": "13400",
                         "stop_desc": "",
-                        "stop_id": "13582",
-                        "stop_lat": "43.885934",
-                        "stop_lon": "-79.36724",
-                        "stop_name": "MAJOR MACKENZIE DR. AT WOODBINE",
+                        "stop_id": "8054",
+                        "stop_lat": "43.884417",
+                        "stop_lon": "-79.372976",
+                        "stop_name": "MARKLAND ST AT MAJOR MACKENZIE DR EAST",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MAJOR MACKENZIE DR. AT WOODBINE",
-            "onestopId": "s-dpz99vnw17-majormackenzieatwoodbine",
+            "name": "MARKLAND ST AT MAJOR MACKENZIE DR EAST",
+            "onestopId": "s-dpz99ufm78-marklandatmajormackenzieeast",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -213,31 +213,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.368002,
-                    43.876538
+                    -79.367808,
+                    43.896998
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9037",
+                    "identifier": "f-ttc-s-12909",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13712",
+                        "stop_code": "14499",
                         "stop_desc": "",
-                        "stop_id": "9037",
-                        "stop_lat": "43.876538",
-                        "stop_lon": "-79.368002",
-                        "stop_name": "HILLMOUNT RD AT HOPECREST RD",
+                        "stop_id": "12909",
+                        "stop_lat": "43.896998",
+                        "stop_lon": "-79.367808",
+                        "stop_name": "STONY HILL BLVD AT HAZELTON AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HILLMOUNT RD AT HOPECREST RD",
-            "onestopId": "s-dpz99gmzre-hillmountathopecrest",
+            "name": "STONY HILL BLVD AT HAZELTON AVE",
+            "onestopId": "s-dpz99znns1-stonyhillathazelton",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -458,31 +458,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.367808,
-                    43.896998
+                    -79.368002,
+                    43.876538
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-12909",
+                    "identifier": "f-ttc-s-9037",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14499",
+                        "stop_code": "13712",
                         "stop_desc": "",
-                        "stop_id": "12909",
-                        "stop_lat": "43.896998",
-                        "stop_lon": "-79.367808",
-                        "stop_name": "STONY HILL BLVD AT HAZELTON AVE",
+                        "stop_id": "9037",
+                        "stop_lat": "43.876538",
+                        "stop_lon": "-79.368002",
+                        "stop_name": "HILLMOUNT RD AT HOPECREST RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "STONY HILL BLVD AT HAZELTON AVE",
-            "onestopId": "s-dpz99znns1-stonyhillathazelton",
+            "name": "HILLMOUNT RD AT HOPECREST RD",
+            "onestopId": "s-dpz99gmzre-hillmountathopecrest",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -588,6 +588,41 @@
             ],
             "name": "HILLMOUNT RD (NORTH) AT MARKLAND ST",
             "onestopId": "s-dpz99u4p95-hillmountnorthatmarkland",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.366149,
+                    43.876727
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-2210",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "13396",
+                        "stop_desc": "",
+                        "stop_id": "2210",
+                        "stop_lat": "43.876727",
+                        "stop_lon": "-79.366149",
+                        "stop_name": "HILLMOUNT RD AT WOODBINE AVE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "2",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "HILLMOUNT RD AT WOODBINE AVE",
+            "onestopId": "s-dpz99gx26w-hillmountatwoodbine",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -878,41 +913,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.366149,
-                    43.876727
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-2210",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "13396",
-                        "stop_desc": "",
-                        "stop_id": "2210",
-                        "stop_lat": "43.876727",
-                        "stop_lon": "-79.366149",
-                        "stop_name": "HILLMOUNT RD AT WOODBINE AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "HILLMOUNT RD AT WOODBINE AVE",
-            "onestopId": "s-dpz99gx26w-hillmountatwoodbine",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.376017,
                     43.879651
                 ],
@@ -1018,31 +1018,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.372976,
-                    43.884417
+                    -79.36724,
+                    43.885934
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-8054",
+                    "identifier": "f-ttc-s-13582",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13400",
+                        "stop_code": "S_MWOO",
                         "stop_desc": "",
-                        "stop_id": "8054",
-                        "stop_lat": "43.884417",
-                        "stop_lon": "-79.372976",
-                        "stop_name": "MARKLAND ST AT MAJOR MACKENZIE DR EAST",
+                        "stop_id": "13582",
+                        "stop_lat": "43.885934",
+                        "stop_lon": "-79.36724",
+                        "stop_name": "MAJOR MACKENZIE DR. AT WOODBINE",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MARKLAND ST AT MAJOR MACKENZIE DR EAST",
-            "onestopId": "s-dpz99ufm78-marklandatmajormackenzieeast",
+            "name": "MAJOR MACKENZIE DR. AT WOODBINE",
+            "onestopId": "s-dpz99vnw17-majormackenzieatwoodbine",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"

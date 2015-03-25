@@ -3,41 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.640702,
-                    39.455656
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-10644",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "10644",
-                        "stop_desc": "PADONIA RD at CONRAIL  200 BLOCK wb",
-                        "stop_id": "10644",
-                        "stop_lat": "39.455656",
-                        "stop_lon": "-76.640702",
-                        "stop_name": "PADONIA RD & 200 BLK PADONIA wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "PADONIA RD & 200 BLK PADONIA wb",
-            "onestopId": "s-dr12ryxvy5-padonia~200blkpadoniawb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.641845,
                     39.455131
                 ],
@@ -73,31 +38,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.641803,
-                    39.454653
+                    -76.640702,
+                    39.455656
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10645",
+                    "identifier": "f-mtamaryland-s-10644",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10645",
-                        "stop_desc": "",
-                        "stop_id": "10645",
-                        "stop_lat": "39.454653",
-                        "stop_lon": "-76.641803",
-                        "stop_name": "DEERECO RD & 9600 sb",
+                        "stop_code": "10644",
+                        "stop_desc": "PADONIA RD at CONRAIL  200 BLOCK wb",
+                        "stop_id": "10644",
+                        "stop_lat": "39.455656",
+                        "stop_lon": "-76.640702",
+                        "stop_name": "PADONIA RD & 200 BLK PADONIA wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DEERECO RD & 9600 sb",
-            "onestopId": "s-dr12ryx0h8-deereco~9600sb",
+            "name": "PADONIA RD & 200 BLK PADONIA wb",
+            "onestopId": "s-dr12ryxvy5-padonia~200blkpadoniawb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -133,6 +98,41 @@
             ],
             "name": "GREENSPRING STATION",
             "onestopId": "s-dr12r27f72-greenspringstation",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.641803,
+                    39.454653
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-10645",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "10645",
+                        "stop_desc": "",
+                        "stop_id": "10645",
+                        "stop_lat": "39.454653",
+                        "stop_lon": "-76.641803",
+                        "stop_name": "DEERECO RD & 9600 sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "DEERECO RD & 9600 sb",
+            "onestopId": "s-dr12ryx0h8-deereco~9600sb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

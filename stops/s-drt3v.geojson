@@ -73,41 +73,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.107553,
-                    42.521548
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-29253",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "29253",
-                        "stop_desc": "",
-                        "stop_id": "29253",
-                        "stop_lat": "42.521548",
-                        "stop_lon": "-71.107553",
-                        "stop_name": "Lincoln St @ Reading Depot",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Lincoln St @ Reading Depot",
-            "onestopId": "s-drt3vuv1cz-lincoln~readingdepot",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.137511,
                     42.503595
                 ],
@@ -133,6 +98,41 @@
             ],
             "name": "Mishawum",
             "onestopId": "s-drt3v1x1ru-mishawum",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.107553,
+                    42.521548
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-29253",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "29253",
+                        "stop_desc": "",
+                        "stop_id": "29253",
+                        "stop_lat": "42.521548",
+                        "stop_lon": "-71.107553",
+                        "stop_name": "Lincoln St @ Reading Depot",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Lincoln St @ Reading Depot",
+            "onestopId": "s-drt3vuv1cz-lincoln~readingdepot",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

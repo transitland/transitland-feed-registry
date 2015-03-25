@@ -105,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.835233,
-                    49.133719
+                    -122.838519,
+                    49.133938
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5792",
+                    "identifier": "f-translink-s-5634",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55737",
-                        "stop_desc": "72 AVE @ 140 ST",
-                        "stop_id": "5792",
-                        "stop_lat": "49.133719",
-                        "stop_lon": "-122.835233",
-                        "stop_name": "WB 72 AV FS 140 ST",
+                        "stop_code": "55579",
+                        "stop_desc": "138 ST @ 72 AVE",
+                        "stop_id": "5634",
+                        "stop_lat": "49.133938",
+                        "stop_lon": "-122.838519",
+                        "stop_name": "NB 138 ST FS 72 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 72 AV FS 140 ST",
-            "onestopId": "s-c28xsbd0et-wb72fs140",
+            "name": "NB 138 ST FS 72 AV",
+            "onestopId": "s-c28xs8x9zj-nb138fs72",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -207,30 +207,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867916,
-                    49.171991
+                    -122.856644,
+                    49.141376
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5654",
+                    "identifier": "f-translink-s-5708",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55599",
-                        "stop_desc": "128 ST @ 93 AVE",
-                        "stop_id": "5654",
-                        "stop_lat": "49.171991",
-                        "stop_lon": "-122.867916",
-                        "stop_name": "NB 128 ST FS 93 AV",
+                        "stop_code": "55653",
+                        "stop_desc": "132 ST @ 76 AVE",
+                        "stop_id": "5708",
+                        "stop_lat": "49.141376",
+                        "stop_lon": "-122.856644",
+                        "stop_name": "NB 132 ST FS 76 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 128 ST FS 93 AV",
-            "onestopId": "s-c28xsp6rd5-nb128fs93",
+            "name": "NB 132 ST FS 76 AV",
+            "onestopId": "s-c28xs3ft28-nb132fs76",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -275,6 +275,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.847036,
+                    49.13365
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5594",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55539",
+                        "stop_desc": "72 AVE @ KING GEORGE BLVD",
+                        "stop_id": "5594",
+                        "stop_lat": "49.13365",
+                        "stop_lon": "-122.847036",
+                        "stop_name": "WB 72 AV FS KING GEORGE BLVD",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB 72 AV FS KING GEORGE BLVD",
+            "onestopId": "s-c28xs89828-wb72fskinggeorge",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.867757,
                     49.137827
                 ],
@@ -309,30 +343,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.84599,
-                    49.161766
+                    -122.867914,
+                    49.166929
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5498",
+                    "identifier": "f-translink-s-5652",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55445",
-                        "stop_desc": "KING GEORGE BLVD @ 88 AVE",
-                        "stop_id": "5498",
-                        "stop_lat": "49.161766",
-                        "stop_lon": "-122.84599",
-                        "stop_name": "SB KING GEORGE BLVD FS 88 AV",
+                        "stop_code": "55597",
+                        "stop_desc": "128 ST @ PRINCE CHARLES BLVD",
+                        "stop_id": "5652",
+                        "stop_lat": "49.166929",
+                        "stop_lon": "-122.867914",
+                        "stop_name": "NB 128 ST FS PRINCE CHARLES BLVD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB KING GEORGE BLVD FS 88 AV",
-            "onestopId": "s-c28xstdk0c-sbkinggeorgefs88",
+            "name": "NB 128 ST FS PRINCE CHARLES BLVD",
+            "onestopId": "s-c28xsnd645-nb128fsprincecharles",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -401,40 +435,6 @@
             ],
             "name": "WB 88 AV FS 133A ST",
             "onestopId": "s-c28xsmucy5-wb88fs133a",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.867965,
-                    49.131129
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-12045",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61939",
-                        "stop_desc": "128 ST @ 7000 BLOCK",
-                        "stop_id": "12045",
-                        "stop_lat": "49.131129",
-                        "stop_lon": "-122.867965",
-                        "stop_name": "SB 128 ST AT 7000 BLOCK-",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 128 ST AT 7000 BLOCK-",
-            "onestopId": "s-c28xs0438f-sb128at7000block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -547,64 +547,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.860735,
-                    49.141027
+                    -122.834416,
+                    49.143377
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5642",
+                    "identifier": "f-translink-s-5748",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55587",
-                        "stop_desc": "76 AVE @ 13000 BLOCK",
-                        "stop_id": "5642",
-                        "stop_lat": "49.141027",
-                        "stop_lon": "-122.860735",
-                        "stop_name": "WB 76 AV AT 13000 BLOCK",
+                        "stop_code": "55693",
+                        "stop_desc": "140 ST @ 77A AVE",
+                        "stop_id": "5748",
+                        "stop_lat": "49.143377",
+                        "stop_lon": "-122.834416",
+                        "stop_name": "NB 140 ST NS 77A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 76 AV AT 13000 BLOCK",
-            "onestopId": "s-c28xs1ze1r-wb76at13000block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.862851,
-                    49.133907
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6079",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "56021",
-                        "stop_desc": "72 AVE @ 130 ST",
-                        "stop_id": "6079",
-                        "stop_lat": "49.133907",
-                        "stop_lon": "-122.862851",
-                        "stop_name": "WB 72 AV FS 130 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB 72 AV FS 130 ST",
-            "onestopId": "s-c28xs0w1b0-wb72fs130",
+            "name": "NB 140 ST NS 77A AV",
+            "onestopId": "s-c28xsf68yt-nb140ns77a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -649,30 +615,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867395,
-                    49.133798
+                    -122.845901,
+                    49.147239
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5998",
+                    "identifier": "f-translink-s-5503",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55942",
-                        "stop_desc": "72 AVE @ 128 ST",
-                        "stop_id": "5998",
-                        "stop_lat": "49.133798",
-                        "stop_lon": "-122.867395",
-                        "stop_name": "EB 72 AV FS 128 ST",
+                        "stop_code": "55450",
+                        "stop_desc": "KING GEORGE BLVD @ 80 AVE",
+                        "stop_id": "5503",
+                        "stop_lat": "49.147239",
+                        "stop_lon": "-122.845901",
+                        "stop_name": "SB KING GEORGE BLVD FS 80 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 72 AV FS 128 ST",
-            "onestopId": "s-c28xs0d9n5-eb72fs128",
+            "name": "SB KING GEORGE BLVD FS 80 AV",
+            "onestopId": "s-c28xsdfr7j-sbkinggeorgefs80",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -707,6 +673,40 @@
             ],
             "name": "NB 140 ST FS 92 AV",
             "onestopId": "s-c28xsz4wmh-nb140fs92",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.835189,
+                    49.162869
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11135",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61201",
+                        "stop_desc": "88 AVE @ 140 ST",
+                        "stop_id": "11135",
+                        "stop_lat": "49.162869",
+                        "stop_lon": "-122.835189",
+                        "stop_name": "WB 88 AV FS 140 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB 88 AV FS 140 ST",
+            "onestopId": "s-c28xsvf4kx-wb88fs140",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -887,30 +887,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.847036,
-                    49.13365
+                    -122.867965,
+                    49.131129
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5594",
+                    "identifier": "f-translink-s-12045",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55539",
-                        "stop_desc": "72 AVE @ KING GEORGE BLVD",
-                        "stop_id": "5594",
-                        "stop_lat": "49.13365",
-                        "stop_lon": "-122.847036",
-                        "stop_name": "WB 72 AV FS KING GEORGE BLVD",
+                        "stop_code": "61939",
+                        "stop_desc": "128 ST @ 7000 BLOCK",
+                        "stop_id": "12045",
+                        "stop_lat": "49.131129",
+                        "stop_lon": "-122.867965",
+                        "stop_name": "SB 128 ST AT 7000 BLOCK-",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 72 AV FS KING GEORGE BLVD",
-            "onestopId": "s-c28xs89828-wb72fskinggeorge",
+            "name": "SB 128 ST AT 7000 BLOCK-",
+            "onestopId": "s-c28xs0438f-sb128at7000block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1567,40 +1567,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.834676,
-                    49.174474
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5778",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55723",
-                        "stop_desc": "140 ST @ 94A AVE",
-                        "stop_id": "5778",
-                        "stop_lat": "49.174474",
-                        "stop_lon": "-122.834676",
-                        "stop_name": "SB 140 ST FS 94A AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 140 ST FS 94A AV",
-            "onestopId": "s-c28xszfw0d-sb140fs94a",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.834481,
                     49.1668
                 ],
@@ -1805,30 +1771,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867711,
-                    49.134311
+                    -122.838027,
+                    49.133508
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5628",
+                    "identifier": "f-translink-s-5744",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55573",
-                        "stop_desc": "128 ST @ 72 AVE",
-                        "stop_id": "5628",
-                        "stop_lat": "49.134311",
-                        "stop_lon": "-122.867711",
-                        "stop_name": "NB 128 ST FS 72 AV",
+                        "stop_code": "55689",
+                        "stop_desc": "72 AVE @ 138 ST",
+                        "stop_id": "5744",
+                        "stop_lat": "49.133508",
+                        "stop_lon": "-122.838027",
+                        "stop_name": "EB 72 AV FS 138 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 128 ST FS 72 AV",
-            "onestopId": "s-c28xs0dkng-nb128fs72",
+            "name": "EB 72 AV FS 138 ST",
+            "onestopId": "s-c28xsb2p6t-eb72fs138",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1975,30 +1941,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867855,
-                    49.155697
+                    -122.868134,
+                    49.166706
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5648",
+                    "identifier": "f-translink-s-5682",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55593",
-                        "stop_desc": "128 ST @ 84 AVE",
-                        "stop_id": "5648",
-                        "stop_lat": "49.155697",
-                        "stop_lon": "-122.867855",
-                        "stop_name": "NB 128 ST FS 84 AV",
+                        "stop_code": "55627",
+                        "stop_desc": "128 ST @ 90 AVE",
+                        "stop_id": "5682",
+                        "stop_lat": "49.166706",
+                        "stop_lon": "-122.868134",
+                        "stop_name": "SB 128 ST FS 90 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 128 ST FS 84 AV",
-            "onestopId": "s-c28xshd2eq-nb128fs84",
+            "name": "SB 128 ST FS 90 AV",
+            "onestopId": "s-c28xsnd0uf-sb128fs90",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2067,6 +2033,40 @@
             ],
             "name": "NB 138 ST FS 74 AV",
             "onestopId": "s-c28xs9pwvh-nb138fs74",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.835233,
+                    49.133719
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5792",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55737",
+                        "stop_desc": "72 AVE @ 140 ST",
+                        "stop_id": "5792",
+                        "stop_lat": "49.133719",
+                        "stop_lon": "-122.835233",
+                        "stop_name": "WB 72 AV FS 140 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB 72 AV FS 140 ST",
+            "onestopId": "s-c28xsbd0et-wb72fs140",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2417,30 +2417,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867914,
-                    49.166929
+                    -122.84599,
+                    49.161766
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5652",
+                    "identifier": "f-translink-s-5498",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55597",
-                        "stop_desc": "128 ST @ PRINCE CHARLES BLVD",
-                        "stop_id": "5652",
-                        "stop_lat": "49.166929",
-                        "stop_lon": "-122.867914",
-                        "stop_name": "NB 128 ST FS PRINCE CHARLES BLVD",
+                        "stop_code": "55445",
+                        "stop_desc": "KING GEORGE BLVD @ 88 AVE",
+                        "stop_id": "5498",
+                        "stop_lat": "49.161766",
+                        "stop_lon": "-122.84599",
+                        "stop_name": "SB KING GEORGE BLVD FS 88 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 128 ST FS PRINCE CHARLES BLVD",
-            "onestopId": "s-c28xsnd645-nb128fsprincecharles",
+            "name": "SB KING GEORGE BLVD FS 88 AV",
+            "onestopId": "s-c28xstdk0c-sbkinggeorgefs88",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2621,30 +2621,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.838027,
-                    49.133508
+                    -122.841357,
+                    49.162862
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5744",
+                    "identifier": "f-translink-s-11167",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55689",
-                        "stop_desc": "72 AVE @ 138 ST",
-                        "stop_id": "5744",
-                        "stop_lat": "49.133508",
-                        "stop_lon": "-122.838027",
-                        "stop_name": "EB 72 AV FS 138 ST",
+                        "stop_code": "61199",
+                        "stop_desc": "88 AVE @ LAUDER DR",
+                        "stop_id": "11167",
+                        "stop_lat": "49.162862",
+                        "stop_lon": "-122.841357",
+                        "stop_name": "WB 88 AV NS LAUDER DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 72 AV FS 138 ST",
-            "onestopId": "s-c28xsb2p6t-eb72fs138",
+            "name": "WB 88 AV NS LAUDER DR",
+            "onestopId": "s-c28xstvdkv-wb88nslauder",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2893,30 +2893,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.834392,
-                    49.139685
+                    -122.834765,
+                    49.162433
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5747",
+                    "identifier": "f-translink-s-5781",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55692",
-                        "stop_desc": "140 ST @ 75 AVE",
-                        "stop_id": "5747",
-                        "stop_lat": "49.139685",
-                        "stop_lon": "-122.834392",
-                        "stop_name": "NB 140 ST FS 75 AV",
+                        "stop_code": "55726",
+                        "stop_desc": "140 ST @ 88 AVE",
+                        "stop_id": "5781",
+                        "stop_lat": "49.162433",
+                        "stop_lon": "-122.834765",
+                        "stop_name": "SB 140 ST FS 88 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 140 ST FS 75 AV",
-            "onestopId": "s-c28xscderj-nb140fs75",
+            "name": "SB 140 ST FS 88 AV",
+            "onestopId": "s-c28xsvdryt-sb140fs88",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2927,30 +2927,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.845847,
-                    49.14321
+                    -122.841548,
+                    49.133438
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5504",
+                    "identifier": "f-translink-s-6000",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55451",
-                        "stop_desc": "KING GEORGE BLVD @ 77 AVE",
-                        "stop_id": "5504",
-                        "stop_lat": "49.14321",
-                        "stop_lon": "-122.845847",
-                        "stop_name": "SB KING GEORGE BLVD NS 77 AV",
+                        "stop_code": "55944",
+                        "stop_desc": "NEWTON EXCHANGE @ BAY 8",
+                        "stop_id": "6000",
+                        "stop_lat": "49.133438",
+                        "stop_lon": "-122.841548",
+                        "stop_name": "NEWTON EXCHANGE BAY 8",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB KING GEORGE BLVD NS 77 AV",
-            "onestopId": "s-c28xsd4ruq-sbkinggeorgens77",
+            "name": "NEWTON EXCHANGE BAY 8",
+            "onestopId": "s-c28xs8mx02-newtonexchangebay8",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3029,40 +3029,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.868134,
-                    49.166706
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5682",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55627",
-                        "stop_desc": "128 ST @ 90 AVE",
-                        "stop_id": "5682",
-                        "stop_lat": "49.166706",
-                        "stop_lon": "-122.868134",
-                        "stop_name": "SB 128 ST FS 90 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 128 ST FS 90 AV",
-            "onestopId": "s-c28xsnd0uf-sb128fs90",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.868144,
                     49.171412
                 ],
@@ -3087,40 +3053,6 @@
             ],
             "name": "SB 128 ST FS 93 AV",
             "onestopId": "s-c28xsp6hhx-sb128fs93",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.838789,
-                    49.136935
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5699",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55644",
-                        "stop_desc": "138 ST @ 74 AVE",
-                        "stop_id": "5699",
-                        "stop_lat": "49.136935",
-                        "stop_lon": "-122.838789",
-                        "stop_name": "SB 138 ST FS 74 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 138 ST FS 74 AV",
-            "onestopId": "s-c28xs9pe2u-sb138fs74",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3267,64 +3199,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.856727,
-                    49.152928
+                    -122.867711,
+                    49.134311
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5712",
+                    "identifier": "f-translink-s-5628",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55657",
-                        "stop_desc": "132 ST @ 82A AVE",
-                        "stop_id": "5712",
-                        "stop_lat": "49.152928",
-                        "stop_lon": "-122.856727",
-                        "stop_name": "NB 132 ST FS 82A AV",
+                        "stop_code": "55573",
+                        "stop_desc": "128 ST @ 72 AVE",
+                        "stop_id": "5628",
+                        "stop_lat": "49.134311",
+                        "stop_lon": "-122.867711",
+                        "stop_name": "NB 128 ST FS 72 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 132 ST FS 82A AV",
-            "onestopId": "s-c28xsk42wc-nb132fs82a",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.841357,
-                    49.162862
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-11167",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61199",
-                        "stop_desc": "88 AVE @ LAUDER DR",
-                        "stop_id": "11167",
-                        "stop_lat": "49.162862",
-                        "stop_lon": "-122.841357",
-                        "stop_name": "WB 88 AV NS LAUDER DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB 88 AV NS LAUDER DR",
-            "onestopId": "s-c28xstvdkv-wb88nslauder",
+            "name": "NB 128 ST FS 72 AV",
+            "onestopId": "s-c28xs0dkng-nb128fs72",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3505,6 +3403,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.845847,
+                    49.14321
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5504",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55451",
+                        "stop_desc": "KING GEORGE BLVD @ 77 AVE",
+                        "stop_id": "5504",
+                        "stop_lat": "49.14321",
+                        "stop_lon": "-122.845847",
+                        "stop_name": "SB KING GEORGE BLVD NS 77 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB KING GEORGE BLVD NS 77 AV",
+            "onestopId": "s-c28xsd4ruq-sbkinggeorgens77",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.838774,
                     49.131503
                 ],
@@ -3631,74 +3563,6 @@
             ],
             "name": "WB 76 AV FS 132 ST",
             "onestopId": "s-c28xs3cg1z-wb76fs132",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.841548,
-                    49.133438
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-6000",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55944",
-                        "stop_desc": "NEWTON EXCHANGE @ BAY 8",
-                        "stop_id": "6000",
-                        "stop_lat": "49.133438",
-                        "stop_lon": "-122.841548",
-                        "stop_name": "NEWTON EXCHANGE BAY 8",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NEWTON EXCHANGE BAY 8",
-            "onestopId": "s-c28xs8mx02-newtonexchangebay8",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.834416,
-                    49.143377
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5748",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55693",
-                        "stop_desc": "140 ST @ 77A AVE",
-                        "stop_id": "5748",
-                        "stop_lat": "49.143377",
-                        "stop_lon": "-122.834416",
-                        "stop_name": "NB 140 ST NS 77A AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 140 ST NS 77A AV",
-            "onestopId": "s-c28xsf68yt-nb140ns77a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -3913,6 +3777,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.856984,
+                    49.15515
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5731",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55676",
+                        "stop_desc": "132 ST @ 84 AVE",
+                        "stop_id": "5731",
+                        "stop_lat": "49.15515",
+                        "stop_lon": "-122.856984",
+                        "stop_name": "SB 132 ST FS 84 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB 132 ST FS 84 AV",
+            "onestopId": "s-c28xsk6m8b-sb132fs84",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.856982,
                     49.169481
                 ],
@@ -4015,6 +3913,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.867855,
+                    49.155697
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5648",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55593",
+                        "stop_desc": "128 ST @ 84 AVE",
+                        "stop_id": "5648",
+                        "stop_lat": "49.155697",
+                        "stop_lon": "-122.867855",
+                        "stop_name": "NB 128 ST FS 84 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 128 ST FS 84 AV",
+            "onestopId": "s-c28xshd2eq-nb128fs84",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.846025,
                     49.17367
                 ],
@@ -4049,30 +3981,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.856561,
-                    49.131577
+                    -122.860735,
+                    49.141027
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5590",
+                    "identifier": "f-translink-s-5642",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55535",
-                        "stop_desc": "132 ST @ 70B AVE",
-                        "stop_id": "5590",
-                        "stop_lat": "49.131577",
-                        "stop_lon": "-122.856561",
-                        "stop_name": "NB 132 ST FS 70B AV",
+                        "stop_code": "55587",
+                        "stop_desc": "76 AVE @ 13000 BLOCK",
+                        "stop_id": "5642",
+                        "stop_lat": "49.141027",
+                        "stop_lon": "-122.860735",
+                        "stop_name": "WB 76 AV AT 13000 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 132 ST FS 70B AV",
-            "onestopId": "s-c28xs24s4t-nb132fs70b",
+            "name": "WB 76 AV AT 13000 BLOCK",
+            "onestopId": "s-c28xs1ze1r-wb76at13000block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4083,30 +4015,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.829433,
-                    49.133769
+                    -122.845797,
+                    49.136796
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5936",
+                    "identifier": "f-translink-s-5506",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55880",
-                        "stop_desc": "72 AVE @ 142 ST",
-                        "stop_id": "5936",
-                        "stop_lat": "49.133769",
-                        "stop_lon": "-122.829433",
-                        "stop_name": "WB 72 AV FS 142 ST",
+                        "stop_code": "55453",
+                        "stop_desc": "KING GEORGE BLVD @ 73A AVE",
+                        "stop_id": "5506",
+                        "stop_lat": "49.136796",
+                        "stop_lon": "-122.845797",
+                        "stop_name": "SB KING GEORGE BLVD NS 73A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 72 AV FS 142 ST",
-            "onestopId": "s-c28xsbw2fy-wb72fs142",
+            "name": "SB KING GEORGE BLVD NS 73A AV",
+            "onestopId": "s-c28xs946t6-sbkinggeorgens73a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4219,40 +4151,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.845901,
-                    49.147239
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5503",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55450",
-                        "stop_desc": "KING GEORGE BLVD @ 80 AVE",
-                        "stop_id": "5503",
-                        "stop_lat": "49.147239",
-                        "stop_lon": "-122.845901",
-                        "stop_name": "SB KING GEORGE BLVD FS 80 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB KING GEORGE BLVD FS 80 AV",
-            "onestopId": "s-c28xsdfr7j-sbkinggeorgefs80",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.857236,
                     49.133813
                 ],
@@ -4321,30 +4219,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.845465,
-                    49.14148
+                    -122.834397,
+                    49.172817
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5467",
+                    "identifier": "f-translink-s-5759",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55414",
-                        "stop_desc": "KING GEORGE BLVD @ 76 AVE",
-                        "stop_id": "5467",
-                        "stop_lat": "49.14148",
-                        "stop_lon": "-122.845465",
-                        "stop_name": "NB KING GEORGE BLVD FS 76 AV",
+                        "stop_code": "55704",
+                        "stop_desc": "140 ST @ 93A AVE",
+                        "stop_id": "5759",
+                        "stop_lat": "49.172817",
+                        "stop_lon": "-122.834397",
+                        "stop_name": "NB 140 ST FS 93A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB KING GEORGE BLVD FS 76 AV",
-            "onestopId": "s-c28xs9ftv5-nbkinggeorgefs76",
+            "name": "NB 140 ST FS 93A AV",
+            "onestopId": "s-c28xszdsrj-nb140fs93a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4593,6 +4491,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.867395,
+                    49.133798
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5998",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55942",
+                        "stop_desc": "72 AVE @ 128 ST",
+                        "stop_id": "5998",
+                        "stop_lat": "49.133798",
+                        "stop_lon": "-122.867395",
+                        "stop_name": "EB 72 AV FS 128 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB 72 AV FS 128 ST",
+            "onestopId": "s-c28xs0d9n5-eb72fs128",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.840055,
                     49.140218
                 ],
@@ -4695,30 +4627,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.834765,
-                    49.162433
+                    -122.834392,
+                    49.139685
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5781",
+                    "identifier": "f-translink-s-5747",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55726",
-                        "stop_desc": "140 ST @ 88 AVE",
-                        "stop_id": "5781",
-                        "stop_lat": "49.162433",
-                        "stop_lon": "-122.834765",
-                        "stop_name": "SB 140 ST FS 88 AV",
+                        "stop_code": "55692",
+                        "stop_desc": "140 ST @ 75 AVE",
+                        "stop_id": "5747",
+                        "stop_lat": "49.139685",
+                        "stop_lon": "-122.834392",
+                        "stop_name": "NB 140 ST FS 75 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 140 ST FS 88 AV",
-            "onestopId": "s-c28xsvdryt-sb140fs88",
+            "name": "NB 140 ST FS 75 AV",
+            "onestopId": "s-c28xscderj-nb140fs75",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4797,30 +4729,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.834397,
-                    49.172817
+                    -122.845465,
+                    49.14148
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5759",
+                    "identifier": "f-translink-s-5467",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55704",
-                        "stop_desc": "140 ST @ 93A AVE",
-                        "stop_id": "5759",
-                        "stop_lat": "49.172817",
-                        "stop_lon": "-122.834397",
-                        "stop_name": "NB 140 ST FS 93A AV",
+                        "stop_code": "55414",
+                        "stop_desc": "KING GEORGE BLVD @ 76 AVE",
+                        "stop_id": "5467",
+                        "stop_lat": "49.14148",
+                        "stop_lon": "-122.845465",
+                        "stop_name": "NB KING GEORGE BLVD FS 76 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 140 ST FS 93A AV",
-            "onestopId": "s-c28xszdsrj-nb140fs93a",
+            "name": "NB KING GEORGE BLVD FS 76 AV",
+            "onestopId": "s-c28xs9ftv5-nbkinggeorgefs76",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4865,30 +4797,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.867853,
-                    49.159231
+                    -122.856561,
+                    49.131577
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11864",
+                    "identifier": "f-translink-s-5590",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61777",
-                        "stop_desc": "128 ST @ 86 AVE",
-                        "stop_id": "11864",
-                        "stop_lat": "49.159231",
-                        "stop_lon": "-122.867853",
-                        "stop_name": "NB 128 ST FS 86 AV",
+                        "stop_code": "55535",
+                        "stop_desc": "132 ST @ 70B AVE",
+                        "stop_id": "5590",
+                        "stop_lat": "49.131577",
+                        "stop_lon": "-122.856561",
+                        "stop_name": "NB 132 ST FS 70B AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 128 ST FS 86 AV",
-            "onestopId": "s-c28xsj4m78-nb128fs86",
+            "name": "NB 132 ST FS 70B AV",
+            "onestopId": "s-c28xs24s4t-nb132fs70b",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -4923,6 +4855,40 @@
             ],
             "name": "NEWTON EXCHANGE BAY 5",
             "onestopId": "s-c28xs8kyyq-newtonexchangebay5",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.867853,
+                    49.159231
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11864",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61777",
+                        "stop_desc": "128 ST @ 86 AVE",
+                        "stop_id": "11864",
+                        "stop_lat": "49.159231",
+                        "stop_lon": "-122.867853",
+                        "stop_name": "NB 128 ST FS 86 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 128 ST FS 86 AV",
+            "onestopId": "s-c28xsj4m78-nb128fs86",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5035,30 +5001,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.845797,
-                    49.136796
+                    -122.829433,
+                    49.133769
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5506",
+                    "identifier": "f-translink-s-5936",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55453",
-                        "stop_desc": "KING GEORGE BLVD @ 73A AVE",
-                        "stop_id": "5506",
-                        "stop_lat": "49.136796",
-                        "stop_lon": "-122.845797",
-                        "stop_name": "SB KING GEORGE BLVD NS 73A AV",
+                        "stop_code": "55880",
+                        "stop_desc": "72 AVE @ 142 ST",
+                        "stop_id": "5936",
+                        "stop_lat": "49.133769",
+                        "stop_lon": "-122.829433",
+                        "stop_name": "WB 72 AV FS 142 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB KING GEORGE BLVD NS 73A AV",
-            "onestopId": "s-c28xs946t6-sbkinggeorgens73a",
+            "name": "WB 72 AV FS 142 ST",
+            "onestopId": "s-c28xsbw2fy-wb72fs142",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5137,30 +5103,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.838519,
-                    49.133938
+                    -122.834781,
+                    49.160191
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5634",
+                    "identifier": "f-translink-s-5782",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55579",
-                        "stop_desc": "138 ST @ 72 AVE",
-                        "stop_id": "5634",
-                        "stop_lat": "49.133938",
-                        "stop_lon": "-122.838519",
-                        "stop_name": "NB 138 ST FS 72 AV",
+                        "stop_code": "55727",
+                        "stop_desc": "140 ST @ 86A AVE",
+                        "stop_id": "5782",
+                        "stop_lat": "49.160191",
+                        "stop_lon": "-122.834781",
+                        "stop_name": "SB 140 ST FS 86A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 138 ST FS 72 AV",
-            "onestopId": "s-c28xs8x9zj-nb138fs72",
+            "name": "SB 140 ST FS 86A AV",
+            "onestopId": "s-c28xsv66y5-sb140fs86a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5195,6 +5161,40 @@
             ],
             "name": "WB 88 AV FS KING GEORGE BLVD",
             "onestopId": "s-c28xstcd79-wb88fskinggeorge",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.867916,
+                    49.171991
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5654",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55599",
+                        "stop_desc": "128 ST @ 93 AVE",
+                        "stop_id": "5654",
+                        "stop_lat": "49.171991",
+                        "stop_lon": "-122.867916",
+                        "stop_name": "NB 128 ST FS 93 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 128 ST FS 93 AV",
+            "onestopId": "s-c28xsp6rd5-nb128fs93",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5409,30 +5409,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.834781,
-                    49.160191
+                    -122.862851,
+                    49.133907
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5782",
+                    "identifier": "f-translink-s-6079",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55727",
-                        "stop_desc": "140 ST @ 86A AVE",
-                        "stop_id": "5782",
-                        "stop_lat": "49.160191",
-                        "stop_lon": "-122.834781",
-                        "stop_name": "SB 140 ST FS 86A AV",
+                        "stop_code": "56021",
+                        "stop_desc": "72 AVE @ 130 ST",
+                        "stop_id": "6079",
+                        "stop_lat": "49.133907",
+                        "stop_lon": "-122.862851",
+                        "stop_name": "WB 72 AV FS 130 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 140 ST FS 86A AV",
-            "onestopId": "s-c28xsv66y5-sb140fs86a",
+            "name": "WB 72 AV FS 130 ST",
+            "onestopId": "s-c28xs0w1b0-wb72fs130",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5851,30 +5851,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.856644,
-                    49.141376
+                    -122.834676,
+                    49.174474
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5708",
+                    "identifier": "f-translink-s-5778",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55653",
-                        "stop_desc": "132 ST @ 76 AVE",
-                        "stop_id": "5708",
-                        "stop_lat": "49.141376",
-                        "stop_lon": "-122.856644",
-                        "stop_name": "NB 132 ST FS 76 AV",
+                        "stop_code": "55723",
+                        "stop_desc": "140 ST @ 94A AVE",
+                        "stop_id": "5778",
+                        "stop_lat": "49.174474",
+                        "stop_lon": "-122.834676",
+                        "stop_name": "SB 140 ST FS 94A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 132 ST FS 76 AV",
-            "onestopId": "s-c28xs3ft28-nb132fs76",
+            "name": "SB 140 ST FS 94A AV",
+            "onestopId": "s-c28xszfw0d-sb140fs94a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -5919,74 +5919,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.856984,
-                    49.15515
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5731",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55676",
-                        "stop_desc": "132 ST @ 84 AVE",
-                        "stop_id": "5731",
-                        "stop_lat": "49.15515",
-                        "stop_lon": "-122.856984",
-                        "stop_name": "SB 132 ST FS 84 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 132 ST FS 84 AV",
-            "onestopId": "s-c28xsk6m8b-sb132fs84",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.835189,
-                    49.162869
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-11135",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61201",
-                        "stop_desc": "88 AVE @ 140 ST",
-                        "stop_id": "11135",
-                        "stop_lat": "49.162869",
-                        "stop_lon": "-122.835189",
-                        "stop_name": "WB 88 AV FS 140 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB 88 AV FS 140 ST",
-            "onestopId": "s-c28xsvf4kx-wb88fs140",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.834515,
                     49.160704
                 ],
@@ -6011,6 +5943,74 @@
             ],
             "name": "NB 140 ST FS 86A AV",
             "onestopId": "s-c28xsv6tu7-nb140fs86a",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.838789,
+                    49.136935
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5699",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55644",
+                        "stop_desc": "138 ST @ 74 AVE",
+                        "stop_id": "5699",
+                        "stop_lat": "49.136935",
+                        "stop_lon": "-122.838789",
+                        "stop_name": "SB 138 ST FS 74 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB 138 ST FS 74 AV",
+            "onestopId": "s-c28xs9pe2u-sb138fs74",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.856727,
+                    49.152928
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5712",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55657",
+                        "stop_desc": "132 ST @ 82A AVE",
+                        "stop_id": "5712",
+                        "stop_lat": "49.152928",
+                        "stop_lon": "-122.856727",
+                        "stop_name": "NB 132 ST FS 82A AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 132 ST FS 82A AV",
+            "onestopId": "s-c28xsk42wc-nb132fs82a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

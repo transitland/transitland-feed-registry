@@ -251,27 +251,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.032112741,
-                    37.320069109
+                    -122.014286259,
+                    37.310407096
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-2313",
+                    "identifier": "f-vta-s-840",
                     "tags": {
-                        "stop_code": "62313",
+                        "stop_code": "60840",
                         "stop_desc": "",
-                        "stop_id": "2313",
-                        "stop_lat": "37.320069109000002",
-                        "stop_lon": "-122.03211274100001",
-                        "stop_name": "DE ANZA & SUNRISE",
+                        "stop_id": "840",
+                        "stop_lat": "37.310407095999999",
+                        "stop_lon": "-122.014286259",
+                        "stop_name": "BOLLINGER & MILLER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "DE ANZA & SUNRISE",
-            "onestopId": "s-9q9hr1fvjt-deanza~sunrise",
+            "name": "BOLLINGER & MILLER",
+            "onestopId": "s-9q9hr2puv5-bollinger~miller",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -458,37 +458,6 @@
             ],
             "name": "SUNNYVALE-SARATOGA & LA CONNER",
             "onestopId": "s-9q9hrjdfkx-sunnyvalesaratoga~laconner",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.005471773,
-                    37.335958238
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-4093",
-                    "tags": {
-                        "stop_code": "64093",
-                        "stop_desc": "",
-                        "stop_id": "4093",
-                        "stop_lat": "37.335958238000003",
-                        "stop_lon": "-122.005471773",
-                        "stop_name": "TANTAU & HOMESTEAD",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "TANTAU & HOMESTEAD",
-            "onestopId": "s-9q9hrsy3dr-tantau~homestead",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1150,27 +1119,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.999013122,
-                    37.337630341
+                    -122.013716515,
+                    37.322808875
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3971",
+                    "identifier": "f-vta-s-571",
                     "tags": {
-                        "stop_code": "63971",
+                        "stop_code": "60571",
                         "stop_desc": "",
-                        "stop_id": "3971",
-                        "stop_lat": "37.337630341000001",
-                        "stop_lon": "-121.99901312199999",
-                        "stop_name": "HOMESTEAD & LAWRENCE",
+                        "stop_id": "571",
+                        "stop_lat": "37.322808875",
+                        "stop_lon": "-122.013716515",
+                        "stop_name": "STEVENS CREEK & MILLER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "HOMESTEAD & LAWRENCE",
-            "onestopId": "s-9q9hrv552y-homestead~lawrence",
+            "name": "STEVENS CREEK & MILLER",
+            "onestopId": "s-9q9hrd2m47-stevenscreek~miller",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1264,6 +1233,37 @@
             ],
             "name": "BOLLINGER & TANTAU",
             "onestopId": "s-9q9hr8hr4m-bollinger~tantau",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.009638841,
+                    37.322841714
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-572",
+                    "tags": {
+                        "stop_code": "60572",
+                        "stop_desc": "",
+                        "stop_id": "572",
+                        "stop_lat": "37.322841713999999",
+                        "stop_lon": "-122.009638841",
+                        "stop_name": "STEVENS CREEK & FINCH",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "STEVENS CREEK & FINCH",
+            "onestopId": "s-9q9hrd7m33-stevenscreek~finch",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1398,27 +1398,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.013716515,
-                    37.322808875
+                    -121.999013122,
+                    37.337630341
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-571",
+                    "identifier": "f-vta-s-3971",
                     "tags": {
-                        "stop_code": "60571",
+                        "stop_code": "63971",
                         "stop_desc": "",
-                        "stop_id": "571",
-                        "stop_lat": "37.322808875",
-                        "stop_lon": "-122.013716515",
-                        "stop_name": "STEVENS CREEK & MILLER",
+                        "stop_id": "3971",
+                        "stop_lat": "37.337630341000001",
+                        "stop_lon": "-121.99901312199999",
+                        "stop_name": "HOMESTEAD & LAWRENCE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "STEVENS CREEK & MILLER",
-            "onestopId": "s-9q9hrd2m47-stevenscreek~miller",
+            "name": "HOMESTEAD & LAWRENCE",
+            "onestopId": "s-9q9hrv552y-homestead~lawrence",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1522,27 +1522,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.0078581,
-                    37.35233956
+                    -122.005471773,
+                    37.335958238
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-479",
+                    "identifier": "f-vta-s-4093",
                     "tags": {
-                        "stop_code": "60479",
+                        "stop_code": "64093",
                         "stop_desc": "",
-                        "stop_id": "479",
-                        "stop_lat": "37.352339559999997",
-                        "stop_lon": "-122.00785810000001",
-                        "stop_name": "EL CAMINO & POPLAR",
+                        "stop_id": "4093",
+                        "stop_lat": "37.335958238000003",
+                        "stop_lon": "-122.005471773",
+                        "stop_name": "TANTAU & HOMESTEAD",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "EL CAMINO & POPLAR",
-            "onestopId": "s-9q9hrxu94u-elcamino~poplar",
+            "name": "TANTAU & HOMESTEAD",
+            "onestopId": "s-9q9hrsy3dr-tantau~homestead",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1553,27 +1553,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.009638841,
-                    37.322841714
+                    -122.02615898,
+                    37.310816921
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-572",
+                    "identifier": "f-vta-s-843",
                     "tags": {
-                        "stop_code": "60572",
+                        "stop_code": "60843",
                         "stop_desc": "",
-                        "stop_id": "572",
-                        "stop_lat": "37.322841713999999",
-                        "stop_lon": "-122.009638841",
-                        "stop_name": "STEVENS CREEK & FINCH",
+                        "stop_id": "843",
+                        "stop_lat": "37.310816920999997",
+                        "stop_lon": "-122.02615898000001",
+                        "stop_name": "BOLLINGER & FARALONE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "STEVENS CREEK & FINCH",
-            "onestopId": "s-9q9hrd7m33-stevenscreek~finch",
+            "name": "BOLLINGER & FARALONE",
+            "onestopId": "s-9q9hr0pr22-bollinger~faralone",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1615,27 +1615,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.014286259,
-                    37.310407096
+                    -122.014619901,
+                    37.326974251
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-840",
+                    "identifier": "f-vta-s-881",
                     "tags": {
-                        "stop_code": "60840",
+                        "stop_code": "60881",
                         "stop_desc": "",
-                        "stop_id": "840",
-                        "stop_lat": "37.310407095999999",
-                        "stop_lon": "-122.014286259",
-                        "stop_name": "BOLLINGER & MILLER",
+                        "stop_id": "881",
+                        "stop_lat": "37.326974251000003",
+                        "stop_lon": "-122.014619901",
+                        "stop_name": "WOLFE @ VALLCO MALL",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BOLLINGER & MILLER",
-            "onestopId": "s-9q9hr2puv5-bollinger~miller",
+            "name": "WOLFE @ VALLCO MALL",
+            "onestopId": "s-9q9hr7ptmk-wolfe~vallcomall",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.014328632,
+                    37.345561774
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-877",
+                    "tags": {
+                        "stop_code": "60877",
+                        "stop_desc": "",
+                        "stop_id": "877",
+                        "stop_lat": "37.345561773999997",
+                        "stop_lon": "-122.014328632",
+                        "stop_name": "WOLFE & MARION",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "WOLFE & MARION",
+            "onestopId": "s-9q9hrqxcsj-wolfe~marion",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1739,27 +1770,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.014619901,
-                    37.326974251
+                    -122.032165956,
+                    37.343480731
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-881",
+                    "identifier": "f-vta-s-2319",
                     "tags": {
-                        "stop_code": "60881",
+                        "stop_code": "62319",
                         "stop_desc": "",
-                        "stop_id": "881",
-                        "stop_lat": "37.326974251000003",
-                        "stop_lon": "-122.014619901",
-                        "stop_name": "WOLFE @ VALLCO MALL",
+                        "stop_id": "2319",
+                        "stop_lat": "37.343480731",
+                        "stop_lon": "-122.032165956",
+                        "stop_name": "SUNNYVALE-SARATOGA & HARWICK",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WOLFE @ VALLCO MALL",
-            "onestopId": "s-9q9hr7ptmk-wolfe~vallcomall",
+            "name": "SUNNYVALE-SARATOGA & HARWICK",
+            "onestopId": "s-9q9hrn4vs3-sunnyvalesaratoga~harwick",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1894,27 +1925,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.000227254,
-                    37.337876776
+                    -122.019269242,
+                    37.322812411
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-4091",
+                    "identifier": "f-vta-s-570",
                     "tags": {
-                        "stop_code": "64091",
+                        "stop_code": "60570",
                         "stop_desc": "",
-                        "stop_id": "4091",
-                        "stop_lat": "37.337876776000002",
-                        "stop_lon": "-122.000227254",
-                        "stop_name": "HOMESTEAD & CALABAZAS CRK",
+                        "stop_id": "570",
+                        "stop_lat": "37.322812411000001",
+                        "stop_lon": "-122.01926924199999",
+                        "stop_name": "STEVENS CREEK & PORTAL",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "HOMESTEAD & CALABAZAS CRK",
-            "onestopId": "s-9q9hrv4hus-homestead~calabazascrk",
+            "name": "STEVENS CREEK & PORTAL",
+            "onestopId": "s-9q9hr6km0u-stevenscreek~portal",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1925,27 +1956,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.013999915,
-                    37.352503283
+                    -121.99381823,
+                    37.35250243
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1020",
+                    "identifier": "f-vta-s-476",
                     "tags": {
-                        "stop_code": "61020",
+                        "stop_code": "60476",
                         "stop_desc": "",
-                        "stop_id": "1020",
-                        "stop_lat": "37.352503282999997",
-                        "stop_lon": "-122.013999915",
-                        "stop_name": "WOLFE & EL CAMINO (NS)",
+                        "stop_id": "476",
+                        "stop_lat": "37.352502430000001",
+                        "stop_lon": "-121.99381823",
+                        "stop_name": "EL CAMINO & FLORA VISTA",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WOLFE & EL CAMINO (NS)",
-            "onestopId": "s-9q9hrxb45e-wolfe~elcaminons",
+            "name": "EL CAMINO & FLORA VISTA",
+            "onestopId": "s-9q9hrzyf45-elcamino~floravista",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2008,37 +2039,6 @@
             ],
             "name": "HOMESTEAD & PRINCETON",
             "onestopId": "s-9q9hrvpsp3-homestead~princeton",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.033203795,
-                    37.323039052
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-660",
-                    "tags": {
-                        "stop_code": "60660",
-                        "stop_desc": "",
-                        "stop_id": "660",
-                        "stop_lat": "37.323039051999999",
-                        "stop_lon": "-122.03320379500001",
-                        "stop_name": "STEVENS CREEK & DE ANZA",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "STEVENS CREEK & DE ANZA",
-            "onestopId": "s-9q9hr46nkq-stevenscreek~deanza",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2607,37 +2607,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.014328632,
-                    37.345561774
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-877",
-                    "tags": {
-                        "stop_code": "60877",
-                        "stop_desc": "",
-                        "stop_id": "877",
-                        "stop_lat": "37.345561773999997",
-                        "stop_lon": "-122.014328632",
-                        "stop_name": "WOLFE & MARION",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "WOLFE & MARION",
-            "onestopId": "s-9q9hrqxcsj-wolfe~marion",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.013265631,
                     37.313553989
                 ],
@@ -2700,37 +2669,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.032165956,
-                    37.343480731
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-2319",
-                    "tags": {
-                        "stop_code": "62319",
-                        "stop_desc": "",
-                        "stop_id": "2319",
-                        "stop_lat": "37.343480731",
-                        "stop_lon": "-122.032165956",
-                        "stop_name": "SUNNYVALE-SARATOGA & HARWICK",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "SUNNYVALE-SARATOGA & HARWICK",
-            "onestopId": "s-9q9hrn4vs3-sunnyvalesaratoga~harwick",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.014354997,
                     37.348210281
                 ],
@@ -2762,27 +2700,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.02615898,
-                    37.310816921
+                    -122.033203795,
+                    37.323039052
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-843",
+                    "identifier": "f-vta-s-660",
                     "tags": {
-                        "stop_code": "60843",
+                        "stop_code": "60660",
                         "stop_desc": "",
-                        "stop_id": "843",
-                        "stop_lat": "37.310816920999997",
-                        "stop_lon": "-122.02615898000001",
-                        "stop_name": "BOLLINGER & FARALONE",
+                        "stop_id": "660",
+                        "stop_lat": "37.323039051999999",
+                        "stop_lon": "-122.03320379500001",
+                        "stop_name": "STEVENS CREEK & DE ANZA",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "BOLLINGER & FARALONE",
-            "onestopId": "s-9q9hr0pr22-bollinger~faralone",
+            "name": "STEVENS CREEK & DE ANZA",
+            "onestopId": "s-9q9hr46nkq-stevenscreek~deanza",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -3134,6 +3072,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.032112741,
+                    37.320069109
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-2313",
+                    "tags": {
+                        "stop_code": "62313",
+                        "stop_desc": "",
+                        "stop_id": "2313",
+                        "stop_lat": "37.320069109000002",
+                        "stop_lon": "-122.03211274100001",
+                        "stop_name": "DE ANZA & SUNRISE",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "DE ANZA & SUNRISE",
+            "onestopId": "s-9q9hr1fvjt-deanza~sunrise",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.014080543,
                     37.321908007
                 ],
@@ -3196,27 +3165,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.019269242,
-                    37.322812411
+                    -122.0078581,
+                    37.35233956
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-570",
+                    "identifier": "f-vta-s-479",
                     "tags": {
-                        "stop_code": "60570",
+                        "stop_code": "60479",
                         "stop_desc": "",
-                        "stop_id": "570",
-                        "stop_lat": "37.322812411000001",
-                        "stop_lon": "-122.01926924199999",
-                        "stop_name": "STEVENS CREEK & PORTAL",
+                        "stop_id": "479",
+                        "stop_lat": "37.352339559999997",
+                        "stop_lon": "-122.00785810000001",
+                        "stop_name": "EL CAMINO & POPLAR",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "STEVENS CREEK & PORTAL",
-            "onestopId": "s-9q9hr6km0u-stevenscreek~portal",
+            "name": "EL CAMINO & POPLAR",
+            "onestopId": "s-9q9hrxu94u-elcamino~poplar",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.000227254,
+                    37.337876776
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-4091",
+                    "tags": {
+                        "stop_code": "64091",
+                        "stop_desc": "",
+                        "stop_id": "4091",
+                        "stop_lat": "37.337876776000002",
+                        "stop_lon": "-122.000227254",
+                        "stop_name": "HOMESTEAD & CALABAZAS CRK",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "HOMESTEAD & CALABAZAS CRK",
+            "onestopId": "s-9q9hrv4hus-homestead~calabazascrk",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -3289,27 +3289,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.99381823,
-                    37.35250243
+                    -122.013999915,
+                    37.352503283
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-476",
+                    "identifier": "f-vta-s-1020",
                     "tags": {
-                        "stop_code": "60476",
+                        "stop_code": "61020",
                         "stop_desc": "",
-                        "stop_id": "476",
-                        "stop_lat": "37.352502430000001",
-                        "stop_lon": "-121.99381823",
-                        "stop_name": "EL CAMINO & FLORA VISTA",
+                        "stop_id": "1020",
+                        "stop_lat": "37.352503282999997",
+                        "stop_lon": "-122.013999915",
+                        "stop_name": "WOLFE & EL CAMINO (NS)",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "EL CAMINO & FLORA VISTA",
-            "onestopId": "s-9q9hrzyf45-elcamino~floravista",
+            "name": "WOLFE & EL CAMINO (NS)",
+            "onestopId": "s-9q9hrxb45e-wolfe~elcaminons",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

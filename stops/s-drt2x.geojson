@@ -38,31 +38,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.054305,
-                    42.295845
+                    -71.058222,
+                    42.308242
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-8327",
+                    "identifier": "f-mbta-s-349",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8327",
+                        "stop_code": "349",
                         "stop_desc": "",
-                        "stop_id": "8327",
-                        "stop_lat": "42.295845",
-                        "stop_lon": "-71.054305",
-                        "stop_name": "Neponset Ave @ Victory Rd",
+                        "stop_id": "349",
+                        "stop_lat": "42.308242",
+                        "stop_lon": "-71.058222",
+                        "stop_name": "Dorchester Ave @ Hoyt St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Neponset Ave @ Victory Rd",
-            "onestopId": "s-drt2x5ez4s-neponset~victory",
+            "name": "Dorchester Ave @ Hoyt St",
+            "onestopId": "s-drt2xjbzr7-dorchester~hoyt",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -213,31 +213,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.040217,
-                    42.317071
+                    -71.019672,
+                    42.276832
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-142",
+                    "identifier": "f-mbta-s-3213",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "142",
+                        "stop_code": "3213",
                         "stop_desc": "",
-                        "stop_id": "142",
-                        "stop_lat": "42.317071",
-                        "stop_lon": "-71.040217",
-                        "stop_name": "Mt Vernon St @ South Point Dr",
+                        "stop_id": "3213",
+                        "stop_lat": "42.276832",
+                        "stop_lon": "-71.019672",
+                        "stop_name": "Billings Rd @ French St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Mt Vernon St @ South Point Dr",
-            "onestopId": "s-drt2xrw4fc-mtvernon~southpoint",
+            "name": "Billings Rd @ French St",
+            "onestopId": "s-drt2xbm03s-billings~french",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -633,6 +633,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -71.036114,
+                    42.312007
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-11111",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11111",
+                        "stop_desc": "",
+                        "stop_id": "11111",
+                        "stop_lat": "42.312007",
+                        "stop_lon": "-71.036114",
+                        "stop_name": "UMass Boston Busway",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "UMass Boston Busway",
+            "onestopId": "s-drt2xw9j69-umassbostonbusway",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -71.057257,
                     42.298223
                 ],
@@ -658,6 +693,41 @@
             ],
             "name": "Gibson St @ Adams St",
             "onestopId": "s-drt2xh1tjb-gibson~adams",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.040217,
+                    42.317071
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-142",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "142",
+                        "stop_desc": "",
+                        "stop_id": "142",
+                        "stop_lat": "42.317071",
+                        "stop_lon": "-71.040217",
+                        "stop_name": "Mt Vernon St @ South Point Dr",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Mt Vernon St @ South Point Dr",
+            "onestopId": "s-drt2xrw4fc-mtvernon~southpoint",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1053,41 +1123,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.057136,
-                    42.298154
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-3066",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3066",
-                        "stop_desc": "",
-                        "stop_id": "3066",
-                        "stop_lat": "42.298154",
-                        "stop_lon": "-71.057136",
-                        "stop_name": "Gibson St @ Adams St",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Gibson St @ Adams St",
-            "onestopId": "s-drt2xh1u8e-gibson~adams",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.024732,
                     42.285003
                 ],
@@ -1158,31 +1193,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.04401,
-                    42.286327
+                    -71.055221,
+                    42.288174
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3075",
+                    "identifier": "f-mbta-s-3082",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3075",
+                        "stop_code": "3082",
                         "stop_desc": "",
-                        "stop_id": "3075",
-                        "stop_lat": "42.286327",
-                        "stop_lon": "-71.04401",
-                        "stop_name": "Neponset Ave @ Minot St",
+                        "stop_id": "3082",
+                        "stop_lat": "42.288174",
+                        "stop_lon": "-71.055221",
+                        "stop_name": "Adams St @ Ashmont St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Neponset Ave @ Minot St",
-            "onestopId": "s-drt2x3grdw-neponset~minot",
+            "name": "Adams St @ Ashmont St",
+            "onestopId": "s-drt2x474mq-adams~ashmont",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1333,41 +1368,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.042227,
-                    42.28679
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-8801",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "8801",
-                        "stop_desc": "",
-                        "stop_id": "8801",
-                        "stop_lat": "42.28679",
-                        "stop_lon": "-71.042227",
-                        "stop_name": "Neponset Circle @ Walnut St",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Neponset Circle @ Walnut St",
-            "onestopId": "s-drt2x6hdkh-neponsetcircle~walnut",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.017683,
                     42.276986
                 ],
@@ -1508,31 +1508,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.058222,
-                    42.308242
+                    -71.054305,
+                    42.295845
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-349",
+                    "identifier": "f-mbta-s-8327",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "349",
+                        "stop_code": "8327",
                         "stop_desc": "",
-                        "stop_id": "349",
-                        "stop_lat": "42.308242",
-                        "stop_lon": "-71.058222",
-                        "stop_name": "Dorchester Ave @ Hoyt St",
+                        "stop_id": "8327",
+                        "stop_lat": "42.295845",
+                        "stop_lon": "-71.054305",
+                        "stop_name": "Neponset Ave @ Victory Rd",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Dorchester Ave @ Hoyt St",
-            "onestopId": "s-drt2xjbzr7-dorchester~hoyt",
+            "name": "Neponset Ave @ Victory Rd",
+            "onestopId": "s-drt2x5ez4s-neponset~victory",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -1998,31 +1998,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.047238,
-                    42.288645
+                    -71.02468,
+                    42.284042
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-8805",
+                    "identifier": "f-mbta-s-3160",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "8805",
+                        "stop_code": "3160",
                         "stop_desc": "",
-                        "stop_id": "8805",
-                        "stop_lat": "42.288645",
-                        "stop_lon": "-71.047238",
-                        "stop_name": "Neponset Ave @ Tolman St",
+                        "stop_id": "3160",
+                        "stop_lat": "42.284042",
+                        "stop_lon": "-71.02468",
+                        "stop_name": "E Squantun St @ Atlantic St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Neponset Ave @ Tolman St",
-            "onestopId": "s-drt2x62vpq-neponset~tolman",
+            "name": "E Squantun St @ Atlantic St",
+            "onestopId": "s-drt2xc96mh-esquantun~atlantic",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2103,31 +2103,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.057242,
-                    42.293022
+                    -71.057091,
+                    42.291359
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3085",
+                    "identifier": "f-mbta-s-3084",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3085",
+                        "stop_code": "3084",
                         "stop_desc": "",
-                        "stop_id": "3085",
-                        "stop_lat": "42.293022",
-                        "stop_lon": "-71.057242",
-                        "stop_name": "Adams St @ King St",
+                        "stop_id": "3084",
+                        "stop_lat": "42.291359",
+                        "stop_lon": "-71.057091",
+                        "stop_name": "Adams St opp Lonsdale St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Adams St @ King St",
-            "onestopId": "s-drt2x51wwq-adams~king",
+            "name": "Adams St opp Lonsdale St",
+            "onestopId": "s-drt2x4cv1b-adamsopplonsdale",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2138,31 +2138,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.02468,
-                    42.284042
+                    -71.047238,
+                    42.288645
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3160",
+                    "identifier": "f-mbta-s-8805",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3160",
+                        "stop_code": "8805",
                         "stop_desc": "",
-                        "stop_id": "3160",
-                        "stop_lat": "42.284042",
-                        "stop_lon": "-71.02468",
-                        "stop_name": "E Squantun St @ Atlantic St",
+                        "stop_id": "8805",
+                        "stop_lat": "42.288645",
+                        "stop_lon": "-71.047238",
+                        "stop_name": "Neponset Ave @ Tolman St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "E Squantun St @ Atlantic St",
-            "onestopId": "s-drt2xc96mh-esquantun~atlantic",
+            "name": "Neponset Ave @ Tolman St",
+            "onestopId": "s-drt2x62vpq-neponset~tolman",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2418,31 +2418,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.019672,
-                    42.276832
+                    -71.057242,
+                    42.293022
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3213",
+                    "identifier": "f-mbta-s-3085",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3213",
+                        "stop_code": "3085",
                         "stop_desc": "",
-                        "stop_id": "3213",
-                        "stop_lat": "42.276832",
-                        "stop_lon": "-71.019672",
-                        "stop_name": "Billings Rd @ French St",
+                        "stop_id": "3085",
+                        "stop_lat": "42.293022",
+                        "stop_lon": "-71.057242",
+                        "stop_name": "Adams St @ King St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Billings Rd @ French St",
-            "onestopId": "s-drt2xbm03s-billings~french",
+            "name": "Adams St @ King St",
+            "onestopId": "s-drt2x51wwq-adams~king",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -2628,31 +2628,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.056242,
-                    42.294907
+                    -71.056646,
+                    42.318751
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3086",
+                    "identifier": "f-mbta-s-354",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3086",
+                        "stop_code": "354",
                         "stop_desc": "",
-                        "stop_id": "3086",
-                        "stop_lat": "42.294907",
-                        "stop_lon": "-71.056242",
-                        "stop_name": "Adams St @ Elmdale St",
+                        "stop_id": "354",
+                        "stop_lat": "42.318751",
+                        "stop_lon": "-71.056646",
+                        "stop_name": "Dorchester Ave @ Crescent Ave",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Adams St @ Elmdale St",
-            "onestopId": "s-drt2x5d3tw-adams~elmdale",
+            "name": "Dorchester Ave @ Crescent Ave",
+            "onestopId": "s-drt2xpfhs4-dorchester~crescent",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3013,31 +3013,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.055221,
-                    42.288174
+                    -71.04401,
+                    42.286327
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3082",
+                    "identifier": "f-mbta-s-3075",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3082",
+                        "stop_code": "3075",
                         "stop_desc": "",
-                        "stop_id": "3082",
-                        "stop_lat": "42.288174",
-                        "stop_lon": "-71.055221",
-                        "stop_name": "Adams St @ Ashmont St",
+                        "stop_id": "3075",
+                        "stop_lat": "42.286327",
+                        "stop_lon": "-71.04401",
+                        "stop_name": "Neponset Ave @ Minot St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Adams St @ Ashmont St",
-            "onestopId": "s-drt2x474mq-adams~ashmont",
+            "name": "Neponset Ave @ Minot St",
+            "onestopId": "s-drt2x3grdw-neponset~minot",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3118,31 +3118,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.057091,
-                    42.291359
+                    -71.042227,
+                    42.28679
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3084",
+                    "identifier": "f-mbta-s-8801",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3084",
+                        "stop_code": "8801",
                         "stop_desc": "",
-                        "stop_id": "3084",
-                        "stop_lat": "42.291359",
-                        "stop_lon": "-71.057091",
-                        "stop_name": "Adams St opp Lonsdale St",
+                        "stop_id": "8801",
+                        "stop_lat": "42.28679",
+                        "stop_lon": "-71.042227",
+                        "stop_name": "Neponset Circle @ Walnut St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Adams St opp Lonsdale St",
-            "onestopId": "s-drt2x4cv1b-adamsopplonsdale",
+            "name": "Neponset Circle @ Walnut St",
+            "onestopId": "s-drt2x6hdkh-neponsetcircle~walnut",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -3608,31 +3608,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.056646,
-                    42.318751
+                    -71.056242,
+                    42.294907
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-354",
+                    "identifier": "f-mbta-s-3086",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "354",
+                        "stop_code": "3086",
                         "stop_desc": "",
-                        "stop_id": "354",
-                        "stop_lat": "42.318751",
-                        "stop_lon": "-71.056646",
-                        "stop_name": "Dorchester Ave @ Crescent Ave",
+                        "stop_id": "3086",
+                        "stop_lat": "42.294907",
+                        "stop_lon": "-71.056242",
+                        "stop_name": "Adams St @ Elmdale St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Dorchester Ave @ Crescent Ave",
-            "onestopId": "s-drt2xpfhs4-dorchester~crescent",
+            "name": "Adams St @ Elmdale St",
+            "onestopId": "s-drt2x5d3tw-adams~elmdale",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -4693,31 +4693,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.036114,
-                    42.312007
+                    -71.057136,
+                    42.298154
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-11111",
+                    "identifier": "f-mbta-s-3066",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11111",
+                        "stop_code": "3066",
                         "stop_desc": "",
-                        "stop_id": "11111",
-                        "stop_lat": "42.312007",
-                        "stop_lon": "-71.036114",
-                        "stop_name": "UMass Boston Busway",
+                        "stop_id": "3066",
+                        "stop_lat": "42.298154",
+                        "stop_lon": "-71.057136",
+                        "stop_name": "Gibson St @ Adams St",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "UMass Boston Busway",
-            "onestopId": "s-drt2xw9j69-umassbostonbusway",
+            "name": "Gibson St @ Adams St",
+            "onestopId": "s-drt2xh1u8e-gibson~adams",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

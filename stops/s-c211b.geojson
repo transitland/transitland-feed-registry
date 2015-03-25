@@ -39,6 +39,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.343322,
+                    45.323908
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10275",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "10275",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 10275)",
+                        "stop_id": "10275",
+                        "stop_lat": "45.323908",
+                        "stop_lon": "-122.343322",
+                        "stop_name": "27500 Block SE Eagle Creek Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10275",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "27500 Block SE Eagle Creek Rd",
+            "onestopId": "s-c211b4bqcu-27500blockseeaglecreek",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.341646,
                     45.311447
                 ],
@@ -183,32 +219,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.343322,
-                    45.323908
+                    -122.343047,
+                    45.315369
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10275",
+                    "identifier": "f-trimet-s-10836",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "10275",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 10275)",
-                        "stop_id": "10275",
-                        "stop_lat": "45.323908",
-                        "stop_lon": "-122.343322",
-                        "stop_name": "27500 Block SE Eagle Creek Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10275",
+                        "position": "Farside",
+                        "stop_code": "10836",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 10836)",
+                        "stop_id": "10836",
+                        "stop_lat": "45.315369",
+                        "stop_lon": "-122.343047",
+                        "stop_name": "SE Eagle Creek Rd & Duus Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10836",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "27500 Block SE Eagle Creek Rd",
-            "onestopId": "s-c211b4bqcu-27500blockseeaglecreek",
+            "name": "SE Eagle Creek Rd & Duus Rd",
+            "onestopId": "s-c211b12t0m-seeaglecreek~duus",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -317,42 +353,6 @@
             ],
             "name": "29200 Block SE Eagle Creek Rd",
             "onestopId": "s-c211b09wr0-29200blockseeaglecreek",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.343047,
-                    45.315369
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10836",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10836",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 10836)",
-                        "stop_id": "10836",
-                        "stop_lat": "45.315369",
-                        "stop_lon": "-122.343047",
-                        "stop_name": "SE Eagle Creek Rd & Duus Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10836",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Eagle Creek Rd & Duus Rd",
-            "onestopId": "s-c211b12t0m-seeaglecreek~duus",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

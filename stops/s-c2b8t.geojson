@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.79085,
-                    49.31736
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9247",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58852",
-                        "stop_desc": "PLATEAU BLVD @ CHARTWELL GRN",
-                        "stop_id": "9247",
-                        "stop_lat": "49.31736",
-                        "stop_lon": "-122.79085",
-                        "stop_name": "NB PLATEAU BLVD FS CHARTWELL GRN",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB PLATEAU BLVD FS CHARTWELL GRN",
-            "onestopId": "s-c2b8tcfqmy-nbplateaufschartwellgrn",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.78598,
                     49.307259
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "SB PINETREE WAY FS PLATEAU BLVD",
             "onestopId": "s-c2b8tbjgx7-sbpinetreefsplateau",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79085,
+                    49.31736
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-9247",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58852",
+                        "stop_desc": "PLATEAU BLVD @ CHARTWELL GRN",
+                        "stop_id": "9247",
+                        "stop_lat": "49.31736",
+                        "stop_lon": "-122.79085",
+                        "stop_name": "NB PLATEAU BLVD FS CHARTWELL GRN",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB PLATEAU BLVD FS CHARTWELL GRN",
+            "onestopId": "s-c2b8tcfqmy-nbplateaufschartwellgrn",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

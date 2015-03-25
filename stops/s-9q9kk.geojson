@@ -3,6 +3,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.808129172,
+                    37.313781258
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1232",
+                    "tags": {
+                        "stop_code": "61232",
+                        "stop_desc": "",
+                        "stop_id": "1232",
+                        "stop_lat": "37.313781257999999",
+                        "stop_lon": "-121.80812917199999",
+                        "stop_name": "CAPITOL & ABORN",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "CAPITOL & ABORN",
+            "onestopId": "s-9q9kk0y08b-capitol~aborn",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.799579858,
                     37.333099303
                 ],
@@ -24,6 +55,37 @@
             ],
             "name": "WHITE & BON BON",
             "onestopId": "s-9q9kkkk304-white~bonbon",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.79703484,
+                    37.325673842
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3592",
+                    "tags": {
+                        "stop_code": "63592",
+                        "stop_desc": "",
+                        "stop_id": "3592",
+                        "stop_lat": "37.325673842",
+                        "stop_lon": "-121.79703483999999",
+                        "stop_name": "WHITE & QUIMBY",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "WHITE & QUIMBY",
+            "onestopId": "s-9q9kk6yjg3-white~quimby",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -96,27 +158,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.813336602,
-                    37.322585138
+                    -121.782705547,
+                    37.324974391
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3906",
+                    "identifier": "f-vta-s-1858",
                     "tags": {
-                        "stop_code": "63906",
+                        "stop_code": "61858",
                         "stop_desc": "",
-                        "stop_id": "3906",
-                        "stop_lat": "37.322585138000001",
-                        "stop_lon": "-121.81333660200001",
-                        "stop_name": "QUIMBY & EASTRIDGE",
+                        "stop_id": "1858",
+                        "stop_lat": "37.324974390999998",
+                        "stop_lon": "-121.78270554700001",
+                        "stop_name": "QUIMBY & RUBY",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & EASTRIDGE",
-            "onestopId": "s-9q9kk465zd-quimby~eastridge",
+            "name": "QUIMBY & RUBY",
+            "onestopId": "s-9q9kkfb99r-quimby~ruby",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -220,27 +282,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.811118,
-                    37.327474
+                    -121.811923123,
+                    37.348042365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-5804",
+                    "identifier": "f-vta-s-3685",
                     "tags": {
-                        "stop_code": "65804",
+                        "stop_code": "63685",
                         "stop_desc": "",
-                        "stop_id": "5804",
-                        "stop_lat": "37.327474000000002",
-                        "stop_lon": "-121.81111799999999",
-                        "stop_name": "EASTRIDGE TRANSIT CENTER",
+                        "stop_id": "3685",
+                        "stop_lat": "37.348042364999998",
+                        "stop_lon": "-121.811923123",
+                        "stop_name": "WHITE & MCKINLEY",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "EASTRIDGE TRANSIT CENTER",
-            "onestopId": "s-9q9kk57b71-eastridgetransit",
+            "name": "WHITE & MCKINLEY",
+            "onestopId": "s-9q9kkp5207-white~mckinley",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -313,27 +375,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.802551505,
-                    37.325127755
+                    -121.810455,
+                    37.327199
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1863",
+                    "identifier": "f-vta-s-5812",
                     "tags": {
-                        "stop_code": "61863",
+                        "stop_code": "65812",
                         "stop_desc": "",
-                        "stop_id": "1863",
-                        "stop_lat": "37.325127754999997",
-                        "stop_lon": "-121.802551505",
-                        "stop_name": "QUIMBY & SMITHERS",
+                        "stop_id": "5812",
+                        "stop_lat": "37.327199",
+                        "stop_lon": "-121.810455",
+                        "stop_name": "EASTRIDGE TRANSIT CENTER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & SMITHERS",
-            "onestopId": "s-9q9kk6f4du-quimby~smithers",
+            "name": "EASTRIDGE TRANSIT CENTER",
+            "onestopId": "s-9q9kk5hqdw-eastridgetransit",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -468,27 +530,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.80258576,
-                    37.31244933
+                    -121.810753,
+                    37.327058
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1261",
+                    "identifier": "f-vta-s-5801",
                     "tags": {
-                        "stop_code": "61261",
+                        "stop_code": "65801",
                         "stop_desc": "",
-                        "stop_id": "1261",
-                        "stop_lat": "37.31244933",
-                        "stop_lon": "-121.80258576",
-                        "stop_name": "ABORN & NIEMAN",
+                        "stop_id": "5801",
+                        "stop_lat": "37.327058000000001",
+                        "stop_lon": "-121.81075300000001",
+                        "stop_name": "EASTRIDGE TRANSIT CENTER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "ABORN & NIEMAN",
-            "onestopId": "s-9q9kk2d0f0-aborn~nieman",
+            "name": "EASTRIDGE TRANSIT CENTER",
+            "onestopId": "s-9q9kk5hjge-eastridgetransit",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -561,58 +623,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.782705547,
-                    37.324974391
+                    -121.773009,
+                    37.312693
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1858",
+                    "identifier": "f-vta-s-5738",
                     "tags": {
-                        "stop_code": "61858",
+                        "stop_code": "65738",
                         "stop_desc": "",
-                        "stop_id": "1858",
-                        "stop_lat": "37.324974390999998",
-                        "stop_lon": "-121.78270554700001",
-                        "stop_name": "QUIMBY & RUBY",
+                        "stop_id": "5738",
+                        "stop_lat": "37.312693000000003",
+                        "stop_lon": "-121.773009",
+                        "stop_name": "RUBY & CORTANA",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & RUBY",
-            "onestopId": "s-9q9kkfb99r-quimby~ruby",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.799927887,
-                    37.333094007
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3691",
-                    "tags": {
-                        "stop_code": "63691",
-                        "stop_desc": "",
-                        "stop_id": "3691",
-                        "stop_lat": "37.333094007",
-                        "stop_lon": "-121.799927887",
-                        "stop_name": "WHITE & GLEN COMO",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "WHITE & GLEN COMO",
-            "onestopId": "s-9q9kkk7cpc-white~glencomo",
+            "name": "RUBY & CORTANA",
+            "onestopId": "s-9q9kkbxd5n-ruby~cortana",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -654,68 +685,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.804074275,
-                    37.312007372
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1234",
-                    "tags": {
-                        "stop_code": "61234",
-                        "stop_desc": "",
-                        "stop_id": "1234",
-                        "stop_lat": "37.312007371999997",
-                        "stop_lon": "-121.804074275",
-                        "stop_name": "ABORN & BRIGADOON",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "ABORN & BRIGADOON",
-            "onestopId": "s-9q9kk22ypq-aborn~brigadoon",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.773009,
-                    37.312693
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-5738",
-                    "tags": {
-                        "stop_code": "65738",
-                        "stop_desc": "",
-                        "stop_id": "5738",
-                        "stop_lat": "37.312693000000003",
-                        "stop_lon": "-121.773009",
-                        "stop_name": "RUBY & CORTANA",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "RUBY & CORTANA",
-            "onestopId": "s-9q9kkbxd5n-ruby~cortana",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.798352918,
                     37.32937439
                 ],
@@ -737,6 +706,99 @@
             ],
             "name": "WHITE & NORWOOD",
             "onestopId": "s-9q9kk7t5ke-white~norwood",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.810335369,
+                    37.346334
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3686",
+                    "tags": {
+                        "stop_code": "63686",
+                        "stop_desc": "",
+                        "stop_id": "3686",
+                        "stop_lat": "37.346333999999999",
+                        "stop_lon": "-121.810335369",
+                        "stop_name": "WHITE & ROCKY MOUNTAIN",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "WHITE & ROCKY MOUNTAIN",
+            "onestopId": "s-9q9kknsqjm-white~rockymountain",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.800443346,
+                    37.334674696
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3690",
+                    "tags": {
+                        "stop_code": "63690",
+                        "stop_desc": "",
+                        "stop_id": "3690",
+                        "stop_lat": "37.334674696",
+                        "stop_lon": "-121.80044334599999",
+                        "stop_name": "WHITE & TULLY",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "WHITE & TULLY",
+            "onestopId": "s-9q9kkked5z-white~tully",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.80258576,
+                    37.31244933
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1261",
+                    "tags": {
+                        "stop_code": "61261",
+                        "stop_desc": "",
+                        "stop_id": "1261",
+                        "stop_lat": "37.31244933",
+                        "stop_lon": "-121.80258576",
+                        "stop_name": "ABORN & NIEMAN",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "ABORN & NIEMAN",
+            "onestopId": "s-9q9kk2d0f0-aborn~nieman",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -809,27 +871,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.787380428,
-                    37.324921896
+                    -121.807761555,
+                    37.316979985
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1859",
+                    "identifier": "f-vta-s-1263",
                     "tags": {
-                        "stop_code": "61859",
+                        "stop_code": "61263",
                         "stop_desc": "",
-                        "stop_id": "1859",
-                        "stop_lat": "37.324921895999999",
-                        "stop_lon": "-121.78738042800001",
-                        "stop_name": "QUIMBY & REMINGTON",
+                        "stop_id": "1263",
+                        "stop_lat": "37.316979985000003",
+                        "stop_lon": "-121.807761555",
+                        "stop_name": "CAPITOL & NIEMAN",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & REMINGTON",
-            "onestopId": "s-9q9kkdv1km-quimby~remington",
+            "name": "CAPITOL & NIEMAN",
+            "onestopId": "s-9q9kk1q71m-capitol~nieman",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -871,27 +933,58 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.810335369,
-                    37.346334
+                    -121.810892,
+                    37.327221
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3686",
+                    "identifier": "f-vta-s-5802",
                     "tags": {
-                        "stop_code": "63686",
+                        "stop_code": "65802",
                         "stop_desc": "",
-                        "stop_id": "3686",
-                        "stop_lat": "37.346333999999999",
-                        "stop_lon": "-121.810335369",
-                        "stop_name": "WHITE & ROCKY MOUNTAIN",
+                        "stop_id": "5802",
+                        "stop_lat": "37.327221000000002",
+                        "stop_lon": "-121.810892",
+                        "stop_name": "EASTRIDGE TRANSIT CENTER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & ROCKY MOUNTAIN",
-            "onestopId": "s-9q9kknsqjm-white~rockymountain",
+            "name": "EASTRIDGE TRANSIT CENTER",
+            "onestopId": "s-9q9kk5hnb6-eastridgetransit",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.805976592,
+                    37.341854166
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-3595",
+                    "tags": {
+                        "stop_code": "63595",
+                        "stop_desc": "",
+                        "stop_id": "3595",
+                        "stop_lat": "37.341854165999997",
+                        "stop_lon": "-121.80597659199999",
+                        "stop_name": "WHITE & CUNNINGHAM",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "WHITE & CUNNINGHAM",
+            "onestopId": "s-9q9kkjzs54-white~cunningham",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -964,27 +1057,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.79703484,
-                    37.325673842
+                    -121.799861658,
+                    37.325420398
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3592",
+                    "identifier": "f-vta-s-1864",
                     "tags": {
-                        "stop_code": "63592",
+                        "stop_code": "61864",
                         "stop_desc": "",
-                        "stop_id": "3592",
-                        "stop_lat": "37.325673842",
-                        "stop_lon": "-121.79703483999999",
-                        "stop_name": "WHITE & QUIMBY",
+                        "stop_id": "1864",
+                        "stop_lat": "37.325420397999999",
+                        "stop_lon": "-121.799861658",
+                        "stop_name": "QUIMBY & BURDICK",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & QUIMBY",
-            "onestopId": "s-9q9kk6yjg3-white~quimby",
+            "name": "QUIMBY & BURDICK",
+            "onestopId": "s-9q9kk6uh3d-quimby~burdick",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1026,27 +1119,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.798954604,
-                    37.330122317
+                    -121.808402014,
+                    37.3440843
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3692",
+                    "identifier": "f-vta-s-3687",
                     "tags": {
-                        "stop_code": "63692",
+                        "stop_code": "63687",
                         "stop_desc": "",
-                        "stop_id": "3692",
-                        "stop_lat": "37.330122316999997",
-                        "stop_lon": "-121.798954604",
-                        "stop_name": "WHITE & GLEN DONEGEL",
+                        "stop_id": "3687",
+                        "stop_lat": "37.344084299999999",
+                        "stop_lon": "-121.808402014",
+                        "stop_name": "WHITE & OCALA",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & GLEN DONEGEL",
-            "onestopId": "s-9q9kk7sxwx-white~glendonegel",
+            "name": "WHITE & OCALA",
+            "onestopId": "s-9q9kknmc49-white~ocala",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1057,27 +1150,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.808129172,
-                    37.313781258
+                    -121.797996741,
+                    37.32523805
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1232",
+                    "identifier": "f-vta-s-1226",
                     "tags": {
-                        "stop_code": "61232",
+                        "stop_code": "61226",
                         "stop_desc": "",
-                        "stop_id": "1232",
-                        "stop_lat": "37.313781257999999",
-                        "stop_lon": "-121.80812917199999",
-                        "stop_name": "CAPITOL & ABORN",
+                        "stop_id": "1226",
+                        "stop_lat": "37.325238050000003",
+                        "stop_lon": "-121.79799674100001",
+                        "stop_name": "QUIMBY & WHITE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "CAPITOL & ABORN",
-            "onestopId": "s-9q9kk0y08b-capitol~aborn",
+            "name": "QUIMBY & WHITE",
+            "onestopId": "s-9q9kk6v7kb-quimby~white",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1181,27 +1274,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.811923123,
-                    37.348042365
+                    -121.811118,
+                    37.327474
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3685",
+                    "identifier": "f-vta-s-5804",
                     "tags": {
-                        "stop_code": "63685",
+                        "stop_code": "65804",
                         "stop_desc": "",
-                        "stop_id": "3685",
-                        "stop_lat": "37.348042364999998",
-                        "stop_lon": "-121.811923123",
-                        "stop_name": "WHITE & MCKINLEY",
+                        "stop_id": "5804",
+                        "stop_lat": "37.327474000000002",
+                        "stop_lon": "-121.81111799999999",
+                        "stop_name": "EASTRIDGE TRANSIT CENTER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & MCKINLEY",
-            "onestopId": "s-9q9kkp5207-white~mckinley",
+            "name": "EASTRIDGE TRANSIT CENTER",
+            "onestopId": "s-9q9kk57b71-eastridgetransit",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1336,6 +1429,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.787380428,
+                    37.324921896
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1859",
+                    "tags": {
+                        "stop_code": "61859",
+                        "stop_desc": "",
+                        "stop_id": "1859",
+                        "stop_lat": "37.324921895999999",
+                        "stop_lon": "-121.78738042800001",
+                        "stop_name": "QUIMBY & REMINGTON",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "QUIMBY & REMINGTON",
+            "onestopId": "s-9q9kkdv1km-quimby~remington",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.815542185,
                     37.352029927
                 ],
@@ -1398,58 +1522,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.807761555,
-                    37.316979985
+                    -121.810588,
+                    37.327113
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1263",
+                    "identifier": "f-vta-s-5806",
                     "tags": {
-                        "stop_code": "61263",
+                        "stop_code": "65806",
                         "stop_desc": "",
-                        "stop_id": "1263",
-                        "stop_lat": "37.316979985000003",
-                        "stop_lon": "-121.807761555",
-                        "stop_name": "CAPITOL & NIEMAN",
+                        "stop_id": "5806",
+                        "stop_lat": "37.327112999999997",
+                        "stop_lon": "-121.810588",
+                        "stop_name": "EASTRIDGE TRANSIT CENTER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "CAPITOL & NIEMAN",
-            "onestopId": "s-9q9kk1q71m-capitol~nieman",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.809051054,
-                    37.345257345
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-3596",
-                    "tags": {
-                        "stop_code": "63596",
-                        "stop_desc": "",
-                        "stop_id": "3596",
-                        "stop_lat": "37.345257345",
-                        "stop_lon": "-121.80905105399999",
-                        "stop_name": "WHITE & MARTEN",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "WHITE & MARTEN",
-            "onestopId": "s-9q9kknmrgk-white~marten",
+            "name": "EASTRIDGE TRANSIT CENTER",
+            "onestopId": "s-9q9kk5hnpw-eastridgetransit",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1491,27 +1584,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.805976592,
-                    37.341854166
+                    -121.799927887,
+                    37.333094007
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3595",
+                    "identifier": "f-vta-s-3691",
                     "tags": {
-                        "stop_code": "63595",
+                        "stop_code": "63691",
                         "stop_desc": "",
-                        "stop_id": "3595",
-                        "stop_lat": "37.341854165999997",
-                        "stop_lon": "-121.80597659199999",
-                        "stop_name": "WHITE & CUNNINGHAM",
+                        "stop_id": "3691",
+                        "stop_lat": "37.333094007",
+                        "stop_lon": "-121.799927887",
+                        "stop_name": "WHITE & GLEN COMO",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & CUNNINGHAM",
-            "onestopId": "s-9q9kkjzs54-white~cunningham",
+            "name": "WHITE & GLEN COMO",
+            "onestopId": "s-9q9kkk7cpc-white~glencomo",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1615,27 +1708,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.797996741,
-                    37.32523805
+                    -121.813336602,
+                    37.322585138
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1226",
+                    "identifier": "f-vta-s-3906",
                     "tags": {
-                        "stop_code": "61226",
+                        "stop_code": "63906",
                         "stop_desc": "",
-                        "stop_id": "1226",
-                        "stop_lat": "37.325238050000003",
-                        "stop_lon": "-121.79799674100001",
-                        "stop_name": "QUIMBY & WHITE",
+                        "stop_id": "3906",
+                        "stop_lat": "37.322585138000001",
+                        "stop_lon": "-121.81333660200001",
+                        "stop_name": "QUIMBY & EASTRIDGE",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & WHITE",
-            "onestopId": "s-9q9kk6v7kb-quimby~white",
+            "name": "QUIMBY & EASTRIDGE",
+            "onestopId": "s-9q9kk465zd-quimby~eastridge",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1739,37 +1832,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.810892,
-                    37.327221
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-5802",
-                    "tags": {
-                        "stop_code": "65802",
-                        "stop_desc": "",
-                        "stop_id": "5802",
-                        "stop_lat": "37.327221000000002",
-                        "stop_lon": "-121.810892",
-                        "stop_name": "EASTRIDGE TRANSIT CENTER",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "EASTRIDGE TRANSIT CENTER",
-            "onestopId": "s-9q9kk5hnb6-eastridgetransit",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.805426097,
                     37.32466263
                 ],
@@ -1791,68 +1853,6 @@
             ],
             "name": "QUIMBY & SCOTTSDALE",
             "onestopId": "s-9q9kk4xzzv-quimby~scottsdale",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.799861658,
-                    37.325420398
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1864",
-                    "tags": {
-                        "stop_code": "61864",
-                        "stop_desc": "",
-                        "stop_id": "1864",
-                        "stop_lat": "37.325420397999999",
-                        "stop_lon": "-121.799861658",
-                        "stop_name": "QUIMBY & BURDICK",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "QUIMBY & BURDICK",
-            "onestopId": "s-9q9kk6uh3d-quimby~burdick",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.774656536,
-                    37.325540016
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-1856",
-                    "tags": {
-                        "stop_code": "61856",
-                        "stop_desc": "",
-                        "stop_id": "1856",
-                        "stop_lat": "37.325540015999998",
-                        "stop_lon": "-121.77465653599999",
-                        "stop_name": "QUIMBY & KNICKERSON",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "QUIMBY & KNICKERSON",
-            "onestopId": "s-9q9kkfymhb-quimby~knickerson",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -1894,6 +1894,37 @@
         {
             "geometry": {
                 "coordinates": [
+                    -121.804074275,
+                    37.312007372
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-vta-s-1234",
+                    "tags": {
+                        "stop_code": "61234",
+                        "stop_desc": "",
+                        "stop_id": "1234",
+                        "stop_lat": "37.312007371999997",
+                        "stop_lon": "-121.804074275",
+                        "stop_name": "ABORN & BRIGADOON",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "ABORN & BRIGADOON",
+            "onestopId": "s-9q9kk22ypq-aborn~brigadoon",
+            "properties": {},
+            "servedBy": [
+                "o-9q9-vta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -121.811002,
                     37.327348
                 ],
@@ -1925,58 +1956,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.7876916,
-                    37.32474419
+                    -121.78569675,
+                    37.3247649
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1867",
+                    "identifier": "f-vta-s-1868",
                     "tags": {
-                        "stop_code": "61867",
+                        "stop_code": "61868",
                         "stop_desc": "",
-                        "stop_id": "1867",
-                        "stop_lat": "37.324744189999997",
-                        "stop_lon": "-121.7876916",
-                        "stop_name": "QUIMBY & PITNER",
+                        "stop_id": "1868",
+                        "stop_lat": "37.324764899999998",
+                        "stop_lon": "-121.78569675",
+                        "stop_name": "QUIMBY & REMINGTON",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & PITNER",
-            "onestopId": "s-9q9kkdubmh-quimby~pitner",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-vta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -121.810753,
-                    37.327058
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-vta-s-5801",
-                    "tags": {
-                        "stop_code": "65801",
-                        "stop_desc": "",
-                        "stop_id": "5801",
-                        "stop_lat": "37.327058000000001",
-                        "stop_lon": "-121.81075300000001",
-                        "stop_name": "EASTRIDGE TRANSIT CENTER",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "EASTRIDGE TRANSIT CENTER",
-            "onestopId": "s-9q9kk5hjge-eastridgetransit",
+            "name": "QUIMBY & REMINGTON",
+            "onestopId": "s-9q9kkdy2e8-quimby~remington",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2018,27 +2018,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.808402014,
-                    37.3440843
+                    -121.798954604,
+                    37.330122317
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3687",
+                    "identifier": "f-vta-s-3692",
                     "tags": {
-                        "stop_code": "63687",
+                        "stop_code": "63692",
                         "stop_desc": "",
-                        "stop_id": "3687",
-                        "stop_lat": "37.344084299999999",
-                        "stop_lon": "-121.808402014",
-                        "stop_name": "WHITE & OCALA",
+                        "stop_id": "3692",
+                        "stop_lat": "37.330122316999997",
+                        "stop_lon": "-121.798954604",
+                        "stop_name": "WHITE & GLEN DONEGEL",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & OCALA",
-            "onestopId": "s-9q9kknmc49-white~ocala",
+            "name": "WHITE & GLEN DONEGEL",
+            "onestopId": "s-9q9kk7sxwx-white~glendonegel",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2080,27 +2080,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.800443346,
-                    37.334674696
+                    -121.774656536,
+                    37.325540016
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-3690",
+                    "identifier": "f-vta-s-1856",
                     "tags": {
-                        "stop_code": "63690",
+                        "stop_code": "61856",
                         "stop_desc": "",
-                        "stop_id": "3690",
-                        "stop_lat": "37.334674696",
-                        "stop_lon": "-121.80044334599999",
-                        "stop_name": "WHITE & TULLY",
+                        "stop_id": "1856",
+                        "stop_lat": "37.325540015999998",
+                        "stop_lon": "-121.77465653599999",
+                        "stop_name": "QUIMBY & KNICKERSON",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "WHITE & TULLY",
-            "onestopId": "s-9q9kkked5z-white~tully",
+            "name": "QUIMBY & KNICKERSON",
+            "onestopId": "s-9q9kkfymhb-quimby~knickerson",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2173,27 +2173,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.810588,
-                    37.327113
+                    -121.809051054,
+                    37.345257345
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-5806",
+                    "identifier": "f-vta-s-3596",
                     "tags": {
-                        "stop_code": "65806",
+                        "stop_code": "63596",
                         "stop_desc": "",
-                        "stop_id": "5806",
-                        "stop_lat": "37.327112999999997",
-                        "stop_lon": "-121.810588",
-                        "stop_name": "EASTRIDGE TRANSIT CENTER",
+                        "stop_id": "3596",
+                        "stop_lat": "37.345257345",
+                        "stop_lon": "-121.80905105399999",
+                        "stop_name": "WHITE & MARTEN",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "EASTRIDGE TRANSIT CENTER",
-            "onestopId": "s-9q9kk5hnpw-eastridgetransit",
+            "name": "WHITE & MARTEN",
+            "onestopId": "s-9q9kknmrgk-white~marten",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2235,27 +2235,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.78569675,
-                    37.3247649
+                    -121.7876916,
+                    37.32474419
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-1868",
+                    "identifier": "f-vta-s-1867",
                     "tags": {
-                        "stop_code": "61868",
+                        "stop_code": "61867",
                         "stop_desc": "",
-                        "stop_id": "1868",
-                        "stop_lat": "37.324764899999998",
-                        "stop_lon": "-121.78569675",
-                        "stop_name": "QUIMBY & REMINGTON",
+                        "stop_id": "1867",
+                        "stop_lat": "37.324744189999997",
+                        "stop_lon": "-121.7876916",
+                        "stop_name": "QUIMBY & PITNER",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "QUIMBY & REMINGTON",
-            "onestopId": "s-9q9kkdy2e8-quimby~remington",
+            "name": "QUIMBY & PITNER",
+            "onestopId": "s-9q9kkdubmh-quimby~pitner",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"
@@ -2297,27 +2297,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.810455,
-                    37.327199
+                    -121.802551505,
+                    37.325127755
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-vta-s-5812",
+                    "identifier": "f-vta-s-1863",
                     "tags": {
-                        "stop_code": "65812",
+                        "stop_code": "61863",
                         "stop_desc": "",
-                        "stop_id": "5812",
-                        "stop_lat": "37.327199",
-                        "stop_lon": "-121.810455",
-                        "stop_name": "EASTRIDGE TRANSIT CENTER",
+                        "stop_id": "1863",
+                        "stop_lat": "37.325127754999997",
+                        "stop_lon": "-121.802551505",
+                        "stop_name": "QUIMBY & SMITHERS",
                         "zone_id": "1"
                     }
                 }
             ],
-            "name": "EASTRIDGE TRANSIT CENTER",
-            "onestopId": "s-9q9kk5hqdw-eastridgetransit",
+            "name": "QUIMBY & SMITHERS",
+            "onestopId": "s-9q9kk6f4du-quimby~smithers",
             "properties": {},
             "servedBy": [
                 "o-9q9-vta"

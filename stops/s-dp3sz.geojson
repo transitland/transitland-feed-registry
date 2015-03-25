@@ -102,29 +102,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.53997325,
-                    41.65189447
+                    -87.53976459,
+                    41.6441576
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14030",
+                    "identifier": "f-cta-s-14026",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14030",
-                        "stop_desc": "Avenue O & 134th Street, Southbound, Northwest Corner",
-                        "stop_id": "14030",
-                        "stop_lat": "41.65189447",
-                        "stop_lon": "-87.53997325",
-                        "stop_name": "Avenue O & 134th Street",
+                        "stop_code": "14026",
+                        "stop_desc": "Avenue O & Brainard (13800 S), Northbound, Eastside of the Street",
+                        "stop_id": "14026",
+                        "stop_lat": "41.6441576",
+                        "stop_lon": "-87.53976459",
+                        "stop_name": "Avenue O & Brainard (13800 S)",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Avenue O & 134th Street",
-            "onestopId": "s-dp3szyrrfg-o~134th",
+            "name": "Avenue O & Brainard (13800 S)",
+            "onestopId": "s-dp3szvp6z9-o~brainard13800s",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -564,29 +564,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.55187987,
-                    41.65732111
+                    -87.54703379,
+                    41.65360657
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7315",
+                    "identifier": "f-cta-s-7311",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7315",
-                        "stop_desc": "Exchange & 131st Street, Northbound, Eastside of the Street",
-                        "stop_id": "7315",
-                        "stop_lat": "41.65732111",
-                        "stop_lon": "-87.55187987",
-                        "stop_name": "Exchange & 131st Street",
+                        "stop_code": "7311",
+                        "stop_desc": "Baltimore & 133rd Street, Northbound, Southeast Corner",
+                        "stop_id": "7311",
+                        "stop_lat": "41.65360657",
+                        "stop_lon": "-87.54703379",
+                        "stop_name": "Baltimore & 133rd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Exchange & 131st Street",
-            "onestopId": "s-dp3szxqxmr-exchange~131st",
+            "name": "Baltimore & 133rd Street",
+            "onestopId": "s-dp3szyf1y7-baltimore~133rd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -630,29 +630,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.54724527,
-                    41.65377072
+                    -87.53981893,
+                    41.65722388
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7321",
+                    "identifier": "f-cta-s-7333",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7321",
-                        "stop_desc": "Baltimore & 133rd Street, Southbound, Northwest Corner",
-                        "stop_id": "7321",
-                        "stop_lat": "41.65377072",
-                        "stop_lon": "-87.54724527",
-                        "stop_name": "Baltimore & 133rd Street",
+                        "stop_code": "7333",
+                        "stop_desc": "Avenue O & 131st Street, Northbound, Southeast Corner",
+                        "stop_id": "7333",
+                        "stop_lat": "41.65722388",
+                        "stop_lon": "-87.53981893",
+                        "stop_name": "Avenue O & 131st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Baltimore & 133rd Street",
-            "onestopId": "s-dp3szyf4c3-baltimore~133rd",
+            "name": "Avenue O & 131st Street",
+            "onestopId": "s-dp3szzrqym-o~131st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -861,6 +861,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.54724527,
+                    41.65377072
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-7321",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "7321",
+                        "stop_desc": "Baltimore & 133rd Street, Southbound, Northwest Corner",
+                        "stop_id": "7321",
+                        "stop_lat": "41.65377072",
+                        "stop_lon": "-87.54724527",
+                        "stop_name": "Baltimore & 133rd Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Baltimore & 133rd Street",
+            "onestopId": "s-dp3szyf4c3-baltimore~133rd",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.54702179,
                     41.65179457
                 ],
@@ -960,29 +993,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.53976459,
-                    41.6441576
+                    -87.53997325,
+                    41.65189447
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14026",
+                    "identifier": "f-cta-s-14030",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14026",
-                        "stop_desc": "Avenue O & Brainard (13800 S), Northbound, Eastside of the Street",
-                        "stop_id": "14026",
-                        "stop_lat": "41.6441576",
-                        "stop_lon": "-87.53976459",
-                        "stop_name": "Avenue O & Brainard (13800 S)",
+                        "stop_code": "14030",
+                        "stop_desc": "Avenue O & 134th Street, Southbound, Northwest Corner",
+                        "stop_id": "14030",
+                        "stop_lat": "41.65189447",
+                        "stop_lon": "-87.53997325",
+                        "stop_name": "Avenue O & 134th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Avenue O & Brainard (13800 S)",
-            "onestopId": "s-dp3szvp6z9-o~brainard13800s",
+            "name": "Avenue O & 134th Street",
+            "onestopId": "s-dp3szyrrfg-o~134th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -993,29 +1026,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.54703379,
-                    41.65360657
+                    -87.55187987,
+                    41.65732111
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-7311",
+                    "identifier": "f-cta-s-7315",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "7311",
-                        "stop_desc": "Baltimore & 133rd Street, Northbound, Southeast Corner",
-                        "stop_id": "7311",
-                        "stop_lat": "41.65360657",
-                        "stop_lon": "-87.54703379",
-                        "stop_name": "Baltimore & 133rd Street",
+                        "stop_code": "7315",
+                        "stop_desc": "Exchange & 131st Street, Northbound, Eastside of the Street",
+                        "stop_id": "7315",
+                        "stop_lat": "41.65732111",
+                        "stop_lon": "-87.55187987",
+                        "stop_name": "Exchange & 131st Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Baltimore & 133rd Street",
-            "onestopId": "s-dp3szyf1y7-baltimore~133rd",
+            "name": "Exchange & 131st Street",
+            "onestopId": "s-dp3szxqxmr-exchange~131st",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1026,29 +1059,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.54267437,
-                    41.64582677
+                    -87.54582943,
+                    41.64852823
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14024",
+                    "identifier": "f-cta-s-14048",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14024",
-                        "stop_desc": "Hegewisch Metra Station, Southeastbound, Westside of the Street",
-                        "stop_id": "14024",
-                        "stop_lat": "41.64582677",
-                        "stop_lon": "-87.54267437",
-                        "stop_name": "Hegewisch Metra Station",
+                        "stop_code": "14048",
+                        "stop_desc": "Brainard & Brandon, Northwestbound, Southeast Corner",
+                        "stop_id": "14048",
+                        "stop_lat": "41.64852823",
+                        "stop_lon": "-87.54582943",
+                        "stop_name": "Brainard & Brandon",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Hegewisch Metra Station",
-            "onestopId": "s-dp3szvmkeb-hegewischmetrastation",
+            "name": "Brainard & Brandon",
+            "onestopId": "s-dp3szvgh62-brainard~brandon",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1092,39 +1125,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.53981893,
-                    41.65722388
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-7333",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "7333",
-                        "stop_desc": "Avenue O & 131st Street, Northbound, Southeast Corner",
-                        "stop_id": "7333",
-                        "stop_lat": "41.65722388",
-                        "stop_lon": "-87.53981893",
-                        "stop_name": "Avenue O & 131st Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Avenue O & 131st Street",
-            "onestopId": "s-dp3szzrqym-o~131st",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.54727682,
                     41.65909089
                 ],
@@ -1158,29 +1158,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.54582943,
-                    41.64852823
+                    -87.54267437,
+                    41.64582677
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14048",
+                    "identifier": "f-cta-s-14024",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14048",
-                        "stop_desc": "Brainard & Brandon, Northwestbound, Southeast Corner",
-                        "stop_id": "14048",
-                        "stop_lat": "41.64852823",
-                        "stop_lon": "-87.54582943",
-                        "stop_name": "Brainard & Brandon",
+                        "stop_code": "14024",
+                        "stop_desc": "Hegewisch Metra Station, Southeastbound, Westside of the Street",
+                        "stop_id": "14024",
+                        "stop_lat": "41.64582677",
+                        "stop_lon": "-87.54267437",
+                        "stop_name": "Hegewisch Metra Station",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Brainard & Brandon",
-            "onestopId": "s-dp3szvgh62-brainard~brandon",
+            "name": "Hegewisch Metra Station",
+            "onestopId": "s-dp3szvmkeb-hegewischmetrastation",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

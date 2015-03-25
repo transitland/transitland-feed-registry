@@ -139,40 +139,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.42652,
-                    37.4319
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-samtrans-s-315010",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "315010",
-                        "stop_desc": "",
-                        "stop_id": "315010",
-                        "stop_lat": "  37.431900",
-                        "stop_lon": "-122.426520",
-                        "stop_name": "Hwy 1 & Miramontes Point Rd",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Hwy 1 & Miramontes Point Rd",
-            "onestopId": "s-9q8uyn78x7-1~miramontespoint",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.42616,
                     37.43133
                 ],
@@ -197,6 +163,40 @@
             ],
             "name": "Miramontes Point Rd & Hwy 1",
             "onestopId": "s-9q8uyn5vr9-miramontespoint~1",
+            "properties": {},
+            "servedBy": [
+                "o-9q8-samtrans"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42652,
+                    37.4319
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-samtrans-s-315010",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "315010",
+                        "stop_desc": "",
+                        "stop_id": "315010",
+                        "stop_lat": "  37.431900",
+                        "stop_lon": "-122.426520",
+                        "stop_name": "Hwy 1 & Miramontes Point Rd",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
+            ],
+            "name": "Hwy 1 & Miramontes Point Rd",
+            "onestopId": "s-9q8uyn78x7-1~miramontespoint",
             "properties": {},
             "servedBy": [
                 "o-9q8-samtrans"

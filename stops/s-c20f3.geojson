@@ -183,6 +183,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.621003,
+                    45.402055
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3794",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "3794",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 3794)",
+                        "stop_id": "3794",
+                        "stop_lat": "45.402055",
+                        "stop_lon": "-122.621003",
+                        "stop_name": "SE McLoughlin & Naef",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3794",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE McLoughlin & Naef",
+            "onestopId": "s-c20f39nn5s-semcloughlin~naef",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.617661,
                     45.432338
                 ],
@@ -1119,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.623125,
-                    45.40431
+                    -122.634387,
+                    45.401661
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3857",
+                    "identifier": "f-trimet-s-4863",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "3857",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3857)",
-                        "stop_id": "3857",
-                        "stop_lat": "45.40431",
-                        "stop_lon": "-122.623125",
-                        "stop_name": "SE McLoughlin & Vineyard",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3857",
+                        "stop_code": "4863",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4863)",
+                        "stop_id": "4863",
+                        "stop_lat": "45.401661",
+                        "stop_lon": "-122.634387",
+                        "stop_name": "SE River Rd & Mulberry",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4863",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE McLoughlin & Vineyard",
-            "onestopId": "s-c20f39se60-semcloughlin~vineyard",
+            "name": "SE River Rd & Mulberry",
+            "onestopId": "s-c20f33h7ge-seriver~mulberry",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1263,32 +1299,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.64069,
-                    45.434428
+                    -122.622948,
+                    45.433942
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5312",
+                    "identifier": "f-trimet-s-3326",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "5312",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 5312)",
-                        "stop_id": "5312",
-                        "stop_lat": "45.434428",
-                        "stop_lon": "-122.64069",
-                        "stop_name": "SE Sparrow & 22nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5312",
+                        "position": "Opposite",
+                        "stop_code": "3326",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3326)",
+                        "stop_id": "3326",
+                        "stop_lat": "45.433942",
+                        "stop_lon": "-122.622948",
+                        "stop_name": "SE Lake & Boss",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3326",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sparrow & 22nd",
-            "onestopId": "s-c20f3ppf8z-sesparrow~22nd",
+            "name": "SE Lake & Boss",
+            "onestopId": "s-c20f3wuxyh-selake~boss",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1335,32 +1371,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.645364,
-                    45.40995
+                    -122.644203,
+                    45.428784
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4867",
+                    "identifier": "f-trimet-s-4846",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "4867",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4867)",
-                        "stop_id": "4867",
-                        "stop_lat": "45.40995",
-                        "stop_lon": "-122.645364",
-                        "stop_name": "SE River Rd & Parkview Circle",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4867",
+                        "stop_code": "4846",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4846)",
+                        "stop_id": "4846",
+                        "stop_lat": "45.428784",
+                        "stop_lon": "-122.644203",
+                        "stop_name": "SE River Rd & Evergreen",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4846",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE River Rd & Parkview Circle",
-            "onestopId": "s-c20f34sk5u-seriver~parkviewcircle",
+            "name": "SE River Rd & Evergreen",
+            "onestopId": "s-c20f3nj1yg-seriver~evergreen",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1695,32 +1731,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.6399,
-                    45.435669
+                    -122.621589,
+                    45.43941
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4892",
+                    "identifier": "f-trimet-s-8152",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4892",
-                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 4892)",
-                        "stop_id": "4892",
-                        "stop_lat": "45.435669",
-                        "stop_lon": "-122.6399",
-                        "stop_name": "SE River Rd & Wren",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4892",
+                        "position": "Farside",
+                        "stop_code": "8152",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 8152)",
+                        "stop_id": "8152",
+                        "stop_lat": "45.43941",
+                        "stop_lon": "-122.621589",
+                        "stop_name": "SE International Way & 40th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8152",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE River Rd & Wren",
-            "onestopId": "s-c20f3r23gn-seriver~wren",
+            "name": "SE International Way & 40th",
+            "onestopId": "s-c20f3xvxtz-seinternational~40th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1901,42 +1937,6 @@
             ],
             "name": "SE International Way & Mallard",
             "onestopId": "s-c20f3yy38j-seinternational~mallard",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.621204,
-                    45.401775
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8494",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "8494",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8494)",
-                        "stop_id": "8494",
-                        "stop_lat": "45.401775",
-                        "stop_lon": "-122.621204",
-                        "stop_name": "SE McLoughlin & Naef",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8494",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE McLoughlin & Naef",
-            "onestopId": "s-c20f39juwb-semcloughlin~naef",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2271,32 +2271,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.629016,
-                    45.41878
+                    -122.631811,
+                    45.437312
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4165",
+                    "identifier": "f-trimet-s-3350",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "4165",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4165)",
-                        "stop_id": "4165",
-                        "stop_lat": "45.41878",
-                        "stop_lon": "-122.629016",
-                        "stop_name": "SE Oatfield & Hill",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4165",
+                        "stop_code": "3350",
+                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3350)",
+                        "stop_id": "3350",
+                        "stop_lat": "45.437312",
+                        "stop_lon": "-122.631811",
+                        "stop_name": "SE Lake & 31st Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3350",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Oatfield & Hill",
-            "onestopId": "s-c20f3s0r8f-seoatfield~hill",
+            "name": "SE Lake & 31st Pl",
+            "onestopId": "s-c20f3rw5x8-selake~31stpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2369,42 +2369,6 @@
             ],
             "name": "4900 Block SE International Way (Blount)",
             "onestopId": "s-c20f3z50qb-4900blockseinternationalblount",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.645401,
-                    45.422416
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4840",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "4840",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4840)",
-                        "stop_id": "4840",
-                        "stop_lat": "45.422416",
-                        "stop_lon": "-122.645401",
-                        "stop_name": "SE River Rd & Courtney",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4840",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE River Rd & Courtney",
-            "onestopId": "s-c20f3hukg0-seriver~courtney",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,68 +2523,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.633148,
-                    45.419896
+                    -122.645401,
+                    45.422416
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3830",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3830",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3830)",
-                        "stop_id": "3830",
-                        "stop_lat": "45.419896",
-                        "stop_lon": "-122.633148",
-                        "stop_name": "SE McLoughlin & Chestnut",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3830",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE McLoughlin & Chestnut",
-            "onestopId": "s-c20f3kmq0d-semcloughlin~chestnut",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.633631,
-                    45.424998
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3780",
+                    "identifier": "f-trimet-s-4840",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "3780",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 3780)",
-                        "stop_id": "3780",
-                        "stop_lat": "45.424998",
-                        "stop_lon": "-122.633631",
-                        "stop_name": "13700 Block SE McLoughlin",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3780",
+                        "position": "Nearside",
+                        "stop_code": "4840",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4840)",
+                        "stop_id": "4840",
+                        "stop_lat": "45.422416",
+                        "stop_lon": "-122.645401",
+                        "stop_name": "SE River Rd & Courtney",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4840",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "13700 Block SE McLoughlin",
-            "onestopId": "s-c20f3mkgv3-13700blocksemcloughlin",
+            "name": "SE River Rd & Courtney",
+            "onestopId": "s-c20f3hukg0-seriver~courtney",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2667,32 +2595,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.615969,
-                    45.407136
+                    -122.621204,
+                    45.401775
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4144",
+                    "identifier": "f-trimet-s-8494",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "4144",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4144)",
-                        "stop_id": "4144",
-                        "stop_lat": "45.407136",
-                        "stop_lon": "-122.615969",
-                        "stop_name": "SE Oatfield & Allan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4144",
+                        "position": "Nearside",
+                        "stop_code": "8494",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 8494)",
+                        "stop_id": "8494",
+                        "stop_lat": "45.401775",
+                        "stop_lon": "-122.621204",
+                        "stop_name": "SE McLoughlin & Naef",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8494",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Oatfield & Allan",
-            "onestopId": "s-c20f3f1g8z-seoatfield~allan",
+            "name": "SE McLoughlin & Naef",
+            "onestopId": "s-c20f39juwb-semcloughlin~naef",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2811,32 +2739,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.614269,
-                    45.431404
+                    -122.633148,
+                    45.419896
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3330",
+                    "identifier": "f-trimet-s-3830",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "3330",
-                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 3330)",
-                        "stop_id": "3330",
-                        "stop_lat": "45.431404",
-                        "stop_lon": "-122.614269",
-                        "stop_name": "SE Lake & Kuehn Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3330",
+                        "stop_code": "3830",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3830)",
+                        "stop_id": "3830",
+                        "stop_lat": "45.419896",
+                        "stop_lon": "-122.633148",
+                        "stop_name": "SE McLoughlin & Chestnut",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3830",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Lake & Kuehn Rd",
-            "onestopId": "s-c20f3ye107-selake~kuehn",
+            "name": "SE McLoughlin & Chestnut",
+            "onestopId": "s-c20f3kmq0d-semcloughlin~chestnut",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3207,68 +3135,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.622948,
-                    45.433942
+                    -122.645364,
+                    45.40995
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3326",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3326",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3326)",
-                        "stop_id": "3326",
-                        "stop_lat": "45.433942",
-                        "stop_lon": "-122.622948",
-                        "stop_name": "SE Lake & Boss",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3326",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Lake & Boss",
-            "onestopId": "s-c20f3wuxyh-selake~boss",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.644203,
-                    45.428784
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4846",
+                    "identifier": "f-trimet-s-4867",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "4846",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4846)",
-                        "stop_id": "4846",
-                        "stop_lat": "45.428784",
-                        "stop_lon": "-122.644203",
-                        "stop_name": "SE River Rd & Evergreen",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4846",
+                        "stop_code": "4867",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4867)",
+                        "stop_id": "4867",
+                        "stop_lat": "45.40995",
+                        "stop_lon": "-122.645364",
+                        "stop_name": "SE River Rd & Parkview Circle",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4867",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE River Rd & Evergreen",
-            "onestopId": "s-c20f3nj1yg-seriver~evergreen",
+            "name": "SE River Rd & Parkview Circle",
+            "onestopId": "s-c20f34sk5u-seriver~parkviewcircle",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3351,32 +3243,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.631811,
-                    45.437312
+                    -122.629016,
+                    45.41878
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3350",
+                    "identifier": "f-trimet-s-4165",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "3350",
-                        "stop_desc": "Westbound stop in Milwaukie (Stop ID 3350)",
-                        "stop_id": "3350",
-                        "stop_lat": "45.437312",
-                        "stop_lon": "-122.631811",
-                        "stop_name": "SE Lake & 31st Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3350",
+                        "stop_code": "4165",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4165)",
+                        "stop_id": "4165",
+                        "stop_lat": "45.41878",
+                        "stop_lon": "-122.629016",
+                        "stop_name": "SE Oatfield & Hill",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4165",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Lake & 31st Pl",
-            "onestopId": "s-c20f3rw5x8-selake~31stpl",
+            "name": "SE Oatfield & Hill",
+            "onestopId": "s-c20f3s0r8f-seoatfield~hill",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3459,32 +3351,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.621003,
-                    45.402055
+                    -122.615969,
+                    45.407136
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3794",
+                    "identifier": "f-trimet-s-4144",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "3794",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 3794)",
-                        "stop_id": "3794",
-                        "stop_lat": "45.402055",
-                        "stop_lon": "-122.621003",
-                        "stop_name": "SE McLoughlin & Naef",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3794",
+                        "position": "Opposite",
+                        "stop_code": "4144",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4144)",
+                        "stop_id": "4144",
+                        "stop_lat": "45.407136",
+                        "stop_lon": "-122.615969",
+                        "stop_name": "SE Oatfield & Allan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4144",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE McLoughlin & Naef",
-            "onestopId": "s-c20f39nn5s-semcloughlin~naef",
+            "name": "SE Oatfield & Allan",
+            "onestopId": "s-c20f3f1g8z-seoatfield~allan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3675,6 +3567,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.64069,
+                    45.434428
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5312",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "5312",
+                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 5312)",
+                        "stop_id": "5312",
+                        "stop_lat": "45.434428",
+                        "stop_lon": "-122.64069",
+                        "stop_name": "SE Sparrow & 22nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5312",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Sparrow & 22nd",
+            "onestopId": "s-c20f3ppf8z-sesparrow~22nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.64109,
                     45.435318
                 ],
@@ -3747,32 +3675,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.621589,
-                    45.43941
+                    -122.6399,
+                    45.435669
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8152",
+                    "identifier": "f-trimet-s-4892",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8152",
-                        "stop_desc": "Eastbound stop in Milwaukie (Stop ID 8152)",
-                        "stop_id": "8152",
-                        "stop_lat": "45.43941",
-                        "stop_lon": "-122.621589",
-                        "stop_name": "SE International Way & 40th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8152",
+                        "position": "Nearside",
+                        "stop_code": "4892",
+                        "stop_desc": "Northbound stop in Milwaukie (Stop ID 4892)",
+                        "stop_id": "4892",
+                        "stop_lat": "45.435669",
+                        "stop_lon": "-122.6399",
+                        "stop_name": "SE River Rd & Wren",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4892",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE International Way & 40th",
-            "onestopId": "s-c20f3xvxtz-seinternational~40th",
+            "name": "SE River Rd & Wren",
+            "onestopId": "s-c20f3r23gn-seriver~wren",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3845,6 +3773,42 @@
             ],
             "name": "SE River Rd & Oak Grove",
             "onestopId": "s-c20f35u4nb-seriver~oakgrove",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.623125,
+                    45.40431
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3857",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "3857",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 3857)",
+                        "stop_id": "3857",
+                        "stop_lat": "45.40431",
+                        "stop_lon": "-122.623125",
+                        "stop_name": "SE McLoughlin & Vineyard",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3857",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE McLoughlin & Vineyard",
+            "onestopId": "s-c20f39se60-semcloughlin~vineyard",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4071,32 +4035,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.634387,
-                    45.401661
+                    -122.633631,
+                    45.424998
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4863",
+                    "identifier": "f-trimet-s-3780",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "4863",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4863)",
-                        "stop_id": "4863",
-                        "stop_lat": "45.401661",
-                        "stop_lon": "-122.634387",
-                        "stop_name": "SE River Rd & Mulberry",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4863",
+                        "position": "At",
+                        "stop_code": "3780",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 3780)",
+                        "stop_id": "3780",
+                        "stop_lat": "45.424998",
+                        "stop_lon": "-122.633631",
+                        "stop_name": "13700 Block SE McLoughlin",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3780",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE River Rd & Mulberry",
-            "onestopId": "s-c20f33h7ge-seriver~mulberry",
+            "name": "13700 Block SE McLoughlin",
+            "onestopId": "s-c20f3mkgv3-13700blocksemcloughlin",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4755,6 +4719,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.613143,
+                    45.405081
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-4179",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "4179",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4179)",
+                        "stop_id": "4179",
+                        "stop_lat": "45.405081",
+                        "stop_lon": "-122.613143",
+                        "stop_name": "SE Oatfield & Oakland",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4179",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Oatfield & Oakland",
+            "onestopId": "s-c20f3cezf8-seoatfield~oakland",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.631327,
                     45.425497
                 ],
@@ -4791,32 +4791,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.613143,
-                    45.405081
+                    -122.614269,
+                    45.431404
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4179",
+                    "identifier": "f-trimet-s-3330",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "4179",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 4179)",
-                        "stop_id": "4179",
-                        "stop_lat": "45.405081",
-                        "stop_lon": "-122.613143",
-                        "stop_name": "SE Oatfield & Oakland",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4179",
+                        "position": "Farside",
+                        "stop_code": "3330",
+                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 3330)",
+                        "stop_id": "3330",
+                        "stop_lat": "45.431404",
+                        "stop_lon": "-122.614269",
+                        "stop_name": "SE Lake & Kuehn Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3330",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Oatfield & Oakland",
-            "onestopId": "s-c20f3cezf8-seoatfield~oakland",
+            "name": "SE Lake & Kuehn Rd",
+            "onestopId": "s-c20f3ye107-selake~kuehn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5079,32 +5079,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.634476,
-                    45.40186
+                    -122.645594,
+                    45.425101
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-4862",
+                    "identifier": "f-trimet-s-13756",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "4862",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4862)",
-                        "stop_id": "4862",
-                        "stop_lat": "45.40186",
-                        "stop_lon": "-122.634476",
-                        "stop_name": "SE River Rd & Mulberry",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4862",
+                        "position": "Nearside",
+                        "stop_code": "13756",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 13756)",
+                        "stop_id": "13756",
+                        "stop_lat": "45.425101",
+                        "stop_lon": "-122.645594",
+                        "stop_name": "SE River Rd & Torbank",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13756",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE River Rd & Mulberry",
-            "onestopId": "s-c20f33hm18-seriver~mulberry",
+            "name": "SE River Rd & Torbank",
+            "onestopId": "s-c20f3jkhqs-seriver~torbank",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5259,32 +5259,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.645594,
-                    45.425101
+                    -122.634476,
+                    45.40186
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13756",
+                    "identifier": "f-trimet-s-4862",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13756",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 13756)",
-                        "stop_id": "13756",
-                        "stop_lat": "45.425101",
-                        "stop_lon": "-122.645594",
-                        "stop_name": "SE River Rd & Torbank",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13756",
+                        "position": "Opposite",
+                        "stop_code": "4862",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 4862)",
+                        "stop_id": "4862",
+                        "stop_lat": "45.40186",
+                        "stop_lon": "-122.634476",
+                        "stop_name": "SE River Rd & Mulberry",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4862",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE River Rd & Torbank",
-            "onestopId": "s-c20f3jkhqs-seriver~torbank",
+            "name": "SE River Rd & Mulberry",
+            "onestopId": "s-c20f33hm18-seriver~mulberry",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

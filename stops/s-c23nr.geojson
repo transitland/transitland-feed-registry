@@ -458,41 +458,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.034187,
-                    47.5284081
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-64448",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "64448",
-                        "stop_lat": "47.5284081",
-                        "stop_lon": "-122.034187",
-                        "stop_name": "SE Bush St & Rainier Blvd S",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "19"
-                    }
-                }
-            ],
-            "name": "SE Bush St & Rainier Blvd S",
-            "onestopId": "s-c23nrh33j3-sebush~rainiers",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.032249,
                     47.5253983
                 ],
@@ -633,31 +598,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.03582,
-                    47.5238495
+                    -122.034187,
+                    47.5284081
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-64457",
+                    "identifier": "f-kingcounty-s-64448",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "64457",
-                        "stop_lat": "47.5238495",
-                        "stop_lon": "-122.03582",
-                        "stop_name": "Front St S & 600 Block",
+                        "stop_id": "64448",
+                        "stop_lat": "47.5284081",
+                        "stop_lon": "-122.034187",
+                        "stop_name": "SE Bush St & Rainier Blvd S",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "19"
                     }
                 }
             ],
-            "name": "Front St S & 600 Block",
-            "onestopId": "s-c23nr52nrr-fronts~600block",
+            "name": "SE Bush St & Rainier Blvd S",
+            "onestopId": "s-c23nrh33j3-sebush~rainiers",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -738,6 +703,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.033264,
+                    47.5275269
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-64527",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "64527",
+                        "stop_lat": "47.5275269",
+                        "stop_lon": "-122.033264",
+                        "stop_name": "SE Clark St & 2nd Ave SE",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "19"
+                    }
+                }
+            ],
+            "name": "SE Clark St & 2nd Ave SE",
+            "onestopId": "s-c23nrh45fv-seclark~2ndse",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.035881,
                     47.5480003
                 ],
@@ -773,31 +773,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.033264,
-                    47.5275269
+                    -122.03582,
+                    47.5238495
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-64527",
+                    "identifier": "f-kingcounty-s-64457",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "64527",
-                        "stop_lat": "47.5275269",
-                        "stop_lon": "-122.033264",
-                        "stop_name": "SE Clark St & 2nd Ave SE",
+                        "stop_id": "64457",
+                        "stop_lat": "47.5238495",
+                        "stop_lon": "-122.03582",
+                        "stop_name": "Front St S & 600 Block",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "19"
                     }
                 }
             ],
-            "name": "SE Clark St & 2nd Ave SE",
-            "onestopId": "s-c23nrh45fv-seclark~2ndse",
+            "name": "Front St S & 600 Block",
+            "onestopId": "s-c23nr52nrr-fronts~600block",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

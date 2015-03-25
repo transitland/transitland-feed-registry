@@ -10,7 +10,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28589",
+                    "identifier": "f-f-wmata-s-28589",
                     "tags": {
                         "stop_code": "5001824",
                         "stop_desc": "",
@@ -41,7 +41,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-29191",
+                    "identifier": "f-f-wmata-s-29191",
                     "tags": {
                         "stop_code": "5002015",
                         "stop_desc": "",
@@ -65,37 +65,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -77.125116,
-                    38.720456
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-wmata-s-28593",
-                    "tags": {
-                        "stop_code": "5001828",
-                        "stop_desc": "",
-                        "stop_id": "28593",
-                        "stop_lat": "38.720456",
-                        "stop_lon": "-77.125116",
-                        "stop_name": "RT 1 RICHMOND HWY & COOPER RD",
-                        "zone_id": "0"
-                    }
-                }
-            ],
-            "name": "RT 1 RICHMOND HWY & COOPER RD",
-            "onestopId": "s-dqchkbz5n8-rt1richmond~cooper",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-met"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -77.131744,
                     38.717543
                 ],
@@ -103,7 +72,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-wmata-s-28590",
+                    "identifier": "f-f-wmata-s-28590",
                     "tags": {
                         "stop_code": "5001825",
                         "stop_desc": "",
@@ -117,6 +86,37 @@
             ],
             "name": "RT 1 RICHMOND HWY & OLD MILL RD",
             "onestopId": "s-dqchkb66h1-rt1richmond~oldmill",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-met"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.125116,
+                    38.720456
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-f-wmata-s-28593",
+                    "tags": {
+                        "stop_code": "5001828",
+                        "stop_desc": "",
+                        "stop_id": "28593",
+                        "stop_lat": "38.720456",
+                        "stop_lon": "-77.125116",
+                        "stop_name": "RT 1 RICHMOND HWY & COOPER RD",
+                        "zone_id": "0"
+                    }
+                }
+            ],
+            "name": "RT 1 RICHMOND HWY & COOPER RD",
+            "onestopId": "s-dqchkbz5n8-rt1richmond~cooper",
             "properties": {},
             "servedBy": [
                 "o-dqc-met"

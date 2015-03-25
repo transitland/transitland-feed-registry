@@ -73,41 +73,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.008621,
-                    42.297182
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-3145",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "3145",
-                        "stop_desc": "",
-                        "stop_id": "3145",
-                        "stop_lat": "42.297182",
-                        "stop_lon": "-71.008621",
-                        "stop_name": "Huckins Ave @ Bellevue Rd",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Huckins Ave @ Bellevue Rd",
-            "onestopId": "s-drt885vngn-huckins~bellevue",
-            "properties": {},
-            "servedBy": [
-                "o-drt-mbta"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -71.011825,
                     42.275597
                 ],
@@ -143,31 +108,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.015403,
-                    42.299195
+                    -71.008621,
+                    42.297182
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-3150",
+                    "identifier": "f-mbta-s-3145",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3150",
+                        "stop_code": "3145",
                         "stop_desc": "",
-                        "stop_id": "3150",
-                        "stop_lat": "42.299195",
-                        "stop_lon": "-71.015403",
-                        "stop_name": "Dorchester St opp Pratt Rd",
+                        "stop_id": "3145",
+                        "stop_lat": "42.297182",
+                        "stop_lon": "-71.008621",
+                        "stop_name": "Huckins Ave @ Bellevue Rd",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Dorchester St opp Pratt Rd",
-            "onestopId": "s-drt88h24tj-dorchesteropppratt",
+            "name": "Huckins Ave @ Bellevue Rd",
+            "onestopId": "s-drt885vngn-huckins~bellevue",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"
@@ -238,6 +203,41 @@
             ],
             "name": "Bellevue Rd @ Standish Rd",
             "onestopId": "s-drt88h6zx5-bellevue~standish",
+            "properties": {},
+            "servedBy": [
+                "o-drt-mbta"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.015403,
+                    42.299195
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-3150",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "3150",
+                        "stop_desc": "",
+                        "stop_id": "3150",
+                        "stop_lat": "42.299195",
+                        "stop_lon": "-71.015403",
+                        "stop_name": "Dorchester St opp Pratt Rd",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Dorchester St opp Pratt Rd",
+            "onestopId": "s-drt88h24tj-dorchesteropppratt",
             "properties": {},
             "servedBy": [
                 "o-drt-mbta"

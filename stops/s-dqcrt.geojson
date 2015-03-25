@@ -143,31 +143,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.736801,
-                    39.29267
+                    -76.735547,
+                    39.31414
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-7011",
+                    "identifier": "f-mtamaryland-s-5285",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7011",
-                        "stop_desc": "",
-                        "stop_id": "7011",
-                        "stop_lat": "39.29267",
-                        "stop_lon": "-76.736801",
-                        "stop_name": "CRAIGMONT RD & BARDSWELL RD sb",
+                        "stop_code": "5285",
+                        "stop_desc": "WOODLAWN DR at SAMS CLUB sb",
+                        "stop_id": "5285",
+                        "stop_lat": "39.31414",
+                        "stop_lon": "-76.735547",
+                        "stop_name": "WOODLAWN & SAMS CLUB S/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CRAIGMONT RD & BARDSWELL RD sb",
-            "onestopId": "s-dqcrtc1bqu-craigmont~bardswellsb",
+            "name": "WOODLAWN & SAMS CLUB S/B",
+            "onestopId": "s-dqcrtufvkn-woodlawn~samsclubs~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -178,31 +178,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.76305,
-                    39.31472
+                    -76.752207,
+                    39.297859
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6995",
+                    "identifier": "f-mtamaryland-s-3667",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6995",
-                        "stop_desc": "SECURITY BLVD at CMS (HCFA)",
-                        "stop_id": "6995",
-                        "stop_lat": "39.31472",
-                        "stop_lon": "-76.76305",
-                        "stop_name": "CMS (HEALTH CARE FIN ADM)",
+                        "stop_code": "3667",
+                        "stop_desc": "",
+                        "stop_id": "3667",
+                        "stop_lat": "39.297859",
+                        "stop_lon": "-76.752207",
+                        "stop_name": "CROSBY RD & GLENWILDE RD fs eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CMS (HEALTH CARE FIN ADM)",
-            "onestopId": "s-dqcrtjnbg6-cmshealthcarefinadm",
+            "name": "CROSBY RD & GLENWILDE RD fs eb",
+            "onestopId": "s-dqcrt3ywxg-crosby~glenwildefseb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -518,41 +518,6 @@
             ],
             "name": "ROLLING RD & TUDSBURY RD sb",
             "onestopId": "s-dqcrtr1sje-rolling~tudsburysb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.738801,
-                    39.299633
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-7068",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "7068",
-                        "stop_desc": "WOODLAWN DR at JOHNNYCAKE RD nb",
-                        "stop_id": "7068",
-                        "stop_lat": "39.299633",
-                        "stop_lon": "-76.738801",
-                        "stop_name": "WOODLAWN & JOHNNYCAKE RD nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "WOODLAWN & JOHNNYCAKE RD nb",
-            "onestopId": "s-dqcrtf28bq-woodlawn~johnnycakenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1368,6 +1333,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.735094,
+                    39.311668
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-5287",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5287",
+                        "stop_desc": "WOODLAWN DR at SECURITY BLVD FS sb",
+                        "stop_id": "5287",
+                        "stop_lat": "39.311668",
+                        "stop_lon": "-76.735094",
+                        "stop_name": "WOODLAWN & SECURITY FS",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "WOODLAWN & SECURITY FS",
+            "onestopId": "s-dqcrtu7pnd-woodlawn~securityfs",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.73558,
                     39.30396
                 ],
@@ -1533,41 +1533,6 @@
             ],
             "name": "RT 40 & INGLESIDE AVE f/s eb",
             "onestopId": "s-dqcrtbjuz2-rt40~inglesidef~seb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.734774,
-                    39.30946
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-3287",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3287",
-                        "stop_desc": "WOODLAWN DR at SILVER HILL AVE",
-                        "stop_id": "3287",
-                        "stop_lat": "39.30946",
-                        "stop_lon": "-76.734774",
-                        "stop_name": "WOODLAWN & BUS SHELTR",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "WOODLAWN & BUS SHELTR",
-            "onestopId": "s-dqcrtu56nn-woodlawn~bussheltr",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2278,31 +2243,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.735547,
-                    39.31414
+                    -76.736801,
+                    39.29267
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5285",
+                    "identifier": "f-mtamaryland-s-7011",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5285",
-                        "stop_desc": "WOODLAWN DR at SAMS CLUB sb",
-                        "stop_id": "5285",
-                        "stop_lat": "39.31414",
-                        "stop_lon": "-76.735547",
-                        "stop_name": "WOODLAWN & SAMS CLUB S/B",
+                        "stop_code": "7011",
+                        "stop_desc": "",
+                        "stop_id": "7011",
+                        "stop_lat": "39.29267",
+                        "stop_lon": "-76.736801",
+                        "stop_name": "CRAIGMONT RD & BARDSWELL RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "WOODLAWN & SAMS CLUB S/B",
-            "onestopId": "s-dqcrtufvkn-woodlawn~samsclubs~b",
+            "name": "CRAIGMONT RD & BARDSWELL RD sb",
+            "onestopId": "s-dqcrtc1bqu-craigmont~bardswellsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2453,31 +2418,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.752207,
-                    39.297859
+                    -76.76305,
+                    39.31472
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-3667",
+                    "identifier": "f-mtamaryland-s-6995",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3667",
-                        "stop_desc": "",
-                        "stop_id": "3667",
-                        "stop_lat": "39.297859",
-                        "stop_lon": "-76.752207",
-                        "stop_name": "CROSBY RD & GLENWILDE RD fs eb",
+                        "stop_code": "6995",
+                        "stop_desc": "SECURITY BLVD at CMS (HCFA)",
+                        "stop_id": "6995",
+                        "stop_lat": "39.31472",
+                        "stop_lon": "-76.76305",
+                        "stop_name": "CMS (HEALTH CARE FIN ADM)",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CROSBY RD & GLENWILDE RD fs eb",
-            "onestopId": "s-dqcrt3ywxg-crosby~glenwildefseb",
+            "name": "CMS (HEALTH CARE FIN ADM)",
+            "onestopId": "s-dqcrtjnbg6-cmshealthcarefinadm",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2873,31 +2838,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.75449,
-                    39.305449
+                    -76.754227,
+                    39.310894
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-8932",
+                    "identifier": "f-mtamaryland-s-2941",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8932",
-                        "stop_desc": "ROLLING RD at KING WILLIAM DR opp nb",
-                        "stop_id": "8932",
-                        "stop_lat": "39.305449",
-                        "stop_lon": "-76.75449",
-                        "stop_name": "ROLLING & KING WILLIAM opp nb",
+                        "stop_code": "2941",
+                        "stop_desc": "ROLLING RD at ROLLING BEND opp fs nb",
+                        "stop_id": "2941",
+                        "stop_lat": "39.310894",
+                        "stop_lon": "-76.754227",
+                        "stop_name": "ROLLING RD & ROLLING BEND RD fs nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLLING & KING WILLIAM opp nb",
-            "onestopId": "s-dqcrt7m4ff-rolling~kingwilliamoppnb",
+            "name": "ROLLING RD & ROLLING BEND RD fs nb",
+            "onestopId": "s-dqcrtkm68c-rolling~rollingbendfsnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3118,31 +3083,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.754227,
-                    39.310894
+                    -76.75449,
+                    39.305449
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2941",
+                    "identifier": "f-mtamaryland-s-8932",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2941",
-                        "stop_desc": "ROLLING RD at ROLLING BEND opp fs nb",
-                        "stop_id": "2941",
-                        "stop_lat": "39.310894",
-                        "stop_lon": "-76.754227",
-                        "stop_name": "ROLLING RD & ROLLING BEND RD fs nb",
+                        "stop_code": "8932",
+                        "stop_desc": "ROLLING RD at KING WILLIAM DR opp nb",
+                        "stop_id": "8932",
+                        "stop_lat": "39.305449",
+                        "stop_lon": "-76.75449",
+                        "stop_name": "ROLLING & KING WILLIAM opp nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLLING RD & ROLLING BEND RD fs nb",
-            "onestopId": "s-dqcrtkm68c-rolling~rollingbendfsnb",
+            "name": "ROLLING & KING WILLIAM opp nb",
+            "onestopId": "s-dqcrt7m4ff-rolling~kingwilliamoppnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.736307,
+                    39.312259
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-3285",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3285",
+                        "stop_desc": "SECURITY BLVD at WOODLAWN DR FS wb",
+                        "stop_id": "3285",
+                        "stop_lat": "39.312259",
+                        "stop_lon": "-76.736307",
+                        "stop_name": "SECURITY & WOODLAWN W/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SECURITY & WOODLAWN W/B",
+            "onestopId": "s-dqcrtud6d2-security~woodlawnw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3363,31 +3363,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.736307,
-                    39.312259
+                    -76.734774,
+                    39.30946
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-3285",
+                    "identifier": "f-mtamaryland-s-3287",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3285",
-                        "stop_desc": "SECURITY BLVD at WOODLAWN DR FS wb",
-                        "stop_id": "3285",
-                        "stop_lat": "39.312259",
-                        "stop_lon": "-76.736307",
-                        "stop_name": "SECURITY & WOODLAWN W/B",
+                        "stop_code": "3287",
+                        "stop_desc": "WOODLAWN DR at SILVER HILL AVE",
+                        "stop_id": "3287",
+                        "stop_lat": "39.30946",
+                        "stop_lon": "-76.734774",
+                        "stop_name": "WOODLAWN & BUS SHELTR",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "SECURITY & WOODLAWN W/B",
-            "onestopId": "s-dqcrtud6d2-security~woodlawnw~b",
+            "name": "WOODLAWN & BUS SHELTR",
+            "onestopId": "s-dqcrtu56nn-woodlawn~bussheltr",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3643,31 +3643,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.735094,
-                    39.311668
+                    -76.738801,
+                    39.299633
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5287",
+                    "identifier": "f-mtamaryland-s-7068",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5287",
-                        "stop_desc": "WOODLAWN DR at SECURITY BLVD FS sb",
-                        "stop_id": "5287",
-                        "stop_lat": "39.311668",
-                        "stop_lon": "-76.735094",
-                        "stop_name": "WOODLAWN & SECURITY FS",
+                        "stop_code": "7068",
+                        "stop_desc": "WOODLAWN DR at JOHNNYCAKE RD nb",
+                        "stop_id": "7068",
+                        "stop_lat": "39.299633",
+                        "stop_lon": "-76.738801",
+                        "stop_name": "WOODLAWN & JOHNNYCAKE RD nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "WOODLAWN & SECURITY FS",
-            "onestopId": "s-dqcrtu7pnd-woodlawn~securityfs",
+            "name": "WOODLAWN & JOHNNYCAKE RD nb",
+            "onestopId": "s-dqcrtf28bq-woodlawn~johnnycakenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

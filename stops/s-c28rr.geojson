@@ -3,6 +3,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.049284,
+                    49.127044
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4892",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "54840",
+                        "stop_desc": "RIVER RD @ DEAS ISLAND RD",
+                        "stop_id": "4892",
+                        "stop_lat": "49.127044",
+                        "stop_lon": "-123.049284",
+                        "stop_name": "NB RIVER RD NS DEAS ISLAND RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB RIVER RD NS DEAS ISLAND RD",
+            "onestopId": "s-c28rrzq1zb-nbrivernsdeasisland",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.049744,
                     49.126944
                 ],
@@ -27,40 +61,6 @@
             ],
             "name": "SB RIVER RD FS DEAS ISLAND RD",
             "onestopId": "s-c28rrzmcjn-sbriverfsdeasisland",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.078849,
-                    49.090325
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7475",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57402",
-                        "stop_desc": "LADNER TRUNK RD @ 52A ST",
-                        "stop_id": "7475",
-                        "stop_lat": "49.090325",
-                        "stop_lon": "-123.078849",
-                        "stop_name": "WB LADNER TRUNK RD FS 52A ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB LADNER TRUNK RD FS 52A ST",
-            "onestopId": "s-c28rr28eyg-wbladnertrunkfs52a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -207,30 +207,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.079938,
-                    49.100432
+                    -123.079038,
+                    49.092529
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7624",
+                    "identifier": "f-translink-s-7577",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57551",
-                        "stop_desc": "FERRY RD @ SCHOONER GATE",
-                        "stop_id": "7624",
-                        "stop_lat": "49.100432",
-                        "stop_lon": "-123.079938",
-                        "stop_name": "SB FERRY RD FS SCHOONER GATE",
+                        "stop_code": "57504",
+                        "stop_desc": "CENTRAL AVE @ 52A ST",
+                        "stop_id": "7577",
+                        "stop_lat": "49.092529",
+                        "stop_lon": "-123.079038",
+                        "stop_name": "NB CENTRAL AV NS 52A ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB FERRY RD FS SCHOONER GATE",
-            "onestopId": "s-c28rr4rytx-sbferryfsschoonergate",
+            "name": "NB CENTRAL AV NS 52A ST",
+            "onestopId": "s-c28rr308dw-nbcentralns52a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -343,30 +343,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.070641,
-                    49.101059
+                    -123.050883,
+                    49.087966
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7617",
+                    "identifier": "f-translink-s-10213",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57544",
-                        "stop_desc": "CRESCENT DR @ WELLBURN DR",
-                        "stop_id": "7617",
-                        "stop_lat": "49.101059",
-                        "stop_lon": "-123.070641",
-                        "stop_name": "WB CRESCENT DR FS WELLBURN DR",
+                        "stop_code": "59720",
+                        "stop_desc": "HOLLY PARK DR @ 62 ST",
+                        "stop_id": "10213",
+                        "stop_lat": "49.087966",
+                        "stop_lon": "-123.050883",
+                        "stop_name": "WB HOLLY PARK DR NS 62 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB CRESCENT DR FS WELLBURN DR",
-            "onestopId": "s-c28rr6wdqh-wbcrescentfswellburn",
+            "name": "WB HOLLY PARK DR NS 62 ST",
+            "onestopId": "s-c28rrbjn4s-wbhollyparkns62",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -479,40 +479,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.071711,
-                    49.090117
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7466",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57393",
-                        "stop_desc": "LADNER TRUNK RD @ LINDEN DR",
-                        "stop_id": "7466",
-                        "stop_lat": "49.090117",
-                        "stop_lon": "-123.071711",
-                        "stop_name": "EB LADNER TRUNK RD FS LINDEN DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB LADNER TRUNK RD FS LINDEN DR",
-            "onestopId": "s-c28rr2tftm-ebladnertrunkfslinden",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.062654,
                     49.087626
                 ],
@@ -547,30 +513,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.061951,
-                    49.087663
+                    -123.070476,
+                    49.100704
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7635",
+                    "identifier": "f-translink-s-7586",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57562",
-                        "stop_desc": "LADNER EXCHANGE @ BAY 3",
-                        "stop_id": "7635",
-                        "stop_lat": "49.087663",
-                        "stop_lon": "-123.061951",
-                        "stop_name": "LADNER EXCHANGE BAY 3",
+                        "stop_code": "57513",
+                        "stop_desc": "CRESCENT DR @ WELLBURN DR",
+                        "stop_id": "7586",
+                        "stop_lat": "49.100704",
+                        "stop_lon": "-123.070476",
+                        "stop_name": "EB CRESCENT DR FS WELLBURN DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "LADNER EXCHANGE BAY 3",
-            "onestopId": "s-c28rr8jh2e-ladnerexchangebay3",
+            "name": "EB CRESCENT DR FS WELLBURN DR",
+            "onestopId": "s-c28rr6wb64-ebcrescentfswellburn",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -605,6 +571,40 @@
             ],
             "name": "EB LINDEN DR FS WESTMINSTER AV",
             "onestopId": "s-c28rr38748-eblindenfswestminster",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.061951,
+                    49.087663
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7635",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57562",
+                        "stop_desc": "LADNER EXCHANGE @ BAY 3",
+                        "stop_id": "7635",
+                        "stop_lat": "49.087663",
+                        "stop_lon": "-123.061951",
+                        "stop_name": "LADNER EXCHANGE BAY 3",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "LADNER EXCHANGE BAY 3",
+            "onestopId": "s-c28rr8jh2e-ladnerexchangebay3",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -785,40 +785,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.055655,
-                    49.090025
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5218",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55166",
-                        "stop_desc": "HWY 10 @ HWY 17A",
-                        "stop_id": "5218",
-                        "stop_lat": "49.090025",
-                        "stop_lon": "-123.055655",
-                        "stop_name": "EB HWY 10 FS HWY 17A",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB HWY 10 FS HWY 17A",
-            "onestopId": "s-c28rrb9d57-eb10fs17a",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.062316,
                     49.087663
                 ],
@@ -921,40 +887,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.080054,
-                    49.088391
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7462",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57389",
-                        "stop_desc": "ARTHUR DR @ 47 AVE",
-                        "stop_id": "7462",
-                        "stop_lat": "49.088391",
-                        "stop_lon": "-123.080054",
-                        "stop_name": "NB ARTHUR DR FS 47 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB ARTHUR DR FS 47 AV",
-            "onestopId": "s-c28rr0rbdg-nbarthurfs47",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -123.062836,
                     49.089714
                 ],
@@ -989,30 +921,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.078527,
-                    49.09733
+                    -123.065345,
+                    49.09477
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7579",
+                    "identifier": "f-translink-s-7589",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57506",
-                        "stop_desc": "FERRY RD @ WESTMINSTER AVE",
-                        "stop_id": "7579",
-                        "stop_lat": "49.09733",
-                        "stop_lon": "-123.078527",
-                        "stop_name": "NB FERRY RD FS WESTMINSTER AV",
+                        "stop_code": "57516",
+                        "stop_desc": "57 ST @ GROVE AVE",
+                        "stop_id": "7589",
+                        "stop_lat": "49.09477",
+                        "stop_lon": "-123.065345",
+                        "stop_name": "SB 57 ST FS GROVE AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB FERRY RD FS WESTMINSTER AV",
-            "onestopId": "s-c28rr3buwm-nbferryfswestminster",
+            "name": "SB 57 ST FS GROVE AV",
+            "onestopId": "s-c28rr96tc8-sb57fsgrove",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1047,6 +979,40 @@
             ],
             "name": "LADNER EXCHANGE BAY 7",
             "onestopId": "s-c28rr8hk5s-ladnerexchangebay7",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.078527,
+                    49.09733
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7579",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57506",
+                        "stop_desc": "FERRY RD @ WESTMINSTER AVE",
+                        "stop_id": "7579",
+                        "stop_lat": "49.09733",
+                        "stop_lon": "-123.078527",
+                        "stop_name": "NB FERRY RD FS WESTMINSTER AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB FERRY RD FS WESTMINSTER AV",
+            "onestopId": "s-c28rr3buwm-nbferryfswestminster",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1125,30 +1091,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.085667,
-                    49.090063
+                    -123.080054,
+                    49.088391
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10181",
+                    "identifier": "f-translink-s-7462",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58257",
-                        "stop_desc": "48 AVE @ LAIDLAW ST",
-                        "stop_id": "10181",
-                        "stop_lat": "49.090063",
-                        "stop_lon": "-123.085667",
-                        "stop_name": "EB 48 AV FS LAIDLAW ST",
+                        "stop_code": "57389",
+                        "stop_desc": "ARTHUR DR @ 47 AVE",
+                        "stop_id": "7462",
+                        "stop_lat": "49.088391",
+                        "stop_lon": "-123.080054",
+                        "stop_name": "NB ARTHUR DR FS 47 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 48 AV FS LAIDLAW ST",
-            "onestopId": "s-c28rr0ef25-eb48fslaidlaw",
+            "name": "NB ARTHUR DR FS 47 AV",
+            "onestopId": "s-c28rr0rbdg-nbarthurfs47",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1261,30 +1227,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.077496,
-                    49.105759
+                    -123.078685,
+                    49.105673
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7621",
+                    "identifier": "f-translink-s-7582",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57548",
-                        "stop_desc": "COMMODORE DR @ CLIPPER RD",
-                        "stop_id": "7621",
-                        "stop_lat": "49.105759",
-                        "stop_lon": "-123.077496",
-                        "stop_name": "WB COMMODORE DR FS CLIPPER RD",
+                        "stop_code": "57509",
+                        "stop_desc": "COMMODORE DR @ FERRY RD",
+                        "stop_id": "7582",
+                        "stop_lat": "49.105673",
+                        "stop_lon": "-123.078685",
+                        "stop_name": "EB COMMODORE DR FS FERRY RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB COMMODORE DR FS CLIPPER RD",
-            "onestopId": "s-c28rr73ty2-wbcommodorefsclipper",
+            "name": "EB COMMODORE DR FS FERRY RD",
+            "onestopId": "s-c28rr72v6b-ebcommodorefsferry",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1465,30 +1431,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.065122,
-                    49.093523
+                    -123.079902,
+                    49.087872
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7613",
+                    "identifier": "f-translink-s-7477",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57540",
-                        "stop_desc": "57 ST @ 49B AVE",
-                        "stop_id": "7613",
-                        "stop_lat": "49.093523",
-                        "stop_lon": "-123.065122",
-                        "stop_name": "NB 57 ST FS 49B AV",
+                        "stop_code": "57404",
+                        "stop_desc": "ARTHUR DR @ 47 AVE",
+                        "stop_id": "7477",
+                        "stop_lat": "49.087872",
+                        "stop_lon": "-123.079902",
+                        "stop_name": "SB ARTHUR DR FS 47 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 57 ST FS 49B AV",
-            "onestopId": "s-c28rr94wqz-nb57fs49b",
+            "name": "SB ARTHUR DR FS 47 AV",
+            "onestopId": "s-c28rr0pvw6-sbarthurfs47",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1523,6 +1489,40 @@
             ],
             "name": "LADNER EXCHANGE BAY 1",
             "onestopId": "s-c28rr8hs27-ladnerexchangebay1",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.068928,
+                    49.09027
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7472",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57399",
+                        "stop_desc": "LADNER TRUNK RD @ 55B ST",
+                        "stop_id": "7472",
+                        "stop_lat": "49.09027",
+                        "stop_lon": "-123.068928",
+                        "stop_name": "WB LADNER TRUNK RD FS 55B ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB LADNER TRUNK RD FS 55B ST",
+            "onestopId": "s-c28rr2xgw1-wbladnertrunkfs55b",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1601,30 +1601,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.079902,
-                    49.087872
+                    -123.071711,
+                    49.090117
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7477",
+                    "identifier": "f-translink-s-7466",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57404",
-                        "stop_desc": "ARTHUR DR @ 47 AVE",
-                        "stop_id": "7477",
-                        "stop_lat": "49.087872",
-                        "stop_lon": "-123.079902",
-                        "stop_name": "SB ARTHUR DR FS 47 AV",
+                        "stop_code": "57393",
+                        "stop_desc": "LADNER TRUNK RD @ LINDEN DR",
+                        "stop_id": "7466",
+                        "stop_lat": "49.090117",
+                        "stop_lon": "-123.071711",
+                        "stop_name": "EB LADNER TRUNK RD FS LINDEN DR",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB ARTHUR DR FS 47 AV",
-            "onestopId": "s-c28rr0pvw6-sbarthurfs47",
+            "name": "EB LADNER TRUNK RD FS LINDEN DR",
+            "onestopId": "s-c28rr2tftm-ebladnertrunkfslinden",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1669,30 +1669,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.065345,
-                    49.09477
+                    -123.079938,
+                    49.100432
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7589",
+                    "identifier": "f-translink-s-7624",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57516",
-                        "stop_desc": "57 ST @ GROVE AVE",
-                        "stop_id": "7589",
-                        "stop_lat": "49.09477",
-                        "stop_lon": "-123.065345",
-                        "stop_name": "SB 57 ST FS GROVE AV",
+                        "stop_code": "57551",
+                        "stop_desc": "FERRY RD @ SCHOONER GATE",
+                        "stop_id": "7624",
+                        "stop_lat": "49.100432",
+                        "stop_lon": "-123.079938",
+                        "stop_name": "SB FERRY RD FS SCHOONER GATE",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 57 ST FS GROVE AV",
-            "onestopId": "s-c28rr96tc8-sb57fsgrove",
+            "name": "SB FERRY RD FS SCHOONER GATE",
+            "onestopId": "s-c28rr4rytx-sbferryfsschoonergate",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1703,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.049284,
-                    49.127044
+                    -123.081753,
+                    49.089944
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4892",
+                    "identifier": "f-translink-s-7463",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54840",
-                        "stop_desc": "RIVER RD @ DEAS ISLAND RD",
-                        "stop_id": "4892",
-                        "stop_lat": "49.127044",
-                        "stop_lon": "-123.049284",
-                        "stop_name": "NB RIVER RD NS DEAS ISLAND RD",
+                        "stop_code": "57390",
+                        "stop_desc": "ARTHUR DR @ LADNER TRUNK RD",
+                        "stop_id": "7463",
+                        "stop_lat": "49.089944",
+                        "stop_lon": "-123.081753",
+                        "stop_name": "NB ARTHUR DR NS LADNER TRUNK RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB RIVER RD NS DEAS ISLAND RD",
-            "onestopId": "s-c28rrzq1zb-nbrivernsdeasisland",
+            "name": "NB ARTHUR DR NS LADNER TRUNK RD",
+            "onestopId": "s-c28rr0w9ek-nbarthurnsladnertrunk",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1771,30 +1771,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.080878,
-                    49.090529
+                    -123.056751,
+                    49.090484
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7576",
+                    "identifier": "f-translink-s-6738",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57503",
-                        "stop_desc": "CENTRAL AVE @ LADNER TRUNK RD",
-                        "stop_id": "7576",
-                        "stop_lat": "49.090529",
-                        "stop_lon": "-123.080878",
-                        "stop_name": "NB CENTRAL AV FS LADNER TRUNK RD",
+                        "stop_code": "56674",
+                        "stop_desc": "HWY 17A @ HWY 10",
+                        "stop_id": "6738",
+                        "stop_lat": "49.090484",
+                        "stop_lon": "-123.056751",
+                        "stop_name": "NB HWY 17A FS HWY 10",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB CENTRAL AV FS LADNER TRUNK RD",
-            "onestopId": "s-c28rr0xjp9-nbcentralfsladnertrunk",
+            "name": "NB HWY 17A FS HWY 10",
+            "onestopId": "s-c28rrb8ucc-nb17afs10",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1941,30 +1941,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.079038,
-                    49.092529
+                    -123.055655,
+                    49.090025
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7577",
+                    "identifier": "f-translink-s-5218",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57504",
-                        "stop_desc": "CENTRAL AVE @ 52A ST",
-                        "stop_id": "7577",
-                        "stop_lat": "49.092529",
-                        "stop_lon": "-123.079038",
-                        "stop_name": "NB CENTRAL AV NS 52A ST",
+                        "stop_code": "55166",
+                        "stop_desc": "HWY 10 @ HWY 17A",
+                        "stop_id": "5218",
+                        "stop_lat": "49.090025",
+                        "stop_lon": "-123.055655",
+                        "stop_name": "EB HWY 10 FS HWY 17A",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB CENTRAL AV NS 52A ST",
-            "onestopId": "s-c28rr308dw-nbcentralns52a",
+            "name": "EB HWY 10 FS HWY 17A",
+            "onestopId": "s-c28rrb9d57-eb10fs17a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2101,6 +2101,40 @@
             ],
             "name": "NB ADMIRAL BLVD FS COVE INLET RD",
             "onestopId": "s-c28rrkmesj-nbadmiralfscoveinlet",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.077496,
+                    49.105759
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7621",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57548",
+                        "stop_desc": "COMMODORE DR @ CLIPPER RD",
+                        "stop_id": "7621",
+                        "stop_lat": "49.105759",
+                        "stop_lon": "-123.077496",
+                        "stop_name": "WB COMMODORE DR FS CLIPPER RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB COMMODORE DR FS CLIPPER RD",
+            "onestopId": "s-c28rr73ty2-wbcommodorefsclipper",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2349,30 +2383,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.050883,
-                    49.087966
+                    -123.085667,
+                    49.090063
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10213",
+                    "identifier": "f-translink-s-10181",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59720",
-                        "stop_desc": "HOLLY PARK DR @ 62 ST",
-                        "stop_id": "10213",
-                        "stop_lat": "49.087966",
-                        "stop_lon": "-123.050883",
-                        "stop_name": "WB HOLLY PARK DR NS 62 ST",
+                        "stop_code": "58257",
+                        "stop_desc": "48 AVE @ LAIDLAW ST",
+                        "stop_id": "10181",
+                        "stop_lat": "49.090063",
+                        "stop_lon": "-123.085667",
+                        "stop_name": "EB 48 AV FS LAIDLAW ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB HOLLY PARK DR NS 62 ST",
-            "onestopId": "s-c28rrbjn4s-wbhollyparkns62",
+            "name": "EB 48 AV FS LAIDLAW ST",
+            "onestopId": "s-c28rr0ef25-eb48fslaidlaw",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.070641,
+                    49.101059
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7617",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57544",
+                        "stop_desc": "CRESCENT DR @ WELLBURN DR",
+                        "stop_id": "7617",
+                        "stop_lat": "49.101059",
+                        "stop_lon": "-123.070641",
+                        "stop_name": "WB CRESCENT DR FS WELLBURN DR",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB CRESCENT DR FS WELLBURN DR",
+            "onestopId": "s-c28rr6wdqh-wbcrescentfswellburn",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2451,30 +2519,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.078685,
-                    49.105673
+                    -123.051668,
+                    49.111957
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7582",
+                    "identifier": "f-translink-s-4874",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57509",
-                        "stop_desc": "COMMODORE DR @ FERRY RD",
-                        "stop_id": "7582",
-                        "stop_lat": "49.105673",
-                        "stop_lon": "-123.078685",
-                        "stop_name": "EB COMMODORE DR FS FERRY RD",
+                        "stop_code": "54822",
+                        "stop_desc": "HWY 17A @ 60 AVE",
+                        "stop_id": "4874",
+                        "stop_lat": "49.111957",
+                        "stop_lon": "-123.051668",
+                        "stop_name": "WB HWY 17A FS 60 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB COMMODORE DR FS FERRY RD",
-            "onestopId": "s-c28rr72v6b-ebcommodorefsferry",
+            "name": "WB HWY 17A FS 60 AV",
+            "onestopId": "s-c28rrus9bk-wb17afs60",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2519,64 +2587,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.081753,
-                    49.089944
+                    -123.078849,
+                    49.090325
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7463",
+                    "identifier": "f-translink-s-7475",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57390",
-                        "stop_desc": "ARTHUR DR @ LADNER TRUNK RD",
-                        "stop_id": "7463",
-                        "stop_lat": "49.089944",
-                        "stop_lon": "-123.081753",
-                        "stop_name": "NB ARTHUR DR NS LADNER TRUNK RD",
+                        "stop_code": "57402",
+                        "stop_desc": "LADNER TRUNK RD @ 52A ST",
+                        "stop_id": "7475",
+                        "stop_lat": "49.090325",
+                        "stop_lon": "-123.078849",
+                        "stop_name": "WB LADNER TRUNK RD FS 52A ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB ARTHUR DR NS LADNER TRUNK RD",
-            "onestopId": "s-c28rr0w9ek-nbarthurnsladnertrunk",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.068928,
-                    49.09027
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7472",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57399",
-                        "stop_desc": "LADNER TRUNK RD @ 55B ST",
-                        "stop_id": "7472",
-                        "stop_lat": "49.09027",
-                        "stop_lon": "-123.068928",
-                        "stop_name": "WB LADNER TRUNK RD FS 55B ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB LADNER TRUNK RD FS 55B ST",
-            "onestopId": "s-c28rr2xgw1-wbladnertrunkfs55b",
+            "name": "WB LADNER TRUNK RD FS 52A ST",
+            "onestopId": "s-c28rr28eyg-wbladnertrunkfs52a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2621,6 +2655,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.065122,
+                    49.093523
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7613",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57540",
+                        "stop_desc": "57 ST @ 49B AVE",
+                        "stop_id": "7613",
+                        "stop_lat": "49.093523",
+                        "stop_lon": "-123.065122",
+                        "stop_name": "NB 57 ST FS 49B AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 57 ST FS 49B AV",
+            "onestopId": "s-c28rr94wqz-nb57fs49b",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.074809,
                     49.106276
                 ],
@@ -2655,30 +2723,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.056751,
-                    49.090484
+                    -123.080878,
+                    49.090529
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-6738",
+                    "identifier": "f-translink-s-7576",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56674",
-                        "stop_desc": "HWY 17A @ HWY 10",
-                        "stop_id": "6738",
-                        "stop_lat": "49.090484",
-                        "stop_lon": "-123.056751",
-                        "stop_name": "NB HWY 17A FS HWY 10",
+                        "stop_code": "57503",
+                        "stop_desc": "CENTRAL AVE @ LADNER TRUNK RD",
+                        "stop_id": "7576",
+                        "stop_lat": "49.090529",
+                        "stop_lon": "-123.080878",
+                        "stop_name": "NB CENTRAL AV FS LADNER TRUNK RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB HWY 17A FS HWY 10",
-            "onestopId": "s-c28rrb8ucc-nb17afs10",
+            "name": "NB CENTRAL AV FS LADNER TRUNK RD",
+            "onestopId": "s-c28rr0xjp9-nbcentralfsladnertrunk",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -2713,74 +2781,6 @@
             ],
             "name": "WB ADMIRAL WAY AT 5300 BLOCK",
             "onestopId": "s-c28rrke5jr-wbadmiralat5300block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.051668,
-                    49.111957
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4874",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "54822",
-                        "stop_desc": "HWY 17A @ 60 AVE",
-                        "stop_id": "4874",
-                        "stop_lat": "49.111957",
-                        "stop_lon": "-123.051668",
-                        "stop_name": "WB HWY 17A FS 60 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB HWY 17A FS 60 AV",
-            "onestopId": "s-c28rrus9bk-wb17afs60",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.070476,
-                    49.100704
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7586",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57513",
-                        "stop_desc": "CRESCENT DR @ WELLBURN DR",
-                        "stop_id": "7586",
-                        "stop_lat": "49.100704",
-                        "stop_lon": "-123.070476",
-                        "stop_name": "EB CRESCENT DR FS WELLBURN DR",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB CRESCENT DR FS WELLBURN DR",
-            "onestopId": "s-c28rr6wb64-ebcrescentfswellburn",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

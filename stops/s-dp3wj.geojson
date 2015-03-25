@@ -36,29 +36,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64725505,
-                    41.87383531
+                    -87.629296,
+                    41.878183
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4638",
+                    "identifier": "f-cta-s-30014",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "4638",
-                        "stop_desc": "Halsted & Harrison, Southbound, Southwest Corner",
-                        "stop_id": "4638",
-                        "stop_lat": "41.87383531",
-                        "stop_lon": "-87.64725505",
-                        "stop_name": "Halsted & Harrison",
+                        "parent_station": "40070",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30014",
+                        "stop_lat": "41.878183",
+                        "stop_lon": "-87.629296",
+                        "stop_name": "Jackson-Blue",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30015",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40070",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30015",
+                        "stop_lat": "41.878183",
+                        "stop_lon": "-87.629296",
+                        "stop_name": "Jackson-Blue",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Harrison",
-            "onestopId": "s-dp3wjwchyb-halsted~harrison",
+            "name": "Jackson-Blue",
+            "onestopId": "s-dp3wjzwq17-jacksonblue",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -69,29 +83,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62760721,
-                    41.86905855
+                    -87.6409698,
+                    41.87935047
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15563",
+                    "identifier": "f-cta-s-15288",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15563",
-                        "stop_desc": "State & 11th Street, Southbound, Westside of the Street",
-                        "stop_id": "15563",
-                        "stop_lat": "41.86905855",
-                        "stop_lon": "-87.62760721",
-                        "stop_name": "State & 11th Street",
+                        "stop_code": "15288",
+                        "stop_desc": "Adams & Clinton, Westbound, Northeast Corner",
+                        "stop_id": "15288",
+                        "stop_lat": "41.87935047",
+                        "stop_lon": "-87.6409698",
+                        "stop_name": "Adams & Clinton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & 11th Street",
-            "onestopId": "s-dp3wjyp8by-state~11th",
+            "name": "Adams & Clinton",
+            "onestopId": "s-dp3wjxvuck-adams~clinton",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -168,39 +182,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62924766,
-                    41.87956079
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1880",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1880",
-                        "stop_desc": "Dearborn & Adams, Northbound, Northeast Corner",
-                        "stop_id": "1880",
-                        "stop_lat": "41.87956079",
-                        "stop_lon": "-87.62924766",
-                        "stop_name": "Dearborn & Adams",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Dearborn & Adams",
-            "onestopId": "s-dp3wjzyq4e-dearborn~adams",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.62745282,
                     41.87488286
                 ],
@@ -241,20 +222,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30286",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41490",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30286",
-                        "stop_lat": "41.874039",
-                        "stop_lon": "-87.627479",
-                        "stop_name": "Harrison",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30285",
                     "tags": {
                         "location_type": "0",
@@ -262,6 +229,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30285",
+                        "stop_lat": "41.874039",
+                        "stop_lon": "-87.627479",
+                        "stop_name": "Harrison",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30286",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41490",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30286",
                         "stop_lat": "41.874039",
                         "stop_lon": "-87.627479",
                         "stop_name": "Harrison",
@@ -420,20 +401,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30093",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40470",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30093",
-                        "stop_lat": "41.87592",
-                        "stop_lon": "-87.659458",
-                        "stop_name": "Racine",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30092",
                     "tags": {
                         "location_type": "0",
@@ -441,6 +408,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30092",
+                        "stop_lat": "41.87592",
+                        "stop_lon": "-87.659458",
+                        "stop_name": "Racine",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30093",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40470",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30093",
                         "stop_lat": "41.87592",
                         "stop_lon": "-87.659458",
                         "stop_name": "Racine",
@@ -922,29 +903,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65692967,
-                    41.86934884
+                    -87.64630716,
+                    41.836251
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6697",
+                    "identifier": "f-cta-s-17123",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6697",
-                        "stop_desc": "Taylor & Racine, Eastbound, Southwest Corner",
-                        "stop_id": "6697",
-                        "stop_lat": "41.86934884",
-                        "stop_lon": "-87.65692967",
-                        "stop_name": "Taylor & Racine",
+                        "stop_code": "17123",
+                        "stop_desc": "Halsted & 32nd Street, Southbound, Southwest Corner",
+                        "stop_id": "17123",
+                        "stop_lat": "41.836251",
+                        "stop_lon": "-87.64630716",
+                        "stop_name": "Halsted & 32nd Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Taylor & Racine",
-            "onestopId": "s-dp3wjq44tk-taylor~racine",
+            "name": "Halsted & 32nd Street",
+            "onestopId": "s-dp3wj81cv4-halsted~32nd",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -955,29 +936,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62762648,
-                    41.87032831
+                    -87.64988467,
+                    41.85250997
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17592",
+                    "identifier": "f-cta-s-6945",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17592",
-                        "stop_desc": "State & 9th Street, Southbound, Southwest Corner",
-                        "stop_id": "17592",
-                        "stop_lat": "41.87032831",
-                        "stop_lon": "-87.62762648",
-                        "stop_name": "State & 9th Street",
+                        "stop_code": "6945",
+                        "stop_desc": "929 W Cermak, Eastbound, Southside of the Street",
+                        "stop_id": "6945",
+                        "stop_lat": "41.85250997",
+                        "stop_lon": "-87.64988467",
+                        "stop_name": "929 W Cermak",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & 9th Street",
-            "onestopId": "s-dp3wjyr826-state~9th",
+            "name": "929 W Cermak",
+            "onestopId": "s-dp3wj7p299-929wcermak",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1252,29 +1233,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.664068,
-                    41.87759
+                    -87.63097526,
+                    41.876939
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-56",
+                    "identifier": "f-cta-s-17432",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56",
-                        "stop_desc": "Jackson & Laflin, Eastbound, Southeast Corner",
-                        "stop_id": "56",
-                        "stop_lat": "41.87759",
-                        "stop_lon": "-87.664068",
-                        "stop_name": "Jackson & Laflin",
+                        "stop_code": "17432",
+                        "stop_desc": "Van Buren & Clark, Westbound, Northwest Corner",
+                        "stop_id": "17432",
+                        "stop_lat": "41.876939",
+                        "stop_lon": "-87.63097526",
+                        "stop_name": "Van Buren & Clark",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson & Laflin",
-            "onestopId": "s-dp3wjpsfxh-jackson~laflin",
+            "name": "Van Buren & Clark",
+            "onestopId": "s-dp3wjzmnf7-vanburen~clark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1506,39 +1487,6 @@
             ],
             "name": "18th Street & Racine",
             "onestopId": "s-dp3wj7fryu-18th~racine",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.66591506,
-                    41.84944087
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-15474",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "15474",
-                        "stop_desc": "2400 S Ashland, Northbound, Northeast Corner",
-                        "stop_id": "15474",
-                        "stop_lat": "41.84944087",
-                        "stop_lon": "-87.66591506",
-                        "stop_name": "2400 S Ashland",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "2400 S Ashland",
-            "onestopId": "s-dp3wj47wsj-2400sashland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2150,20 +2098,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30261",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41340",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30261",
-                        "stop_lat": "41.875568",
-                        "stop_lon": "-87.631722",
-                        "stop_name": "LaSalle",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30262",
                     "tags": {
                         "location_type": "0",
@@ -2171,6 +2105,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30262",
+                        "stop_lat": "41.875568",
+                        "stop_lon": "-87.631722",
+                        "stop_name": "LaSalle",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30261",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41340",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30261",
                         "stop_lat": "41.875568",
                         "stop_lon": "-87.631722",
                         "stop_name": "LaSalle",
@@ -2388,29 +2336,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64157491,
-                    41.8399728
+                    -87.660176,
+                    41.874142
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5135",
+                    "identifier": "f-cta-s-196",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5135",
-                        "stop_desc": "Wallace & 30th Street, Southbound, Northwest Corner",
-                        "stop_id": "5135",
-                        "stop_lat": "41.8399728",
-                        "stop_lon": "-87.64157491",
-                        "stop_name": "Wallace & 30th Street",
+                        "stop_code": "196",
+                        "stop_desc": "1335 W Harrison, Eastbound, Southwest Corner",
+                        "stop_id": "196",
+                        "stop_lat": "41.874142",
+                        "stop_lon": "-87.660176",
+                        "stop_name": "1335 W Harrison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Wallace & 30th Street",
-            "onestopId": "s-dp3wj8tre2-wallace~30th",
+            "name": "1335 W Harrison",
+            "onestopId": "s-dp3wjnzy9c-1335wharrison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2619,29 +2567,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64716618,
-                    41.87815436
+                    -87.64057609,
+                    41.86735198
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-18009",
+                    "identifier": "f-cta-s-328",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "18009",
-                        "stop_desc": "Halsted & Jackson, Northbound, Northeast Corner",
-                        "stop_id": "18009",
-                        "stop_lat": "41.87815436",
-                        "stop_lon": "-87.64716618",
-                        "stop_name": "Halsted & Jackson",
+                        "stop_code": "328",
+                        "stop_desc": "Roosevelt & Clinton, Westbound, Northeast Corner",
+                        "stop_id": "328",
+                        "stop_lat": "41.86735198",
+                        "stop_lon": "-87.64057609",
+                        "stop_name": "Roosevelt & Clinton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Jackson",
-            "onestopId": "s-dp3wjx9mcj-halsted~jackson",
+            "name": "Roosevelt & Clinton",
+            "onestopId": "s-dp3wjtwp48-roosevelt~clinton",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2718,43 +2666,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.629296,
-                    41.878183
+                    -87.64725505,
+                    41.87383531
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30014",
+                    "identifier": "f-cta-s-4638",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40070",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30014",
-                        "stop_lat": "41.878183",
-                        "stop_lon": "-87.629296",
-                        "stop_name": "Jackson-Blue",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30015",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40070",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30015",
-                        "stop_lat": "41.878183",
-                        "stop_lon": "-87.629296",
-                        "stop_name": "Jackson-Blue",
+                        "parent_station": "",
+                        "stop_code": "4638",
+                        "stop_desc": "Halsted & Harrison, Southbound, Southwest Corner",
+                        "stop_id": "4638",
+                        "stop_lat": "41.87383531",
+                        "stop_lon": "-87.64725505",
+                        "stop_name": "Halsted & Harrison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson-Blue",
-            "onestopId": "s-dp3wjzwq17-jacksonblue",
+            "name": "Halsted & Harrison",
+            "onestopId": "s-dp3wjwchyb-halsted~harrison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2765,29 +2699,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63938046,
-                    41.87682748
+                    -87.62769601,
+                    41.87499673
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-84",
+                    "identifier": "f-cta-s-1431",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "84",
-                        "stop_desc": "Van Buren & Canal, Westbound, Northeast Corner",
-                        "stop_id": "84",
-                        "stop_lat": "41.87682748",
-                        "stop_lon": "-87.63938046",
-                        "stop_name": "Van Buren & Canal",
+                        "stop_code": "1431",
+                        "stop_desc": "State & Harrison/Congress, Southbound, Westside of the Street",
+                        "stop_id": "1431",
+                        "stop_lat": "41.87499673",
+                        "stop_lon": "-87.62769601",
+                        "stop_name": "State & Harrison/Congress",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Van Buren & Canal",
-            "onestopId": "s-dp3wjxqynq-vanburen~canal",
+            "name": "State & Harrison/Congress",
+            "onestopId": "s-dp3wjzp7w9-state~harrison~congress",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2963,29 +2897,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65411465,
-                    41.86952111
+                    -87.62762648,
+                    41.87032831
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6629",
+                    "identifier": "f-cta-s-17592",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6629",
-                        "stop_desc": "Taylor & Aberdeen, Westbound, Northeast Corner",
-                        "stop_id": "6629",
-                        "stop_lat": "41.86952111",
-                        "stop_lon": "-87.65411465",
-                        "stop_name": "Taylor & Aberdeen",
+                        "stop_code": "17592",
+                        "stop_desc": "State & 9th Street, Southbound, Southwest Corner",
+                        "stop_id": "17592",
+                        "stop_lat": "41.87032831",
+                        "stop_lon": "-87.62762648",
+                        "stop_name": "State & 9th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Taylor & Aberdeen",
-            "onestopId": "s-dp3wjqh5xh-taylor~aberdeen",
+            "name": "State & 9th Street",
+            "onestopId": "s-dp3wjyr826-state~9th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3062,43 +2996,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.648088,
-                    41.84678
+                    -87.6473009,
+                    41.87700755
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30215",
+                    "identifier": "f-cta-s-5800",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "41130",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30215",
-                        "stop_lat": "41.84678",
-                        "stop_lon": "-87.648088",
-                        "stop_name": "Halsted-Orange",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30216",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41130",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30216",
-                        "stop_lat": "41.84678",
-                        "stop_lon": "-87.648088",
-                        "stop_name": "Halsted-Orange",
+                        "parent_station": "",
+                        "stop_code": "5800",
+                        "stop_desc": "Halsted & Van Buren, Southbound, Northwest Corner",
+                        "stop_id": "5800",
+                        "stop_lat": "41.87700755",
+                        "stop_lon": "-87.6473009",
+                        "stop_name": "Halsted & Van Buren",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted-Orange",
-            "onestopId": "s-dp3wj9bx5t-halstedorange",
+            "name": "Halsted & Van Buren",
+            "onestopId": "s-dp3wjx3pmb-halsted~vanburen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3132,6 +3052,39 @@
             ],
             "name": "Taylor & Loomis",
             "onestopId": "s-dp3wjnnd73-taylor~loomis",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.64199636,
+                    41.84894549
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-4451",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4451",
+                        "stop_desc": "Archer & Wallace, Northeastbound, Southeast Corner",
+                        "stop_id": "4451",
+                        "stop_lat": "41.84894549",
+                        "stop_lon": "-87.64199636",
+                        "stop_name": "Archer & Wallace",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Archer & Wallace",
+            "onestopId": "s-dp3wjdm5c2-archer~wallace",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3208,29 +3161,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64460205,
-                    41.8527397
+                    -87.66666711,
+                    41.86919082
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6851",
+                    "identifier": "f-cta-s-6693",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6851",
-                        "stop_desc": "Cermak & Union, Westbound, Northeast Corner",
-                        "stop_id": "6851",
-                        "stop_lat": "41.8527397",
-                        "stop_lon": "-87.64460205",
-                        "stop_name": "Cermak & Union",
+                        "stop_code": "6693",
+                        "stop_desc": "Taylor & Ashland, Eastbound, Southwest Corner",
+                        "stop_id": "6693",
+                        "stop_lat": "41.86919082",
+                        "stop_lon": "-87.66666711",
+                        "stop_name": "Taylor & Ashland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Union",
-            "onestopId": "s-dp3wje51uu-cermak~union",
+            "name": "Taylor & Ashland",
+            "onestopId": "s-dp3wjn51dw-taylor~ashland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3505,29 +3458,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65932106,
-                    41.87652937
+                    -87.64212141,
+                    41.87430669
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-94",
+                    "identifier": "f-cta-s-17995",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "94",
-                        "stop_desc": "Van Buren & Throop, Westbound, Northeast Corner",
-                        "stop_id": "94",
-                        "stop_lat": "41.87652937",
-                        "stop_lon": "-87.65932106",
-                        "stop_name": "Van Buren & Throop",
+                        "stop_code": "17995",
+                        "stop_desc": "Harrison & Jefferson, Eastbound, Southeast Corner",
+                        "stop_id": "17995",
+                        "stop_lat": "41.87430669",
+                        "stop_lon": "-87.64212141",
+                        "stop_name": "Harrison & Jefferson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Van Buren & Throop",
-            "onestopId": "s-dp3wjr2kmy-vanburen~throop",
+            "name": "Harrison & Jefferson",
+            "onestopId": "s-dp3wjwuzw8-harrison~jefferson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4047,6 +4000,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.65411465,
+                    41.86952111
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6629",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6629",
+                        "stop_desc": "Taylor & Aberdeen, Westbound, Northeast Corner",
+                        "stop_id": "6629",
+                        "stop_lat": "41.86952111",
+                        "stop_lon": "-87.65411465",
+                        "stop_name": "Taylor & Aberdeen",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Taylor & Aberdeen",
+            "onestopId": "s-dp3wjqh5xh-taylor~aberdeen",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.651483,
                     41.869554
                 ],
@@ -4080,29 +4066,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63011177,
-                    41.85767207
+                    -87.627442,
+                    41.862083
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6283",
+                    "identifier": "f-cta-s-2379",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6283",
-                        "stop_desc": "Clark & 18th Street, Northbound, Southeast Corner",
-                        "stop_id": "6283",
-                        "stop_lat": "41.85767207",
-                        "stop_lon": "-87.63011177",
-                        "stop_name": "Clark & 18th Street",
+                        "stop_code": "2379",
+                        "stop_desc": "State & 15th Street, Southbound, Northwest Corner",
+                        "stop_id": "2379",
+                        "stop_lat": "41.862083",
+                        "stop_lon": "-87.627442",
+                        "stop_name": "State & 15th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Clark & 18th Street",
-            "onestopId": "s-dp3wjgvww7-clark~18th",
+            "name": "State & 15th Street",
+            "onestopId": "s-dp3wjuz8k9-state~15th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4443,29 +4429,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63990137,
-                    41.85021627
+                    -87.64707825,
+                    41.86675062
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4452",
+                    "identifier": "f-cta-s-17366",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4452",
-                        "stop_desc": "Archer & 23rd Place, Northeastbound, Southeast Corner",
-                        "stop_id": "4452",
-                        "stop_lat": "41.85021627",
-                        "stop_lon": "-87.63990137",
-                        "stop_name": "Archer & 23rd Place",
+                        "stop_code": "17366",
+                        "stop_desc": "Halsted & Roosevelt, Southbound, Southwest Corner",
+                        "stop_id": "17366",
+                        "stop_lat": "41.86675062",
+                        "stop_lon": "-87.64707825",
+                        "stop_name": "Halsted & Roosevelt",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Archer & 23rd Place",
-            "onestopId": "s-dp3wjdwe4m-archer~23rdplace",
+            "name": "Halsted & Roosevelt",
+            "onestopId": "s-dp3wjt977p-halsted~roosevelt",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4641,29 +4627,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63060611,
-                    41.86723861
+                    -87.62766569,
+                    41.87205646
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-315",
+                    "identifier": "f-cta-s-17590",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "315",
-                        "stop_desc": "Roosevelt & Clark, Eastbound, Southwest Corner",
-                        "stop_id": "315",
-                        "stop_lat": "41.86723861",
-                        "stop_lon": "-87.63060611",
-                        "stop_name": "Roosevelt & Clark",
+                        "stop_code": "17590",
+                        "stop_desc": "State & Polk, Southbound, Southwest Corner",
+                        "stop_id": "17590",
+                        "stop_lat": "41.87205646",
+                        "stop_lon": "-87.62766569",
+                        "stop_name": "State & Polk",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Roosevelt & Clark",
-            "onestopId": "s-dp3wjvtq6f-roosevelt~clark",
+            "name": "State & Polk",
+            "onestopId": "s-dp3wjyx6rm-state~polk",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4971,6 +4957,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.62716041,
+                    41.85088532
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-2387",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "2387",
+                        "stop_desc": "State & 23rd Street, Southbound, Westside of the Street",
+                        "stop_id": "2387",
+                        "stop_lat": "41.85088532",
+                        "stop_lon": "-87.62716041",
+                        "stop_name": "State & 23rd Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "State & 23rd Street",
+            "onestopId": "s-dp3wjfxz54-state~23rd",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.65216675,
                     41.87664756
                 ],
@@ -5037,29 +5056,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64840276,
-                    41.85798216
+                    -87.66576386,
+                    41.85242945
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6772",
+                    "identifier": "f-cta-s-6862",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6772",
-                        "stop_desc": "18th Street & Peoria, Eastbound, Southwest Corner",
-                        "stop_id": "6772",
-                        "stop_lat": "41.85798216",
-                        "stop_lon": "-87.64840276",
-                        "stop_name": "18th Street & Peoria",
+                        "stop_code": "6862",
+                        "stop_desc": "Cermak & Ashland, Westbound, Northeast Corner",
+                        "stop_id": "6862",
+                        "stop_lat": "41.85242945",
+                        "stop_lon": "-87.66576386",
+                        "stop_name": "Cermak & Ashland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "18th Street & Peoria",
-            "onestopId": "s-dp3wjs02kj-18th~peoria",
+            "name": "Cermak & Ashland",
+            "onestopId": "s-dp3wj558pd-cermak~ashland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5202,29 +5221,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62716041,
-                    41.85088532
+                    -87.66591506,
+                    41.84944087
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2387",
+                    "identifier": "f-cta-s-15474",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2387",
-                        "stop_desc": "State & 23rd Street, Southbound, Westside of the Street",
-                        "stop_id": "2387",
-                        "stop_lat": "41.85088532",
-                        "stop_lon": "-87.62716041",
-                        "stop_name": "State & 23rd Street",
+                        "stop_code": "15474",
+                        "stop_desc": "2400 S Ashland, Northbound, Northeast Corner",
+                        "stop_id": "15474",
+                        "stop_lat": "41.84944087",
+                        "stop_lon": "-87.66591506",
+                        "stop_name": "2400 S Ashland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & 23rd Street",
-            "onestopId": "s-dp3wjfxz54-state~23rd",
+            "name": "2400 S Ashland",
+            "onestopId": "s-dp3wj47wsj-2400sashland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5235,29 +5254,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64212141,
-                    41.87430669
+                    -87.65932106,
+                    41.87652937
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17995",
+                    "identifier": "f-cta-s-94",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17995",
-                        "stop_desc": "Harrison & Jefferson, Eastbound, Southeast Corner",
-                        "stop_id": "17995",
-                        "stop_lat": "41.87430669",
-                        "stop_lon": "-87.64212141",
-                        "stop_name": "Harrison & Jefferson",
+                        "stop_code": "94",
+                        "stop_desc": "Van Buren & Throop, Westbound, Northeast Corner",
+                        "stop_id": "94",
+                        "stop_lat": "41.87652937",
+                        "stop_lon": "-87.65932106",
+                        "stop_name": "Van Buren & Throop",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Harrison & Jefferson",
-            "onestopId": "s-dp3wjwuzw8-harrison~jefferson",
+            "name": "Van Buren & Throop",
+            "onestopId": "s-dp3wjr2kmy-vanburen~throop",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5367,29 +5386,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66607416,
-                    41.84751146
+                    -87.668589,
+                    41.852226
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6059",
+                    "identifier": "f-cta-s-6936",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6059",
-                        "stop_desc": "2450 S Ashland, Southbound, Westside of the Street",
-                        "stop_id": "6059",
-                        "stop_lat": "41.84751146",
-                        "stop_lon": "-87.66607416",
-                        "stop_name": "2450 S Ashland",
+                        "stop_code": "6936",
+                        "stop_desc": "Cermak & Paulina, Eastbound, Southwest Corner",
+                        "stop_id": "6936",
+                        "stop_lat": "41.852226",
+                        "stop_lon": "-87.668589",
+                        "stop_name": "Cermak & Paulina",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "2450 S Ashland",
-            "onestopId": "s-dp3wj45e2m-2450sashland",
+            "name": "Cermak & Paulina",
+            "onestopId": "s-dp3wj4cwvu-cermak~paulina",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5400,29 +5419,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6409698,
-                    41.87935047
+                    -87.62760721,
+                    41.86905855
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15288",
+                    "identifier": "f-cta-s-15563",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15288",
-                        "stop_desc": "Adams & Clinton, Westbound, Northeast Corner",
-                        "stop_id": "15288",
-                        "stop_lat": "41.87935047",
-                        "stop_lon": "-87.6409698",
-                        "stop_name": "Adams & Clinton",
+                        "stop_code": "15563",
+                        "stop_desc": "State & 11th Street, Southbound, Westside of the Street",
+                        "stop_id": "15563",
+                        "stop_lat": "41.86905855",
+                        "stop_lon": "-87.62760721",
+                        "stop_name": "State & 11th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Adams & Clinton",
-            "onestopId": "s-dp3wjxvuck-adams~clinton",
+            "name": "State & 11th Street",
+            "onestopId": "s-dp3wjyp8by-state~11th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5598,29 +5617,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64630716,
-                    41.836251
+                    -87.65692967,
+                    41.86934884
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17123",
+                    "identifier": "f-cta-s-6697",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17123",
-                        "stop_desc": "Halsted & 32nd Street, Southbound, Southwest Corner",
-                        "stop_id": "17123",
-                        "stop_lat": "41.836251",
-                        "stop_lon": "-87.64630716",
-                        "stop_name": "Halsted & 32nd Street",
+                        "stop_code": "6697",
+                        "stop_desc": "Taylor & Racine, Eastbound, Southwest Corner",
+                        "stop_id": "6697",
+                        "stop_lat": "41.86934884",
+                        "stop_lon": "-87.65692967",
+                        "stop_name": "Taylor & Racine",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 32nd Street",
-            "onestopId": "s-dp3wj81cv4-halsted~32nd",
+            "name": "Taylor & Racine",
+            "onestopId": "s-dp3wjq44tk-taylor~racine",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5664,29 +5683,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64662275,
-                    41.85273736
+                    -87.646616,
+                    41.859808
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-16193",
+                    "identifier": "f-cta-s-5924",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "16193",
-                        "stop_desc": "Cermak & Halsted, Westbound, Northwest Corner",
-                        "stop_id": "16193",
-                        "stop_lat": "41.85273736",
-                        "stop_lon": "-87.64662275",
-                        "stop_name": "Cermak & Halsted",
+                        "stop_code": "5924",
+                        "stop_desc": "Halsted & 16th Street, Northbound, Southeast Corner",
+                        "stop_id": "5924",
+                        "stop_lat": "41.859808",
+                        "stop_lon": "-87.646616",
+                        "stop_name": "Halsted & 16th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Halsted",
-            "onestopId": "s-dp3wje19ve-cermak~halsted",
+            "name": "Halsted & 16th Street",
+            "onestopId": "s-dp3wjs3ejc-halsted~16th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5763,29 +5782,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66666711,
-                    41.86919082
+                    -87.64460205,
+                    41.8527397
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6693",
+                    "identifier": "f-cta-s-6851",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6693",
-                        "stop_desc": "Taylor & Ashland, Eastbound, Southwest Corner",
-                        "stop_id": "6693",
-                        "stop_lat": "41.86919082",
-                        "stop_lon": "-87.66666711",
-                        "stop_name": "Taylor & Ashland",
+                        "stop_code": "6851",
+                        "stop_desc": "Cermak & Union, Westbound, Northeast Corner",
+                        "stop_id": "6851",
+                        "stop_lat": "41.8527397",
+                        "stop_lon": "-87.64460205",
+                        "stop_name": "Cermak & Union",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Taylor & Ashland",
-            "onestopId": "s-dp3wjn51dw-taylor~ashland",
+            "name": "Cermak & Union",
+            "onestopId": "s-dp3wje51uu-cermak~union",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6060,6 +6079,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.66656477,
+                    41.85216107
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6381",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6381",
+                        "stop_desc": "Blue Island & Ashland/Cermak, Southwestbound, Northwest Corner",
+                        "stop_id": "6381",
+                        "stop_lat": "41.85216107",
+                        "stop_lon": "-87.66656477",
+                        "stop_name": "Blue Island & Ashland/Cermak",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Blue Island & Ashland/Cermak",
+            "onestopId": "s-dp3wj4gnsb-blueisland~ashland~cermak",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.6382457,
                     41.84560309
                 ],
@@ -6258,43 +6310,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.631739,
-                    41.8768
+                    -87.64676848,
+                    41.8581596
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30030",
+                    "identifier": "f-cta-s-6805",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40160",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30030",
-                        "stop_lat": "41.8768",
-                        "stop_lon": "-87.631739",
-                        "stop_name": "LaSalle/Van Buren",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30031",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40160",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30031",
-                        "stop_lat": "41.8768",
-                        "stop_lon": "-87.631739",
-                        "stop_name": "LaSalle/Van Buren",
-                        "wheelchair_boarding": "0"
+                        "parent_station": "",
+                        "stop_code": "6805",
+                        "stop_desc": "18th Street & Halsted, Westbound, Northwest Corner",
+                        "stop_id": "6805",
+                        "stop_lat": "41.8581596",
+                        "stop_lon": "-87.64676848",
+                        "stop_name": "18th Street & Halsted",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "LaSalle/Van Buren",
-            "onestopId": "s-dp3wjzkw03-lasalle~vanburen",
+            "name": "18th Street & Halsted",
+            "onestopId": "s-dp3wjs196q-18th~halsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6649,29 +6687,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64745425,
-                    41.86725068
+                    -87.64671323,
+                    41.84698994
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17396",
+                    "identifier": "f-cta-s-4449",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17396",
-                        "stop_desc": "Roosevelt & Halsted, Westbound, Northwest Corner",
-                        "stop_id": "17396",
-                        "stop_lat": "41.86725068",
-                        "stop_lon": "-87.64745425",
-                        "stop_name": "Roosevelt & Halsted",
+                        "stop_code": "4449",
+                        "stop_desc": "Archer & Halsted, Northeastbound, Southwest Corner",
+                        "stop_id": "4449",
+                        "stop_lat": "41.84698994",
+                        "stop_lon": "-87.64671323",
+                        "stop_name": "Archer & Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Roosevelt & Halsted",
-            "onestopId": "s-dp3wjt9n6m-roosevelt~halsted",
+            "name": "Archer & Halsted",
+            "onestopId": "s-dp3wjd187s-archer~halsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7177,29 +7215,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.63097526,
-                    41.876939
+                    -87.664068,
+                    41.87759
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17432",
+                    "identifier": "f-cta-s-56",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17432",
-                        "stop_desc": "Van Buren & Clark, Westbound, Northwest Corner",
-                        "stop_id": "17432",
-                        "stop_lat": "41.876939",
-                        "stop_lon": "-87.63097526",
-                        "stop_name": "Van Buren & Clark",
+                        "stop_code": "56",
+                        "stop_desc": "Jackson & Laflin, Eastbound, Southeast Corner",
+                        "stop_id": "56",
+                        "stop_lat": "41.87759",
+                        "stop_lon": "-87.664068",
+                        "stop_name": "Jackson & Laflin",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Van Buren & Clark",
-            "onestopId": "s-dp3wjzmnf7-vanburen~clark",
+            "name": "Jackson & Laflin",
+            "onestopId": "s-dp3wjpsfxh-jackson~laflin",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7422,29 +7460,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.651938,
-                    41.874283
+                    -87.664252,
+                    41.874122
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-200",
+                    "identifier": "f-cta-s-194",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "200",
-                        "stop_desc": "Harrison & Morgan, Eastbound, Southside of the Street",
-                        "stop_id": "200",
-                        "stop_lat": "41.874283",
-                        "stop_lon": "-87.651938",
-                        "stop_name": "Harrison & Morgan",
+                        "stop_code": "194",
+                        "stop_desc": "Harrison & Laflin, Eastbound, Southside of the Street",
+                        "stop_id": "194",
+                        "stop_lat": "41.874122",
+                        "stop_lon": "-87.664252",
+                        "stop_name": "Harrison & Laflin",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Harrison & Morgan",
-            "onestopId": "s-dp3wjqvz3u-harrison~morgan",
+            "name": "Harrison & Laflin",
+            "onestopId": "s-dp3wjnuy6y-harrison~laflin",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7488,29 +7526,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.644523,
-                    41.8482504
+                    -87.65445,
+                    41.874376
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4468",
+                    "identifier": "f-cta-s-209",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4468",
-                        "stop_desc": "Archer & Lowe, Southwestbound, Northside of the Street",
-                        "stop_id": "4468",
-                        "stop_lat": "41.8482504",
-                        "stop_lon": "-87.644523",
-                        "stop_name": "Archer & Lowe",
+                        "stop_code": "209",
+                        "stop_desc": "1100 W Harrison, Westbound, Northside of the Street",
+                        "stop_id": "209",
+                        "stop_lat": "41.874376",
+                        "stop_lon": "-87.65445",
+                        "stop_name": "1100 W Harrison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Archer & Lowe",
-            "onestopId": "s-dp3wjd5pwx-archer~lowe",
+            "name": "1100 W Harrison",
+            "onestopId": "s-dp3wjqgzzm-1100wharrison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7752,29 +7790,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6326028,
-                    41.87692096
+                    -87.67065615,
+                    41.85229837
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15063",
+                    "identifier": "f-cta-s-6864",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15063",
-                        "stop_desc": "Van Buren & Financial Place, Westbound, Northeast Corner",
-                        "stop_id": "15063",
-                        "stop_lat": "41.87692096",
-                        "stop_lon": "-87.6326028",
-                        "stop_name": "Van Buren & Financial Place",
+                        "stop_code": "6864",
+                        "stop_desc": "Cermak & Wood, Westbound, Northeast Corner",
+                        "stop_id": "6864",
+                        "stop_lat": "41.85229837",
+                        "stop_lon": "-87.67065615",
+                        "stop_name": "Cermak & Wood",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Van Buren & Financial Place",
-            "onestopId": "s-dp3wjz7ysr-vanburen~financialplace",
+            "name": "Cermak & Wood",
+            "onestopId": "s-dp3wj4bpm9-cermak~wood",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7983,39 +8021,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62697263,
-                    41.85261269
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2343",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2343",
-                        "stop_desc": "State & Cermak, Northbound, Southeast Corner",
-                        "stop_id": "2343",
-                        "stop_lat": "41.85261269",
-                        "stop_lon": "-87.62697263",
-                        "stop_name": "State & Cermak",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "State & Cermak",
-            "onestopId": "s-dp3wjgpcps-state~cermak",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.631747,
                     41.839873
                 ],
@@ -8049,29 +8054,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62702,
-                    41.855343
+                    -87.653405,
+                    41.857935
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-2345",
+                    "identifier": "f-cta-s-6769",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "2345",
-                        "stop_desc": "State & Cullerton, Northbound, Southeast Corner",
-                        "stop_id": "2345",
-                        "stop_lat": "41.855343",
-                        "stop_lon": "-87.62702",
-                        "stop_name": "State & Cullerton",
+                        "stop_code": "6769",
+                        "stop_desc": "18th Street & Carpenter, Eastbound, Southwest Corner",
+                        "stop_id": "6769",
+                        "stop_lat": "41.857935",
+                        "stop_lon": "-87.653405",
+                        "stop_name": "18th Street & Carpenter",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & Cullerton",
-            "onestopId": "s-dp3wjgxcn3-state~cullerton",
+            "name": "18th Street & Carpenter",
+            "onestopId": "s-dp3wjkh8ps-18th~carpenter",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8228,29 +8233,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64671323,
-                    41.84698994
+                    -87.64745425,
+                    41.86725068
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4449",
+                    "identifier": "f-cta-s-17396",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4449",
-                        "stop_desc": "Archer & Halsted, Northeastbound, Southwest Corner",
-                        "stop_id": "4449",
-                        "stop_lat": "41.84698994",
-                        "stop_lon": "-87.64671323",
-                        "stop_name": "Archer & Halsted",
+                        "stop_code": "17396",
+                        "stop_desc": "Roosevelt & Halsted, Westbound, Northwest Corner",
+                        "stop_id": "17396",
+                        "stop_lat": "41.86725068",
+                        "stop_lon": "-87.64745425",
+                        "stop_name": "Roosevelt & Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Archer & Halsted",
-            "onestopId": "s-dp3wjd187s-archer~halsted",
+            "name": "Roosevelt & Halsted",
+            "onestopId": "s-dp3wjt9n6m-roosevelt~halsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8572,29 +8577,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.660176,
-                    41.874142
+                    -87.64157491,
+                    41.8399728
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-196",
+                    "identifier": "f-cta-s-5135",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "196",
-                        "stop_desc": "1335 W Harrison, Eastbound, Southwest Corner",
-                        "stop_id": "196",
-                        "stop_lat": "41.874142",
-                        "stop_lon": "-87.660176",
-                        "stop_name": "1335 W Harrison",
+                        "stop_code": "5135",
+                        "stop_desc": "Wallace & 30th Street, Southbound, Northwest Corner",
+                        "stop_id": "5135",
+                        "stop_lat": "41.8399728",
+                        "stop_lon": "-87.64157491",
+                        "stop_name": "Wallace & 30th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "1335 W Harrison",
-            "onestopId": "s-dp3wjnzy9c-1335wharrison",
+            "name": "Wallace & 30th Street",
+            "onestopId": "s-dp3wj8tre2-wallace~30th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8605,29 +8610,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62769601,
-                    41.87499673
+                    -87.63938046,
+                    41.87682748
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1431",
+                    "identifier": "f-cta-s-84",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1431",
-                        "stop_desc": "State & Harrison/Congress, Southbound, Westside of the Street",
-                        "stop_id": "1431",
-                        "stop_lat": "41.87499673",
-                        "stop_lon": "-87.62769601",
-                        "stop_name": "State & Harrison/Congress",
+                        "stop_code": "84",
+                        "stop_desc": "Van Buren & Canal, Westbound, Northeast Corner",
+                        "stop_id": "84",
+                        "stop_lat": "41.87682748",
+                        "stop_lon": "-87.63938046",
+                        "stop_name": "Van Buren & Canal",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "State & Harrison/Congress",
-            "onestopId": "s-dp3wjzp7w9-state~harrison~congress",
+            "name": "Van Buren & Canal",
+            "onestopId": "s-dp3wjxqynq-vanburen~canal",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8770,6 +8775,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.63011177,
+                    41.85767207
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6283",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6283",
+                        "stop_desc": "Clark & 18th Street, Northbound, Southeast Corner",
+                        "stop_id": "6283",
+                        "stop_lat": "41.85767207",
+                        "stop_lon": "-87.63011177",
+                        "stop_name": "Clark & 18th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Clark & 18th Street",
+            "onestopId": "s-dp3wjgvww7-clark~18th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.64686756,
                     41.86249093
                 ],
@@ -8836,29 +8874,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.669231,
-                    41.87409
+                    -87.66150209,
+                    41.8578029
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-49",
+                    "identifier": "f-cta-s-6765",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "49",
-                        "stop_desc": "Harrison & Paulina, Eastbound, Southwest Corner",
-                        "stop_id": "49",
-                        "stop_lat": "41.87409",
-                        "stop_lon": "-87.669231",
-                        "stop_name": "Harrison & Paulina",
+                        "stop_code": "6765",
+                        "stop_desc": "18th Street & Blue Island, Eastbound, Southwest Corner",
+                        "stop_id": "6765",
+                        "stop_lat": "41.8578029",
+                        "stop_lon": "-87.66150209",
+                        "stop_name": "18th Street & Blue Island",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Harrison & Paulina",
-            "onestopId": "s-dp3wjncnqb-harrison~paulina",
+            "name": "18th Street & Blue Island",
+            "onestopId": "s-dp3wj5yz6u-18th~blueisland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9232,29 +9270,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64676848,
-                    41.8581596
+                    -87.631739,
+                    41.8768
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6805",
+                    "identifier": "f-cta-s-30030",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6805",
-                        "stop_desc": "18th Street & Halsted, Westbound, Northwest Corner",
-                        "stop_id": "6805",
-                        "stop_lat": "41.8581596",
-                        "stop_lon": "-87.64676848",
-                        "stop_name": "18th Street & Halsted",
-                        "wheelchair_boarding": "1"
+                        "parent_station": "40160",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30030",
+                        "stop_lat": "41.8768",
+                        "stop_lon": "-87.631739",
+                        "stop_name": "LaSalle/Van Buren",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30031",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40160",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30031",
+                        "stop_lat": "41.8768",
+                        "stop_lon": "-87.631739",
+                        "stop_name": "LaSalle/Van Buren",
+                        "wheelchair_boarding": "0"
                     }
                 }
             ],
-            "name": "18th Street & Halsted",
-            "onestopId": "s-dp3wjs196q-18th~halsted",
+            "name": "LaSalle/Van Buren",
+            "onestopId": "s-dp3wjzkw03-lasalle~vanburen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9272,20 +9324,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30085",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40430",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30085",
-                        "stop_lat": "41.875539",
-                        "stop_lon": "-87.640984",
-                        "stop_name": "Clinton-Blue",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30084",
                     "tags": {
                         "location_type": "0",
@@ -9293,6 +9331,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30084",
+                        "stop_lat": "41.875539",
+                        "stop_lon": "-87.640984",
+                        "stop_name": "Clinton-Blue",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30085",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40430",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30085",
                         "stop_lat": "41.875539",
                         "stop_lon": "-87.640984",
                         "stop_name": "Clinton-Blue",
@@ -9807,72 +9859,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64269538,
-                    41.86978662
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-17275",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "17275",
-                        "stop_desc": "Taylor & Jefferson, Westbound, Northwest Corner",
-                        "stop_id": "17275",
-                        "stop_lat": "41.86978662",
-                        "stop_lon": "-87.64269538",
-                        "stop_name": "Taylor & Jefferson",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Taylor & Jefferson",
-            "onestopId": "s-dp3wjwht1j-taylor~jefferson",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.627442,
-                    41.862083
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-2379",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "2379",
-                        "stop_desc": "State & 15th Street, Southbound, Northwest Corner",
-                        "stop_id": "2379",
-                        "stop_lat": "41.862083",
-                        "stop_lon": "-87.627442",
-                        "stop_name": "State & 15th Street",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "State & 15th Street",
-            "onestopId": "s-dp3wjuz8k9-state~15th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.62877469,
                     41.85567111
                 ],
@@ -9906,29 +9892,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64707825,
-                    41.86675062
+                    -87.63990137,
+                    41.85021627
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17366",
+                    "identifier": "f-cta-s-4452",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17366",
-                        "stop_desc": "Halsted & Roosevelt, Southbound, Southwest Corner",
-                        "stop_id": "17366",
-                        "stop_lat": "41.86675062",
-                        "stop_lon": "-87.64707825",
-                        "stop_name": "Halsted & Roosevelt",
+                        "stop_code": "4452",
+                        "stop_desc": "Archer & 23rd Place, Northeastbound, Southeast Corner",
+                        "stop_id": "4452",
+                        "stop_lat": "41.85021627",
+                        "stop_lon": "-87.63990137",
+                        "stop_name": "Archer & 23rd Place",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Roosevelt",
-            "onestopId": "s-dp3wjt977p-halsted~roosevelt",
+            "name": "Archer & 23rd Place",
+            "onestopId": "s-dp3wjdwe4m-archer~23rdplace",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11141,29 +11127,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66410017,
-                    41.87644665
+                    -87.62697263,
+                    41.85261269
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-96",
+                    "identifier": "f-cta-s-2343",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "96",
-                        "stop_desc": "Van Buren & Laflin, Westbound, Northeast Corner",
-                        "stop_id": "96",
-                        "stop_lat": "41.87644665",
-                        "stop_lon": "-87.66410017",
-                        "stop_name": "Van Buren & Laflin",
+                        "stop_code": "2343",
+                        "stop_desc": "State & Cermak, Northbound, Southeast Corner",
+                        "stop_id": "2343",
+                        "stop_lat": "41.85261269",
+                        "stop_lon": "-87.62697263",
+                        "stop_name": "State & Cermak",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Van Buren & Laflin",
-            "onestopId": "s-dp3wjpkgyr-vanburen~laflin",
+            "name": "State & Cermak",
+            "onestopId": "s-dp3wjgpcps-state~cermak",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11230,6 +11216,39 @@
             ],
             "name": "Clinton Blue Line Station",
             "onestopId": "s-dp3wjxjwyz-clintonbluelinestation",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.66410017,
+                    41.87644665
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-96",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "96",
+                        "stop_desc": "Van Buren & Laflin, Westbound, Northeast Corner",
+                        "stop_id": "96",
+                        "stop_lat": "41.87644665",
+                        "stop_lon": "-87.66410017",
+                        "stop_name": "Van Buren & Laflin",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Van Buren & Laflin",
+            "onestopId": "s-dp3wjpkgyr-vanburen~laflin",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -11617,39 +11636,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.62766569,
-                    41.87205646
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-17590",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "17590",
-                        "stop_desc": "State & Polk, Southbound, Southwest Corner",
-                        "stop_id": "17590",
-                        "stop_lat": "41.87205646",
-                        "stop_lon": "-87.62766569",
-                        "stop_name": "State & Polk",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "State & Polk",
-            "onestopId": "s-dp3wjyx6rm-state~polk",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.658999,
                     41.857854
                 ],
@@ -11716,29 +11702,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.664252,
-                    41.874122
+                    -87.651938,
+                    41.874283
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-194",
+                    "identifier": "f-cta-s-200",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "194",
-                        "stop_desc": "Harrison & Laflin, Eastbound, Southside of the Street",
-                        "stop_id": "194",
-                        "stop_lat": "41.874122",
-                        "stop_lon": "-87.664252",
-                        "stop_name": "Harrison & Laflin",
+                        "stop_code": "200",
+                        "stop_desc": "Harrison & Morgan, Eastbound, Southside of the Street",
+                        "stop_id": "200",
+                        "stop_lat": "41.874283",
+                        "stop_lon": "-87.651938",
+                        "stop_name": "Harrison & Morgan",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Harrison & Laflin",
-            "onestopId": "s-dp3wjnuy6y-harrison~laflin",
+            "name": "Harrison & Morgan",
+            "onestopId": "s-dp3wjqvz3u-harrison~morgan",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12258,29 +12244,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65445,
-                    41.874376
+                    -87.644523,
+                    41.8482504
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-209",
+                    "identifier": "f-cta-s-4468",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "209",
-                        "stop_desc": "1100 W Harrison, Westbound, Northside of the Street",
-                        "stop_id": "209",
-                        "stop_lat": "41.874376",
-                        "stop_lon": "-87.65445",
-                        "stop_name": "1100 W Harrison",
+                        "stop_code": "4468",
+                        "stop_desc": "Archer & Lowe, Southwestbound, Northside of the Street",
+                        "stop_id": "4468",
+                        "stop_lat": "41.8482504",
+                        "stop_lon": "-87.644523",
+                        "stop_name": "Archer & Lowe",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "1100 W Harrison",
-            "onestopId": "s-dp3wjqgzzm-1100wharrison",
+            "name": "Archer & Lowe",
+            "onestopId": "s-dp3wjd5pwx-archer~lowe",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12654,29 +12640,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.65688391,
-                    41.87117548
+                    -87.64681857,
+                    41.87009734
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15402",
+                    "identifier": "f-cta-s-14487",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15402",
-                        "stop_desc": "Racine & Cabrini, Southbound, Southwest Corner",
-                        "stop_id": "15402",
-                        "stop_lat": "41.87117548",
-                        "stop_lon": "-87.65688391",
-                        "stop_name": "Racine & Cabrini",
+                        "stop_code": "14487",
+                        "stop_desc": "Halsted & Taylor, Northbound, Northeast Corner",
+                        "stop_id": "14487",
+                        "stop_lat": "41.87009734",
+                        "stop_lon": "-87.64681857",
+                        "stop_name": "Halsted & Taylor",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Racine & Cabrini",
-            "onestopId": "s-dp3wjq6jq8-racine~cabrini",
+            "name": "Halsted & Taylor",
+            "onestopId": "s-dp3wjw1wcp-halsted~taylor",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -12720,29 +12706,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.629131,
-                    41.874743
+                    -87.639457,
+                    41.877917
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1876",
+                    "identifier": "f-cta-s-6352",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1876",
-                        "stop_desc": "Dearborn & Harrison, Northbound, Northeast Corner",
-                        "stop_id": "1876",
-                        "stop_lat": "41.874743",
-                        "stop_lon": "-87.629131",
-                        "stop_name": "Dearborn & Harrison",
+                        "stop_code": "6352",
+                        "stop_desc": "Canal & Jackson, Northbound, Southeast Corner",
+                        "stop_id": "6352",
+                        "stop_lat": "41.877917",
+                        "stop_lon": "-87.639457",
+                        "stop_name": "Canal & Jackson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Dearborn & Harrison",
-            "onestopId": "s-dp3wjzn6j3-dearborn~harrison",
+            "name": "Canal & Jackson",
+            "onestopId": "s-dp3wjxwus9-canal~jackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13347,29 +13333,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.67065615,
-                    41.85229837
+                    -87.6326028,
+                    41.87692096
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6864",
+                    "identifier": "f-cta-s-15063",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6864",
-                        "stop_desc": "Cermak & Wood, Westbound, Northeast Corner",
-                        "stop_id": "6864",
-                        "stop_lat": "41.85229837",
-                        "stop_lon": "-87.67065615",
-                        "stop_name": "Cermak & Wood",
+                        "stop_code": "15063",
+                        "stop_desc": "Van Buren & Financial Place, Westbound, Northeast Corner",
+                        "stop_id": "15063",
+                        "stop_lat": "41.87692096",
+                        "stop_lon": "-87.6326028",
+                        "stop_name": "Van Buren & Financial Place",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Wood",
-            "onestopId": "s-dp3wj4bpm9-cermak~wood",
+            "name": "Van Buren & Financial Place",
+            "onestopId": "s-dp3wjz7ysr-vanburen~financialplace",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13446,29 +13432,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.6473009,
-                    41.87700755
+                    -87.648088,
+                    41.84678
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5800",
+                    "identifier": "f-cta-s-30215",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "5800",
-                        "stop_desc": "Halsted & Van Buren, Southbound, Northwest Corner",
-                        "stop_id": "5800",
-                        "stop_lat": "41.87700755",
-                        "stop_lon": "-87.6473009",
-                        "stop_name": "Halsted & Van Buren",
+                        "parent_station": "41130",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30215",
+                        "stop_lat": "41.84678",
+                        "stop_lon": "-87.648088",
+                        "stop_name": "Halsted-Orange",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30216",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41130",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30216",
+                        "stop_lat": "41.84678",
+                        "stop_lon": "-87.648088",
+                        "stop_name": "Halsted-Orange",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Van Buren",
-            "onestopId": "s-dp3wjx3pmb-halsted~vanburen",
+            "name": "Halsted-Orange",
+            "onestopId": "s-dp3wj9bx5t-halstedorange",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13479,29 +13479,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66656477,
-                    41.85216107
+                    -87.63060611,
+                    41.86723861
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6381",
+                    "identifier": "f-cta-s-315",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6381",
-                        "stop_desc": "Blue Island & Ashland/Cermak, Southwestbound, Northwest Corner",
-                        "stop_id": "6381",
-                        "stop_lat": "41.85216107",
-                        "stop_lon": "-87.66656477",
-                        "stop_name": "Blue Island & Ashland/Cermak",
+                        "stop_code": "315",
+                        "stop_desc": "Roosevelt & Clark, Eastbound, Southwest Corner",
+                        "stop_id": "315",
+                        "stop_lat": "41.86723861",
+                        "stop_lon": "-87.63060611",
+                        "stop_name": "Roosevelt & Clark",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Blue Island & Ashland/Cermak",
-            "onestopId": "s-dp3wj4gnsb-blueisland~ashland~cermak",
+            "name": "Roosevelt & Clark",
+            "onestopId": "s-dp3wjvtq6f-roosevelt~clark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13677,29 +13677,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66576386,
-                    41.85242945
+                    -87.64840276,
+                    41.85798216
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6862",
+                    "identifier": "f-cta-s-6772",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6862",
-                        "stop_desc": "Cermak & Ashland, Westbound, Northeast Corner",
-                        "stop_id": "6862",
-                        "stop_lat": "41.85242945",
-                        "stop_lon": "-87.66576386",
-                        "stop_name": "Cermak & Ashland",
+                        "stop_code": "6772",
+                        "stop_desc": "18th Street & Peoria, Eastbound, Southwest Corner",
+                        "stop_id": "6772",
+                        "stop_lat": "41.85798216",
+                        "stop_lon": "-87.64840276",
+                        "stop_name": "18th Street & Peoria",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Ashland",
-            "onestopId": "s-dp3wj558pd-cermak~ashland",
+            "name": "18th Street & Peoria",
+            "onestopId": "s-dp3wjs02kj-18th~peoria",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13710,29 +13710,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64681857,
-                    41.87009734
+                    -87.65688391,
+                    41.87117548
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14487",
+                    "identifier": "f-cta-s-15402",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14487",
-                        "stop_desc": "Halsted & Taylor, Northbound, Northeast Corner",
-                        "stop_id": "14487",
-                        "stop_lat": "41.87009734",
-                        "stop_lon": "-87.64681857",
-                        "stop_name": "Halsted & Taylor",
+                        "stop_code": "15402",
+                        "stop_desc": "Racine & Cabrini, Southbound, Southwest Corner",
+                        "stop_id": "15402",
+                        "stop_lat": "41.87117548",
+                        "stop_lon": "-87.65688391",
+                        "stop_name": "Racine & Cabrini",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Taylor",
-            "onestopId": "s-dp3wjw1wcp-halsted~taylor",
+            "name": "Racine & Cabrini",
+            "onestopId": "s-dp3wjq6jq8-racine~cabrini",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -13842,29 +13842,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.646616,
-                    41.859808
+                    -87.64662275,
+                    41.85273736
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-5924",
+                    "identifier": "f-cta-s-16193",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "5924",
-                        "stop_desc": "Halsted & 16th Street, Northbound, Southeast Corner",
-                        "stop_id": "5924",
-                        "stop_lat": "41.859808",
-                        "stop_lon": "-87.646616",
-                        "stop_name": "Halsted & 16th Street",
+                        "stop_code": "16193",
+                        "stop_desc": "Cermak & Halsted, Westbound, Northwest Corner",
+                        "stop_id": "16193",
+                        "stop_lat": "41.85273736",
+                        "stop_lon": "-87.64662275",
+                        "stop_name": "Cermak & Halsted",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & 16th Street",
-            "onestopId": "s-dp3wjs3ejc-halsted~16th",
+            "name": "Cermak & Halsted",
+            "onestopId": "s-dp3wje19ve-cermak~halsted",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14011,39 +14011,6 @@
             ],
             "name": "Adams & Clark",
             "onestopId": "s-dp3wjzuvx7-adams~clark",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.64988467,
-                    41.85250997
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6945",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6945",
-                        "stop_desc": "929 W Cermak, Eastbound, Southside of the Street",
-                        "stop_id": "6945",
-                        "stop_lat": "41.85250997",
-                        "stop_lon": "-87.64988467",
-                        "stop_name": "929 W Cermak",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "929 W Cermak",
-            "onestopId": "s-dp3wj7p299-929wcermak",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14252,29 +14219,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.653405,
-                    41.857935
+                    -87.62702,
+                    41.855343
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6769",
+                    "identifier": "f-cta-s-2345",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6769",
-                        "stop_desc": "18th Street & Carpenter, Eastbound, Southwest Corner",
-                        "stop_id": "6769",
-                        "stop_lat": "41.857935",
-                        "stop_lon": "-87.653405",
-                        "stop_name": "18th Street & Carpenter",
+                        "stop_code": "2345",
+                        "stop_desc": "State & Cullerton, Northbound, Southeast Corner",
+                        "stop_id": "2345",
+                        "stop_lat": "41.855343",
+                        "stop_lon": "-87.62702",
+                        "stop_name": "State & Cullerton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "18th Street & Carpenter",
-            "onestopId": "s-dp3wjkh8ps-18th~carpenter",
+            "name": "State & Cullerton",
+            "onestopId": "s-dp3wjgxcn3-state~cullerton",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.64658436,
+                    41.84731373
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-4644",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "4644",
+                        "stop_desc": "Halsted & Archer, Southbound, Northwest Corner",
+                        "stop_id": "4644",
+                        "stop_lat": "41.84731373",
+                        "stop_lon": "-87.64658436",
+                        "stop_name": "Halsted & Archer",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Halsted & Archer",
+            "onestopId": "s-dp3wjd1dq8-halsted~archer",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14384,29 +14384,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.66150209,
-                    41.8578029
+                    -87.669231,
+                    41.87409
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6765",
+                    "identifier": "f-cta-s-49",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6765",
-                        "stop_desc": "18th Street & Blue Island, Eastbound, Southwest Corner",
-                        "stop_id": "6765",
-                        "stop_lat": "41.8578029",
-                        "stop_lon": "-87.66150209",
-                        "stop_name": "18th Street & Blue Island",
+                        "stop_code": "49",
+                        "stop_desc": "Harrison & Paulina, Eastbound, Southwest Corner",
+                        "stop_id": "49",
+                        "stop_lat": "41.87409",
+                        "stop_lon": "-87.669231",
+                        "stop_name": "Harrison & Paulina",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "18th Street & Blue Island",
-            "onestopId": "s-dp3wj5yz6u-18th~blueisland",
+            "name": "Harrison & Paulina",
+            "onestopId": "s-dp3wjncnqb-harrison~paulina",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14417,29 +14417,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.639457,
-                    41.877917
+                    -87.629131,
+                    41.874743
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6352",
+                    "identifier": "f-cta-s-1876",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6352",
-                        "stop_desc": "Canal & Jackson, Northbound, Southeast Corner",
-                        "stop_id": "6352",
-                        "stop_lat": "41.877917",
-                        "stop_lon": "-87.639457",
-                        "stop_name": "Canal & Jackson",
+                        "stop_code": "1876",
+                        "stop_desc": "Dearborn & Harrison, Northbound, Northeast Corner",
+                        "stop_id": "1876",
+                        "stop_lat": "41.874743",
+                        "stop_lon": "-87.629131",
+                        "stop_name": "Dearborn & Harrison",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Canal & Jackson",
-            "onestopId": "s-dp3wjxwus9-canal~jackson",
+            "name": "Dearborn & Harrison",
+            "onestopId": "s-dp3wjzn6j3-dearborn~harrison",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -14780,29 +14780,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64199636,
-                    41.84894549
+                    -87.64269538,
+                    41.86978662
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4451",
+                    "identifier": "f-cta-s-17275",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4451",
-                        "stop_desc": "Archer & Wallace, Northeastbound, Southeast Corner",
-                        "stop_id": "4451",
-                        "stop_lat": "41.84894549",
-                        "stop_lon": "-87.64199636",
-                        "stop_name": "Archer & Wallace",
+                        "stop_code": "17275",
+                        "stop_desc": "Taylor & Jefferson, Westbound, Northwest Corner",
+                        "stop_id": "17275",
+                        "stop_lat": "41.86978662",
+                        "stop_lon": "-87.64269538",
+                        "stop_name": "Taylor & Jefferson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Archer & Wallace",
-            "onestopId": "s-dp3wjdm5c2-archer~wallace",
+            "name": "Taylor & Jefferson",
+            "onestopId": "s-dp3wjwht1j-taylor~jefferson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15110,29 +15110,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64658436,
-                    41.84731373
+                    -87.62924766,
+                    41.87956079
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-4644",
+                    "identifier": "f-cta-s-1880",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "4644",
-                        "stop_desc": "Halsted & Archer, Southbound, Northwest Corner",
-                        "stop_id": "4644",
-                        "stop_lat": "41.84731373",
-                        "stop_lon": "-87.64658436",
-                        "stop_name": "Halsted & Archer",
+                        "stop_code": "1880",
+                        "stop_desc": "Dearborn & Adams, Northbound, Northeast Corner",
+                        "stop_id": "1880",
+                        "stop_lat": "41.87956079",
+                        "stop_lon": "-87.62924766",
+                        "stop_name": "Dearborn & Adams",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Halsted & Archer",
-            "onestopId": "s-dp3wjd1dq8-halsted~archer",
+            "name": "Dearborn & Adams",
+            "onestopId": "s-dp3wjzyq4e-dearborn~adams",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15176,29 +15176,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.64057609,
-                    41.86735198
+                    -87.64716618,
+                    41.87815436
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-328",
+                    "identifier": "f-cta-s-18009",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "328",
-                        "stop_desc": "Roosevelt & Clinton, Westbound, Northeast Corner",
-                        "stop_id": "328",
-                        "stop_lat": "41.86735198",
-                        "stop_lon": "-87.64057609",
-                        "stop_name": "Roosevelt & Clinton",
+                        "stop_code": "18009",
+                        "stop_desc": "Halsted & Jackson, Northbound, Northeast Corner",
+                        "stop_id": "18009",
+                        "stop_lat": "41.87815436",
+                        "stop_lon": "-87.64716618",
+                        "stop_name": "Halsted & Jackson",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Roosevelt & Clinton",
-            "onestopId": "s-dp3wjtwp48-roosevelt~clinton",
+            "name": "Halsted & Jackson",
+            "onestopId": "s-dp3wjx9mcj-halsted~jackson",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -15473,29 +15473,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.668589,
-                    41.852226
+                    -87.66607416,
+                    41.84751146
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6936",
+                    "identifier": "f-cta-s-6059",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6936",
-                        "stop_desc": "Cermak & Paulina, Eastbound, Southwest Corner",
-                        "stop_id": "6936",
-                        "stop_lat": "41.852226",
-                        "stop_lon": "-87.668589",
-                        "stop_name": "Cermak & Paulina",
+                        "stop_code": "6059",
+                        "stop_desc": "2450 S Ashland, Southbound, Westside of the Street",
+                        "stop_id": "6059",
+                        "stop_lat": "41.84751146",
+                        "stop_lon": "-87.66607416",
+                        "stop_name": "2450 S Ashland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Paulina",
-            "onestopId": "s-dp3wj4cwvu-cermak~paulina",
+            "name": "2450 S Ashland",
+            "onestopId": "s-dp3wj45e2m-2450sashland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

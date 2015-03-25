@@ -39,32 +39,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.759651911,
-                    32.8350914464
+                    -116.749463831,
+                    32.8342618122
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40973",
+                    "identifier": "f-mtssandiego-s-40101",
+                    "tags": {
+                        "intersection_code": "N-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40101",
+                        "stop_id": "40101",
+                        "stop_lat": "32.8342618122",
+                        "stop_lon": "-116.749463831",
+                        "stop_name": "Alpine Bl & Honey Hill Ranch Rd",
+                        "stop_name_short": "Alpine&Honey Hill Ranch",
+                        "stop_place": "albalp",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Alpine Bl & Honey Hill Ranch Rd",
+            "onestopId": "s-9mufz339kq-alpinebl~honeyhillranch",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.754388524,
+                    32.8346705549
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40491",
                     "tags": {
                         "intersection_code": "F-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40973",
-                        "stop_id": "40973",
-                        "stop_lat": "32.8350914464",
-                        "stop_lon": "-116.759651911",
-                        "stop_name": "Alpine Bl & Bay Meadows Dr",
-                        "stop_name_short": "Alpine&Bay Meadows",
+                        "stop_code": "40491",
+                        "stop_id": "40491",
+                        "stop_lat": "32.8346705549",
+                        "stop_lon": "-116.754388524",
+                        "stop_name": "Alpine Bl & Rock Terrace Rd",
+                        "stop_name_short": "Alpine&Rock",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Alpine Bl & Bay Meadows Dr",
-            "onestopId": "s-9mufz16nqb-alpinebl~baymeadows",
+            "name": "Alpine Bl & Rock Terrace Rd",
+            "onestopId": "s-9mufz1q5cd-alpinebl~rockterrace",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -101,42 +137,6 @@
             ],
             "name": "Alpine Bl & Ramsey Rd",
             "onestopId": "s-9mufz12y65-alpinebl~ramsey",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.739088797,
-                    32.8331462408
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40943",
-                    "tags": {
-                        "intersection_code": "M-Street-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40943",
-                        "stop_id": "40943",
-                        "stop_lat": "32.8331462408",
-                        "stop_lon": "-116.739088797",
-                        "stop_name": "Alpine Bl & Alpine Oaks MHP",
-                        "stop_name_short": "Alpine&Alpine Oaks MHP",
-                        "stop_place": "",
-                        "wheelchair_boarding": "2"
-                    }
-                }
-            ],
-            "name": "Alpine Bl & Alpine Oaks MHP",
-            "onestopId": "s-9mufz914yn-alpinebl~alpineoaksmhp",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -255,68 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.754388524,
-                    32.8346705549
+                    -116.752170895,
+                    32.8345641572
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40491",
-                    "tags": {
-                        "intersection_code": "F-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40491",
-                        "stop_id": "40491",
-                        "stop_lat": "32.8346705549",
-                        "stop_lon": "-116.754388524",
-                        "stop_name": "Alpine Bl & Rock Terrace Rd",
-                        "stop_name_short": "Alpine&Rock",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Alpine Bl & Rock Terrace Rd",
-            "onestopId": "s-9mufz1q5cd-alpinebl~rockterrace",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.749463831,
-                    32.8342618122
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40101",
+                    "identifier": "f-mtssandiego-s-40492",
                     "tags": {
                         "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40101",
-                        "stop_id": "40101",
-                        "stop_lat": "32.8342618122",
-                        "stop_lon": "-116.749463831",
-                        "stop_name": "Alpine Bl & Honey Hill Ranch Rd",
-                        "stop_name_short": "Alpine&Honey Hill Ranch",
-                        "stop_place": "albalp",
+                        "stop_code": "40492",
+                        "stop_id": "40492",
+                        "stop_lat": "32.8345641572",
+                        "stop_lon": "-116.752170895",
+                        "stop_name": "Alpine Bl & South Grade Rd",
+                        "stop_name_short": "Alpine&SGrade",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Alpine Bl & Honey Hill Ranch Rd",
-            "onestopId": "s-9mufz339kq-alpinebl~honeyhillranch",
+            "name": "Alpine Bl & South Grade Rd",
+            "onestopId": "s-9mufz1rejn-alpinebl~southgrade",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -353,6 +317,42 @@
             ],
             "name": "Willows Rd & Interstate 8",
             "onestopId": "s-9mufz9rjc1-willows~interstate8",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.739088797,
+                    32.8331462408
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40943",
+                    "tags": {
+                        "intersection_code": "M-Street-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40943",
+                        "stop_id": "40943",
+                        "stop_lat": "32.8331462408",
+                        "stop_lon": "-116.739088797",
+                        "stop_name": "Alpine Bl & Alpine Oaks MHP",
+                        "stop_name_short": "Alpine&Alpine Oaks MHP",
+                        "stop_place": "",
+                        "wheelchair_boarding": "2"
+                    }
+                }
+            ],
+            "name": "Alpine Bl & Alpine Oaks MHP",
+            "onestopId": "s-9mufz914yn-alpinebl~alpineoaksmhp",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -435,68 +435,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.739265429,
-                    32.8332967055
+                    -116.718765816,
+                    32.8369959121
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40974",
+                    "identifier": "f-mtssandiego-s-40103",
                     "tags": {
-                        "intersection_code": "M-Street-W/B",
+                        "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40974",
-                        "stop_id": "40974",
-                        "stop_lat": "32.8332967055",
-                        "stop_lon": "-116.739265429",
-                        "stop_name": "Alpine Bl & Alpine Oaks MHP",
-                        "stop_name_short": "Alpine&Alpine Oaks MHP",
+                        "stop_code": "40103",
+                        "stop_id": "40103",
+                        "stop_lat": "32.8369959121",
+                        "stop_lon": "-116.718765816",
+                        "stop_name": "Willows Rd & Viejas Grade Rd",
+                        "stop_name_short": "Willows&Viejas Grade",
                         "stop_place": "",
                         "wheelchair_boarding": "2"
                     }
                 }
             ],
-            "name": "Alpine Bl & Alpine Oaks MHP",
-            "onestopId": "s-9mufz915cf-alpinebl~alpineoaksmhp",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.758725513,
-                    32.8347764462
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40242",
-                    "tags": {
-                        "intersection_code": "F-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40242",
-                        "stop_id": "40242",
-                        "stop_lat": "32.8347764462",
-                        "stop_lon": "-116.758725513",
-                        "stop_name": "Alpine Bl & Bay Meadows Dr",
-                        "stop_name_short": "Alpine&Bay Meadows",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Alpine Bl & Bay Meadows Dr",
-            "onestopId": "s-9mufz16ukt-alpinebl~baymeadows",
+            "name": "Willows Rd & Viejas Grade Rd",
+            "onestopId": "s-9mufzczcre-willows~viejasgrade",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -579,6 +543,150 @@
         {
             "geometry": {
                 "coordinates": [
+                    -116.739265429,
+                    32.8332967055
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40974",
+                    "tags": {
+                        "intersection_code": "M-Street-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40974",
+                        "stop_id": "40974",
+                        "stop_lat": "32.8332967055",
+                        "stop_lon": "-116.739265429",
+                        "stop_name": "Alpine Bl & Alpine Oaks MHP",
+                        "stop_name_short": "Alpine&Alpine Oaks MHP",
+                        "stop_place": "",
+                        "wheelchair_boarding": "2"
+                    }
+                }
+            ],
+            "name": "Alpine Bl & Alpine Oaks MHP",
+            "onestopId": "s-9mufz915cf-alpinebl~alpineoaksmhp",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.758725513,
+                    32.8347764462
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40242",
+                    "tags": {
+                        "intersection_code": "F-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40242",
+                        "stop_id": "40242",
+                        "stop_lat": "32.8347764462",
+                        "stop_lon": "-116.758725513",
+                        "stop_name": "Alpine Bl & Bay Meadows Dr",
+                        "stop_name_short": "Alpine&Bay Meadows",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Alpine Bl & Bay Meadows Dr",
+            "onestopId": "s-9mufz16ukt-alpinebl~baymeadows",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.759651911,
+                    32.8350914464
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40973",
+                    "tags": {
+                        "intersection_code": "F-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40973",
+                        "stop_id": "40973",
+                        "stop_lat": "32.8350914464",
+                        "stop_lon": "-116.759651911",
+                        "stop_name": "Alpine Bl & Bay Meadows Dr",
+                        "stop_name_short": "Alpine&Bay Meadows",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Alpine Bl & Bay Meadows Dr",
+            "onestopId": "s-9mufz16nqb-alpinebl~baymeadows",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.723464877,
+                    32.834798474
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40334",
+                    "tags": {
+                        "intersection_code": "N-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40334",
+                        "stop_id": "40334",
+                        "stop_lat": "32.834798474",
+                        "stop_lon": "-116.723464877",
+                        "stop_name": "Willows Rd & Hillcrest Dr",
+                        "stop_name_short": "Willows&Hillcrest",
+                        "stop_place": "",
+                        "wheelchair_boarding": "2"
+                    }
+                }
+            ],
+            "name": "Willows Rd & Hillcrest Dr",
+            "onestopId": "s-9mufzcksd4-willows~hillcrest",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -116.723655737,
                     32.8345723701
                 ],
@@ -641,114 +749,6 @@
             ],
             "name": "South Grade Rd & Alpine Bl",
             "onestopId": "s-9mufz323kc-southgrade~alpinebl",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.723464877,
-                    32.834798474
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40334",
-                    "tags": {
-                        "intersection_code": "N-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40334",
-                        "stop_id": "40334",
-                        "stop_lat": "32.834798474",
-                        "stop_lon": "-116.723464877",
-                        "stop_name": "Willows Rd & Hillcrest Dr",
-                        "stop_name_short": "Willows&Hillcrest",
-                        "stop_place": "",
-                        "wheelchair_boarding": "2"
-                    }
-                }
-            ],
-            "name": "Willows Rd & Hillcrest Dr",
-            "onestopId": "s-9mufzcksd4-willows~hillcrest",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.752170895,
-                    32.8345641572
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40492",
-                    "tags": {
-                        "intersection_code": "N-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40492",
-                        "stop_id": "40492",
-                        "stop_lat": "32.8345641572",
-                        "stop_lon": "-116.752170895",
-                        "stop_name": "Alpine Bl & South Grade Rd",
-                        "stop_name_short": "Alpine&SGrade",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Alpine Bl & South Grade Rd",
-            "onestopId": "s-9mufz1rejn-alpinebl~southgrade",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -116.718765816,
-                    32.8369959121
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40103",
-                    "tags": {
-                        "intersection_code": "N-E/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40103",
-                        "stop_id": "40103",
-                        "stop_lat": "32.8369959121",
-                        "stop_lon": "-116.718765816",
-                        "stop_name": "Willows Rd & Viejas Grade Rd",
-                        "stop_name_short": "Willows&Viejas Grade",
-                        "stop_place": "",
-                        "wheelchair_boarding": "2"
-                    }
-                }
-            ],
-            "name": "Willows Rd & Viejas Grade Rd",
-            "onestopId": "s-9mufzczcre-willows~viejasgrade",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

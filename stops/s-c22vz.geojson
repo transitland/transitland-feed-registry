@@ -73,31 +73,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.352638,
-                    47.4559059
+                    -122.352394,
+                    47.4594536
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-kingcounty-s-53640",
+                    "identifier": "f-kingcounty-s-53660",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "53640",
-                        "stop_lat": "47.4559059",
-                        "stop_lon": "-122.352638",
-                        "stop_name": "SW 164th St & 14th Ave SW",
+                        "stop_id": "53660",
+                        "stop_lat": "47.4594536",
+                        "stop_lon": "-122.352394",
+                        "stop_name": "14th Ave SW & SW 160th St",
                         "stop_timezone": "America/Los_Angeles",
                         "stop_url": "",
                         "zone_id": "24"
                     }
                 }
             ],
-            "name": "SW 164th St & 14th Ave SW",
-            "onestopId": "s-c22vzz1d8y-sw164th~14thsw",
+            "name": "14th Ave SW & SW 160th St",
+            "onestopId": "s-c22vzz9xqe-14thsw~sw160th",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"
@@ -143,6 +143,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.352638,
+                    47.4559059
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-53640",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "53640",
+                        "stop_lat": "47.4559059",
+                        "stop_lon": "-122.352638",
+                        "stop_name": "SW 164th St & 14th Ave SW",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "24"
+                    }
+                }
+            ],
+            "name": "SW 164th St & 14th Ave SW",
+            "onestopId": "s-c22vzz1d8y-sw164th~14thsw",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.352448,
                     47.4576149
                 ],
@@ -168,41 +203,6 @@
             ],
             "name": "14th Ave SW & SW 162nd St",
             "onestopId": "s-c22vzz3stk-14thsw~sw162nd",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.352394,
-                    47.4594536
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-53660",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "53660",
-                        "stop_lat": "47.4594536",
-                        "stop_lon": "-122.352394",
-                        "stop_name": "14th Ave SW & SW 160th St",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "24"
-                    }
-                }
-            ],
-            "name": "14th Ave SW & SW 160th St",
-            "onestopId": "s-c22vzz9xqe-14thsw~sw160th",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

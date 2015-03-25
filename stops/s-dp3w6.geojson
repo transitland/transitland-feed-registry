@@ -3,39 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.775552,
-                    41.905617
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-9591",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "9591",
-                        "stop_desc": "Austin & Greenfield/Hirsch, Southbound, Westside of the Street",
-                        "stop_id": "9591",
-                        "stop_lat": "41.905617",
-                        "stop_lon": "-87.775552",
-                        "stop_name": "Austin & Greenfield/Hirsch",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Austin & Greenfield/Hirsch",
-            "onestopId": "s-dp3w6sevcm-austin~greenfield~hirsch",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.7849442,
                     41.89317726
                 ],
@@ -59,6 +26,39 @@
             ],
             "name": "Ridgeland & Superior",
             "onestopId": "s-dp3w66kvqw-ridgeland~superior",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.775552,
+                    41.905617
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-9591",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "9591",
+                        "stop_desc": "Austin & Greenfield/Hirsch, Southbound, Westside of the Street",
+                        "stop_id": "9591",
+                        "stop_lat": "41.905617",
+                        "stop_lon": "-87.775552",
+                        "stop_name": "Austin & Greenfield/Hirsch",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Austin & Greenfield/Hirsch",
+            "onestopId": "s-dp3w6sevcm-austin~greenfield~hirsch",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -175,20 +175,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30263",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41350",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30263",
-                        "stop_lat": "41.886988",
-                        "stop_lon": "-87.793783",
-                        "stop_name": "Oak Park-Green",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30264",
                     "tags": {
                         "location_type": "0",
@@ -196,6 +182,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30264",
+                        "stop_lat": "41.886988",
+                        "stop_lon": "-87.793783",
+                        "stop_name": "Oak Park-Green",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30263",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41350",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30263",
                         "stop_lat": "41.886988",
                         "stop_lon": "-87.793783",
                         "stop_name": "Oak Park-Green",
@@ -248,6 +248,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.79543545,
+                    41.9236663
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-14809",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "14809",
+                        "stop_desc": "Grand & Oak Park, Westbound, Northwest Corner",
+                        "stop_id": "14809",
+                        "stop_lat": "41.9236663",
+                        "stop_lon": "-87.79543545",
+                        "stop_name": "Grand & Oak Park",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Grand & Oak Park",
+            "onestopId": "s-dp3w6pvr41-grand~oakpark",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.76638886,
                     41.88031057
                 ],
@@ -271,39 +304,6 @@
             ],
             "name": "Madison & Parkside",
             "onestopId": "s-dp3w6b46qz-madison~parkside",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.77490274,
-                    41.88537
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-9604",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "9604",
-                        "stop_desc": "Austin & Fulton/Pleasant, Southbound, Southwest Corner",
-                        "stop_id": "9604",
-                        "stop_lat": "41.88537",
-                        "stop_lon": "-87.77490274",
-                        "stop_name": "Austin & Fulton/Pleasant",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Austin & Fulton/Pleasant",
-            "onestopId": "s-dp3w68urbw-austin~fulton~pleasant",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -460,29 +460,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76992191,
-                    41.88008776
+                    -87.78552698,
+                    41.92345283
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-389",
+                    "identifier": "f-cta-s-17360",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "389",
-                        "stop_desc": "Madison & Menard, Eastbound, Southwest Corner",
-                        "stop_id": "389",
-                        "stop_lat": "41.88008776",
-                        "stop_lon": "-87.76992191",
-                        "stop_name": "Madison & Menard",
+                        "stop_code": "17360",
+                        "stop_desc": "Narragansett & Fullerton, Southbound, Southwest Corner",
+                        "stop_id": "17360",
+                        "stop_lat": "41.92345283",
+                        "stop_lon": "-87.78552698",
+                        "stop_name": "Narragansett & Fullerton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Menard",
-            "onestopId": "s-dp3w68pchw-madison~menard",
+            "name": "Narragansett & Fullerton",
+            "onestopId": "s-dp3w6rutbf-narragansett~fullerton",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -691,29 +691,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77456775,
-                    41.88219676
+                    -87.763178,
+                    41.909346
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9626",
+                    "identifier": "f-cta-s-863",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9626",
-                        "stop_desc": "Austin & Washington, Northbound, Northeast Corner",
-                        "stop_id": "9626",
-                        "stop_lat": "41.88219676",
-                        "stop_lon": "-87.77456775",
-                        "stop_name": "Austin & Washington",
+                        "stop_code": "863",
+                        "stop_desc": "North Ave & Linder, Eastbound, Southeast Corner",
+                        "stop_id": "863",
+                        "stop_lat": "41.909346",
+                        "stop_lon": "-87.763178",
+                        "stop_name": "North Ave & Linder",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Washington",
-            "onestopId": "s-dp3w68kt2r-austin~washington",
+            "name": "North Ave & Linder",
+            "onestopId": "s-dp3w6vkg9s-north~linder",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -757,29 +757,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.765389,
-                    41.893003
+                    -87.761037,
+                    41.902133
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11563",
+                    "identifier": "f-cta-s-1976",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11563",
-                        "stop_desc": "Central & Huron, Southbound, Northwest Corner",
-                        "stop_id": "11563",
-                        "stop_lat": "41.893003",
-                        "stop_lon": "-87.765389",
-                        "stop_name": "Central & Huron",
+                        "stop_code": "1976",
+                        "stop_desc": "Division & Long, Eastbound, Southwest Corner",
+                        "stop_id": "1976",
+                        "stop_lat": "41.902133",
+                        "stop_lon": "-87.761037",
+                        "stop_name": "Division & Long",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Huron",
-            "onestopId": "s-dp3w6f7hqj-central~huron",
+            "name": "Division & Long",
+            "onestopId": "s-dp3w6un3ee-division~long",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -790,29 +790,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76966086,
-                    41.88026556
+                    -87.77500914,
+                    41.90179808
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-508",
+                    "identifier": "f-cta-s-1970",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "508",
-                        "stop_desc": "Madison & Menard, Westbound, Northeast Corner",
-                        "stop_id": "508",
-                        "stop_lat": "41.88026556",
-                        "stop_lon": "-87.76966086",
-                        "stop_name": "Madison & Menard",
+                        "stop_code": "1970",
+                        "stop_desc": "Division & Austin Terminal, Southeastbound, Bus Terminal",
+                        "stop_id": "1970",
+                        "stop_lat": "41.90179808",
+                        "stop_lon": "-87.77500914",
+                        "stop_name": "Division & Austin Terminal",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Madison & Menard",
-            "onestopId": "s-dp3w6b044x-madison~menard",
+            "name": "Division & Austin Terminal",
+            "onestopId": "s-dp3w6eupwj-division~austinterminal",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -889,29 +889,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77820663,
-                    41.90919299
+                    -87.76542919,
+                    41.89838694
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-857",
+                    "identifier": "f-cta-s-11590",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "857",
-                        "stop_desc": "North Ave & Taylor, Eastbound, Southwest Corner",
-                        "stop_id": "857",
-                        "stop_lat": "41.90919299",
-                        "stop_lon": "-87.77820663",
-                        "stop_name": "North Ave & Taylor",
+                        "stop_code": "11590",
+                        "stop_desc": "Central & Augusta, Northbound, Southeast Corner",
+                        "stop_id": "11590",
+                        "stop_lat": "41.89838694",
+                        "stop_lon": "-87.76542919",
+                        "stop_name": "Central & Augusta",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Taylor",
-            "onestopId": "s-dp3w6t3fex-north~taylor",
+            "name": "Central & Augusta",
+            "onestopId": "s-dp3w6g75v3-central~augusta",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -988,6 +988,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.80129052,
+                    41.90883939
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-846",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "846",
+                        "stop_desc": "North Ave & Forest, Eastbound, Southwest Corner",
+                        "stop_id": "846",
+                        "stop_lat": "41.90883939",
+                        "stop_lon": "-87.80129052",
+                        "stop_name": "North Ave & Forest",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "North Ave & Forest",
+            "onestopId": "s-dp3w6j309t-north~forest",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.775418,
                     41.912973
                 ],
@@ -1054,29 +1087,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.80129052,
-                    41.90883939
+                    -87.78510758,
+                    41.90906273
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-846",
+                    "identifier": "f-cta-s-852",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "846",
-                        "stop_desc": "North Ave & Forest, Eastbound, Southwest Corner",
-                        "stop_id": "846",
-                        "stop_lat": "41.90883939",
-                        "stop_lon": "-87.80129052",
-                        "stop_name": "North Ave & Forest",
+                        "stop_code": "852",
+                        "stop_desc": "North Ave & Narragansett, Eastbound, Southside of the Street",
+                        "stop_id": "852",
+                        "stop_lat": "41.90906273",
+                        "stop_lon": "-87.78510758",
+                        "stop_name": "North Ave & Narragansett",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Forest",
-            "onestopId": "s-dp3w6j309t-north~forest",
+            "name": "North Ave & Narragansett",
+            "onestopId": "s-dp3w6mkcfx-north~narragansett",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.78505064,
+                    41.89648615
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11717",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11717",
+                        "stop_desc": "Ridgeland & Iowa, Southbound, Northwest Corner",
+                        "stop_id": "11717",
+                        "stop_lat": "41.89648615",
+                        "stop_lon": "-87.78505064",
+                        "stop_name": "Ridgeland & Iowa",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Ridgeland & Iowa",
+            "onestopId": "s-dp3w67hbsp-ridgeland~iowa",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1110,39 +1176,6 @@
             ],
             "name": "Grand & Natchez",
             "onestopId": "s-dp3w6rg5gn-grand~natchez",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.77517594,
-                    41.89850513
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-9636",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "9636",
-                        "stop_desc": "Austin & Augusta, Northbound, Northeast Corner",
-                        "stop_id": "9636",
-                        "stop_lat": "41.89850513",
-                        "stop_lon": "-87.77517594",
-                        "stop_name": "Austin & Augusta",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Austin & Augusta",
-            "onestopId": "s-dp3w6ekh6p-austin~augusta",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1252,29 +1285,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77060918,
-                    41.89484992
+                    -87.775726,
+                    41.922081
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15830",
+                    "identifier": "f-cta-s-9582",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15830",
-                        "stop_desc": "Chicago & Menard, Westbound, Northwest Corner",
-                        "stop_id": "15830",
-                        "stop_lat": "41.89484992",
-                        "stop_lon": "-87.77060918",
-                        "stop_name": "Chicago & Menard",
+                        "stop_code": "9582",
+                        "stop_desc": "Austin & Belden, Southbound, Northwest Corner",
+                        "stop_id": "9582",
+                        "stop_lat": "41.922081",
+                        "stop_lon": "-87.775726",
+                        "stop_name": "Austin & Belden",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Chicago & Menard",
-            "onestopId": "s-dp3w6dxrhw-chicago~menard",
+            "name": "Austin & Belden",
+            "onestopId": "s-dp3w6xetv6-austin~belden",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1351,29 +1384,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78447558,
-                    41.88815796
+                    -87.77548314,
+                    41.91433005
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11722",
+                    "identifier": "f-cta-s-9585",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11722",
-                        "stop_desc": "Lake Street & Ridgeland, Eastbound, Southeast Corner",
-                        "stop_id": "11722",
-                        "stop_lat": "41.88815796",
-                        "stop_lon": "-87.78447558",
-                        "stop_name": "Lake Street & Ridgeland",
+                        "stop_code": "9585",
+                        "stop_desc": "Austin & Cortland, Southbound, Northwest Corner",
+                        "stop_id": "9585",
+                        "stop_lat": "41.91433005",
+                        "stop_lon": "-87.77548314",
+                        "stop_name": "Austin & Cortland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lake Street & Ridgeland",
-            "onestopId": "s-dp3w63t21q-lake~ridgeland",
+            "name": "Austin & Cortland",
+            "onestopId": "s-dp3w6w7bdv-austin~cortland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1417,76 +1450,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76481331,
-                    41.88213935
+                    -87.76572958,
+                    41.9201455
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11580",
+                    "identifier": "f-cta-s-11602",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11580",
-                        "stop_desc": "Central & Washington, Northbound, Southeast Corner",
-                        "stop_id": "11580",
-                        "stop_lat": "41.88213935",
-                        "stop_lon": "-87.76481331",
-                        "stop_name": "Central & Washington",
+                        "stop_code": "11602",
+                        "stop_desc": "Central & Palmer, Northbound, Southeast Corner",
+                        "stop_id": "11602",
+                        "stop_lat": "41.9201455",
+                        "stop_lon": "-87.76572958",
+                        "stop_name": "Central & Palmer",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Washington",
-            "onestopId": "s-dp3w6b7t5s-central~washington",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.774135,
-                    41.887293
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-30243",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41260",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30243",
-                        "stop_lat": "41.887293",
-                        "stop_lon": "-87.774135",
-                        "stop_name": "Austin-Green",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30244",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "41260",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30244",
-                        "stop_lat": "41.887293",
-                        "stop_lon": "-87.774135",
-                        "stop_name": "Austin-Green",
-                        "wheelchair_boarding": "0"
-                    }
-                }
-            ],
-            "name": "Austin-Green",
-            "onestopId": "s-dp3w69kg4m-austingreen",
+            "name": "Central & Palmer",
+            "onestopId": "s-dp3w6z6fw3-central~palmer",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1596,62 +1582,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.799018,
-                    41.923512
+                    -87.76570988,
+                    41.91236489
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-670",
+                    "identifier": "f-cta-s-11552",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "670",
-                        "stop_desc": "Grand & Newland, Eastbound, Southwest Corner",
-                        "stop_id": "670",
-                        "stop_lat": "41.923512",
-                        "stop_lon": "-87.799018",
-                        "stop_name": "Grand & Newland",
+                        "stop_code": "11552",
+                        "stop_desc": "Central & Bloomingdale, Southbound, Southwest Corner",
+                        "stop_id": "11552",
+                        "stop_lat": "41.91236489",
+                        "stop_lon": "-87.76570988",
+                        "stop_name": "Central & Bloomingdale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Newland",
-            "onestopId": "s-dp3w6pfwnt-grand~newland",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.770614,
-                    41.902009
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1972",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1972",
-                        "stop_desc": "Division & Menard, Eastbound, Southwest Corner",
-                        "stop_id": "1972",
-                        "stop_lat": "41.902009",
-                        "stop_lon": "-87.770614",
-                        "stop_name": "Division & Menard",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Division & Menard",
-            "onestopId": "s-dp3w6sp2uk-division~menard",
+            "name": "Central & Bloomingdale",
+            "onestopId": "s-dp3w6vfvnx-central~bloomingdale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1728,128 +1681,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.765628,
-                    41.916751
+                    -87.775213,
+                    41.910989
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11600",
+                    "identifier": "f-cta-s-9643",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11600",
-                        "stop_desc": "Central & Armitage, Northbound, Eastside of the Street",
-                        "stop_id": "11600",
-                        "stop_lat": "41.916751",
-                        "stop_lon": "-87.765628",
-                        "stop_name": "Central & Armitage",
+                        "stop_code": "9643",
+                        "stop_desc": "Austin & Wabansia, Northbound, Southeast Corner",
+                        "stop_id": "9643",
+                        "stop_lat": "41.910989",
+                        "stop_lon": "-87.775213",
+                        "stop_name": "Austin & Wabansia",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Armitage",
-            "onestopId": "s-dp3w6yenb8-central~armitage",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.763178,
-                    41.909346
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-863",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "863",
-                        "stop_desc": "North Ave & Linder, Eastbound, Southeast Corner",
-                        "stop_id": "863",
-                        "stop_lat": "41.909346",
-                        "stop_lon": "-87.763178",
-                        "stop_name": "North Ave & Linder",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "North Ave & Linder",
-            "onestopId": "s-dp3w6vkg9s-north~linder",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.7662933,
-                    41.91894393
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-829",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "829",
-                        "stop_desc": "Grand & Central, Westbound, Northwest Corner",
-                        "stop_id": "829",
-                        "stop_lat": "41.91894393",
-                        "stop_lon": "-87.7662933",
-                        "stop_name": "Grand & Central",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Grand & Central",
-            "onestopId": "s-dp3w6z4e91-grand~central",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.77203704,
-                    41.89483319
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-667",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "667",
-                        "stop_desc": "Chicago & Mayfield, Westbound, Northeast Corner",
-                        "stop_id": "667",
-                        "stop_lat": "41.89483319",
-                        "stop_lon": "-87.77203704",
-                        "stop_name": "Chicago & Mayfield",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Chicago & Mayfield",
-            "onestopId": "s-dp3w6dwr56-chicago~mayfield",
+            "name": "Austin & Wabansia",
+            "onestopId": "s-dp3w6tsj1q-austin~wabansia",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1883,6 +1737,39 @@
             ],
             "name": "Narragansett & North Ave",
             "onestopId": "s-dp3w6mkuyv-narragansett~north",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.77203704,
+                    41.89483319
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-667",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "667",
+                        "stop_desc": "Chicago & Mayfield, Westbound, Northeast Corner",
+                        "stop_id": "667",
+                        "stop_lat": "41.89483319",
+                        "stop_lon": "-87.77203704",
+                        "stop_name": "Chicago & Mayfield",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Chicago & Mayfield",
+            "onestopId": "s-dp3w6dwr56-chicago~mayfield",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1949,39 +1836,6 @@
             ],
             "name": "5500 W Grand",
             "onestopId": "s-dp3w6yuz33-5500wgrand",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.765317,
-                    41.891174
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-11564",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "11564",
-                        "stop_desc": "Central & Ohio, Southbound, Northwest Corner",
-                        "stop_id": "11564",
-                        "stop_lat": "41.891174",
-                        "stop_lon": "-87.765317",
-                        "stop_name": "Central & Ohio",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Central & Ohio",
-            "onestopId": "s-dp3w6f51zb-central~ohio",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2190,6 +2044,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.76586158,
+                    41.90589421
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11556",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11556",
+                        "stop_desc": "Central & Hirsch, Southbound, Northwest Corner",
+                        "stop_id": "11556",
+                        "stop_lat": "41.90589421",
+                        "stop_lon": "-87.76586158",
+                        "stop_name": "Central & Hirsch",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & Hirsch",
+            "onestopId": "s-dp3w6udze0-central~hirsch",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.77987258,
                     41.88802739
                 ],
@@ -2322,29 +2209,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78510758,
-                    41.90906273
+                    -87.76821491,
+                    41.88010476
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-852",
+                    "identifier": "f-cta-s-390",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "852",
-                        "stop_desc": "North Ave & Narragansett, Eastbound, Southside of the Street",
-                        "stop_id": "852",
-                        "stop_lat": "41.90906273",
-                        "stop_lon": "-87.78510758",
-                        "stop_name": "North Ave & Narragansett",
+                        "stop_code": "390",
+                        "stop_desc": "Madison & Waller, Eastbound, Southside of the Street",
+                        "stop_id": "390",
+                        "stop_lat": "41.88010476",
+                        "stop_lon": "-87.76821491",
+                        "stop_name": "Madison & Waller",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Narragansett",
-            "onestopId": "s-dp3w6mkcfx-north~narragansett",
+            "name": "Madison & Waller",
+            "onestopId": "s-dp3w6b11k3-madison~waller",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2388,29 +2275,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76548184,
-                    41.90025288
+                    -87.765317,
+                    41.891174
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11591",
+                    "identifier": "f-cta-s-11564",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11591",
-                        "stop_desc": "Central & Thomas, Northbound, Southeast Corner",
-                        "stop_id": "11591",
-                        "stop_lat": "41.90025288",
-                        "stop_lon": "-87.76548184",
-                        "stop_name": "Central & Thomas",
+                        "stop_code": "11564",
+                        "stop_desc": "Central & Ohio, Southbound, Northwest Corner",
+                        "stop_id": "11564",
+                        "stop_lat": "41.891174",
+                        "stop_lon": "-87.765317",
+                        "stop_name": "Central & Ohio",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Thomas",
-            "onestopId": "s-dp3w6gensj-central~thomas",
+            "name": "Central & Ohio",
+            "onestopId": "s-dp3w6f51zb-central~ohio",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2520,29 +2407,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78552698,
-                    41.92345283
+                    -87.76992191,
+                    41.88008776
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17360",
+                    "identifier": "f-cta-s-389",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17360",
-                        "stop_desc": "Narragansett & Fullerton, Southbound, Southwest Corner",
-                        "stop_id": "17360",
-                        "stop_lat": "41.92345283",
-                        "stop_lon": "-87.78552698",
-                        "stop_name": "Narragansett & Fullerton",
+                        "stop_code": "389",
+                        "stop_desc": "Madison & Menard, Eastbound, Southwest Corner",
+                        "stop_id": "389",
+                        "stop_lat": "41.88008776",
+                        "stop_lon": "-87.76992191",
+                        "stop_name": "Madison & Menard",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Narragansett & Fullerton",
-            "onestopId": "s-dp3w6rutbf-narragansett~fullerton",
+            "name": "Madison & Menard",
+            "onestopId": "s-dp3w68pchw-madison~menard",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2685,29 +2572,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78466679,
-                    41.90176336
+                    -87.78816899,
+                    41.92376391
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11734",
+                    "identifier": "f-cta-s-1283",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11734",
-                        "stop_desc": "Ridgeland & Division, Northbound, Southeast Corner",
-                        "stop_id": "11734",
-                        "stop_lat": "41.90176336",
-                        "stop_lon": "-87.78466679",
-                        "stop_name": "Ridgeland & Division",
+                        "stop_code": "1283",
+                        "stop_desc": "6450 W Fullerton, Westbound, Northside of the Street",
+                        "stop_id": "1283",
+                        "stop_lat": "41.92376391",
+                        "stop_lon": "-87.78816899",
+                        "stop_name": "6450 W Fullerton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ridgeland & Division",
-            "onestopId": "s-dp3w67vpmn-ridgeland~division",
+            "name": "6450 W Fullerton",
+            "onestopId": "s-dp3w6rfxek-6450wfullerton",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2751,29 +2638,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.773042,
-                    41.901972
+                    -87.77478,
+                    41.88698
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1971",
+                    "identifier": "f-cta-s-9629",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1971",
-                        "stop_desc": "Division & Mayfield, Eastbound, Southwest Corner",
-                        "stop_id": "1971",
-                        "stop_lat": "41.901972",
-                        "stop_lon": "-87.773042",
-                        "stop_name": "Division & Mayfield",
+                        "stop_code": "9629",
+                        "stop_desc": "Austin & Corcoran/South Blvd (Green Line), Northbound, Southeast Corner",
+                        "stop_id": "9629",
+                        "stop_lat": "41.88698",
+                        "stop_lon": "-87.77478",
+                        "stop_name": "Austin & Corcoran/South Blvd (Green Line)",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & Mayfield",
-            "onestopId": "s-dp3w6sj8ev-division~mayfield",
+            "name": "Austin & Corcoran/South Blvd (Green Line)",
+            "onestopId": "s-dp3w69k377-austin~corcoran~southgreenline",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.765389,
+                    41.893003
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11563",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11563",
+                        "stop_desc": "Central & Huron, Southbound, Northwest Corner",
+                        "stop_id": "11563",
+                        "stop_lat": "41.893003",
+                        "stop_lon": "-87.765389",
+                        "stop_name": "Central & Huron",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & Huron",
+            "onestopId": "s-dp3w6f7hqj-central~huron",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2817,29 +2737,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77492115,
-                    41.89047426
+                    -87.77490274,
+                    41.88537
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15961",
+                    "identifier": "f-cta-s-9604",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15961",
-                        "stop_desc": "Austin & Ontario, Northbound, Eastside of the Street",
-                        "stop_id": "15961",
-                        "stop_lat": "41.89047426",
-                        "stop_lon": "-87.77492115",
-                        "stop_name": "Austin & Ontario",
+                        "stop_code": "9604",
+                        "stop_desc": "Austin & Fulton/Pleasant, Southbound, Southwest Corner",
+                        "stop_id": "9604",
+                        "stop_lat": "41.88537",
+                        "stop_lon": "-87.77490274",
+                        "stop_name": "Austin & Fulton/Pleasant",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Ontario",
-            "onestopId": "s-dp3w69um8n-austin~ontario",
+            "name": "Austin & Fulton/Pleasant",
+            "onestopId": "s-dp3w68urbw-austin~fulton~pleasant",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2850,62 +2770,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.765529,
-                    41.896749
+                    -87.785039,
+                    41.912685
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11561",
+                    "identifier": "f-cta-s-11740",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11561",
-                        "stop_desc": "Central & Iowa, Southbound, Northwest Corner",
-                        "stop_id": "11561",
-                        "stop_lat": "41.896749",
-                        "stop_lon": "-87.765529",
-                        "stop_name": "Central & Iowa",
+                        "stop_code": "11740",
+                        "stop_desc": "Narragansett & Bloomingdale, Northbound, Southeast Corner",
+                        "stop_id": "11740",
+                        "stop_lat": "41.912685",
+                        "stop_lon": "-87.785039",
+                        "stop_name": "Narragansett & Bloomingdale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Iowa",
-            "onestopId": "s-dp3w6g546b-central~iowa",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.78504379,
-                    41.91456177
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-11741",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "11741",
-                        "stop_desc": "Narragansett & Cortland, Northbound, Southeast Corner",
-                        "stop_id": "11741",
-                        "stop_lat": "41.91456177",
-                        "stop_lon": "-87.78504379",
-                        "stop_name": "Narragansett & Cortland",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Narragansett & Cortland",
-            "onestopId": "s-dp3w6qkfh0-narragansett~cortland",
+            "name": "Narragansett & Bloomingdale",
+            "onestopId": "s-dp3w6muzh6-narragansett~bloomingdale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3015,29 +2902,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77478,
-                    41.88698
+                    -87.76548184,
+                    41.90025288
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9629",
+                    "identifier": "f-cta-s-11591",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9629",
-                        "stop_desc": "Austin & Corcoran/South Blvd (Green Line), Northbound, Southeast Corner",
-                        "stop_id": "9629",
-                        "stop_lat": "41.88698",
-                        "stop_lon": "-87.77478",
-                        "stop_name": "Austin & Corcoran/South Blvd (Green Line)",
+                        "stop_code": "11591",
+                        "stop_desc": "Central & Thomas, Northbound, Southeast Corner",
+                        "stop_id": "11591",
+                        "stop_lat": "41.90025288",
+                        "stop_lon": "-87.76548184",
+                        "stop_name": "Central & Thomas",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Corcoran/South Blvd (Green Line)",
-            "onestopId": "s-dp3w69k377-austin~corcoran~southgreenline",
+            "name": "Central & Thomas",
+            "onestopId": "s-dp3w6gensj-central~thomas",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3279,39 +3166,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76821491,
-                    41.88010476
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-390",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "390",
-                        "stop_desc": "Madison & Waller, Eastbound, Southside of the Street",
-                        "stop_id": "390",
-                        "stop_lat": "41.88010476",
-                        "stop_lon": "-87.76821491",
-                        "stop_name": "Madison & Waller",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Madison & Waller",
-            "onestopId": "s-dp3w6b11k3-madison~waller",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.78308524,
                     41.92364318
                 ],
@@ -3444,6 +3298,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.79750551,
+                    41.9236635
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-842",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "842",
+                        "stop_desc": "Grand & New England, Westbound, Northeast Corner",
+                        "stop_id": "842",
+                        "stop_lat": "41.9236635",
+                        "stop_lon": "-87.79750551",
+                        "stop_name": "Grand & New England",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Grand & New England",
+            "onestopId": "s-dp3w6pgz1c-grand~newengland",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.77532377,
                     41.89823207
                 ],
@@ -3477,29 +3364,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79750551,
-                    41.9236635
+                    -87.77456775,
+                    41.88219676
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-842",
+                    "identifier": "f-cta-s-9626",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "842",
-                        "stop_desc": "Grand & New England, Westbound, Northeast Corner",
-                        "stop_id": "842",
-                        "stop_lat": "41.9236635",
-                        "stop_lon": "-87.79750551",
-                        "stop_name": "Grand & New England",
+                        "stop_code": "9626",
+                        "stop_desc": "Austin & Washington, Northbound, Northeast Corner",
+                        "stop_id": "9626",
+                        "stop_lat": "41.88219676",
+                        "stop_lon": "-87.77456775",
+                        "stop_name": "Austin & Washington",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & New England",
-            "onestopId": "s-dp3w6pgz1c-grand~newengland",
+            "name": "Austin & Washington",
+            "onestopId": "s-dp3w68kt2r-austin~washington",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3609,29 +3496,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78505064,
-                    41.89648615
+                    -87.77537919,
+                    41.90028805
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11717",
+                    "identifier": "f-cta-s-15828",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11717",
-                        "stop_desc": "Ridgeland & Iowa, Southbound, Northwest Corner",
-                        "stop_id": "11717",
-                        "stop_lat": "41.89648615",
-                        "stop_lon": "-87.78505064",
-                        "stop_name": "Ridgeland & Iowa",
+                        "stop_code": "15828",
+                        "stop_desc": "Austin & Thomas, Southbound, Northwest Corner",
+                        "stop_id": "15828",
+                        "stop_lat": "41.90028805",
+                        "stop_lon": "-87.77537919",
+                        "stop_name": "Austin & Thomas",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ridgeland & Iowa",
-            "onestopId": "s-dp3w67hbsp-ridgeland~iowa",
+            "name": "Austin & Thomas",
+            "onestopId": "s-dp3w6eeyv7-austin~thomas",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.76481331,
+                    41.88213935
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11580",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11580",
+                        "stop_desc": "Central & Washington, Northbound, Southeast Corner",
+                        "stop_id": "11580",
+                        "stop_lat": "41.88213935",
+                        "stop_lon": "-87.76481331",
+                        "stop_name": "Central & Washington",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & Washington",
+            "onestopId": "s-dp3w6b7t5s-central~washington",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3708,29 +3628,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.79543545,
-                    41.9236663
+                    -87.7662933,
+                    41.91894393
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-14809",
+                    "identifier": "f-cta-s-829",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "14809",
-                        "stop_desc": "Grand & Oak Park, Westbound, Northwest Corner",
-                        "stop_id": "14809",
-                        "stop_lat": "41.9236663",
-                        "stop_lon": "-87.79543545",
-                        "stop_name": "Grand & Oak Park",
+                        "stop_code": "829",
+                        "stop_desc": "Grand & Central, Westbound, Northwest Corner",
+                        "stop_id": "829",
+                        "stop_lat": "41.91894393",
+                        "stop_lon": "-87.7662933",
+                        "stop_name": "Grand & Central",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Grand & Oak Park",
-            "onestopId": "s-dp3w6pvr41-grand~oakpark",
+            "name": "Grand & Central",
+            "onestopId": "s-dp3w6z4e91-grand~central",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3741,29 +3661,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76589062,
-                    41.91909699
+                    -87.77547254,
+                    41.90755661
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15465",
+                    "identifier": "f-cta-s-9641",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15465",
-                        "stop_desc": "Central & Grand, Southbound, Northwest Corner",
-                        "stop_id": "15465",
-                        "stop_lat": "41.91909699",
-                        "stop_lon": "-87.76589062",
-                        "stop_name": "Central & Grand",
+                        "stop_code": "9641",
+                        "stop_desc": "Austin & Le Moyne, Northbound, Northeast Corner",
+                        "stop_id": "9641",
+                        "stop_lat": "41.90755661",
+                        "stop_lon": "-87.77547254",
+                        "stop_name": "Austin & Le Moyne",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Grand",
-            "onestopId": "s-dp3w6z4u6w-central~grand",
+            "name": "Austin & Le Moyne",
+            "onestopId": "s-dp3w6t5c5n-austin~lemoyne",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3854,39 +3774,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77500914,
-                    41.90179808
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1970",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1970",
-                        "stop_desc": "Division & Austin Terminal, Southeastbound, Bus Terminal",
-                        "stop_id": "1970",
-                        "stop_lat": "41.90179808",
-                        "stop_lon": "-87.77500914",
-                        "stop_name": "Division & Austin Terminal",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Division & Austin Terminal",
-            "onestopId": "s-dp3w6eupwj-division~austinterminal",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.78480584,
                     41.89047659
                 ],
@@ -3910,6 +3797,39 @@
             ],
             "name": "Ridgeland & Ontario",
             "onestopId": "s-dp3w63vj9y-ridgeland~ontario",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.76552392,
+                    41.89479043
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-515",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "515",
+                        "stop_desc": "Chicago & Central, Eastbound, Southwest Corner",
+                        "stop_id": "515",
+                        "stop_lat": "41.89479043",
+                        "stop_lon": "-87.76552392",
+                        "stop_name": "Chicago & Central",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Chicago & Central",
+            "onestopId": "s-dp3w6feng4-chicago~central",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3953,62 +3873,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.775438,
-                    41.917813
+                    -87.77517594,
+                    41.89850513
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9646",
+                    "identifier": "f-cta-s-9636",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9646",
-                        "stop_desc": "Austin & Dickens, Northbound, Southeast Corner",
-                        "stop_id": "9646",
-                        "stop_lat": "41.917813",
-                        "stop_lon": "-87.775438",
-                        "stop_name": "Austin & Dickens",
+                        "stop_code": "9636",
+                        "stop_desc": "Austin & Augusta, Northbound, Northeast Corner",
+                        "stop_id": "9636",
+                        "stop_lat": "41.89850513",
+                        "stop_lon": "-87.77517594",
+                        "stop_name": "Austin & Augusta",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Dickens",
-            "onestopId": "s-dp3w6wguun-austin~dickens",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.78496517,
-                    41.8997991
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-11733",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "11733",
-                        "stop_desc": "Ridgeland & Thomas, Northbound, Southeast Corner",
-                        "stop_id": "11733",
-                        "stop_lat": "41.8997991",
-                        "stop_lon": "-87.78496517",
-                        "stop_name": "Ridgeland & Thomas",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Ridgeland & Thomas",
-            "onestopId": "s-dp3w67sun0-ridgeland~thomas",
+            "name": "Austin & Augusta",
+            "onestopId": "s-dp3w6ekh6p-austin~augusta",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4108,6 +3995,39 @@
             ],
             "name": "Narragansett & Cortland",
             "onestopId": "s-dp3w6qsgsu-narragansett~cortland",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.76191891,
+                    41.88020276
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-394",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "394",
+                        "stop_desc": "Madison & Lotus, Eastbound, Southwest Corner",
+                        "stop_id": "394",
+                        "stop_lat": "41.88020276",
+                        "stop_lon": "-87.76191891",
+                        "stop_name": "Madison & Lotus",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Madison & Lotus",
+            "onestopId": "s-dp3w6bj9z5-madison~lotus",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4283,39 +4203,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76576703,
-                    41.90745627
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-11595",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "11595",
-                        "stop_desc": "Central & Le Moyne, Northbound, Southeast Corner",
-                        "stop_id": "11595",
-                        "stop_lat": "41.90745627",
-                        "stop_lon": "-87.76576703",
-                        "stop_name": "Central & Le Moyne",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Central & Le Moyne",
-            "onestopId": "s-dp3w6v4btk-central~lemoyne",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.76570242,
                     41.90562613
                 ],
@@ -4438,39 +4325,6 @@
             ],
             "name": "Fullerton & Narragansett",
             "onestopId": "s-dp3w6ruxy8-fullerton~narragansett",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.77535033,
-                    41.90394159
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-9639",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "9639",
-                        "stop_desc": "Austin & Berkshire/Potomac, Northbound, Northeast Corner",
-                        "stop_id": "9639",
-                        "stop_lat": "41.90394159",
-                        "stop_lon": "-87.77535033",
-                        "stop_name": "Austin & Berkshire/Potomac",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Austin & Berkshire/Potomac",
-            "onestopId": "s-dp3w6s7unh-austin~berkshire~potomac",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4745,29 +4599,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76562057,
-                    41.89861711
+                    -87.77535033,
+                    41.90394159
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11560",
+                    "identifier": "f-cta-s-9639",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11560",
-                        "stop_desc": "Central & Augusta, Southbound, Northwest Corner",
-                        "stop_id": "11560",
-                        "stop_lat": "41.89861711",
-                        "stop_lon": "-87.76562057",
-                        "stop_name": "Central & Augusta",
+                        "stop_code": "9639",
+                        "stop_desc": "Austin & Berkshire/Potomac, Northbound, Northeast Corner",
+                        "stop_id": "9639",
+                        "stop_lat": "41.90394159",
+                        "stop_lon": "-87.77535033",
+                        "stop_name": "Austin & Berkshire/Potomac",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Augusta",
-            "onestopId": "s-dp3w6g7j0u-central~augusta",
+            "name": "Austin & Berkshire/Potomac",
+            "onestopId": "s-dp3w6s7unh-austin~berkshire~potomac",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4910,6 +4764,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.76966086,
+                    41.88026556
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-508",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "508",
+                        "stop_desc": "Madison & Menard, Westbound, Northeast Corner",
+                        "stop_id": "508",
+                        "stop_lat": "41.88026556",
+                        "stop_lon": "-87.76966086",
+                        "stop_name": "Madison & Menard",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Madison & Menard",
+            "onestopId": "s-dp3w6b044x-madison~menard",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.76589448,
                     41.90220381
                 ],
@@ -5042,29 +4929,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77547254,
-                    41.90755661
+                    -87.76589062,
+                    41.91909699
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9641",
+                    "identifier": "f-cta-s-15465",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9641",
-                        "stop_desc": "Austin & Le Moyne, Northbound, Northeast Corner",
-                        "stop_id": "9641",
-                        "stop_lat": "41.90755661",
-                        "stop_lon": "-87.77547254",
-                        "stop_name": "Austin & Le Moyne",
+                        "stop_code": "15465",
+                        "stop_desc": "Central & Grand, Southbound, Northwest Corner",
+                        "stop_id": "15465",
+                        "stop_lat": "41.91909699",
+                        "stop_lon": "-87.76589062",
+                        "stop_name": "Central & Grand",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Le Moyne",
-            "onestopId": "s-dp3w6t5c5n-austin~lemoyne",
+            "name": "Central & Grand",
+            "onestopId": "s-dp3w6z4u6w-central~grand",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5174,29 +5061,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77495401,
-                    41.88691474
+                    -87.770614,
+                    41.902009
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9603",
+                    "identifier": "f-cta-s-1972",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9603",
-                        "stop_desc": "Austin & Corcoran/South Blvd (Green Line), Southbound, Southwest Corner",
-                        "stop_id": "9603",
-                        "stop_lat": "41.88691474",
-                        "stop_lon": "-87.77495401",
-                        "stop_name": "Austin & Corcoran/South Blvd (Green Line)",
+                        "stop_code": "1972",
+                        "stop_desc": "Division & Menard, Eastbound, Southwest Corner",
+                        "stop_id": "1972",
+                        "stop_lat": "41.902009",
+                        "stop_lon": "-87.770614",
+                        "stop_name": "Division & Menard",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Corcoran/South Blvd (Green Line)",
-            "onestopId": "s-dp3w69k0zq-austin~corcoran~southgreenline",
+            "name": "Division & Menard",
+            "onestopId": "s-dp3w6sp2uk-division~menard",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.76569708,
+                    41.90920067
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11596",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11596",
+                        "stop_desc": "Central & North Ave, Northbound, Southeast Corner",
+                        "stop_id": "11596",
+                        "stop_lat": "41.90920067",
+                        "stop_lon": "-87.76569708",
+                        "stop_name": "Central & North Ave",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & North Ave",
+            "onestopId": "s-dp3w6v6fz1-central~north",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5339,29 +5259,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.772404,
-                    41.894698
+                    -87.78496517,
+                    41.8997991
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-511",
+                    "identifier": "f-cta-s-11733",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "511",
-                        "stop_desc": "Chicago & Mayfield, Eastbound, Southwest Corner",
-                        "stop_id": "511",
-                        "stop_lat": "41.894698",
-                        "stop_lon": "-87.772404",
-                        "stop_name": "Chicago & Mayfield",
+                        "stop_code": "11733",
+                        "stop_desc": "Ridgeland & Thomas, Northbound, Southeast Corner",
+                        "stop_id": "11733",
+                        "stop_lat": "41.8997991",
+                        "stop_lon": "-87.78496517",
+                        "stop_name": "Ridgeland & Thomas",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Chicago & Mayfield",
-            "onestopId": "s-dp3w6dwn69-chicago~mayfield",
+            "name": "Ridgeland & Thomas",
+            "onestopId": "s-dp3w67sun0-ridgeland~thomas",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5537,29 +5457,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77537919,
-                    41.90028805
+                    -87.784982,
+                    41.910866
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15828",
+                    "identifier": "f-cta-s-11739",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15828",
-                        "stop_desc": "Austin & Thomas, Southbound, Northwest Corner",
-                        "stop_id": "15828",
-                        "stop_lat": "41.90028805",
-                        "stop_lon": "-87.77537919",
-                        "stop_name": "Austin & Thomas",
+                        "stop_code": "11739",
+                        "stop_desc": "Narragansett & Wabansia, Northbound, Southeast Corner",
+                        "stop_id": "11739",
+                        "stop_lat": "41.910866",
+                        "stop_lon": "-87.784982",
+                        "stop_name": "Narragansett & Wabansia",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Thomas",
-            "onestopId": "s-dp3w6eeyv7-austin~thomas",
+            "name": "Narragansett & Wabansia",
+            "onestopId": "s-dp3w6msumx-narragansett~wabansia",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5636,29 +5556,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78336902,
-                    41.90570217
+                    -87.76519646,
+                    41.88698695
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11736",
+                    "identifier": "f-cta-s-11567",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11736",
-                        "stop_desc": "Ridgeland & Greenfield, Northbound, Southeast Corner",
-                        "stop_id": "11736",
-                        "stop_lat": "41.90570217",
-                        "stop_lon": "-87.78336902",
-                        "stop_name": "Ridgeland & Greenfield",
+                        "stop_code": "11567",
+                        "stop_desc": "Central & Corcoran, Southbound, Southwest Corner",
+                        "stop_id": "11567",
+                        "stop_lat": "41.88698695",
+                        "stop_lon": "-87.76519646",
+                        "stop_name": "Central & Corcoran",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Ridgeland & Greenfield",
-            "onestopId": "s-dp3w6kwn7j-ridgeland~greenfield",
+            "name": "Central & Corcoran",
+            "onestopId": "s-dp3w6c736s-central~corcoran",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5735,29 +5655,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.785039,
-                    41.912685
+                    -87.77517517,
+                    41.89371476
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11740",
+                    "identifier": "f-cta-s-9598",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11740",
-                        "stop_desc": "Narragansett & Bloomingdale, Northbound, Southeast Corner",
-                        "stop_id": "11740",
-                        "stop_lat": "41.912685",
-                        "stop_lon": "-87.785039",
-                        "stop_name": "Narragansett & Bloomingdale",
+                        "stop_code": "9598",
+                        "stop_desc": "Austin & Superior, Southbound, Westside of the Street",
+                        "stop_id": "9598",
+                        "stop_lat": "41.89371476",
+                        "stop_lon": "-87.77517517",
+                        "stop_name": "Austin & Superior",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Narragansett & Bloomingdale",
-            "onestopId": "s-dp3w6muzh6-narragansett~bloomingdale",
+            "name": "Austin & Superior",
+            "onestopId": "s-dp3w6ds0d4-austin~superior",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.76562057,
+                    41.89861711
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11560",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11560",
+                        "stop_desc": "Central & Augusta, Southbound, Northwest Corner",
+                        "stop_id": "11560",
+                        "stop_lat": "41.89861711",
+                        "stop_lon": "-87.76562057",
+                        "stop_name": "Central & Augusta",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & Augusta",
+            "onestopId": "s-dp3w6g7j0u-central~augusta",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5900,39 +5853,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77551061,
-                    41.90910669
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-9642",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "9642",
-                        "stop_desc": "Austin & North Ave, Northbound, Southeast Corner",
-                        "stop_id": "9642",
-                        "stop_lat": "41.90910669",
-                        "stop_lon": "-87.77551061",
-                        "stop_name": "Austin & North Ave",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Austin & North Ave",
-            "onestopId": "s-dp3w6t7f4r-austin~north",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.77780916,
                     41.92090404
                 ],
@@ -6032,29 +5952,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76542919,
-                    41.89838694
+                    -87.77820663,
+                    41.90919299
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11590",
+                    "identifier": "f-cta-s-857",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11590",
-                        "stop_desc": "Central & Augusta, Northbound, Southeast Corner",
-                        "stop_id": "11590",
-                        "stop_lat": "41.89838694",
-                        "stop_lon": "-87.76542919",
-                        "stop_name": "Central & Augusta",
+                        "stop_code": "857",
+                        "stop_desc": "North Ave & Taylor, Eastbound, Southwest Corner",
+                        "stop_id": "857",
+                        "stop_lat": "41.90919299",
+                        "stop_lon": "-87.77820663",
+                        "stop_name": "North Ave & Taylor",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Augusta",
-            "onestopId": "s-dp3w6g75v3-central~augusta",
+            "name": "North Ave & Taylor",
+            "onestopId": "s-dp3w6t3fex-north~taylor",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6131,29 +6051,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77507169,
-                    41.89041023
+                    -87.78440046,
+                    41.90927192
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9599",
+                    "identifier": "f-cta-s-992",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9599",
-                        "stop_desc": "Austin & Ontario, Southbound, Southwest Corner",
-                        "stop_id": "9599",
-                        "stop_lat": "41.89041023",
-                        "stop_lon": "-87.77507169",
-                        "stop_name": "Austin & Ontario",
+                        "stop_code": "992",
+                        "stop_desc": "North Ave & Narragansett, Westbound, Northeast Corner",
+                        "stop_id": "992",
+                        "stop_lat": "41.90927192",
+                        "stop_lon": "-87.78440046",
+                        "stop_name": "North Ave & Narragansett",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Ontario",
-            "onestopId": "s-dp3w69ujkd-austin~ontario",
+            "name": "North Ave & Narragansett",
+            "onestopId": "s-dp3w6mm75n-north~narragansett",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6197,29 +6117,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77517517,
-                    41.89371476
+                    -87.799018,
+                    41.923512
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9598",
+                    "identifier": "f-cta-s-670",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9598",
-                        "stop_desc": "Austin & Superior, Southbound, Westside of the Street",
-                        "stop_id": "9598",
-                        "stop_lat": "41.89371476",
-                        "stop_lon": "-87.77517517",
-                        "stop_name": "Austin & Superior",
+                        "stop_code": "670",
+                        "stop_desc": "Grand & Newland, Eastbound, Southwest Corner",
+                        "stop_id": "670",
+                        "stop_lat": "41.923512",
+                        "stop_lon": "-87.799018",
+                        "stop_name": "Grand & Newland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Superior",
-            "onestopId": "s-dp3w6ds0d4-austin~superior",
+            "name": "Grand & Newland",
+            "onestopId": "s-dp3w6pfwnt-grand~newland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6626,6 +6546,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.790097,
+                    41.908996
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-850",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "850",
+                        "stop_desc": "North Ave & East, Eastbound, Southwest Corner",
+                        "stop_id": "850",
+                        "stop_lat": "41.908996",
+                        "stop_lon": "-87.790097",
+                        "stop_name": "North Ave & East",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "North Ave & East",
+            "onestopId": "s-dp3w6m31w7-north~east",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.7758422,
                     41.92371739
                 ],
@@ -6725,29 +6678,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76191891,
-                    41.88020276
+                    -87.774135,
+                    41.887293
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-394",
+                    "identifier": "f-cta-s-30244",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "394",
-                        "stop_desc": "Madison & Lotus, Eastbound, Southwest Corner",
-                        "stop_id": "394",
-                        "stop_lat": "41.88020276",
-                        "stop_lon": "-87.76191891",
-                        "stop_name": "Madison & Lotus",
-                        "wheelchair_boarding": "1"
+                        "parent_station": "41260",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30244",
+                        "stop_lat": "41.887293",
+                        "stop_lon": "-87.774135",
+                        "stop_name": "Austin-Green",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30243",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "41260",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30243",
+                        "stop_lat": "41.887293",
+                        "stop_lon": "-87.774135",
+                        "stop_name": "Austin-Green",
+                        "wheelchair_boarding": "0"
                     }
                 }
             ],
-            "name": "Madison & Lotus",
-            "onestopId": "s-dp3w6bj9z5-madison~lotus",
+            "name": "Austin-Green",
+            "onestopId": "s-dp3w69kg4m-austingreen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6758,29 +6725,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.790097,
-                    41.908996
+                    -87.76121001,
+                    41.90224043
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-850",
+                    "identifier": "f-cta-s-17981",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "850",
-                        "stop_desc": "North Ave & East, Eastbound, Southwest Corner",
-                        "stop_id": "850",
-                        "stop_lat": "41.908996",
-                        "stop_lon": "-87.790097",
-                        "stop_name": "North Ave & East",
+                        "stop_code": "17981",
+                        "stop_desc": "Division & Long, Westbound, Northeast Corner",
+                        "stop_id": "17981",
+                        "stop_lat": "41.90224043",
+                        "stop_lon": "-87.76121001",
+                        "stop_name": "Division & Long",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & East",
-            "onestopId": "s-dp3w6m31w7-north~east",
+            "name": "Division & Long",
+            "onestopId": "s-dp3w6un4px-division~long",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6791,29 +6758,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.775726,
-                    41.922081
+                    -87.77060918,
+                    41.89484992
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9582",
+                    "identifier": "f-cta-s-15830",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9582",
-                        "stop_desc": "Austin & Belden, Southbound, Northwest Corner",
-                        "stop_id": "9582",
-                        "stop_lat": "41.922081",
-                        "stop_lon": "-87.775726",
-                        "stop_name": "Austin & Belden",
+                        "stop_code": "15830",
+                        "stop_desc": "Chicago & Menard, Westbound, Northwest Corner",
+                        "stop_id": "15830",
+                        "stop_lat": "41.89484992",
+                        "stop_lon": "-87.77060918",
+                        "stop_name": "Chicago & Menard",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Belden",
-            "onestopId": "s-dp3w6xetv6-austin~belden",
+            "name": "Chicago & Menard",
+            "onestopId": "s-dp3w6dxrhw-chicago~menard",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6956,29 +6923,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76569708,
-                    41.90920067
+                    -87.77495401,
+                    41.88691474
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11596",
+                    "identifier": "f-cta-s-9603",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11596",
-                        "stop_desc": "Central & North Ave, Northbound, Southeast Corner",
-                        "stop_id": "11596",
-                        "stop_lat": "41.90920067",
-                        "stop_lon": "-87.76569708",
-                        "stop_name": "Central & North Ave",
+                        "stop_code": "9603",
+                        "stop_desc": "Austin & Corcoran/South Blvd (Green Line), Southbound, Southwest Corner",
+                        "stop_id": "9603",
+                        "stop_lat": "41.88691474",
+                        "stop_lon": "-87.77495401",
+                        "stop_name": "Austin & Corcoran/South Blvd (Green Line)",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & North Ave",
-            "onestopId": "s-dp3w6v6fz1-central~north",
+            "name": "Austin & Corcoran/South Blvd (Green Line)",
+            "onestopId": "s-dp3w69k0zq-austin~corcoran~southgreenline",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7253,29 +7220,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.784982,
-                    41.910866
+                    -87.765628,
+                    41.916751
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11739",
+                    "identifier": "f-cta-s-11600",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11739",
-                        "stop_desc": "Narragansett & Wabansia, Northbound, Southeast Corner",
-                        "stop_id": "11739",
-                        "stop_lat": "41.910866",
-                        "stop_lon": "-87.784982",
-                        "stop_name": "Narragansett & Wabansia",
+                        "stop_code": "11600",
+                        "stop_desc": "Central & Armitage, Northbound, Eastside of the Street",
+                        "stop_id": "11600",
+                        "stop_lat": "41.916751",
+                        "stop_lon": "-87.765628",
+                        "stop_name": "Central & Armitage",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Narragansett & Wabansia",
-            "onestopId": "s-dp3w6msumx-narragansett~wabansia",
+            "name": "Central & Armitage",
+            "onestopId": "s-dp3w6yenb8-central~armitage",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7319,29 +7286,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76121001,
-                    41.90224043
+                    -87.775438,
+                    41.917813
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-17981",
+                    "identifier": "f-cta-s-9646",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "17981",
-                        "stop_desc": "Division & Long, Westbound, Northeast Corner",
-                        "stop_id": "17981",
-                        "stop_lat": "41.90224043",
-                        "stop_lon": "-87.76121001",
-                        "stop_name": "Division & Long",
+                        "stop_code": "9646",
+                        "stop_desc": "Austin & Dickens, Northbound, Southeast Corner",
+                        "stop_id": "9646",
+                        "stop_lat": "41.917813",
+                        "stop_lon": "-87.775438",
+                        "stop_name": "Austin & Dickens",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Division & Long",
-            "onestopId": "s-dp3w6un4px-division~long",
+            "name": "Austin & Dickens",
+            "onestopId": "s-dp3w6wguun-austin~dickens",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7418,29 +7385,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.775213,
-                    41.910989
+                    -87.77551061,
+                    41.90910669
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9643",
+                    "identifier": "f-cta-s-9642",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9643",
-                        "stop_desc": "Austin & Wabansia, Northbound, Southeast Corner",
-                        "stop_id": "9643",
-                        "stop_lat": "41.910989",
-                        "stop_lon": "-87.775213",
-                        "stop_name": "Austin & Wabansia",
+                        "stop_code": "9642",
+                        "stop_desc": "Austin & North Ave, Northbound, Southeast Corner",
+                        "stop_id": "9642",
+                        "stop_lat": "41.90910669",
+                        "stop_lon": "-87.77551061",
+                        "stop_name": "Austin & North Ave",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Wabansia",
-            "onestopId": "s-dp3w6tsj1q-austin~wabansia",
+            "name": "Austin & North Ave",
+            "onestopId": "s-dp3w6t7f4r-austin~north",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7451,29 +7418,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76586158,
-                    41.90589421
+                    -87.76576703,
+                    41.90745627
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11556",
+                    "identifier": "f-cta-s-11595",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11556",
-                        "stop_desc": "Central & Hirsch, Southbound, Northwest Corner",
-                        "stop_id": "11556",
-                        "stop_lat": "41.90589421",
-                        "stop_lon": "-87.76586158",
-                        "stop_name": "Central & Hirsch",
+                        "stop_code": "11595",
+                        "stop_desc": "Central & Le Moyne, Northbound, Southeast Corner",
+                        "stop_id": "11595",
+                        "stop_lat": "41.90745627",
+                        "stop_lon": "-87.76576703",
+                        "stop_name": "Central & Le Moyne",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Hirsch",
-            "onestopId": "s-dp3w6udze0-central~hirsch",
+            "name": "Central & Le Moyne",
+            "onestopId": "s-dp3w6v4btk-central~lemoyne",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7550,29 +7517,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76552392,
-                    41.89479043
+                    -87.78504379,
+                    41.91456177
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-515",
+                    "identifier": "f-cta-s-11741",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "515",
-                        "stop_desc": "Chicago & Central, Eastbound, Southwest Corner",
-                        "stop_id": "515",
-                        "stop_lat": "41.89479043",
-                        "stop_lon": "-87.76552392",
-                        "stop_name": "Chicago & Central",
+                        "stop_code": "11741",
+                        "stop_desc": "Narragansett & Cortland, Northbound, Southeast Corner",
+                        "stop_id": "11741",
+                        "stop_lat": "41.91456177",
+                        "stop_lon": "-87.78504379",
+                        "stop_name": "Narragansett & Cortland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Chicago & Central",
-            "onestopId": "s-dp3w6feng4-chicago~central",
+            "name": "Narragansett & Cortland",
+            "onestopId": "s-dp3w6qkfh0-narragansett~cortland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7616,29 +7583,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78816899,
-                    41.92376391
+                    -87.78466679,
+                    41.90176336
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-1283",
+                    "identifier": "f-cta-s-11734",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "1283",
-                        "stop_desc": "6450 W Fullerton, Westbound, Northside of the Street",
-                        "stop_id": "1283",
-                        "stop_lat": "41.92376391",
-                        "stop_lon": "-87.78816899",
-                        "stop_name": "6450 W Fullerton",
+                        "stop_code": "11734",
+                        "stop_desc": "Ridgeland & Division, Northbound, Southeast Corner",
+                        "stop_id": "11734",
+                        "stop_lat": "41.90176336",
+                        "stop_lon": "-87.78466679",
+                        "stop_name": "Ridgeland & Division",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "6450 W Fullerton",
-            "onestopId": "s-dp3w6rfxek-6450wfullerton",
+            "name": "Ridgeland & Division",
+            "onestopId": "s-dp3w67vpmn-ridgeland~division",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7682,29 +7649,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76519646,
-                    41.88698695
+                    -87.78336902,
+                    41.90570217
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11567",
+                    "identifier": "f-cta-s-11736",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11567",
-                        "stop_desc": "Central & Corcoran, Southbound, Southwest Corner",
-                        "stop_id": "11567",
-                        "stop_lat": "41.88698695",
-                        "stop_lon": "-87.76519646",
-                        "stop_name": "Central & Corcoran",
+                        "stop_code": "11736",
+                        "stop_desc": "Ridgeland & Greenfield, Northbound, Southeast Corner",
+                        "stop_id": "11736",
+                        "stop_lat": "41.90570217",
+                        "stop_lon": "-87.78336902",
+                        "stop_name": "Ridgeland & Greenfield",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Corcoran",
-            "onestopId": "s-dp3w6c736s-central~corcoran",
+            "name": "Ridgeland & Greenfield",
+            "onestopId": "s-dp3w6kwn7j-ridgeland~greenfield",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7748,29 +7715,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77524472,
-                    41.89480312
+                    -87.76537743,
+                    41.89662399
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-15167",
+                    "identifier": "f-cta-s-11589",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "15167",
-                        "stop_desc": "Austin & Chicago, Southbound, Northwest Corner",
-                        "stop_id": "15167",
-                        "stop_lat": "41.89480312",
-                        "stop_lon": "-87.77524472",
-                        "stop_name": "Austin & Chicago",
+                        "stop_code": "11589",
+                        "stop_desc": "Central & Iowa, Northbound, Southeast Corner",
+                        "stop_id": "11589",
+                        "stop_lat": "41.89662399",
+                        "stop_lon": "-87.76537743",
+                        "stop_name": "Central & Iowa",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Chicago",
-            "onestopId": "s-dp3w6dsnbt-austin~chicago",
+            "name": "Central & Iowa",
+            "onestopId": "s-dp3w6g51w2-central~iowa",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7814,29 +7781,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76572958,
-                    41.9201455
+                    -87.773042,
+                    41.901972
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11602",
+                    "identifier": "f-cta-s-1971",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11602",
-                        "stop_desc": "Central & Palmer, Northbound, Southeast Corner",
-                        "stop_id": "11602",
-                        "stop_lat": "41.9201455",
-                        "stop_lon": "-87.76572958",
-                        "stop_name": "Central & Palmer",
+                        "stop_code": "1971",
+                        "stop_desc": "Division & Mayfield, Eastbound, Southwest Corner",
+                        "stop_id": "1971",
+                        "stop_lat": "41.901972",
+                        "stop_lon": "-87.773042",
+                        "stop_name": "Division & Mayfield",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Palmer",
-            "onestopId": "s-dp3w6z6fw3-central~palmer",
+            "name": "Division & Mayfield",
+            "onestopId": "s-dp3w6sj8ev-division~mayfield",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7880,29 +7847,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.77548314,
-                    41.91433005
+                    -87.78447558,
+                    41.88815796
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9585",
+                    "identifier": "f-cta-s-11722",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9585",
-                        "stop_desc": "Austin & Cortland, Southbound, Northwest Corner",
-                        "stop_id": "9585",
-                        "stop_lat": "41.91433005",
-                        "stop_lon": "-87.77548314",
-                        "stop_name": "Austin & Cortland",
+                        "stop_code": "11722",
+                        "stop_desc": "Lake Street & Ridgeland, Eastbound, Southeast Corner",
+                        "stop_id": "11722",
+                        "stop_lat": "41.88815796",
+                        "stop_lon": "-87.78447558",
+                        "stop_name": "Lake Street & Ridgeland",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Austin & Cortland",
-            "onestopId": "s-dp3w6w7bdv-austin~cortland",
+            "name": "Lake Street & Ridgeland",
+            "onestopId": "s-dp3w63t21q-lake~ridgeland",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7936,39 +7903,6 @@
             ],
             "name": "Madison & Waller",
             "onestopId": "s-dp3w6b162d-madison~waller",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.761037,
-                    41.902133
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-1976",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "1976",
-                        "stop_desc": "Division & Long, Eastbound, Southwest Corner",
-                        "stop_id": "1976",
-                        "stop_lat": "41.902133",
-                        "stop_lon": "-87.761037",
-                        "stop_name": "Division & Long",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Division & Long",
-            "onestopId": "s-dp3w6un3ee-division~long",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8210,6 +8144,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.77492115,
+                    41.89047426
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-15961",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "15961",
+                        "stop_desc": "Austin & Ontario, Northbound, Eastside of the Street",
+                        "stop_id": "15961",
+                        "stop_lat": "41.89047426",
+                        "stop_lon": "-87.77492115",
+                        "stop_name": "Austin & Ontario",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Austin & Ontario",
+            "onestopId": "s-dp3w69um8n-austin~ontario",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.763935,
                     41.902102
                 ],
@@ -8375,6 +8342,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.772404,
+                    41.894698
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-511",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "511",
+                        "stop_desc": "Chicago & Mayfield, Eastbound, Southwest Corner",
+                        "stop_id": "511",
+                        "stop_lat": "41.894698",
+                        "stop_lon": "-87.772404",
+                        "stop_name": "Chicago & Mayfield",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Chicago & Mayfield",
+            "onestopId": "s-dp3w6dwn69-chicago~mayfield",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.77570294,
                     41.92069993
                 ],
@@ -8398,6 +8398,39 @@
             ],
             "name": "Austin & Grand",
             "onestopId": "s-dp3w6x7tvb-austin~grand",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.765529,
+                    41.896749
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11561",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11561",
+                        "stop_desc": "Central & Iowa, Southbound, Northwest Corner",
+                        "stop_id": "11561",
+                        "stop_lat": "41.896749",
+                        "stop_lon": "-87.765529",
+                        "stop_name": "Central & Iowa",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central & Iowa",
+            "onestopId": "s-dp3w6g546b-central~iowa",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8639,29 +8672,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.78440046,
-                    41.90927192
+                    -87.77507169,
+                    41.89041023
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-992",
+                    "identifier": "f-cta-s-9599",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "992",
-                        "stop_desc": "North Ave & Narragansett, Westbound, Northeast Corner",
-                        "stop_id": "992",
-                        "stop_lat": "41.90927192",
-                        "stop_lon": "-87.78440046",
-                        "stop_name": "North Ave & Narragansett",
+                        "stop_code": "9599",
+                        "stop_desc": "Austin & Ontario, Southbound, Southwest Corner",
+                        "stop_id": "9599",
+                        "stop_lat": "41.89041023",
+                        "stop_lon": "-87.77507169",
+                        "stop_name": "Austin & Ontario",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "North Ave & Narragansett",
-            "onestopId": "s-dp3w6mm75n-north~narragansett",
+            "name": "Austin & Ontario",
+            "onestopId": "s-dp3w69ujkd-austin~ontario",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8804,39 +8837,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76570988,
-                    41.91236489
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-11552",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "11552",
-                        "stop_desc": "Central & Bloomingdale, Southbound, Southwest Corner",
-                        "stop_id": "11552",
-                        "stop_lat": "41.91236489",
-                        "stop_lon": "-87.76570988",
-                        "stop_name": "Central & Bloomingdale",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Central & Bloomingdale",
-            "onestopId": "s-dp3w6vfvnx-central~bloomingdale",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.76801816,
                     41.90223708
                 ],
@@ -8870,29 +8870,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.76537743,
-                    41.89662399
+                    -87.77524472,
+                    41.89480312
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11589",
+                    "identifier": "f-cta-s-15167",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11589",
-                        "stop_desc": "Central & Iowa, Northbound, Southeast Corner",
-                        "stop_id": "11589",
-                        "stop_lat": "41.89662399",
-                        "stop_lon": "-87.76537743",
-                        "stop_name": "Central & Iowa",
+                        "stop_code": "15167",
+                        "stop_desc": "Austin & Chicago, Southbound, Northwest Corner",
+                        "stop_id": "15167",
+                        "stop_lat": "41.89480312",
+                        "stop_lon": "-87.77524472",
+                        "stop_name": "Austin & Chicago",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central & Iowa",
-            "onestopId": "s-dp3w6g51w2-central~iowa",
+            "name": "Austin & Chicago",
+            "onestopId": "s-dp3w6dsnbt-austin~chicago",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

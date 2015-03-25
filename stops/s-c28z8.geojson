@@ -139,40 +139,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.665104,
-                    49.169127
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-9591",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "59144",
-                        "stop_desc": "91A AVE @ 20100 BLOCK",
-                        "stop_id": "9591",
-                        "stop_lat": "49.169127",
-                        "stop_lon": "-122.665104",
-                        "stop_name": "WB 91A AV AT 20100 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB 91A AV AT 20100 BLOCK",
-            "onestopId": "s-c28z8wvyzv-wb91aat20100block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.660497,
                     49.159864
                 ],
@@ -299,6 +265,40 @@
             ],
             "name": "NB 200 ST FS 80 AV",
             "onestopId": "s-c28z8e7fhw-nb200fs80",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.656916,
+                    49.166091
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7297",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57226",
+                        "stop_desc": "204 ST @ 90 CRES",
+                        "stop_id": "7297",
+                        "stop_lat": "49.166091",
+                        "stop_lon": "-122.656916",
+                        "stop_name": "NB 204 ST NS 90 CRES",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 204 ST NS 90 CRES",
+            "onestopId": "s-c28z8y7vnx-nb204ns90cres",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -479,30 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.661314,
-                    49.144834
+                    -122.65712,
+                    49.1667
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7107",
+                    "identifier": "f-translink-s-7295",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57039",
-                        "stop_desc": "202A ST @ 7800 BLOCK",
-                        "stop_id": "7107",
-                        "stop_lat": "49.144834",
-                        "stop_lon": "-122.661314",
-                        "stop_name": "NB 202A ST AT 7800 BLOCK",
+                        "stop_code": "57224",
+                        "stop_desc": "204 ST @ 90A AVE",
+                        "stop_id": "7295",
+                        "stop_lat": "49.1667",
+                        "stop_lon": "-122.65712",
+                        "stop_name": "SB 204 ST FS 90A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 202A ST AT 7800 BLOCK",
-            "onestopId": "s-c28z8f8c2j-nb202aat7800block",
+            "name": "SB 204 ST FS 90A AV",
+            "onestopId": "s-c28z8yebcc-sb204fs90a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -615,30 +615,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.657288,
-                    49.172486
+                    -122.667826,
+                    49.171763
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7293",
+                    "identifier": "f-translink-s-7116",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57222",
-                        "stop_desc": "204 ST @ 93B AVE",
-                        "stop_id": "7293",
-                        "stop_lat": "49.172486",
-                        "stop_lon": "-122.657288",
-                        "stop_name": "SB 204 ST FS 93B AV",
+                        "stop_code": "57048",
+                        "stop_desc": "200 ST @ 92A AVE",
+                        "stop_id": "7116",
+                        "stop_lat": "49.171763",
+                        "stop_lon": "-122.667826",
+                        "stop_name": "NB 200 ST FS 92A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 204 ST FS 93B AV",
-            "onestopId": "s-c28z8zedqp-sb204fs93b",
+            "name": "NB 200 ST FS 92A AV",
+            "onestopId": "s-c28z8xkn22-nb200fs92a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -717,64 +717,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.65712,
-                    49.1667
+                    -122.661314,
+                    49.144834
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7295",
+                    "identifier": "f-translink-s-7107",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57224",
-                        "stop_desc": "204 ST @ 90A AVE",
-                        "stop_id": "7295",
-                        "stop_lat": "49.1667",
-                        "stop_lon": "-122.65712",
-                        "stop_name": "SB 204 ST FS 90A AV",
+                        "stop_code": "57039",
+                        "stop_desc": "202A ST @ 7800 BLOCK",
+                        "stop_id": "7107",
+                        "stop_lat": "49.144834",
+                        "stop_lon": "-122.661314",
+                        "stop_name": "NB 202A ST AT 7800 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 204 ST FS 90A AV",
-            "onestopId": "s-c28z8yebcc-sb204fs90a",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.656916,
-                    49.166091
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7297",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57226",
-                        "stop_desc": "204 ST @ 90 CRES",
-                        "stop_id": "7297",
-                        "stop_lat": "49.166091",
-                        "stop_lon": "-122.656916",
-                        "stop_name": "NB 204 ST NS 90 CRES",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 204 ST NS 90 CRES",
-            "onestopId": "s-c28z8y7vnx-nb204ns90cres",
+            "name": "NB 202A ST AT 7800 BLOCK",
+            "onestopId": "s-c28z8f8c2j-nb202aat7800block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1023,30 +989,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.668236,
-                    49.17158
+                    -122.665104,
+                    49.169127
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7132",
+                    "identifier": "f-translink-s-9591",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61487",
-                        "stop_desc": "200 ST @ 92A AVE",
-                        "stop_id": "7132",
-                        "stop_lat": "49.17158",
-                        "stop_lon": "-122.668236",
-                        "stop_name": "SB 200 ST NS 92A AV",
+                        "stop_code": "59144",
+                        "stop_desc": "91A AVE @ 20100 BLOCK",
+                        "stop_id": "9591",
+                        "stop_lat": "49.169127",
+                        "stop_lon": "-122.665104",
+                        "stop_name": "WB 91A AV AT 20100 BLOCK",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 200 ST NS 92A AV",
-            "onestopId": "s-c28z8x7tny-sb200ns92a",
+            "name": "WB 91A AV AT 20100 BLOCK",
+            "onestopId": "s-c28z8wvyzv-wb91aat20100block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1091,6 +1057,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.668236,
+                    49.17158
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7132",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61487",
+                        "stop_desc": "200 ST @ 92A AVE",
+                        "stop_id": "7132",
+                        "stop_lat": "49.17158",
+                        "stop_lon": "-122.668236",
+                        "stop_name": "SB 200 ST NS 92A AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB 200 ST NS 92A AV",
+            "onestopId": "s-c28z8x7tny-sb200ns92a",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.668413,
                     49.151338
                 ],
@@ -1125,30 +1125,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.667826,
-                    49.171763
+                    -122.657288,
+                    49.172486
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7116",
+                    "identifier": "f-translink-s-7293",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57048",
-                        "stop_desc": "200 ST @ 92A AVE",
-                        "stop_id": "7116",
-                        "stop_lat": "49.171763",
-                        "stop_lon": "-122.667826",
-                        "stop_name": "NB 200 ST FS 92A AV",
+                        "stop_code": "57222",
+                        "stop_desc": "204 ST @ 93B AVE",
+                        "stop_id": "7293",
+                        "stop_lat": "49.172486",
+                        "stop_lon": "-122.657288",
+                        "stop_name": "SB 204 ST FS 93B AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 200 ST FS 92A AV",
-            "onestopId": "s-c28z8xkn22-nb200fs92a",
+            "name": "SB 204 ST FS 93B AV",
+            "onestopId": "s-c28z8zedqp-sb204fs93b",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

@@ -3,6 +3,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -123.037599,
+                    49.351061
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-4024",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "53983",
+                        "stop_desc": "MOUNTAIN HWY @ COLEMAN ST",
+                        "stop_id": "4024",
+                        "stop_lat": "49.351061",
+                        "stop_lon": "-123.037599",
+                        "stop_name": "NB MOUNTAIN HWY FS COLEMAN ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "NB MOUNTAIN HWY FS COLEMAN ST",
+            "onestopId": "s-c2b8b0nfb0-nbmountainfscoleman",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -123.027463,
                     49.353357
                 ],
@@ -71,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -123.037599,
-                    49.351061
+                    -123.025097,
+                    49.350744
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4024",
+                    "identifier": "f-translink-s-4032",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "53983",
-                        "stop_desc": "MOUNTAIN HWY @ COLEMAN ST",
-                        "stop_id": "4024",
-                        "stop_lat": "49.351061",
-                        "stop_lon": "-123.037599",
-                        "stop_name": "NB MOUNTAIN HWY FS COLEMAN ST",
+                        "stop_code": "53991",
+                        "stop_desc": "COLEMAN ST @ UNDERWOOD AVE",
+                        "stop_id": "4032",
+                        "stop_lat": "49.350744",
+                        "stop_lon": "-123.025097",
+                        "stop_name": "WB COLEMAN ST FS UNDERWOOD AV",
                         "stop_url": "",
                         "zone_id": "ZN 2"
                     }
                 }
             ],
-            "name": "NB MOUNTAIN HWY FS COLEMAN ST",
-            "onestopId": "s-c2b8b0nfb0-nbmountainfscoleman",
+            "name": "WB COLEMAN ST FS UNDERWOOD AV",
+            "onestopId": "s-c2b8b2pbgm-wbcolemanfsunderwood",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -197,40 +231,6 @@
             ],
             "name": "WB MCNAIR DR FS RAMSAY RD",
             "onestopId": "s-c2b8b2dkvv-wbmcnairfsramsay",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -123.025097,
-                    49.350744
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-4032",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "53991",
-                        "stop_desc": "COLEMAN ST @ UNDERWOOD AVE",
-                        "stop_id": "4032",
-                        "stop_lat": "49.350744",
-                        "stop_lon": "-123.025097",
-                        "stop_name": "WB COLEMAN ST FS UNDERWOOD AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 2"
-                    }
-                }
-            ],
-            "name": "WB COLEMAN ST FS UNDERWOOD AV",
-            "onestopId": "s-c2b8b2pbgm-wbcolemanfsunderwood",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

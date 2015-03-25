@@ -105,30 +105,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.654422,
-                    49.078241
+                    -122.667761,
+                    49.074633
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7068",
+                    "identifier": "f-translink-s-7178",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57000",
-                        "stop_desc": "42 AVE @ 205A ST",
-                        "stop_id": "7068",
-                        "stop_lat": "49.078241",
-                        "stop_lon": "-122.654422",
-                        "stop_name": "EB 42 AV FS 205A ST",
+                        "stop_code": "57109",
+                        "stop_desc": "40 AVE @ 200A ST",
+                        "stop_id": "7178",
+                        "stop_lat": "49.074633",
+                        "stop_lon": "-122.667761",
+                        "stop_name": "EB 40 AV FS 200A ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 42 AV FS 205A ST",
-            "onestopId": "s-c28z0ymv2z-eb42fs205a",
+            "name": "EB 40 AV FS 200A ST",
+            "onestopId": "s-c28z0tu03y-eb40fs200a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -513,30 +513,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.668997,
-                    49.067331
+                    -122.66918,
+                    49.081864
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7200",
+                    "identifier": "f-translink-s-7175",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57130",
-                        "stop_desc": "36 AVE @ 200 ST",
-                        "stop_id": "7200",
-                        "stop_lat": "49.067331",
-                        "stop_lon": "-122.668997",
-                        "stop_name": "EB 36 AV FS 200 ST",
+                        "stop_code": "57106",
+                        "stop_desc": "200 ST @ 44 AVE",
+                        "stop_id": "7175",
+                        "stop_lat": "49.081864",
+                        "stop_lon": "-122.66918",
+                        "stop_name": "SB 200 ST FS 44 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 36 AV FS 200 ST",
-            "onestopId": "s-c28z0s7jvj-eb36fs200",
+            "name": "SB 200 ST FS 44 AV",
+            "onestopId": "s-c28z0x548f-sb200fs44",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -649,30 +649,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.691638,
-                    49.059741
+                    -122.669594,
+                    49.062346
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11751",
+                    "identifier": "f-translink-s-7187",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61664",
-                        "stop_desc": "192 ST @ 32 AVE",
-                        "stop_id": "11751",
-                        "stop_lat": "49.059741",
-                        "stop_lon": "-122.691638",
-                        "stop_name": "SB 192 ST FS 32 AV",
+                        "stop_code": "57117",
+                        "stop_desc": "200 ST @ 33A AVE",
+                        "stop_id": "7187",
+                        "stop_lat": "49.062346",
+                        "stop_lon": "-122.669594",
+                        "stop_name": "SB 200 ST FS 33A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 192 ST FS 32 AV",
-            "onestopId": "s-c28z0549tw-sb192fs32",
+            "name": "SB 200 ST FS 33A AV",
+            "onestopId": "s-c28z0ed8zk-sb200fs33a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -751,40 +751,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.658423,
-                    49.071373
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-8951",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "58563",
-                        "stop_desc": "204 ST @ 38 AVE",
-                        "stop_id": "8951",
-                        "stop_lat": "49.071373",
-                        "stop_lon": "-122.658423",
-                        "stop_name": "NB 204 ST FS 38 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 204 ST FS 38 AV",
-            "onestopId": "s-c28z0v4v7w-nb204fs38",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.668852,
                     49.082472
                 ],
@@ -809,40 +775,6 @@
             ],
             "name": "NB 200 ST FS 44 AV",
             "onestopId": "s-c28z0x5q0e-nb200fs44",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.663581,
-                    49.074626
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7179",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57110",
-                        "stop_desc": "40 AVE @ 202 ST",
-                        "stop_id": "7179",
-                        "stop_lat": "49.074626",
-                        "stop_lon": "-122.663581",
-                        "stop_name": "EB 40 AV FS 202 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB 40 AV FS 202 ST",
-            "onestopId": "s-c28z0tz07m-eb40fs202",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -887,30 +819,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.663166,
-                    49.067459
+                    -122.658432,
+                    49.07779
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7185",
+                    "identifier": "f-translink-s-8932",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57115",
-                        "stop_desc": "36 AVE @ 202A ST",
-                        "stop_id": "7185",
-                        "stop_lat": "49.067459",
-                        "stop_lon": "-122.663166",
-                        "stop_name": "WB 36 AV FS 202A ST",
+                        "stop_code": "58545",
+                        "stop_desc": "204 ST @ 42 AVE",
+                        "stop_id": "8932",
+                        "stop_lat": "49.07779",
+                        "stop_lon": "-122.658432",
+                        "stop_name": "SB 204 ST FS 42 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 36 AV FS 202A ST",
-            "onestopId": "s-c28z0srqtj-wb36fs202a",
+            "name": "SB 204 ST FS 42 AV",
+            "onestopId": "s-c28z0y6fg7-sb204fs42",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -921,30 +853,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.669416,
-                    49.057724
+                    -122.66965,
+                    49.072159
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7197",
+                    "identifier": "f-translink-s-8948",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57127",
-                        "stop_desc": "200 ST @ 30 AVE",
-                        "stop_id": "7197",
-                        "stop_lat": "49.057724",
-                        "stop_lon": "-122.669416",
-                        "stop_name": "NB 200 ST FS 30 AV",
+                        "stop_code": "58561",
+                        "stop_desc": "200 ST @ 38A AVE",
+                        "stop_id": "8948",
+                        "stop_lat": "49.072159",
+                        "stop_lon": "-122.66965",
+                        "stop_name": "SB 200 ST NS 38A AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 200 ST FS 30 AV",
-            "onestopId": "s-c28z0ddvgq-nb200fs30",
+            "name": "SB 200 ST NS 38A AV",
+            "onestopId": "s-c28z0t6djc-sb200ns38a",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.691638,
+                    49.059741
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11751",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61664",
+                        "stop_desc": "192 ST @ 32 AVE",
+                        "stop_id": "11751",
+                        "stop_lat": "49.059741",
+                        "stop_lon": "-122.691638",
+                        "stop_name": "SB 192 ST FS 32 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB 192 ST FS 32 AV",
+            "onestopId": "s-c28z0549tw-sb192fs32",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1023,6 +989,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.652753,
+                    49.074734
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7065",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "56997",
+                        "stop_desc": "40 AVE @ 206A ST",
+                        "stop_id": "7065",
+                        "stop_lat": "49.074734",
+                        "stop_lon": "-122.652753",
+                        "stop_name": "WB 40 AV FS 206A ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "WB 40 AV FS 206A ST",
+            "onestopId": "s-c28z0vycp9-wb40fs206a",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.669414,
                     49.069523
                 ],
@@ -1057,64 +1057,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.690254,
-                    49.060048
+                    -122.663581,
+                    49.074626
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11752",
+                    "identifier": "f-translink-s-7179",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61663",
-                        "stop_desc": "32 AVE @ 192 ST",
-                        "stop_id": "11752",
-                        "stop_lat": "49.060048",
-                        "stop_lon": "-122.690254",
-                        "stop_name": "EB 32 AV FS 192 ST",
+                        "stop_code": "57110",
+                        "stop_desc": "40 AVE @ 202 ST",
+                        "stop_id": "7179",
+                        "stop_lat": "49.074626",
+                        "stop_lon": "-122.663581",
+                        "stop_name": "EB 40 AV FS 202 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 32 AV FS 192 ST",
-            "onestopId": "s-c28z055emz-eb32fs192",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.667761,
-                    49.074633
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7178",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57109",
-                        "stop_desc": "40 AVE @ 200A ST",
-                        "stop_id": "7178",
-                        "stop_lat": "49.074633",
-                        "stop_lon": "-122.667761",
-                        "stop_name": "EB 40 AV FS 200A ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "EB 40 AV FS 200A ST",
-            "onestopId": "s-c28z0tu03y-eb40fs200a",
+            "name": "EB 40 AV FS 202 ST",
+            "onestopId": "s-c28z0tz07m-eb40fs202",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1227,30 +1193,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.669594,
-                    49.062346
+                    -122.669598,
+                    49.076361
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7187",
+                    "identifier": "f-translink-s-7177",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57117",
-                        "stop_desc": "200 ST @ 33A AVE",
-                        "stop_id": "7187",
-                        "stop_lat": "49.062346",
-                        "stop_lon": "-122.669594",
-                        "stop_name": "SB 200 ST FS 33A AV",
+                        "stop_code": "57108",
+                        "stop_desc": "200 ST @ 41 AVE",
+                        "stop_id": "7177",
+                        "stop_lat": "49.076361",
+                        "stop_lon": "-122.669598",
+                        "stop_name": "SB 200 ST FS 41 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 200 ST FS 33A AV",
-            "onestopId": "s-c28z0ed8zk-sb200fs33a",
+            "name": "SB 200 ST FS 41 AV",
+            "onestopId": "s-c28z0w4dx0-sb200fs41",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1295,30 +1261,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.66965,
-                    49.072159
+                    -122.658423,
+                    49.071373
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8948",
+                    "identifier": "f-translink-s-8951",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58561",
-                        "stop_desc": "200 ST @ 38A AVE",
-                        "stop_id": "8948",
-                        "stop_lat": "49.072159",
-                        "stop_lon": "-122.66965",
-                        "stop_name": "SB 200 ST NS 38A AV",
+                        "stop_code": "58563",
+                        "stop_desc": "204 ST @ 38 AVE",
+                        "stop_id": "8951",
+                        "stop_lat": "49.071373",
+                        "stop_lon": "-122.658423",
+                        "stop_name": "NB 204 ST FS 38 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 200 ST NS 38A AV",
-            "onestopId": "s-c28z0t6djc-sb200ns38a",
+            "name": "NB 204 ST FS 38 AV",
+            "onestopId": "s-c28z0v4v7w-nb204fs38",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1635,74 +1601,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.669278,
-                    49.077381
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7081",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57013",
-                        "stop_desc": "200 ST @ 41 AVE",
-                        "stop_id": "7081",
-                        "stop_lat": "49.077381",
-                        "stop_lon": "-122.669278",
-                        "stop_name": "NB 200 ST FS 41 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 200 ST FS 41 AV",
-            "onestopId": "s-c28z0w6bqw-nb200fs41",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.66918,
-                    49.081864
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7175",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57106",
-                        "stop_desc": "200 ST @ 44 AVE",
-                        "stop_id": "7175",
-                        "stop_lat": "49.081864",
-                        "stop_lon": "-122.66918",
-                        "stop_name": "SB 200 ST FS 44 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 200 ST FS 44 AV",
-            "onestopId": "s-c28z0x548f-sb200fs44",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.658418,
                     49.075071
                 ],
@@ -1727,6 +1625,40 @@
             ],
             "name": "NB 204 ST FS 40 AV",
             "onestopId": "s-c28z0vfg58-nb204fs40",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.654422,
+                    49.078241
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7068",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57000",
+                        "stop_desc": "42 AVE @ 205A ST",
+                        "stop_id": "7068",
+                        "stop_lat": "49.078241",
+                        "stop_lon": "-122.654422",
+                        "stop_name": "EB 42 AV FS 205A ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB 42 AV FS 205A ST",
+            "onestopId": "s-c28z0ymv2z-eb42fs205a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1805,30 +1737,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.658432,
-                    49.07779
+                    -122.663166,
+                    49.067459
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-8932",
+                    "identifier": "f-translink-s-7185",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58545",
-                        "stop_desc": "204 ST @ 42 AVE",
-                        "stop_id": "8932",
-                        "stop_lat": "49.07779",
-                        "stop_lon": "-122.658432",
-                        "stop_name": "SB 204 ST FS 42 AV",
+                        "stop_code": "57115",
+                        "stop_desc": "36 AVE @ 202A ST",
+                        "stop_id": "7185",
+                        "stop_lat": "49.067459",
+                        "stop_lon": "-122.663166",
+                        "stop_name": "WB 36 AV FS 202A ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 204 ST FS 42 AV",
-            "onestopId": "s-c28z0y6fg7-sb204fs42",
+            "name": "WB 36 AV FS 202A ST",
+            "onestopId": "s-c28z0srqtj-wb36fs202a",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1839,30 +1771,98 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.652753,
-                    49.074734
+                    -122.669278,
+                    49.077381
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7065",
+                    "identifier": "f-translink-s-7081",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "56997",
-                        "stop_desc": "40 AVE @ 206A ST",
-                        "stop_id": "7065",
-                        "stop_lat": "49.074734",
-                        "stop_lon": "-122.652753",
-                        "stop_name": "WB 40 AV FS 206A ST",
+                        "stop_code": "57013",
+                        "stop_desc": "200 ST @ 41 AVE",
+                        "stop_id": "7081",
+                        "stop_lat": "49.077381",
+                        "stop_lon": "-122.669278",
+                        "stop_name": "NB 200 ST FS 41 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 40 AV FS 206A ST",
-            "onestopId": "s-c28z0vycp9-wb40fs206a",
+            "name": "NB 200 ST FS 41 AV",
+            "onestopId": "s-c28z0w6bqw-nb200fs41",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.668997,
+                    49.067331
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7200",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57130",
+                        "stop_desc": "36 AVE @ 200 ST",
+                        "stop_id": "7200",
+                        "stop_lat": "49.067331",
+                        "stop_lon": "-122.668997",
+                        "stop_name": "EB 36 AV FS 200 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB 36 AV FS 200 ST",
+            "onestopId": "s-c28z0s7jvj-eb36fs200",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.690254,
+                    49.060048
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11752",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61663",
+                        "stop_desc": "32 AVE @ 192 ST",
+                        "stop_id": "11752",
+                        "stop_lat": "49.060048",
+                        "stop_lon": "-122.690254",
+                        "stop_name": "EB 32 AV FS 192 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB 32 AV FS 192 ST",
+            "onestopId": "s-c28z055emz-eb32fs192",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1907,30 +1907,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.669598,
-                    49.076361
+                    -122.669416,
+                    49.057724
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7177",
+                    "identifier": "f-translink-s-7197",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57108",
-                        "stop_desc": "200 ST @ 41 AVE",
-                        "stop_id": "7177",
-                        "stop_lat": "49.076361",
-                        "stop_lon": "-122.669598",
-                        "stop_name": "SB 200 ST FS 41 AV",
+                        "stop_code": "57127",
+                        "stop_desc": "200 ST @ 30 AVE",
+                        "stop_id": "7197",
+                        "stop_lat": "49.057724",
+                        "stop_lon": "-122.669416",
+                        "stop_name": "NB 200 ST FS 30 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 200 ST FS 41 AV",
-            "onestopId": "s-c28z0w4dx0-sb200fs41",
+            "name": "NB 200 ST FS 30 AV",
+            "onestopId": "s-c28z0ddvgq-nb200fs30",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

@@ -39,6 +39,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.90537,
+                    45.537431
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10030",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10030",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10030)",
+                        "stop_id": "10030",
+                        "stop_lat": "45.537431",
+                        "stop_lon": "-122.90537",
+                        "stop_name": "NE Cornell & Butler",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10030",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Cornell & Butler",
+            "onestopId": "s-c20e51z4c2-necornell~butler",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.90996,
                     45.550084
                 ],
@@ -147,68 +183,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.88121,
-                    45.535767
+                    -122.878518,
+                    45.542603
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10021",
+                    "identifier": "f-trimet-s-10457",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10021",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10021)",
-                        "stop_id": "10021",
-                        "stop_lat": "45.535767",
-                        "stop_lon": "-122.88121",
-                        "stop_name": "NW Cornell & Amberwood Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10021",
+                        "stop_code": "10457",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10457)",
+                        "stop_id": "10457",
+                        "stop_lat": "45.542603",
+                        "stop_lon": "-122.878518",
+                        "stop_name": "NW Evergreen Pkwy & 196th Terrace",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10457",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & Amberwood Dr",
-            "onestopId": "s-c20e5c89h6-nwcornell~amberwood",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.910841,
-                    45.534126
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8561",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8561",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8561)",
-                        "stop_id": "8561",
-                        "stop_lat": "45.534126",
-                        "stop_lon": "-122.910841",
-                        "stop_name": "NE Cornell & NW 231st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8561",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NE Cornell & NW 231st",
-            "onestopId": "s-c20e515p9b-necornell~nw231st",
+            "name": "NW Evergreen Pkwy & 196th Terrace",
+            "onestopId": "s-c20e5ff8gh-nwevergreen~196thterrace",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -245,42 +245,6 @@
             ],
             "name": "NW Cornell & Amberbrook Dr",
             "onestopId": "s-c20e59y0rd-nwcornell~amberbrook",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.909237,
-                    45.543137
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13164",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13164",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 13164)",
-                        "stop_id": "13164",
-                        "stop_lat": "45.543137",
-                        "stop_lon": "-122.909237",
-                        "stop_name": "NW 229th & Intel South Driveway",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13164",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW 229th & Intel South Driveway",
-            "onestopId": "s-c20e54uhp0-nw229th~intelsouthdriveway",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -435,32 +399,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.90537,
-                    45.537431
+                    -122.88803,
+                    45.545541
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10030",
+                    "identifier": "f-trimet-s-8647",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10030",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10030)",
-                        "stop_id": "10030",
-                        "stop_lat": "45.537431",
-                        "stop_lon": "-122.90537",
-                        "stop_name": "NE Cornell & Butler",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10030",
+                        "position": "At",
+                        "stop_code": "8647",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8647)",
+                        "stop_id": "8647",
+                        "stop_lat": "45.545541",
+                        "stop_lon": "-122.88803",
+                        "stop_name": "20500 Block NW Evergreen Pkwy",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8647",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Cornell & Butler",
-            "onestopId": "s-c20e51z4c2-necornell~butler",
+            "name": "20500 Block NW Evergreen Pkwy",
+            "onestopId": "s-c20e5e7dj2-20500blocknwevergreen",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -569,6 +533,42 @@
             ],
             "name": "NW Cornell & Stucki/Amberglen",
             "onestopId": "s-c20e5c783y-nwcornell~stucki~amberglen",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.882084,
+                    45.543926
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8540",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "8540",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 8540)",
+                        "stop_id": "8540",
+                        "stop_lat": "45.543926",
+                        "stop_lon": "-122.882084",
+                        "stop_name": "NW Evergreen Pkwy & John Olsen Pl",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8540",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Evergreen Pkwy & John Olsen Pl",
+            "onestopId": "s-c20e5epbxg-nwevergreen~johnolsenpl",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -759,32 +759,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.909974,
-                    45.545895
+                    -122.875958,
+                    45.541366
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9604",
+                    "identifier": "f-trimet-s-8408",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9604",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9604)",
-                        "stop_id": "9604",
-                        "stop_lat": "45.545895",
-                        "stop_lon": "-122.909974",
-                        "stop_name": "2500 Block NW 229th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9604",
+                        "position": "Farside",
+                        "stop_code": "8408",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8408)",
+                        "stop_id": "8408",
+                        "stop_lat": "45.541366",
+                        "stop_lon": "-122.875958",
+                        "stop_name": "NW Evergreen Pkwy & 194th Terrace",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8408",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "2500 Block NW 229th",
-            "onestopId": "s-c20e557sn4-2500blocknw229th",
+            "name": "NW Evergreen Pkwy & 194th Terrace",
+            "onestopId": "s-c20e5fs3wt-nwevergreen~194thterrace",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -867,68 +867,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.897355,
-                    45.546427
+                    -122.90842,
+                    45.549118
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9601",
+                    "identifier": "f-trimet-s-10941",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9601",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 9601)",
-                        "stop_id": "9601",
-                        "stop_lat": "45.546427",
-                        "stop_lon": "-122.897355",
-                        "stop_name": "NW Evergreen Pkwy & 215th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9601",
+                        "stop_code": "10941",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 10941)",
+                        "stop_id": "10941",
+                        "stop_lat": "45.549118",
+                        "stop_lon": "-122.90842",
+                        "stop_name": "NW Evergreen Pkwy & Imbrie Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10941",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Evergreen Pkwy & 215th",
-            "onestopId": "s-c20e57kzhj-nwevergreen~215th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.88803,
-                    45.545541
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8647",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8647",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8647)",
-                        "stop_id": "8647",
-                        "stop_lat": "45.545541",
-                        "stop_lon": "-122.88803",
-                        "stop_name": "20500 Block NW Evergreen Pkwy",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8647",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "20500 Block NW Evergreen Pkwy",
-            "onestopId": "s-c20e5e7dj2-20500blocknwevergreen",
+            "name": "NW Evergreen Pkwy & Imbrie Dr",
+            "onestopId": "s-c20e55uyf5-nwevergreen~imbrie",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1155,32 +1119,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.883858,
-                    45.537021
+                    -122.910841,
+                    45.534126
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10010",
+                    "identifier": "f-trimet-s-8561",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10010",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10010)",
-                        "stop_id": "10010",
-                        "stop_lat": "45.537021",
-                        "stop_lon": "-122.883858",
-                        "stop_name": "NW Cornell & Amberbrook Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10010",
+                        "position": "Farside",
+                        "stop_code": "8561",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8561)",
+                        "stop_id": "8561",
+                        "stop_lat": "45.534126",
+                        "stop_lon": "-122.910841",
+                        "stop_name": "NE Cornell & NW 231st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8561",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & Amberbrook Dr",
-            "onestopId": "s-c20e59y8qe-nwcornell~amberbrook",
+            "name": "NE Cornell & NW 231st",
+            "onestopId": "s-c20e515p9b-necornell~nw231st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1191,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.875958,
-                    45.541366
+                    -122.909974,
+                    45.545895
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8408",
+                    "identifier": "f-trimet-s-9604",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "8408",
-                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 8408)",
-                        "stop_id": "8408",
-                        "stop_lat": "45.541366",
-                        "stop_lon": "-122.875958",
-                        "stop_name": "NW Evergreen Pkwy & 194th Terrace",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8408",
+                        "position": "At",
+                        "stop_code": "9604",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9604)",
+                        "stop_id": "9604",
+                        "stop_lat": "45.545895",
+                        "stop_lon": "-122.909974",
+                        "stop_name": "2500 Block NW 229th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9604",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Evergreen Pkwy & 194th Terrace",
-            "onestopId": "s-c20e5fs3wt-nwevergreen~194thterrace",
+            "name": "2500 Block NW 229th",
+            "onestopId": "s-c20e557sn4-2500blocknw229th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1289,6 +1253,42 @@
             ],
             "name": "NW Evergreen Pkwy & Imbrie Dr",
             "onestopId": "s-c20e55vjzj-nwevergreen~imbrie",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.897355,
+                    45.546427
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9601",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9601",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 9601)",
+                        "stop_id": "9601",
+                        "stop_lat": "45.546427",
+                        "stop_lon": "-122.897355",
+                        "stop_name": "NW Evergreen Pkwy & 215th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9601",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Evergreen Pkwy & 215th",
+            "onestopId": "s-c20e57kzhj-nwevergreen~215th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1407,32 +1407,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.882084,
-                    45.543926
+                    -122.881295,
+                    45.53605
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8540",
+                    "identifier": "f-trimet-s-10009",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "8540",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 8540)",
-                        "stop_id": "8540",
-                        "stop_lat": "45.543926",
-                        "stop_lon": "-122.882084",
-                        "stop_name": "NW Evergreen Pkwy & John Olsen Pl",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8540",
+                        "stop_code": "10009",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10009)",
+                        "stop_id": "10009",
+                        "stop_lat": "45.53605",
+                        "stop_lon": "-122.881295",
+                        "stop_name": "NW Cornell & Amberwood/194th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10009",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Evergreen Pkwy & John Olsen Pl",
-            "onestopId": "s-c20e5epbxg-nwevergreen~johnolsenpl",
+            "name": "NW Cornell & Amberwood/194th",
+            "onestopId": "s-c20e5c8ddq-nwcornell~amberwood~194th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1443,68 +1443,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.878518,
-                    45.542603
+                    -122.88121,
+                    45.535767
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10457",
+                    "identifier": "f-trimet-s-10021",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10021",
+                        "stop_desc": "Eastbound stop in Hillsboro (Stop ID 10021)",
+                        "stop_id": "10021",
+                        "stop_lat": "45.535767",
+                        "stop_lon": "-122.88121",
+                        "stop_name": "NW Cornell & Amberwood Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10021",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Cornell & Amberwood Dr",
+            "onestopId": "s-c20e5c89h6-nwcornell~amberwood",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.874798,
+                    45.534419
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10008",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10457",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10457)",
-                        "stop_id": "10457",
-                        "stop_lat": "45.542603",
-                        "stop_lon": "-122.878518",
-                        "stop_name": "NW Evergreen Pkwy & 196th Terrace",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10457",
+                        "position": "Opposite",
+                        "stop_code": "10008",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10008)",
+                        "stop_id": "10008",
+                        "stop_lat": "45.534419",
+                        "stop_lon": "-122.874798",
+                        "stop_name": "NW Cornell & 192nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10008",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Evergreen Pkwy & 196th Terrace",
-            "onestopId": "s-c20e5ff8gh-nwevergreen~196thterrace",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.910038,
-                    45.537194
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9851",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9851",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9851)",
-                        "stop_id": "9851",
-                        "stop_lat": "45.537194",
-                        "stop_lon": "-122.910038",
-                        "stop_name": "NW 229th & NE Rosebay Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9851",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW 229th & NE Rosebay Dr",
-            "onestopId": "s-c20e51g9ks-nw229th~nerosebay",
+            "name": "NW Cornell & 192nd",
+            "onestopId": "s-c20e5cm31w-nwcornell~192nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1541,42 +1541,6 @@
             ],
             "name": "NW Evergreen Pkwy & Aloclek Pl",
             "onestopId": "s-c20e5e2etq-nwevergreen~aloclekpl",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.90842,
-                    45.549118
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10941",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10941",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 10941)",
-                        "stop_id": "10941",
-                        "stop_lat": "45.549118",
-                        "stop_lon": "-122.90842",
-                        "stop_name": "NW Evergreen Pkwy & Imbrie Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10941",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Evergreen Pkwy & Imbrie Dr",
-            "onestopId": "s-c20e55uyf5-nwevergreen~imbrie",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1659,6 +1623,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.883858,
+                    45.537021
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10010",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10010",
+                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10010)",
+                        "stop_id": "10010",
+                        "stop_lat": "45.537021",
+                        "stop_lon": "-122.883858",
+                        "stop_name": "NW Cornell & Amberbrook Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10010",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NW Cornell & Amberbrook Dr",
+            "onestopId": "s-c20e59y8qe-nwcornell~amberbrook",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.898456,
                     45.539516
                 ],
@@ -1695,32 +1695,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.881295,
-                    45.53605
+                    -122.909237,
+                    45.543137
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10009",
+                    "identifier": "f-trimet-s-13164",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10009",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10009)",
-                        "stop_id": "10009",
-                        "stop_lat": "45.53605",
-                        "stop_lon": "-122.881295",
-                        "stop_name": "NW Cornell & Amberwood/194th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10009",
+                        "position": "Nearside",
+                        "stop_code": "13164",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 13164)",
+                        "stop_id": "13164",
+                        "stop_lat": "45.543137",
+                        "stop_lon": "-122.909237",
+                        "stop_name": "NW 229th & Intel South Driveway",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13164",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Cornell & Amberwood/194th",
-            "onestopId": "s-c20e5c8ddq-nwcornell~amberwood~194th",
+            "name": "NW 229th & Intel South Driveway",
+            "onestopId": "s-c20e54uhp0-nw229th~intelsouthdriveway",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1911,68 +1911,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.874798,
-                    45.534419
+                    -122.910038,
+                    45.537194
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10008",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "10008",
-                        "stop_desc": "Westbound stop in Hillsboro (Stop ID 10008)",
-                        "stop_id": "10008",
-                        "stop_lat": "45.534419",
-                        "stop_lon": "-122.874798",
-                        "stop_name": "NW Cornell & 192nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10008",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "NW Cornell & 192nd",
-            "onestopId": "s-c20e5cm31w-nwcornell~192nd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.905864,
-                    45.537277
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10015",
+                    "identifier": "f-trimet-s-9851",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10015",
-                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 10015)",
-                        "stop_id": "10015",
-                        "stop_lat": "45.537277",
-                        "stop_lon": "-122.905864",
-                        "stop_name": "NE Cornell & Butler",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10015",
+                        "position": "Nearside",
+                        "stop_code": "9851",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 9851)",
+                        "stop_id": "9851",
+                        "stop_lat": "45.537194",
+                        "stop_lon": "-122.910038",
+                        "stop_name": "NW 229th & NE Rosebay Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9851",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Cornell & Butler",
-            "onestopId": "s-c20e51y9vg-necornell~butler",
+            "name": "NW 229th & NE Rosebay Dr",
+            "onestopId": "s-c20e51g9ks-nw229th~nerosebay",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2009,6 +1973,42 @@
             ],
             "name": "NW 231st & Alder/Orenco Station",
             "onestopId": "s-c20e50824w-nw231st~alder~orencostation",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.905864,
+                    45.537277
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10015",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "10015",
+                        "stop_desc": "Southbound stop in Hillsboro (Stop ID 10015)",
+                        "stop_id": "10015",
+                        "stop_lat": "45.537277",
+                        "stop_lon": "-122.905864",
+                        "stop_name": "NE Cornell & Butler",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10015",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Cornell & Butler",
+            "onestopId": "s-c20e51y9vg-necornell~butler",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

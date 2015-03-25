@@ -309,40 +309,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.820839,
-                    34.143425
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-11291",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11291",
-                        "stop_desc": "",
-                        "stop_id": "11291",
-                        "stop_lat": "34.143425",
-                        "stop_lon": "-118.820839",
-                        "stop_name": "Lakeview Canyon / Lake Harbor Lane",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Lakeview Canyon / Lake Harbor Lane",
-            "onestopId": "s-9q5d0pt7cg-lakeviewcanyon~lakeharbor",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.819435,
                     34.139374
                 ],
@@ -367,6 +333,40 @@
             ],
             "name": "Lindero Canyon / Lakeview Canyon",
             "onestopId": "s-9q5d0nyk62-linderocanyon~lakeviewcanyon",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.820839,
+                    34.143425
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-11291",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "11291",
+                        "stop_desc": "",
+                        "stop_id": "11291",
+                        "stop_lat": "34.143425",
+                        "stop_lon": "-118.820839",
+                        "stop_name": "Lakeview Canyon / Lake Harbor Lane",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Lakeview Canyon / Lake Harbor Lane",
+            "onestopId": "s-9q5d0pt7cg-lakeviewcanyon~lakeharbor",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

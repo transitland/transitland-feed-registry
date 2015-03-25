@@ -3,41 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.128471,
-                    47.2607651
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-kingcounty-s-58860",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "58860",
-                        "stop_lat": "47.2607651",
-                        "stop_lon": "-122.128471",
-                        "stop_name": "Auburn-Enumclaw Rd & SE 380th Pl",
-                        "stop_timezone": "America/Los_Angeles",
-                        "stop_url": "",
-                        "zone_id": "40"
-                    }
-                }
-            ],
-            "name": "Auburn-Enumclaw Rd & SE 380th Pl",
-            "onestopId": "s-c23hugscbm-auburnenumclaw~se380thpl",
-            "properties": {},
-            "servedBy": [
-                "o-c23-metrotransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.155441,
                     47.2751465
                 ],
@@ -98,6 +63,41 @@
             ],
             "name": "Auburn Way S & Academy Dr SE",
             "onestopId": "s-c23huq1k9f-auburns~academyse",
+            "properties": {},
+            "servedBy": [
+                "o-c23-metrotransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.128471,
+                    47.2607651
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-kingcounty-s-58860",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "58860",
+                        "stop_lat": "47.2607651",
+                        "stop_lon": "-122.128471",
+                        "stop_name": "Auburn-Enumclaw Rd & SE 380th Pl",
+                        "stop_timezone": "America/Los_Angeles",
+                        "stop_url": "",
+                        "zone_id": "40"
+                    }
+                }
+            ],
+            "name": "Auburn-Enumclaw Rd & SE 380th Pl",
+            "onestopId": "s-c23hugscbm-auburnenumclaw~se380thpl",
             "properties": {},
             "servedBy": [
                 "o-c23-metrotransit"

@@ -139,30 +139,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.275932,
-                    34.246273
+                    -118.270271,
+                    34.243164
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-10609",
+                    "identifier": "f-lacmta-s-2043",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10609",
+                        "stop_code": "2043",
                         "stop_desc": "",
-                        "stop_id": "10609",
-                        "stop_lat": "34.246273",
-                        "stop_lon": "-118.275932",
-                        "stop_name": "Foothill / Tujunga Canyon",
+                        "stop_id": "2043",
+                        "stop_lat": "34.243164",
+                        "stop_lon": "-118.270271",
+                        "stop_name": "Foothill / Pali",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Foothill / Tujunga Canyon",
-            "onestopId": "s-9q5fud64gp-foothill~tujungacanyon",
+            "name": "Foothill / Pali",
+            "onestopId": "s-9q5fu9y0yu-foothill~pali",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -333,40 +333,6 @@
             ],
             "name": "Foothill / Mountair",
             "onestopId": "s-9q5fu5jxj0-foothill~mountair",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.270271,
-                    34.243164
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-2043",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2043",
-                        "stop_desc": "",
-                        "stop_id": "2043",
-                        "stop_lat": "34.243164",
-                        "stop_lon": "-118.270271",
-                        "stop_name": "Foothill / Pali",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Foothill / Pali",
-            "onestopId": "s-9q5fu9y0yu-foothill~pali",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -717,6 +683,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.275932,
+                    34.246273
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-10609",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "10609",
+                        "stop_desc": "",
+                        "stop_id": "10609",
+                        "stop_lat": "34.246273",
+                        "stop_lon": "-118.275932",
+                        "stop_name": "Foothill / Tujunga Canyon",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Foothill / Tujunga Canyon",
+            "onestopId": "s-9q5fud64gp-foothill~tujungacanyon",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.268501,
                     34.241745
                 ],
@@ -887,40 +887,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.285576,
-                    34.247887
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-10597",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "10597",
-                        "stop_desc": "",
-                        "stop_id": "10597",
-                        "stop_lat": "34.247887",
-                        "stop_lon": "-118.285576",
-                        "stop_name": "Foothill / Pinewood",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Foothill / Pinewood",
-            "onestopId": "s-9q5fu6eh6k-foothill~pinewood",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.25721,
                     34.23473
                 ],
@@ -945,6 +911,40 @@
             ],
             "name": "Foothill / Dunsmore",
             "onestopId": "s-9q5fubpxz2-foothill~dunsmore",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.285576,
+                    34.247887
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-10597",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "10597",
+                        "stop_desc": "",
+                        "stop_id": "10597",
+                        "stop_lat": "34.247887",
+                        "stop_lon": "-118.285576",
+                        "stop_name": "Foothill / Pinewood",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Foothill / Pinewood",
+            "onestopId": "s-9q5fu6eh6k-foothill~pinewood",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

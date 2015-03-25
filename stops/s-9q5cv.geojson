@@ -71,30 +71,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.248825,
-                    34.059967
+                    -118.236725,
+                    34.065083
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-8094",
+                    "identifier": "f-lacmta-s-3416",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8094",
+                        "stop_code": "3416",
                         "stop_desc": "",
-                        "stop_id": "8094",
-                        "stop_lat": "34.059967",
-                        "stop_lon": "-118.248825",
-                        "stop_name": "Temple / Figueroa",
+                        "stop_id": "3416",
+                        "stop_lat": "34.065083",
+                        "stop_lon": "-118.236725",
+                        "stop_name": "Broadway / Chinatown",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Temple / Figueroa",
-            "onestopId": "s-9q5cv0mvdw-temple~figueroa",
+            "name": "Broadway / Chinatown",
+            "onestopId": "s-9q5cv3qekx-broadway~chinatown",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.238808,
+                    34.059875
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-12494",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12494",
+                        "stop_desc": "",
+                        "stop_id": "12494",
+                        "stop_lat": "34.059875",
+                        "stop_lon": "-118.238808",
+                        "stop_name": "New High / Ord",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "New High / Ord",
+            "onestopId": "s-9q5cv2mjhh-newhigh~ord",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -173,64 +207,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.244865,
-                    34.095608
+                    -118.253555,
+                    34.095806
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-18090",
+                    "identifier": "f-lacmta-s-91",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "18090",
+                        "stop_code": "91",
                         "stop_desc": "",
-                        "stop_id": "18090",
-                        "stop_lat": "34.095608",
-                        "stop_lon": "-118.244865",
-                        "stop_name": "Riverside / Stadium",
+                        "stop_id": "91",
+                        "stop_lat": "34.095806",
+                        "stop_lon": "-118.253555",
+                        "stop_name": "Allesandro / Whitmore",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Riverside / Stadium",
-            "onestopId": "s-9q5cvqbtqf-riverside~stadium",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.21431,
-                    34.060326
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-3167",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3167",
-                        "stop_desc": "",
-                        "stop_id": "3167",
-                        "stop_lat": "34.060326",
-                        "stop_lon": "-118.21431",
-                        "stop_name": "Marengo / Mission",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Marengo / Mission",
-            "onestopId": "s-9q5cvbqzyb-marengo~mission",
+            "name": "Allesandro / Whitmore",
+            "onestopId": "s-9q5cvnfqkq-allesandro~whitmore",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -309,30 +309,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.212967,
-                    34.085472
+                    -118.213799,
+                    34.083317
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4325",
+                    "identifier": "f-lacmta-s-12789",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4325",
+                        "stop_code": "12789",
                         "stop_desc": "",
-                        "stop_id": "4325",
-                        "stop_lat": "34.085472",
-                        "stop_lon": "-118.212967",
-                        "stop_name": "Pasadena / Avenue 35",
+                        "stop_id": "12789",
+                        "stop_lat": "34.083317",
+                        "stop_lon": "-118.213799",
+                        "stop_name": "Pasadena / Avenue 33",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Pasadena / Avenue 35",
-            "onestopId": "s-9q5cvvpfq0-pasadena~35",
+            "name": "Pasadena / Avenue 33",
+            "onestopId": "s-9q5cvuxmdy-pasadena~33",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -479,74 +479,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.236725,
-                    34.065083
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-3416",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3416",
-                        "stop_desc": "",
-                        "stop_id": "3416",
-                        "stop_lat": "34.065083",
-                        "stop_lon": "-118.236725",
-                        "stop_name": "Broadway / Chinatown",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Broadway / Chinatown",
-            "onestopId": "s-9q5cv3qekx-broadway~chinatown",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.251259,
-                    34.072609
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-2421",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2421",
-                        "stop_desc": "",
-                        "stop_id": "2421",
-                        "stop_lat": "34.072609",
-                        "stop_lon": "-118.251259",
-                        "stop_name": "Sunset / Elysian Pk - Dodger Stadium",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Sunset / Elysian Pk - Dodger Stadium",
-            "onestopId": "s-9q5cv4sp3f-sunset~elysianpkdodgerstadium",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.232285,
                     34.098179
                 ],
@@ -581,30 +513,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.215775,
-                    34.07391
+                    -118.25013,
+                    34.100075
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-9512",
+                    "identifier": "f-lacmta-s-4589",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9512",
+                        "stop_code": "4589",
                         "stop_desc": "",
-                        "stop_id": "9512",
-                        "stop_lat": "34.07391",
-                        "stop_lon": "-118.215775",
-                        "stop_name": "Daly / Broadway",
+                        "stop_id": "4589",
+                        "stop_lat": "34.100075",
+                        "stop_lon": "-118.25013",
+                        "stop_name": "Riverside / Allesandro",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Daly / Broadway",
-            "onestopId": "s-9q5cvfvyuv-daly~broadway",
+            "name": "Riverside / Allesandro",
+            "onestopId": "s-9q5cvpszk6-riverside~allesandro",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -649,30 +581,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.231972,
-                    34.086327
+                    -118.22271,
+                    34.084362
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-18096",
+                    "identifier": "f-lacmta-s-2773",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "18096",
+                        "stop_code": "2773",
                         "stop_desc": "",
-                        "stop_id": "18096",
-                        "stop_lat": "34.086327",
-                        "stop_lon": "-118.231972",
-                        "stop_name": "Riverside / Elmgrove",
+                        "stop_id": "2773",
+                        "stop_lat": "34.084362",
+                        "stop_lon": "-118.22271",
+                        "stop_name": "Avenue 26 / Figueroa",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Riverside / Elmgrove",
-            "onestopId": "s-9q5cvt4p5r-riverside~elmgrove",
+            "name": "Avenue 26 / Figueroa",
+            "onestopId": "s-9q5cvubgg1-26~figueroa",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -785,30 +717,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.217918,
-                    34.073429
+                    -118.23584,
+                    34.063861
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-484",
+                    "identifier": "f-lacmta-s-80410",
                     "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "484",
+                        "location_type": "0",
+                        "parent_station": "80410S",
+                        "stop_code": "80410",
                         "stop_desc": "",
-                        "stop_id": "484",
-                        "stop_lat": "34.073429",
-                        "stop_lon": "-118.217918",
-                        "stop_name": "Broadway / Avenue 22",
+                        "stop_id": "80410",
+                        "stop_lat": "34.063861",
+                        "stop_lon": "-118.23584",
+                        "stop_name": "Chinatown Station",
                         "stop_url": "",
-                        "tpis_name": ""
+                        "tpis_name": "Chinatwn"
                     }
                 }
             ],
-            "name": "Broadway / Avenue 22",
-            "onestopId": "s-9q5cvfuk4g-broadway~22",
+            "name": "Chinatown Station",
+            "onestopId": "s-9q5cv3pk35-chinatownstation",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1125,6 +1057,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.234001,
+                    34.098766
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-2080",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2080",
+                        "stop_desc": "",
+                        "stop_id": "2080",
+                        "stop_lat": "34.098766",
+                        "stop_lon": "-118.234001",
+                        "stop_name": "San Fernando / Future",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "San Fernando / Future",
+            "onestopId": "s-9q5cvx2xsn-sanfernando~future",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.213585,
                     34.082851
                 ],
@@ -1261,64 +1227,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.25013,
-                    34.100075
+                    -118.215775,
+                    34.07391
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4589",
+                    "identifier": "f-lacmta-s-9512",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4589",
+                        "stop_code": "9512",
                         "stop_desc": "",
-                        "stop_id": "4589",
-                        "stop_lat": "34.100075",
-                        "stop_lon": "-118.25013",
-                        "stop_name": "Riverside / Allesandro",
+                        "stop_id": "9512",
+                        "stop_lat": "34.07391",
+                        "stop_lon": "-118.215775",
+                        "stop_name": "Daly / Broadway",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Riverside / Allesandro",
-            "onestopId": "s-9q5cvpszk6-riverside~allesandro",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.234558,
-                    34.087753
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-18095",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "18095",
-                        "stop_desc": "",
-                        "stop_id": "18095",
-                        "stop_lat": "34.087753",
-                        "stop_lon": "-118.234558",
-                        "stop_name": "Riverside / Harwood",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Riverside / Harwood",
-            "onestopId": "s-9q5cvt2px1-riverside~harwood",
+            "name": "Daly / Broadway",
+            "onestopId": "s-9q5cvfvyuv-daly~broadway",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -1601,6 +1533,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.235718,
+                    34.100342
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-2100",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2100",
+                        "stop_desc": "",
+                        "stop_id": "2100",
+                        "stop_lat": "34.100342",
+                        "stop_lon": "-118.235718",
+                        "stop_name": "San Fernando / Macon",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "San Fernando / Macon",
+            "onestopId": "s-9q5cvrz2uh-sanfernando~macon",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.255089,
                     34.093632
                 ],
@@ -1737,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.251732,
-                    34.074131
+                    -118.233955,
+                    34.06263
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-16302",
+                    "identifier": "f-lacmta-s-142054",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "16302",
+                        "stop_code": "142054",
                         "stop_desc": "",
-                        "stop_id": "16302",
-                        "stop_lat": "34.074131",
-                        "stop_lon": "-118.251732",
-                        "stop_name": "Sunset / Douglas",
+                        "stop_id": "142054",
+                        "stop_lat": "34.06263",
+                        "stop_lon": "-118.233955",
+                        "stop_name": "Main / College",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Sunset / Douglas",
-            "onestopId": "s-9q5cv558ny-sunset~douglas",
+            "name": "Main / College",
+            "onestopId": "s-9q5cv8btjn-main~college",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2009,6 +1975,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.222557,
+                    34.066975
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-3778",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3778",
+                        "stop_desc": "",
+                        "stop_id": "3778",
+                        "stop_lat": "34.066975",
+                        "stop_lon": "-118.222557",
+                        "stop_name": "Main / Lamar",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Main / Lamar",
+            "onestopId": "s-9q5cvc8ywb-main~lamar",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.21859,
                     34.079792
                 ],
@@ -2043,30 +2043,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.236076,
-                    34.061893
+                    -118.214455,
+                    34.060917
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-20348",
+                    "identifier": "f-lacmta-s-142321",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "20348",
+                        "stop_code": "142321",
                         "stop_desc": "",
-                        "stop_id": "20348",
-                        "stop_lat": "34.061893",
-                        "stop_lon": "-118.236076",
-                        "stop_name": "Chinatown",
+                        "stop_id": "142321",
+                        "stop_lat": "34.060917",
+                        "stop_lon": "-118.214455",
+                        "stop_name": "Daly / Mission",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Chinatown",
-            "onestopId": "s-9q5cv2z0gt-chinatown",
+            "name": "Daly / Mission",
+            "onestopId": "s-9q5cvbwg5x-daly~mission",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2101,40 +2101,6 @@
             ],
             "name": "Main / Albion",
             "onestopId": "s-9q5cvcb1dc-main~albion",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.253326,
-                    34.095856
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-8692",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "8692",
-                        "stop_desc": "",
-                        "stop_id": "8692",
-                        "stop_lat": "34.095856",
-                        "stop_lon": "-118.253326",
-                        "stop_name": "Allesandro / Whitmore",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Allesandro / Whitmore",
-            "onestopId": "s-9q5cvnfwcb-allesandro~whitmore",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2247,30 +2213,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.234528,
-                    34.100769
+                    -118.251183,
+                    34.0583
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-963",
+                    "identifier": "f-lacmta-s-3507",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "963",
+                        "stop_code": "3507",
                         "stop_desc": "",
-                        "stop_id": "963",
-                        "stop_lat": "34.100769",
-                        "stop_lon": "-118.234528",
-                        "stop_name": "Cypress / Macon",
+                        "stop_id": "3507",
+                        "stop_lat": "34.0583",
+                        "stop_lon": "-118.251183",
+                        "stop_name": "Figueroa / Diamond",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Cypress / Macon",
-            "onestopId": "s-9q5cvxb5ru-cypress~macon",
+            "name": "Figueroa / Diamond",
+            "onestopId": "s-9q5cv0h5gx-figueroa~diamond",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -2689,30 +2655,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.240234,
-                    34.058277
+                    -118.238037,
+                    34.090355
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-11903",
+                    "identifier": "f-lacmta-s-18100",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11903",
+                        "stop_code": "18100",
                         "stop_desc": "",
-                        "stop_id": "11903",
-                        "stop_lat": "34.058277",
-                        "stop_lon": "-118.240234",
-                        "stop_name": "Broadway / Cesar E Chavez",
+                        "stop_id": "18100",
+                        "stop_lat": "34.090355",
+                        "stop_lon": "-118.238037",
+                        "stop_name": "Riverside / Dorris",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Broadway / Cesar E Chavez",
-            "onestopId": "s-9q5cv2h5ff-broadway~cesarechavez",
+            "name": "Riverside / Dorris",
+            "onestopId": "s-9q5cvmvwwn-riverside~dorris",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3131,40 +3097,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.215263,
-                    34.066113
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-12267",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "12267",
-                        "stop_desc": "",
-                        "stop_id": "12267",
-                        "stop_lat": "34.066113",
-                        "stop_lon": "-118.215263",
-                        "stop_name": "Main / Daly",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Main / Daly",
-            "onestopId": "s-9q5cvcw32x-main~daly",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.230896,
                     34.095062
                 ],
@@ -3291,6 +3223,40 @@
             ],
             "name": "Daly / Main",
             "onestopId": "s-9q5cvcqp1f-daly~main",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.246437,
+                    34.062107
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-16928",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "16928",
+                        "stop_desc": "",
+                        "stop_id": "16928",
+                        "stop_lat": "34.062107",
+                        "stop_lon": "-118.246437",
+                        "stop_name": "Figueroa / Sunset",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Figueroa / Sunset",
+            "onestopId": "s-9q5cv0zd4k-figueroa~sunset",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3437,30 +3403,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.234001,
-                    34.098766
+                    -118.217918,
+                    34.073429
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-2080",
+                    "identifier": "f-lacmta-s-484",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2080",
+                        "stop_code": "484",
                         "stop_desc": "",
-                        "stop_id": "2080",
-                        "stop_lat": "34.098766",
-                        "stop_lon": "-118.234001",
-                        "stop_name": "San Fernando / Future",
+                        "stop_id": "484",
+                        "stop_lat": "34.073429",
+                        "stop_lon": "-118.217918",
+                        "stop_name": "Broadway / Avenue 22",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Fernando / Future",
-            "onestopId": "s-9q5cvx2xsn-sanfernando~future",
+            "name": "Broadway / Avenue 22",
+            "onestopId": "s-9q5cvfuk4g-broadway~22",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3607,30 +3573,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.23584,
-                    34.063861
+                    -118.215263,
+                    34.066113
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-80410",
+                    "identifier": "f-lacmta-s-12267",
                     "tags": {
-                        "location_type": "0",
-                        "parent_station": "80410S",
-                        "stop_code": "80410",
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12267",
                         "stop_desc": "",
-                        "stop_id": "80410",
-                        "stop_lat": "34.063861",
-                        "stop_lon": "-118.23584",
-                        "stop_name": "Chinatown Station",
+                        "stop_id": "12267",
+                        "stop_lat": "34.066113",
+                        "stop_lon": "-118.215263",
+                        "stop_name": "Main / Daly",
                         "stop_url": "",
-                        "tpis_name": "Chinatwn"
+                        "tpis_name": ""
                     }
                 }
             ],
-            "name": "Chinatown Station",
-            "onestopId": "s-9q5cv3pk35-chinatownstation",
+            "name": "Main / Daly",
+            "onestopId": "s-9q5cvcw32x-main~daly",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3641,64 +3607,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.239449,
-                    34.091793
+                    -118.253326,
+                    34.095856
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-18101",
+                    "identifier": "f-lacmta-s-8692",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "18101",
+                        "stop_code": "8692",
                         "stop_desc": "",
-                        "stop_id": "18101",
-                        "stop_lat": "34.091793",
-                        "stop_lon": "-118.239449",
-                        "stop_name": "Riverside / Birkdale",
+                        "stop_id": "8692",
+                        "stop_lat": "34.095856",
+                        "stop_lon": "-118.253326",
+                        "stop_name": "Allesandro / Whitmore",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Riverside / Birkdale",
-            "onestopId": "s-9q5cvqhxj4-riverside~birkdale",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.222557,
-                    34.066975
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-3778",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3778",
-                        "stop_desc": "",
-                        "stop_id": "3778",
-                        "stop_lat": "34.066975",
-                        "stop_lon": "-118.222557",
-                        "stop_name": "Main / Lamar",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Main / Lamar",
-            "onestopId": "s-9q5cvc8ywb-main~lamar",
+            "name": "Allesandro / Whitmore",
+            "onestopId": "s-9q5cvnfwcb-allesandro~whitmore",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -3811,30 +3743,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.238037,
-                    34.090355
+                    -118.240234,
+                    34.058277
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-18100",
+                    "identifier": "f-lacmta-s-11903",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "18100",
+                        "stop_code": "11903",
                         "stop_desc": "",
-                        "stop_id": "18100",
-                        "stop_lat": "34.090355",
-                        "stop_lon": "-118.238037",
-                        "stop_name": "Riverside / Dorris",
+                        "stop_id": "11903",
+                        "stop_lat": "34.058277",
+                        "stop_lon": "-118.240234",
+                        "stop_name": "Broadway / Cesar E Chavez",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Riverside / Dorris",
-            "onestopId": "s-9q5cvmvwwn-riverside~dorris",
+            "name": "Broadway / Cesar E Chavez",
+            "onestopId": "s-9q5cv2h5ff-broadway~cesarechavez",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4117,6 +4049,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.251732,
+                    34.074131
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-16302",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "16302",
+                        "stop_desc": "",
+                        "stop_id": "16302",
+                        "stop_lat": "34.074131",
+                        "stop_lon": "-118.251732",
+                        "stop_name": "Sunset / Douglas",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Sunset / Douglas",
+            "onestopId": "s-9q5cv558ny-sunset~douglas",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.227715,
                     34.09499
                 ],
@@ -4185,30 +4151,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.246437,
-                    34.062107
+                    -118.251259,
+                    34.072609
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-16928",
+                    "identifier": "f-lacmta-s-2421",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "16928",
+                        "stop_code": "2421",
                         "stop_desc": "",
-                        "stop_id": "16928",
-                        "stop_lat": "34.062107",
-                        "stop_lon": "-118.246437",
-                        "stop_name": "Figueroa / Sunset",
+                        "stop_id": "2421",
+                        "stop_lat": "34.072609",
+                        "stop_lon": "-118.251259",
+                        "stop_name": "Sunset / Elysian Pk - Dodger Stadium",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Figueroa / Sunset",
-            "onestopId": "s-9q5cv0zd4k-figueroa~sunset",
+            "name": "Sunset / Elysian Pk - Dodger Stadium",
+            "onestopId": "s-9q5cv4sp3f-sunset~elysianpkdodgerstadium",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4389,6 +4355,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.238152,
+                    34.058369
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-19020",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "19020",
+                        "stop_desc": "",
+                        "stop_id": "19020",
+                        "stop_lat": "34.058369",
+                        "stop_lon": "-118.238152",
+                        "stop_name": "Cesar E Chavez / Main",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Cesar E Chavez / Main",
+            "onestopId": "s-9q5cv2js7k-cesarechavez~main",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.223167,
                     34.090889
                 ],
@@ -4423,30 +4423,64 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.238808,
-                    34.059875
+                    -118.223755,
+                    34.087013
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-12494",
+                    "identifier": "f-lacmta-s-17718",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12494",
+                        "stop_code": "17718",
                         "stop_desc": "",
-                        "stop_id": "12494",
-                        "stop_lat": "34.059875",
-                        "stop_lon": "-118.238808",
-                        "stop_name": "New High / Ord",
+                        "stop_id": "17718",
+                        "stop_lat": "34.087013",
+                        "stop_lon": "-118.223755",
+                        "stop_name": "Avenue 28 / Idell",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "New High / Ord",
-            "onestopId": "s-9q5cv2mjhh-newhigh~ord",
+            "name": "Avenue 28 / Idell",
+            "onestopId": "s-9q5cvv254z-28~idell",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.222916,
+                    34.071663
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-3423",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3423",
+                        "stop_desc": "",
+                        "stop_id": "3423",
+                        "stop_lat": "34.071663",
+                        "stop_lon": "-118.222916",
+                        "stop_name": "Broadway / Avenue 18",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Broadway / Avenue 18",
+            "onestopId": "s-9q5cvf89y6-broadway~18",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4491,30 +4525,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.22271,
-                    34.084362
+                    -118.231972,
+                    34.086327
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-2773",
+                    "identifier": "f-lacmta-s-18096",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2773",
+                        "stop_code": "18096",
                         "stop_desc": "",
-                        "stop_id": "2773",
-                        "stop_lat": "34.084362",
-                        "stop_lon": "-118.22271",
-                        "stop_name": "Avenue 26 / Figueroa",
+                        "stop_id": "18096",
+                        "stop_lat": "34.086327",
+                        "stop_lon": "-118.231972",
+                        "stop_name": "Riverside / Elmgrove",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avenue 26 / Figueroa",
-            "onestopId": "s-9q5cvubgg1-26~figueroa",
+            "name": "Riverside / Elmgrove",
+            "onestopId": "s-9q5cvt4p5r-riverside~elmgrove",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4627,30 +4661,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.252602,
-                    34.06451
+                    -118.248276,
+                    34.058277
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-8090",
+                    "identifier": "f-lacmta-s-16929",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8090",
+                        "stop_code": "16929",
                         "stop_desc": "",
-                        "stop_id": "8090",
-                        "stop_lat": "34.06451",
-                        "stop_lon": "-118.252602",
-                        "stop_name": "Temple / Boylston",
+                        "stop_id": "16929",
+                        "stop_lat": "34.058277",
+                        "stop_lon": "-118.248276",
+                        "stop_name": "Hope / Temple",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Temple / Boylston",
-            "onestopId": "s-9q5cv1704s-temple~boylston",
+            "name": "Hope / Temple",
+            "onestopId": "s-9q5cv0n5z6-hope~temple",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4729,40 +4763,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.233955,
-                    34.06263
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-142054",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "142054",
-                        "stop_desc": "",
-                        "stop_id": "142054",
-                        "stop_lat": "34.06263",
-                        "stop_lon": "-118.233955",
-                        "stop_name": "Main / College",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Main / College",
-            "onestopId": "s-9q5cv8btjn-main~college",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.229568,
                     34.096191
                 ],
@@ -4787,6 +4787,40 @@
             ],
             "name": "Cypress / Arvia",
             "onestopId": "s-9q5cvx5beq-cypress~arvia",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.239555,
+                    34.060352
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-12616",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12616",
+                        "stop_desc": "",
+                        "stop_id": "12616",
+                        "stop_lat": "34.060352",
+                        "stop_lon": "-118.239555",
+                        "stop_name": "Ord / Broadway",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Ord / Broadway",
+            "onestopId": "s-9q5cv2kxft-ord~broadway",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4933,30 +4967,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.235718,
-                    34.100342
+                    -118.244865,
+                    34.095608
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-2100",
+                    "identifier": "f-lacmta-s-18090",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2100",
+                        "stop_code": "18090",
                         "stop_desc": "",
-                        "stop_id": "2100",
-                        "stop_lat": "34.100342",
-                        "stop_lon": "-118.235718",
-                        "stop_name": "San Fernando / Macon",
+                        "stop_id": "18090",
+                        "stop_lat": "34.095608",
+                        "stop_lon": "-118.244865",
+                        "stop_name": "Riverside / Stadium",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "San Fernando / Macon",
-            "onestopId": "s-9q5cvrz2uh-sanfernando~macon",
+            "name": "Riverside / Stadium",
+            "onestopId": "s-9q5cvqbtqf-riverside~stadium",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -4967,30 +5001,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.221092,
-                    34.084679
+                    -118.222244,
+                    34.08363
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-3532",
+                    "identifier": "f-lacmta-s-142146",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3532",
+                        "stop_code": "142146",
                         "stop_desc": "",
-                        "stop_id": "3532",
-                        "stop_lat": "34.084679",
-                        "stop_lon": "-118.221092",
-                        "stop_name": "Figueroa / Avenue 28",
+                        "stop_id": "142146",
+                        "stop_lat": "34.08363",
+                        "stop_lon": "-118.222244",
+                        "stop_name": "Avenue 26 / Figueroa",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Figueroa / Avenue 28",
-            "onestopId": "s-9q5cvufj8u-figueroa~28",
+            "name": "Avenue 26 / Figueroa",
+            "onestopId": "s-9q5cvu9pw1-26~figueroa",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5171,30 +5205,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.223755,
-                    34.087013
+                    -118.233269,
+                    34.069019
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-17718",
+                    "identifier": "f-lacmta-s-11902",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "17718",
+                        "stop_code": "11902",
                         "stop_desc": "",
-                        "stop_id": "17718",
-                        "stop_lat": "34.087013",
-                        "stop_lon": "-118.223755",
-                        "stop_name": "Avenue 28 / Idell",
+                        "stop_id": "11902",
+                        "stop_lat": "34.069019",
+                        "stop_lon": "-118.233269",
+                        "stop_name": "Broadway / Bishops",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avenue 28 / Idell",
-            "onestopId": "s-9q5cvv254z-28~idell",
+            "name": "Broadway / Bishops",
+            "onestopId": "s-9q5cvd14mj-broadway~bishops",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5239,30 +5273,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.238152,
-                    34.058369
+                    -118.215286,
+                    34.066196
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-19020",
+                    "identifier": "f-lacmta-s-142339",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "19020",
+                        "stop_code": "142339",
                         "stop_desc": "",
-                        "stop_id": "19020",
-                        "stop_lat": "34.058369",
-                        "stop_lon": "-118.238152",
-                        "stop_name": "Cesar E Chavez / Main",
+                        "stop_id": "142339",
+                        "stop_lat": "34.066196",
+                        "stop_lon": "-118.215286",
+                        "stop_name": "Daly / Main",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Cesar E Chavez / Main",
-            "onestopId": "s-9q5cv2js7k-cesarechavez~main",
+            "name": "Daly / Main",
+            "onestopId": "s-9q5cvcw3bp-daly~main",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5409,64 +5443,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.233269,
-                    34.069019
+                    -118.234558,
+                    34.087753
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-11902",
+                    "identifier": "f-lacmta-s-18095",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11902",
+                        "stop_code": "18095",
                         "stop_desc": "",
-                        "stop_id": "11902",
-                        "stop_lat": "34.069019",
-                        "stop_lon": "-118.233269",
-                        "stop_name": "Broadway / Bishops",
+                        "stop_id": "18095",
+                        "stop_lat": "34.087753",
+                        "stop_lon": "-118.234558",
+                        "stop_name": "Riverside / Harwood",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Broadway / Bishops",
-            "onestopId": "s-9q5cvd14mj-broadway~bishops",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.239555,
-                    34.060352
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-12616",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "12616",
-                        "stop_desc": "",
-                        "stop_id": "12616",
-                        "stop_lat": "34.060352",
-                        "stop_lon": "-118.239555",
-                        "stop_name": "Ord / Broadway",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Ord / Broadway",
-            "onestopId": "s-9q5cv2kxft-ord~broadway",
+            "name": "Riverside / Harwood",
+            "onestopId": "s-9q5cvt2px1-riverside~harwood",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5647,30 +5647,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.235748,
-                    34.066673
+                    -118.223846,
+                    34.072113
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-3413",
+                    "identifier": "f-lacmta-s-4330",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3413",
+                        "stop_code": "4330",
                         "stop_desc": "",
-                        "stop_id": "3413",
-                        "stop_lat": "34.066673",
-                        "stop_lon": "-118.235748",
-                        "stop_name": "Broadway / Bernard",
+                        "stop_id": "4330",
+                        "stop_lat": "34.072113",
+                        "stop_lon": "-118.223846",
+                        "stop_name": "Broadway / Pasadena",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Broadway / Bernard",
-            "onestopId": "s-9q5cv3xkg2-broadway~bernard",
+            "name": "Broadway / Pasadena",
+            "onestopId": "s-9q5cvf8h2w-broadway~pasadena",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5715,6 +5715,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -118.248825,
+                    34.059967
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-8094",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "8094",
+                        "stop_desc": "",
+                        "stop_id": "8094",
+                        "stop_lat": "34.059967",
+                        "stop_lon": "-118.248825",
+                        "stop_name": "Temple / Figueroa",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Temple / Figueroa",
+            "onestopId": "s-9q5cv0mvdw-temple~figueroa",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -118.214783,
                     34.060478
                 ],
@@ -5749,30 +5783,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.222916,
-                    34.071663
+                    -118.239449,
+                    34.091793
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-3423",
+                    "identifier": "f-lacmta-s-18101",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3423",
+                        "stop_code": "18101",
                         "stop_desc": "",
-                        "stop_id": "3423",
-                        "stop_lat": "34.071663",
-                        "stop_lon": "-118.222916",
-                        "stop_name": "Broadway / Avenue 18",
+                        "stop_id": "18101",
+                        "stop_lat": "34.091793",
+                        "stop_lon": "-118.239449",
+                        "stop_name": "Riverside / Birkdale",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Broadway / Avenue 18",
-            "onestopId": "s-9q5cvf89y6-broadway~18",
+            "name": "Riverside / Birkdale",
+            "onestopId": "s-9q5cvqhxj4-riverside~birkdale",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5851,30 +5885,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.253555,
-                    34.095806
+                    -118.21431,
+                    34.060326
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-91",
+                    "identifier": "f-lacmta-s-3167",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "91",
+                        "stop_code": "3167",
                         "stop_desc": "",
-                        "stop_id": "91",
-                        "stop_lat": "34.095806",
-                        "stop_lon": "-118.253555",
-                        "stop_name": "Allesandro / Whitmore",
+                        "stop_id": "3167",
+                        "stop_lat": "34.060326",
+                        "stop_lon": "-118.21431",
+                        "stop_name": "Marengo / Mission",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Allesandro / Whitmore",
-            "onestopId": "s-9q5cvnfqkq-allesandro~whitmore",
+            "name": "Marengo / Mission",
+            "onestopId": "s-9q5cvbqzyb-marengo~mission",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5885,30 +5919,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.213799,
-                    34.083317
+                    -118.229759,
+                    34.071331
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-12789",
+                    "identifier": "f-lacmta-s-11914",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12789",
+                        "stop_code": "11914",
                         "stop_desc": "",
-                        "stop_id": "12789",
-                        "stop_lat": "34.083317",
-                        "stop_lon": "-118.213799",
-                        "stop_name": "Pasadena / Avenue 33",
+                        "stop_id": "11914",
+                        "stop_lat": "34.071331",
+                        "stop_lon": "-118.229759",
+                        "stop_name": "Broadway / Solano",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Pasadena / Avenue 33",
-            "onestopId": "s-9q5cvuxmdy-pasadena~33",
+            "name": "Broadway / Solano",
+            "onestopId": "s-9q5cvd7xyu-broadway~solano",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -5977,6 +6011,40 @@
             ],
             "name": "Cesar E Chavez / Broadway",
             "onestopId": "s-9q5cv25yyv-cesarechavez~broadway",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.212967,
+                    34.085472
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-4325",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4325",
+                        "stop_desc": "",
+                        "stop_id": "4325",
+                        "stop_lat": "34.085472",
+                        "stop_lon": "-118.212967",
+                        "stop_name": "Pasadena / Avenue 35",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "Pasadena / Avenue 35",
+            "onestopId": "s-9q5cvvpfq0-pasadena~35",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -6089,64 +6157,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.251183,
-                    34.0583
+                    -118.234528,
+                    34.100769
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-3507",
+                    "identifier": "f-lacmta-s-963",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3507",
+                        "stop_code": "963",
                         "stop_desc": "",
-                        "stop_id": "3507",
-                        "stop_lat": "34.0583",
-                        "stop_lon": "-118.251183",
-                        "stop_name": "Figueroa / Diamond",
+                        "stop_id": "963",
+                        "stop_lat": "34.100769",
+                        "stop_lon": "-118.234528",
+                        "stop_name": "Cypress / Macon",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Figueroa / Diamond",
-            "onestopId": "s-9q5cv0h5gx-figueroa~diamond",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -118.229759,
-                    34.071331
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-11914",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11914",
-                        "stop_desc": "",
-                        "stop_id": "11914",
-                        "stop_lat": "34.071331",
-                        "stop_lon": "-118.229759",
-                        "stop_name": "Broadway / Solano",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Broadway / Solano",
-            "onestopId": "s-9q5cvd7xyu-broadway~solano",
+            "name": "Cypress / Macon",
+            "onestopId": "s-9q5cvxb5ru-cypress~macon",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -6361,40 +6395,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.215286,
-                    34.066196
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-142339",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "142339",
-                        "stop_desc": "",
-                        "stop_id": "142339",
-                        "stop_lat": "34.066196",
-                        "stop_lon": "-118.215286",
-                        "stop_name": "Daly / Main",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Daly / Main",
-            "onestopId": "s-9q5cvcw3bp-daly~main",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -118.256783,
                     34.067181
                 ],
@@ -6429,30 +6429,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.214455,
-                    34.060917
+                    -118.236076,
+                    34.061893
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-142321",
+                    "identifier": "f-lacmta-s-20348",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "142321",
+                        "stop_code": "20348",
                         "stop_desc": "",
-                        "stop_id": "142321",
-                        "stop_lat": "34.060917",
-                        "stop_lon": "-118.214455",
-                        "stop_name": "Daly / Mission",
+                        "stop_id": "20348",
+                        "stop_lat": "34.061893",
+                        "stop_lon": "-118.236076",
+                        "stop_name": "Chinatown",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Daly / Mission",
-            "onestopId": "s-9q5cvbwg5x-daly~mission",
+            "name": "Chinatown",
+            "onestopId": "s-9q5cv2z0gt-chinatown",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -6463,30 +6463,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.248276,
-                    34.058277
+                    -118.252602,
+                    34.06451
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-16929",
+                    "identifier": "f-lacmta-s-8090",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "16929",
+                        "stop_code": "8090",
                         "stop_desc": "",
-                        "stop_id": "16929",
-                        "stop_lat": "34.058277",
-                        "stop_lon": "-118.248276",
-                        "stop_name": "Hope / Temple",
+                        "stop_id": "8090",
+                        "stop_lat": "34.06451",
+                        "stop_lon": "-118.252602",
+                        "stop_name": "Temple / Boylston",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Hope / Temple",
-            "onestopId": "s-9q5cv0n5z6-hope~temple",
+            "name": "Temple / Boylston",
+            "onestopId": "s-9q5cv1704s-temple~boylston",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -6565,30 +6565,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.222244,
-                    34.08363
+                    -118.221092,
+                    34.084679
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-142146",
+                    "identifier": "f-lacmta-s-3532",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "142146",
+                        "stop_code": "3532",
                         "stop_desc": "",
-                        "stop_id": "142146",
-                        "stop_lat": "34.08363",
-                        "stop_lon": "-118.222244",
-                        "stop_name": "Avenue 26 / Figueroa",
+                        "stop_id": "3532",
+                        "stop_lat": "34.084679",
+                        "stop_lon": "-118.221092",
+                        "stop_name": "Figueroa / Avenue 28",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Avenue 26 / Figueroa",
-            "onestopId": "s-9q5cvu9pw1-26~figueroa",
+            "name": "Figueroa / Avenue 28",
+            "onestopId": "s-9q5cvufj8u-figueroa~28",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -6599,30 +6599,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -118.223846,
-                    34.072113
+                    -118.235748,
+                    34.066673
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-4330",
+                    "identifier": "f-lacmta-s-3413",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4330",
+                        "stop_code": "3413",
                         "stop_desc": "",
-                        "stop_id": "4330",
-                        "stop_lat": "34.072113",
-                        "stop_lon": "-118.223846",
-                        "stop_name": "Broadway / Pasadena",
+                        "stop_id": "3413",
+                        "stop_lat": "34.066673",
+                        "stop_lon": "-118.235748",
+                        "stop_name": "Broadway / Bernard",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "Broadway / Pasadena",
-            "onestopId": "s-9q5cvf8h2w-broadway~pasadena",
+            "name": "Broadway / Bernard",
+            "onestopId": "s-9q5cv3xkg2-broadway~bernard",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

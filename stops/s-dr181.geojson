@@ -3,41 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.57684,
-                    39.384851
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-10774",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "10774",
-                        "stop_desc": "LOCH RAVEN BLVD at TAYLOR AVE nb (Hillendale Shopping Ctr)",
-                        "stop_id": "10774",
-                        "stop_lat": "39.384851",
-                        "stop_lon": "-76.57684",
-                        "stop_name": "LOCH RAVEN & TAYLOR nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LOCH RAVEN & TAYLOR nb",
-            "onestopId": "s-dr1813y3qk-lochraven~taylornb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.577931,
                     39.383759
                 ],
@@ -98,6 +63,41 @@
             ],
             "name": "CROMWELL BRIDGE & LOCH RAVEN fs wb",
             "onestopId": "s-dr181thbpu-cromwellbridge~lochravenfswb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.568072,
+                    39.376711
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-590",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "590",
+                        "stop_desc": "HILLSWAY AVE at LYLE fs nb",
+                        "stop_id": "590",
+                        "stop_lat": "39.376711",
+                        "stop_lon": "-76.568072",
+                        "stop_name": "HILLSWAY & LYLE FS N/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "HILLSWAY & LYLE FS N/B",
+            "onestopId": "s-dr1818kcfw-hillsway~lylefsn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -248,31 +248,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.57651,
-                    39.385282
+                    -76.583707,
+                    39.392935
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12323",
+                    "identifier": "f-mtamaryland-s-6559",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12323",
-                        "stop_desc": "LOCH RAVEN BLVD at TAYLOR AVE FS nb",
-                        "stop_id": "12323",
-                        "stop_lat": "39.385282",
-                        "stop_lon": "-76.57651",
-                        "stop_name": "LOCH RAVEN BLVD & TAYLOR AVE FSnb",
+                        "stop_code": "6559",
+                        "stop_desc": "GOUCHER BLVD at PUTTY HILL AVE wb",
+                        "stop_id": "6559",
+                        "stop_lat": "39.392935",
+                        "stop_lon": "-76.583707",
+                        "stop_name": "GOUCHER & PUTTY HILL wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LOCH RAVEN BLVD & TAYLOR AVE FSnb",
-            "onestopId": "s-dr1813yevu-lochraven~taylorfsnb",
+            "name": "GOUCHER & PUTTY HILL wb",
+            "onestopId": "s-dr181732qr-goucher~puttyhillwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -283,31 +283,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.588992,
-                    39.399575
+                    -76.579031,
+                    39.386332
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-616",
+                    "identifier": "f-mtamaryland-s-433",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "616",
-                        "stop_desc": "JOPPA RD at CO SAFETY (EAST AVE) wb",
-                        "stop_id": "616",
-                        "stop_lat": "39.399575",
-                        "stop_lon": "-76.588992",
-                        "stop_name": "JOPPA RD & COUNTY SAFETY MB W/B",
+                        "stop_code": "433",
+                        "stop_desc": "TAYLOR AVE at GOUCHER BLVD sb",
+                        "stop_id": "433",
+                        "stop_lat": "39.386332",
+                        "stop_lon": "-76.579031",
+                        "stop_name": "TAYLOR & GOUCHER S/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "JOPPA RD & COUNTY SAFETY MB W/B",
-            "onestopId": "s-dr181hmx5j-joppa~countysafetymbw~b",
+            "name": "TAYLOR & GOUCHER S/B",
+            "onestopId": "s-dr1816hf50-taylor~gouchers~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -598,76 +598,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.562986,
-                    39.395815
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-8540",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "8540",
-                        "stop_desc": "LOCH RAVEN BLVD at YAKONA RD nb",
-                        "stop_id": "8540",
-                        "stop_lat": "39.395815",
-                        "stop_lon": "-76.562986",
-                        "stop_name": "LOCH RAVEN & YAKONA RD nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LOCH RAVEN & YAKONA RD nb",
-            "onestopId": "s-dr181gb930-lochraven~yakonanb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.56308,
-                    39.397101
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-607",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "607",
-                        "stop_desc": "",
-                        "stop_id": "607",
-                        "stop_lat": "39.397101",
-                        "stop_lon": "-76.56308",
-                        "stop_name": "LOCH RAVEN BLVD & JOPPA RD nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LOCH RAVEN BLVD & JOPPA RD nb",
-            "onestopId": "s-dr181u02wz-lochraven~joppanb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.584376,
                     39.39529
                 ],
@@ -693,76 +623,6 @@
             ],
             "name": "GOUCHER & PRINCE FS S/B",
             "onestopId": "s-dr18178ynw-goucher~princefss~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.563562,
-                    39.398111
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-8701",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "8701",
-                        "stop_desc": "LOCH RAVEN BLVD at LOCH BEND DR nb",
-                        "stop_id": "8701",
-                        "stop_lat": "39.398111",
-                        "stop_lon": "-76.563562",
-                        "stop_name": "LOCH RAVEN & LOCH BEND N/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LOCH RAVEN & LOCH BEND N/B",
-            "onestopId": "s-dr181u0nes-lochraven~lochbendn~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.568409,
-                    39.375785
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-3566",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3566",
-                        "stop_desc": "HILLSWAY AVE at WENTWORTH RD sb",
-                        "stop_id": "3566",
-                        "stop_lat": "39.375785",
-                        "stop_lon": "-76.568409",
-                        "stop_name": "HILLSWAY & WENTWORTH RD sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "HILLSWAY & WENTWORTH RD sb",
-            "onestopId": "s-dr1818hsdf-hillsway~wentworthsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -808,6 +668,181 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.562986,
+                    39.395815
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-8540",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "8540",
+                        "stop_desc": "LOCH RAVEN BLVD at YAKONA RD nb",
+                        "stop_id": "8540",
+                        "stop_lat": "39.395815",
+                        "stop_lon": "-76.562986",
+                        "stop_name": "LOCH RAVEN & YAKONA RD nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "LOCH RAVEN & YAKONA RD nb",
+            "onestopId": "s-dr181gb930-lochraven~yakonanb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.563562,
+                    39.398111
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-8701",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "8701",
+                        "stop_desc": "LOCH RAVEN BLVD at LOCH BEND DR nb",
+                        "stop_id": "8701",
+                        "stop_lat": "39.398111",
+                        "stop_lon": "-76.563562",
+                        "stop_name": "LOCH RAVEN & LOCH BEND N/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "LOCH RAVEN & LOCH BEND N/B",
+            "onestopId": "s-dr181u0nes-lochraven~lochbendn~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.565067,
+                    39.396915
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-12352",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12352",
+                        "stop_desc": "E JOPPA RD at RES 1627 wb",
+                        "stop_id": "12352",
+                        "stop_lat": "39.396915",
+                        "stop_lon": "-76.565067",
+                        "stop_name": "JOPPA RD + RES 1627 wb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "JOPPA RD + RES 1627 wb",
+            "onestopId": "s-dr181ezp8t-joppares1627wb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.595945,
+                    39.401824
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-618",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "618",
+                        "stop_desc": "JOPPA RD at FAIRMOUNT AVE wb",
+                        "stop_id": "618",
+                        "stop_lat": "39.401824",
+                        "stop_lon": "-76.595945",
+                        "stop_name": "JOPPA RD & FAIRMOUNT W/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "JOPPA RD & FAIRMOUNT W/B",
+            "onestopId": "s-dr181hbs30-joppa~fairmountw~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.56308,
+                    39.397101
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-607",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "607",
+                        "stop_desc": "",
+                        "stop_id": "607",
+                        "stop_lat": "39.397101",
+                        "stop_lon": "-76.56308",
+                        "stop_name": "LOCH RAVEN BLVD & JOPPA RD nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "LOCH RAVEN BLVD & JOPPA RD nb",
+            "onestopId": "s-dr181u02wz-lochraven~joppanb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.570033,
                     39.380094
                 ],
@@ -843,31 +878,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.591082,
-                    39.400415
+                    -76.564111,
+                    39.393242
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6562",
+                    "identifier": "f-mtamaryland-s-8654",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6562",
-                        "stop_desc": "JOPPA RD at PROVIDENCE RD wb",
-                        "stop_id": "6562",
-                        "stop_lat": "39.400415",
-                        "stop_lon": "-76.591082",
-                        "stop_name": "JOPPA RD & PROVIDENCE W/B",
+                        "stop_code": "8654",
+                        "stop_desc": "",
+                        "stop_id": "8654",
+                        "stop_lat": "39.393242",
+                        "stop_lon": "-76.564111",
+                        "stop_name": "LOCH RAVEN BLVD & MUSSULA RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "JOPPA RD & PROVIDENCE W/B",
-            "onestopId": "s-dr181hsh43-joppa~providencew~b",
+            "name": "LOCH RAVEN BLVD & MUSSULA RD sb",
+            "onestopId": "s-dr181erdqb-lochraven~mussulasb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -913,31 +948,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.568056,
-                    39.377219
+                    -76.576803,
+                    39.394398
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-3565",
+                    "identifier": "f-mtamaryland-s-416",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3565",
-                        "stop_desc": "HILLSWAY AVE at SATURN CT FS sb",
-                        "stop_id": "3565",
-                        "stop_lat": "39.377219",
-                        "stop_lon": "-76.568056",
-                        "stop_name": "HILLSWAY & SATURN CT FS S/B",
+                        "stop_code": "416",
+                        "stop_desc": "LASALLE RD at OXFORD BLDG opp eb",
+                        "stop_id": "416",
+                        "stop_lat": "39.394398",
+                        "stop_lon": "-76.576803",
+                        "stop_name": "LASALLE & OXFORD BLDG OP E/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HILLSWAY & SATURN CT FS S/B",
-            "onestopId": "s-dr1818kufv-hillsway~saturnfss~b",
+            "name": "LASALLE & OXFORD BLDG OP E/B",
+            "onestopId": "s-dr1817w3p0-lasalle~oxfordbldgope~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -948,31 +983,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.583707,
-                    39.392935
+                    -76.568367,
+                    39.375352
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6559",
+                    "identifier": "f-mtamaryland-s-589",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6559",
-                        "stop_desc": "GOUCHER BLVD at PUTTY HILL AVE wb",
-                        "stop_id": "6559",
-                        "stop_lat": "39.392935",
-                        "stop_lon": "-76.583707",
-                        "stop_name": "GOUCHER & PUTTY HILL wb",
+                        "stop_code": "589",
+                        "stop_desc": "HILLSWAY AVE at WENTWORTH RD nb",
+                        "stop_id": "589",
+                        "stop_lat": "39.375352",
+                        "stop_lon": "-76.568367",
+                        "stop_name": "HILLSWAY & WENTWORTH RD nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "GOUCHER & PUTTY HILL wb",
-            "onestopId": "s-dr181732qr-goucher~puttyhillwb",
+            "name": "HILLSWAY & WENTWORTH RD nb",
+            "onestopId": "s-dr1818hd59-hillsway~wentworthnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1053,31 +1088,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.565369,
-                    39.39158
+                    -76.568709,
+                    39.37882
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-604",
+                    "identifier": "f-mtamaryland-s-3564",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "604",
-                        "stop_desc": "LOCH RAVEN BLVD at PUTTY HILL AVE nb",
-                        "stop_id": "604",
-                        "stop_lat": "39.39158",
-                        "stop_lon": "-76.565369",
-                        "stop_name": "LOCH RAVEN & PUTTY HILL N/B",
+                        "stop_code": "3564",
+                        "stop_desc": "HILLSWAY AVE at HALSTEAD RD sb",
+                        "stop_id": "3564",
+                        "stop_lat": "39.37882",
+                        "stop_lon": "-76.568709",
+                        "stop_name": "HILLSWAY & HALSTEAD RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LOCH RAVEN & PUTTY HILL N/B",
-            "onestopId": "s-dr181enb9d-lochraven~puttyhilln~b",
+            "name": "HILLSWAY & HALSTEAD RD sb",
+            "onestopId": "s-dr1818sq7b-hillsway~halsteadsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1228,31 +1263,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.568709,
-                    39.37882
+                    -76.568409,
+                    39.375785
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-3564",
+                    "identifier": "f-mtamaryland-s-3566",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3564",
-                        "stop_desc": "HILLSWAY AVE at HALSTEAD RD sb",
-                        "stop_id": "3564",
-                        "stop_lat": "39.37882",
-                        "stop_lon": "-76.568709",
-                        "stop_name": "HILLSWAY & HALSTEAD RD sb",
+                        "stop_code": "3566",
+                        "stop_desc": "HILLSWAY AVE at WENTWORTH RD sb",
+                        "stop_id": "3566",
+                        "stop_lat": "39.375785",
+                        "stop_lon": "-76.568409",
+                        "stop_name": "HILLSWAY & WENTWORTH RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HILLSWAY & HALSTEAD RD sb",
-            "onestopId": "s-dr1818sq7b-hillsway~halsteadsb",
+            "name": "HILLSWAY & WENTWORTH RD sb",
+            "onestopId": "s-dr1818hsdf-hillsway~wentworthsb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.576541,
+                    39.385687
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-431",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "431",
+                        "stop_desc": "LOCH RAVEN BLVD at TAYLOR AVE a sb",
+                        "stop_id": "431",
+                        "stop_lat": "39.385687",
+                        "stop_lon": "-76.576541",
+                        "stop_name": "LOCH RAVEN & TAYLOR a sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "LOCH RAVEN & TAYLOR a sb",
+            "onestopId": "s-dr1813ywm2-lochraven~taylorasb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1368,31 +1438,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.562995,
-                    39.395137
+                    -76.591082,
+                    39.400415
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12324",
+                    "identifier": "f-mtamaryland-s-6562",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12324",
-                        "stop_desc": "LOCH RAVEN BLVD at WHITE OAK AVE nb",
-                        "stop_id": "12324",
-                        "stop_lat": "39.395137",
-                        "stop_lon": "-76.562995",
-                        "stop_name": "LOCH RAVEN BLVD  & WHITE OAK A nb",
+                        "stop_code": "6562",
+                        "stop_desc": "JOPPA RD at PROVIDENCE RD wb",
+                        "stop_id": "6562",
+                        "stop_lat": "39.400415",
+                        "stop_lon": "-76.591082",
+                        "stop_name": "JOPPA RD & PROVIDENCE W/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LOCH RAVEN BLVD  & WHITE OAK A nb",
-            "onestopId": "s-dr181g8t2c-lochraven~whiteoakanb",
+            "name": "JOPPA RD & PROVIDENCE W/B",
+            "onestopId": "s-dr181hsh43-joppa~providencew~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1438,31 +1508,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.581044,
-                    39.393287
+                    -76.588992,
+                    39.399575
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-613",
+                    "identifier": "f-mtamaryland-s-616",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "613",
-                        "stop_desc": "PUTTY HILL AVE at USPS wb",
-                        "stop_id": "613",
-                        "stop_lat": "39.393287",
-                        "stop_lon": "-76.581044",
-                        "stop_name": "PUTTY HILL & USPS @WESTBURY  W/B",
+                        "stop_code": "616",
+                        "stop_desc": "JOPPA RD at CO SAFETY (EAST AVE) wb",
+                        "stop_id": "616",
+                        "stop_lat": "39.399575",
+                        "stop_lon": "-76.588992",
+                        "stop_name": "JOPPA RD & COUNTY SAFETY MB W/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "PUTTY HILL & USPS @WESTBURY  W/B",
-            "onestopId": "s-dr181776s2-puttyhill~usps~westburyw~b",
+            "name": "JOPPA RD & COUNTY SAFETY MB W/B",
+            "onestopId": "s-dr181hmx5j-joppa~countysafetymbw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1613,31 +1683,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.565067,
-                    39.396915
+                    -76.57684,
+                    39.384851
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12352",
+                    "identifier": "f-mtamaryland-s-10774",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12352",
-                        "stop_desc": "E JOPPA RD at RES 1627 wb",
-                        "stop_id": "12352",
-                        "stop_lat": "39.396915",
-                        "stop_lon": "-76.565067",
-                        "stop_name": "JOPPA RD + RES 1627 wb",
+                        "stop_code": "10774",
+                        "stop_desc": "LOCH RAVEN BLVD at TAYLOR AVE nb (Hillendale Shopping Ctr)",
+                        "stop_id": "10774",
+                        "stop_lat": "39.384851",
+                        "stop_lon": "-76.57684",
+                        "stop_name": "LOCH RAVEN & TAYLOR nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "JOPPA RD + RES 1627 wb",
-            "onestopId": "s-dr181ezp8t-joppares1627wb",
+            "name": "LOCH RAVEN & TAYLOR nb",
+            "onestopId": "s-dr1813y3qk-lochraven~taylornb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1648,31 +1718,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.576803,
-                    39.394398
+                    -76.581044,
+                    39.393287
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-416",
+                    "identifier": "f-mtamaryland-s-613",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "416",
-                        "stop_desc": "LASALLE RD at OXFORD BLDG opp eb",
-                        "stop_id": "416",
-                        "stop_lat": "39.394398",
-                        "stop_lon": "-76.576803",
-                        "stop_name": "LASALLE & OXFORD BLDG OP E/B",
+                        "stop_code": "613",
+                        "stop_desc": "PUTTY HILL AVE at USPS wb",
+                        "stop_id": "613",
+                        "stop_lat": "39.393287",
+                        "stop_lon": "-76.581044",
+                        "stop_name": "PUTTY HILL & USPS @WESTBURY  W/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LASALLE & OXFORD BLDG OP E/B",
-            "onestopId": "s-dr1817w3p0-lasalle~oxfordbldgope~b",
+            "name": "PUTTY HILL & USPS @WESTBURY  W/B",
+            "onestopId": "s-dr181776s2-puttyhill~usps~westburyw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1823,41 +1893,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.579031,
-                    39.386332
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-433",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "433",
-                        "stop_desc": "TAYLOR AVE at GOUCHER BLVD sb",
-                        "stop_id": "433",
-                        "stop_lat": "39.386332",
-                        "stop_lon": "-76.579031",
-                        "stop_name": "TAYLOR & GOUCHER S/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "TAYLOR & GOUCHER S/B",
-            "onestopId": "s-dr1816hf50-taylor~gouchers~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.570975,
                     39.382142
                 ],
@@ -1963,41 +1998,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.563428,
-                    39.397076
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-423",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "423",
-                        "stop_desc": "LOCH RAVEN BLVD at JOPPA RD fs sb",
-                        "stop_id": "423",
-                        "stop_lat": "39.397076",
-                        "stop_lon": "-76.563428",
-                        "stop_name": "LOCH RAVEN & JOPPA FS S/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LOCH RAVEN & JOPPA FS S/B",
-            "onestopId": "s-dr181u00wg-lochraven~joppafss~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.563466,
                     39.394428
                 ],
@@ -2033,31 +2033,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.568367,
-                    39.375352
+                    -76.589062,
+                    39.399539
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-589",
+                    "identifier": "f-mtamaryland-s-408",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "589",
-                        "stop_desc": "HILLSWAY AVE at WENTWORTH RD nb",
-                        "stop_id": "589",
-                        "stop_lat": "39.375352",
-                        "stop_lon": "-76.568367",
-                        "stop_name": "HILLSWAY & WENTWORTH RD nb",
+                        "stop_code": "408",
+                        "stop_desc": "JOPPA RD at BLACK at DECKER at WILD CHERRY RD",
+                        "stop_id": "408",
+                        "stop_lat": "39.399539",
+                        "stop_lon": "-76.589062",
+                        "stop_name": "JOPPA RD & BLACK&DECKER E/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HILLSWAY & WENTWORTH RD nb",
-            "onestopId": "s-dr1818hd59-hillsway~wentworthnb",
+            "name": "JOPPA RD & BLACK&DECKER E/B",
+            "onestopId": "s-dr181hmwcw-joppa~black~deckere~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2278,31 +2278,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.589062,
-                    39.399539
+                    -76.563428,
+                    39.397076
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-408",
+                    "identifier": "f-mtamaryland-s-423",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "408",
-                        "stop_desc": "JOPPA RD at BLACK at DECKER at WILD CHERRY RD",
-                        "stop_id": "408",
-                        "stop_lat": "39.399539",
-                        "stop_lon": "-76.589062",
-                        "stop_name": "JOPPA RD & BLACK&DECKER E/B",
+                        "stop_code": "423",
+                        "stop_desc": "LOCH RAVEN BLVD at JOPPA RD fs sb",
+                        "stop_id": "423",
+                        "stop_lat": "39.397076",
+                        "stop_lon": "-76.563428",
+                        "stop_name": "LOCH RAVEN & JOPPA FS S/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "JOPPA RD & BLACK&DECKER E/B",
-            "onestopId": "s-dr181hmwcw-joppa~black~deckere~b",
+            "name": "LOCH RAVEN & JOPPA FS S/B",
+            "onestopId": "s-dr181u00wg-lochraven~joppafss~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2348,31 +2348,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.576541,
-                    39.385687
+                    -76.562995,
+                    39.395137
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-431",
+                    "identifier": "f-mtamaryland-s-12324",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "431",
-                        "stop_desc": "LOCH RAVEN BLVD at TAYLOR AVE a sb",
-                        "stop_id": "431",
-                        "stop_lat": "39.385687",
-                        "stop_lon": "-76.576541",
-                        "stop_name": "LOCH RAVEN & TAYLOR a sb",
+                        "stop_code": "12324",
+                        "stop_desc": "LOCH RAVEN BLVD at WHITE OAK AVE nb",
+                        "stop_id": "12324",
+                        "stop_lat": "39.395137",
+                        "stop_lon": "-76.562995",
+                        "stop_name": "LOCH RAVEN BLVD  & WHITE OAK A nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LOCH RAVEN & TAYLOR a sb",
-            "onestopId": "s-dr1813ywm2-lochraven~taylorasb",
+            "name": "LOCH RAVEN BLVD  & WHITE OAK A nb",
+            "onestopId": "s-dr181g8t2c-lochraven~whiteoakanb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2383,31 +2383,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.564111,
-                    39.393242
+                    -76.57651,
+                    39.385282
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-8654",
+                    "identifier": "f-mtamaryland-s-12323",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8654",
-                        "stop_desc": "",
-                        "stop_id": "8654",
-                        "stop_lat": "39.393242",
-                        "stop_lon": "-76.564111",
-                        "stop_name": "LOCH RAVEN BLVD & MUSSULA RD sb",
+                        "stop_code": "12323",
+                        "stop_desc": "LOCH RAVEN BLVD at TAYLOR AVE FS nb",
+                        "stop_id": "12323",
+                        "stop_lat": "39.385282",
+                        "stop_lon": "-76.57651",
+                        "stop_name": "LOCH RAVEN BLVD & TAYLOR AVE FSnb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LOCH RAVEN BLVD & MUSSULA RD sb",
-            "onestopId": "s-dr181erdqb-lochraven~mussulasb",
+            "name": "LOCH RAVEN BLVD & TAYLOR AVE FSnb",
+            "onestopId": "s-dr1813yevu-lochraven~taylorfsnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2558,31 +2558,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.595945,
-                    39.401824
+                    -76.586862,
+                    39.398808
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-618",
+                    "identifier": "f-mtamaryland-s-6561",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "618",
-                        "stop_desc": "JOPPA RD at FAIRMOUNT AVE wb",
-                        "stop_id": "618",
-                        "stop_lat": "39.401824",
-                        "stop_lon": "-76.595945",
-                        "stop_name": "JOPPA RD & FAIRMOUNT W/B",
+                        "stop_code": "6561",
+                        "stop_desc": "",
+                        "stop_id": "6561",
+                        "stop_lat": "39.398808",
+                        "stop_lon": "-76.586862",
+                        "stop_name": "GOUCHER BLVD & JOPPA RD FS eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "JOPPA RD & FAIRMOUNT W/B",
-            "onestopId": "s-dr181hbs30-joppa~fairmountw~b",
+            "name": "GOUCHER BLVD & JOPPA RD FS eb",
+            "onestopId": "s-dr181hr4sy-goucher~joppafseb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2628,31 +2628,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.568072,
-                    39.376711
+                    -76.565369,
+                    39.39158
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-590",
+                    "identifier": "f-mtamaryland-s-604",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "590",
-                        "stop_desc": "HILLSWAY AVE at LYLE fs nb",
-                        "stop_id": "590",
-                        "stop_lat": "39.376711",
-                        "stop_lon": "-76.568072",
-                        "stop_name": "HILLSWAY & LYLE FS N/B",
+                        "stop_code": "604",
+                        "stop_desc": "LOCH RAVEN BLVD at PUTTY HILL AVE nb",
+                        "stop_id": "604",
+                        "stop_lat": "39.39158",
+                        "stop_lon": "-76.565369",
+                        "stop_name": "LOCH RAVEN & PUTTY HILL N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HILLSWAY & LYLE FS N/B",
-            "onestopId": "s-dr1818kcfw-hillsway~lylefsn~b",
+            "name": "LOCH RAVEN & PUTTY HILL N/B",
+            "onestopId": "s-dr181enb9d-lochraven~puttyhilln~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2803,31 +2803,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.586862,
-                    39.398808
+                    -76.568056,
+                    39.377219
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6561",
+                    "identifier": "f-mtamaryland-s-3565",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6561",
-                        "stop_desc": "",
-                        "stop_id": "6561",
-                        "stop_lat": "39.398808",
-                        "stop_lon": "-76.586862",
-                        "stop_name": "GOUCHER BLVD & JOPPA RD FS eb",
+                        "stop_code": "3565",
+                        "stop_desc": "HILLSWAY AVE at SATURN CT FS sb",
+                        "stop_id": "3565",
+                        "stop_lat": "39.377219",
+                        "stop_lon": "-76.568056",
+                        "stop_name": "HILLSWAY & SATURN CT FS S/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "GOUCHER BLVD & JOPPA RD FS eb",
-            "onestopId": "s-dr181hr4sy-goucher~joppafseb",
+            "name": "HILLSWAY & SATURN CT FS S/B",
+            "onestopId": "s-dr1818kufv-hillsway~saturnfss~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

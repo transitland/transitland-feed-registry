@@ -108,6 +108,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.574712,
+                    43.712477
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-4176",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6939",
+                        "stop_desc": "",
+                        "stop_id": "4176",
+                        "stop_lat": "43.712477",
+                        "stop_lon": "-79.574712",
+                        "stop_name": "OPPOSITE 225 REXDALE BLVD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "OPPOSITE 225 REXDALE BLVD",
+            "onestopId": "s-dpz2tjx7wu-opposite225rexdale",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.558631,
                     43.694244
                 ],
@@ -633,41 +668,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.56987,
-                    43.683218
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-9138",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6159",
-                        "stop_desc": "",
-                        "stop_id": "9138",
-                        "stop_lat": "43.683218",
-                        "stop_lon": "-79.56987",
-                        "stop_name": "WATERBURY DR AT REDGRAVE DR NORTH SIDE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "WATERBURY DR AT REDGRAVE DR NORTH SIDE",
-            "onestopId": "s-dpz2t26cpw-waterburyatredgravenorthside",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.558624,
                     43.723018
                 ],
@@ -693,6 +693,41 @@
             ],
             "name": "ISLINGTON AVE AT ELMHURST DR",
             "onestopId": "s-dpz2txe1j9-islingtonatelmhurst",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.55493,
+                    43.685774
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-4147",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4388",
+                        "stop_desc": "",
+                        "stop_id": "4147",
+                        "stop_lat": "43.685774",
+                        "stop_lon": "-79.55493",
+                        "stop_name": "KIPLING AVE AT WESTWAY",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KIPLING AVE AT WESTWAY",
+            "onestopId": "s-dpz2t8vb5f-kiplingatwestway",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -773,31 +808,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.555081,
-                    43.715337
+                    -79.549581,
+                    43.687521
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-10120",
+                    "identifier": "f-ttc-s-7047",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14120",
+                        "stop_code": "6206",
                         "stop_desc": "",
-                        "stop_id": "10120",
-                        "stop_lat": "43.715337",
-                        "stop_lon": "-79.555081",
-                        "stop_name": "ISLINGTON AVE AT REXDALE BLVD NORTH SIDE",
+                        "stop_id": "7047",
+                        "stop_lat": "43.687521",
+                        "stop_lon": "-79.549581",
+                        "stop_name": "THE WESTWAY AT WINCOTT DR",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT REXDALE BLVD NORTH SIDE",
-            "onestopId": "s-dpz2twju23-islingtonatrexdalenorthside",
+            "name": "THE WESTWAY AT WINCOTT DR",
+            "onestopId": "s-dpz2tc1f22-thewestwayatwincott",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.545937,
+                    43.72132
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-5761",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6216",
+                        "stop_desc": "",
+                        "stop_id": "5761",
+                        "stop_lat": "43.72132",
+                        "stop_lon": "-79.545937",
+                        "stop_name": "ALBION RD AT ARMEL CRT",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ALBION RD AT ARMEL CRT",
+            "onestopId": "s-dpz2tzhrjk-albionatarmelcrt",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -843,31 +913,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.564702,
-                    43.725064
+                    -79.548066,
+                    43.699841
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7551",
+                    "identifier": "f-ttc-s-3381",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7727",
+                        "stop_code": "3807",
                         "stop_desc": "",
-                        "stop_id": "7551",
-                        "stop_lat": "43.725064",
-                        "stop_lon": "-79.564702",
-                        "stop_name": "ELMHURST DR AT GENTHORN AVE",
+                        "stop_id": "3381",
+                        "stop_lat": "43.699841",
+                        "stop_lon": "-79.548066",
+                        "stop_name": "ISLINGTON AVE AT KINGSVIEW BLVD",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ELMHURST DR AT GENTHORN AVE",
-            "onestopId": "s-dpz2tryubn-elmhurstatgenthorn",
+            "name": "ISLINGTON AVE AT KINGSVIEW BLVD",
+            "onestopId": "s-dpz2tg6f58-islingtonatkingsview",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -913,31 +983,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.548807,
-                    43.701435
+                    -79.550117,
+                    43.704784
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4063",
+                    "identifier": "f-ttc-s-8767",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3839",
+                        "stop_code": "3815",
                         "stop_desc": "",
-                        "stop_id": "4063",
-                        "stop_lat": "43.701435",
-                        "stop_lon": "-79.548807",
-                        "stop_name": "ISLINGTON AVE AT ST ANDREWS BLVD",
+                        "stop_id": "8767",
+                        "stop_lat": "43.704784",
+                        "stop_lon": "-79.550117",
+                        "stop_name": "ISLINGTON AVE AT MONOGRAM PL",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT ST ANDREWS BLVD",
-            "onestopId": "s-dpz2tgd763-islingtonatandrews",
+            "name": "ISLINGTON AVE AT MONOGRAM PL",
+            "onestopId": "s-dpz2tu1qgf-islingtonatmonogrampl",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.546715,
+                    43.697045
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-13153",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "S_DIIS",
+                        "stop_desc": "",
+                        "stop_id": "13153",
+                        "stop_lat": "43.697045",
+                        "stop_lon": "-79.546715",
+                        "stop_name": "DIXON RD. AT ISLINGTON AVE.",
+                        "stop_url": "",
+                        "wheelchair_boarding": "2",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "DIXON RD. AT ISLINGTON AVE.",
+            "onestopId": "s-dpz2tfgcep-dixonatislington",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1018,31 +1123,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.558917,
-                    43.723101
+                    -79.560336,
+                    43.698431
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13357",
+                    "identifier": "f-ttc-s-4477",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_IELM",
+                        "stop_code": "4376",
                         "stop_desc": "",
-                        "stop_id": "13357",
-                        "stop_lat": "43.723101",
-                        "stop_lon": "-79.558917",
-                        "stop_name": "ISLINGTON AVE. AT ELMHURST DR.",
+                        "stop_id": "4477",
+                        "stop_lat": "43.698431",
+                        "stop_lon": "-79.560336",
+                        "stop_name": "KIPLING AVE AT ST ANDREWS BLVD",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE. AT ELMHURST DR.",
-            "onestopId": "s-dpz2txdcwb-islingtonatelmhurst",
+            "name": "KIPLING AVE AT ST ANDREWS BLVD",
+            "onestopId": "s-dpz2te1cvc-kiplingatandrews",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1263,31 +1368,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.548066,
-                    43.699841
+                    -79.560617,
+                    43.698335
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3381",
+                    "identifier": "f-ttc-s-2508",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3807",
+                        "stop_code": "4375",
                         "stop_desc": "",
-                        "stop_id": "3381",
-                        "stop_lat": "43.699841",
-                        "stop_lon": "-79.548066",
-                        "stop_name": "ISLINGTON AVE AT KINGSVIEW BLVD",
+                        "stop_id": "2508",
+                        "stop_lat": "43.698335",
+                        "stop_lon": "-79.560617",
+                        "stop_name": "KIPLING AVE AT ST ANDREWS BLVD SOUTH SIDE",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT KINGSVIEW BLVD",
-            "onestopId": "s-dpz2tg6f58-islingtonatkingsview",
+            "name": "KIPLING AVE AT ST ANDREWS BLVD SOUTH SIDE",
+            "onestopId": "s-dpz2te19r2-kiplingatandrewssouthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1368,31 +1473,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.560617,
-                    43.698335
+                    -79.550097,
+                    43.704182
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-2508",
+                    "identifier": "f-ttc-s-1633",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4375",
+                        "stop_code": "3852",
                         "stop_desc": "",
-                        "stop_id": "2508",
-                        "stop_lat": "43.698335",
-                        "stop_lon": "-79.560617",
-                        "stop_name": "KIPLING AVE AT ST ANDREWS BLVD SOUTH SIDE",
+                        "stop_id": "1633",
+                        "stop_lat": "43.704182",
+                        "stop_lon": "-79.550097",
+                        "stop_name": "ISLINGTON AVE AT WESTHAMPTON DR SOUTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT ST ANDREWS BLVD SOUTH SIDE",
-            "onestopId": "s-dpz2te19r2-kiplingatandrewssouthside",
+            "name": "ISLINGTON AVE AT WESTHAMPTON DR SOUTH SIDE",
+            "onestopId": "s-dpz2tu17k6-islingtonatwesthamptonsouthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1753,31 +1858,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.550117,
-                    43.704784
+                    -79.583173,
+                    43.718698
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-8767",
+                    "identifier": "f-ttc-s-2808",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3815",
+                        "stop_code": "5622",
                         "stop_desc": "",
-                        "stop_id": "8767",
-                        "stop_lat": "43.704784",
-                        "stop_lon": "-79.550117",
-                        "stop_name": "ISLINGTON AVE AT MONOGRAM PL",
+                        "stop_id": "2808",
+                        "stop_lat": "43.718698",
+                        "stop_lon": "-79.583173",
+                        "stop_name": "MARTIN GROVE RD AT JEFFCOAT DR",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT MONOGRAM PL",
-            "onestopId": "s-dpz2tu1qgf-islingtonatmonogrampl",
+            "name": "MARTIN GROVE RD AT JEFFCOAT DR",
+            "onestopId": "s-dpz2tn9rce-martingroveatjeffcoat",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1788,31 +1893,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.571626,
-                    43.711532
+                    -79.577215,
+                    43.690062
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5442",
+                    "identifier": "f-ttc-s-9905",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6937",
+                        "stop_code": "4989",
                         "stop_desc": "",
-                        "stop_id": "5442",
-                        "stop_lat": "43.711532",
-                        "stop_lon": "-79.571626",
-                        "stop_name": "REXDALE BLVD AT BRYDON DR",
+                        "stop_id": "9905",
+                        "stop_lat": "43.690062",
+                        "stop_lon": "-79.577215",
+                        "stop_name": "DIXON RD AT KELFIELD ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "REXDALE BLVD AT BRYDON DR",
-            "onestopId": "s-dpz2tm3wns-rexdaleatbrydon",
+            "name": "DIXON RD AT KELFIELD ST",
+            "onestopId": "s-dpz2t1t9h3-dixonatkelfield",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1823,31 +1928,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.54542,
-                    43.721224
+                    -79.555412,
+                    43.694927
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5809",
+                    "identifier": "f-ttc-s-4602",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6217",
+                        "stop_code": "13698",
                         "stop_desc": "",
-                        "stop_id": "5809",
-                        "stop_lat": "43.721224",
-                        "stop_lon": "-79.54542",
-                        "stop_name": "ALBION RD AT ARMEL CRT",
+                        "stop_id": "4602",
+                        "stop_lat": "43.694927",
+                        "stop_lon": "-79.555412",
+                        "stop_name": "327 DIXON RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ALBION RD AT ARMEL CRT",
-            "onestopId": "s-dpz2tzhy96-albionatarmelcrt",
+            "name": "327 DIXON RD",
+            "onestopId": "s-dpz2tdmt2s-327dixon",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1858,31 +1963,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.570591,
-                    43.691791
+                    -79.572291,
+                    43.723676
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4200",
+                    "identifier": "f-ttc-s-3682",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4993",
+                        "stop_code": "4312",
                         "stop_desc": "",
-                        "stop_id": "4200",
-                        "stop_lat": "43.691791",
-                        "stop_lon": "-79.570591",
-                        "stop_name": "DIXON RD AT MARTIN GROVE RD",
+                        "stop_id": "3682",
+                        "stop_lat": "43.723676",
+                        "stop_lon": "-79.572291",
+                        "stop_name": "KIPLING AVE AT GENTHORN AVE NORTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DIXON RD AT MARTIN GROVE RD",
-            "onestopId": "s-dpz2t3f7nu-dixonatmartingrove",
+            "name": "KIPLING AVE AT GENTHORN AVE NORTH SIDE",
+            "onestopId": "s-dpz2tr9hz5-kiplingatgenthornnorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2103,41 +2208,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.550097,
-                    43.704182
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-1633",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3852",
-                        "stop_desc": "",
-                        "stop_id": "1633",
-                        "stop_lat": "43.704182",
-                        "stop_lon": "-79.550097",
-                        "stop_name": "ISLINGTON AVE AT WESTHAMPTON DR SOUTH SIDE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ISLINGTON AVE AT WESTHAMPTON DR SOUTH SIDE",
-            "onestopId": "s-dpz2tu17k6-islingtonatwesthamptonsouthside",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.568448,
                     43.686558
                 ],
@@ -2278,31 +2348,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.563471,
-                    43.704827
+                    -79.580923,
+                    43.700765
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13387",
+                    "identifier": "f-ttc-s-9542",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_KBEL",
+                        "stop_code": "3334",
                         "stop_desc": "",
-                        "stop_id": "13387",
-                        "stop_lat": "43.704827",
-                        "stop_lon": "-79.563471",
-                        "stop_name": "BELFIELD RD. AT KIPLING AVE.",
+                        "stop_id": "9542",
+                        "stop_lat": "43.700765",
+                        "stop_lon": "-79.580923",
+                        "stop_name": "BELFIELD RD AT IRON ST",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELFIELD RD. AT KIPLING AVE.",
-            "onestopId": "s-dpz2tkpxhf-belfieldatkipling",
+            "name": "BELFIELD RD AT IRON ST",
+            "onestopId": "s-dpz2t56zqj-belfieldatiron",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2618,41 +2688,6 @@
             ],
             "name": "ELMHURST DR AT CROMARTY DR",
             "onestopId": "s-dpz2tx877x-elmhurstatcromarty",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.553249,
-                    43.724519
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-996",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "7735",
-                        "stop_desc": "",
-                        "stop_id": "996",
-                        "stop_lat": "43.724519",
-                        "stop_lon": "-79.553249",
-                        "stop_name": "ELMHURST DR AT MUNCEY AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ELMHURST DR AT MUNCEY AVE",
-            "onestopId": "s-dpz2txz1fc-elmhurstatmuncey",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3013,6 +3048,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.576878,
+                    43.690406
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-7257",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4979",
+                        "stop_desc": "",
+                        "stop_id": "7257",
+                        "stop_lat": "43.690406",
+                        "stop_lon": "-79.576878",
+                        "stop_name": "DIXON RD AT CITY VIEW DR",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "DIXON RD AT CITY VIEW DR",
+            "onestopId": "s-dpz2t1tgh3-dixonatcityview",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.574592,
                     43.690922
                 ],
@@ -3188,31 +3258,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.557273,
-                    43.685445
+                    -79.581099,
+                    43.713839
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6547",
+                    "identifier": "f-ttc-s-13738",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6186",
+                        "stop_code": "S_RXMG",
                         "stop_desc": "",
-                        "stop_id": "6547",
-                        "stop_lat": "43.685445",
-                        "stop_lon": "-79.557273",
-                        "stop_name": "THE WESTWAY AT CELESTINE DR WEST SIDE",
+                        "stop_id": "13738",
+                        "stop_lat": "43.713839",
+                        "stop_lon": "-79.581099",
+                        "stop_name": "REXDALE BLVD. AT MARTIN GROVE RD.",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE WESTWAY AT CELESTINE DR WEST SIDE",
-            "onestopId": "s-dpz2t8snjj-thewestwayatcelestinewestside",
+            "name": "REXDALE BLVD. AT MARTIN GROVE RD.",
+            "onestopId": "s-dpz2tjfg9f-rexdaleatmartingrove",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3223,31 +3293,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.583173,
-                    43.718698
+                    -79.579612,
+                    43.710954
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-2808",
+                    "identifier": "f-ttc-s-3677",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5622",
+                        "stop_code": "5593",
                         "stop_desc": "",
-                        "stop_id": "2808",
-                        "stop_lat": "43.718698",
-                        "stop_lon": "-79.583173",
-                        "stop_name": "MARTIN GROVE RD AT JEFFCOAT DR",
+                        "stop_id": "3677",
+                        "stop_lat": "43.710954",
+                        "stop_lon": "-79.579612",
+                        "stop_name": "1245 MARTIN GROVE RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MARTIN GROVE RD AT JEFFCOAT DR",
-            "onestopId": "s-dpz2tn9rce-martingroveatjeffcoat",
+            "name": "1245 MARTIN GROVE RD",
+            "onestopId": "s-dpz2tj7fu8-1245martingrove",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3363,31 +3433,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.558626,
-                    43.694738
+                    -79.557939,
+                    43.693089
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6688",
+                    "identifier": "f-ttc-s-10118",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4303",
+                        "stop_code": "9315",
                         "stop_desc": "",
-                        "stop_id": "6688",
-                        "stop_lat": "43.694738",
-                        "stop_lon": "-79.558626",
-                        "stop_name": "KIPLING AVE AT DIXON RD NORTH SIDE",
+                        "stop_id": "10118",
+                        "stop_lat": "43.693089",
+                        "stop_lon": "-79.557939",
+                        "stop_name": "1735 KIPLING AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT DIXON RD NORTH SIDE",
-            "onestopId": "s-dpz2td7hm9-kiplingatdixonnorthside",
+            "name": "1735 KIPLING AVE",
+            "onestopId": "s-dpz2td5dtw-1735kipling",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3503,31 +3573,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.557769,
-                    43.69219
+                    -79.579363,
+                    43.713352
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7452",
+                    "identifier": "f-ttc-s-3434",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4320",
+                        "stop_code": "9411",
                         "stop_desc": "",
-                        "stop_id": "7452",
-                        "stop_lat": "43.69219",
-                        "stop_lon": "-79.557769",
-                        "stop_name": "KIPLING AVE AT HAYHURST RD",
+                        "stop_id": "3434",
+                        "stop_lat": "43.713352",
+                        "stop_lon": "-79.579363",
+                        "stop_name": "279 REXDALE BLVD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT HAYHURST RD",
-            "onestopId": "s-dpz2t9gv3w-kiplingathayhurst",
+            "name": "279 REXDALE BLVD",
+            "onestopId": "s-dpz2tju0dr-279rexdale",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3573,31 +3643,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.573122,
-                    43.702636
+                    -79.55668,
+                    43.718156
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9116",
+                    "identifier": "f-ttc-s-2699",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3340",
+                        "stop_code": "3814",
                         "stop_desc": "",
-                        "stop_id": "9116",
-                        "stop_lat": "43.702636",
-                        "stop_lon": "-79.573122",
-                        "stop_name": "BELFIELD RD AT MCCULLOCH AVE WEST SIDE",
+                        "stop_id": "2699",
+                        "stop_lat": "43.718156",
+                        "stop_lon": "-79.55668",
+                        "stop_name": "ISLINGTON AVE AT LEDUC DR SOUTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELFIELD RD AT MCCULLOCH AVE WEST SIDE",
-            "onestopId": "s-dpz2t7bd7c-belfieldatmccullochwestside",
+            "name": "ISLINGTON AVE AT LEDUC DR SOUTH SIDE",
+            "onestopId": "s-dpz2twssdy-islingtonatleducsouthside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.570849,
+                    43.691954
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-4725",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5607",
+                        "stop_desc": "",
+                        "stop_id": "4725",
+                        "stop_lat": "43.691954",
+                        "stop_lon": "-79.570849",
+                        "stop_name": "MARTIN GROVE RD AT DIXON RD NORTH SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "2",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "MARTIN GROVE RD AT DIXON RD NORTH SIDE",
+            "onestopId": "s-dpz2t3fk0f-martingroveatdixonnorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3643,41 +3748,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.577215,
-                    43.690062
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-9905",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4989",
-                        "stop_desc": "",
-                        "stop_id": "9905",
-                        "stop_lat": "43.690062",
-                        "stop_lon": "-79.577215",
-                        "stop_name": "DIXON RD AT KELFIELD ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "DIXON RD AT KELFIELD ST",
-            "onestopId": "s-dpz2t1t9h3-dixonatkelfield",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.556719,
                     43.716856
                 ],
@@ -3703,6 +3773,41 @@
             ],
             "name": "BERGAMOT AVE AT ISLINGTON AVE WEST SIDE",
             "onestopId": "s-dpz2twkt4h-bergamotatislingtonwestside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.562622,
+                    43.693254
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-10086",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4977",
+                        "stop_desc": "",
+                        "stop_id": "10086",
+                        "stop_lat": "43.693254",
+                        "stop_lon": "-79.562622",
+                        "stop_name": "DIXON RD AT CELESTINE DR",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "DIXON RD AT CELESTINE DR",
+            "onestopId": "s-dpz2td078s-dixonatcelestine",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3748,31 +3853,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.576028,
-                    43.701729
+                    -79.571304,
+                    43.721646
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-1450",
+                    "identifier": "f-ttc-s-10141",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3337",
+                        "stop_code": "4373",
                         "stop_desc": "",
-                        "stop_id": "1450",
-                        "stop_lat": "43.701729",
-                        "stop_lon": "-79.576028",
-                        "stop_name": "BELFIELD RD AT MARTIN GROVE RD",
+                        "stop_id": "10141",
+                        "stop_lat": "43.721646",
+                        "stop_lon": "-79.571304",
+                        "stop_name": "KIPLING AVE AT SNARESBROOK DR",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELFIELD RD AT MARTIN GROVE RD",
-            "onestopId": "s-dpz2t5wt00-belfieldatmartingrove",
+            "name": "KIPLING AVE AT SNARESBROOK DR",
+            "onestopId": "s-dpz2tr3cn1-kiplingatsnaresbrook",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3853,31 +3958,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.580923,
-                    43.700765
+                    -79.563471,
+                    43.704827
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9542",
+                    "identifier": "f-ttc-s-13387",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3334",
+                        "stop_code": "S_KBEL",
                         "stop_desc": "",
-                        "stop_id": "9542",
-                        "stop_lat": "43.700765",
-                        "stop_lon": "-79.580923",
-                        "stop_name": "BELFIELD RD AT IRON ST",
+                        "stop_id": "13387",
+                        "stop_lat": "43.704827",
+                        "stop_lon": "-79.563471",
+                        "stop_name": "BELFIELD RD. AT KIPLING AVE.",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELFIELD RD AT IRON ST",
-            "onestopId": "s-dpz2t56zqj-belfieldatiron",
+            "name": "BELFIELD RD. AT KIPLING AVE.",
+            "onestopId": "s-dpz2tkpxhf-belfieldatkipling",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3888,31 +3993,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.580793,
-                    43.713879
+                    -79.544375,
+                    43.692345
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7077",
+                    "identifier": "f-ttc-s-3810",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6947",
+                        "stop_code": "3855",
                         "stop_desc": "",
-                        "stop_id": "7077",
-                        "stop_lat": "43.713879",
-                        "stop_lon": "-79.580793",
-                        "stop_name": "REXDALE BLVD AT MARTIN GROVE RD",
+                        "stop_id": "3810",
+                        "stop_lat": "43.692345",
+                        "stop_lon": "-79.544375",
+                        "stop_name": "ISLINGTON AVE AT WINNIPEG RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "REXDALE BLVD AT MARTIN GROVE RD",
-            "onestopId": "s-dpz2tjg5c1-rexdaleatmartingrove",
+            "name": "ISLINGTON AVE AT WINNIPEG RD",
+            "onestopId": "s-dpz2tcvw3e-islingtonatwinnipeg",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3993,31 +4098,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.545937,
-                    43.72132
+                    -79.555081,
+                    43.715337
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5761",
+                    "identifier": "f-ttc-s-10120",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6216",
+                        "stop_code": "14120",
                         "stop_desc": "",
-                        "stop_id": "5761",
-                        "stop_lat": "43.72132",
-                        "stop_lon": "-79.545937",
-                        "stop_name": "ALBION RD AT ARMEL CRT",
+                        "stop_id": "10120",
+                        "stop_lat": "43.715337",
+                        "stop_lon": "-79.555081",
+                        "stop_name": "ISLINGTON AVE AT REXDALE BLVD NORTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ALBION RD AT ARMEL CRT",
-            "onestopId": "s-dpz2tzhrjk-albionatarmelcrt",
+            "name": "ISLINGTON AVE AT REXDALE BLVD NORTH SIDE",
+            "onestopId": "s-dpz2twju23-islingtonatrexdalenorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4168,31 +4273,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.55668,
-                    43.718156
+                    -79.56987,
+                    43.683218
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-2699",
+                    "identifier": "f-ttc-s-9138",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3814",
+                        "stop_code": "6159",
                         "stop_desc": "",
-                        "stop_id": "2699",
-                        "stop_lat": "43.718156",
-                        "stop_lon": "-79.55668",
-                        "stop_name": "ISLINGTON AVE AT LEDUC DR SOUTH SIDE",
+                        "stop_id": "9138",
+                        "stop_lat": "43.683218",
+                        "stop_lon": "-79.56987",
+                        "stop_name": "WATERBURY DR AT REDGRAVE DR NORTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT LEDUC DR SOUTH SIDE",
-            "onestopId": "s-dpz2twssdy-islingtonatleducsouthside",
+            "name": "WATERBURY DR AT REDGRAVE DR NORTH SIDE",
+            "onestopId": "s-dpz2t26cpw-waterburyatredgravenorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4203,31 +4308,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.549581,
-                    43.687521
+                    -79.556616,
+                    43.718677
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7047",
+                    "identifier": "f-ttc-s-3437",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6206",
+                        "stop_code": "3813",
                         "stop_desc": "",
-                        "stop_id": "7047",
-                        "stop_lat": "43.687521",
-                        "stop_lon": "-79.549581",
-                        "stop_name": "THE WESTWAY AT WINCOTT DR",
+                        "stop_id": "3437",
+                        "stop_lat": "43.718677",
+                        "stop_lon": "-79.556616",
+                        "stop_name": "ISLINGTON AVE AT LEDUC DR NORTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE WESTWAY AT WINCOTT DR",
-            "onestopId": "s-dpz2tc1f22-thewestwayatwincott",
+            "name": "ISLINGTON AVE AT LEDUC DR NORTH SIDE",
+            "onestopId": "s-dpz2twsxu2-islingtonatleducnorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4413,31 +4518,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.572291,
-                    43.723676
+                    -79.570591,
+                    43.691791
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3682",
+                    "identifier": "f-ttc-s-4200",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4312",
+                        "stop_code": "4993",
                         "stop_desc": "",
-                        "stop_id": "3682",
-                        "stop_lat": "43.723676",
-                        "stop_lon": "-79.572291",
-                        "stop_name": "KIPLING AVE AT GENTHORN AVE NORTH SIDE",
+                        "stop_id": "4200",
+                        "stop_lat": "43.691791",
+                        "stop_lon": "-79.570591",
+                        "stop_name": "DIXON RD AT MARTIN GROVE RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT GENTHORN AVE NORTH SIDE",
-            "onestopId": "s-dpz2tr9hz5-kiplingatgenthornnorthside",
+            "name": "DIXON RD AT MARTIN GROVE RD",
+            "onestopId": "s-dpz2t3f7nu-dixonatmartingrove",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4518,31 +4623,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.556616,
-                    43.718677
+                    -79.571647,
+                    43.693618
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3437",
+                    "identifier": "f-ttc-s-3982",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3813",
+                        "stop_code": "5641",
                         "stop_desc": "",
-                        "stop_id": "3437",
-                        "stop_lat": "43.718677",
-                        "stop_lon": "-79.556616",
-                        "stop_name": "ISLINGTON AVE AT LEDUC DR NORTH SIDE",
+                        "stop_id": "3982",
+                        "stop_lat": "43.693618",
+                        "stop_lon": "-79.571647",
+                        "stop_name": "MARTIN GROVE RD AT RONSON DR",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT LEDUC DR NORTH SIDE",
-            "onestopId": "s-dpz2twsxu2-islingtonatleducnorthside",
+            "name": "MARTIN GROVE RD AT RONSON DR",
+            "onestopId": "s-dpz2t61ty0-martingroveatronson",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4833,6 +4938,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.558917,
+                    43.723101
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-13357",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "S_IELM",
+                        "stop_desc": "",
+                        "stop_id": "13357",
+                        "stop_lat": "43.723101",
+                        "stop_lon": "-79.558917",
+                        "stop_name": "ISLINGTON AVE. AT ELMHURST DR.",
+                        "stop_url": "",
+                        "wheelchair_boarding": "2",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ISLINGTON AVE. AT ELMHURST DR.",
+            "onestopId": "s-dpz2txdcwb-islingtonatelmhurst",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.556341,
                     43.71678
                 ],
@@ -4938,31 +5078,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.562622,
-                    43.693254
+                    -79.571626,
+                    43.711532
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-10086",
+                    "identifier": "f-ttc-s-5442",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4977",
+                        "stop_code": "6937",
                         "stop_desc": "",
-                        "stop_id": "10086",
-                        "stop_lat": "43.693254",
-                        "stop_lon": "-79.562622",
-                        "stop_name": "DIXON RD AT CELESTINE DR",
+                        "stop_id": "5442",
+                        "stop_lat": "43.711532",
+                        "stop_lon": "-79.571626",
+                        "stop_name": "REXDALE BLVD AT BRYDON DR",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DIXON RD AT CELESTINE DR",
-            "onestopId": "s-dpz2td078s-dixonatcelestine",
+            "name": "REXDALE BLVD AT BRYDON DR",
+            "onestopId": "s-dpz2tm3wns-rexdaleatbrydon",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4973,66 +5113,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.555412,
-                    43.694927
+                    -79.54542,
+                    43.721224
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4602",
+                    "identifier": "f-ttc-s-5809",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13698",
+                        "stop_code": "6217",
                         "stop_desc": "",
-                        "stop_id": "4602",
-                        "stop_lat": "43.694927",
-                        "stop_lon": "-79.555412",
-                        "stop_name": "327 DIXON RD",
+                        "stop_id": "5809",
+                        "stop_lat": "43.721224",
+                        "stop_lon": "-79.54542",
+                        "stop_name": "ALBION RD AT ARMEL CRT",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "327 DIXON RD",
-            "onestopId": "s-dpz2tdmt2s-327dixon",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.571647,
-                    43.693618
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-3982",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5641",
-                        "stop_desc": "",
-                        "stop_id": "3982",
-                        "stop_lat": "43.693618",
-                        "stop_lon": "-79.571647",
-                        "stop_name": "MARTIN GROVE RD AT RONSON DR",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "MARTIN GROVE RD AT RONSON DR",
-            "onestopId": "s-dpz2t61ty0-martingroveatronson",
+            "name": "ALBION RD AT ARMEL CRT",
+            "onestopId": "s-dpz2tzhy96-albionatarmelcrt",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5078,31 +5183,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.581099,
-                    43.713839
+                    -79.557273,
+                    43.685445
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13738",
+                    "identifier": "f-ttc-s-6547",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_RXMG",
+                        "stop_code": "6186",
                         "stop_desc": "",
-                        "stop_id": "13738",
-                        "stop_lat": "43.713839",
-                        "stop_lon": "-79.581099",
-                        "stop_name": "REXDALE BLVD. AT MARTIN GROVE RD.",
+                        "stop_id": "6547",
+                        "stop_lat": "43.685445",
+                        "stop_lon": "-79.557273",
+                        "stop_name": "THE WESTWAY AT CELESTINE DR WEST SIDE",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "REXDALE BLVD. AT MARTIN GROVE RD.",
-            "onestopId": "s-dpz2tjfg9f-rexdaleatmartingrove",
+            "name": "THE WESTWAY AT CELESTINE DR WEST SIDE",
+            "onestopId": "s-dpz2t8snjj-thewestwayatcelestinewestside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5148,31 +5253,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.557939,
-                    43.693089
+                    -79.558626,
+                    43.694738
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-10118",
+                    "identifier": "f-ttc-s-6688",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9315",
+                        "stop_code": "4303",
                         "stop_desc": "",
-                        "stop_id": "10118",
-                        "stop_lat": "43.693089",
-                        "stop_lon": "-79.557939",
-                        "stop_name": "1735 KIPLING AVE",
+                        "stop_id": "6688",
+                        "stop_lat": "43.694738",
+                        "stop_lon": "-79.558626",
+                        "stop_name": "KIPLING AVE AT DIXON RD NORTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "1735 KIPLING AVE",
-            "onestopId": "s-dpz2td5dtw-1735kipling",
+            "name": "KIPLING AVE AT DIXON RD NORTH SIDE",
+            "onestopId": "s-dpz2td7hm9-kiplingatdixonnorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5183,31 +5288,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.579363,
-                    43.713352
+                    -79.557769,
+                    43.69219
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3434",
+                    "identifier": "f-ttc-s-7452",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9411",
+                        "stop_code": "4320",
                         "stop_desc": "",
-                        "stop_id": "3434",
-                        "stop_lat": "43.713352",
-                        "stop_lon": "-79.579363",
-                        "stop_name": "279 REXDALE BLVD",
+                        "stop_id": "7452",
+                        "stop_lat": "43.69219",
+                        "stop_lon": "-79.557769",
+                        "stop_name": "KIPLING AVE AT HAYHURST RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "279 REXDALE BLVD",
-            "onestopId": "s-dpz2tju0dr-279rexdale",
+            "name": "KIPLING AVE AT HAYHURST RD",
+            "onestopId": "s-dpz2t9gv3w-kiplingathayhurst",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5253,31 +5358,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.576878,
-                    43.690406
+                    -79.576028,
+                    43.701729
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7257",
+                    "identifier": "f-ttc-s-1450",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4979",
+                        "stop_code": "3337",
                         "stop_desc": "",
-                        "stop_id": "7257",
-                        "stop_lat": "43.690406",
-                        "stop_lon": "-79.576878",
-                        "stop_name": "DIXON RD AT CITY VIEW DR",
+                        "stop_id": "1450",
+                        "stop_lat": "43.701729",
+                        "stop_lon": "-79.576028",
+                        "stop_name": "BELFIELD RD AT MARTIN GROVE RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DIXON RD AT CITY VIEW DR",
-            "onestopId": "s-dpz2t1tgh3-dixonatcityview",
+            "name": "BELFIELD RD AT MARTIN GROVE RD",
+            "onestopId": "s-dpz2t5wt00-belfieldatmartingrove",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5393,31 +5498,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.546715,
-                    43.697045
+                    -79.548807,
+                    43.701435
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13153",
+                    "identifier": "f-ttc-s-4063",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_DIIS",
+                        "stop_code": "3839",
                         "stop_desc": "",
-                        "stop_id": "13153",
-                        "stop_lat": "43.697045",
-                        "stop_lon": "-79.546715",
-                        "stop_name": "DIXON RD. AT ISLINGTON AVE.",
+                        "stop_id": "4063",
+                        "stop_lat": "43.701435",
+                        "stop_lon": "-79.548807",
+                        "stop_name": "ISLINGTON AVE AT ST ANDREWS BLVD",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DIXON RD. AT ISLINGTON AVE.",
-            "onestopId": "s-dpz2tfgcep-dixonatislington",
+            "name": "ISLINGTON AVE AT ST ANDREWS BLVD",
+            "onestopId": "s-dpz2tgd763-islingtonatandrews",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5453,41 +5558,6 @@
             ],
             "name": "ALBION RD AT GOLFDOWN DR WEST SIDE",
             "onestopId": "s-dpz2tzdm79-albionatgolfdownwestside",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.579612,
-                    43.710954
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-3677",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5593",
-                        "stop_desc": "",
-                        "stop_id": "3677",
-                        "stop_lat": "43.710954",
-                        "stop_lon": "-79.579612",
-                        "stop_name": "1245 MARTIN GROVE RD",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "1245 MARTIN GROVE RD",
-            "onestopId": "s-dpz2tj7fu8-1245martingrove",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5708,31 +5778,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.574712,
-                    43.712477
+                    -79.564702,
+                    43.725064
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4176",
+                    "identifier": "f-ttc-s-7551",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6939",
+                        "stop_code": "7727",
                         "stop_desc": "",
-                        "stop_id": "4176",
-                        "stop_lat": "43.712477",
-                        "stop_lon": "-79.574712",
-                        "stop_name": "OPPOSITE 225 REXDALE BLVD",
+                        "stop_id": "7551",
+                        "stop_lat": "43.725064",
+                        "stop_lon": "-79.564702",
+                        "stop_name": "ELMHURST DR AT GENTHORN AVE",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "OPPOSITE 225 REXDALE BLVD",
-            "onestopId": "s-dpz2tjx7wu-opposite225rexdale",
+            "name": "ELMHURST DR AT GENTHORN AVE",
+            "onestopId": "s-dpz2tryubn-elmhurstatgenthorn",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6373,31 +6443,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.570849,
-                    43.691954
+                    -79.573122,
+                    43.702636
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4725",
+                    "identifier": "f-ttc-s-9116",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5607",
+                        "stop_code": "3340",
                         "stop_desc": "",
-                        "stop_id": "4725",
-                        "stop_lat": "43.691954",
-                        "stop_lon": "-79.570849",
-                        "stop_name": "MARTIN GROVE RD AT DIXON RD NORTH SIDE",
+                        "stop_id": "9116",
+                        "stop_lat": "43.702636",
+                        "stop_lon": "-79.573122",
+                        "stop_name": "BELFIELD RD AT MCCULLOCH AVE WEST SIDE",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MARTIN GROVE RD AT DIXON RD NORTH SIDE",
-            "onestopId": "s-dpz2t3fk0f-martingroveatdixonnorthside",
+            "name": "BELFIELD RD AT MCCULLOCH AVE WEST SIDE",
+            "onestopId": "s-dpz2t7bd7c-belfieldatmccullochwestside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6408,31 +6478,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.544375,
-                    43.692345
+                    -79.580793,
+                    43.713879
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3810",
+                    "identifier": "f-ttc-s-7077",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3855",
+                        "stop_code": "6947",
                         "stop_desc": "",
-                        "stop_id": "3810",
-                        "stop_lat": "43.692345",
-                        "stop_lon": "-79.544375",
-                        "stop_name": "ISLINGTON AVE AT WINNIPEG RD",
+                        "stop_id": "7077",
+                        "stop_lat": "43.713879",
+                        "stop_lon": "-79.580793",
+                        "stop_name": "REXDALE BLVD AT MARTIN GROVE RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT WINNIPEG RD",
-            "onestopId": "s-dpz2tcvw3e-islingtonatwinnipeg",
+            "name": "REXDALE BLVD AT MARTIN GROVE RD",
+            "onestopId": "s-dpz2tjg5c1-rexdaleatmartingrove",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6538,41 +6608,6 @@
             ],
             "name": "BELFIELD RD AT IRON ST",
             "onestopId": "s-dpz2t56ty1-belfieldatiron",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.571304,
-                    43.721646
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-10141",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4373",
-                        "stop_desc": "",
-                        "stop_id": "10141",
-                        "stop_lat": "43.721646",
-                        "stop_lon": "-79.571304",
-                        "stop_name": "KIPLING AVE AT SNARESBROOK DR",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "KIPLING AVE AT SNARESBROOK DR",
-            "onestopId": "s-dpz2tr3cn1-kiplingatsnaresbrook",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6793,41 +6828,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.560336,
-                    43.698431
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-4477",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4376",
-                        "stop_desc": "",
-                        "stop_id": "4477",
-                        "stop_lat": "43.698431",
-                        "stop_lon": "-79.560336",
-                        "stop_name": "KIPLING AVE AT ST ANDREWS BLVD",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "KIPLING AVE AT ST ANDREWS BLVD",
-            "onestopId": "s-dpz2te1cvc-kiplingatandrews",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.541271,
                     43.684735
                 ],
@@ -6933,31 +6933,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.55493,
-                    43.685774
+                    -79.553249,
+                    43.724519
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4147",
+                    "identifier": "f-ttc-s-996",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4388",
+                        "stop_code": "7735",
                         "stop_desc": "",
-                        "stop_id": "4147",
-                        "stop_lat": "43.685774",
-                        "stop_lon": "-79.55493",
-                        "stop_name": "KIPLING AVE AT WESTWAY",
+                        "stop_id": "996",
+                        "stop_lat": "43.724519",
+                        "stop_lon": "-79.553249",
+                        "stop_name": "ELMHURST DR AT MUNCEY AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT WESTWAY",
-            "onestopId": "s-dpz2t8vb5f-kiplingatwestway",
+            "name": "ELMHURST DR AT MUNCEY AVE",
+            "onestopId": "s-dpz2txz1fc-elmhurstatmuncey",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"

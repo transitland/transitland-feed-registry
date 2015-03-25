@@ -543,6 +543,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -117.19327389,
+                    32.8289456739
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-12368",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "12368",
+                        "stop_id": "12368",
+                        "stop_lat": "32.8289456739",
+                        "stop_lon": "-117.19327389",
+                        "stop_name": "Genesee Av & Chateau Dr",
+                        "stop_name_short": "Gnsee&Chateau",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Genesee Av & Chateau Dr",
+            "onestopId": "s-9mudv0q6qz-genesee~chateau",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -117.175154373,
                     32.83422523
                 ],
@@ -651,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.19327389,
-                    32.8289456739
+                    -117.174864481,
+                    32.834521493
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12368",
+                    "identifier": "f-mtssandiego-s-10827",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "N-W/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12368",
-                        "stop_id": "12368",
-                        "stop_lat": "32.8289456739",
-                        "stop_lon": "-117.19327389",
-                        "stop_name": "Genesee Av & Chateau Dr",
-                        "stop_name_short": "Gnsee&Chateau",
+                        "stop_code": "10827",
+                        "stop_id": "10827",
+                        "stop_lat": "32.834521493",
+                        "stop_lon": "-117.174864481",
+                        "stop_name": "Clairemont Mesa Bl & Doliva Dr",
+                        "stop_name_short": "Cmnt Mesa&Doliva",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Genesee Av & Chateau Dr",
-            "onestopId": "s-9mudv0q6qz-genesee~chateau",
+            "name": "Clairemont Mesa Bl & Doliva Dr",
+            "onestopId": "s-9mudv97fgy-clairemontmesabl~doliva",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -1181,42 +1217,6 @@
             ],
             "name": "Clairemont Mesa Bl & Dubois Dr",
             "onestopId": "s-9mudv176n4-clairemontmesabl~dubois",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.174864481,
-                    32.834521493
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-10827",
-                    "tags": {
-                        "intersection_code": "N-W/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "10827",
-                        "stop_id": "10827",
-                        "stop_lat": "32.834521493",
-                        "stop_lon": "-117.174864481",
-                        "stop_name": "Clairemont Mesa Bl & Doliva Dr",
-                        "stop_name_short": "Cmnt Mesa&Doliva",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Clairemont Mesa Bl & Doliva Dr",
-            "onestopId": "s-9mudv97fgy-clairemontmesabl~doliva",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

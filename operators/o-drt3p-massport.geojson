@@ -3,34 +3,98 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.029831,
-                    42.374699
+                    -71.017957,
+                    42.367271
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-Logan-Subway",
+                    "identifier": "f-mbta-s-Logan-C",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "Logan-Subway",
-                        "stop_lat": "42.374699",
-                        "stop_lon": "-71.029831",
-                        "stop_name": "Airport Subway Station",
+                        "stop_id": "Logan-C",
+                        "stop_lat": "42.367271",
+                        "stop_lon": "-71.017957",
+                        "stop_name": "Logan Airport Terminal C",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Airport Subway Station",
-            "onestopId": "s-drt3pdjdsb-airportsubwaystation",
+            "name": "Logan Airport Terminal C",
+            "onestopId": "s-drt3pbwr1x-loganairportterminalc",
             "properties": {},
             "servedBy": [
                 "o-drt3p-massport"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -71.029831,
+                            42.374699
+                        ],
+                        [
+                            -71.022093,
+                            42.364426
+                        ],
+                        [
+                            -71.018648,
+                            42.361302
+                        ],
+                        [
+                            -71.017957,
+                            42.367271
+                        ],
+                        [
+                            -71.020754,
+                            42.370022
+                        ],
+                        [
+                            -71.029831,
+                            42.374699
+                        ]
+                    ],
+                    []
+                ],
+                "type": "MultiLineString"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-r-Logan-55",
+                    "tags": {
+                        "agency_id": "2",
+                        "route_color": "",
+                        "route_desc": "Airport Shuttle",
+                        "route_id": "Logan-55",
+                        "route_long_name": "Massport Subway Shuttle (55)",
+                        "route_short_name": "Shuttle",
+                        "route_sort_order": "2000055",
+                        "route_text_color": "",
+                        "route_type": "3",
+                        "route_url": ""
+                    }
+                }
+            ],
+            "name": "Shuttle~3",
+            "onestopId": "r-drt3p-shuttle~3",
+            "operatedBy": "o-drt3p-massport",
+            "properties": {},
+            "serves": [
+                "s-drt3pbwr1x-loganairportterminalc",
+                "s-drt3pchr22-loganairportterminale",
+                "s-drt2zztu3x-loganairportterminalb",
+                "s-drt3pb5q9m-loganairportterminala",
+                "s-drt3pdjdsb-airportsubwaystation"
             ],
             "tags": {},
             "type": "Feature"
@@ -129,47 +193,12 @@
             "operatedBy": "o-drt3p-massport",
             "properties": {},
             "serves": [
-                "s-drt3pdjdsb-airportsubwaystation",
-                "s-drt3pchr22-loganairportterminale",
                 "s-drt3pb5q9m-loganairportterminala",
-                "s-drt3pbwr1x-loganairportterminalc",
                 "s-drt2zztu3x-loganairportterminalb",
+                "s-drt3pchr22-loganairportterminale",
+                "s-drt3pbwr1x-loganairportterminalc",
+                "s-drt3pdjdsb-airportsubwaystation",
                 "s-drt2zxr7xh-loganaiportferryterminal"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.022093,
-                    42.364426
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-Logan-A",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "Logan-A",
-                        "stop_lat": "42.364426",
-                        "stop_lon": "-71.022093",
-                        "stop_name": "Logan Airport Terminal A",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Logan Airport Terminal A",
-            "onestopId": "s-drt3pb5q9m-loganairportterminala",
-            "properties": {},
-            "servedBy": [
-                "o-drt3p-massport"
             ],
             "tags": {},
             "type": "Feature"
@@ -212,147 +241,13 @@
                     }
                 }
             ],
-            "name": "Shuttle~3",
-            "onestopId": "r-drt3p-shuttle~3",
+            "name": "Shuttle~2",
+            "onestopId": "r-drt3p-shuttle~2",
             "operatedBy": "o-drt3p-massport",
             "properties": {},
             "serves": [
                 "s-drt3pdjdsb-airportsubwaystation",
                 "s-drt2zxr7xh-loganaiportferryterminal"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.018648,
-                    42.361302
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-Logan-B",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "Logan-B",
-                        "stop_lat": "42.361302",
-                        "stop_lon": "-71.018648",
-                        "stop_name": "Logan Airport Terminal B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Logan Airport Terminal B",
-            "onestopId": "s-drt2zztu3x-loganairportterminalb",
-            "properties": {},
-            "servedBy": [
-                "o-drt3p-massport"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -71.029831,
-                            42.374699
-                        ],
-                        [
-                            -71.022093,
-                            42.364426
-                        ],
-                        [
-                            -71.018648,
-                            42.361302
-                        ],
-                        [
-                            -71.017957,
-                            42.367271
-                        ],
-                        [
-                            -71.020754,
-                            42.370022
-                        ],
-                        [
-                            -71.029831,
-                            42.374699
-                        ]
-                    ],
-                    []
-                ],
-                "type": "MultiLineString"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-r-Logan-55",
-                    "tags": {
-                        "agency_id": "2",
-                        "route_color": "",
-                        "route_desc": "Airport Shuttle",
-                        "route_id": "Logan-55",
-                        "route_long_name": "Massport Subway Shuttle (55)",
-                        "route_short_name": "Shuttle",
-                        "route_sort_order": "2000055",
-                        "route_text_color": "",
-                        "route_type": "3",
-                        "route_url": ""
-                    }
-                }
-            ],
-            "name": "Shuttle",
-            "onestopId": "r-drt3p-shuttle",
-            "operatedBy": "o-drt3p-massport",
-            "properties": {},
-            "serves": [
-                "s-drt3pdjdsb-airportsubwaystation",
-                "s-drt3pchr22-loganairportterminale",
-                "s-drt3pbwr1x-loganairportterminalc",
-                "s-drt3pb5q9m-loganairportterminala",
-                "s-drt2zztu3x-loganairportterminalb"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.02734,
-                    42.359789
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mbta-s-Logan-Dock",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "Logan-Dock",
-                        "stop_lat": "42.359789",
-                        "stop_lon": "-71.027340",
-                        "stop_name": "Logan Aiport Ferry Terminal",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Logan Aiport Ferry Terminal",
-            "onestopId": "s-drt2zxr7xh-loganaiportferryterminal",
-            "properties": {},
-            "servedBy": [
-                "o-drt3p-massport"
             ],
             "tags": {},
             "type": "Feature"
@@ -399,14 +294,84 @@
                     }
                 }
             ],
-            "name": "Shuttle~2",
-            "onestopId": "r-drt3p-shuttle~2",
+            "name": "Shuttle",
+            "onestopId": "r-drt3p-shuttle",
             "operatedBy": "o-drt3p-massport",
             "properties": {},
             "serves": [
                 "s-drt3pdjdsb-airportsubwaystation",
                 "s-drt3pb5q9m-loganairportterminala",
                 "s-drt2zztu3x-loganairportterminalb"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.018648,
+                    42.361302
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-Logan-B",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "Logan-B",
+                        "stop_lat": "42.361302",
+                        "stop_lon": "-71.018648",
+                        "stop_name": "Logan Airport Terminal B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Logan Airport Terminal B",
+            "onestopId": "s-drt2zztu3x-loganairportterminalb",
+            "properties": {},
+            "servedBy": [
+                "o-drt3p-massport"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.02734,
+                    42.359789
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-Logan-Dock",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "Logan-Dock",
+                        "stop_lat": "42.359789",
+                        "stop_lon": "-71.027340",
+                        "stop_name": "Logan Aiport Ferry Terminal",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Logan Aiport Ferry Terminal",
+            "onestopId": "s-drt2zxr7xh-loganaiportferryterminal",
+            "properties": {},
+            "servedBy": [
+                "o-drt3p-massport"
             ],
             "tags": {},
             "type": "Feature"
@@ -458,9 +423,9 @@
             "operatedBy": "o-drt3p-massport",
             "properties": {},
             "serves": [
-                "s-drt3pdjdsb-airportsubwaystation",
                 "s-drt3pchr22-loganairportterminale",
-                "s-drt3pbwr1x-loganairportterminalc"
+                "s-drt3pbwr1x-loganairportterminalc",
+                "s-drt3pdjdsb-airportsubwaystation"
             ],
             "tags": {},
             "type": "Feature"
@@ -468,31 +433,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.017957,
-                    42.367271
+                    -71.029831,
+                    42.374699
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mbta-s-Logan-C",
+                    "identifier": "f-mbta-s-Logan-Subway",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "Logan-C",
-                        "stop_lat": "42.367271",
-                        "stop_lon": "-71.017957",
-                        "stop_name": "Logan Airport Terminal C",
+                        "stop_id": "Logan-Subway",
+                        "stop_lat": "42.374699",
+                        "stop_lon": "-71.029831",
+                        "stop_name": "Airport Subway Station",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Logan Airport Terminal C",
-            "onestopId": "s-drt3pbwr1x-loganairportterminalc",
+            "name": "Airport Subway Station",
+            "onestopId": "s-drt3pdjdsb-airportsubwaystation",
+            "properties": {},
+            "servedBy": [
+                "o-drt3p-massport"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.022093,
+                    42.364426
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mbta-s-Logan-A",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "Logan-A",
+                        "stop_lat": "42.364426",
+                        "stop_lon": "-71.022093",
+                        "stop_name": "Logan Airport Terminal A",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Logan Airport Terminal A",
+            "onestopId": "s-drt3pb5q9m-loganairportterminala",
             "properties": {},
             "servedBy": [
                 "o-drt3p-massport"
@@ -501,6 +501,37 @@
             "type": "Feature"
         }
     ],
+    "geometry": {
+        "coordinates": [
+            [
+                [
+                    -71.029831,
+                    42.374699
+                ],
+                [
+                    -71.02734,
+                    42.359789
+                ],
+                [
+                    -71.018648,
+                    42.361302
+                ],
+                [
+                    -71.017957,
+                    42.367271
+                ],
+                [
+                    -71.020754,
+                    42.370022
+                ],
+                [
+                    -71.029831,
+                    42.374699
+                ]
+            ]
+        ],
+        "type": "Polygon"
+    },
     "identifiers": [
         {
             "identifier": "f-mbta-o-2",
@@ -518,12 +549,12 @@
     "onestopId": "o-drt3p-massport",
     "properties": {},
     "serves": [
-        "s-drt3pdjdsb-airportsubwaystation",
-        "s-drt3pchr22-loganairportterminale",
-        "s-drt2zztu3x-loganairportterminalb",
-        "s-drt3pbwr1x-loganairportterminalc",
         "s-drt3pb5q9m-loganairportterminala",
-        "s-drt2zxr7xh-loganaiportferryterminal"
+        "s-drt2zztu3x-loganairportterminalb",
+        "s-drt3pchr22-loganairportterminale",
+        "s-drt2zxr7xh-loganaiportferryterminal",
+        "s-drt3pdjdsb-airportsubwaystation",
+        "s-drt3pbwr1x-loganairportterminalc"
     ],
     "tags": {},
     "type": "FeatureCollection"

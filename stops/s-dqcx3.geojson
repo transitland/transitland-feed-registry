@@ -73,31 +73,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.566626,
-                    39.279415
+                    -76.58001,
+                    39.28608
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1306",
+                    "identifier": "f-mtamaryland-s-2045",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1306",
-                        "stop_desc": "CONKLING ST at ELLIOTT ST nb",
-                        "stop_id": "1306",
-                        "stop_lat": "39.279415",
-                        "stop_lon": "-76.566626",
-                        "stop_name": "CONKLING & ELLIOTT N/B",
+                        "stop_code": "2045",
+                        "stop_desc": "EASTERN AVE at LUZERNE AVE opp wb",
+                        "stop_id": "2045",
+                        "stop_lat": "39.28608",
+                        "stop_lon": "-76.58001",
+                        "stop_name": "EASTERN & LUZERNE OP W/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CONKLING & ELLIOTT N/B",
-            "onestopId": "s-dqcx3wtghm-conkling~elliottn~b",
+            "name": "EASTERN & LUZERNE OP W/B",
+            "onestopId": "s-dqcx3ru4h2-eastern~luzerneopw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -178,31 +178,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.594894,
-                    39.269281
+                    -76.571042,
+                    39.28026
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12459",
+                    "identifier": "f-mtamaryland-s-2422",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12459",
-                        "stop_desc": "",
-                        "stop_id": "12459",
-                        "stop_lat": "39.269281",
-                        "stop_lon": "-76.594894",
-                        "stop_name": "DUE FORT AVE & DECATUR ST eb",
+                        "stop_code": "2422",
+                        "stop_desc": "EAST AVE at O DONNELL ST nb",
+                        "stop_id": "2422",
+                        "stop_lat": "39.28026",
+                        "stop_lon": "-76.571042",
+                        "stop_name": "EAST & O'DONNELL N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DUE FORT AVE & DECATUR ST eb",
-            "onestopId": "s-dqcx3hc21s-duefort~decatureb",
+            "name": "EAST & O'DONNELL N/B",
+            "onestopId": "s-dqcx3wf8j7-east~odonnelln~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -283,31 +283,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.562452,
-                    39.286727
+                    -76.587097,
+                    39.284828
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1909",
+                    "identifier": "f-mtamaryland-s-11415",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1909",
-                        "stop_desc": "EASTERN AVE at HAVEN ST eb",
-                        "stop_id": "1909",
-                        "stop_lat": "39.286727",
-                        "stop_lon": "-76.562452",
-                        "stop_name": "EASTERN AVE & HAVEN ST E/B",
+                        "stop_code": "11415",
+                        "stop_desc": "FLEET ST at CHESTER ST fs wb",
+                        "stop_id": "11415",
+                        "stop_lat": "39.284828",
+                        "stop_lon": "-76.587097",
+                        "stop_name": "FLEET ST & CHESTER ST FS wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN AVE & HAVEN ST E/B",
-            "onestopId": "s-dqcx3zbvv8-eastern~havene~b",
+            "name": "FLEET ST & CHESTER ST FS wb",
+            "onestopId": "s-dqcx3pwfxq-fleet~chesterfswb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -353,6 +353,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.57272,
+                    39.282223
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1296",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1296",
+                        "stop_desc": "HUDSON ST at ELLWOOD AVE eb",
+                        "stop_id": "1296",
+                        "stop_lat": "39.282223",
+                        "stop_lon": "-76.57272",
+                        "stop_name": "HUDSON & ELLWOOD E/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "HUDSON & ELLWOOD E/B",
+            "onestopId": "s-dqcx3x17w3-hudson~ellwoode~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.565612,
                     39.280643
                 ],
@@ -378,41 +413,6 @@
             ],
             "name": "ODONNELL ST & DEAN ST wb",
             "onestopId": "s-dqcx3wyd7f-odonnell~deanwb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.571458,
-                    39.286331
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-2425",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2425",
-                        "stop_desc": "EAST AVE at EASTERN AVE nb",
-                        "stop_id": "2425",
-                        "stop_lat": "39.286331",
-                        "stop_lon": "-76.571458",
-                        "stop_name": "EAST & EASTERN N/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EAST & EASTERN N/B",
-            "onestopId": "s-dqcx3xf77w-east~easternn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -493,31 +493,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.58001,
-                    39.28608
+                    -76.566626,
+                    39.279415
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2045",
+                    "identifier": "f-mtamaryland-s-1306",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2045",
-                        "stop_desc": "EASTERN AVE at LUZERNE AVE opp wb",
-                        "stop_id": "2045",
-                        "stop_lat": "39.28608",
-                        "stop_lon": "-76.58001",
-                        "stop_name": "EASTERN & LUZERNE OP W/B",
+                        "stop_code": "1306",
+                        "stop_desc": "CONKLING ST at ELLIOTT ST nb",
+                        "stop_id": "1306",
+                        "stop_lat": "39.279415",
+                        "stop_lon": "-76.566626",
+                        "stop_name": "CONKLING & ELLIOTT N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN & LUZERNE OP W/B",
-            "onestopId": "s-dqcx3ru4h2-eastern~luzerneopw~b",
+            "name": "CONKLING & ELLIOTT N/B",
+            "onestopId": "s-dqcx3wtghm-conkling~elliottn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -808,41 +808,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.578653,
-                    39.286064
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-1897",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "1897",
-                        "stop_desc": "EASTERN AVE at LAKEWOOD AVE eb",
-                        "stop_id": "1897",
-                        "stop_lat": "39.286064",
-                        "stop_lon": "-76.578653",
-                        "stop_name": "EASTERN AVE & LAKEWOOD E/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EASTERN AVE & LAKEWOOD E/B",
-            "onestopId": "s-dqcx3rv1uj-eastern~lakewoode~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.574345,
                     39.2863
                 ],
@@ -903,41 +868,6 @@
             ],
             "name": "FAIT & LUZERNE E/B",
             "onestopId": "s-dqcx3rk0p8-fait~luzernee~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.593231,
-                    39.284548
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-11330",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11330",
-                        "stop_desc": "",
-                        "stop_id": "11330",
-                        "stop_lat": "39.284548",
-                        "stop_lon": "-76.593231",
-                        "stop_name": "FLEET ST & BROADWAY wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "FLEET ST & BROADWAY wb",
-            "onestopId": "s-dqcx3pd906-fleet~broadwaywb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1123,31 +1053,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.585658,
-                    39.283811
+                    -76.588824,
+                    39.28568
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-11414",
+                    "identifier": "f-mtamaryland-s-1892",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11414",
+                        "stop_code": "1892",
                         "stop_desc": "",
-                        "stop_id": "11414",
-                        "stop_lat": "39.283811",
-                        "stop_lon": "-76.585658",
-                        "stop_name": "BOSTON ST & ALICEANNA ST eb",
+                        "stop_id": "1892",
+                        "stop_lat": "39.28568",
+                        "stop_lon": "-76.588824",
+                        "stop_name": "EASTERN AVE & WASHINGTON ST eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BOSTON ST & ALICEANNA ST eb",
-            "onestopId": "s-dqcx3r2hbc-boston~aliceannaeb",
+            "name": "EASTERN AVE & WASHINGTON ST eb",
+            "onestopId": "s-dqcx3ptxxj-eastern~washingtoneb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1508,31 +1438,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.586971,
-                    39.285827
+                    -76.569885,
+                    39.286464
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12237",
+                    "identifier": "f-mtamaryland-s-8401",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12237",
-                        "stop_desc": "",
-                        "stop_id": "12237",
-                        "stop_lat": "39.285827",
-                        "stop_lon": "-76.586971",
-                        "stop_name": "EASTERN AVE & CHESTER ST wb",
+                        "stop_code": "8401",
+                        "stop_desc": "EASTERN AVE at CLINTON ST wb",
+                        "stop_id": "8401",
+                        "stop_lat": "39.286464",
+                        "stop_lon": "-76.569885",
+                        "stop_name": "EASTERN & CLINTON W/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN AVE & CHESTER ST wb",
-            "onestopId": "s-dqcx3pz0d0-eastern~chesterwb",
+            "name": "EASTERN & CLINTON W/B",
+            "onestopId": "s-dqcx3xgs0r-eastern~clintonw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1578,31 +1508,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.571042,
-                    39.28026
+                    -76.594894,
+                    39.269281
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2422",
+                    "identifier": "f-mtamaryland-s-12459",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2422",
-                        "stop_desc": "EAST AVE at O DONNELL ST nb",
-                        "stop_id": "2422",
-                        "stop_lat": "39.28026",
-                        "stop_lon": "-76.571042",
-                        "stop_name": "EAST & O'DONNELL N/B",
+                        "stop_code": "12459",
+                        "stop_desc": "",
+                        "stop_id": "12459",
+                        "stop_lat": "39.269281",
+                        "stop_lon": "-76.594894",
+                        "stop_name": "DUE FORT AVE & DECATUR ST eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EAST & O'DONNELL N/B",
-            "onestopId": "s-dqcx3wf8j7-east~odonnelln~b",
+            "name": "DUE FORT AVE & DECATUR ST eb",
+            "onestopId": "s-dqcx3hc21s-duefort~decatureb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1823,31 +1753,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.569885,
-                    39.286464
+                    -76.586971,
+                    39.285827
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-8401",
+                    "identifier": "f-mtamaryland-s-12237",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8401",
-                        "stop_desc": "EASTERN AVE at CLINTON ST wb",
-                        "stop_id": "8401",
-                        "stop_lat": "39.286464",
-                        "stop_lon": "-76.569885",
-                        "stop_name": "EASTERN & CLINTON W/B",
+                        "stop_code": "12237",
+                        "stop_desc": "",
+                        "stop_id": "12237",
+                        "stop_lat": "39.285827",
+                        "stop_lon": "-76.586971",
+                        "stop_name": "EASTERN AVE & CHESTER ST wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN & CLINTON W/B",
-            "onestopId": "s-dqcx3xgs0r-eastern~clintonw~b",
+            "name": "EASTERN AVE & CHESTER ST wb",
+            "onestopId": "s-dqcx3pz0d0-eastern~chesterwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1998,31 +1928,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.587097,
-                    39.284828
+                    -76.562452,
+                    39.286727
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-11415",
+                    "identifier": "f-mtamaryland-s-1909",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11415",
-                        "stop_desc": "FLEET ST at CHESTER ST fs wb",
-                        "stop_id": "11415",
-                        "stop_lat": "39.284828",
-                        "stop_lon": "-76.587097",
-                        "stop_name": "FLEET ST & CHESTER ST FS wb",
+                        "stop_code": "1909",
+                        "stop_desc": "EASTERN AVE at HAVEN ST eb",
+                        "stop_id": "1909",
+                        "stop_lat": "39.286727",
+                        "stop_lon": "-76.562452",
+                        "stop_name": "EASTERN AVE & HAVEN ST E/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "FLEET ST & CHESTER ST FS wb",
-            "onestopId": "s-dqcx3pwfxq-fleet~chesterfswb",
+            "name": "EASTERN AVE & HAVEN ST E/B",
+            "onestopId": "s-dqcx3zbvv8-eastern~havene~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2068,31 +1998,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.588718,
-                    39.28576
+                    -76.578653,
+                    39.286064
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2049",
+                    "identifier": "f-mtamaryland-s-1897",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2049",
-                        "stop_desc": "EASTERN AVE at WASHINGTON ST wb",
-                        "stop_id": "2049",
-                        "stop_lat": "39.28576",
-                        "stop_lon": "-76.588718",
-                        "stop_name": "EASTERN & WASHINGTON W/B",
+                        "stop_code": "1897",
+                        "stop_desc": "EASTERN AVE at LAKEWOOD AVE eb",
+                        "stop_id": "1897",
+                        "stop_lat": "39.286064",
+                        "stop_lon": "-76.578653",
+                        "stop_name": "EASTERN AVE & LAKEWOOD E/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN & WASHINGTON W/B",
-            "onestopId": "s-dqcx3pvb1s-eastern~washingtonw~b",
+            "name": "EASTERN AVE & LAKEWOOD E/B",
+            "onestopId": "s-dqcx3rv1uj-eastern~lakewoode~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2303,6 +2233,41 @@
             ],
             "name": "EAST & FAIT S/B",
             "onestopId": "s-dqcx3x66np-east~faits~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.590103,
+                    39.28562
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1891",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1891",
+                        "stop_desc": "",
+                        "stop_id": "1891",
+                        "stop_lat": "39.28562",
+                        "stop_lon": "-76.590103",
+                        "stop_name": "EASTERN AVE & WOLFE ST eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EASTERN AVE & WOLFE ST eb",
+            "onestopId": "s-dqcx3psz34-eastern~wolfeeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2803,31 +2768,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.590103,
-                    39.28562
+                    -76.593231,
+                    39.284548
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1891",
+                    "identifier": "f-mtamaryland-s-11330",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1891",
+                        "stop_code": "11330",
                         "stop_desc": "",
-                        "stop_id": "1891",
-                        "stop_lat": "39.28562",
-                        "stop_lon": "-76.590103",
-                        "stop_name": "EASTERN AVE & WOLFE ST eb",
+                        "stop_id": "11330",
+                        "stop_lat": "39.284548",
+                        "stop_lon": "-76.593231",
+                        "stop_name": "FLEET ST & BROADWAY wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN AVE & WOLFE ST eb",
-            "onestopId": "s-dqcx3psz34-eastern~wolfeeb",
+            "name": "FLEET ST & BROADWAY wb",
+            "onestopId": "s-dqcx3pd906-fleet~broadwaywb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3153,31 +3118,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.57272,
-                    39.282223
+                    -76.571458,
+                    39.286331
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1296",
+                    "identifier": "f-mtamaryland-s-2425",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1296",
-                        "stop_desc": "HUDSON ST at ELLWOOD AVE eb",
-                        "stop_id": "1296",
-                        "stop_lat": "39.282223",
-                        "stop_lon": "-76.57272",
-                        "stop_name": "HUDSON & ELLWOOD E/B",
+                        "stop_code": "2425",
+                        "stop_desc": "EAST AVE at EASTERN AVE nb",
+                        "stop_id": "2425",
+                        "stop_lat": "39.286331",
+                        "stop_lon": "-76.571458",
+                        "stop_name": "EAST & EASTERN N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HUDSON & ELLWOOD E/B",
-            "onestopId": "s-dqcx3x17w3-hudson~ellwoode~b",
+            "name": "EAST & EASTERN N/B",
+            "onestopId": "s-dqcx3xf77w-east~easternn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3328,6 +3293,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.588718,
+                    39.28576
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-2049",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2049",
+                        "stop_desc": "EASTERN AVE at WASHINGTON ST wb",
+                        "stop_id": "2049",
+                        "stop_lat": "39.28576",
+                        "stop_lon": "-76.588718",
+                        "stop_name": "EASTERN & WASHINGTON W/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EASTERN & WASHINGTON W/B",
+            "onestopId": "s-dqcx3pvb1s-eastern~washingtonw~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.566736,
                     39.281441
                 ],
@@ -3363,31 +3363,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.588824,
-                    39.28568
+                    -76.585658,
+                    39.283811
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1892",
+                    "identifier": "f-mtamaryland-s-11414",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1892",
+                        "stop_code": "11414",
                         "stop_desc": "",
-                        "stop_id": "1892",
-                        "stop_lat": "39.28568",
-                        "stop_lon": "-76.588824",
-                        "stop_name": "EASTERN AVE & WASHINGTON ST eb",
+                        "stop_id": "11414",
+                        "stop_lat": "39.283811",
+                        "stop_lon": "-76.585658",
+                        "stop_name": "BOSTON ST & ALICEANNA ST eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EASTERN AVE & WASHINGTON ST eb",
-            "onestopId": "s-dqcx3ptxxj-eastern~washingtoneb",
+            "name": "BOSTON ST & ALICEANNA ST eb",
+            "onestopId": "s-dqcx3r2hbc-boston~aliceannaeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

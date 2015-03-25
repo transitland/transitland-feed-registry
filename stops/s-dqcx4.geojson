@@ -143,6 +143,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.509688,
+                    39.238641
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-12235",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12235",
+                        "stop_desc": "NEW PITTSBURG AVE at MAIN ST nb",
+                        "stop_id": "12235",
+                        "stop_lat": "39.238641",
+                        "stop_lon": "-76.509688",
+                        "stop_name": "NEW PITTSBURGH & MAIN nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NEW PITTSBURGH & MAIN nb",
+            "onestopId": "s-dqcx4zpmeh-newpittsburgh~mainnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.509267,
                     39.242278
                 ],
@@ -178,31 +213,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.512711,
-                    39.24302
+                    -76.510823,
+                    39.240156
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1940",
+                    "identifier": "f-mtamaryland-s-1984",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1940",
-                        "stop_desc": "MAIN ST at AVON BEACH RD nb",
-                        "stop_id": "1940",
-                        "stop_lat": "39.24302",
-                        "stop_lon": "-76.512711",
-                        "stop_name": "MAIN & AVON BEACH N/B",
+                        "stop_code": "1984",
+                        "stop_desc": "MAIN ST at ASH AVE sb",
+                        "stop_id": "1984",
+                        "stop_lat": "39.240156",
+                        "stop_lon": "-76.510823",
+                        "stop_name": "MAIN & ASH S/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MAIN & AVON BEACH N/B",
-            "onestopId": "s-dqcx4zvpht-main~avonbeachn~b",
+            "name": "MAIN & ASH S/B",
+            "onestopId": "s-dqcx4zqw2x-main~ashs~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -283,66 +318,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.510823,
-                    39.240156
+                    -76.512711,
+                    39.24302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1984",
+                    "identifier": "f-mtamaryland-s-1940",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1984",
-                        "stop_desc": "MAIN ST at ASH AVE sb",
-                        "stop_id": "1984",
-                        "stop_lat": "39.240156",
-                        "stop_lon": "-76.510823",
-                        "stop_name": "MAIN & ASH S/B",
+                        "stop_code": "1940",
+                        "stop_desc": "MAIN ST at AVON BEACH RD nb",
+                        "stop_id": "1940",
+                        "stop_lat": "39.24302",
+                        "stop_lon": "-76.512711",
+                        "stop_name": "MAIN & AVON BEACH N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "MAIN & ASH S/B",
-            "onestopId": "s-dqcx4zqw2x-main~ashs~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.509688,
-                    39.238641
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-12235",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "12235",
-                        "stop_desc": "NEW PITTSBURG AVE at MAIN ST nb",
-                        "stop_id": "12235",
-                        "stop_lat": "39.238641",
-                        "stop_lon": "-76.509688",
-                        "stop_name": "NEW PITTSBURGH & MAIN nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NEW PITTSBURGH & MAIN nb",
-            "onestopId": "s-dqcx4zpmeh-newpittsburgh~mainnb",
+            "name": "MAIN & AVON BEACH N/B",
+            "onestopId": "s-dqcx4zvpht-main~avonbeachn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

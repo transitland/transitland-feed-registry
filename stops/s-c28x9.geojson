@@ -3,6 +3,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.976833,
+                    49.168595
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11613",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61558",
+                        "stop_desc": "WESTMINSTER HWY @ HWY 91 OFFRAMP",
+                        "stop_id": "11613",
+                        "stop_lat": "49.168595",
+                        "stop_lon": "-122.976833",
+                        "stop_name": "WB WESTMINSTER HWY FS HWY 91 OFFRAMP",
+                        "stop_url": "",
+                        "zone_id": "ZN 2"
+                    }
+                }
+            ],
+            "name": "WB WESTMINSTER HWY FS HWY 91 OFFRAMP",
+            "onestopId": "s-c28x9wg5b4-wbwestminsterfs91offramp",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.959121,
                     49.15343
                 ],
@@ -37,30 +71,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.976833,
-                    49.168595
+                    -122.959161,
+                    49.153266
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11613",
+                    "identifier": "f-translink-s-4908",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61558",
-                        "stop_desc": "WESTMINSTER HWY @ HWY 91 OFFRAMP",
-                        "stop_id": "11613",
-                        "stop_lat": "49.168595",
-                        "stop_lon": "-122.976833",
-                        "stop_name": "WB WESTMINSTER HWY FS HWY 91 OFFRAMP",
+                        "stop_code": "54856",
+                        "stop_desc": "RIVER RD @ 9500 BLOCK",
+                        "stop_id": "4908",
+                        "stop_lat": "49.153266",
+                        "stop_lon": "-122.959161",
+                        "stop_name": "EB RIVER RD AT 9500 BLOCK",
                         "stop_url": "",
-                        "zone_id": "ZN 2"
+                        "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB WESTMINSTER HWY FS HWY 91 OFFRAMP",
-            "onestopId": "s-c28x9wg5b4-wbwestminsterfs91offramp",
+            "name": "EB RIVER RD AT 9500 BLOCK",
+            "onestopId": "s-c28x9upfeb-ebriverat9500block",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -581,30 +615,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.959161,
-                    49.153266
+                    -122.961357,
+                    49.162254
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-4908",
+                    "identifier": "f-translink-s-2368",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "54856",
-                        "stop_desc": "RIVER RD @ 9500 BLOCK",
-                        "stop_id": "4908",
-                        "stop_lat": "49.153266",
-                        "stop_lon": "-122.959161",
-                        "stop_name": "EB RIVER RD AT 9500 BLOCK",
+                        "stop_code": "52344",
+                        "stop_desc": "DERWENT WAY @ EATON WAY",
+                        "stop_id": "2368",
+                        "stop_lat": "49.162254",
+                        "stop_lon": "-122.961357",
+                        "stop_name": "EB DERWENT WAY FS EATON WAY",
                         "stop_url": "",
-                        "zone_id": "ZN 3"
+                        "zone_id": "ZN2/3"
                     }
                 }
             ],
-            "name": "EB RIVER RD AT 9500 BLOCK",
-            "onestopId": "s-c28x9upfeb-ebriverat9500block",
+            "name": "EB DERWENT WAY FS EATON WAY",
+            "onestopId": "s-c28x9vwqbs-ebderwentfseaton",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1251,40 +1285,6 @@
             ],
             "name": "SB CLIVEDEN AV AT 1600 BLOCK",
             "onestopId": "s-c28x9tyqj6-sbclivedenat1600block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.961357,
-                    49.162254
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-2368",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "52344",
-                        "stop_desc": "DERWENT WAY @ EATON WAY",
-                        "stop_id": "2368",
-                        "stop_lat": "49.162254",
-                        "stop_lon": "-122.961357",
-                        "stop_name": "EB DERWENT WAY FS EATON WAY",
-                        "stop_url": "",
-                        "zone_id": "ZN2/3"
-                    }
-                }
-            ],
-            "name": "EB DERWENT WAY FS EATON WAY",
-            "onestopId": "s-c28x9vwqbs-ebderwentfseaton",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

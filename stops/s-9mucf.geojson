@@ -183,42 +183,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.961751177,
-                    32.6567138139
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-99214",
-                    "tags": {
-                        "intersection_code": "M-Street-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "99214",
-                        "stop_id": "99214",
-                        "stop_lat": "32.6567138139",
-                        "stop_lon": "-116.961751177",
-                        "stop_name": "Lane Av & Mackenzie Creek Rd",
-                        "stop_name_short": "Lane&Mackenzie Creek",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Lane Av & Mackenzie Creek Rd",
-            "onestopId": "s-9mucf2zp1s-~mackenziecreek",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -116.967808905,
                     32.6549114179
                 ],
@@ -327,32 +291,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.962467932,
-                    32.6553491813
+                    -116.961751177,
+                    32.6567138139
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-99058",
+                    "identifier": "f-mtssandiego-s-99214",
                     "tags": {
-                        "intersection_code": "N-E/B",
+                        "intersection_code": "M-Street-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "99058",
-                        "stop_id": "99058",
-                        "stop_lat": "32.6553491813",
-                        "stop_lon": "-116.962467932",
-                        "stop_name": "Boswell Rd & Lane Av",
-                        "stop_name_short": "Boswell&Lane",
-                        "stop_place": "boslan",
+                        "stop_code": "99214",
+                        "stop_id": "99214",
+                        "stop_lat": "32.6567138139",
+                        "stop_lon": "-116.961751177",
+                        "stop_name": "Lane Av & Mackenzie Creek Rd",
+                        "stop_name_short": "Lane&Mackenzie Creek",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Boswell Rd & Lane Av",
-            "onestopId": "s-9mucf2wx0y-boswell~",
+            "name": "Lane Av & Mackenzie Creek Rd",
+            "onestopId": "s-9mucf2zp1s-~mackenziecreek",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -605,6 +569,42 @@
             ],
             "name": "Proctor Valley Rd & Rocking Horse Dr",
             "onestopId": "s-9mucf65bcn-proctorvalley~rockinghorse",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.962467932,
+                    32.6553491813
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-99058",
+                    "tags": {
+                        "intersection_code": "N-E/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "99058",
+                        "stop_id": "99058",
+                        "stop_lat": "32.6553491813",
+                        "stop_lon": "-116.962467932",
+                        "stop_name": "Boswell Rd & Lane Av",
+                        "stop_name_short": "Boswell&Lane",
+                        "stop_place": "boslan",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Boswell Rd & Lane Av",
+            "onestopId": "s-9mucf2wx0y-boswell~",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

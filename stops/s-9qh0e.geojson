@@ -139,30 +139,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.989693,
-                    33.846607
+                    -117.980812,
+                    33.85862
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-lacmta-s-2775",
+                    "identifier": "f-lacmta-s-2097",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2775",
+                        "stop_code": "2097",
                         "stop_desc": "",
-                        "stop_id": "2775",
-                        "stop_lat": "33.846607",
-                        "stop_lon": "-117.989693",
-                        "stop_name": "North Entry Buena Park Mall",
+                        "stop_id": "2097",
+                        "stop_lat": "33.85862",
+                        "stop_lon": "-117.980812",
+                        "stop_name": "Fullerton Park & Ride Dock 14",
                         "stop_url": "",
                         "tpis_name": ""
                     }
                 }
             ],
-            "name": "North Entry Buena Park Mall",
-            "onestopId": "s-9qh0e1ddbb-northentrybuenaparkmall",
+            "name": "Fullerton Park & Ride Dock 14",
+            "onestopId": "s-9qh0e7bbzb-fullertonpark~ridedock14",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -207,6 +207,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -117.989693,
+                    33.846607
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-2775",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2775",
+                        "stop_desc": "",
+                        "stop_id": "2775",
+                        "stop_lat": "33.846607",
+                        "stop_lon": "-117.989693",
+                        "stop_name": "North Entry Buena Park Mall",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "North Entry Buena Park Mall",
+            "onestopId": "s-9qh0e1ddbb-northentrybuenaparkmall",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -117.977882,
                     33.846722
                 ],
@@ -231,74 +265,6 @@
             ],
             "name": "La Palma / Woodland",
             "onestopId": "s-9qh0e3e5kn-lapalma~woodland",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.980812,
-                    33.85862
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-2097",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2097",
-                        "stop_desc": "",
-                        "stop_id": "2097",
-                        "stop_lat": "33.85862",
-                        "stop_lon": "-117.980812",
-                        "stop_name": "Fullerton Park & Ride Dock 14",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "Fullerton Park & Ride Dock 14",
-            "onestopId": "s-9qh0e7bbzb-fullertonpark~ridedock14",
-            "properties": {},
-            "servedBy": [
-                "o-9q5-metrolosangeles"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -117.985512,
-                    33.846649
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-lacmta-s-2774",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2774",
-                        "stop_desc": "",
-                        "stop_id": "2774",
-                        "stop_lat": "33.846649",
-                        "stop_lon": "-117.985512",
-                        "stop_name": "La Palma / Dale",
-                        "stop_url": "",
-                        "tpis_name": ""
-                    }
-                }
-            ],
-            "name": "La Palma / Dale",
-            "onestopId": "s-9qh0e1te42-lapalma~dale",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"
@@ -367,6 +333,40 @@
             ],
             "name": "Magnolia / Woodland",
             "onestopId": "s-9qh0e6h796-magnolia~woodland",
+            "properties": {},
+            "servedBy": [
+                "o-9q5-metrolosangeles"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.985512,
+                    33.846649
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-lacmta-s-2774",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2774",
+                        "stop_desc": "",
+                        "stop_id": "2774",
+                        "stop_lat": "33.846649",
+                        "stop_lon": "-117.985512",
+                        "stop_name": "La Palma / Dale",
+                        "stop_url": "",
+                        "tpis_name": ""
+                    }
+                }
+            ],
+            "name": "La Palma / Dale",
+            "onestopId": "s-9qh0e1te42-lapalma~dale",
             "properties": {},
             "servedBy": [
                 "o-9q5-metrolosangeles"

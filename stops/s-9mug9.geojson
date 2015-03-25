@@ -3,42 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.023538171,
-                    33.0024113643
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-40797",
-                    "tags": {
-                        "intersection_code": "F-N/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "40797",
-                        "stop_id": "40797",
-                        "stop_lat": "33.0024113643",
-                        "stop_lon": "-117.023538171",
-                        "stop_name": "Espola Rd & Sandhill Rd",
-                        "stop_name_short": "Espola&Sandhill",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Espola Rd & Sandhill Rd",
-            "onestopId": "s-9mug9pfhcz-espola~sandhill",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.023427612,
                     32.9965220791
                 ],
@@ -65,6 +29,42 @@
             ],
             "name": "Espola Rd & Eden Grove (Poway Hs)",
             "onestopId": "s-9mug9nf4sm-espola~edengrovepowayhs",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.023538171,
+                    33.0024113643
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40797",
+                    "tags": {
+                        "intersection_code": "F-N/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "40797",
+                        "stop_id": "40797",
+                        "stop_lat": "33.0024113643",
+                        "stop_lon": "-117.023538171",
+                        "stop_name": "Espola Rd & Sandhill Rd",
+                        "stop_name_short": "Espola&Sandhill",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Espola Rd & Sandhill Rd",
+            "onestopId": "s-9mug9pfhcz-espola~sandhill",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -111,32 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.024343332,
-                    32.9897715974
+                    -117.016270871,
+                    32.9597782814
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40793",
+                    "identifier": "f-mtssandiego-s-40027",
                     "tags": {
-                        "intersection_code": "F-N/B",
+                        "intersection_code": "N-E/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40793",
-                        "stop_id": "40793",
-                        "stop_lat": "32.9897715974",
-                        "stop_lon": "-117.024343332",
-                        "stop_name": "Espola Rd & High Valley Rd",
-                        "stop_name_short": "Espola&High Vly",
+                        "stop_code": "40027",
+                        "stop_id": "40027",
+                        "stop_lat": "32.9597782814",
+                        "stop_lon": "-117.016270871",
+                        "stop_name": "Bowdoin Rd & Ogunquit Ave",
+                        "stop_name_short": "Bowdoin&Ogunquite",
                         "stop_place": "",
                         "wheelchair_boarding": "2"
                     }
                 }
             ],
-            "name": "Espola Rd & High Valley Rd",
-            "onestopId": "s-9mug9j97r5-espola~highvalley",
+            "name": "Bowdoin Rd & Ogunquit Ave",
+            "onestopId": "s-9mug90pke7-bowdoin~ogunquit",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -255,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.016270871,
-                    32.9597782814
+                    -117.024343332,
+                    32.9897715974
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40027",
+                    "identifier": "f-mtssandiego-s-40793",
                     "tags": {
-                        "intersection_code": "N-E/B",
+                        "intersection_code": "F-N/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "40027",
-                        "stop_id": "40027",
-                        "stop_lat": "32.9597782814",
-                        "stop_lon": "-117.016270871",
-                        "stop_name": "Bowdoin Rd & Ogunquit Ave",
-                        "stop_name_short": "Bowdoin&Ogunquite",
+                        "stop_code": "40793",
+                        "stop_id": "40793",
+                        "stop_lat": "32.9897715974",
+                        "stop_lon": "-117.024343332",
+                        "stop_name": "Espola Rd & High Valley Rd",
+                        "stop_name_short": "Espola&High Vly",
                         "stop_place": "",
                         "wheelchair_boarding": "2"
                     }
                 }
             ],
-            "name": "Bowdoin Rd & Ogunquit Ave",
-            "onestopId": "s-9mug90pke7-bowdoin~ogunquit",
+            "name": "Espola Rd & High Valley Rd",
+            "onestopId": "s-9mug9j97r5-espola~highvalley",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

@@ -255,32 +255,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.770404,
-                    45.496454
+                    -122.752358,
+                    45.501681
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-12406",
+                    "identifier": "f-trimet-s-885",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "12406",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 12406)",
-                        "stop_id": "12406",
-                        "stop_lat": "45.496454",
-                        "stop_lon": "-122.770404",
-                        "stop_name": "SW Canyon & 91st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12406",
+                        "position": "Nearside",
+                        "stop_code": "885",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 885)",
+                        "stop_id": "885",
+                        "stop_lat": "45.501681",
+                        "stop_lon": "-122.752358",
+                        "stop_name": "SW Canyon & Benz Park",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=885",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Canyon & 91st",
-            "onestopId": "s-c20dy63k41-swcanyon~91st",
+            "name": "SW Canyon & Benz Park",
+            "onestopId": "s-c20dyeq6w8-swcanyon~benzpark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -435,32 +435,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.781084,
-                    45.509903
+                    -122.740589,
+                    45.49087
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9971",
+                    "identifier": "f-trimet-s-2463",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "9971",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 9971)",
-                        "stop_id": "9971",
-                        "stop_lat": "45.509903",
-                        "stop_lon": "-122.781084",
-                        "stop_name": "Sunset Transit Center ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9971",
+                        "position": "Nearside",
+                        "stop_code": "2463",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2463)",
+                        "stop_id": "2463",
+                        "stop_lat": "45.49087",
+                        "stop_lon": "-122.740589",
+                        "stop_name": "SW Hamilton & Semler Way",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2463",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Sunset Transit Center ",
-            "onestopId": "s-c20dyhcd3k-sunsettransit",
+            "name": "SW Hamilton & Semler Way",
+            "onestopId": "s-c20dycr58b-swhamilton~semler",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -579,32 +579,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.7708,
-                    45.508719
+                    -122.761143,
+                    45.486134
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-241",
+                    "identifier": "f-trimet-s-347",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "241",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 241)",
-                        "stop_id": "241",
-                        "stop_lat": "45.508719",
-                        "stop_lon": "-122.7708",
-                        "stop_name": "SW Barnes & Monterey",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=241",
+                        "stop_code": "347",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 347)",
+                        "stop_id": "347",
+                        "stop_lat": "45.486134",
+                        "stop_lon": "-122.761143",
+                        "stop_name": "SW Beaverton-Hillsdale & Laurelwood",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=347",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Barnes & Monterey",
-            "onestopId": "s-c20dyk9590-swbarnes~monterey",
+            "name": "SW Beaverton-Hillsdale & Laurelwood",
+            "onestopId": "s-c20dy82pfj-swbeavertonhillsdale~laurelwood",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -641,6 +641,42 @@
             ],
             "name": "SW Canyon & 96th",
             "onestopId": "s-c20dy1vtvn-swcanyon~96th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.767752,
+                    45.486239
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-345",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "345",
+                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 345)",
+                        "stop_id": "345",
+                        "stop_lat": "45.486239",
+                        "stop_lon": "-122.767752",
+                        "stop_name": "SW Beaverton-Hillsdale & White Pine Ln",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=345",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Beaverton-Hillsdale & White Pine Ln",
+            "onestopId": "s-c20dy2e281-swbeavertonhillsdale~whitepine",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1011,32 +1047,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.746984,
-                    45.487558
+                    -122.757731,
+                    45.490977
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5199",
+                    "identifier": "f-trimet-s-595",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "5199",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 5199)",
-                        "stop_id": "5199",
-                        "stop_lat": "45.487558",
-                        "stop_lon": "-122.746984",
-                        "stop_name": "4400 Block SW Scholls Ferry",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5199",
+                        "position": "Nearside",
+                        "stop_code": "595",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 595)",
+                        "stop_id": "595",
+                        "stop_lat": "45.490977",
+                        "stop_lon": "-122.757731",
+                        "stop_name": "SW Brentwood & 78th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=595",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "4400 Block SW Scholls Ferry",
-            "onestopId": "s-c20dybf25z-4400blockswschollsferry",
+            "name": "SW Brentwood & 78th",
+            "onestopId": "s-c20dy96s1s-swbrentwood~78th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1587,42 +1623,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.74395,
-                    45.487217
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-384",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "384",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 384)",
-                        "stop_id": "384",
-                        "stop_lat": "45.487217",
-                        "stop_lon": "-122.74395",
-                        "stop_name": "SW Beaverton-Hillsdale & 65th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=384",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Beaverton-Hillsdale & 65th",
-            "onestopId": "s-c20dybsw4x-swbeavertonhillsdale~65th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.764288,
                     45.486149
                 ],
@@ -1695,32 +1695,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.76171,
-                    45.509866
+                    -122.780773,
+                    45.523199
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-230",
+                    "identifier": "f-trimet-s-3379",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "230",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 230)",
-                        "stop_id": "230",
-                        "stop_lat": "45.509866",
-                        "stop_lon": "-122.76171",
-                        "stop_name": "8200 Block SW Barnes (Art School)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=230",
+                        "stop_code": "3379",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 3379)",
+                        "stop_id": "3379",
+                        "stop_lat": "45.523199",
+                        "stop_lon": "-122.780773",
+                        "stop_name": "NW Leahy & 101st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3379",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "8200 Block SW Barnes (Art School)",
-            "onestopId": "s-c20dykzdhv-8200blockswbarnesartschool",
+            "name": "NW Leahy & 101st",
+            "onestopId": "s-c20dyp1zbe-nwleahy~101st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1793,6 +1793,42 @@
             ],
             "name": "SW Canyon & Canyon Crest",
             "onestopId": "s-c20dyg8v24-swcanyon~canyoncrest",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.773096,
+                    45.515915
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13263",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "13263",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 13263)",
+                        "stop_id": "13263",
+                        "stop_lat": "45.515915",
+                        "stop_lon": "-122.773096",
+                        "stop_name": "9300 Block SW Taylor",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13263",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "9300 Block SW Taylor",
+            "onestopId": "s-c20dyjzm7t-9300blockswtaylor",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1947,32 +1983,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.761143,
-                    45.486134
+                    -122.7708,
+                    45.508719
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-347",
+                    "identifier": "f-trimet-s-241",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "347",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 347)",
-                        "stop_id": "347",
-                        "stop_lat": "45.486134",
-                        "stop_lon": "-122.761143",
-                        "stop_name": "SW Beaverton-Hillsdale & Laurelwood",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=347",
+                        "stop_code": "241",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 241)",
+                        "stop_id": "241",
+                        "stop_lat": "45.508719",
+                        "stop_lon": "-122.7708",
+                        "stop_name": "SW Barnes & Monterey",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=241",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Beaverton-Hillsdale & Laurelwood",
-            "onestopId": "s-c20dy82pfj-swbeavertonhillsdale~laurelwood",
+            "name": "SW Barnes & Monterey",
+            "onestopId": "s-c20dyk9590-swbarnes~monterey",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2199,32 +2235,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.773096,
-                    45.515915
+                    -122.756658,
+                    45.488423
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13263",
+                    "identifier": "f-trimet-s-9761",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13263",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 13263)",
-                        "stop_id": "13263",
-                        "stop_lat": "45.515915",
-                        "stop_lon": "-122.773096",
-                        "stop_name": "9300 Block SW Taylor",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13263",
+                        "position": "Farside",
+                        "stop_code": "9761",
+                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 9761)",
+                        "stop_id": "9761",
+                        "stop_lat": "45.488423",
+                        "stop_lon": "-122.756658",
+                        "stop_name": "SW 78th & Westmoor",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9761",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "9300 Block SW Taylor",
-            "onestopId": "s-c20dyjzm7t-9300blockswtaylor",
+            "name": "SW 78th & Westmoor",
+            "onestopId": "s-c20dy8gm68-sw78th~westmoor",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2307,32 +2343,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.767752,
-                    45.486239
+                    -122.770404,
+                    45.496454
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-345",
+                    "identifier": "f-trimet-s-12406",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "345",
-                        "stop_desc": "Eastbound stop in Beaverton (Stop ID 345)",
-                        "stop_id": "345",
-                        "stop_lat": "45.486239",
-                        "stop_lon": "-122.767752",
-                        "stop_name": "SW Beaverton-Hillsdale & White Pine Ln",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=345",
+                        "position": "Opposite",
+                        "stop_code": "12406",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 12406)",
+                        "stop_id": "12406",
+                        "stop_lat": "45.496454",
+                        "stop_lon": "-122.770404",
+                        "stop_name": "SW Canyon & 91st",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12406",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Beaverton-Hillsdale & White Pine Ln",
-            "onestopId": "s-c20dy2e281-swbeavertonhillsdale~whitepine",
+            "name": "SW Canyon & 91st",
+            "onestopId": "s-c20dy63k41-swcanyon~91st",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2441,42 +2477,6 @@
             ],
             "name": "9300 Block SW Taylor",
             "onestopId": "s-c20dyjzn14-9300blockswtaylor",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.752358,
-                    45.501681
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-885",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "885",
-                        "stop_desc": "Westbound stop in Beaverton (Stop ID 885)",
-                        "stop_id": "885",
-                        "stop_lat": "45.501681",
-                        "stop_lon": "-122.752358",
-                        "stop_name": "SW Canyon & Benz Park",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=885",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Canyon & Benz Park",
-            "onestopId": "s-c20dyeq6w8-swcanyon~benzpark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3063,32 +3063,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.780773,
-                    45.523199
+                    -122.76171,
+                    45.509866
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3379",
+                    "identifier": "f-trimet-s-230",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "3379",
-                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 3379)",
-                        "stop_id": "3379",
-                        "stop_lat": "45.523199",
-                        "stop_lon": "-122.780773",
-                        "stop_name": "NW Leahy & 101st",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3379",
+                        "stop_code": "230",
+                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 230)",
+                        "stop_id": "230",
+                        "stop_lat": "45.509866",
+                        "stop_lon": "-122.76171",
+                        "stop_name": "8200 Block SW Barnes (Art School)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=230",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Leahy & 101st",
-            "onestopId": "s-c20dyp1zbe-nwleahy~101st",
+            "name": "8200 Block SW Barnes (Art School)",
+            "onestopId": "s-c20dykzdhv-8200blockswbarnesartschool",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3711,32 +3711,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.757731,
-                    45.490977
+                    -122.746984,
+                    45.487558
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-595",
+                    "identifier": "f-trimet-s-5199",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "595",
-                        "stop_desc": "Eastbound stop in Washington Co. (Stop ID 595)",
-                        "stop_id": "595",
-                        "stop_lat": "45.490977",
-                        "stop_lon": "-122.757731",
-                        "stop_name": "SW Brentwood & 78th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=595",
+                        "position": "At",
+                        "stop_code": "5199",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 5199)",
+                        "stop_id": "5199",
+                        "stop_lat": "45.487558",
+                        "stop_lon": "-122.746984",
+                        "stop_name": "4400 Block SW Scholls Ferry",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5199",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Brentwood & 78th",
-            "onestopId": "s-c20dy96s1s-swbrentwood~78th",
+            "name": "4400 Block SW Scholls Ferry",
+            "onestopId": "s-c20dybf25z-4400blockswschollsferry",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3855,32 +3855,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.740589,
-                    45.49087
+                    -122.781084,
+                    45.509903
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2463",
+                    "identifier": "f-trimet-s-9971",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2463",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2463)",
-                        "stop_id": "2463",
-                        "stop_lat": "45.49087",
-                        "stop_lon": "-122.740589",
-                        "stop_name": "SW Hamilton & Semler Way",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2463",
+                        "position": "At",
+                        "stop_code": "9971",
+                        "stop_desc": "Westbound stop in Beaverton (Stop ID 9971)",
+                        "stop_id": "9971",
+                        "stop_lat": "45.509903",
+                        "stop_lon": "-122.781084",
+                        "stop_name": "Sunset Transit Center ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9971",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Hamilton & Semler Way",
-            "onestopId": "s-c20dycr58b-swhamilton~semler",
+            "name": "Sunset Transit Center ",
+            "onestopId": "s-c20dyhcd3k-sunsettransit",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4035,32 +4035,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.756658,
-                    45.488423
+                    -122.74395,
+                    45.487217
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9761",
+                    "identifier": "f-trimet-s-384",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9761",
-                        "stop_desc": "Northbound stop in Washington Co. (Stop ID 9761)",
-                        "stop_id": "9761",
-                        "stop_lat": "45.488423",
-                        "stop_lon": "-122.756658",
-                        "stop_name": "SW 78th & Westmoor",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9761",
+                        "position": "Opposite",
+                        "stop_code": "384",
+                        "stop_desc": "Westbound stop in Washington Co. (Stop ID 384)",
+                        "stop_id": "384",
+                        "stop_lat": "45.487217",
+                        "stop_lon": "-122.74395",
+                        "stop_name": "SW Beaverton-Hillsdale & 65th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=384",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 78th & Westmoor",
-            "onestopId": "s-c20dy8gm68-sw78th~westmoor",
+            "name": "SW Beaverton-Hillsdale & 65th",
+            "onestopId": "s-c20dybsw4x-swbeavertonhillsdale~65th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

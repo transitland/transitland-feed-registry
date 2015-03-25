@@ -175,20 +175,6 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30188",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40970",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30188",
-                        "stop_lat": "41.871574",
-                        "stop_lon": "-87.745154",
-                        "stop_name": "Cicero-Forest Park",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
                     "identifier": "f-cta-s-30187",
                     "tags": {
                         "location_type": "0",
@@ -196,6 +182,20 @@
                         "stop_code": "",
                         "stop_desc": "",
                         "stop_id": "30187",
+                        "stop_lat": "41.871574",
+                        "stop_lon": "-87.745154",
+                        "stop_name": "Cicero-Forest Park",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30188",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40970",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30188",
                         "stop_lat": "41.871574",
                         "stop_lon": "-87.745154",
                         "stop_name": "Cicero-Forest Park",
@@ -809,39 +809,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.72282126,
-                    41.86611509
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-274",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "274",
-                        "stop_desc": "Roosevelt & Springfield, Eastbound, Southwest Corner",
-                        "stop_id": "274",
-                        "stop_lat": "41.86611509",
-                        "stop_lon": "-87.72282126",
-                        "stop_name": "Roosevelt & Springfield",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Roosevelt & Springfield",
-            "onestopId": "s-dp3w5v6py1-roosevelt~springfield",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.75503688,
                     41.87678668
                 ],
@@ -908,62 +875,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.72569191,
-                    41.83672961
+                    -87.72570517,
+                    41.87903084
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9063",
+                    "identifier": "f-cta-s-9035",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9063",
-                        "stop_desc": "31st Street & Komensky Terminal, Northbound, Bus Terminal",
-                        "stop_id": "9063",
-                        "stop_lat": "41.83672961",
-                        "stop_lon": "-87.72569191",
-                        "stop_name": "31st Street & Komensky Terminal",
+                        "stop_code": "9035",
+                        "stop_desc": "Pulaski & Wilcox, Southbound, Northwest Corner",
+                        "stop_id": "9035",
+                        "stop_lat": "41.87903084",
+                        "stop_lon": "-87.72570517",
+                        "stop_name": "Pulaski & Wilcox",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "31st Street & Komensky Terminal",
-            "onestopId": "s-dp3w5b0he5-31st~komenskyterminal",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.75353528,
-                    41.87672858
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-144",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "144",
-                        "stop_desc": "Jackson & Leamington, Westbound, Northwest Corner",
-                        "stop_id": "144",
-                        "stop_lat": "41.87672858",
-                        "stop_lon": "-87.75353528",
-                        "stop_name": "Jackson & Leamington",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Jackson & Leamington",
-            "onestopId": "s-dp3w5p7vdk-jackson~leamington",
+            "name": "Pulaski & Wilcox",
+            "onestopId": "s-dp3w5zb54c-pulaski~wilcox",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1271,43 +1205,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.725663,
-                    41.873797
+                    -87.7443,
+                    41.856797
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30179",
+                    "identifier": "f-cta-s-10276",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40920",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30179",
-                        "stop_lat": "41.873797",
-                        "stop_lon": "-87.725663",
-                        "stop_name": "Pulaski-Forest Park",
-                        "wheelchair_boarding": "0"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30180",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40920",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30180",
-                        "stop_lat": "41.873797",
-                        "stop_lon": "-87.725663",
-                        "stop_name": "Pulaski-Forest Park",
-                        "wheelchair_boarding": "0"
+                        "parent_station": "",
+                        "stop_code": "10276",
+                        "stop_desc": "Cicero & 18th Street, Northbound, Southeast Corner",
+                        "stop_id": "10276",
+                        "stop_lat": "41.856797",
+                        "stop_lon": "-87.7443",
+                        "stop_name": "Cicero & 18th Street",
+                        "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Pulaski-Forest Park",
-            "onestopId": "s-dp3w5ybhec-pulaskiforestpark",
+            "name": "Cicero & 18th Street",
+            "onestopId": "s-dp3w57f998-cicero~18th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -1351,43 +1271,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.75669201,
-                    41.85177331
+                    -87.71727527,
+                    41.85171943
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-30114",
+                    "identifier": "f-cta-s-6883",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "40580",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30114",
-                        "stop_lat": "41.85177331",
-                        "stop_lon": "-87.75669201",
-                        "stop_name": "54th/Cermak",
-                        "wheelchair_boarding": "1"
-                    }
-                },
-                {
-                    "identifier": "f-cta-s-30113",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "40580",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "30113",
-                        "stop_lat": "41.85177331",
-                        "stop_lon": "-87.75669201",
-                        "stop_name": "54th/Cermak",
+                        "parent_station": "",
+                        "stop_code": "6883",
+                        "stop_desc": "Cermak & Lawndale, Westbound, Northeast Corner",
+                        "stop_id": "6883",
+                        "stop_lat": "41.85171943",
+                        "stop_lon": "-87.71727527",
+                        "stop_name": "Cermak & Lawndale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "54th/Cermak",
-            "onestopId": "s-dp3w54cs2b-54th~cermak",
+            "name": "Cermak & Lawndale",
+            "onestopId": "s-dp3w5fy5zm-cermak~lawndale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2025,29 +1931,62 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.72570517,
-                    41.87903084
+                    -87.744901,
+                    41.874097
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-9035",
+                    "identifier": "f-cta-s-10287",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "9035",
-                        "stop_desc": "Pulaski & Wilcox, Southbound, Northwest Corner",
-                        "stop_id": "9035",
-                        "stop_lat": "41.87903084",
-                        "stop_lon": "-87.72570517",
-                        "stop_name": "Pulaski & Wilcox",
+                        "stop_code": "10287",
+                        "stop_desc": "Cicero & Congress Parkway, Northbound, Southeast Corner",
+                        "stop_id": "10287",
+                        "stop_lat": "41.874097",
+                        "stop_lon": "-87.744901",
+                        "stop_name": "Cicero & Congress Parkway",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Pulaski & Wilcox",
-            "onestopId": "s-dp3w5zb54c-pulaski~wilcox",
+            "name": "Cicero & Congress Parkway",
+            "onestopId": "s-dp3w5qfn79-cicero~congress",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.75353528,
+                    41.87672858
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-144",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "144",
+                        "stop_desc": "Jackson & Leamington, Westbound, Northwest Corner",
+                        "stop_id": "144",
+                        "stop_lat": "41.87672858",
+                        "stop_lon": "-87.75353528",
+                        "stop_name": "Jackson & Leamington",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Jackson & Leamington",
+            "onestopId": "s-dp3w5p7vdk-jackson~leamington",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2652,29 +2591,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.74503798,
-                    41.87795995
+                    -87.73555571,
+                    41.87701751
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10290",
+                    "identifier": "f-cta-s-135",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10290",
-                        "stop_desc": "Cicero & Adams, Northbound, Southeast Corner",
-                        "stop_id": "10290",
-                        "stop_lat": "41.87795995",
-                        "stop_lon": "-87.74503798",
-                        "stop_name": "Cicero & Adams",
+                        "stop_code": "135",
+                        "stop_desc": "Jackson & Kostner, Westbound, Northwest Corner",
+                        "stop_id": "135",
+                        "stop_lat": "41.87701751",
+                        "stop_lon": "-87.73555571",
+                        "stop_name": "Jackson & Kostner",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cicero & Adams",
-            "onestopId": "s-dp3w5rdhb3-cicero~adams",
+            "name": "Jackson & Kostner",
+            "onestopId": "s-dp3w5x2zm3-jackson~kostner",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -2685,29 +2624,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71510996,
-                    41.86069764
+                    -87.72569191,
+                    41.83672961
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11220",
+                    "identifier": "f-cta-s-9063",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11220",
-                        "stop_desc": "Central Park & 15th Street, Northbound, Southeast Corner",
-                        "stop_id": "11220",
-                        "stop_lat": "41.86069764",
-                        "stop_lon": "-87.71510996",
-                        "stop_name": "Central Park & 15th Street",
+                        "stop_code": "9063",
+                        "stop_desc": "31st Street & Komensky Terminal, Northbound, Bus Terminal",
+                        "stop_id": "9063",
+                        "stop_lat": "41.83672961",
+                        "stop_lon": "-87.72569191",
+                        "stop_name": "31st Street & Komensky Terminal",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Central Park & 15th Street",
-            "onestopId": "s-dp3w5uxb1z-centralpark~15th",
+            "name": "31st Street & Komensky Terminal",
+            "onestopId": "s-dp3w5b0he5-31st~komenskyterminal",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3114,29 +3053,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.717333,
-                    41.844289
+                    -87.74026414,
+                    41.8512216
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6311",
+                    "identifier": "f-cta-s-6906",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6311",
-                        "stop_desc": "26th Street & Lawndale, Eastbound, Southwest Corner",
-                        "stop_id": "6311",
-                        "stop_lat": "41.844289",
-                        "stop_lon": "-87.717333",
-                        "stop_name": "26th Street & Lawndale",
+                        "stop_code": "6906",
+                        "stop_desc": "4632 W Cermak, Eastbound, Southside of the Street",
+                        "stop_id": "6906",
+                        "stop_lat": "41.8512216",
+                        "stop_lon": "-87.74026414",
+                        "stop_name": "4632 W Cermak",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "26th Street & Lawndale",
-            "onestopId": "s-dp3w5cw0tu-26th~lawndale",
+            "name": "4632 W Cermak",
+            "onestopId": "s-dp3w56v3p9-4632wcermak",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3576,29 +3515,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.74069588,
-                    41.87696546
+                    -87.729519,
+                    41.844118
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-138",
+                    "identifier": "f-cta-s-6306",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "138",
-                        "stop_desc": "Jackson & Kenton, Westbound, Northwest Corner",
-                        "stop_id": "138",
-                        "stop_lat": "41.87696546",
-                        "stop_lon": "-87.74069588",
-                        "stop_name": "Jackson & Kenton",
+                        "stop_code": "6306",
+                        "stop_desc": "26th Street & Keeler, Eastbound, Southwest Corner",
+                        "stop_id": "6306",
+                        "stop_lat": "41.844118",
+                        "stop_lon": "-87.729519",
+                        "stop_name": "26th Street & Keeler",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson & Kenton",
-            "onestopId": "s-dp3w5rmpj8-jackson~kenton",
+            "name": "26th Street & Keeler",
+            "onestopId": "s-dp3w59mrdh-26th~keeler",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -3807,29 +3746,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.74280741,
-                    41.87692666
+                    -87.754914,
+                    41.87838
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-139",
+                    "identifier": "f-cta-s-3862",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "139",
-                        "stop_desc": "Jackson & Kilpatrick, Westbound, Northwest Corner",
-                        "stop_id": "139",
-                        "stop_lat": "41.87692666",
-                        "stop_lon": "-87.74280741",
-                        "stop_name": "Jackson & Kilpatrick",
+                        "stop_code": "3862",
+                        "stop_desc": "Laramie & Adams, Northbound, Southeast Corner",
+                        "stop_id": "3862",
+                        "stop_lat": "41.87838",
+                        "stop_lon": "-87.754914",
+                        "stop_name": "Laramie & Adams",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson & Kilpatrick",
-            "onestopId": "s-dp3w5r7wu2-jackson~kilpatrick",
+            "name": "Laramie & Adams",
+            "onestopId": "s-dp3w5pdz4r-laramie~adams",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -4302,29 +4241,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.73555571,
-                    41.87701751
+                    -87.74503798,
+                    41.87795995
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-135",
+                    "identifier": "f-cta-s-10290",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "135",
-                        "stop_desc": "Jackson & Kostner, Westbound, Northwest Corner",
-                        "stop_id": "135",
-                        "stop_lat": "41.87701751",
-                        "stop_lon": "-87.73555571",
-                        "stop_name": "Jackson & Kostner",
+                        "stop_code": "10290",
+                        "stop_desc": "Cicero & Adams, Northbound, Southeast Corner",
+                        "stop_id": "10290",
+                        "stop_lat": "41.87795995",
+                        "stop_lon": "-87.74503798",
+                        "stop_name": "Cicero & Adams",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Jackson & Kostner",
-            "onestopId": "s-dp3w5x2zm3-jackson~kostner",
+            "name": "Cicero & Adams",
+            "onestopId": "s-dp3w5rdhb3-cicero~adams",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5405,29 +5344,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.74451584,
-                    41.86048259
+                    -87.73111485,
+                    41.85160866
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10259",
+                    "identifier": "f-cta-s-6887",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10259",
-                        "stop_desc": "Cicero & 15th Street, Southbound, Northwest Corner",
-                        "stop_id": "10259",
-                        "stop_lat": "41.86048259",
-                        "stop_lon": "-87.74451584",
-                        "stop_name": "Cicero & 15th Street",
+                        "stop_code": "6887",
+                        "stop_desc": "Cermak & Kildare, Westbound, Northeast Corner",
+                        "stop_id": "6887",
+                        "stop_lat": "41.85160866",
+                        "stop_lon": "-87.73111485",
+                        "stop_name": "Cermak & Kildare",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cicero & 15th Street",
-            "onestopId": "s-dp3w5k6qux-cicero~15th",
+            "name": "Cermak & Kildare",
+            "onestopId": "s-dp3w5du5kc-cermak~kildare",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5537,29 +5476,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.754781,
-                    41.874759
+                    -87.71938526,
+                    41.86632553
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3858",
+                    "identifier": "f-cta-s-362",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3858",
-                        "stop_desc": "Laramie & Van Buren, Northbound, Southeast Corner",
-                        "stop_id": "3858",
-                        "stop_lat": "41.874759",
-                        "stop_lon": "-87.754781",
-                        "stop_name": "Laramie & Van Buren",
+                        "stop_code": "362",
+                        "stop_desc": "Roosevelt & Independence, Westbound, Northeast Corner",
+                        "stop_id": "362",
+                        "stop_lat": "41.86632553",
+                        "stop_lon": "-87.71938526",
+                        "stop_name": "Roosevelt & Independence",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Laramie & Van Buren",
-            "onestopId": "s-dp3w5p4fjk-laramie~vanburen",
+            "name": "Roosevelt & Independence",
+            "onestopId": "s-dp3w5vs9n0-roosevelt~independence",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -5626,6 +5565,39 @@
             ],
             "name": "Jackson & Keeler",
             "onestopId": "s-dp3w5xkrxt-jackson~keeler",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.72974362,
+                    41.85132736
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-6911",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "6911",
+                        "stop_desc": "Cermak & Keeler, Eastbound, Southwest Corner",
+                        "stop_id": "6911",
+                        "stop_lat": "41.85132736",
+                        "stop_lon": "-87.72974362",
+                        "stop_name": "Cermak & Keeler",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Cermak & Keeler",
+            "onestopId": "s-dp3w5dv1su-cermak~keeler",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -6824,29 +6796,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.74026414,
-                    41.8512216
+                    -87.717333,
+                    41.844289
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6906",
+                    "identifier": "f-cta-s-6311",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6906",
-                        "stop_desc": "4632 W Cermak, Eastbound, Southside of the Street",
-                        "stop_id": "6906",
-                        "stop_lat": "41.8512216",
-                        "stop_lon": "-87.74026414",
-                        "stop_name": "4632 W Cermak",
+                        "stop_code": "6311",
+                        "stop_desc": "26th Street & Lawndale, Eastbound, Southwest Corner",
+                        "stop_id": "6311",
+                        "stop_lat": "41.844289",
+                        "stop_lon": "-87.717333",
+                        "stop_name": "26th Street & Lawndale",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "4632 W Cermak",
-            "onestopId": "s-dp3w56v3p9-4632wcermak",
+            "name": "26th Street & Lawndale",
+            "onestopId": "s-dp3w5cw0tu-26th~lawndale",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7418,29 +7390,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71720732,
-                    41.84610146
+                    -87.74451584,
+                    41.86048259
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-11211",
+                    "identifier": "f-cta-s-10259",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "11211",
-                        "stop_desc": "Lawndale & 25th Street, Northbound, Southeast Corner",
-                        "stop_id": "11211",
-                        "stop_lat": "41.84610146",
-                        "stop_lon": "-87.71720732",
-                        "stop_name": "Lawndale & 25th Street",
+                        "stop_code": "10259",
+                        "stop_desc": "Cicero & 15th Street, Southbound, Northwest Corner",
+                        "stop_id": "10259",
+                        "stop_lat": "41.86048259",
+                        "stop_lon": "-87.74451584",
+                        "stop_name": "Cicero & 15th Street",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lawndale & 25th Street",
-            "onestopId": "s-dp3w5cy70y-lawndale~25th",
+            "name": "Cicero & 15th Street",
+            "onestopId": "s-dp3w5k6qux-cicero~15th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7616,29 +7588,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.7443,
-                    41.856797
+                    -87.725663,
+                    41.873797
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10276",
+                    "identifier": "f-cta-s-30179",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "10276",
-                        "stop_desc": "Cicero & 18th Street, Northbound, Southeast Corner",
-                        "stop_id": "10276",
-                        "stop_lat": "41.856797",
-                        "stop_lon": "-87.7443",
-                        "stop_name": "Cicero & 18th Street",
-                        "wheelchair_boarding": "1"
+                        "parent_station": "40920",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30179",
+                        "stop_lat": "41.873797",
+                        "stop_lon": "-87.725663",
+                        "stop_name": "Pulaski-Forest Park",
+                        "wheelchair_boarding": "0"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30180",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40920",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30180",
+                        "stop_lat": "41.873797",
+                        "stop_lon": "-87.725663",
+                        "stop_name": "Pulaski-Forest Park",
+                        "wheelchair_boarding": "0"
                     }
                 }
             ],
-            "name": "Cicero & 18th Street",
-            "onestopId": "s-dp3w57f998-cicero~18th",
+            "name": "Pulaski-Forest Park",
+            "onestopId": "s-dp3w5ybhec-pulaskiforestpark",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -7979,29 +7965,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71938526,
-                    41.86632553
+                    -87.754781,
+                    41.874759
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-362",
+                    "identifier": "f-cta-s-3858",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "362",
-                        "stop_desc": "Roosevelt & Independence, Westbound, Northeast Corner",
-                        "stop_id": "362",
-                        "stop_lat": "41.86632553",
-                        "stop_lon": "-87.71938526",
-                        "stop_name": "Roosevelt & Independence",
+                        "stop_code": "3858",
+                        "stop_desc": "Laramie & Van Buren, Northbound, Southeast Corner",
+                        "stop_id": "3858",
+                        "stop_lat": "41.874759",
+                        "stop_lon": "-87.754781",
+                        "stop_name": "Laramie & Van Buren",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Roosevelt & Independence",
-            "onestopId": "s-dp3w5vs9n0-roosevelt~independence",
+            "name": "Laramie & Van Buren",
+            "onestopId": "s-dp3w5p4fjk-laramie~vanburen",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8276,29 +8262,43 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.71727527,
-                    41.85171943
+                    -87.75669201,
+                    41.85177331
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6883",
+                    "identifier": "f-cta-s-30114",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6883",
-                        "stop_desc": "Cermak & Lawndale, Westbound, Northeast Corner",
-                        "stop_id": "6883",
-                        "stop_lat": "41.85171943",
-                        "stop_lon": "-87.71727527",
-                        "stop_name": "Cermak & Lawndale",
+                        "parent_station": "40580",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30114",
+                        "stop_lat": "41.85177331",
+                        "stop_lon": "-87.75669201",
+                        "stop_name": "54th/Cermak",
+                        "wheelchair_boarding": "1"
+                    }
+                },
+                {
+                    "identifier": "f-cta-s-30113",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "40580",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "30113",
+                        "stop_lat": "41.85177331",
+                        "stop_lon": "-87.75669201",
+                        "stop_name": "54th/Cermak",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Lawndale",
-            "onestopId": "s-dp3w5fy5zm-cermak~lawndale",
+            "name": "54th/Cermak",
+            "onestopId": "s-dp3w54cs2b-54th~cermak",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -8771,6 +8771,39 @@
         {
             "geometry": {
                 "coordinates": [
+                    -87.71720732,
+                    41.84610146
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11211",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11211",
+                        "stop_desc": "Lawndale & 25th Street, Northbound, Southeast Corner",
+                        "stop_id": "11211",
+                        "stop_lat": "41.84610146",
+                        "stop_lon": "-87.71720732",
+                        "stop_name": "Lawndale & 25th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Lawndale & 25th Street",
+            "onestopId": "s-dp3w5cy70y-lawndale~25th",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -87.717762,
                     41.858886
                 ],
@@ -8804,29 +8837,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.744901,
-                    41.874097
+                    -87.72459428,
+                    41.84950022
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-10287",
+                    "identifier": "f-cta-s-15056",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "10287",
-                        "stop_desc": "Cicero & Congress Parkway, Northbound, Southeast Corner",
-                        "stop_id": "10287",
-                        "stop_lat": "41.874097",
-                        "stop_lon": "-87.744901",
-                        "stop_name": "Cicero & Congress Parkway",
+                        "stop_code": "15056",
+                        "stop_desc": "2300 S Pulaski, Northbound, Northeast Corner",
+                        "stop_id": "15056",
+                        "stop_lat": "41.84950022",
+                        "stop_lon": "-87.72459428",
+                        "stop_name": "2300 S Pulaski",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cicero & Congress Parkway",
-            "onestopId": "s-dp3w5qfn79-cicero~congress",
+            "name": "2300 S Pulaski",
+            "onestopId": "s-dp3w5f2zhb-2300spulaski",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9068,29 +9101,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.729519,
-                    41.844118
+                    -87.74069588,
+                    41.87696546
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6306",
+                    "identifier": "f-cta-s-138",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6306",
-                        "stop_desc": "26th Street & Keeler, Eastbound, Southwest Corner",
-                        "stop_id": "6306",
-                        "stop_lat": "41.844118",
-                        "stop_lon": "-87.729519",
-                        "stop_name": "26th Street & Keeler",
+                        "stop_code": "138",
+                        "stop_desc": "Jackson & Kenton, Westbound, Northwest Corner",
+                        "stop_id": "138",
+                        "stop_lat": "41.87696546",
+                        "stop_lon": "-87.74069588",
+                        "stop_name": "Jackson & Kenton",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "26th Street & Keeler",
-            "onestopId": "s-dp3w59mrdh-26th~keeler",
+            "name": "Jackson & Kenton",
+            "onestopId": "s-dp3w5rmpj8-jackson~kenton",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9289,6 +9322,39 @@
             ],
             "name": "Harrison & Kilpatrick",
             "onestopId": "s-dp3w5qg8rz-harrison~kilpatrick",
+            "properties": {},
+            "servedBy": [
+                "o-dp3-chicagotransitauthority"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.71510996,
+                    41.86069764
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-cta-s-11220",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "11220",
+                        "stop_desc": "Central Park & 15th Street, Northbound, Southeast Corner",
+                        "stop_id": "11220",
+                        "stop_lat": "41.86069764",
+                        "stop_lon": "-87.71510996",
+                        "stop_name": "Central Park & 15th Street",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Central Park & 15th Street",
+            "onestopId": "s-dp3w5uxb1z-centralpark~15th",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -9831,39 +9897,6 @@
             ],
             "name": "Pulaski & 13th Street",
             "onestopId": "s-dp3w5v0mzj-pulaski~13th",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.72459428,
-                    41.84950022
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-15056",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "15056",
-                        "stop_desc": "2300 S Pulaski, Northbound, Northeast Corner",
-                        "stop_id": "15056",
-                        "stop_lat": "41.84950022",
-                        "stop_lon": "-87.72459428",
-                        "stop_name": "2300 S Pulaski",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "2300 S Pulaski",
-            "onestopId": "s-dp3w5f2zhb-2300spulaski",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10501,39 +10534,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.73111485,
-                    41.85160866
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cta-s-6887",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "6887",
-                        "stop_desc": "Cermak & Kildare, Westbound, Northeast Corner",
-                        "stop_id": "6887",
-                        "stop_lat": "41.85160866",
-                        "stop_lon": "-87.73111485",
-                        "stop_name": "Cermak & Kildare",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Cermak & Kildare",
-            "onestopId": "s-dp3w5du5kc-cermak~kildare",
-            "properties": {},
-            "servedBy": [
-                "o-dp3-chicagotransitauthority"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -87.73899385,
                     41.85142542
                 ],
@@ -10765,29 +10765,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.72974362,
-                    41.85132736
+                    -87.72282126,
+                    41.86611509
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-6911",
+                    "identifier": "f-cta-s-274",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "6911",
-                        "stop_desc": "Cermak & Keeler, Eastbound, Southwest Corner",
-                        "stop_id": "6911",
-                        "stop_lat": "41.85132736",
-                        "stop_lon": "-87.72974362",
-                        "stop_name": "Cermak & Keeler",
+                        "stop_code": "274",
+                        "stop_desc": "Roosevelt & Springfield, Eastbound, Southwest Corner",
+                        "stop_id": "274",
+                        "stop_lat": "41.86611509",
+                        "stop_lon": "-87.72282126",
+                        "stop_name": "Roosevelt & Springfield",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Cermak & Keeler",
-            "onestopId": "s-dp3w5dv1su-cermak~keeler",
+            "name": "Roosevelt & Springfield",
+            "onestopId": "s-dp3w5v6py1-roosevelt~springfield",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"
@@ -10798,29 +10798,29 @@
         {
             "geometry": {
                 "coordinates": [
-                    -87.754914,
-                    41.87838
+                    -87.74280741,
+                    41.87692666
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cta-s-3862",
+                    "identifier": "f-cta-s-139",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "3862",
-                        "stop_desc": "Laramie & Adams, Northbound, Southeast Corner",
-                        "stop_id": "3862",
-                        "stop_lat": "41.87838",
-                        "stop_lon": "-87.754914",
-                        "stop_name": "Laramie & Adams",
+                        "stop_code": "139",
+                        "stop_desc": "Jackson & Kilpatrick, Westbound, Northwest Corner",
+                        "stop_id": "139",
+                        "stop_lat": "41.87692666",
+                        "stop_lon": "-87.74280741",
+                        "stop_name": "Jackson & Kilpatrick",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Laramie & Adams",
-            "onestopId": "s-dp3w5pdz4r-laramie~adams",
+            "name": "Jackson & Kilpatrick",
+            "onestopId": "s-dp3w5r7wu2-jackson~kilpatrick",
             "properties": {},
             "servedBy": [
                 "o-dp3-chicagotransitauthority"

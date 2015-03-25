@@ -3,41 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.467202,
-                    25.489679
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-3427",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "C1702984",
-                        "stop_desc": "",
-                        "stop_id": "3427",
-                        "stop_lat": "25.489679",
-                        "stop_lon": "-80.467202",
-                        "stop_name": "SW 170 AV@SW 298 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "SW 170 AV@SW 298 ST",
-            "onestopId": "s-dhwc0bm84k-sw170~sw298",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.467041,
                     25.491902
                 ],
@@ -63,6 +28,41 @@
             ],
             "name": "SW 296 ST@SW 170 AV",
             "onestopId": "s-dhwc0bttn4-sw296~sw170",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.467202,
+                    25.489679
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-3427",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "C1702984",
+                        "stop_desc": "",
+                        "stop_id": "3427",
+                        "stop_lat": "25.489679",
+                        "stop_lon": "-80.467202",
+                        "stop_name": "SW 170 AV@SW 298 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "SW 170 AV@SW 298 ST",
+            "onestopId": "s-dhwc0bm84k-sw170~sw298",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"

@@ -543,42 +543,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -116.865621511,
-                    33.0437768299
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-98026",
-                    "tags": {
-                        "intersection_code": "F-S/B",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "reference_place": "",
-                        "stop_code": "98026",
-                        "stop_id": "98026",
-                        "stop_lat": "33.0437768299",
-                        "stop_lon": "-116.865621511",
-                        "stop_name": "Main St & 8th St",
-                        "stop_name_short": "Main&8th",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
-                    }
-                }
-            ],
-            "name": "Main St & 8th St",
-            "onestopId": "s-9muguxmjcw-main~8th",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -116.861848613,
                     33.0455765209
                 ],
@@ -605,6 +569,42 @@
             ],
             "name": "Main St & 6th St",
             "onestopId": "s-9muguxzb3t-main~6th",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.865621511,
+                    33.0437768299
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-98026",
+                    "tags": {
+                        "intersection_code": "F-S/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "98026",
+                        "stop_id": "98026",
+                        "stop_lat": "33.0437768299",
+                        "stop_lon": "-116.865621511",
+                        "stop_name": "Main St & 8th St",
+                        "stop_name_short": "Main&8th",
+                        "stop_place": "",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Main St & 8th St",
+            "onestopId": "s-9muguxmjcw-main~8th",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

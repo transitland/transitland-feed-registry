@@ -139,30 +139,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.593214,
-                    49.234953
+                    -122.590425,
+                    49.220113
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7847",
+                    "identifier": "f-translink-s-10378",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57773",
-                        "stop_desc": "128 AVE @ 227 ST",
-                        "stop_id": "7847",
-                        "stop_lat": "49.234953",
-                        "stop_lon": "-122.593214",
-                        "stop_name": "EB 128 AV FS 227 ST",
+                        "stop_code": "59775",
+                        "stop_desc": "228 ST @ DEWDNEY TRUNK RD",
+                        "stop_id": "10378",
+                        "stop_lat": "49.220113",
+                        "stop_lon": "-122.590425",
+                        "stop_name": "SB 228 ST FS DEWDNEY TRUNK RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 128 AV FS 227 ST",
-            "onestopId": "s-c2bb46fq7h-eb128fs227",
+            "name": "SB 228 ST FS DEWDNEY TRUNK RD",
+            "onestopId": "s-c2bb42hrun-sb228fsdewdneytrunk",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -173,30 +173,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.579555,
-                    49.240725
+                    -122.573767,
+                    49.220295
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11245",
+                    "identifier": "f-translink-s-7686",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "61295",
-                        "stop_desc": "232 ST @ FERN CRESCENT",
-                        "stop_id": "11245",
-                        "stop_lat": "49.240725",
-                        "stop_lon": "-122.579555",
-                        "stop_name": "NB 232 ST NS FERN CRES",
+                        "stop_code": "57613",
+                        "stop_desc": "DEWDNEY TRUNK RD @ 234 ST",
+                        "stop_id": "7686",
+                        "stop_lat": "49.220295",
+                        "stop_lon": "-122.573767",
+                        "stop_name": "EB DEWDNEY TRUNK RD FS 234 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 232 ST NS FERN CRES",
-            "onestopId": "s-c2bb4sh212-nb232nsferncres",
+            "name": "EB DEWDNEY TRUNK RD FS 234 ST",
+            "onestopId": "s-c2bb4b2900-ebdewdneytrunkfs234",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -343,6 +343,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.601234,
+                    49.225496
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11306",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "61353",
+                        "stop_desc": "224 ST @ 12200 BLOCK",
+                        "stop_id": "11306",
+                        "stop_lat": "49.225496",
+                        "stop_lon": "-122.601234",
+                        "stop_name": "NB 224 ST AT 12200 BLOCK",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 224 ST AT 12200 BLOCK",
+            "onestopId": "s-c2bb41hx21-nb224at12200block",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.579247,
                     49.235282
                 ],
@@ -445,64 +479,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.599935,
-                    49.220544
+                    -122.59788,
+                    49.221082
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10549",
+                    "identifier": "f-translink-s-10313",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59304",
-                        "stop_desc": "DEWDNEY TRUNK RD @ FRASER ST",
-                        "stop_id": "10549",
-                        "stop_lat": "49.220544",
-                        "stop_lon": "-122.599935",
-                        "stop_name": "WB DEWDNEY TRUNK RD NS FRASER ST",
+                        "stop_code": "59711",
+                        "stop_desc": "EDGE ST @ BROWN AVE",
+                        "stop_id": "10313",
+                        "stop_lat": "49.221082",
+                        "stop_lon": "-122.59788",
+                        "stop_name": "SB EDGE ST FS BROWN AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB DEWDNEY TRUNK RD NS FRASER ST",
-            "onestopId": "s-c2bb40m6qq-wbdewdneytrunknsfraser",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.579351,
-                    49.230477
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7858",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57784",
-                        "stop_desc": "232 ST @ 126 AVE",
-                        "stop_id": "7858",
-                        "stop_lat": "49.230477",
-                        "stop_lon": "-122.579351",
-                        "stop_name": "SB 232 ST FS 126 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "SB 232 ST FS 126 AV",
-            "onestopId": "s-c2bb4dhkq4-sb232fs126",
+            "name": "SB EDGE ST FS BROWN AV",
+            "onestopId": "s-c2bb40qvw6-sbedgefsbrown",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -615,30 +615,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.579336,
-                    49.220005
+                    -122.573801,
+                    49.22043
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7861",
+                    "identifier": "f-translink-s-7702",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57787",
-                        "stop_desc": "232 ST @ DEWDNEY TRUNK RD",
-                        "stop_id": "7861",
-                        "stop_lat": "49.220005",
-                        "stop_lon": "-122.579336",
-                        "stop_name": "SB 232 ST FS DEWDNEY TRUNK RD",
+                        "stop_code": "57629",
+                        "stop_desc": "DEWDNEY TRUNK RD @ 234 ST",
+                        "stop_id": "7702",
+                        "stop_lat": "49.22043",
+                        "stop_lon": "-122.573801",
+                        "stop_name": "WB DEWDNEY TRUNK RD NS 234 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 232 ST FS DEWDNEY TRUNK RD",
-            "onestopId": "s-c2bb48hrq3-sb232fsdewdneytrunk",
+            "name": "WB DEWDNEY TRUNK RD NS 234 ST",
+            "onestopId": "s-c2bb4b23z3-wbdewdneytrunkns234",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -649,30 +649,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.590425,
-                    49.220113
+                    -122.593214,
+                    49.234953
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10378",
+                    "identifier": "f-translink-s-7847",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59775",
-                        "stop_desc": "228 ST @ DEWDNEY TRUNK RD",
-                        "stop_id": "10378",
-                        "stop_lat": "49.220113",
-                        "stop_lon": "-122.590425",
-                        "stop_name": "SB 228 ST FS DEWDNEY TRUNK RD",
+                        "stop_code": "57773",
+                        "stop_desc": "128 AVE @ 227 ST",
+                        "stop_id": "7847",
+                        "stop_lat": "49.234953",
+                        "stop_lon": "-122.593214",
+                        "stop_name": "EB 128 AV FS 227 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB 228 ST FS DEWDNEY TRUNK RD",
-            "onestopId": "s-c2bb42hrun-sb228fsdewdneytrunk",
+            "name": "EB 128 AV FS 227 ST",
+            "onestopId": "s-c2bb46fq7h-eb128fs227",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -751,30 +751,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.580935,
-                    49.243033
+                    -122.596741,
+                    49.2195
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7854",
+                    "identifier": "f-translink-s-10890",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57780",
-                        "stop_desc": "132 AVE @ YENNADON LOOP",
-                        "stop_id": "7854",
-                        "stop_lat": "49.243033",
-                        "stop_lon": "-122.580935",
-                        "stop_name": "YENNADON LOOP",
+                        "stop_code": "61059",
+                        "stop_desc": "HANEY PLACE @ BAY 6",
+                        "stop_id": "10890",
+                        "stop_lat": "49.2195",
+                        "stop_lon": "-122.596741",
+                        "stop_name": "HANEY PLACE BAY 6",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "YENNADON LOOP",
-            "onestopId": "s-c2bb4s7m3n-yennadonloop",
+            "name": "HANEY PLACE BAY 6",
+            "onestopId": "s-c2bb40pu2g-haneyplacebay6",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -819,30 +819,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.59788,
-                    49.221082
+                    -122.599935,
+                    49.220544
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10313",
+                    "identifier": "f-translink-s-10549",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59711",
-                        "stop_desc": "EDGE ST @ BROWN AVE",
-                        "stop_id": "10313",
-                        "stop_lat": "49.221082",
-                        "stop_lon": "-122.59788",
-                        "stop_name": "SB EDGE ST FS BROWN AV",
+                        "stop_code": "59304",
+                        "stop_desc": "DEWDNEY TRUNK RD @ FRASER ST",
+                        "stop_id": "10549",
+                        "stop_lat": "49.220544",
+                        "stop_lon": "-122.599935",
+                        "stop_name": "WB DEWDNEY TRUNK RD NS FRASER ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "SB EDGE ST FS BROWN AV",
-            "onestopId": "s-c2bb40qvw6-sbedgefsbrown",
+            "name": "WB DEWDNEY TRUNK RD NS FRASER ST",
+            "onestopId": "s-c2bb40m6qq-wbdewdneytrunknsfraser",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1125,30 +1125,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.584364,
-                    49.234903
+                    -122.594678,
+                    49.220513
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7850",
+                    "identifier": "f-translink-s-7707",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57776",
-                        "stop_desc": "128 AVE @ 230 ST",
-                        "stop_id": "7850",
-                        "stop_lat": "49.234903",
-                        "stop_lon": "-122.584364",
-                        "stop_name": "EB 128 AV FS 230 ST",
+                        "stop_code": "57634",
+                        "stop_desc": "DEWDNEY TRUNK RD @ 227 ST",
+                        "stop_id": "7707",
+                        "stop_lat": "49.220513",
+                        "stop_lon": "-122.594678",
+                        "stop_name": "WB DEWDNEY TRUNK RD FS 227 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 128 AV FS 230 ST",
-            "onestopId": "s-c2bb4dby17-eb128fs230",
+            "name": "WB DEWDNEY TRUNK RD FS 227 ST",
+            "onestopId": "s-c2bb42362b-wbdewdneytrunkfs227",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1329,74 +1329,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.596741,
-                    49.2195
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-10890",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61059",
-                        "stop_desc": "HANEY PLACE @ BAY 6",
-                        "stop_id": "10890",
-                        "stop_lat": "49.2195",
-                        "stop_lon": "-122.596741",
-                        "stop_name": "HANEY PLACE BAY 6",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "HANEY PLACE BAY 6",
-            "onestopId": "s-c2bb40pu2g-haneyplacebay6",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.601234,
-                    49.225496
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-11306",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61353",
-                        "stop_desc": "224 ST @ 12200 BLOCK",
-                        "stop_id": "11306",
-                        "stop_lat": "49.225496",
-                        "stop_lon": "-122.601234",
-                        "stop_name": "NB 224 ST AT 12200 BLOCK",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 224 ST AT 12200 BLOCK",
-            "onestopId": "s-c2bb41hx21-nb224at12200block",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.600944,
                     49.221507
                 ],
@@ -1421,6 +1353,74 @@
             ],
             "name": "EB BROWN AV FS 224 ST",
             "onestopId": "s-c2bb40s8nc-ebbrownfs224",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.580935,
+                    49.243033
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7854",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57780",
+                        "stop_desc": "132 AVE @ YENNADON LOOP",
+                        "stop_id": "7854",
+                        "stop_lat": "49.243033",
+                        "stop_lon": "-122.580935",
+                        "stop_name": "YENNADON LOOP",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "YENNADON LOOP",
+            "onestopId": "s-c2bb4s7m3n-yennadonloop",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.579351,
+                    49.230477
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-7858",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "57784",
+                        "stop_desc": "232 ST @ 126 AVE",
+                        "stop_id": "7858",
+                        "stop_lat": "49.230477",
+                        "stop_lon": "-122.579351",
+                        "stop_name": "SB 232 ST FS 126 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "SB 232 ST FS 126 AV",
+            "onestopId": "s-c2bb4dhkq4-sb232fs126",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1465,30 +1465,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.594678,
-                    49.220513
+                    -122.584364,
+                    49.234903
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7707",
+                    "identifier": "f-translink-s-7850",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57634",
-                        "stop_desc": "DEWDNEY TRUNK RD @ 227 ST",
-                        "stop_id": "7707",
-                        "stop_lat": "49.220513",
-                        "stop_lon": "-122.594678",
-                        "stop_name": "WB DEWDNEY TRUNK RD FS 227 ST",
+                        "stop_code": "57776",
+                        "stop_desc": "128 AVE @ 230 ST",
+                        "stop_id": "7850",
+                        "stop_lat": "49.234903",
+                        "stop_lon": "-122.584364",
+                        "stop_name": "EB 128 AV FS 230 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB DEWDNEY TRUNK RD FS 227 ST",
-            "onestopId": "s-c2bb42362b-wbdewdneytrunkfs227",
+            "name": "EB 128 AV FS 230 ST",
+            "onestopId": "s-c2bb4dby17-eb128fs230",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1567,6 +1567,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.593909,
+                    49.220873
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-10345",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "59778",
+                        "stop_desc": "227 ST @ DEWDNEY TRUNK RD",
+                        "stop_id": "10345",
+                        "stop_lat": "49.220873",
+                        "stop_lon": "-122.593909",
+                        "stop_name": "NB 227 ST FS DEWDNEY TRUNK RD",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 227 ST FS DEWDNEY TRUNK RD",
+            "onestopId": "s-c2bb423u6g-nb227fsdewdneytrunk",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.601426,
                     49.227258
                 ],
@@ -1635,30 +1669,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.573767,
-                    49.220295
+                    -122.579555,
+                    49.240725
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7686",
+                    "identifier": "f-translink-s-11245",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57613",
-                        "stop_desc": "DEWDNEY TRUNK RD @ 234 ST",
-                        "stop_id": "7686",
-                        "stop_lat": "49.220295",
-                        "stop_lon": "-122.573767",
-                        "stop_name": "EB DEWDNEY TRUNK RD FS 234 ST",
+                        "stop_code": "61295",
+                        "stop_desc": "232 ST @ FERN CRESCENT",
+                        "stop_id": "11245",
+                        "stop_lat": "49.240725",
+                        "stop_lon": "-122.579555",
+                        "stop_name": "NB 232 ST NS FERN CRES",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB DEWDNEY TRUNK RD FS 234 ST",
-            "onestopId": "s-c2bb4b2900-ebdewdneytrunkfs234",
+            "name": "NB 232 ST NS FERN CRES",
+            "onestopId": "s-c2bb4sh212-nb232nsferncres",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1669,30 +1703,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.593909,
-                    49.220873
+                    -122.593747,
+                    49.228215
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-10345",
+                    "identifier": "f-translink-s-7844",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "59778",
-                        "stop_desc": "227 ST @ DEWDNEY TRUNK RD",
-                        "stop_id": "10345",
-                        "stop_lat": "49.220873",
-                        "stop_lon": "-122.593909",
-                        "stop_name": "NB 227 ST FS DEWDNEY TRUNK RD",
+                        "stop_code": "57770",
+                        "stop_desc": "227 ST @ 124 AVE",
+                        "stop_id": "7844",
+                        "stop_lat": "49.228215",
+                        "stop_lon": "-122.593747",
+                        "stop_name": "NB 227 ST FS 124 AV",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "NB 227 ST FS DEWDNEY TRUNK RD",
-            "onestopId": "s-c2bb423u6g-nb227fsdewdneytrunk",
+            "name": "NB 227 ST FS 124 AV",
+            "onestopId": "s-c2bb439zns-nb227fs124",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1805,30 +1839,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.573801,
-                    49.22043
+                    -122.579336,
+                    49.220005
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-7702",
+                    "identifier": "f-translink-s-7861",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "57629",
-                        "stop_desc": "DEWDNEY TRUNK RD @ 234 ST",
-                        "stop_id": "7702",
-                        "stop_lat": "49.22043",
-                        "stop_lon": "-122.573801",
-                        "stop_name": "WB DEWDNEY TRUNK RD NS 234 ST",
+                        "stop_code": "57787",
+                        "stop_desc": "232 ST @ DEWDNEY TRUNK RD",
+                        "stop_id": "7861",
+                        "stop_lat": "49.220005",
+                        "stop_lon": "-122.579336",
+                        "stop_name": "SB 232 ST FS DEWDNEY TRUNK RD",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB DEWDNEY TRUNK RD NS 234 ST",
-            "onestopId": "s-c2bb4b23z3-wbdewdneytrunkns234",
+            "name": "SB 232 ST FS DEWDNEY TRUNK RD",
+            "onestopId": "s-c2bb48hrq3-sb232fsdewdneytrunk",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1999,40 +2033,6 @@
             ],
             "name": "EB 124 AV FS 223 ST",
             "onestopId": "s-c2bb41dkn5-eb124fs223",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.593747,
-                    49.228215
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-7844",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "57770",
-                        "stop_desc": "227 ST @ 124 AVE",
-                        "stop_id": "7844",
-                        "stop_lat": "49.228215",
-                        "stop_lon": "-122.593747",
-                        "stop_name": "NB 227 ST FS 124 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 227 ST FS 124 AV",
-            "onestopId": "s-c2bb439zns-nb227fs124",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

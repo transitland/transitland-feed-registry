@@ -3,6 +3,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.763554,
+                    45.37947
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13080",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "13080",
+                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 13080)",
+                        "stop_id": "13080",
+                        "stop_lat": "45.37947",
+                        "stop_lon": "-122.763554",
+                        "stop_name": "SW Warm Springs & Boones Ferry",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13080",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Warm Springs & Boones Ferry",
+            "onestopId": "s-c20dnmn69f-swwarmsprings~boonesferry",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.771577,
                     45.370926
                 ],
@@ -111,32 +147,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.769659,
-                    45.372988
+                    -122.748821,
+                    45.394692
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-501",
+                    "identifier": "f-trimet-s-7879",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "501",
-                        "stop_desc": "Southbound stop in Tualatin (Stop ID 501)",
-                        "stop_id": "501",
-                        "stop_lat": "45.372988",
-                        "stop_lon": "-122.769659",
-                        "stop_name": "SW Boones Ferry Rd & Apache",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=501",
+                        "position": "At",
+                        "stop_code": "7879",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 7879)",
+                        "stop_id": "7879",
+                        "stop_lat": "45.394692",
+                        "stop_lon": "-122.748821",
+                        "stop_name": "Tualatin Park & Ride ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7879",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & Apache",
-            "onestopId": "s-c20dn7cugd-swboonesferry~apache",
+            "name": "Tualatin Park & Ride ",
+            "onestopId": "s-c20dnzc51p-tualatinpark~ride",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -183,32 +219,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.765467,
-                    45.375414
+                    -122.75903,
+                    45.381872
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8788",
+                    "identifier": "f-trimet-s-9026",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8788",
-                        "stop_desc": "Westbound stop in Tualatin (Stop ID 8788)",
-                        "stop_id": "8788",
-                        "stop_lat": "45.375414",
-                        "stop_lon": "-122.765467",
-                        "stop_name": "SW Sagert & 86th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8788",
+                        "position": "Nearside",
+                        "stop_code": "9026",
+                        "stop_desc": "Southbound stop in Tualatin (Stop ID 9026)",
+                        "stop_id": "9026",
+                        "stop_lat": "45.381872",
+                        "stop_lon": "-122.75903",
+                        "stop_name": "SW Martinazzi & Tualatin-Sherwood",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9026",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Sagert & 86th",
-            "onestopId": "s-c20dnkkfvq-swsagert~86th",
+            "name": "SW Martinazzi & Tualatin-Sherwood",
+            "onestopId": "s-c20dnt98e6-swmartinazzi~tualatinsherwood",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -255,68 +291,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.753345,
-                    45.390074
+                    -122.764129,
+                    45.383302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-514",
+                    "identifier": "f-trimet-s-13084",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "514",
-                        "stop_desc": "Westbound stop in Tualatin (Stop ID 514)",
-                        "stop_id": "514",
-                        "stop_lat": "45.390074",
-                        "stop_lon": "-122.753345",
-                        "stop_name": "SW Lower Boones Ferry & Childs Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=514",
+                        "position": "Nearside",
+                        "stop_code": "13084",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 13084)",
+                        "stop_id": "13084",
+                        "stop_lat": "45.383302",
+                        "stop_lon": "-122.764129",
+                        "stop_name": "SW Boones Ferry Rd & Seneca",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13084",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Lower Boones Ferry & Childs Rd",
-            "onestopId": "s-c20dnxj8re-swlowerboonesferry~childs",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.758147,
-                    45.375323
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-4999",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "4999",
-                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 4999)",
-                        "stop_id": "4999",
-                        "stop_lat": "45.375323",
-                        "stop_lon": "-122.758147",
-                        "stop_name": "7800 Block SW Sagert",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4999",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "7800 Block SW Sagert",
-            "onestopId": "s-c20dns64rv-7800blockswsagert",
+            "name": "SW Boones Ferry Rd & Seneca",
+            "onestopId": "s-c20dnmvbuk-swboonesferry~seneca",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -363,104 +363,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.772528,
-                    45.369001
+                    -122.759838,
+                    45.378865
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-562",
+                    "identifier": "f-trimet-s-13081",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "562",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 562)",
-                        "stop_id": "562",
-                        "stop_lat": "45.369001",
-                        "stop_lon": "-122.772528",
-                        "stop_name": "SW Boones Ferry Rd & Siletz",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=562",
+                        "stop_code": "13081",
+                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 13081)",
+                        "stop_id": "13081",
+                        "stop_lat": "45.378865",
+                        "stop_lon": "-122.759838",
+                        "stop_name": "SW Warm Springs & Martinazzi",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13081",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & Siletz",
-            "onestopId": "s-c20dn5pv8d-swboonesferry~siletz",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.743305,
-                    45.380442
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3867",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3867",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 3867)",
-                        "stop_id": "3867",
-                        "stop_lat": "45.380442",
-                        "stop_lon": "-122.743305",
-                        "stop_name": "Meridian Park Hospital Rd & SW 65th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3867",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "Meridian Park Hospital Rd & SW 65th",
-            "onestopId": "s-c20dnvm01x-meridianparkhospital~sw65th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.743804,
-                    45.376222
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7839",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7839",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 7839)",
-                        "stop_id": "7839",
-                        "stop_lat": "45.376222",
-                        "stop_lon": "-122.743804",
-                        "stop_name": "SW 65th & Borland",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7839",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW 65th & Borland",
-            "onestopId": "s-c20dnukxwh-sw65th~borland",
+            "name": "SW Warm Springs & Martinazzi",
+            "onestopId": "s-c20dnscp03-swwarmsprings~martinazzi",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -507,32 +435,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.763554,
-                    45.37947
+                    -122.753345,
+                    45.390074
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13080",
+                    "identifier": "f-trimet-s-514",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13080",
-                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 13080)",
-                        "stop_id": "13080",
-                        "stop_lat": "45.37947",
-                        "stop_lon": "-122.763554",
-                        "stop_name": "SW Warm Springs & Boones Ferry",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13080",
+                        "position": "Opposite",
+                        "stop_code": "514",
+                        "stop_desc": "Westbound stop in Tualatin (Stop ID 514)",
+                        "stop_id": "514",
+                        "stop_lat": "45.390074",
+                        "stop_lon": "-122.753345",
+                        "stop_name": "SW Lower Boones Ferry & Childs Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=514",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Warm Springs & Boones Ferry",
-            "onestopId": "s-c20dnmn69f-swwarmsprings~boonesferry",
+            "name": "SW Lower Boones Ferry & Childs Rd",
+            "onestopId": "s-c20dnxj8re-swlowerboonesferry~childs",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -615,6 +543,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.743973,
+                    45.388463
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7842",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "7842",
+                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 7842)",
+                        "stop_id": "7842",
+                        "stop_lat": "45.388463",
+                        "stop_lon": "-122.743973",
+                        "stop_name": "SW 65th & Dawn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7842",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW 65th & Dawn",
+            "onestopId": "s-c20dnyswfn-sw65th~dawn",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.774652,
                     45.355776
                 ],
@@ -651,32 +615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.742353,
-                    45.377918
+                    -122.764504,
+                    45.383621
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3868",
+                    "identifier": "f-trimet-s-13069",
                     "tags": {
-                        "direction": "North",
+                        "direction": "",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "3868",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 3868)",
-                        "stop_id": "3868",
-                        "stop_lat": "45.377918",
-                        "stop_lon": "-122.742353",
-                        "stop_name": "Meridian Park Hospital Main Stop",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3868",
-                        "zone_id": "B"
+                        "stop_code": "13069",
+                        "stop_desc": "Bidirectional stop in Tualatin (Stop ID 13069)",
+                        "stop_id": "13069",
+                        "stop_lat": "45.383621",
+                        "stop_lon": "-122.764504",
+                        "stop_name": "Tualatin WES Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13069",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "Meridian Park Hospital Main Stop",
-            "onestopId": "s-c20dnuv9xc-meridianparkhospitalmainstop",
+            "name": "Tualatin WES Station",
+            "onestopId": "s-c20dnmvdg8-tualatinwesstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -723,6 +687,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.751554,
+                    45.37548
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-8282",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "8282",
+                        "stop_desc": "Westbound stop in Tualatin (Stop ID 8282)",
+                        "stop_id": "8282",
+                        "stop_lat": "45.37548",
+                        "stop_lon": "-122.751554",
+                        "stop_name": "SW Sagert & 72nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8282",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Sagert & 72nd",
+            "onestopId": "s-c20dnsr536-swsagert~72nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.757268,
                     45.387046
                 ],
@@ -759,32 +759,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.75903,
-                    45.381872
+                    -122.774863,
+                    45.353383
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9026",
+                    "identifier": "f-trimet-s-542",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9026",
-                        "stop_desc": "Southbound stop in Tualatin (Stop ID 9026)",
-                        "stop_id": "9026",
-                        "stop_lat": "45.381872",
-                        "stop_lon": "-122.75903",
-                        "stop_name": "SW Martinazzi & Tualatin-Sherwood",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9026",
+                        "position": "Opposite",
+                        "stop_code": "542",
+                        "stop_desc": "Southbound stop in Tualatin (Stop ID 542)",
+                        "stop_id": "542",
+                        "stop_lat": "45.353383",
+                        "stop_lon": "-122.774863",
+                        "stop_name": "SW Boones Ferry Rd & Norwood",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=542",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Martinazzi & Tualatin-Sherwood",
-            "onestopId": "s-c20dnt98e6-swmartinazzi~tualatinsherwood",
+            "name": "SW Boones Ferry Rd & Norwood",
+            "onestopId": "s-c20dn0q4d7-swboonesferry~norwood",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.747073,
+                    45.391368
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3821",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Opposite",
+                        "stop_code": "3821",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 3821)",
+                        "stop_id": "3821",
+                        "stop_lat": "45.391368",
+                        "stop_lon": "-122.747073",
+                        "stop_name": "7100 Block SW McEwan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3821",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "7100 Block SW McEwan",
+            "onestopId": "s-c20dnz4rcu-7100blockswmcewan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -867,32 +903,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.743941,
-                    45.386931
+                    -122.742353,
+                    45.377918
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7840",
+                    "identifier": "f-trimet-s-3868",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7840",
-                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 7840)",
-                        "stop_id": "7840",
-                        "stop_lat": "45.386931",
-                        "stop_lon": "-122.743941",
-                        "stop_name": "SW 65th & Childs",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7840",
+                        "position": "At",
+                        "stop_code": "3868",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 3868)",
+                        "stop_id": "3868",
+                        "stop_lat": "45.377918",
+                        "stop_lon": "-122.742353",
+                        "stop_name": "Meridian Park Hospital Main Stop",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3868",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 65th & Childs",
-            "onestopId": "s-c20dnykw4c-sw65th~childs",
+            "name": "Meridian Park Hospital Main Stop",
+            "onestopId": "s-c20dnuv9xc-meridianparkhospitalmainstop",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -975,32 +1011,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.748465,
-                    45.375365
+                    -122.76395,
+                    45.375434
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5002",
+                    "identifier": "f-trimet-s-8276",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "5002",
-                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 5002)",
-                        "stop_id": "5002",
-                        "stop_lat": "45.375365",
-                        "stop_lon": "-122.748465",
-                        "stop_name": "SW Sagert & 70th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5002",
+                        "position": "Opposite",
+                        "stop_code": "8276",
+                        "stop_desc": "Westbound stop in Tualatin (Stop ID 8276)",
+                        "stop_id": "8276",
+                        "stop_lat": "45.375434",
+                        "stop_lon": "-122.76395",
+                        "stop_name": "SW Sagert & Tillamook",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8276",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Sagert & 70th",
-            "onestopId": "s-c20dnu369m-swsagert~70th",
+            "name": "SW Sagert & Tillamook",
+            "onestopId": "s-c20dnkq509-swsagert~tillamook",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1011,32 +1047,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.747073,
-                    45.391368
+                    -122.759974,
+                    45.375315
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3821",
+                    "identifier": "f-trimet-s-8506",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3821",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 3821)",
-                        "stop_id": "3821",
-                        "stop_lat": "45.391368",
-                        "stop_lon": "-122.747073",
-                        "stop_name": "7100 Block SW McEwan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3821",
+                        "position": "Farside",
+                        "stop_code": "8506",
+                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 8506)",
+                        "stop_id": "8506",
+                        "stop_lat": "45.375315",
+                        "stop_lon": "-122.759974",
+                        "stop_name": "SW Sagert & Martinazzi",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8506",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "7100 Block SW McEwan",
-            "onestopId": "s-c20dnz4rcu-7100blockswmcewan",
+            "name": "SW Sagert & Martinazzi",
+            "onestopId": "s-c20dns2fm7-swsagert~martinazzi",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1073,78 +1109,6 @@
             ],
             "name": "SW Lower Boones Ferry & Childs Rd",
             "onestopId": "s-c20dnxjbnk-swlowerboonesferry~childs",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.759838,
-                    45.378865
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13081",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13081",
-                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 13081)",
-                        "stop_id": "13081",
-                        "stop_lat": "45.378865",
-                        "stop_lon": "-122.759838",
-                        "stop_name": "SW Warm Springs & Martinazzi",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13081",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Warm Springs & Martinazzi",
-            "onestopId": "s-c20dnscp03-swwarmsprings~martinazzi",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.75967,
-                    45.384742
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13078",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13078",
-                        "stop_desc": "Westbound stop in Tualatin (Stop ID 13078)",
-                        "stop_id": "13078",
-                        "stop_lat": "45.384742",
-                        "stop_lon": "-122.75967",
-                        "stop_name": "SW Boones Ferry Rd & Martinazzi",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13078",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Boones Ferry Rd & Martinazzi",
-            "onestopId": "s-c20dnw11k3-swboonesferry~martinazzi",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1299,32 +1263,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.748821,
-                    45.394692
+                    -122.769659,
+                    45.372988
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7879",
+                    "identifier": "f-trimet-s-501",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "7879",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 7879)",
-                        "stop_id": "7879",
-                        "stop_lat": "45.394692",
-                        "stop_lon": "-122.748821",
-                        "stop_name": "Tualatin Park & Ride ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7879",
+                        "position": "Nearside",
+                        "stop_code": "501",
+                        "stop_desc": "Southbound stop in Tualatin (Stop ID 501)",
+                        "stop_id": "501",
+                        "stop_lat": "45.372988",
+                        "stop_lon": "-122.769659",
+                        "stop_name": "SW Boones Ferry Rd & Apache",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=501",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Tualatin Park & Ride ",
-            "onestopId": "s-c20dnzc51p-tualatinpark~ride",
+            "name": "SW Boones Ferry Rd & Apache",
+            "onestopId": "s-c20dn7cugd-swboonesferry~apache",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1479,42 +1443,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.76395,
-                    45.375434
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8276",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8276",
-                        "stop_desc": "Westbound stop in Tualatin (Stop ID 8276)",
-                        "stop_id": "8276",
-                        "stop_lat": "45.375434",
-                        "stop_lon": "-122.76395",
-                        "stop_name": "SW Sagert & Tillamook",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8276",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Sagert & Tillamook",
-            "onestopId": "s-c20dnkq509-swsagert~tillamook",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.758244,
                     45.375454
                 ],
@@ -1551,32 +1479,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.755457,
-                    45.389309
+                    -122.765467,
+                    45.375414
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-571",
+                    "identifier": "f-trimet-s-8788",
                     "tags": {
                         "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "571",
-                        "stop_desc": "Westbound stop in Durham (Stop ID 571)",
-                        "stop_id": "571",
-                        "stop_lat": "45.389309",
-                        "stop_lon": "-122.755457",
-                        "stop_name": "SW Lower Boones Ferry & Boones Ferry",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=571",
+                        "position": "Opposite",
+                        "stop_code": "8788",
+                        "stop_desc": "Westbound stop in Tualatin (Stop ID 8788)",
+                        "stop_id": "8788",
+                        "stop_lat": "45.375414",
+                        "stop_lon": "-122.765467",
+                        "stop_name": "SW Sagert & 86th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8788",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Lower Boones Ferry & Boones Ferry",
-            "onestopId": "s-c20dnwu5ys-swlowerboonesferry~boonesferry",
+            "name": "SW Sagert & 86th",
+            "onestopId": "s-c20dnkkfvq-swsagert~86th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1659,32 +1587,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.747339,
-                    45.391389
+                    -122.743804,
+                    45.376222
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3822",
+                    "identifier": "f-trimet-s-7839",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "3822",
-                        "stop_desc": "Southbound stop in Tualatin (Stop ID 3822)",
-                        "stop_id": "3822",
-                        "stop_lat": "45.391389",
-                        "stop_lon": "-122.747339",
-                        "stop_name": "7100 Block SW McEwan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3822",
+                        "position": "Nearside",
+                        "stop_code": "7839",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 7839)",
+                        "stop_id": "7839",
+                        "stop_lat": "45.376222",
+                        "stop_lon": "-122.743804",
+                        "stop_name": "SW 65th & Borland",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7839",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "7100 Block SW McEwan",
-            "onestopId": "s-c20dnz6058-7100blockswmcewan",
+            "name": "SW 65th & Borland",
+            "onestopId": "s-c20dnukxwh-sw65th~borland",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1911,32 +1839,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.751554,
-                    45.37548
+                    -122.743941,
+                    45.386931
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8282",
+                    "identifier": "f-trimet-s-7840",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "8282",
-                        "stop_desc": "Westbound stop in Tualatin (Stop ID 8282)",
-                        "stop_id": "8282",
-                        "stop_lat": "45.37548",
-                        "stop_lon": "-122.751554",
-                        "stop_name": "SW Sagert & 72nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8282",
+                        "stop_code": "7840",
+                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 7840)",
+                        "stop_id": "7840",
+                        "stop_lat": "45.386931",
+                        "stop_lon": "-122.743941",
+                        "stop_name": "SW 65th & Childs",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7840",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Sagert & 72nd",
-            "onestopId": "s-c20dnsr536-swsagert~72nd",
+            "name": "SW 65th & Childs",
+            "onestopId": "s-c20dnykw4c-sw65th~childs",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2019,32 +1947,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.759974,
-                    45.375315
+                    -122.75967,
+                    45.384742
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8506",
+                    "identifier": "f-trimet-s-13078",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "8506",
-                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 8506)",
-                        "stop_id": "8506",
-                        "stop_lat": "45.375315",
-                        "stop_lon": "-122.759974",
-                        "stop_name": "SW Sagert & Martinazzi",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8506",
+                        "stop_code": "13078",
+                        "stop_desc": "Westbound stop in Tualatin (Stop ID 13078)",
+                        "stop_id": "13078",
+                        "stop_lat": "45.384742",
+                        "stop_lon": "-122.75967",
+                        "stop_name": "SW Boones Ferry Rd & Martinazzi",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13078",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Sagert & Martinazzi",
-            "onestopId": "s-c20dns2fm7-swsagert~martinazzi",
+            "name": "SW Boones Ferry Rd & Martinazzi",
+            "onestopId": "s-c20dnw11k3-swboonesferry~martinazzi",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2091,6 +2019,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.755457,
+                    45.389309
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-571",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "571",
+                        "stop_desc": "Westbound stop in Durham (Stop ID 571)",
+                        "stop_id": "571",
+                        "stop_lat": "45.389309",
+                        "stop_lon": "-122.755457",
+                        "stop_name": "SW Lower Boones Ferry & Boones Ferry",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=571",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Lower Boones Ferry & Boones Ferry",
+            "onestopId": "s-c20dnwu5ys-swlowerboonesferry~boonesferry",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.747339,
+                    45.391389
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-3822",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "3822",
+                        "stop_desc": "Southbound stop in Tualatin (Stop ID 3822)",
+                        "stop_id": "3822",
+                        "stop_lat": "45.391389",
+                        "stop_lon": "-122.747339",
+                        "stop_name": "7100 Block SW McEwan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3822",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "7100 Block SW McEwan",
+            "onestopId": "s-c20dnz6058-7100blockswmcewan",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.751098,
                     45.391399
                 ],
@@ -2127,32 +2127,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.764129,
-                    45.383302
+                    -122.758147,
+                    45.375323
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13084",
+                    "identifier": "f-trimet-s-4999",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "13084",
-                        "stop_desc": "Northbound stop in Tualatin (Stop ID 13084)",
-                        "stop_id": "13084",
-                        "stop_lat": "45.383302",
-                        "stop_lon": "-122.764129",
-                        "stop_name": "SW Boones Ferry Rd & Seneca",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13084",
+                        "position": "At",
+                        "stop_code": "4999",
+                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 4999)",
+                        "stop_id": "4999",
+                        "stop_lat": "45.375323",
+                        "stop_lon": "-122.758147",
+                        "stop_name": "7800 Block SW Sagert",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=4999",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & Seneca",
-            "onestopId": "s-c20dnmvbuk-swboonesferry~seneca",
+            "name": "7800 Block SW Sagert",
+            "onestopId": "s-c20dns64rv-7800blockswsagert",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2271,42 +2271,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.746894,
-                    45.39416
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-3819",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3819",
-                        "stop_desc": "Southbound stop in Tualatin (Stop ID 3819)",
-                        "stop_id": "3819",
-                        "stop_lat": "45.39416",
-                        "stop_lon": "-122.746894",
-                        "stop_name": "17900 Block SW McEwan ",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3819",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "17900 Block SW McEwan ",
-            "onestopId": "s-c20dnzf2nh-17900blockswmcewan",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.7395,
                     45.38629
                 ],
@@ -2343,32 +2307,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.744017,
-                    45.376948
+                    -122.748465,
+                    45.375365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8279",
+                    "identifier": "f-trimet-s-5002",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "8279",
-                        "stop_desc": "Southbound stop in Tualatin (Stop ID 8279)",
-                        "stop_id": "8279",
-                        "stop_lat": "45.376948",
-                        "stop_lon": "-122.744017",
-                        "stop_name": "SW 65th & Borland",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8279",
+                        "position": "Farside",
+                        "stop_code": "5002",
+                        "stop_desc": "Eastbound stop in Tualatin (Stop ID 5002)",
+                        "stop_id": "5002",
+                        "stop_lat": "45.375365",
+                        "stop_lon": "-122.748465",
+                        "stop_name": "SW Sagert & 70th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5002",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 65th & Borland",
-            "onestopId": "s-c20dnusech-sw65th~borland",
+            "name": "SW Sagert & 70th",
+            "onestopId": "s-c20dnu369m-swsagert~70th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2379,32 +2343,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.774863,
-                    45.353383
+                    -122.746894,
+                    45.39416
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-542",
+                    "identifier": "f-trimet-s-3819",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "542",
-                        "stop_desc": "Southbound stop in Tualatin (Stop ID 542)",
-                        "stop_id": "542",
-                        "stop_lat": "45.353383",
-                        "stop_lon": "-122.774863",
-                        "stop_name": "SW Boones Ferry Rd & Norwood",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=542",
+                        "stop_code": "3819",
+                        "stop_desc": "Southbound stop in Tualatin (Stop ID 3819)",
+                        "stop_id": "3819",
+                        "stop_lat": "45.39416",
+                        "stop_lon": "-122.746894",
+                        "stop_name": "17900 Block SW McEwan ",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3819",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & Norwood",
-            "onestopId": "s-c20dn0q4d7-swboonesferry~norwood",
+            "name": "17900 Block SW McEwan ",
+            "onestopId": "s-c20dnzf2nh-17900blockswmcewan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2487,32 +2451,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.764504,
-                    45.383621
+                    -122.743305,
+                    45.380442
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13069",
+                    "identifier": "f-trimet-s-3867",
                     "tags": {
-                        "direction": "",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13069",
-                        "stop_desc": "Bidirectional stop in Tualatin (Stop ID 13069)",
-                        "stop_id": "13069",
-                        "stop_lat": "45.383621",
-                        "stop_lon": "-122.764504",
-                        "stop_name": "Tualatin WES Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13069",
-                        "zone_id": "R"
+                        "position": "Nearside",
+                        "stop_code": "3867",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 3867)",
+                        "stop_id": "3867",
+                        "stop_lat": "45.380442",
+                        "stop_lon": "-122.743305",
+                        "stop_name": "Meridian Park Hospital Rd & SW 65th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3867",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "Tualatin WES Station",
-            "onestopId": "s-c20dnmvdg8-tualatinwesstation",
+            "name": "Meridian Park Hospital Rd & SW 65th",
+            "onestopId": "s-c20dnvm01x-meridianparkhospital~sw65th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2559,32 +2523,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.743973,
-                    45.388463
+                    -122.744017,
+                    45.376948
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7842",
+                    "identifier": "f-trimet-s-8279",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Opposite",
-                        "stop_code": "7842",
-                        "stop_desc": "Southbound stop in Lake Oswego (Stop ID 7842)",
-                        "stop_id": "7842",
-                        "stop_lat": "45.388463",
-                        "stop_lon": "-122.743973",
-                        "stop_name": "SW 65th & Dawn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7842",
+                        "stop_code": "8279",
+                        "stop_desc": "Southbound stop in Tualatin (Stop ID 8279)",
+                        "stop_id": "8279",
+                        "stop_lat": "45.376948",
+                        "stop_lon": "-122.744017",
+                        "stop_name": "SW 65th & Borland",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8279",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 65th & Dawn",
-            "onestopId": "s-c20dnyswfn-sw65th~dawn",
+            "name": "SW 65th & Borland",
+            "onestopId": "s-c20dnusech-sw65th~borland",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.772528,
+                    45.369001
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-562",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "562",
+                        "stop_desc": "Northbound stop in Tualatin (Stop ID 562)",
+                        "stop_id": "562",
+                        "stop_lat": "45.369001",
+                        "stop_lon": "-122.772528",
+                        "stop_name": "SW Boones Ferry Rd & Siletz",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=562",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Boones Ferry Rd & Siletz",
+            "onestopId": "s-c20dn5pv8d-swboonesferry~siletz",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

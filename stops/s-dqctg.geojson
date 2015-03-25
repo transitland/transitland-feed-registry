@@ -38,31 +38,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.497621,
-                    38.983708
+                    -76.502471,
+                    38.986965
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2836",
+                    "identifier": "f-mtamaryland-s-13653",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2836",
-                        "stop_desc": "ROWE BLVD at COLLEGE AVE nb",
-                        "stop_id": "2836",
-                        "stop_lat": "38.983708",
-                        "stop_lon": "-76.497621",
-                        "stop_name": "ROSCOE ROWE & COLLEGE AVE nb",
+                        "stop_code": "13653",
+                        "stop_desc": "ROSCOE C ROWE BLVD at TAYLOR AVE",
+                        "stop_id": "13653",
+                        "stop_lat": "38.986965",
+                        "stop_lon": "-76.502471",
+                        "stop_name": "ROWE BLVD & TAYLOR AVE wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROSCOE ROWE & COLLEGE AVE nb",
-            "onestopId": "s-dqctg2b0s1-roscoerowe~collegenb",
+            "name": "ROWE BLVD & TAYLOR AVE wb",
+            "onestopId": "s-dqctg1kee1-rowe~taylorwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -108,31 +108,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.502712,
-                    38.98711
+                    -76.497717,
+                    38.983476
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-11735",
+                    "identifier": "f-mtamaryland-s-2830",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11735",
-                        "stop_desc": "ROSCOE C ROWE BLVD at TAYLOR AVE nb",
-                        "stop_id": "11735",
-                        "stop_lat": "38.98711",
-                        "stop_lon": "-76.502712",
-                        "stop_name": "ROWE BLVD & TAYLOR AVE nb",
+                        "stop_code": "2830",
+                        "stop_desc": "ROSCOE ROWE BLVD at COLLEGE CREEK sb",
+                        "stop_id": "2830",
+                        "stop_lat": "38.983476",
+                        "stop_lon": "-76.497717",
+                        "stop_name": "ROSCOE ROWE & COLLEGE CRK",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROWE BLVD & TAYLOR AVE nb",
-            "onestopId": "s-dqctg1kkms-rowe~taylornb",
+            "name": "ROSCOE ROWE & COLLEGE CRK",
+            "onestopId": "s-dqctg28p1y-roscoerowe~collegecrk",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -213,6 +213,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.502646,
+                    38.986804
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-10921",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "10921",
+                        "stop_desc": "ROSCOE C ROWE BLVD at TAYLOR AVE",
+                        "stop_id": "10921",
+                        "stop_lat": "38.986804",
+                        "stop_lon": "-76.502646",
+                        "stop_name": "ROSCOE ROWE & TAYLOR FS",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROSCOE ROWE & TAYLOR FS",
+            "onestopId": "s-dqctg1k6x5-roscoerowe~taylorfs",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.4942,
                     38.989721
                 ],
@@ -238,41 +273,6 @@
             ],
             "name": "RT 450 & BADGER RD eb",
             "onestopId": "s-dqctg3feef-rt450~badgereb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.498019,
-                    38.98818
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-8436",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "8436",
-                        "stop_desc": "RTE 450 at KING GEORGE DR wb",
-                        "stop_id": "8436",
-                        "stop_lat": "38.98818",
-                        "stop_lon": "-76.498019",
-                        "stop_name": "RT 450 & KING GEORGE ST wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "RT 450 & KING GEORGE ST wb",
-            "onestopId": "s-dqctg1xfdg-rt450~kinggeorgewb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -423,31 +423,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.502471,
-                    38.986965
+                    -76.497621,
+                    38.983708
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-13653",
+                    "identifier": "f-mtamaryland-s-2836",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13653",
-                        "stop_desc": "ROSCOE C ROWE BLVD at TAYLOR AVE",
-                        "stop_id": "13653",
-                        "stop_lat": "38.986965",
-                        "stop_lon": "-76.502471",
-                        "stop_name": "ROWE BLVD & TAYLOR AVE wb",
+                        "stop_code": "2836",
+                        "stop_desc": "ROWE BLVD at COLLEGE AVE nb",
+                        "stop_id": "2836",
+                        "stop_lat": "38.983708",
+                        "stop_lon": "-76.497621",
+                        "stop_name": "ROSCOE ROWE & COLLEGE AVE nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROWE BLVD & TAYLOR AVE wb",
-            "onestopId": "s-dqctg1kee1-rowe~taylorwb",
+            "name": "ROSCOE ROWE & COLLEGE AVE nb",
+            "onestopId": "s-dqctg2b0s1-roscoerowe~collegenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -493,31 +493,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.497717,
-                    38.983476
+                    -76.502712,
+                    38.98711
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2830",
+                    "identifier": "f-mtamaryland-s-11735",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2830",
-                        "stop_desc": "ROSCOE ROWE BLVD at COLLEGE CREEK sb",
-                        "stop_id": "2830",
-                        "stop_lat": "38.983476",
-                        "stop_lon": "-76.497717",
-                        "stop_name": "ROSCOE ROWE & COLLEGE CRK",
+                        "stop_code": "11735",
+                        "stop_desc": "ROSCOE C ROWE BLVD at TAYLOR AVE nb",
+                        "stop_id": "11735",
+                        "stop_lat": "38.98711",
+                        "stop_lon": "-76.502712",
+                        "stop_name": "ROWE BLVD & TAYLOR AVE nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROSCOE ROWE & COLLEGE CRK",
-            "onestopId": "s-dqctg28p1y-roscoerowe~collegecrk",
+            "name": "ROWE BLVD & TAYLOR AVE nb",
+            "onestopId": "s-dqctg1kkms-rowe~taylornb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -598,31 +598,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.502646,
-                    38.986804
+                    -76.498019,
+                    38.98818
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10921",
+                    "identifier": "f-mtamaryland-s-8436",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10921",
-                        "stop_desc": "ROSCOE C ROWE BLVD at TAYLOR AVE",
-                        "stop_id": "10921",
-                        "stop_lat": "38.986804",
-                        "stop_lon": "-76.502646",
-                        "stop_name": "ROSCOE ROWE & TAYLOR FS",
+                        "stop_code": "8436",
+                        "stop_desc": "RTE 450 at KING GEORGE DR wb",
+                        "stop_id": "8436",
+                        "stop_lat": "38.98818",
+                        "stop_lon": "-76.498019",
+                        "stop_name": "RT 450 & KING GEORGE ST wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROSCOE ROWE & TAYLOR FS",
-            "onestopId": "s-dqctg1k6x5-roscoerowe~taylorfs",
+            "name": "RT 450 & KING GEORGE ST wb",
+            "onestopId": "s-dqctg1xfdg-rt450~kinggeorgewb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

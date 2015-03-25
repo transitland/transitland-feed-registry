@@ -3,32 +3,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.775269,
-                    45.347059
+                    -122.777316,
+                    45.336459
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-533",
+                    "identifier": "f-trimet-s-8391",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "533",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 533)",
-                        "stop_id": "533",
-                        "stop_lat": "45.347059",
-                        "stop_lon": "-122.775269",
-                        "stop_name": "SW Boones Ferry Rd & Greenhill Ln",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=533",
+                        "position": "At",
+                        "stop_code": "8391",
+                        "stop_desc": "Southbound stop in Wilsonville (Stop ID 8391)",
+                        "stop_id": "8391",
+                        "stop_lat": "45.336459",
+                        "stop_lon": "-122.777316",
+                        "stop_name": "9900 Block SW Commerce Circle",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8391",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Boones Ferry Rd & Greenhill Ln",
-            "onestopId": "s-c209ypjvbb-swboonesferry~greenhill",
+            "name": "9900 Block SW Commerce Circle",
+            "onestopId": "s-c209yjk210-9900blockswcommercecircle",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -39,32 +39,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.775303,
-                    45.311358
+                    -122.774096,
+                    45.343518
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13070",
+                    "identifier": "f-trimet-s-8891",
                     "tags": {
-                        "direction": "",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "At",
-                        "stop_code": "13070",
-                        "stop_desc": "Bidirectional stop in Wilsonville (Stop ID 13070)",
-                        "stop_id": "13070",
-                        "stop_lat": "45.311358",
-                        "stop_lon": "-122.775303",
-                        "stop_name": "Wilsonville WES Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13070",
-                        "zone_id": "R"
+                        "stop_code": "8891",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 8891)",
+                        "stop_id": "8891",
+                        "stop_lat": "45.343518",
+                        "stop_lon": "-122.774096",
+                        "stop_name": "24300 Block SW Boones Ferry Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8891",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "Wilsonville WES Station",
-            "onestopId": "s-c209y0tvb1-wilsonvillewesstation",
+            "name": "24300 Block SW Boones Ferry Rd",
+            "onestopId": "s-c209ynw9hh-24300blockswboonesferry",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -111,6 +111,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.775303,
+                    45.311358
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13070",
+                    "tags": {
+                        "direction": "",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "13070",
+                        "stop_desc": "Bidirectional stop in Wilsonville (Stop ID 13070)",
+                        "stop_id": "13070",
+                        "stop_lat": "45.311358",
+                        "stop_lon": "-122.775303",
+                        "stop_name": "Wilsonville WES Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13070",
+                        "zone_id": "R"
+                    }
+                }
+            ],
+            "name": "Wilsonville WES Station",
+            "onestopId": "s-c209y0tvb1-wilsonvillewesstation",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.774601,
                     45.337695
                 ],
@@ -147,32 +183,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.777316,
-                    45.336459
+                    -122.775269,
+                    45.347059
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8391",
+                    "identifier": "f-trimet-s-533",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8391",
-                        "stop_desc": "Southbound stop in Wilsonville (Stop ID 8391)",
-                        "stop_id": "8391",
-                        "stop_lat": "45.336459",
-                        "stop_lon": "-122.777316",
-                        "stop_name": "9900 Block SW Commerce Circle",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8391",
+                        "position": "Opposite",
+                        "stop_code": "533",
+                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 533)",
+                        "stop_id": "533",
+                        "stop_lat": "45.347059",
+                        "stop_lon": "-122.775269",
+                        "stop_name": "SW Boones Ferry Rd & Greenhill Ln",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=533",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "9900 Block SW Commerce Circle",
-            "onestopId": "s-c209yjk210-9900blockswcommercecircle",
+            "name": "SW Boones Ferry Rd & Greenhill Ln",
+            "onestopId": "s-c209ypjvbb-swboonesferry~greenhill",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -245,42 +281,6 @@
             ],
             "name": "SW Boones Ferry Rd & Greenhill Ln",
             "onestopId": "s-c209ypjuuc-swboonesferry~greenhill",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.774096,
-                    45.343518
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8891",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8891",
-                        "stop_desc": "Southbound stop in Washington Co. (Stop ID 8891)",
-                        "stop_id": "8891",
-                        "stop_lat": "45.343518",
-                        "stop_lon": "-122.774096",
-                        "stop_name": "24300 Block SW Boones Ferry Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8891",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "24300 Block SW Boones Ferry Rd",
-            "onestopId": "s-c209ynw9hh-24300blockswboonesferry",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

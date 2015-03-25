@@ -507,42 +507,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.001627989,
-                    32.7853973103
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtssandiego-s-75029",
-                    "tags": {
-                        "intersection_code": "",
-                        "location_type": "0",
-                        "parent_station": "amatro",
-                        "reference_place": "",
-                        "stop_code": "75029",
-                        "stop_id": "75029",
-                        "stop_lat": "32.7853973103",
-                        "stop_lon": "-117.001627989",
-                        "stop_name": "Amaya Drive Station",
-                        "stop_name_short": "Amaya Drive ",
-                        "stop_place": "amaS",
-                        "wheelchair_boarding": "0"
-                    }
-                }
-            ],
-            "name": "Amaya Drive Station",
-            "onestopId": "s-9muf986hb3-amayastation",
-            "properties": {},
-            "servedBy": [
-                "o-9mu-mts"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -117.002448873,
                     32.8018832135
                 ],
@@ -759,32 +723,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.006952541,
-                    32.8029743152
+                    -117.010941339,
+                    32.802468809
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-11479",
+                    "identifier": "f-mtssandiego-s-12253",
                     "tags": {
-                        "intersection_code": "F-W/B",
+                        "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "11479",
-                        "stop_id": "11479",
-                        "stop_lat": "32.8029743152",
-                        "stop_lon": "-117.006952541",
-                        "stop_name": "Navajo Rd & Hwy 125 Off Ramp",
-                        "stop_name_short": "Navajo&Hwy 125 Off Ramp",
-                        "stop_place": "nav125",
+                        "stop_code": "12253",
+                        "stop_id": "12253",
+                        "stop_lat": "32.802468809",
+                        "stop_lon": "-117.010941339",
+                        "stop_name": "Lake Murray Bl & Navajo Rd",
+                        "stop_name_short": "Lake Murray&Navajo",
+                        "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Navajo Rd & Hwy 125 Off Ramp",
-            "onestopId": "s-9muf97w5hm-navajo~125offramp",
+            "name": "Lake Murray Bl & Navajo Rd",
+            "onestopId": "s-9muf97e0pr-lakemurraybl~navajo",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -867,32 +831,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.026204878,
-                    32.7847944519
+                    -117.001627989,
+                    32.7853973103
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-40605",
+                    "identifier": "f-mtssandiego-s-75029",
                     "tags": {
-                        "intersection_code": "F-S/B",
+                        "intersection_code": "",
                         "location_type": "0",
-                        "parent_station": "",
+                        "parent_station": "amatro",
                         "reference_place": "",
-                        "stop_code": "40605",
-                        "stop_id": "40605",
-                        "stop_lat": "32.7847944519",
-                        "stop_lon": "-117.026204878",
-                        "stop_name": "Lake Murray Bl & Marengo Av",
-                        "stop_name_short": "Lake Murray&Marengo",
-                        "stop_place": "",
-                        "wheelchair_boarding": "1"
+                        "stop_code": "75029",
+                        "stop_id": "75029",
+                        "stop_lat": "32.7853973103",
+                        "stop_lon": "-117.001627989",
+                        "stop_name": "Amaya Drive Station",
+                        "stop_name_short": "Amaya Drive ",
+                        "stop_place": "amaS",
+                        "wheelchair_boarding": "0"
                     }
                 }
             ],
-            "name": "Lake Murray Bl & Marengo Av",
-            "onestopId": "s-9muf90217b-lakemurraybl~marengo",
+            "name": "Amaya Drive Station",
+            "onestopId": "s-9muf986hb3-amayastation",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"
@@ -975,32 +939,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -117.010941339,
-                    32.802468809
+                    -117.006952541,
+                    32.8029743152
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtssandiego-s-12253",
+                    "identifier": "f-mtssandiego-s-11479",
+                    "tags": {
+                        "intersection_code": "F-W/B",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "reference_place": "",
+                        "stop_code": "11479",
+                        "stop_id": "11479",
+                        "stop_lat": "32.8029743152",
+                        "stop_lon": "-117.006952541",
+                        "stop_name": "Navajo Rd & Hwy 125 Off Ramp",
+                        "stop_name_short": "Navajo&Hwy 125 Off Ramp",
+                        "stop_place": "nav125",
+                        "wheelchair_boarding": "1"
+                    }
+                }
+            ],
+            "name": "Navajo Rd & Hwy 125 Off Ramp",
+            "onestopId": "s-9muf97w5hm-navajo~125offramp",
+            "properties": {},
+            "servedBy": [
+                "o-9mu-mts"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.026204878,
+                    32.7847944519
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtssandiego-s-40605",
                     "tags": {
                         "intersection_code": "F-S/B",
                         "location_type": "0",
                         "parent_station": "",
                         "reference_place": "",
-                        "stop_code": "12253",
-                        "stop_id": "12253",
-                        "stop_lat": "32.802468809",
-                        "stop_lon": "-117.010941339",
-                        "stop_name": "Lake Murray Bl & Navajo Rd",
-                        "stop_name_short": "Lake Murray&Navajo",
+                        "stop_code": "40605",
+                        "stop_id": "40605",
+                        "stop_lat": "32.7847944519",
+                        "stop_lon": "-117.026204878",
+                        "stop_name": "Lake Murray Bl & Marengo Av",
+                        "stop_name_short": "Lake Murray&Marengo",
                         "stop_place": "",
                         "wheelchair_boarding": "1"
                     }
                 }
             ],
-            "name": "Lake Murray Bl & Navajo Rd",
-            "onestopId": "s-9muf97e0pr-lakemurraybl~navajo",
+            "name": "Lake Murray Bl & Marengo Av",
+            "onestopId": "s-9muf90217b-lakemurraybl~marengo",
             "properties": {},
             "servedBy": [
                 "o-9mu-mts"

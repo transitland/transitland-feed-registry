@@ -219,32 +219,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.661926,
-                    45.516951
+                    -122.68187,
+                    45.525061
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13584",
+                    "identifier": "f-trimet-s-1607",
                     "tags": {
-                        "direction": "South",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "13584",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 13584)",
-                        "stop_id": "13584",
-                        "stop_lat": "45.516951",
-                        "stop_lon": "-122.661926",
-                        "stop_name": "SE M L King & Morrison",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13584",
+                        "stop_code": "1607",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1607)",
+                        "stop_id": "1607",
+                        "stop_lat": "45.525061",
+                        "stop_lon": "-122.68187",
+                        "stop_name": "NW Everett & 11th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1607",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE M L King & Morrison",
-            "onestopId": "s-c20fby073y-semlking~morrison",
+            "name": "NW Everett & 11th",
+            "onestopId": "s-c20fbr9f9n-nweverett~11th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -507,32 +507,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.67824,
-                    45.519607
+                    -122.671007,
+                    45.52325
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7747",
+                    "identifier": "f-trimet-s-689",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7747",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7747)",
-                        "stop_id": "7747",
-                        "stop_lat": "45.519607",
-                        "stop_lon": "-122.67824",
-                        "stop_name": "SW 6th & Alder",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7747",
+                        "position": "At",
+                        "stop_code": "689",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 689)",
+                        "stop_id": "689",
+                        "stop_lat": "45.52325",
+                        "stop_lon": "-122.671007",
+                        "stop_name": "W Burnside & Burnside Bridge",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=689",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 6th & Alder",
-            "onestopId": "s-c20fbqs6vv-sw6th~alder",
+            "name": "W Burnside & Burnside Bridge",
+            "onestopId": "s-c20fbx38nk-wburnside~burnsidebridge",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.661524,
+                    45.523703
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13330",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13330",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 13330)",
+                        "stop_id": "13330",
+                        "stop_lat": "45.523703",
+                        "stop_lon": "-122.661524",
+                        "stop_name": "NE Couch & M L King",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13330",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "NE Couch & M L King",
+            "onestopId": "s-c20fbz2dg3-necouch~mlking",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -651,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.68537,
-                    45.524981
+                    -122.680756,
+                    45.500753
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1608",
+                    "identifier": "f-trimet-s-197",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1608",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1608)",
-                        "stop_id": "1608",
-                        "stop_lat": "45.524981",
-                        "stop_lon": "-122.68537",
-                        "stop_name": "NW Everett & 14th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1608",
+                        "stop_code": "197",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 197)",
+                        "stop_id": "197",
+                        "stop_lat": "45.500753",
+                        "stop_lon": "-122.680756",
+                        "stop_name": "SW Barbur & Woods",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=197",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Everett & 14th",
-            "onestopId": "s-c20fbpx4px-nweverett~14th",
+            "name": "SW Barbur & Woods",
+            "onestopId": "s-c20fb74t55-swbarbur~woods",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -903,32 +939,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.67139,
-                    45.522873
+                    -122.675756,
+                    45.499286
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-8379",
+                    "identifier": "f-trimet-s-1139",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
-                        "parent_station": "landmark-118",
-                        "position": "At",
-                        "stop_code": "8379",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 8379)",
-                        "stop_id": "8379",
-                        "stop_lat": "45.522873",
-                        "stop_lon": "-122.67139",
-                        "stop_name": "Skidmore Fountain MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8379",
-                        "zone_id": "R"
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "1139",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 1139)",
+                        "stop_id": "1139",
+                        "stop_lat": "45.499286",
+                        "stop_lon": "-122.675756",
+                        "stop_name": "SW Corbett & Gibbs",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1139",
+                        "zone_id": "B"
                     }
                 }
             ],
-            "name": "Skidmore Fountain MAX Station",
-            "onestopId": "s-c20fbx1mvq-skidmorefountainmaxstation",
+            "name": "SW Corbett & Gibbs",
+            "onestopId": "s-c20fb6yhx9-swcorbett~gibbs",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1047,32 +1083,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.689577,
-                    45.52206
+                    -122.67383,
+                    45.489956
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9599",
+                    "identifier": "f-trimet-s-3612",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9599",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 9599)",
-                        "stop_id": "9599",
-                        "stop_lat": "45.52206",
-                        "stop_lon": "-122.689577",
-                        "stop_name": "SW Morrison & 17th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9599",
+                        "position": "Opposite",
+                        "stop_code": "3612",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 3612)",
+                        "stop_id": "3612",
+                        "stop_lat": "45.489956",
+                        "stop_lon": "-122.67383",
+                        "stop_name": "SW Macadam & Hamilton Ct",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3612",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Morrison & 17th",
-            "onestopId": "s-c20fbph1jx-swmorrison~17th",
+            "name": "SW Macadam & Hamilton Ct",
+            "onestopId": "s-c20fb3pwhw-swmacadam~hamilton",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1263,32 +1299,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.682223,
-                    45.523784
+                    -122.676338,
+                    45.489659
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10756",
+                    "identifier": "f-trimet-s-1153",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10756",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 10756)",
-                        "stop_id": "10756",
-                        "stop_lat": "45.523784",
-                        "stop_lon": "-122.682223",
-                        "stop_name": "NW 11th & Couch",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10756",
+                        "stop_code": "1153",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 1153)",
+                        "stop_id": "1153",
+                        "stop_lat": "45.489659",
+                        "stop_lon": "-122.676338",
+                        "stop_name": "SW Corbett & Seymour",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1153",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW 11th & Couch",
-            "onestopId": "s-c20fbr3e30-nw11th~couch",
+            "name": "SW Corbett & Seymour",
+            "onestopId": "s-c20fb3ju6p-swcorbett~seymour",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1947,42 +1983,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.679316,
-                    45.517604
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-7800",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7800",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7800)",
-                        "stop_id": "7800",
-                        "stop_lat": "45.517604",
-                        "stop_lon": "-122.679316",
-                        "stop_name": "SW 6th & Taylor",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7800",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW 6th & Taylor",
-            "onestopId": "s-c20fbq5xk8-sw6th~taylor",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.677521,
                     45.520931
                 ],
@@ -2019,68 +2019,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.671007,
-                    45.52325
+                    -122.677088,
+                    45.517942
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-689",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "689",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 689)",
-                        "stop_id": "689",
-                        "stop_lat": "45.52325",
-                        "stop_lon": "-122.671007",
-                        "stop_name": "W Burnside & Burnside Bridge",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=689",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "W Burnside & Burnside Bridge",
-            "onestopId": "s-c20fbx38nk-wburnside~burnsidebridge",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.692364,
-                    45.520156
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-5006",
+                    "identifier": "f-trimet-s-8335",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "5006",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5006)",
-                        "stop_id": "5006",
-                        "stop_lat": "45.520156",
-                        "stop_lon": "-122.692364",
-                        "stop_name": "SW Salmon & 19th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5006",
-                        "zone_id": "B"
+                        "position": "At",
+                        "stop_code": "8335",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 8335)",
+                        "stop_id": "8335",
+                        "stop_lat": "45.517942",
+                        "stop_lon": "-122.677088",
+                        "stop_name": "Mall/SW 4th Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8335",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "SW Salmon & 19th",
-            "onestopId": "s-c20fbndnhs-swsalmon~19th",
+            "name": "Mall/SW 4th Ave MAX Station",
+            "onestopId": "s-c20fbqm30x-mall~sw4thmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2127,32 +2091,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.695304,
-                    45.520926
+                    -122.693099,
+                    45.517577
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3236",
+                    "identifier": "f-trimet-s-1114",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "3236",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 3236)",
-                        "stop_id": "3236",
-                        "stop_lat": "45.520926",
-                        "stop_lon": "-122.695304",
-                        "stop_name": "SW King & Salmon",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3236",
+                        "stop_code": "1114",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1114)",
+                        "stop_id": "1114",
+                        "stop_lat": "45.517577",
+                        "stop_lon": "-122.693099",
+                        "stop_name": "SW 18th & Columbia",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1114",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW King & Salmon",
-            "onestopId": "s-c20fbnb485-swking~salmon",
+            "name": "SW 18th & Columbia",
+            "onestopId": "s-c20fbn1x5e-sw18th~columbia",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2775,6 +2739,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.670739,
+                    45.498939
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-12883",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "12883",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 12883)",
+                        "stop_id": "12883",
+                        "stop_lat": "45.498939",
+                        "stop_lon": "-122.670739",
+                        "stop_name": "OHSU Commons",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12883",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "OHSU Commons",
+            "onestopId": "s-c20fbdcfs8-ohsucommons",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.687932,
                     45.521641
                 ],
@@ -3027,42 +3027,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.677088,
-                    45.517942
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-8335",
-                    "tags": {
-                        "direction": "East",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "At",
-                        "stop_code": "8335",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 8335)",
-                        "stop_id": "8335",
-                        "stop_lat": "45.517942",
-                        "stop_lon": "-122.677088",
-                        "stop_name": "Mall/SW 4th Ave MAX Station",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8335",
-                        "zone_id": "R"
-                    }
-                }
-            ],
-            "name": "Mall/SW 4th Ave MAX Station",
-            "onestopId": "s-c20fbqm30x-mall~sw4thmaxstation",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.65358,
                     45.517059
                 ],
@@ -3099,32 +3063,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.672586,
-                    45.525213
+                    -122.677378,
+                    45.524378
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1612",
+                    "identifier": "f-trimet-s-7759",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1612",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1612)",
-                        "stop_id": "1612",
-                        "stop_lat": "45.525213",
-                        "stop_lon": "-122.672586",
-                        "stop_name": "NW Everett & 2nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1612",
+                        "stop_code": "7759",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7759)",
+                        "stop_id": "7759",
+                        "stop_lat": "45.524378",
+                        "stop_lon": "-122.677378",
+                        "stop_name": "NW Broadway & Davis",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7759",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Everett & 2nd",
-            "onestopId": "s-c20fbx8e9d-nweverett~2nd",
+            "name": "NW Broadway & Davis",
+            "onestopId": "s-c20fbrmn9z-nwbroadway~davis",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3135,32 +3099,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.676517,
-                    45.527222
+                    -122.690123,
+                    45.521935
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7763",
+                    "identifier": "f-trimet-s-9122",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "7763",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7763)",
-                        "stop_id": "7763",
-                        "stop_lat": "45.527222",
-                        "stop_lon": "-122.676517",
-                        "stop_name": "Union Station/NW 6th & Hoyt MAX Stn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7763",
+                        "position": "Nearside",
+                        "stop_code": "9122",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 9122)",
+                        "stop_id": "9122",
+                        "stop_lat": "45.521935",
+                        "stop_lon": "-122.690123",
+                        "stop_name": "SW 18th & Morrison",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9122",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Union Station/NW 6th & Hoyt MAX Stn",
-            "onestopId": "s-c20fbrvxmc-unionstation~nw6th~hoytmaxstn",
+            "name": "SW 18th & Morrison",
+            "onestopId": "s-c20fbp5b2z-sw18th~morrison",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -3459,32 +3423,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.661524,
-                    45.523703
+                    -122.67824,
+                    45.519607
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13330",
+                    "identifier": "f-trimet-s-7747",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "13330",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 13330)",
-                        "stop_id": "13330",
-                        "stop_lat": "45.523703",
-                        "stop_lon": "-122.661524",
-                        "stop_name": "NE Couch & M L King",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13330",
+                        "stop_code": "7747",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7747)",
+                        "stop_id": "7747",
+                        "stop_lat": "45.519607",
+                        "stop_lon": "-122.67824",
+                        "stop_name": "SW 6th & Alder",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7747",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NE Couch & M L King",
-            "onestopId": "s-c20fbz2dg3-necouch~mlking",
+            "name": "SW 6th & Alder",
+            "onestopId": "s-c20fbqs6vv-sw6th~alder",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4143,32 +4107,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.670739,
-                    45.498939
+                    -122.661883,
+                    45.519102
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-12883",
+                    "identifier": "f-trimet-s-13613",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "12883",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 12883)",
-                        "stop_id": "12883",
-                        "stop_lat": "45.498939",
-                        "stop_lon": "-122.670739",
-                        "stop_name": "OHSU Commons",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12883",
+                        "stop_code": "13613",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 13613)",
+                        "stop_id": "13613",
+                        "stop_lat": "45.519102",
+                        "stop_lon": "-122.661883",
+                        "stop_name": "SE M L King & Stark",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13613",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "OHSU Commons",
-            "onestopId": "s-c20fbdcfs8-ohsucommons",
+            "name": "SE M L King & Stark",
+            "onestopId": "s-c20fby2rfz-semlking~stark",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4323,32 +4287,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.680756,
-                    45.500753
+                    -122.68537,
+                    45.524981
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-197",
+                    "identifier": "f-trimet-s-1608",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "197",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 197)",
-                        "stop_id": "197",
-                        "stop_lat": "45.500753",
-                        "stop_lon": "-122.680756",
-                        "stop_name": "SW Barbur & Woods",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=197",
+                        "stop_code": "1608",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1608)",
+                        "stop_id": "1608",
+                        "stop_lat": "45.524981",
+                        "stop_lon": "-122.68537",
+                        "stop_name": "NW Everett & 14th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1608",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Barbur & Woods",
-            "onestopId": "s-c20fb74t55-swbarbur~woods",
+            "name": "NW Everett & 14th",
+            "onestopId": "s-c20fbpx4px-nweverett~14th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -4719,32 +4683,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.677378,
-                    45.524378
+                    -122.672586,
+                    45.525213
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7759",
+                    "identifier": "f-trimet-s-1612",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7759",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7759)",
-                        "stop_id": "7759",
-                        "stop_lat": "45.524378",
-                        "stop_lon": "-122.677378",
-                        "stop_name": "NW Broadway & Davis",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7759",
+                        "stop_code": "1612",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 1612)",
+                        "stop_id": "1612",
+                        "stop_lat": "45.525213",
+                        "stop_lon": "-122.672586",
+                        "stop_name": "NW Everett & 2nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1612",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Broadway & Davis",
-            "onestopId": "s-c20fbrmn9z-nwbroadway~davis",
+            "name": "NW Everett & 2nd",
+            "onestopId": "s-c20fbx8e9d-nweverett~2nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5403,32 +5367,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.691148,
-                    45.499031
+                    -122.663361,
+                    45.506876
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-6548",
+                    "identifier": "f-trimet-s-13709",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6548",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 6548)",
-                        "stop_id": "6548",
-                        "stop_lat": "45.499031",
-                        "stop_lon": "-122.691148",
-                        "stop_name": "SW 11th & Gibbs",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6548",
+                        "position": "At",
+                        "stop_code": "13709",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 13709)",
+                        "stop_id": "13709",
+                        "stop_lat": "45.506876",
+                        "stop_lon": "-122.663361",
+                        "stop_name": "SE Water/OMSI (Streetcar)",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13709",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 11th & Gibbs",
-            "onestopId": "s-c20fb4g514-sw11th~gibbs",
+            "name": "SE Water/OMSI (Streetcar)",
+            "onestopId": "s-c20fbsr2b8-sewater~omsistreetcar",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -5655,32 +5619,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.681811,
-                    45.512943
+                    -122.674599,
+                    45.51959
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7772",
+                    "identifier": "f-trimet-s-6158",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "7772",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7772)",
-                        "stop_id": "7772",
-                        "stop_lat": "45.512943",
-                        "stop_lon": "-122.681811",
-                        "stop_name": "SW 6th & Market",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7772",
+                        "stop_code": "6158",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 6158)",
+                        "stop_id": "6158",
+                        "stop_lat": "45.51959",
+                        "stop_lon": "-122.674599",
+                        "stop_name": "SW Washington & 3rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6158",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 6th & Market",
-            "onestopId": "s-c20fbm3u4e-sw6th~market",
+            "name": "SW Washington & 3rd",
+            "onestopId": "s-c20fbqx4fd-swwashington~3rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6231,32 +6195,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.676914,
-                    45.521747
+                    -122.679316,
+                    45.517604
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13168",
+                    "identifier": "f-trimet-s-7800",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "13168",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 13168)",
-                        "stop_id": "13168",
-                        "stop_lat": "45.521747",
-                        "stop_lon": "-122.676914",
-                        "stop_name": "SW Oak & 6th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13168",
+                        "stop_code": "7800",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7800)",
+                        "stop_id": "7800",
+                        "stop_lat": "45.517604",
+                        "stop_lon": "-122.679316",
+                        "stop_name": "SW 6th & Taylor",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7800",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Oak & 6th",
-            "onestopId": "s-c20fbqvrks-swoak~6th",
+            "name": "SW 6th & Taylor",
+            "onestopId": "s-c20fbq5xk8-sw6th~taylor",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6339,32 +6303,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.677992,
-                    45.52666
+                    -122.674134,
+                    45.518528
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1997",
+                    "identifier": "f-trimet-s-7095",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "1997",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 1997)",
-                        "stop_id": "1997",
-                        "stop_lat": "45.52666",
-                        "stop_lon": "-122.677992",
-                        "stop_name": "NW Glisan & Broadway",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1997",
+                        "position": "Nearside",
+                        "stop_code": "7095",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7095)",
+                        "stop_id": "7095",
+                        "stop_lat": "45.518528",
+                        "stop_lon": "-122.674134",
+                        "stop_name": "SW 2nd & Alder",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7095",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Glisan & Broadway",
-            "onestopId": "s-c20fbrus58-nwglisan~broadway",
+            "name": "SW 2nd & Alder",
+            "onestopId": "s-c20fbqrktk-sw2nd~alder",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6401,6 +6365,42 @@
             ],
             "name": "SW Corbett & Gaines",
             "onestopId": "s-c20fb6q5vr-swcorbett~gaines",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.681811,
+                    45.512943
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-7772",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "7772",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7772)",
+                        "stop_id": "7772",
+                        "stop_lat": "45.512943",
+                        "stop_lon": "-122.681811",
+                        "stop_name": "SW 6th & Market",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7772",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW 6th & Market",
+            "onestopId": "s-c20fbm3u4e-sw6th~market",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -6843,32 +6843,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.68187,
-                    45.525061
+                    -122.661926,
+                    45.516951
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1607",
+                    "identifier": "f-trimet-s-13584",
                     "tags": {
-                        "direction": "East",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "1607",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1607)",
-                        "stop_id": "1607",
-                        "stop_lat": "45.525061",
-                        "stop_lon": "-122.68187",
-                        "stop_name": "NW Everett & 11th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1607",
+                        "stop_code": "13584",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 13584)",
+                        "stop_id": "13584",
+                        "stop_lat": "45.516951",
+                        "stop_lon": "-122.661926",
+                        "stop_name": "SE M L King & Morrison",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13584",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "NW Everett & 11th",
-            "onestopId": "s-c20fbr9f9n-nweverett~11th",
+            "name": "SE M L King & Morrison",
+            "onestopId": "s-c20fby073y-semlking~morrison",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -7419,42 +7419,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.661883,
-                    45.519102
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-13613",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "13613",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 13613)",
-                        "stop_id": "13613",
-                        "stop_lat": "45.519102",
-                        "stop_lon": "-122.661883",
-                        "stop_name": "SE M L King & Stark",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13613",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE M L King & Stark",
-            "onestopId": "s-c20fby2rfz-semlking~stark",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.685888,
                     45.521078
                 ],
@@ -7851,32 +7815,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.690123,
-                    45.521935
+                    -122.676517,
+                    45.527222
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9122",
+                    "identifier": "f-trimet-s-7763",
                     "tags": {
                         "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9122",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 9122)",
-                        "stop_id": "9122",
-                        "stop_lat": "45.521935",
-                        "stop_lon": "-122.690123",
-                        "stop_name": "SW 18th & Morrison",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9122",
+                        "position": "At",
+                        "stop_code": "7763",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7763)",
+                        "stop_id": "7763",
+                        "stop_lat": "45.527222",
+                        "stop_lon": "-122.676517",
+                        "stop_name": "Union Station/NW 6th & Hoyt MAX Stn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7763",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 18th & Morrison",
-            "onestopId": "s-c20fbp5b2z-sw18th~morrison",
+            "name": "Union Station/NW 6th & Hoyt MAX Stn",
+            "onestopId": "s-c20fbrvxmc-unionstation~nw6th~hoytmaxstn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -8211,32 +8175,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.684797,
-                    45.518386
+                    -122.653871,
+                    45.512132
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5012",
+                    "identifier": "f-trimet-s-2599",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "5012",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5012)",
-                        "stop_id": "5012",
-                        "stop_lat": "45.518386",
-                        "stop_lon": "-122.684797",
-                        "stop_name": "SW Salmon & 12th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5012",
+                        "position": "Nearside",
+                        "stop_code": "2599",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 2599)",
+                        "stop_id": "2599",
+                        "stop_lat": "45.512132",
+                        "stop_lon": "-122.653871",
+                        "stop_name": "SE Hawthorne & 12th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2599",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Salmon & 12th",
-            "onestopId": "s-c20fbnrev4-swsalmon~12th",
+            "name": "SE Hawthorne & 12th",
+            "onestopId": "s-c20fbvnpms-sehawthorne~12th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -8247,32 +8211,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.663361,
-                    45.506876
+                    -122.691148,
+                    45.499031
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13709",
+                    "identifier": "f-trimet-s-6548",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "13709",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 13709)",
-                        "stop_id": "13709",
-                        "stop_lat": "45.506876",
-                        "stop_lon": "-122.663361",
-                        "stop_name": "SE Water/OMSI (Streetcar)",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13709",
+                        "position": "Nearside",
+                        "stop_code": "6548",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 6548)",
+                        "stop_id": "6548",
+                        "stop_lat": "45.499031",
+                        "stop_lon": "-122.691148",
+                        "stop_name": "SW 11th & Gibbs",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6548",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Water/OMSI (Streetcar)",
-            "onestopId": "s-c20fbsr2b8-sewater~omsistreetcar",
+            "name": "SW 11th & Gibbs",
+            "onestopId": "s-c20fb4g514-sw11th~gibbs",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -8427,32 +8391,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.653871,
-                    45.512132
+                    -122.684797,
+                    45.518386
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2599",
+                    "identifier": "f-trimet-s-5012",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2599",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 2599)",
-                        "stop_id": "2599",
-                        "stop_lat": "45.512132",
-                        "stop_lon": "-122.653871",
-                        "stop_name": "SE Hawthorne & 12th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2599",
+                        "position": "Farside",
+                        "stop_code": "5012",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5012)",
+                        "stop_id": "5012",
+                        "stop_lat": "45.518386",
+                        "stop_lon": "-122.684797",
+                        "stop_name": "SW Salmon & 12th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5012",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hawthorne & 12th",
-            "onestopId": "s-c20fbvnpms-sehawthorne~12th",
+            "name": "SW Salmon & 12th",
+            "onestopId": "s-c20fbnrev4-swsalmon~12th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9543,32 +9507,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.677207,
-                    45.519602
+                    -122.67893,
+                    45.510136
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7586",
+                    "identifier": "f-trimet-s-2567",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7586",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 7586)",
-                        "stop_id": "7586",
-                        "stop_lat": "45.519602",
-                        "stop_lon": "-122.677207",
-                        "stop_name": "SW 5th & Alder",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7586",
+                        "position": "Opposite",
+                        "stop_code": "2567",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 2567)",
+                        "stop_id": "2567",
+                        "stop_lat": "45.510136",
+                        "stop_lon": "-122.67893",
+                        "stop_name": "200 Block SW Harrison",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2567",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 5th & Alder",
-            "onestopId": "s-c20fbqt4vu-sw5th~alder",
+            "name": "200 Block SW Harrison",
+            "onestopId": "s-c20fbkggv8-200blockswharrison",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9615,32 +9579,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.660956,
-                    45.516483
+                    -122.693771,
+                    45.520551
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-13689",
+                    "identifier": "f-trimet-s-5019",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "13689",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 13689)",
-                        "stop_id": "13689",
-                        "stop_lat": "45.516483",
-                        "stop_lon": "-122.660956",
-                        "stop_name": "Morrison Bridge/Belmont & Grand",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13689",
+                        "stop_code": "5019",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5019)",
+                        "stop_id": "5019",
+                        "stop_lat": "45.520551",
+                        "stop_lon": "-122.693771",
+                        "stop_name": "SW Salmon & 20th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5019",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "Morrison Bridge/Belmont & Grand",
-            "onestopId": "s-c20fby108x-morrisonbridge~belmont~grand",
+            "name": "SW Salmon & 20th",
+            "onestopId": "s-c20fbnc07v-swsalmon~20th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9651,32 +9615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.693099,
-                    45.517577
+                    -122.695304,
+                    45.520926
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1114",
+                    "identifier": "f-trimet-s-3236",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1114",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 1114)",
-                        "stop_id": "1114",
-                        "stop_lat": "45.517577",
-                        "stop_lon": "-122.693099",
-                        "stop_name": "SW 18th & Columbia",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1114",
+                        "stop_code": "3236",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 3236)",
+                        "stop_id": "3236",
+                        "stop_lat": "45.520926",
+                        "stop_lon": "-122.695304",
+                        "stop_name": "SW King & Salmon",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3236",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 18th & Columbia",
-            "onestopId": "s-c20fbn1x5e-sw18th~columbia",
+            "name": "SW King & Salmon",
+            "onestopId": "s-c20fbnb485-swking~salmon",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9723,32 +9687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.67383,
-                    45.489956
+                    -122.689577,
+                    45.52206
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3612",
+                    "identifier": "f-trimet-s-9599",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "3612",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 3612)",
-                        "stop_id": "3612",
-                        "stop_lat": "45.489956",
-                        "stop_lon": "-122.67383",
-                        "stop_name": "SW Macadam & Hamilton Ct",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3612",
+                        "position": "Farside",
+                        "stop_code": "9599",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 9599)",
+                        "stop_id": "9599",
+                        "stop_lat": "45.52206",
+                        "stop_lon": "-122.689577",
+                        "stop_name": "SW Morrison & 17th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9599",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Macadam & Hamilton Ct",
-            "onestopId": "s-c20fb3pwhw-swmacadam~hamilton",
+            "name": "SW Morrison & 17th",
+            "onestopId": "s-c20fbph1jx-swmorrison~17th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -9903,32 +9867,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.682578,
-                    45.511583
+                    -122.658466,
+                    45.513013
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7774",
+                    "identifier": "f-trimet-s-3641",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "7774",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7774)",
-                        "stop_id": "7774",
-                        "stop_lat": "45.511583",
-                        "stop_lon": "-122.682578",
-                        "stop_name": "PSU Urban Center/SW 6th & Montgomery MAX Stn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7774",
+                        "position": "Nearside",
+                        "stop_code": "3641",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 3641)",
+                        "stop_id": "3641",
+                        "stop_lat": "45.513013",
+                        "stop_lon": "-122.658466",
+                        "stop_name": "SE Madison & 7th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3641",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "PSU Urban Center/SW 6th & Montgomery MAX Stn",
-            "onestopId": "s-c20fbm1k0t-psuurban~sw6th~montgomerymaxstn",
+            "name": "SE Madison & 7th",
+            "onestopId": "s-c20fbv6ud8-semadison~7th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10155,6 +10119,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.685535,
+                    45.499332
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-5028",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "5028",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5028)",
+                        "stop_id": "5028",
+                        "stop_lat": "45.499332",
+                        "stop_lon": "-122.685535",
+                        "stop_name": "SW Sam Jackson Pk & OHSU",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5028",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Sam Jackson Pk & OHSU",
+            "onestopId": "s-c20fb4zhgf-swsamjacksonpk~ohsu",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.690433,
                     45.521898
                 ],
@@ -10263,32 +10263,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.676338,
-                    45.489659
+                    -122.682223,
+                    45.523784
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1153",
+                    "identifier": "f-trimet-s-10756",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "1153",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 1153)",
-                        "stop_id": "1153",
-                        "stop_lat": "45.489659",
-                        "stop_lon": "-122.676338",
-                        "stop_name": "SW Corbett & Seymour",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1153",
+                        "stop_code": "10756",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 10756)",
+                        "stop_id": "10756",
+                        "stop_lat": "45.523784",
+                        "stop_lon": "-122.682223",
+                        "stop_name": "NW 11th & Couch",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10756",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Corbett & Seymour",
-            "onestopId": "s-c20fb3ju6p-swcorbett~seymour",
+            "name": "NW 11th & Couch",
+            "onestopId": "s-c20fbr3e30-nw11th~couch",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10623,32 +10623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.684177,
-                    45.505434
+                    -122.678573,
+                    45.515185
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7793",
+                    "identifier": "f-trimet-s-3639",
                     "tags": {
-                        "direction": "North",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "7793",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7793)",
-                        "stop_id": "7793",
-                        "stop_lat": "45.505434",
-                        "stop_lon": "-122.684177",
-                        "stop_name": "SW 6th & Sheridan",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7793",
+                        "position": "Nearside",
+                        "stop_code": "3639",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 3639)",
+                        "stop_id": "3639",
+                        "stop_lat": "45.515185",
+                        "stop_lon": "-122.678573",
+                        "stop_name": "SW Madison & 4th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3639",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 6th & Sheridan",
-            "onestopId": "s-c20fbk0077-sw6th~sheridan",
+            "name": "SW Madison & 4th",
+            "onestopId": "s-c20fbmu1nj-swmadison~4th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10659,32 +10659,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.693771,
-                    45.520551
+                    -122.660956,
+                    45.516483
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5019",
+                    "identifier": "f-trimet-s-13689",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "5019",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5019)",
-                        "stop_id": "5019",
-                        "stop_lat": "45.520551",
-                        "stop_lon": "-122.693771",
-                        "stop_name": "SW Salmon & 20th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5019",
+                        "stop_code": "13689",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 13689)",
+                        "stop_id": "13689",
+                        "stop_lat": "45.516483",
+                        "stop_lon": "-122.660956",
+                        "stop_name": "Morrison Bridge/Belmont & Grand",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13689",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Salmon & 20th",
-            "onestopId": "s-c20fbnc07v-swsalmon~20th",
+            "name": "Morrison Bridge/Belmont & Grand",
+            "onestopId": "s-c20fby108x-morrisonbridge~belmont~grand",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10803,32 +10803,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.685535,
-                    45.499332
+                    -122.692364,
+                    45.520156
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-5028",
+                    "identifier": "f-trimet-s-5006",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "5028",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 5028)",
-                        "stop_id": "5028",
-                        "stop_lat": "45.499332",
-                        "stop_lon": "-122.685535",
-                        "stop_name": "SW Sam Jackson Pk & OHSU",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5028",
+                        "position": "Farside",
+                        "stop_code": "5006",
+                        "stop_desc": "Eastbound stop in Portland (Stop ID 5006)",
+                        "stop_id": "5006",
+                        "stop_lat": "45.520156",
+                        "stop_lon": "-122.692364",
+                        "stop_name": "SW Salmon & 19th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=5006",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Sam Jackson Pk & OHSU",
-            "onestopId": "s-c20fb4zhgf-swsamjacksonpk~ohsu",
+            "name": "SW Salmon & 19th",
+            "onestopId": "s-c20fbndnhs-swsalmon~19th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -10911,32 +10911,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.678573,
-                    45.515185
+                    -122.684177,
+                    45.505434
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3639",
+                    "identifier": "f-trimet-s-7793",
                     "tags": {
-                        "direction": "East",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3639",
-                        "stop_desc": "Eastbound stop in Portland (Stop ID 3639)",
-                        "stop_id": "3639",
-                        "stop_lat": "45.515185",
-                        "stop_lon": "-122.678573",
-                        "stop_name": "SW Madison & 4th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3639",
+                        "position": "Farside",
+                        "stop_code": "7793",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7793)",
+                        "stop_id": "7793",
+                        "stop_lat": "45.505434",
+                        "stop_lon": "-122.684177",
+                        "stop_name": "SW 6th & Sheridan",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7793",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Madison & 4th",
-            "onestopId": "s-c20fbmu1nj-swmadison~4th",
+            "name": "SW 6th & Sheridan",
+            "onestopId": "s-c20fbk0077-sw6th~sheridan",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -11019,32 +11019,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.682819,
-                    45.521094
+                    -122.670933,
+                    45.495594
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9600",
+                    "identifier": "f-trimet-s-12882",
                     "tags": {
-                        "direction": "South",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9600",
-                        "stop_desc": "Southbound stop in Portland (Stop ID 9600)",
-                        "stop_id": "9600",
-                        "stop_lat": "45.521094",
-                        "stop_lon": "-122.682819",
-                        "stop_name": "SW 11th & Alder",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9600",
+                        "stop_code": "12882",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 12882)",
+                        "stop_id": "12882",
+                        "stop_lat": "45.495594",
+                        "stop_lon": "-122.670933",
+                        "stop_name": "SW Bond & Lane",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12882",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 11th & Alder",
-            "onestopId": "s-c20fbqc5e4-sw11th~alder",
+            "name": "SW Bond & Lane",
+            "onestopId": "s-c20fbd1z01-swbond~",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -11343,32 +11343,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.670933,
-                    45.495594
+                    -122.682819,
+                    45.521094
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-12882",
+                    "identifier": "f-trimet-s-9600",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "12882",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 12882)",
-                        "stop_id": "12882",
-                        "stop_lat": "45.495594",
-                        "stop_lon": "-122.670933",
-                        "stop_name": "SW Bond & Lane",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=12882",
+                        "stop_code": "9600",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 9600)",
+                        "stop_id": "9600",
+                        "stop_lat": "45.521094",
+                        "stop_lon": "-122.682819",
+                        "stop_name": "SW 11th & Alder",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9600",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW Bond & Lane",
-            "onestopId": "s-c20fbd1z01-swbond~",
+            "name": "SW 11th & Alder",
+            "onestopId": "s-c20fbqc5e4-sw11th~alder",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -11523,6 +11523,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.676914,
+                    45.521747
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-13168",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "13168",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 13168)",
+                        "stop_id": "13168",
+                        "stop_lat": "45.521747",
+                        "stop_lon": "-122.676914",
+                        "stop_name": "SW Oak & 6th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=13168",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SW Oak & 6th",
+            "onestopId": "s-c20fbqvrks-swoak~6th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.657194,
                     45.501426
                 ],
@@ -11667,32 +11703,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.675756,
-                    45.499286
+                    -122.67139,
+                    45.522873
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-1139",
+                    "identifier": "f-trimet-s-8379",
                     "tags": {
-                        "direction": "North",
+                        "direction": "South",
                         "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "1139",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 1139)",
-                        "stop_id": "1139",
-                        "stop_lat": "45.499286",
-                        "stop_lon": "-122.675756",
-                        "stop_name": "SW Corbett & Gibbs",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1139",
-                        "zone_id": "B"
+                        "parent_station": "landmark-118",
+                        "position": "At",
+                        "stop_code": "8379",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 8379)",
+                        "stop_id": "8379",
+                        "stop_lat": "45.522873",
+                        "stop_lon": "-122.67139",
+                        "stop_name": "Skidmore Fountain MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=8379",
+                        "zone_id": "R"
                     }
                 }
             ],
-            "name": "SW Corbett & Gibbs",
-            "onestopId": "s-c20fb6yhx9-swcorbett~gibbs",
+            "name": "Skidmore Fountain MAX Station",
+            "onestopId": "s-c20fbx1mvq-skidmorefountainmaxstation",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -11811,32 +11847,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.674134,
-                    45.518528
+                    -122.677992,
+                    45.52666
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-7095",
+                    "identifier": "f-trimet-s-1997",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "7095",
-                        "stop_desc": "Northbound stop in Portland (Stop ID 7095)",
-                        "stop_id": "7095",
-                        "stop_lat": "45.518528",
-                        "stop_lon": "-122.674134",
-                        "stop_name": "SW 2nd & Alder",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7095",
+                        "position": "Farside",
+                        "stop_code": "1997",
+                        "stop_desc": "Westbound stop in Portland (Stop ID 1997)",
+                        "stop_id": "1997",
+                        "stop_lat": "45.52666",
+                        "stop_lon": "-122.677992",
+                        "stop_name": "NW Glisan & Broadway",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=1997",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SW 2nd & Alder",
-            "onestopId": "s-c20fbqrktk-sw2nd~alder",
+            "name": "NW Glisan & Broadway",
+            "onestopId": "s-c20fbrus58-nwglisan~broadway",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -12963,32 +12999,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.67893,
-                    45.510136
+                    -122.677207,
+                    45.519602
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2567",
+                    "identifier": "f-trimet-s-7586",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "2567",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 2567)",
-                        "stop_id": "2567",
-                        "stop_lat": "45.510136",
-                        "stop_lon": "-122.67893",
-                        "stop_name": "200 Block SW Harrison",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2567",
+                        "position": "Nearside",
+                        "stop_code": "7586",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 7586)",
+                        "stop_id": "7586",
+                        "stop_lat": "45.519602",
+                        "stop_lon": "-122.677207",
+                        "stop_name": "SW 5th & Alder",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7586",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "200 Block SW Harrison",
-            "onestopId": "s-c20fbkggv8-200blockswharrison",
+            "name": "SW 5th & Alder",
+            "onestopId": "s-c20fbqt4vu-sw5th~alder",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -13107,32 +13143,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.658466,
-                    45.513013
+                    -122.682578,
+                    45.511583
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-3641",
+                    "identifier": "f-trimet-s-7774",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "3641",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 3641)",
-                        "stop_id": "3641",
-                        "stop_lat": "45.513013",
-                        "stop_lon": "-122.658466",
-                        "stop_name": "SE Madison & 7th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=3641",
+                        "position": "Opposite",
+                        "stop_code": "7774",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 7774)",
+                        "stop_id": "7774",
+                        "stop_lat": "45.511583",
+                        "stop_lon": "-122.682578",
+                        "stop_name": "PSU Urban Center/SW 6th & Montgomery MAX Stn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=7774",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Madison & 7th",
-            "onestopId": "s-c20fbv6ud8-semadison~7th",
+            "name": "PSU Urban Center/SW 6th & Montgomery MAX Stn",
+            "onestopId": "s-c20fbm1k0t-psuurban~sw6th~montgomerymaxstn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -13745,42 +13781,6 @@
             ],
             "name": "SE 7th & Harrison",
             "onestopId": "s-c20fbudsx7-se7th~harrison",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.674599,
-                    45.51959
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-6158",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "6158",
-                        "stop_desc": "Westbound stop in Portland (Stop ID 6158)",
-                        "stop_id": "6158",
-                        "stop_lat": "45.51959",
-                        "stop_lon": "-122.674599",
-                        "stop_name": "SW Washington & 3rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=6158",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SW Washington & 3rd",
-            "onestopId": "s-c20fbqx4fd-swwashington~3rd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

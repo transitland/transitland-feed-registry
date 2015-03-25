@@ -423,31 +423,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.533722,
-                    43.604257
+                    -79.502937,
+                    43.601368
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13340",
+                    "identifier": "f-ttc-s-4223",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_HO30",
+                        "stop_code": "5171",
                         "stop_desc": "",
-                        "stop_id": "13340",
-                        "stop_lat": "43.604257",
-                        "stop_lon": "-79.533722",
-                        "stop_name": "HORNER AVE. AT 30TH. STREET",
+                        "stop_id": "4223",
+                        "stop_lat": "43.601368",
+                        "stop_lon": "-79.502937",
+                        "stop_name": "LAKE SHORE BLVD WEST AT FIFTH ST",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HORNER AVE. AT 30TH. STREET",
-            "onestopId": "s-dpz2n1vm1y-hornerat30th",
+            "name": "LAKE SHORE BLVD WEST AT FIFTH ST",
+            "onestopId": "s-dpz2nc7srk-lakeshorewestatfifth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -458,101 +458,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.531205,
-                    43.631597
+                    -79.517856,
+                    43.600564
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4254",
+                    "identifier": "f-ttc-s-3866",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4344",
+                        "stop_code": "4289",
                         "stop_desc": "",
-                        "stop_id": "4254",
-                        "stop_lat": "43.631597",
-                        "stop_lon": "-79.531205",
-                        "stop_name": "KIPLING AVE AT NORSEMAN ST",
+                        "stop_id": "3866",
+                        "stop_lat": "43.600564",
+                        "stop_lon": "-79.517856",
+                        "stop_name": "KIPLING AVE AT BIRMINGHAM ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KIPLING AVE AT BIRMINGHAM ST",
+            "onestopId": "s-dpz2n90zew-kiplingatbirmingham",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.517695,
+                    43.607723
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-2913",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3719",
+                        "stop_desc": "",
+                        "stop_id": "2913",
+                        "stop_lat": "43.607723",
+                        "stop_lon": "-79.517695",
+                        "stop_name": "215 HORNER AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT NORSEMAN ST",
-            "onestopId": "s-dpz2nnzhkx-kiplingatnorseman",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.518879,
-                    43.634113
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-7441",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2726",
-                        "stop_desc": "",
-                        "stop_id": "7441",
-                        "stop_lat": "43.634113",
-                        "stop_lon": "-79.518879",
-                        "stop_name": "ISLINGTON AVE AT NORSEMAN ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ISLINGTON AVE AT NORSEMAN ST",
-            "onestopId": "s-dpz2nx255u-islingtonatnorseman",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.506438,
-                    43.60077
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-346",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3543",
-                        "stop_desc": "",
-                        "stop_id": "346",
-                        "stop_lat": "43.60077",
-                        "stop_lon": "-79.506438",
-                        "stop_name": "EIGHTH ST AT LAKE SHORE BLVD WEST NORTH SIDE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EIGHTH ST AT LAKE SHORE BLVD WEST NORTH SIDE",
-            "onestopId": "s-dpz2nc30vs-eighthatlakeshorewestnorthside",
+            "name": "215 HORNER AVE",
+            "onestopId": "s-dpz2nd8crk-215horner",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -658,6 +623,41 @@
             ],
             "name": "THE QUEENSWAY AT KIPLING AVE.",
             "onestopId": "s-dpz2nkfqhz-thequeenswayatkipling",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.506448,
+                    43.603403
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-6617",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3770",
+                        "stop_desc": "",
+                        "stop_id": "6617",
+                        "stop_lat": "43.603403",
+                        "stop_lon": "-79.506448",
+                        "stop_name": "ISLINGTON AVE AT BIRMINGHAM ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ISLINGTON AVE AT BIRMINGHAM ST",
+            "onestopId": "s-dpz2ncc0jr-islingtonatbirmingham",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -878,41 +878,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.538627,
-                    43.613066
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-3753",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2451",
-                        "stop_desc": "",
-                        "stop_id": "3753",
-                        "stop_lat": "43.613066",
-                        "stop_lon": "-79.538627",
-                        "stop_name": "EVANS AVE AT NORTH CARSON ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EVANS AVE AT NORTH CARSON ST",
-            "onestopId": "s-dpz2n598x8-evansatnorthcarson",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.531408,
                     43.604704
                 ],
@@ -983,31 +948,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.513155,
-                    43.618045
+                    -79.51207,
+                    43.612931
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4792",
+                    "identifier": "f-ttc-s-9783",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2447",
+                        "stop_code": "3949",
                         "stop_desc": "",
-                        "stop_id": "4792",
-                        "stop_lat": "43.618045",
-                        "stop_lon": "-79.513155",
-                        "stop_name": "185 EVANS AVE",
+                        "stop_id": "9783",
+                        "stop_lat": "43.612931",
+                        "stop_lon": "-79.51207",
+                        "stop_name": "JUDSON ST AT MAGNIFICENT RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "185 EVANS AVE",
-            "onestopId": "s-dpz2nskm90-185evans",
+            "name": "JUDSON ST AT MAGNIFICENT RD",
+            "onestopId": "s-dpz2nempdr-judsonatmagnificent",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1088,31 +1053,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.499667,
-                    43.626908
+                    -79.508824,
+                    43.599904
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-14613",
+                    "identifier": "f-ttc-s-5050",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14604",
+                        "stop_code": "5150",
                         "stop_desc": "",
-                        "stop_id": "14613",
-                        "stop_lat": "43.626908",
-                        "stop_lon": "-79.499667",
-                        "stop_name": "THE QUEENSWAY AT WESLEY ST",
+                        "stop_id": "5050",
+                        "stop_lat": "43.599904",
+                        "stop_lon": "-79.508824",
+                        "stop_name": "LAKE SHORE BLVD WEST AT TENTH ST",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE QUEENSWAY AT WESLEY ST",
-            "onestopId": "s-dpz2nyn15m-thequeenswayatwesley",
+            "name": "LAKE SHORE BLVD WEST AT TENTH ST",
+            "onestopId": "s-dpz2n9p7y5-lakeshorewestattenth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1263,31 +1228,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.507259,
-                    43.602776
+                    -79.511025,
+                    43.618241
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-345",
+                    "identifier": "f-ttc-s-2454",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11506",
+                        "stop_code": "3787",
                         "stop_desc": "",
-                        "stop_id": "345",
-                        "stop_lat": "43.602776",
-                        "stop_lon": "-79.507259",
-                        "stop_name": "8TH ST AT BIRMINGHAM ST",
+                        "stop_id": "2454",
+                        "stop_lat": "43.618241",
+                        "stop_lon": "-79.511025",
+                        "stop_name": "ISLINGTON AVE AT EVANS AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "8TH ST AT BIRMINGHAM ST",
-            "onestopId": "s-dpz2nc8sdd-8thatbirmingham",
+            "name": "ISLINGTON AVE AT EVANS AVE",
+            "onestopId": "s-dpz2nsmydv-islingtonatevans",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1298,31 +1263,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.530185,
-                    43.614841
+                    -79.529868,
+                    43.595469
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9249",
+                    "identifier": "f-ttc-s-5315",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2457",
+                        "stop_code": "9251",
                         "stop_desc": "",
-                        "stop_id": "9249",
-                        "stop_lat": "43.614841",
-                        "stop_lon": "-79.530185",
-                        "stop_name": "EVANS AVE AT WICKMAN RD",
+                        "stop_id": "5315",
+                        "stop_lat": "43.595469",
+                        "stop_lon": "-79.529868",
+                        "stop_name": "THIRTIETH ST AT LAKE SHORE BLVD WEST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE AT WICKMAN RD",
-            "onestopId": "s-dpz2n5zfu7-evansatwickman",
+            "name": "THIRTIETH ST AT LAKE SHORE BLVD WEST",
+            "onestopId": "s-dpz2n2245b-thirtiethatlakeshorewest",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1473,31 +1438,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.524267,
-                    43.596667
+                    -79.536942,
+                    43.618842
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9317",
+                    "identifier": "f-ttc-s-2395",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5158",
+                        "stop_code": "6869",
                         "stop_desc": "",
-                        "stop_id": "9317",
-                        "stop_lat": "43.596667",
-                        "stop_lon": "-79.524267",
-                        "stop_name": "LAKE SHORE BLVD WEST AT TWENTY SIXTH ST",
+                        "stop_id": "2395",
+                        "stop_lat": "43.618842",
+                        "stop_lon": "-79.536942",
+                        "stop_name": "THE QUEENSWAY AT ALGIE AVE",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT TWENTY SIXTH ST",
-            "onestopId": "s-dpz2n2s0yr-lakeshorewestattwentysixth",
+            "name": "THE QUEENSWAY AT ALGIE AVE",
+            "onestopId": "s-dpz2nhdfnv-thequeenswayatalgie",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.535661,
+                    43.637592
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-14238",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "14719",
+                        "stop_desc": "",
+                        "stop_id": "14238",
+                        "stop_lat": "43.637592",
+                        "stop_lon": "-79.535661",
+                        "stop_name": "KIPLING STATION",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KIPLING STATION",
+            "onestopId": "s-dpz2npgzku-kiplingstation",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1683,101 +1683,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.535957,
-                    43.613669
+                    -79.533531,
+                    43.604096
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4822",
+                    "identifier": "f-ttc-s-8993",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2456",
+                        "stop_code": "9256",
                         "stop_desc": "",
-                        "stop_id": "4822",
-                        "stop_lat": "43.613669",
-                        "stop_lon": "-79.535957",
-                        "stop_name": "EVANS AVE AT TREEVIEW DR",
+                        "stop_id": "8993",
+                        "stop_lat": "43.604096",
+                        "stop_lon": "-79.533531",
+                        "stop_name": "THIRTIETH ST AT HORNER AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE AT TREEVIEW DR",
-            "onestopId": "s-dpz2n5esjc-evansattreeview",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.52271,
-                    43.611637
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-9283",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4381",
-                        "stop_desc": "",
-                        "stop_id": "9283",
-                        "stop_lat": "43.611637",
-                        "stop_lon": "-79.52271",
-                        "stop_name": "KIPLING AVE AT TORLAKE CRES (SOUTH)",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "KIPLING AVE AT TORLAKE CRES (SOUTH)",
-            "onestopId": "s-dpz2n7m24w-kiplingattorlakecressouth",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.52495,
-                    43.615762
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-4374",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2448",
-                        "stop_desc": "",
-                        "stop_id": "4374",
-                        "stop_lat": "43.615762",
-                        "stop_lon": "-79.52495",
-                        "stop_name": "EVANS AVE AT KIPLING AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EVANS AVE AT KIPLING AVE",
-            "onestopId": "s-dpz2nk58nr-evansatkipling",
+            "name": "THIRTIETH ST AT HORNER AVE",
+            "onestopId": "s-dpz2n1vkq2-thirtiethathorner",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1823,31 +1753,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.521409,
-                    43.597126
+                    -79.511706,
+                    43.599444
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4779",
+                    "identifier": "f-ttc-s-9222",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5157",
+                        "stop_code": "5153",
                         "stop_desc": "",
-                        "stop_id": "4779",
-                        "stop_lat": "43.597126",
-                        "stop_lon": "-79.521409",
-                        "stop_name": "LAKE SHORE BLVD WEST AT TWENTY THIRD ST",
+                        "stop_id": "9222",
+                        "stop_lat": "43.599444",
+                        "stop_lon": "-79.511706",
+                        "stop_name": "LAKE SHORE BLVD WEST AT THIRTEENTH ST",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT TWENTY THIRD ST",
-            "onestopId": "s-dpz2n2w78v-lakeshorewestattwentythird",
+            "name": "LAKE SHORE BLVD WEST AT THIRTEENTH ST",
+            "onestopId": "s-dpz2n9j34v-lakeshorewestatthirteenth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1858,31 +1788,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.503746,
-                    43.628936
+                    -79.533722,
+                    43.604257
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3788",
+                    "identifier": "f-ttc-s-13340",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6995",
+                        "stop_code": "S_HO30",
                         "stop_desc": "",
-                        "stop_id": "3788",
-                        "stop_lat": "43.628936",
-                        "stop_lon": "-79.503746",
-                        "stop_name": "ROYAL YORK RD AT FRANKWOOD RD",
+                        "stop_id": "13340",
+                        "stop_lat": "43.604257",
+                        "stop_lon": "-79.533722",
+                        "stop_name": "HORNER AVE. AT 30TH. STREET",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROYAL YORK RD AT FRANKWOOD RD",
-            "onestopId": "s-dpz2ny7hur-royalyorkatfrankwood",
+            "name": "HORNER AVE. AT 30TH. STREET",
+            "onestopId": "s-dpz2n1vm1y-hornerat30th",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -1963,6 +1893,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.53894,
+                    43.603012
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-6675",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3711",
+                        "stop_desc": "",
+                        "stop_id": "6675",
+                        "stop_lat": "43.603012",
+                        "stop_lon": "-79.53894",
+                        "stop_name": "HORNER AVE AT BETA ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "HORNER AVE AT BETA ST",
+            "onestopId": "s-dpz2n19tbq-horneratbeta",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.527038,
                     43.620748
                 ],
@@ -1988,6 +1953,41 @@
             ],
             "name": "THE QUEENSWAY AT KIPLING AVE",
             "onestopId": "s-dpz2nkfjm8-thequeenswayatkipling",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.506613,
+                    43.61968
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-3190",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "9397",
+                        "stop_desc": "",
+                        "stop_id": "3190",
+                        "stop_lat": "43.61968",
+                        "stop_lon": "-79.506613",
+                        "stop_name": "EVANS AVE AT GARROCH PL",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EVANS AVE AT GARROCH PL",
+            "onestopId": "s-dpz2nu9p19-evansatgarrochpl",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2138,31 +2138,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.498356,
-                    43.602382
+                    -79.54007,
+                    43.636271
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-10320",
+                    "identifier": "f-ttc-s-10129",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "13947",
+                        "stop_code": "5022",
                         "stop_desc": "",
-                        "stop_id": "10320",
-                        "stop_lat": "43.602382",
-                        "stop_lon": "-79.498356",
-                        "stop_name": "LAKE SHORE BLVD WEST AT FIRST ST",
+                        "stop_id": "10129",
+                        "stop_lat": "43.636271",
+                        "stop_lon": "-79.54007",
+                        "stop_name": "DUNDAS ST WEST AT POPLAR AVE",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT FIRST ST",
-            "onestopId": "s-dpz2ncx461-lakeshorewestatfirst",
+            "name": "DUNDAS ST WEST AT POPLAR AVE",
+            "onestopId": "s-dpz2np8xwn-dundaswestatpoplar",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2208,31 +2208,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.511706,
-                    43.599444
+                    -79.521409,
+                    43.597126
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9222",
+                    "identifier": "f-ttc-s-4779",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5153",
+                        "stop_code": "5157",
                         "stop_desc": "",
-                        "stop_id": "9222",
-                        "stop_lat": "43.599444",
-                        "stop_lon": "-79.511706",
-                        "stop_name": "LAKE SHORE BLVD WEST AT THIRTEENTH ST",
+                        "stop_id": "4779",
+                        "stop_lat": "43.597126",
+                        "stop_lon": "-79.521409",
+                        "stop_name": "LAKE SHORE BLVD WEST AT TWENTY THIRD ST",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT THIRTEENTH ST",
-            "onestopId": "s-dpz2n9j34v-lakeshorewestatthirteenth",
+            "name": "LAKE SHORE BLVD WEST AT TWENTY THIRD ST",
+            "onestopId": "s-dpz2n2w78v-lakeshorewestattwentythird",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2278,31 +2278,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.510907,
-                    43.618551
+                    -79.524612,
+                    43.615867
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3201",
+                    "identifier": "f-ttc-s-13264",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9399",
+                        "stop_code": "S_EVKI",
                         "stop_desc": "",
-                        "stop_id": "3201",
-                        "stop_lat": "43.618551",
-                        "stop_lon": "-79.510907",
-                        "stop_name": "EVANS AVE AT ISLINGTON AVE",
+                        "stop_id": "13264",
+                        "stop_lat": "43.615867",
+                        "stop_lon": "-79.524612",
+                        "stop_name": "EVANS AVE. AT KIPLING AVE.",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE AT ISLINGTON AVE",
-            "onestopId": "s-dpz2nstbmx-evansatislington",
+            "name": "EVANS AVE. AT KIPLING AVE.",
+            "onestopId": "s-dpz2nk5by4-evansatkipling",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2348,31 +2348,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.533543,
-                    43.603747
+                    -79.503746,
+                    43.628936
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-952",
+                    "identifier": "f-ttc-s-3788",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9247",
+                        "stop_code": "6995",
                         "stop_desc": "",
-                        "stop_id": "952",
-                        "stop_lat": "43.603747",
-                        "stop_lon": "-79.533543",
-                        "stop_name": "THIRTIETH ST AT HORNER AVE SOUTH SIDE",
+                        "stop_id": "3788",
+                        "stop_lat": "43.628936",
+                        "stop_lon": "-79.503746",
+                        "stop_name": "ROYAL YORK RD AT FRANKWOOD RD",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THIRTIETH ST AT HORNER AVE SOUTH SIDE",
-            "onestopId": "s-dpz2n1v6np-thirtiethathornersouthside",
+            "name": "ROYAL YORK RD AT FRANKWOOD RD",
+            "onestopId": "s-dpz2ny7hur-royalyorkatfrankwood",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2733,31 +2733,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.526687,
-                    43.620453
+                    -79.519856,
+                    43.636324
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-2881",
+                    "identifier": "f-ttc-s-6469",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4362",
+                        "stop_code": "2730",
                         "stop_desc": "",
-                        "stop_id": "2881",
-                        "stop_lat": "43.620453",
-                        "stop_lon": "-79.526687",
-                        "stop_name": "KIPLING AVE AT THE QUEENSWAY SOUTH SIDE",
+                        "stop_id": "6469",
+                        "stop_lat": "43.636324",
+                        "stop_lon": "-79.519856",
+                        "stop_name": "ISLINGTON AVE AT SAYBROOK AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT THE QUEENSWAY SOUTH SIDE",
-            "onestopId": "s-dpz2nkf7tc-kiplingatthequeenswaysouthside",
+            "name": "ISLINGTON AVE AT SAYBROOK AVE",
+            "onestopId": "s-dpz2nrz2j0-islingtonatsaybrook",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.520871,
+                    43.607086
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-9970",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3723",
+                        "stop_desc": "",
+                        "stop_id": "9970",
+                        "stop_lat": "43.607086",
+                        "stop_lon": "-79.520871",
+                        "stop_name": "HORNER AT KIPLING AVE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "HORNER AT KIPLING AVE",
+            "onestopId": "s-dpz2n6qttq-horneratkipling",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2838,31 +2873,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.523427,
-                    43.614006
+                    -79.50278,
+                    43.626498
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3599",
+                    "identifier": "f-ttc-s-7743",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4378",
+                        "stop_code": "7023",
                         "stop_desc": "",
-                        "stop_id": "3599",
-                        "stop_lat": "43.614006",
-                        "stop_lon": "-79.523427",
-                        "stop_name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
+                        "stop_id": "7743",
+                        "stop_lat": "43.626498",
+                        "stop_lon": "-79.50278",
+                        "stop_name": "ROYAL YORK RD AT THE QUEENSWAY",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
-            "onestopId": "s-dpz2n7svcz-kiplingattorlakecresnorth",
+            "name": "ROYAL YORK RD AT THE QUEENSWAY",
+            "onestopId": "s-dpz2nvgyfb-royalyorkatthequeensway",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -2943,31 +2978,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.517856,
-                    43.600564
+                    -79.518879,
+                    43.634113
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3866",
+                    "identifier": "f-ttc-s-7441",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4289",
+                        "stop_code": "2726",
                         "stop_desc": "",
-                        "stop_id": "3866",
-                        "stop_lat": "43.600564",
-                        "stop_lon": "-79.517856",
-                        "stop_name": "KIPLING AVE AT BIRMINGHAM ST",
+                        "stop_id": "7441",
+                        "stop_lat": "43.634113",
+                        "stop_lon": "-79.518879",
+                        "stop_name": "ISLINGTON AVE AT NORSEMAN ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT BIRMINGHAM ST",
-            "onestopId": "s-dpz2n90zew-kiplingatbirmingham",
+            "name": "ISLINGTON AVE AT NORSEMAN ST",
+            "onestopId": "s-dpz2nx255u-islingtonatnorseman",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.526687,
+                    43.620453
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-2881",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4362",
+                        "stop_desc": "",
+                        "stop_id": "2881",
+                        "stop_lat": "43.620453",
+                        "stop_lon": "-79.526687",
+                        "stop_name": "KIPLING AVE AT THE QUEENSWAY SOUTH SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KIPLING AVE AT THE QUEENSWAY SOUTH SIDE",
+            "onestopId": "s-dpz2nkf7tc-kiplingatthequeenswaysouthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3013,66 +3083,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.50278,
-                    43.626498
+                    -79.523427,
+                    43.614006
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7743",
+                    "identifier": "f-ttc-s-3599",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7023",
+                        "stop_code": "4378",
                         "stop_desc": "",
-                        "stop_id": "7743",
-                        "stop_lat": "43.626498",
-                        "stop_lon": "-79.50278",
-                        "stop_name": "ROYAL YORK RD AT THE QUEENSWAY",
+                        "stop_id": "3599",
+                        "stop_lat": "43.614006",
+                        "stop_lon": "-79.523427",
+                        "stop_name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROYAL YORK RD AT THE QUEENSWAY",
-            "onestopId": "s-dpz2nvgyfb-royalyorkatthequeensway",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.51488,
-                    43.609732
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-3004",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3704",
-                        "stop_desc": "",
-                        "stop_id": "3004",
-                        "stop_lat": "43.609732",
-                        "stop_lon": "-79.51488",
-                        "stop_name": "OPPPOSITE 137 HORNER (TORONTO SOUTH DETENTION CENTRE)",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "OPPPOSITE 137 HORNER (TORONTO SOUTH DETENTION CENTRE)",
-            "onestopId": "s-dpz2ndgj15-oppposite137hornertorontosouthdetentioncentre",
+            "name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
+            "onestopId": "s-dpz2n7svcz-kiplingattorlakecresnorth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3108,6 +3143,41 @@
             ],
             "name": "LAKE SHORE BLVD WEST AT SEVENTH ST",
             "onestopId": "s-dpz2nc3bjz-lakeshorewestatseventh",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.528216,
+                    43.615277
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-8565",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "11561",
+                        "stop_desc": "",
+                        "stop_id": "8565",
+                        "stop_lat": "43.615277",
+                        "stop_lon": "-79.528216",
+                        "stop_name": "400 EVANS AVE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "400 EVANS AVE",
+            "onestopId": "s-dpz2n7cm6k-400evans",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3188,6 +3258,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.506438,
+                    43.60077
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-346",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3543",
+                        "stop_desc": "",
+                        "stop_id": "346",
+                        "stop_lat": "43.60077",
+                        "stop_lon": "-79.506438",
+                        "stop_name": "EIGHTH ST AT LAKE SHORE BLVD WEST NORTH SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EIGHTH ST AT LAKE SHORE BLVD WEST NORTH SIDE",
+            "onestopId": "s-dpz2nc30vs-eighthatlakeshorewestnorthside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.515512,
                     43.617626
                 ],
@@ -3223,31 +3328,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.498755,
-                    43.616893
+                    -79.538982,
+                    43.637508
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7349",
+                    "identifier": "f-ttc-s-3686",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7014",
+                        "stop_code": "2138",
                         "stop_desc": "",
-                        "stop_id": "7349",
-                        "stop_lat": "43.616893",
-                        "stop_lon": "-79.498755",
-                        "stop_name": "ROYAL YORK RD AT NEWCASTLE ST SOUTH SIDE",
+                        "stop_id": "3686",
+                        "stop_lat": "43.637508",
+                        "stop_lon": "-79.538982",
+                        "stop_name": "DUNDAS ST WEST AT ACORN AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROYAL YORK RD AT NEWCASTLE ST SOUTH SIDE",
-            "onestopId": "s-dpz2nunybd-royalyorkatnewcastlesouthside",
+            "name": "DUNDAS ST WEST AT ACORN AVE",
+            "onestopId": "s-dpz2npcqzm-dundaswestatacorn",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3293,31 +3398,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.519273,
-                    43.63431
+                    -79.522414,
+                    43.621791
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4919",
+                    "identifier": "f-ttc-s-8089",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2727",
+                        "stop_code": "6926",
                         "stop_desc": "",
-                        "stop_id": "4919",
-                        "stop_lat": "43.63431",
-                        "stop_lon": "-79.519273",
-                        "stop_name": "ISLINGTON AVE AT NORSEMAN ST",
+                        "stop_id": "8089",
+                        "stop_lat": "43.621791",
+                        "stop_lon": "-79.522414",
+                        "stop_name": "THE QUEENSWAY AT ZORRA ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT NORSEMAN ST",
-            "onestopId": "s-dpz2nrru68-islingtonatnorseman",
+            "name": "THE QUEENSWAY AT ZORRA ST",
+            "onestopId": "s-dpz2nmje37-thequeenswayatzorra",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3398,111 +3503,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.511025,
-                    43.618241
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-2454",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3787",
-                        "stop_desc": "",
-                        "stop_id": "2454",
-                        "stop_lat": "43.618241",
-                        "stop_lon": "-79.511025",
-                        "stop_name": "ISLINGTON AVE AT EVANS AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ISLINGTON AVE AT EVANS AVE",
-            "onestopId": "s-dpz2nsmydv-islingtonatevans",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.519856,
-                    43.636324
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-6469",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2730",
-                        "stop_desc": "",
-                        "stop_id": "6469",
-                        "stop_lat": "43.636324",
-                        "stop_lon": "-79.519856",
-                        "stop_name": "ISLINGTON AVE AT SAYBROOK AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ISLINGTON AVE AT SAYBROOK AVE",
-            "onestopId": "s-dpz2nrz2j0-islingtonatsaybrook",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.52455,
-                    43.62133
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-6084",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6882",
-                        "stop_desc": "",
-                        "stop_id": "6084",
-                        "stop_lat": "43.62133",
-                        "stop_lon": "-79.52455",
-                        "stop_name": "THE QUEENSWAY AT CULNAN AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "THE QUEENSWAY AT CULNAN AVE",
-            "onestopId": "s-dpz2nm5bxt-thequeenswayatculnan",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.516771,
                     43.598038
                 ],
@@ -3573,66 +3573,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.505057,
-                    43.63244
+                    -79.533543,
+                    43.603747
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6247",
+                    "identifier": "f-ttc-s-952",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7019",
+                        "stop_code": "9247",
                         "stop_desc": "",
-                        "stop_id": "6247",
-                        "stop_lat": "43.63244",
-                        "stop_lon": "-79.505057",
-                        "stop_name": "ROYAL YORK RD AT OAKFIELD DR NORTH SIDE",
+                        "stop_id": "952",
+                        "stop_lat": "43.603747",
+                        "stop_lon": "-79.533543",
+                        "stop_name": "THIRTIETH ST AT HORNER AVE SOUTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROYAL YORK RD AT OAKFIELD DR NORTH SIDE",
-            "onestopId": "s-dpz2nz41mu-royalyorkatoakfieldnorthside",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.517695,
-                    43.607723
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-2913",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3719",
-                        "stop_desc": "",
-                        "stop_id": "2913",
-                        "stop_lat": "43.607723",
-                        "stop_lon": "-79.517695",
-                        "stop_name": "215 HORNER AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "215 HORNER AVE",
-            "onestopId": "s-dpz2nd8crk-215horner",
+            "name": "THIRTIETH ST AT HORNER AVE SOUTH SIDE",
+            "onestopId": "s-dpz2n1v6np-thirtiethathornersouthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -3713,31 +3678,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.532796,
-                    43.614257
+                    -79.538627,
+                    43.613066
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7066",
+                    "identifier": "f-ttc-s-3753",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2432",
+                        "stop_code": "2451",
                         "stop_desc": "",
-                        "stop_id": "7066",
-                        "stop_lat": "43.614257",
-                        "stop_lon": "-79.532796",
-                        "stop_name": "EVANS AVE AT BELLMAN AVE EAST SIDE",
+                        "stop_id": "3753",
+                        "stop_lat": "43.613066",
+                        "stop_lon": "-79.538627",
+                        "stop_name": "EVANS AVE AT NORTH CARSON ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE AT BELLMAN AVE EAST SIDE",
-            "onestopId": "s-dpz2n5tzrw-evansatbellmaneastside",
+            "name": "EVANS AVE AT NORTH CARSON ST",
+            "onestopId": "s-dpz2n598x8-evansatnorthcarson",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4203,31 +4168,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.507079,
-                    43.637371
+                    -79.498755,
+                    43.616893
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6134",
+                    "identifier": "f-ttc-s-7349",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "7016",
+                        "stop_code": "7014",
                         "stop_desc": "",
-                        "stop_id": "6134",
-                        "stop_lat": "43.637371",
-                        "stop_lon": "-79.507079",
-                        "stop_name": "ROYAL YORK RD AT NORSEMAN ST NORTH SIDE",
+                        "stop_id": "7349",
+                        "stop_lat": "43.616893",
+                        "stop_lon": "-79.498755",
+                        "stop_name": "ROYAL YORK RD AT NEWCASTLE ST SOUTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROYAL YORK RD AT NORSEMAN ST NORTH SIDE",
-            "onestopId": "s-dpz2nzbwng-royalyorkatnorsemannorthside",
+            "name": "ROYAL YORK RD AT NEWCASTLE ST SOUTH SIDE",
+            "onestopId": "s-dpz2nunybd-royalyorkatnewcastlesouthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4378,31 +4343,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.506448,
-                    43.603403
+                    -79.505057,
+                    43.63244
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6617",
+                    "identifier": "f-ttc-s-6247",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3770",
+                        "stop_code": "7019",
                         "stop_desc": "",
-                        "stop_id": "6617",
-                        "stop_lat": "43.603403",
-                        "stop_lon": "-79.506448",
-                        "stop_name": "ISLINGTON AVE AT BIRMINGHAM ST",
+                        "stop_id": "6247",
+                        "stop_lat": "43.63244",
+                        "stop_lon": "-79.505057",
+                        "stop_name": "ROYAL YORK RD AT OAKFIELD DR NORTH SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT BIRMINGHAM ST",
-            "onestopId": "s-dpz2ncc0jr-islingtonatbirmingham",
+            "name": "ROYAL YORK RD AT OAKFIELD DR NORTH SIDE",
+            "onestopId": "s-dpz2nz41mu-royalyorkatoakfieldnorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4693,31 +4658,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.529073,
-                    43.620522
+                    -79.497737,
+                    43.614961
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3513",
+                    "identifier": "f-ttc-s-4107",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6911",
+                        "stop_code": "6978",
                         "stop_desc": "",
-                        "stop_id": "3513",
-                        "stop_lat": "43.620522",
-                        "stop_lon": "-79.529073",
-                        "stop_name": "THE QUEENSWAY AT QUEENSWAY LIONS CRT WEST SIDE",
+                        "stop_id": "4107",
+                        "stop_lat": "43.614961",
+                        "stop_lon": "-79.497737",
+                        "stop_name": "ROYAL YORK RD AT CAVELL AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE QUEENSWAY AT QUEENSWAY LIONS CRT WEST SIDE",
-            "onestopId": "s-dpz2nkbeyq-thequeenswayatqueenswaylionscrtwestside",
+            "name": "ROYAL YORK RD AT CAVELL AVE",
+            "onestopId": "s-dpz2ngze86-royalyorkatcavell",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4728,31 +4693,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.528216,
-                    43.615277
+                    -79.530287,
+                    43.614945
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-8565",
+                    "identifier": "f-ttc-s-3467",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11561",
+                        "stop_code": "9738",
                         "stop_desc": "",
-                        "stop_id": "8565",
-                        "stop_lat": "43.615277",
-                        "stop_lon": "-79.528216",
-                        "stop_name": "400 EVANS AVE",
+                        "stop_id": "3467",
+                        "stop_lat": "43.614945",
+                        "stop_lon": "-79.530287",
+                        "stop_name": "EVANS AVE AT WICKMAN RD WEST SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "400 EVANS AVE",
-            "onestopId": "s-dpz2n7cm6k-400evans",
+            "name": "EVANS AVE AT WICKMAN RD WEST SIDE",
+            "onestopId": "s-dpz2n5zg3z-evansatwickmanwestside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.499667,
+                    43.626908
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-14613",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "14604",
+                        "stop_desc": "",
+                        "stop_id": "14613",
+                        "stop_lat": "43.626908",
+                        "stop_lon": "-79.499667",
+                        "stop_name": "THE QUEENSWAY AT WESLEY ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "THE QUEENSWAY AT WESLEY ST",
+            "onestopId": "s-dpz2nyn15m-thequeenswayatwesley",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4833,31 +4833,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.522414,
-                    43.621791
+                    -79.519273,
+                    43.63431
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-8089",
+                    "identifier": "f-ttc-s-4919",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6926",
+                        "stop_code": "2727",
                         "stop_desc": "",
-                        "stop_id": "8089",
-                        "stop_lat": "43.621791",
-                        "stop_lon": "-79.522414",
-                        "stop_name": "THE QUEENSWAY AT ZORRA ST",
+                        "stop_id": "4919",
+                        "stop_lat": "43.63431",
+                        "stop_lon": "-79.519273",
+                        "stop_name": "ISLINGTON AVE AT NORSEMAN ST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE QUEENSWAY AT ZORRA ST",
-            "onestopId": "s-dpz2nmje37-thequeenswayatzorra",
+            "name": "ISLINGTON AVE AT NORSEMAN ST",
+            "onestopId": "s-dpz2nrru68-islingtonatnorseman",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4868,31 +4868,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.523791,
-                    43.614202
+                    -79.527682,
+                    43.622816
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6709",
+                    "identifier": "f-ttc-s-5558",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4379",
+                        "stop_code": "4385",
                         "stop_desc": "",
-                        "stop_id": "6709",
-                        "stop_lat": "43.614202",
-                        "stop_lon": "-79.523791",
-                        "stop_name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
+                        "stop_id": "5558",
+                        "stop_lat": "43.622816",
+                        "stop_lon": "-79.527682",
+                        "stop_name": "KIPLING AVE AT WARNICA AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
-            "onestopId": "s-dpz2n7sx1k-kiplingattorlakecresnorth",
+            "name": "KIPLING AVE AT WARNICA AVE",
+            "onestopId": "s-dpz2nm39qd-kiplingatwarnica",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -4973,31 +4973,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.511531,
-                    43.618436
+                    -79.511313,
+                    43.618387
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9334",
+                    "identifier": "f-ttc-s-13263",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9651",
+                        "stop_code": "S_EVIS",
                         "stop_desc": "",
-                        "stop_id": "9334",
-                        "stop_lat": "43.618436",
-                        "stop_lon": "-79.511531",
-                        "stop_name": "ISLINGTON AVE AT EVANS AVE",
+                        "stop_id": "13263",
+                        "stop_lat": "43.618387",
+                        "stop_lon": "-79.511313",
+                        "stop_name": "EVANS AVE. AT ISLINGTON AVE.",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT EVANS AVE",
-            "onestopId": "s-dpz2nsmrz1-islingtonatevans",
+            "name": "EVANS AVE. AT ISLINGTON AVE.",
+            "onestopId": "s-dpz2nsmxs0-evansatislington",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5008,31 +5008,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.520871,
-                    43.607086
+                    -79.517129,
+                    43.598355
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9970",
+                    "identifier": "f-ttc-s-4241",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3723",
+                        "stop_code": "12124",
                         "stop_desc": "",
-                        "stop_id": "9970",
-                        "stop_lat": "43.607086",
-                        "stop_lon": "-79.520871",
-                        "stop_name": "HORNER AT KIPLING AVE",
+                        "stop_id": "4241",
+                        "stop_lat": "43.598355",
+                        "stop_lon": "-79.517129",
+                        "stop_name": "KIPLING AVE AT LAKE SHORE BLVD WEST",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HORNER AT KIPLING AVE",
-            "onestopId": "s-dpz2n6qttq-horneratkipling",
+            "name": "KIPLING AVE AT LAKE SHORE BLVD WEST",
+            "onestopId": "s-dpz2n8c6ud-kiplingatlakeshorewest",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5113,31 +5113,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.536942,
-                    43.618842
+                    -79.52271,
+                    43.611637
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-2395",
+                    "identifier": "f-ttc-s-9283",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6869",
+                        "stop_code": "4381",
                         "stop_desc": "",
-                        "stop_id": "2395",
-                        "stop_lat": "43.618842",
-                        "stop_lon": "-79.536942",
-                        "stop_name": "THE QUEENSWAY AT ALGIE AVE",
+                        "stop_id": "9283",
+                        "stop_lat": "43.611637",
+                        "stop_lon": "-79.52271",
+                        "stop_name": "KIPLING AVE AT TORLAKE CRES (SOUTH)",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE QUEENSWAY AT ALGIE AVE",
-            "onestopId": "s-dpz2nhdfnv-thequeenswayatalgie",
+            "name": "KIPLING AVE AT TORLAKE CRES (SOUTH)",
+            "onestopId": "s-dpz2n7m24w-kiplingattorlakecressouth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5288,66 +5288,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.511313,
-                    43.618387
+                    -79.511531,
+                    43.618436
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13263",
+                    "identifier": "f-ttc-s-9334",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_EVIS",
+                        "stop_code": "9651",
                         "stop_desc": "",
-                        "stop_id": "13263",
-                        "stop_lat": "43.618387",
-                        "stop_lon": "-79.511313",
-                        "stop_name": "EVANS AVE. AT ISLINGTON AVE.",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "EVANS AVE. AT ISLINGTON AVE.",
-            "onestopId": "s-dpz2nsmxs0-evansatislington",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.506613,
-                    43.61968
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-3190",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "9397",
-                        "stop_desc": "",
-                        "stop_id": "3190",
-                        "stop_lat": "43.61968",
-                        "stop_lon": "-79.506613",
-                        "stop_name": "EVANS AVE AT GARROCH PL",
+                        "stop_id": "9334",
+                        "stop_lat": "43.618436",
+                        "stop_lon": "-79.511531",
+                        "stop_name": "ISLINGTON AVE AT EVANS AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE AT GARROCH PL",
-            "onestopId": "s-dpz2nu9p19-evansatgarrochpl",
+            "name": "ISLINGTON AVE AT EVANS AVE",
+            "onestopId": "s-dpz2nsmrz1-islingtonatevans",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5358,31 +5323,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.529661,
-                    43.595456
+                    -79.531205,
+                    43.631597
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-1737",
+                    "identifier": "f-ttc-s-4254",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5162",
+                        "stop_code": "4344",
                         "stop_desc": "",
-                        "stop_id": "1737",
-                        "stop_lat": "43.595456",
-                        "stop_lon": "-79.529661",
-                        "stop_name": "LAKE SHORE BLVD WEST AT THIRTIETH ST",
+                        "stop_id": "4254",
+                        "stop_lat": "43.631597",
+                        "stop_lon": "-79.531205",
+                        "stop_name": "KIPLING AVE AT NORSEMAN ST",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT THIRTIETH ST",
-            "onestopId": "s-dpz2n223bw-lakeshorewestatthirtieth",
+            "name": "KIPLING AVE AT NORSEMAN ST",
+            "onestopId": "s-dpz2nnzhkx-kiplingatnorseman",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.522157,
+                    43.606985
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-2006",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "3728",
+                        "stop_desc": "",
+                        "stop_id": "2006",
+                        "stop_lat": "43.606985",
+                        "stop_lon": "-79.522157",
+                        "stop_name": "HORNER AVE AT TUPPER AVE WEST SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "HORNER AVE AT TUPPER AVE WEST SIDE",
+            "onestopId": "s-dpz2n6mtp7-hornerattupperwestside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5498,31 +5498,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.515658,
-                    43.625559
+                    -79.520522,
+                    43.607019
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9240",
+                    "identifier": "f-ttc-s-3095",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2719",
+                        "stop_code": "4326",
                         "stop_desc": "",
-                        "stop_id": "9240",
-                        "stop_lat": "43.625559",
-                        "stop_lon": "-79.515658",
-                        "stop_name": "ISLINGTON AVE AT BRADBROOK RD",
+                        "stop_id": "3095",
+                        "stop_lat": "43.607019",
+                        "stop_lon": "-79.520522",
+                        "stop_name": "KIPLING AVE AT HORNER AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT BRADBROOK RD",
-            "onestopId": "s-dpz2ntf3qc-islingtonatbradbrook",
+            "name": "KIPLING AVE AT HORNER AVE",
+            "onestopId": "s-dpz2n6qvm9-kiplingathorner",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5568,31 +5568,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.497737,
-                    43.614961
+                    -79.52495,
+                    43.615762
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4107",
+                    "identifier": "f-ttc-s-4374",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6978",
+                        "stop_code": "2448",
                         "stop_desc": "",
-                        "stop_id": "4107",
-                        "stop_lat": "43.614961",
-                        "stop_lon": "-79.497737",
-                        "stop_name": "ROYAL YORK RD AT CAVELL AVE",
+                        "stop_id": "4374",
+                        "stop_lat": "43.615762",
+                        "stop_lon": "-79.52495",
+                        "stop_name": "EVANS AVE AT KIPLING AVE",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROYAL YORK RD AT CAVELL AVE",
-            "onestopId": "s-dpz2ngze86-royalyorkatcavell",
+            "name": "EVANS AVE AT KIPLING AVE",
+            "onestopId": "s-dpz2nk58nr-evansatkipling",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5603,31 +5603,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.54007,
-                    43.636271
+                    -79.498356,
+                    43.602382
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-10129",
+                    "identifier": "f-ttc-s-10320",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5022",
+                        "stop_code": "13947",
                         "stop_desc": "",
-                        "stop_id": "10129",
-                        "stop_lat": "43.636271",
-                        "stop_lon": "-79.54007",
-                        "stop_name": "DUNDAS ST WEST AT POPLAR AVE",
+                        "stop_id": "10320",
+                        "stop_lat": "43.602382",
+                        "stop_lon": "-79.498356",
+                        "stop_name": "LAKE SHORE BLVD WEST AT FIRST ST",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "DUNDAS ST WEST AT POPLAR AVE",
-            "onestopId": "s-dpz2np8xwn-dundaswestatpoplar",
+            "name": "LAKE SHORE BLVD WEST AT FIRST ST",
+            "onestopId": "s-dpz2ncx461-lakeshorewestatfirst",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5778,41 +5778,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.540101,
-                    43.635849
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-7008",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2180",
-                        "stop_desc": "",
-                        "stop_id": "7008",
-                        "stop_lat": "43.635849",
-                        "stop_lon": "-79.540101",
-                        "stop_name": "DUNDAS ST WEST AT SUBWAY CRES",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "DUNDAS ST WEST AT SUBWAY CRES",
-            "onestopId": "s-dpz2np8tjr-dundaswestatsubwaycres",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.506452,
                     43.606549
                 ],
@@ -5918,31 +5883,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.524095,
-                    43.621648
+                    -79.517171,
+                    43.598069
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3380",
+                    "identifier": "f-ttc-s-7984",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6883",
+                        "stop_code": "5182",
                         "stop_desc": "",
-                        "stop_id": "3380",
-                        "stop_lat": "43.621648",
-                        "stop_lon": "-79.524095",
-                        "stop_name": "THE QUEENSWAY AT CULNAN AVE",
+                        "stop_id": "7984",
+                        "stop_lat": "43.598069",
+                        "stop_lon": "-79.517171",
+                        "stop_name": "LAKE SHORE BLVD WEST AT COLONEL SAMUEL SMITH PARK DR",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THE QUEENSWAY AT CULNAN AVE",
-            "onestopId": "s-dpz2nmh6d2-thequeenswayatculnan",
+            "name": "LAKE SHORE BLVD WEST AT COLONEL SAMUEL SMITH PARK DR",
+            "onestopId": "s-dpz2n8c35t-lakeshorewestatcolonelsamuelsmithpark",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -5988,31 +5953,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.535661,
-                    43.637592
+                    -79.524267,
+                    43.596667
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-14238",
+                    "identifier": "f-ttc-s-9317",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "14719",
+                        "stop_code": "5158",
                         "stop_desc": "",
-                        "stop_id": "14238",
-                        "stop_lat": "43.637592",
-                        "stop_lon": "-79.535661",
-                        "stop_name": "KIPLING STATION",
+                        "stop_id": "9317",
+                        "stop_lat": "43.596667",
+                        "stop_lon": "-79.524267",
+                        "stop_name": "LAKE SHORE BLVD WEST AT TWENTY SIXTH ST",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING STATION",
-            "onestopId": "s-dpz2npgzku-kiplingstation",
+            "name": "LAKE SHORE BLVD WEST AT TWENTY SIXTH ST",
+            "onestopId": "s-dpz2n2s0yr-lakeshorewestattwentysixth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6023,31 +5988,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.533531,
-                    43.604096
+                    -79.535957,
+                    43.613669
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-8993",
+                    "identifier": "f-ttc-s-4822",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9256",
+                        "stop_code": "2456",
                         "stop_desc": "",
-                        "stop_id": "8993",
-                        "stop_lat": "43.604096",
-                        "stop_lon": "-79.533531",
-                        "stop_name": "THIRTIETH ST AT HORNER AVE",
+                        "stop_id": "4822",
+                        "stop_lat": "43.613669",
+                        "stop_lon": "-79.535957",
+                        "stop_name": "EVANS AVE AT TREEVIEW DR",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THIRTIETH ST AT HORNER AVE",
-            "onestopId": "s-dpz2n1vkq2-thirtiethathorner",
+            "name": "EVANS AVE AT TREEVIEW DR",
+            "onestopId": "s-dpz2n5esjc-evansattreeview",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6093,31 +6058,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.508391,
-                    43.614038
+                    -79.529661,
+                    43.595456
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9084",
+                    "identifier": "f-ttc-s-1737",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3804",
+                        "stop_code": "5162",
                         "stop_desc": "",
-                        "stop_id": "9084",
-                        "stop_lat": "43.614038",
-                        "stop_lon": "-79.508391",
-                        "stop_name": "ISLINGTON AVE AT JUDSON ST NORTH SIDE",
+                        "stop_id": "1737",
+                        "stop_lat": "43.595456",
+                        "stop_lon": "-79.529661",
+                        "stop_name": "LAKE SHORE BLVD WEST AT THIRTIETH ST",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ISLINGTON AVE AT JUDSON ST NORTH SIDE",
-            "onestopId": "s-dpz2nexy0j-islingtonatjudsonnorthside",
+            "name": "LAKE SHORE BLVD WEST AT THIRTIETH ST",
+            "onestopId": "s-dpz2n223bw-lakeshorewestatthirtieth",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.531896,
+                    43.633266
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-10192",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4274",
+                        "stop_desc": "",
+                        "stop_id": "10192",
+                        "stop_lat": "43.633266",
+                        "stop_lon": "-79.531896",
+                        "stop_name": "KIPLING AVE AT ADVANCE RD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "KIPLING AVE AT ADVANCE RD",
+            "onestopId": "s-dpz2npnwhw-kiplingatadvance",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6303,66 +6303,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.529868,
-                    43.595469
+                    -79.51488,
+                    43.609732
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5315",
+                    "identifier": "f-ttc-s-3004",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9251",
+                        "stop_code": "3704",
                         "stop_desc": "",
-                        "stop_id": "5315",
-                        "stop_lat": "43.595469",
-                        "stop_lon": "-79.529868",
-                        "stop_name": "THIRTIETH ST AT LAKE SHORE BLVD WEST",
+                        "stop_id": "3004",
+                        "stop_lat": "43.609732",
+                        "stop_lon": "-79.51488",
+                        "stop_name": "OPPPOSITE 137 HORNER (TORONTO SOUTH DETENTION CENTRE)",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "THIRTIETH ST AT LAKE SHORE BLVD WEST",
-            "onestopId": "s-dpz2n2245b-thirtiethatlakeshorewest",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.502937,
-                    43.601368
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-4223",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5171",
-                        "stop_desc": "",
-                        "stop_id": "4223",
-                        "stop_lat": "43.601368",
-                        "stop_lon": "-79.502937",
-                        "stop_name": "LAKE SHORE BLVD WEST AT FIFTH ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LAKE SHORE BLVD WEST AT FIFTH ST",
-            "onestopId": "s-dpz2nc7srk-lakeshorewestatfifth",
+            "name": "OPPPOSITE 137 HORNER (TORONTO SOUTH DETENTION CENTRE)",
+            "onestopId": "s-dpz2ndgj15-oppposite137hornertorontosouthdetentioncentre",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6513,6 +6478,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.532796,
+                    43.614257
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-7066",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2432",
+                        "stop_desc": "",
+                        "stop_id": "7066",
+                        "stop_lat": "43.614257",
+                        "stop_lon": "-79.532796",
+                        "stop_name": "EVANS AVE AT BELLMAN AVE EAST SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EVANS AVE AT BELLMAN AVE EAST SIDE",
+            "onestopId": "s-dpz2n5tzrw-evansatbellmaneastside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.524891,
                     43.616015
                 ],
@@ -6548,31 +6548,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.53894,
-                    43.603012
+                    -79.540101,
+                    43.635849
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-6675",
+                    "identifier": "f-ttc-s-7008",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3711",
+                        "stop_code": "2180",
                         "stop_desc": "",
-                        "stop_id": "6675",
-                        "stop_lat": "43.603012",
-                        "stop_lon": "-79.53894",
-                        "stop_name": "HORNER AVE AT BETA ST",
+                        "stop_id": "7008",
+                        "stop_lat": "43.635849",
+                        "stop_lon": "-79.540101",
+                        "stop_name": "DUNDAS ST WEST AT SUBWAY CRES",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "HORNER AVE AT BETA ST",
-            "onestopId": "s-dpz2n19tbq-horneratbeta",
+            "name": "DUNDAS ST WEST AT SUBWAY CRES",
+            "onestopId": "s-dpz2np8tjr-dundaswestatsubwaycres",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6653,31 +6653,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.527682,
-                    43.622816
+                    -79.523791,
+                    43.614202
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5558",
+                    "identifier": "f-ttc-s-6709",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4385",
+                        "stop_code": "4379",
                         "stop_desc": "",
-                        "stop_id": "5558",
-                        "stop_lat": "43.622816",
-                        "stop_lon": "-79.527682",
-                        "stop_name": "KIPLING AVE AT WARNICA AVE",
+                        "stop_id": "6709",
+                        "stop_lat": "43.614202",
+                        "stop_lon": "-79.523791",
+                        "stop_name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT WARNICA AVE",
-            "onestopId": "s-dpz2nm39qd-kiplingatwarnica",
+            "name": "KIPLING AVE AT TORLAKE CRES (NORTH)",
+            "onestopId": "s-dpz2n7sx1k-kiplingattorlakecresnorth",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.510907,
+                    43.618551
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-3201",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "9399",
+                        "stop_desc": "",
+                        "stop_id": "3201",
+                        "stop_lat": "43.618551",
+                        "stop_lon": "-79.510907",
+                        "stop_name": "EVANS AVE AT ISLINGTON AVE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EVANS AVE AT ISLINGTON AVE",
+            "onestopId": "s-dpz2nstbmx-evansatislington",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6723,31 +6758,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.517171,
-                    43.598069
+                    -79.524095,
+                    43.621648
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-7984",
+                    "identifier": "f-ttc-s-3380",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5182",
+                        "stop_code": "6883",
                         "stop_desc": "",
-                        "stop_id": "7984",
-                        "stop_lat": "43.598069",
-                        "stop_lon": "-79.517171",
-                        "stop_name": "LAKE SHORE BLVD WEST AT COLONEL SAMUEL SMITH PARK DR",
+                        "stop_id": "3380",
+                        "stop_lat": "43.621648",
+                        "stop_lon": "-79.524095",
+                        "stop_name": "THE QUEENSWAY AT CULNAN AVE",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT COLONEL SAMUEL SMITH PARK DR",
-            "onestopId": "s-dpz2n8c35t-lakeshorewestatcolonelsamuelsmithpark",
+            "name": "THE QUEENSWAY AT CULNAN AVE",
+            "onestopId": "s-dpz2nmh6d2-thequeenswayatculnan",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6898,31 +6933,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.524612,
-                    43.615867
+                    -79.52455,
+                    43.62133
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-13264",
+                    "identifier": "f-ttc-s-6084",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "S_EVKI",
+                        "stop_code": "6882",
                         "stop_desc": "",
-                        "stop_id": "13264",
-                        "stop_lat": "43.615867",
-                        "stop_lon": "-79.524612",
-                        "stop_name": "EVANS AVE. AT KIPLING AVE.",
+                        "stop_id": "6084",
+                        "stop_lat": "43.62133",
+                        "stop_lon": "-79.52455",
+                        "stop_name": "THE QUEENSWAY AT CULNAN AVE",
                         "stop_url": "",
-                        "wheelchair_boarding": "2",
+                        "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE. AT KIPLING AVE.",
-            "onestopId": "s-dpz2nk5by4-evansatkipling",
+            "name": "THE QUEENSWAY AT CULNAN AVE",
+            "onestopId": "s-dpz2nm5bxt-thequeenswayatculnan",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -6933,31 +6968,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.530287,
-                    43.614945
+                    -79.513155,
+                    43.618045
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3467",
+                    "identifier": "f-ttc-s-4792",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "9738",
+                        "stop_code": "2447",
                         "stop_desc": "",
-                        "stop_id": "3467",
-                        "stop_lat": "43.614945",
-                        "stop_lon": "-79.530287",
-                        "stop_name": "EVANS AVE AT WICKMAN RD WEST SIDE",
+                        "stop_id": "4792",
+                        "stop_lat": "43.618045",
+                        "stop_lon": "-79.513155",
+                        "stop_name": "185 EVANS AVE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "EVANS AVE AT WICKMAN RD WEST SIDE",
-            "onestopId": "s-dpz2n5zg3z-evansatwickmanwestside",
+            "name": "185 EVANS AVE",
+            "onestopId": "s-dpz2nskm90-185evans",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -7098,41 +7133,6 @@
             ],
             "name": "HORNER AVE AT BETA ST",
             "onestopId": "s-dpz2n19zym-horneratbeta",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.522157,
-                    43.606985
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-2006",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "3728",
-                        "stop_desc": "",
-                        "stop_id": "2006",
-                        "stop_lat": "43.606985",
-                        "stop_lon": "-79.522157",
-                        "stop_name": "HORNER AVE AT TUPPER AVE WEST SIDE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "HORNER AVE AT TUPPER AVE WEST SIDE",
-            "onestopId": "s-dpz2n6mtp7-hornerattupperwestside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -7318,31 +7318,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.517129,
-                    43.598355
+                    -79.5144,
+                    43.598677
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-4241",
+                    "identifier": "f-ttc-s-5188",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12124",
+                        "stop_code": "5154",
                         "stop_desc": "",
-                        "stop_id": "4241",
-                        "stop_lat": "43.598355",
-                        "stop_lon": "-79.517129",
-                        "stop_name": "KIPLING AVE AT LAKE SHORE BLVD WEST",
+                        "stop_id": "5188",
+                        "stop_lat": "43.598677",
+                        "stop_lon": "-79.5144",
+                        "stop_name": "LAKE SHORE BLVD WEST AT FIFTEENTH ST",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT LAKE SHORE BLVD WEST",
-            "onestopId": "s-dpz2n8c6ud-kiplingatlakeshorewest",
+            "name": "LAKE SHORE BLVD WEST AT FIFTEENTH ST",
+            "onestopId": "s-dpz2n8gksn-lakeshorewestatfifteenth",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -7388,31 +7388,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.51207,
-                    43.612931
+                    -79.535955,
+                    43.637342
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-9783",
+                    "identifier": "f-ttc-s-14236",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "3949",
+                        "stop_code": "14717",
                         "stop_desc": "",
-                        "stop_id": "9783",
-                        "stop_lat": "43.612931",
-                        "stop_lon": "-79.51207",
-                        "stop_name": "JUDSON ST AT MAGNIFICENT RD",
+                        "stop_id": "14236",
+                        "stop_lat": "43.637342",
+                        "stop_lon": "-79.535955",
+                        "stop_name": "KIPLING STATION",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "JUDSON ST AT MAGNIFICENT RD",
-            "onestopId": "s-dpz2nempdr-judsonatmagnificent",
+            "name": "KIPLING STATION",
+            "onestopId": "s-dpz2npgtvy-kiplingstation",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -7563,41 +7563,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.538982,
-                    43.637508
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-3686",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2138",
-                        "stop_desc": "",
-                        "stop_id": "3686",
-                        "stop_lat": "43.637508",
-                        "stop_lon": "-79.538982",
-                        "stop_name": "DUNDAS ST WEST AT ACORN AVE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "DUNDAS ST WEST AT ACORN AVE",
-            "onestopId": "s-dpz2npcqzm-dundaswestatacorn",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.501778,
                     43.626433
                 ],
@@ -7738,41 +7703,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.508824,
-                    43.599904
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-5050",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5150",
-                        "stop_desc": "",
-                        "stop_id": "5050",
-                        "stop_lat": "43.599904",
-                        "stop_lon": "-79.508824",
-                        "stop_name": "LAKE SHORE BLVD WEST AT TENTH ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "2",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "LAKE SHORE BLVD WEST AT TENTH ST",
-            "onestopId": "s-dpz2n9p7y5-lakeshorewestattenth",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -79.500018,
                     43.619921
                 ],
@@ -7808,31 +7738,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.520522,
-                    43.607019
+                    -79.529073,
+                    43.620522
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-3095",
+                    "identifier": "f-ttc-s-3513",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4326",
+                        "stop_code": "6911",
                         "stop_desc": "",
-                        "stop_id": "3095",
-                        "stop_lat": "43.607019",
-                        "stop_lon": "-79.520522",
-                        "stop_name": "KIPLING AVE AT HORNER AVE",
+                        "stop_id": "3513",
+                        "stop_lat": "43.620522",
+                        "stop_lon": "-79.529073",
+                        "stop_name": "THE QUEENSWAY AT QUEENSWAY LIONS CRT WEST SIDE",
                         "stop_url": "",
                         "wheelchair_boarding": "1",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT HORNER AVE",
-            "onestopId": "s-dpz2n6qvm9-kiplingathorner",
+            "name": "THE QUEENSWAY AT QUEENSWAY LIONS CRT WEST SIDE",
+            "onestopId": "s-dpz2nkbeyq-thequeenswayatqueenswaylionscrtwestside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.515658,
+                    43.625559
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-9240",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2719",
+                        "stop_desc": "",
+                        "stop_id": "9240",
+                        "stop_lat": "43.625559",
+                        "stop_lon": "-79.515658",
+                        "stop_name": "ISLINGTON AVE AT BRADBROOK RD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ISLINGTON AVE AT BRADBROOK RD",
+            "onestopId": "s-dpz2ntf3qc-islingtonatbradbrook",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -7913,6 +7878,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -79.507079,
+                    43.637371
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-6134",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "7016",
+                        "stop_desc": "",
+                        "stop_id": "6134",
+                        "stop_lat": "43.637371",
+                        "stop_lon": "-79.507079",
+                        "stop_name": "ROYAL YORK RD AT NORSEMAN ST NORTH SIDE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROYAL YORK RD AT NORSEMAN ST NORTH SIDE",
+            "onestopId": "s-dpz2nzbwng-royalyorkatnorsemannorthside",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -79.530671,
                     43.597675
                 ],
@@ -7973,41 +7973,6 @@
             ],
             "name": "EVANS AVE AT EASTWICK RD WEST SIDE",
             "onestopId": "s-dpz2ns6ec7-evansateastwickwestside",
-            "properties": {},
-            "servedBy": [
-                "o-dpz8-ttc"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.535955,
-                    43.637342
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-ttc-s-14236",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "14717",
-                        "stop_desc": "",
-                        "stop_id": "14236",
-                        "stop_lat": "43.637342",
-                        "stop_lon": "-79.535955",
-                        "stop_name": "KIPLING STATION",
-                        "stop_url": "",
-                        "wheelchair_boarding": "1",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "KIPLING STATION",
-            "onestopId": "s-dpz2npgtvy-kiplingstation",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -8228,31 +8193,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.531896,
-                    43.633266
+                    -79.508391,
+                    43.614038
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-10192",
+                    "identifier": "f-ttc-s-9084",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4274",
+                        "stop_code": "3804",
                         "stop_desc": "",
-                        "stop_id": "10192",
-                        "stop_lat": "43.633266",
-                        "stop_lon": "-79.531896",
-                        "stop_name": "KIPLING AVE AT ADVANCE RD",
+                        "stop_id": "9084",
+                        "stop_lat": "43.614038",
+                        "stop_lon": "-79.508391",
+                        "stop_name": "ISLINGTON AVE AT JUDSON ST NORTH SIDE",
                         "stop_url": "",
-                        "wheelchair_boarding": "1",
+                        "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KIPLING AVE AT ADVANCE RD",
-            "onestopId": "s-dpz2npnwhw-kiplingatadvance",
+            "name": "ISLINGTON AVE AT JUDSON ST NORTH SIDE",
+            "onestopId": "s-dpz2nexy0j-islingtonatjudsonnorthside",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -8613,31 +8578,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -79.5144,
-                    43.598677
+                    -79.507259,
+                    43.602776
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-ttc-s-5188",
+                    "identifier": "f-ttc-s-345",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5154",
+                        "stop_code": "11506",
                         "stop_desc": "",
-                        "stop_id": "5188",
-                        "stop_lat": "43.598677",
-                        "stop_lon": "-79.5144",
-                        "stop_name": "LAKE SHORE BLVD WEST AT FIFTEENTH ST",
+                        "stop_id": "345",
+                        "stop_lat": "43.602776",
+                        "stop_lon": "-79.507259",
+                        "stop_name": "8TH ST AT BIRMINGHAM ST",
                         "stop_url": "",
                         "wheelchair_boarding": "2",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE SHORE BLVD WEST AT FIFTEENTH ST",
-            "onestopId": "s-dpz2n8gksn-lakeshorewestatfifteenth",
+            "name": "8TH ST AT BIRMINGHAM ST",
+            "onestopId": "s-dpz2nc8sdd-8thatbirmingham",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"
@@ -8708,6 +8673,41 @@
             ],
             "name": "KIPLING STATION - SUBWAY PLATFORM",
             "onestopId": "s-dpz2npgsv1-kiplingstationsubwayplatform",
+            "properties": {},
+            "servedBy": [
+                "o-dpz8-ttc"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.530185,
+                    43.614841
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-ttc-s-9249",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2457",
+                        "stop_desc": "",
+                        "stop_id": "9249",
+                        "stop_lat": "43.614841",
+                        "stop_lon": "-79.530185",
+                        "stop_name": "EVANS AVE AT WICKMAN RD",
+                        "stop_url": "",
+                        "wheelchair_boarding": "1",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "EVANS AVE AT WICKMAN RD",
+            "onestopId": "s-dpz2n5zfu7-evansatwickman",
             "properties": {},
             "servedBy": [
                 "o-dpz8-ttc"

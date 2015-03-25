@@ -3,40 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.778759,
-                    49.168666
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-5963",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "55907",
-                        "stop_desc": "160 ST @ 91 AVE",
-                        "stop_id": "5963",
-                        "stop_lat": "49.168666",
-                        "stop_lon": "-122.778759",
-                        "stop_name": "NB 160 ST FS 91 AV",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "NB 160 ST FS 91 AV",
-            "onestopId": "s-c28xwnghpx-nb160fs91",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.755697,
                     49.147436
                 ],
@@ -61,6 +27,40 @@
             ],
             "name": "EB FRASER HWY FS 168 ST",
             "onestopId": "s-c28xweh08f-ebfraserfs168",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.778759,
+                    49.168666
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-5963",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "55907",
+                        "stop_desc": "160 ST @ 91 AVE",
+                        "stop_id": "5963",
+                        "stop_lat": "49.168666",
+                        "stop_lon": "-122.778759",
+                        "stop_name": "NB 160 ST FS 91 AV",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "NB 160 ST FS 91 AV",
+            "onestopId": "s-c28xwnghpx-nb160fs91",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -207,6 +207,40 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.772688,
+                    49.162709
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-translink-s-11172",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "58259",
+                        "stop_desc": "88 AVE @ 162 ST",
+                        "stop_id": "11172",
+                        "stop_lat": "49.162709",
+                        "stop_lon": "-122.772688",
+                        "stop_name": "EB 88 AV FS 162 ST",
+                        "stop_url": "",
+                        "zone_id": "ZN 3"
+                    }
+                }
+            ],
+            "name": "EB 88 AV FS 162 ST",
+            "onestopId": "s-c28xwjz9t1-eb88fs162",
+            "properties": {},
+            "servedBy": [
+                "o-c28-translink"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.766881,
                     49.152531
                 ],
@@ -231,40 +265,6 @@
             ],
             "name": "EB FRASER HWY FS 164 ST",
             "onestopId": "s-c28xw7gyhr-ebfraserfs164",
-            "properties": {},
-            "servedBy": [
-                "o-c28-translink"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.757345,
-                    49.162916
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-translink-s-12102",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "61209",
-                        "stop_desc": "88 AVE @ 168 ST",
-                        "stop_id": "12102",
-                        "stop_lat": "49.162916",
-                        "stop_lon": "-122.757345",
-                        "stop_name": "WB 88 AV FS 168 ST",
-                        "stop_url": "",
-                        "zone_id": "ZN 3"
-                    }
-                }
-            ],
-            "name": "WB 88 AV FS 168 ST",
-            "onestopId": "s-c28xwtffdx-wb88fs168",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -445,30 +445,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.772688,
-                    49.162709
+                    -122.757345,
+                    49.162916
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-11172",
+                    "identifier": "f-translink-s-12102",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58259",
-                        "stop_desc": "88 AVE @ 162 ST",
-                        "stop_id": "11172",
-                        "stop_lat": "49.162709",
-                        "stop_lon": "-122.772688",
-                        "stop_name": "EB 88 AV FS 162 ST",
+                        "stop_code": "61209",
+                        "stop_desc": "88 AVE @ 168 ST",
+                        "stop_id": "12102",
+                        "stop_lat": "49.162916",
+                        "stop_lon": "-122.757345",
+                        "stop_name": "WB 88 AV FS 168 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "EB 88 AV FS 162 ST",
-            "onestopId": "s-c28xwjz9t1-eb88fs162",
+            "name": "WB 88 AV FS 168 ST",
+            "onestopId": "s-c28xwtffdx-wb88fs168",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -785,30 +785,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.779625,
-                    49.162829
+                    -122.763113,
+                    49.151322
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-9452",
+                    "identifier": "f-translink-s-5405",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "58261",
-                        "stop_desc": "88 AVE @ 160 ST",
-                        "stop_id": "9452",
-                        "stop_lat": "49.162829",
-                        "stop_lon": "-122.779625",
-                        "stop_name": "WB 88 AV FS 160 ST",
+                        "stop_code": "55352",
+                        "stop_desc": "FRASER HWY @ 166 ST",
+                        "stop_id": "5405",
+                        "stop_lat": "49.151322",
+                        "stop_lon": "-122.763113",
+                        "stop_name": "WB FRASER HWY FS 166 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB 88 AV FS 160 ST",
-            "onestopId": "s-c28xwjfd5r-wb88fs160",
+            "name": "WB FRASER HWY FS 166 ST",
+            "onestopId": "s-c28xw7wxhn-wbfraserfs166",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"
@@ -1023,30 +1023,30 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.763113,
-                    49.151322
+                    -122.779625,
+                    49.162829
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-translink-s-5405",
+                    "identifier": "f-translink-s-9452",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "55352",
-                        "stop_desc": "FRASER HWY @ 166 ST",
-                        "stop_id": "5405",
-                        "stop_lat": "49.151322",
-                        "stop_lon": "-122.763113",
-                        "stop_name": "WB FRASER HWY FS 166 ST",
+                        "stop_code": "58261",
+                        "stop_desc": "88 AVE @ 160 ST",
+                        "stop_id": "9452",
+                        "stop_lat": "49.162829",
+                        "stop_lon": "-122.779625",
+                        "stop_name": "WB 88 AV FS 160 ST",
                         "stop_url": "",
                         "zone_id": "ZN 3"
                     }
                 }
             ],
-            "name": "WB FRASER HWY FS 166 ST",
-            "onestopId": "s-c28xw7wxhn-wbfraserfs166",
+            "name": "WB 88 AV FS 160 ST",
+            "onestopId": "s-c28xwjfd5r-wb88fs160",
             "properties": {},
             "servedBy": [
                 "o-c28-translink"

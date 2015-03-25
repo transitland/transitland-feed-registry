@@ -39,6 +39,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.537612,
+                    45.428883
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10135",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10135",
+                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10135)",
+                        "stop_id": "10135",
+                        "stop_lat": "45.428883",
+                        "stop_lon": "-122.537612",
+                        "stop_name": "SE Sunnyside & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10135",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Sunnyside & 122nd",
+            "onestopId": "s-c20f7w4f6t-sesunnyside~122nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.538049,
                     45.416381
                 ],
@@ -75,140 +111,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.536944,
-                    45.407753
+                    -122.532945,
+                    45.408291
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2904",
+                    "identifier": "f-trimet-s-11930",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "2904",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 2904)",
-                        "stop_id": "2904",
-                        "stop_lat": "45.407753",
-                        "stop_lon": "-122.536944",
-                        "stop_name": "SE Hwy 212 & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2904",
+                        "position": "At",
+                        "stop_code": "11930",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 11930)",
+                        "stop_id": "11930",
+                        "stop_lat": "45.408291",
+                        "stop_lon": "-122.532945",
+                        "stop_name": "12700 Block SE Hwy 212",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11930",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 212 & 122nd",
-            "onestopId": "s-c20f7d5r66-se212~122nd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.56114,
-                    45.424182
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9004",
-                    "tags": {
-                        "direction": "North",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9004",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 9004)",
-                        "stop_id": "9004",
-                        "stop_lat": "45.424182",
-                        "stop_lon": "-122.56114",
-                        "stop_name": "SE 97th & Lawnfield",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9004",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE 97th & Lawnfield",
-            "onestopId": "s-c20f7j1xn3-se97th~lawnfield",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.520574,
-                    45.425133
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10141",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10141",
-                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10141)",
-                        "stop_id": "10141",
-                        "stop_lat": "45.425133",
-                        "stop_lon": "-122.520574",
-                        "stop_name": "SE Sunnyside & 140th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10141",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Sunnyside & 140th",
-            "onestopId": "s-c20f7vrhxd-sesunnyside~140th",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.55928,
-                    45.407884
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-2889",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "2889",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2889)",
-                        "stop_id": "2889",
-                        "stop_lat": "45.407884",
-                        "stop_lon": "-122.55928",
-                        "stop_name": "SE Hwy 212 & 102nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2889",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Hwy 212 & 102nd",
-            "onestopId": "s-c20f74701g-se212~102nd",
+            "name": "12700 Block SE Hwy 212",
+            "onestopId": "s-c20f7dq4rq-12700blockse212",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -255,6 +183,78 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.56114,
+                    45.424182
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-9004",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "9004",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 9004)",
+                        "stop_id": "9004",
+                        "stop_lat": "45.424182",
+                        "stop_lon": "-122.56114",
+                        "stop_name": "SE 97th & Lawnfield",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9004",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 97th & Lawnfield",
+            "onestopId": "s-c20f7j1xn3-se97th~lawnfield",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.552389,
+                    45.433565
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-11970",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "11970",
+                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 11970)",
+                        "stop_id": "11970",
+                        "stop_lat": "45.433565",
+                        "stop_lon": "-122.552389",
+                        "stop_name": "SE Sunnyside & Sunnybrook",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11970",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Sunnyside & Sunnybrook",
+            "onestopId": "s-c20f7qbjdq-sesunnyside~sunnybrook",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.527632,
                     45.413977
                 ],
@@ -291,32 +291,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.562252,
-                    45.434992
+                    -122.520574,
+                    45.425133
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11453",
+                    "identifier": "f-trimet-s-10141",
                     "tags": {
-                        "direction": "South",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "11453",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11453)",
-                        "stop_id": "11453",
-                        "stop_lat": "45.434992",
-                        "stop_lon": "-122.562252",
-                        "stop_name": "10000 Block SE Stevens Rd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11453",
+                        "position": "Farside",
+                        "stop_code": "10141",
+                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10141)",
+                        "stop_id": "10141",
+                        "stop_lat": "45.425133",
+                        "stop_lon": "-122.520574",
+                        "stop_name": "SE Sunnyside & 140th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10141",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "10000 Block SE Stevens Rd",
-            "onestopId": "s-c20f7p0yh8-10000blocksestevens",
+            "name": "SE Sunnyside & 140th",
+            "onestopId": "s-c20f7vrhxd-sesunnyside~140th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -615,32 +615,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.558989,
-                    45.407581
+                    -122.538713,
+                    45.408046
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2888",
+                    "identifier": "f-trimet-s-2905",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2888",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 2888)",
-                        "stop_id": "2888",
-                        "stop_lat": "45.407581",
-                        "stop_lon": "-122.558989",
-                        "stop_name": "SE Hwy 212 & Evelyn",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2888",
+                        "position": "Farside",
+                        "stop_code": "2905",
+                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 2905)",
+                        "stop_id": "2905",
+                        "stop_lat": "45.408046",
+                        "stop_lon": "-122.538713",
+                        "stop_name": "SE Hwy 212 & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2905",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 212 & Evelyn",
-            "onestopId": "s-c20f745q2d-se212~evelyn",
+            "name": "SE Hwy 212 & 122nd",
+            "onestopId": "s-c20f7d6111-se212~122nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -651,32 +651,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.538096,
-                    45.418121
+                    -122.547902,
+                    45.420986
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11953",
+                    "identifier": "f-trimet-s-9000",
                     "tags": {
                         "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "11953",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11953)",
-                        "stop_id": "11953",
-                        "stop_lat": "45.418121",
-                        "stop_lon": "-122.538096",
-                        "stop_name": "SE 122nd & Summers Lane",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11953",
+                        "stop_code": "9000",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 9000)",
+                        "stop_id": "9000",
+                        "stop_lat": "45.420986",
+                        "stop_lon": "-122.547902",
+                        "stop_name": "SE Mather & Cranberry Loop",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9000",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 122nd & Summers Lane",
-            "onestopId": "s-c20f7s47xr-se122nd~summers",
+            "name": "SE Mather & Cranberry Loop",
+            "onestopId": "s-c20f7kek6v-semather~cranberryloop",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -687,32 +687,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.552389,
-                    45.433565
+                    -122.55928,
+                    45.407884
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-11970",
+                    "identifier": "f-trimet-s-2889",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "11970",
-                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 11970)",
-                        "stop_id": "11970",
-                        "stop_lat": "45.433565",
-                        "stop_lon": "-122.552389",
-                        "stop_name": "SE Sunnyside & Sunnybrook",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11970",
+                        "position": "Farside",
+                        "stop_code": "2889",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 2889)",
+                        "stop_id": "2889",
+                        "stop_lat": "45.407884",
+                        "stop_lon": "-122.55928",
+                        "stop_name": "SE Hwy 212 & 102nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2889",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sunnyside & Sunnybrook",
-            "onestopId": "s-c20f7qbjdq-sesunnyside~sunnybrook",
+            "name": "SE Hwy 212 & 102nd",
+            "onestopId": "s-c20f74701g-se212~102nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -795,32 +795,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.562681,
-                    45.426711
+                    -122.548461,
+                    45.433419
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9005",
+                    "identifier": "f-trimet-s-10214",
                     "tags": {
-                        "direction": "North",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "9005",
-                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 9005)",
-                        "stop_id": "9005",
-                        "stop_lat": "45.426711",
-                        "stop_lon": "-122.562681",
-                        "stop_name": "SE 97th & Talbert Dr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9005",
+                        "stop_code": "10214",
+                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10214)",
+                        "stop_id": "10214",
+                        "stop_lat": "45.433419",
+                        "stop_lon": "-122.548461",
+                        "stop_name": "SE Sunnyside & Valley View Terr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10214",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE 97th & Talbert Dr",
-            "onestopId": "s-c20f7j8tf8-se97th~talbert",
+            "name": "SE Sunnyside & Valley View Terr",
+            "onestopId": "s-c20f7qfuvg-sesunnyside~valleyviewterr",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1011,68 +1011,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.537612,
-                    45.428883
+                    -122.558989,
+                    45.407581
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10135",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10135",
-                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10135)",
-                        "stop_id": "10135",
-                        "stop_lat": "45.428883",
-                        "stop_lon": "-122.537612",
-                        "stop_name": "SE Sunnyside & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10135",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Sunnyside & 122nd",
-            "onestopId": "s-c20f7w4f6t-sesunnyside~122nd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.532945,
-                    45.408291
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-11930",
+                    "identifier": "f-trimet-s-2888",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "At",
-                        "stop_code": "11930",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 11930)",
-                        "stop_id": "11930",
-                        "stop_lat": "45.408291",
-                        "stop_lon": "-122.532945",
-                        "stop_name": "12700 Block SE Hwy 212",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11930",
+                        "position": "Nearside",
+                        "stop_code": "2888",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 2888)",
+                        "stop_id": "2888",
+                        "stop_lat": "45.407581",
+                        "stop_lon": "-122.558989",
+                        "stop_name": "SE Hwy 212 & Evelyn",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2888",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "12700 Block SE Hwy 212",
-            "onestopId": "s-c20f7dq4rq-12700blockse212",
+            "name": "SE Hwy 212 & Evelyn",
+            "onestopId": "s-c20f745q2d-se212~evelyn",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1083,32 +1047,68 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.530927,
-                    45.427103
+                    -122.538096,
+                    45.418121
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10136",
+                    "identifier": "f-trimet-s-11953",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Farside",
+                        "stop_code": "11953",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11953)",
+                        "stop_id": "11953",
+                        "stop_lat": "45.418121",
+                        "stop_lon": "-122.538096",
+                        "stop_name": "SE 122nd & Summers Lane",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11953",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE 122nd & Summers Lane",
+            "onestopId": "s-c20f7s47xr-se122nd~summers",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.536944,
+                    45.407753
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2904",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Farside",
-                        "stop_code": "10136",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10136)",
-                        "stop_id": "10136",
-                        "stop_lat": "45.427103",
-                        "stop_lon": "-122.530927",
-                        "stop_name": "SE Sunnyside & 128th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10136",
+                        "stop_code": "2904",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 2904)",
+                        "stop_id": "2904",
+                        "stop_lat": "45.407753",
+                        "stop_lon": "-122.536944",
+                        "stop_name": "SE Hwy 212 & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2904",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sunnyside & 128th",
-            "onestopId": "s-c20f7tz8n3-sesunnyside~128th",
+            "name": "SE Hwy 212 & 122nd",
+            "onestopId": "s-c20f7d5r66-se212~122nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1155,32 +1155,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.548461,
-                    45.433419
+                    -122.562681,
+                    45.426711
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10214",
+                    "identifier": "f-trimet-s-9005",
                     "tags": {
-                        "direction": "West",
+                        "direction": "North",
                         "location_type": "0",
                         "parent_station": "",
                         "position": "Nearside",
-                        "stop_code": "10214",
-                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10214)",
-                        "stop_id": "10214",
-                        "stop_lat": "45.433419",
-                        "stop_lon": "-122.548461",
-                        "stop_name": "SE Sunnyside & Valley View Terr",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10214",
+                        "stop_code": "9005",
+                        "stop_desc": "Northbound stop in Clackamas Co. (Stop ID 9005)",
+                        "stop_id": "9005",
+                        "stop_lat": "45.426711",
+                        "stop_lon": "-122.562681",
+                        "stop_name": "SE 97th & Talbert Dr",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9005",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sunnyside & Valley View Terr",
-            "onestopId": "s-c20f7qfuvg-sesunnyside~valleyviewterr",
+            "name": "SE 97th & Talbert Dr",
+            "onestopId": "s-c20f7j8tf8-se97th~talbert",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1227,32 +1227,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.531692,
-                    45.414075
+                    -122.530927,
+                    45.427103
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9008",
+                    "identifier": "f-trimet-s-10136",
                     "tags": {
-                        "direction": "West",
+                        "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Opposite",
-                        "stop_code": "9008",
-                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 9008)",
-                        "stop_id": "9008",
-                        "stop_lat": "45.414075",
-                        "stop_lon": "-122.531692",
-                        "stop_name": "SE Hubbard & 128th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9008",
+                        "position": "Farside",
+                        "stop_code": "10136",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10136)",
+                        "stop_id": "10136",
+                        "stop_lat": "45.427103",
+                        "stop_lon": "-122.530927",
+                        "stop_name": "SE Sunnyside & 128th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10136",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hubbard & 128th",
-            "onestopId": "s-c20f7erhht-sehubbard~128th",
+            "name": "SE Sunnyside & 128th",
+            "onestopId": "s-c20f7tz8n3-sesunnyside~128th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1299,42 +1299,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.527412,
-                    45.42681
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-10139",
-                    "tags": {
-                        "direction": "West",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "10139",
-                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10139)",
-                        "stop_id": "10139",
-                        "stop_lat": "45.42681",
-                        "stop_lon": "-122.527412",
-                        "stop_name": "SE Sunnyside & 132nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10139",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Sunnyside & 132nd",
-            "onestopId": "s-c20f7vdq27-sesunnyside~132nd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -122.538714,
                     45.424997
                 ],
@@ -1361,6 +1325,42 @@
             ],
             "name": "SE Mather & 122nd",
             "onestopId": "s-c20f7t65c1-semather~122nd",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.527412,
+                    45.42681
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-10139",
+                    "tags": {
+                        "direction": "West",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "10139",
+                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 10139)",
+                        "stop_id": "10139",
+                        "stop_lat": "45.42681",
+                        "stop_lon": "-122.527412",
+                        "stop_name": "SE Sunnyside & 132nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10139",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Sunnyside & 132nd",
+            "onestopId": "s-c20f7vdq27-sesunnyside~132nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1623,68 +1623,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.536913,
-                    45.428212
+                    -122.531978,
+                    45.413947
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-10203",
+                    "identifier": "f-trimet-s-9009",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "10203",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10203)",
-                        "stop_id": "10203",
-                        "stop_lat": "45.428212",
-                        "stop_lon": "-122.536913",
-                        "stop_name": "SE Sunnyside & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10203",
+                        "position": "Nearside",
+                        "stop_code": "9009",
+                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 9009)",
+                        "stop_id": "9009",
+                        "stop_lat": "45.413947",
+                        "stop_lon": "-122.531978",
+                        "stop_name": "SE Hubbard & 128th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9009",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Sunnyside & 122nd",
-            "onestopId": "s-c20f7tgqdb-sesunnyside~122nd",
-            "properties": {},
-            "servedBy": [
-                "o-c20-trimet"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.547902,
-                    45.420986
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-trimet-s-9000",
-                    "tags": {
-                        "direction": "South",
-                        "location_type": "0",
-                        "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "9000",
-                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 9000)",
-                        "stop_id": "9000",
-                        "stop_lat": "45.420986",
-                        "stop_lon": "-122.547902",
-                        "stop_name": "SE Mather & Cranberry Loop",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9000",
-                        "zone_id": "B"
-                    }
-                }
-            ],
-            "name": "SE Mather & Cranberry Loop",
-            "onestopId": "s-c20f7kek6v-semather~cranberryloop",
+            "name": "SE Hubbard & 128th",
+            "onestopId": "s-c20f7eqgmv-sehubbard~128th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1839,32 +1803,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.538713,
-                    45.408046
+                    -122.562252,
+                    45.434992
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2905",
+                    "identifier": "f-trimet-s-11453",
                     "tags": {
-                        "direction": "West",
+                        "direction": "South",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Farside",
-                        "stop_code": "2905",
-                        "stop_desc": "Westbound stop in Happy Valley (Stop ID 2905)",
-                        "stop_id": "2905",
-                        "stop_lat": "45.408046",
-                        "stop_lon": "-122.538713",
-                        "stop_name": "SE Hwy 212 & 122nd",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2905",
+                        "position": "Opposite",
+                        "stop_code": "11453",
+                        "stop_desc": "Southbound stop in Clackamas Co. (Stop ID 11453)",
+                        "stop_id": "11453",
+                        "stop_lat": "45.434992",
+                        "stop_lon": "-122.562252",
+                        "stop_name": "10000 Block SE Stevens Rd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=11453",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 212 & 122nd",
-            "onestopId": "s-c20f7d6111-se212~122nd",
+            "name": "10000 Block SE Stevens Rd",
+            "onestopId": "s-c20f7p0yh8-10000blocksestevens",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -1911,32 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.530576,
-                    45.408882
+                    -122.531692,
+                    45.414075
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-2906",
+                    "identifier": "f-trimet-s-9008",
                     "tags": {
-                        "direction": "East",
+                        "direction": "West",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "2906",
-                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 2906)",
-                        "stop_id": "2906",
-                        "stop_lat": "45.408882",
-                        "stop_lon": "-122.530576",
-                        "stop_name": "SE Hwy 212 & 130th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2906",
+                        "position": "Opposite",
+                        "stop_code": "9008",
+                        "stop_desc": "Westbound stop in Clackamas Co. (Stop ID 9008)",
+                        "stop_id": "9008",
+                        "stop_lat": "45.414075",
+                        "stop_lon": "-122.531692",
+                        "stop_name": "SE Hubbard & 128th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9008",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hwy 212 & 130th",
-            "onestopId": "s-c20f7drvyt-se212~130th",
+            "name": "SE Hubbard & 128th",
+            "onestopId": "s-c20f7erhht-sehubbard~128th",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"
@@ -2127,6 +2091,42 @@
         {
             "geometry": {
                 "coordinates": [
+                    -122.530576,
+                    45.408882
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-trimet-s-2906",
+                    "tags": {
+                        "direction": "East",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "Nearside",
+                        "stop_code": "2906",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 2906)",
+                        "stop_id": "2906",
+                        "stop_lat": "45.408882",
+                        "stop_lon": "-122.530576",
+                        "stop_name": "SE Hwy 212 & 130th",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=2906",
+                        "zone_id": "B"
+                    }
+                }
+            ],
+            "name": "SE Hwy 212 & 130th",
+            "onestopId": "s-c20f7drvyt-se212~130th",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -122.530279,
                     45.409199
                 ],
@@ -2199,32 +2199,32 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.531978,
-                    45.413947
+                    -122.536913,
+                    45.428212
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-trimet-s-9009",
+                    "identifier": "f-trimet-s-10203",
                     "tags": {
                         "direction": "East",
                         "location_type": "0",
                         "parent_station": "",
-                        "position": "Nearside",
-                        "stop_code": "9009",
-                        "stop_desc": "Eastbound stop in Clackamas Co. (Stop ID 9009)",
-                        "stop_id": "9009",
-                        "stop_lat": "45.413947",
-                        "stop_lon": "-122.531978",
-                        "stop_name": "SE Hubbard & 128th",
-                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=9009",
+                        "position": "Farside",
+                        "stop_code": "10203",
+                        "stop_desc": "Eastbound stop in Happy Valley (Stop ID 10203)",
+                        "stop_id": "10203",
+                        "stop_lat": "45.428212",
+                        "stop_lon": "-122.536913",
+                        "stop_name": "SE Sunnyside & 122nd",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10203",
                         "zone_id": "B"
                     }
                 }
             ],
-            "name": "SE Hubbard & 128th",
-            "onestopId": "s-c20f7eqgmv-sehubbard~128th",
+            "name": "SE Sunnyside & 122nd",
+            "onestopId": "s-c20f7tgqdb-sesunnyside~122nd",
             "properties": {},
             "servedBy": [
                 "o-c20-trimet"

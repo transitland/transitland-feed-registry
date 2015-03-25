@@ -73,6 +73,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.635428,
+                    39.343993
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-6667",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6667",
+                        "stop_desc": "ROLAND AVE at COLD SPRING LN sb",
+                        "stop_id": "6667",
+                        "stop_lat": "39.343993",
+                        "stop_lon": "-76.635428",
+                        "stop_name": "ROLAND AVE & COLDSPRING LN",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROLAND AVE & COLDSPRING LN",
+            "onestopId": "s-dqcxb47g35-roland~coldspring",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.61816,
                     39.368188
                 ],
@@ -108,31 +143,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.61853,
-                    39.341091
+                    -76.630288,
+                    39.361796
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2346",
+                    "identifier": "f-mtamaryland-s-5987",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2346",
-                        "stop_desc": "",
-                        "stop_id": "2346",
-                        "stop_lat": "39.341091",
-                        "stop_lon": "-76.61853",
-                        "stop_name": "ST PAUL ST & CHARLCOTE RD nb",
+                        "stop_code": "5987",
+                        "stop_desc": "W NORTHERN PKWY at UNNAMED ST",
+                        "stop_id": "5987",
+                        "stop_lat": "39.361796",
+                        "stop_lon": "-76.630288",
+                        "stop_name": "NORTHERN PKWY & BRYN MAWR SCHOOL fs wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ST PAUL ST & CHARLCOTE RD nb",
-            "onestopId": "s-dqcxb9b46y-paul~charlcotenb",
+            "name": "NORTHERN PKWY & BRYN MAWR SCHOOL fs wb",
+            "onestopId": "s-dqcxbjxe0f-northern~brynmawrschoolfswb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -143,31 +178,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609824,
-                    39.353874
+                    -76.604171,
+                    39.345445
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1557",
+                    "identifier": "f-mtamaryland-s-5652",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1557",
-                        "stop_desc": "",
-                        "stop_id": "1557",
-                        "stop_lat": "39.353874",
-                        "stop_lon": "-76.609824",
-                        "stop_name": "YORK RD & GLENWOOD AVE fs sb",
+                        "stop_code": "5652",
+                        "stop_desc": "COLD SPRING LN at MIDWOOD AVE wb",
+                        "stop_id": "5652",
+                        "stop_lat": "39.345445",
+                        "stop_lon": "-76.604171",
+                        "stop_name": "COLD SPRING & MIDWOOD AVE wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & GLENWOOD AVE fs sb",
-            "onestopId": "s-dqcxbsnkvt-york~glenwoodfssb",
+            "name": "COLD SPRING & MIDWOOD AVE wb",
+            "onestopId": "s-dqcxbfdec6-coldspring~midwoodwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -248,31 +283,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.629437,
-                    39.331265
+                    -76.635912,
+                    39.337838
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5021",
+                    "identifier": "f-mtamaryland-s-4166",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5021",
-                        "stop_desc": "36TH ST at CHESTNUT AVE fs wb",
-                        "stop_id": "5021",
-                        "stop_lat": "39.331265",
-                        "stop_lon": "-76.629437",
-                        "stop_name": "36TH & CHESTNUT ST FS wb",
+                        "stop_code": "4166",
+                        "stop_desc": "",
+                        "stop_id": "4166",
+                        "stop_lat": "39.337838",
+                        "stop_lon": "-76.635912",
+                        "stop_name": "41ST ST & HICKORY AVE wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "36TH & CHESTNUT ST FS wb",
-            "onestopId": "s-dqcxb201hx-36th~chestnutfswb",
+            "name": "41ST ST & HICKORY AVE wb",
+            "onestopId": "s-dqcxb15rtb-41st~hickorywb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.60734,
+                    39.345969
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-5653",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5653",
+                        "stop_desc": "COLD SPRING LN at ALHAMBRA fs wb",
+                        "stop_id": "5653",
+                        "stop_lat": "39.345969",
+                        "stop_lon": "-76.60734",
+                        "stop_name": "COLD SPRING & ALHAMBRA FS W/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "COLD SPRING & ALHAMBRA FS W/B",
+            "onestopId": "s-dqcxbf8nzs-coldspring~alhambrafsw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -458,41 +528,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.635995,
-                    39.347547
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-6665",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6665",
-                        "stop_desc": "",
-                        "stop_id": "6665",
-                        "stop_lat": "39.347547",
-                        "stop_lon": "-76.635995",
-                        "stop_name": "ROLAND AVE & OAKDALE RD sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ROLAND AVE & OAKDALE RD sb",
-            "onestopId": "s-dqcxb5525f-roland~oakdalesb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.609823,
                     39.364026
                 ],
@@ -518,41 +553,6 @@
             ],
             "name": "YORK RD & BELVEDERE AVE nb",
             "onestopId": "s-dqcxbwn2jd-york~belvederenb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.599581,
-                    39.345079
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5894",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5894",
-                        "stop_desc": "THE ALAMEDA at COLD SPRING LN nb",
-                        "stop_id": "5894",
-                        "stop_lat": "39.345079",
-                        "stop_lon": "-76.599581",
-                        "stop_name": "THE ALAMEDA & COLDSPRING nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "THE ALAMEDA & COLDSPRING nb",
-            "onestopId": "s-dqcxbftcsq-thealameda~coldspringnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -598,31 +598,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.628476,
-                    39.339257
+                    -76.617455,
+                    39.364178
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6676",
+                    "identifier": "f-mtamaryland-s-1550",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6676",
-                        "stop_desc": "UNIVERSITY PKWY at KESWICK RD sb",
-                        "stop_id": "6676",
-                        "stop_lat": "39.339257",
-                        "stop_lon": "-76.628476",
-                        "stop_name": "UNIVERSITY & KESWICK sb",
+                        "stop_code": "1550",
+                        "stop_desc": "NORTHERN PKWY at SPRINGLAKE WAY fs eb",
+                        "stop_id": "1550",
+                        "stop_lat": "39.364178",
+                        "stop_lon": "-76.617455",
+                        "stop_name": "NORTHERN PKWY & SPRINGLAKE f/s eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "UNIVERSITY & KESWICK sb",
-            "onestopId": "s-dqcxb32zg1-university~keswicksb",
+            "name": "NORTHERN PKWY & SPRINGLAKE f/s eb",
+            "onestopId": "s-dqcxbw0bgy-northern~springlakef~seb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -703,31 +703,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609644,
-                    39.347018
+                    -76.637233,
+                    39.337585
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1562",
+                    "identifier": "f-mtamaryland-s-4168",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1562",
+                        "stop_code": "4168",
                         "stop_desc": "",
-                        "stop_id": "1562",
-                        "stop_lat": "39.347018",
-                        "stop_lon": "-76.609644",
-                        "stop_name": "YORK RD & CHARTER OAK AVE sb",
+                        "stop_id": "4168",
+                        "stop_lat": "39.337585",
+                        "stop_lon": "-76.637233",
+                        "stop_name": "41ST ST & FALLS RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & CHARTER OAK AVE sb",
-            "onestopId": "s-dqcxbdyscz-york~charteroaksb",
+            "name": "41ST ST & FALLS RD wb",
+            "onestopId": "s-dqcxb14qp1-41st~fallswb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -738,31 +738,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.639491,
-                    39.341103
+                    -76.60124,
+                    39.360563
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-317",
+                    "identifier": "f-mtamaryland-s-5976",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "317",
-                        "stop_desc": "FALLS RD at ROLAND HEIGHTS AVE sb",
-                        "stop_id": "317",
-                        "stop_lat": "39.341103",
-                        "stop_lon": "-76.639491",
-                        "stop_name": "FALLS RD & ROLAND HEIGHTS sb",
+                        "stop_code": "5976",
+                        "stop_desc": "",
+                        "stop_id": "5976",
+                        "stop_lat": "39.360563",
+                        "stop_lon": "-76.60124",
+                        "stop_name": "BELVEDERE AVE & BRADHURST RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "FALLS RD & ROLAND HEIGHTS sb",
-            "onestopId": "s-dqcxb1bfd3-falls~rolandheightssb",
+            "name": "BELVEDERE AVE & BRADHURST RD wb",
+            "onestopId": "s-dqcxbvkevs-belvedere~bradhurstwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -843,31 +843,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.628329,
-                    39.337195
+                    -76.609824,
+                    39.353874
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-8985",
+                    "identifier": "f-mtamaryland-s-1557",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8985",
+                        "stop_code": "1557",
                         "stop_desc": "",
-                        "stop_id": "8985",
-                        "stop_lat": "39.337195",
-                        "stop_lon": "-76.628329",
-                        "stop_name": "40TH ST & KESWICK RD eb",
+                        "stop_id": "1557",
+                        "stop_lat": "39.353874",
+                        "stop_lon": "-76.609824",
+                        "stop_name": "YORK RD & GLENWOOD AVE fs sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "40TH ST & KESWICK RD eb",
-            "onestopId": "s-dqcxb30gy8-40th~keswickeb",
+            "name": "YORK RD & GLENWOOD AVE fs sb",
+            "onestopId": "s-dqcxbsnkvt-york~glenwoodfssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -983,31 +983,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.636311,
-                    39.34339
+                    -76.609915,
+                    39.364107
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5597",
+                    "identifier": "f-mtamaryland-s-10693",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5597",
-                        "stop_desc": "COLD SPRING LN at EVANS CHAPLE eb",
-                        "stop_id": "5597",
-                        "stop_lat": "39.34339",
-                        "stop_lon": "-76.636311",
-                        "stop_name": "COLD SPRING & EVANS CHAPEL eb",
+                        "stop_code": "10693",
+                        "stop_desc": "",
+                        "stop_id": "10693",
+                        "stop_lat": "39.364107",
+                        "stop_lon": "-76.609915",
+                        "stop_name": "YORK RD & BELVEDERE AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "COLD SPRING & EVANS CHAPEL eb",
-            "onestopId": "s-dqcxb45pue-coldspring~evanschapeleb",
+            "name": "YORK RD & BELVEDERE AVE sb",
+            "onestopId": "s-dqcxbwn2e9-york~belvederesb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1018,31 +1018,136 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.622454,
-                    39.346464
+                    -76.635204,
+                    39.358206
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2139",
+                    "identifier": "f-mtamaryland-s-6659",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2139",
-                        "stop_desc": "CHARLES ST at GOODALE RD opp sb",
-                        "stop_id": "2139",
-                        "stop_lat": "39.346464",
-                        "stop_lon": "-76.622454",
-                        "stop_name": "CHARLES ST & LOYOLA COLLEGE OP S/B",
+                        "stop_code": "6659",
+                        "stop_desc": "ROLAND AVE at SCHOOL DRIVEWAY sb",
+                        "stop_id": "6659",
+                        "stop_lat": "39.358206",
+                        "stop_lon": "-76.635204",
+                        "stop_name": "ROLAND PK. SCH.DRIVEWAY sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CHARLES ST & LOYOLA COLLEGE OP S/B",
-            "onestopId": "s-dqcxb6v1z2-charles~loyolacollegeops~b",
+            "name": "ROLAND PK. SCH.DRIVEWAY sb",
+            "onestopId": "s-dqcxbhgynm-rolandpkschdrivewaysb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.635564,
+                    39.333197
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-4872",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4872",
+                        "stop_desc": "",
+                        "stop_id": "4872",
+                        "stop_lat": "39.333197",
+                        "stop_lon": "-76.635564",
+                        "stop_name": "FALLS RD & UNION AVE sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "FALLS RD & UNION AVE sb",
+            "onestopId": "s-dqcxb07smz-falls~unionsb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.604269,
+                    39.336959
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-5888",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5888",
+                        "stop_desc": "",
+                        "stop_id": "5888",
+                        "stop_lat": "39.336959",
+                        "stop_lon": "-76.604269",
+                        "stop_name": "ARGONNE DR & WILSBY AVE eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ARGONNE DR & WILSBY AVE eb",
+            "onestopId": "s-dqcxbc46rh-argonne~wilsbyeb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.634287,
+                    39.365652
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-6655",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6655",
+                        "stop_desc": "",
+                        "stop_id": "6655",
+                        "stop_lat": "39.365652",
+                        "stop_lon": "-76.634287",
+                        "stop_name": "ROLAND AVE & MELROSE AVE sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROLAND AVE & MELROSE AVE sb",
+            "onestopId": "s-dqcxbnk9e9-roland~melrosesb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1228,66 +1333,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.598428,
-                    39.366001
+                    -76.617973,
+                    39.368089
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5915",
+                    "identifier": "f-mtamaryland-s-2372",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5915",
-                        "stop_desc": "NORTHERN PKWY at CHINQUAPIN PKWY wb",
-                        "stop_id": "5915",
-                        "stop_lat": "39.366001",
-                        "stop_lon": "-76.598428",
-                        "stop_name": "NORTHERN PKWY & CHINQUAPIN PKWY",
+                        "stop_code": "2372",
+                        "stop_desc": "BELLONA AVE at LAKE AVE nb",
+                        "stop_id": "2372",
+                        "stop_lat": "39.368089",
+                        "stop_lon": "-76.617973",
+                        "stop_name": "BELLONA AVE & LAKE AVE N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NORTHERN PKWY & CHINQUAPIN PKWY",
-            "onestopId": "s-dqcxbyqex6-northern~chinquapin",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.635564,
-                    39.333197
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-4872",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4872",
-                        "stop_desc": "",
-                        "stop_id": "4872",
-                        "stop_lat": "39.333197",
-                        "stop_lon": "-76.635564",
-                        "stop_name": "FALLS RD & UNION AVE sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "FALLS RD & UNION AVE sb",
-            "onestopId": "s-dqcxb07smz-falls~unionsb",
+            "name": "BELLONA AVE & LAKE AVE N/B",
+            "onestopId": "s-dqcxbw8rxz-bellona~laken~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1438,31 +1508,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.60124,
-                    39.360563
+                    -76.609871,
+                    39.365089
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5976",
+                    "identifier": "f-mtamaryland-s-1539",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5976",
+                        "stop_code": "1539",
                         "stop_desc": "",
-                        "stop_id": "5976",
-                        "stop_lat": "39.360563",
-                        "stop_lon": "-76.60124",
-                        "stop_name": "BELVEDERE AVE & BRADHURST RD wb",
+                        "stop_id": "1539",
+                        "stop_lat": "39.365089",
+                        "stop_lon": "-76.609871",
+                        "stop_name": "YORK RD & NORTHERN PKWY sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELVEDERE AVE & BRADHURST RD wb",
-            "onestopId": "s-dqcxbvkevs-belvedere~bradhurstwb",
+            "name": "YORK RD & NORTHERN PKWY sb",
+            "onestopId": "s-dqcxbwnqk8-york~northernsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1498,6 +1568,41 @@
             ],
             "name": "YORK RD & HOLLEN RD nb",
             "onestopId": "s-dqcxbwyd23-york~hollennb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.629437,
+                    39.331265
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-5021",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5021",
+                        "stop_desc": "36TH ST at CHESTNUT AVE fs wb",
+                        "stop_id": "5021",
+                        "stop_lat": "39.331265",
+                        "stop_lon": "-76.629437",
+                        "stop_name": "36TH & CHESTNUT ST FS wb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "36TH & CHESTNUT ST FS wb",
+            "onestopId": "s-dqcxb201hx-36th~chestnutfswb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1578,66 +1683,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.60734,
-                    39.345969
+                    -76.61889,
+                    39.333187
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5653",
+                    "identifier": "f-mtamaryland-s-4157",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5653",
-                        "stop_desc": "COLD SPRING LN at ALHAMBRA fs wb",
-                        "stop_id": "5653",
-                        "stop_lat": "39.345969",
-                        "stop_lon": "-76.60734",
-                        "stop_name": "COLD SPRING & ALHAMBRA FS W/B",
+                        "stop_code": "4157",
+                        "stop_desc": "UNIVERSITY PKWY at BISHOPS RD wb",
+                        "stop_id": "4157",
+                        "stop_lat": "39.333187",
+                        "stop_lon": "-76.61889",
+                        "stop_name": "UNIVERSITY & BISHOPS RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "COLD SPRING & ALHAMBRA FS W/B",
-            "onestopId": "s-dqcxbf8nzs-coldspring~alhambrafsw~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.599326,
-                    39.331521
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-11333",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11333",
-                        "stop_desc": "",
-                        "stop_id": "11333",
-                        "stop_lat": "39.331521",
-                        "stop_lon": "-76.599326",
-                        "stop_name": "36TH ST & EDNOR RD eb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "36TH ST & EDNOR RD eb",
-            "onestopId": "s-dqcxbbn4dq-36th~ednoreb",
+            "name": "UNIVERSITY & BISHOPS RD wb",
+            "onestopId": "s-dqcxb2ru6m-university~bishopswb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1683,6 +1753,76 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.632603,
+                    39.332678
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-4880",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4880",
+                        "stop_desc": "",
+                        "stop_id": "4880",
+                        "stop_lat": "39.332678",
+                        "stop_lon": "-76.632603",
+                        "stop_name": "ROLAND AVE & 37TH ST nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROLAND AVE & 37TH ST nb",
+            "onestopId": "s-dqcxb0mc6y-roland~37thnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.609643,
+                    39.343352
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1564",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1564",
+                        "stop_desc": "YORK RD at OAKLAND AVE sb",
+                        "stop_id": "1564",
+                        "stop_lat": "39.343352",
+                        "stop_lon": "-76.609643",
+                        "stop_name": "YORK RD & OAKLAND AVEsb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "YORK RD & OAKLAND AVEsb",
+            "onestopId": "s-dqcxbdnx9u-york~oaklandavesb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.621225,
                     39.342876
                 ],
@@ -1708,6 +1848,41 @@
             ],
             "name": "ST. PAUL & GREENWAY N/B",
             "onestopId": "s-dqcxb6nhu5-paul~greenwayn~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.618661,
+                    39.373307
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-2112",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2112",
+                        "stop_desc": "BELLONA AVE at MIDHURST RD sb",
+                        "stop_id": "2112",
+                        "stop_lat": "39.373307",
+                        "stop_lon": "-76.618661",
+                        "stop_name": "BELLONA & MIDHURST S/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "BELLONA & MIDHURST S/B",
+            "onestopId": "s-dqcxbrxypu-bellona~midhursts~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1788,41 +1963,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.618661,
-                    39.373307
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-2112",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2112",
-                        "stop_desc": "BELLONA AVE at MIDHURST RD sb",
-                        "stop_id": "2112",
-                        "stop_lat": "39.373307",
-                        "stop_lon": "-76.618661",
-                        "stop_name": "BELLONA & MIDHURST S/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "BELLONA & MIDHURST S/B",
-            "onestopId": "s-dqcxbrxypu-bellona~midhursts~b",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.598482,
                     39.353206
                 ],
@@ -1858,31 +1998,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.623759,
-                    39.353807
+                    -76.62826,
+                    39.344788
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12329",
+                    "identifier": "f-mtamaryland-s-5657",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12329",
-                        "stop_desc": "",
-                        "stop_id": "12329",
-                        "stop_lat": "39.353807",
-                        "stop_lon": "-76.623759",
-                        "stop_name": "CHARLES ST & WYNDHURST AVE sb",
+                        "stop_code": "5657",
+                        "stop_desc": "COLD SPRING LN at WILMSLOW RD wb",
+                        "stop_id": "5657",
+                        "stop_lat": "39.344788",
+                        "stop_lon": "-76.62826",
+                        "stop_name": "COLD SPRING & WILMSLOW RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CHARLES ST & WYNDHURST AVE sb",
-            "onestopId": "s-dqcxbkhk91-charles~wyndhurstsb",
+            "name": "COLD SPRING & WILMSLOW RD wb",
+            "onestopId": "s-dqcxb69000-coldspring~wilmslowwb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.624996,
+                    39.361876
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-2121",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2121",
+                        "stop_desc": "CHARLES ST at NORTHERN PKWY fs sb",
+                        "stop_id": "2121",
+                        "stop_lat": "39.361876",
+                        "stop_lon": "-76.624996",
+                        "stop_name": "CHARLES ST & NORTHERN PKY f/s sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "CHARLES ST & NORTHERN PKY f/s sb",
+            "onestopId": "s-dqcxbme7s1-charles~northernpkyf~ssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1928,31 +2103,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.62827,
-                    39.33731
+                    -76.634309,
+                    39.364457
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4163",
+                    "identifier": "f-mtamaryland-s-6656",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4163",
-                        "stop_desc": "40TH ST at KESWICK RD wb",
-                        "stop_id": "4163",
-                        "stop_lat": "39.33731",
-                        "stop_lon": "-76.62827",
-                        "stop_name": "40TH ST & KESWICK AVE wb",
+                        "stop_code": "6656",
+                        "stop_desc": "ROLAND AVE at ST GEORGES RD fs sb",
+                        "stop_id": "6656",
+                        "stop_lat": "39.364457",
+                        "stop_lon": "-76.634309",
+                        "stop_name": "ROLAND AVE & ST GEORGE RD fs sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "40TH ST & KESWICK AVE wb",
-            "onestopId": "s-dqcxb30ury-40th~keswickwb",
+            "name": "ROLAND AVE & ST GEORGE RD fs sb",
+            "onestopId": "s-dqcxbnhde4-roland~georgefssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -1998,31 +2173,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.617949,
-                    39.332352
+                    -76.609829,
+                    39.362846
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2339",
+                    "identifier": "f-mtamaryland-s-1656",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2339",
+                        "stop_code": "1656",
                         "stop_desc": "",
-                        "stop_id": "2339",
-                        "stop_lat": "39.332352",
-                        "stop_lon": "-76.617949",
-                        "stop_name": "CHARLES ST & UNIVERSITY PKWY nb",
+                        "stop_id": "1656",
+                        "stop_lat": "39.362846",
+                        "stop_lon": "-76.609829",
+                        "stop_name": "YORK RD & ORKNEY RD nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CHARLES ST & UNIVERSITY PKWY nb",
-            "onestopId": "s-dqcxb80x83-charles~universitynb",
+            "name": "YORK RD & ORKNEY RD nb",
+            "onestopId": "s-dqcxbty3jw-york~orkneynb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2068,66 +2243,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.634296,
-                    39.367727
+                    -76.623759,
+                    39.353807
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6654",
+                    "identifier": "f-mtamaryland-s-12329",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6654",
-                        "stop_desc": "ROLAND AVE at DROHOMER PL",
-                        "stop_id": "6654",
-                        "stop_lat": "39.367727",
-                        "stop_lon": "-76.634296",
-                        "stop_name": "ROLAND AVE & BELLMORE RD fs sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ROLAND AVE & BELLMORE RD fs sb",
-            "onestopId": "s-dqcxbnstek-roland~bellmorefssb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.609831,
-                    39.366926
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-11427",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "11427",
+                        "stop_code": "12329",
                         "stop_desc": "",
-                        "stop_id": "11427",
-                        "stop_lat": "39.366926",
-                        "stop_lon": "-76.609831",
-                        "stop_name": "YORK RD & LAKE AVE sb",
+                        "stop_id": "12329",
+                        "stop_lat": "39.353807",
+                        "stop_lon": "-76.623759",
+                        "stop_name": "CHARLES ST & WYNDHURST AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & LAKE AVE sb",
-            "onestopId": "s-dqcxbww2vw-york~lakesb",
+            "name": "CHARLES ST & WYNDHURST AVE sb",
+            "onestopId": "s-dqcxbkhk91-charles~wyndhurstsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2278,41 +2418,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.632179,
-                    39.340399
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-6708",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6708",
-                        "stop_desc": "UNIVERSITY PKWY at OVERHILL RD nb",
-                        "stop_id": "6708",
-                        "stop_lat": "39.340399",
-                        "stop_lon": "-76.632179",
-                        "stop_name": "UNIVERSITY & OVERHILL nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "UNIVERSITY & OVERHILL nb",
-            "onestopId": "s-dqcxb1wnkv-university~overhillnb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.605233,
                     39.336554
                 ],
@@ -2373,41 +2478,6 @@
             ],
             "name": "ARGONNE DR & N HILL RD eb",
             "onestopId": "s-dqcxbc5xnr-argonne~nhilleb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.624996,
-                    39.361876
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-2121",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2121",
-                        "stop_desc": "CHARLES ST at NORTHERN PKWY fs sb",
-                        "stop_id": "2121",
-                        "stop_lat": "39.361876",
-                        "stop_lon": "-76.624996",
-                        "stop_name": "CHARLES ST & NORTHERN PKY f/s sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "CHARLES ST & NORTHERN PKY f/s sb",
-            "onestopId": "s-dqcxbme7s1-charles~northernpkyf~ssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2488,6 +2558,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.635255,
+                    39.349978
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-6663",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6663",
+                        "stop_desc": "",
+                        "stop_id": "6663",
+                        "stop_lat": "39.349978",
+                        "stop_lon": "-76.635255",
+                        "stop_name": "ROLAND AVE & UPLAND RD sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROLAND AVE & UPLAND RD sb",
+            "onestopId": "s-dqcxb57yjp-roland~uplandsb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.624317,
                     39.336622
                 ],
@@ -2558,31 +2663,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609829,
-                    39.362846
+                    -76.617949,
+                    39.332352
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1656",
+                    "identifier": "f-mtamaryland-s-2339",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1656",
+                        "stop_code": "2339",
                         "stop_desc": "",
-                        "stop_id": "1656",
-                        "stop_lat": "39.362846",
-                        "stop_lon": "-76.609829",
-                        "stop_name": "YORK RD & ORKNEY RD nb",
+                        "stop_id": "2339",
+                        "stop_lat": "39.332352",
+                        "stop_lon": "-76.617949",
+                        "stop_name": "CHARLES ST & UNIVERSITY PKWY nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & ORKNEY RD nb",
-            "onestopId": "s-dqcxbty3jw-york~orkneynb",
+            "name": "CHARLES ST & UNIVERSITY PKWY nb",
+            "onestopId": "s-dqcxb80x83-charles~universitynb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2698,31 +2803,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.635912,
-                    39.337838
+                    -76.622626,
+                    39.348365
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4166",
+                    "identifier": "f-mtamaryland-s-2351",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4166",
+                        "stop_code": "2351",
                         "stop_desc": "",
-                        "stop_id": "4166",
-                        "stop_lat": "39.337838",
-                        "stop_lon": "-76.635912",
-                        "stop_name": "41ST ST & HICKORY AVE wb",
+                        "stop_id": "2351",
+                        "stop_lat": "39.348365",
+                        "stop_lon": "-76.622626",
+                        "stop_name": "CHARLES ST & EVERGREEN HOUSE nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "41ST ST & HICKORY AVE wb",
-            "onestopId": "s-dqcxb15rtb-41st~hickorywb",
+            "name": "CHARLES ST & EVERGREEN HOUSE nb",
+            "onestopId": "s-dqcxb7jhg6-charles~evergreenhousenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2768,31 +2873,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.61918,
-                    39.333047
+                    -76.635604,
+                    39.343913
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10755",
+                    "identifier": "f-mtamaryland-s-8945",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10755",
-                        "stop_desc": "UNIVERSITY PKWY at BISHOPS RD eb",
-                        "stop_id": "10755",
-                        "stop_lat": "39.333047",
-                        "stop_lon": "-76.61918",
-                        "stop_name": "UNIVERSITY & BISHOPS LA eb",
+                        "stop_code": "8945",
+                        "stop_desc": "COLD SPRING LN at ROLAND AVE fs wb",
+                        "stop_id": "8945",
+                        "stop_lat": "39.343913",
+                        "stop_lon": "-76.635604",
+                        "stop_name": "COLD SPRING & ROLAND FS W/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "UNIVERSITY & BISHOPS LA eb",
-            "onestopId": "s-dqcxb2reee-university~bishopslaeb",
+            "name": "COLD SPRING & ROLAND FS W/B",
+            "onestopId": "s-dqcxb47duu-coldspring~rolandfsw~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -2873,31 +2978,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.640437,
-                    39.332045
+                    -76.609752,
+                    39.370411
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10494",
+                    "identifier": "f-mtamaryland-s-1536",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10494",
+                        "stop_code": "1536",
                         "stop_desc": "",
-                        "stop_id": "10494",
-                        "stop_lat": "39.332045",
-                        "stop_lon": "-76.640437",
-                        "stop_name": "UNION AVE. & ASH ST fs eb",
+                        "stop_id": "1536",
+                        "stop_lat": "39.370411",
+                        "stop_lon": "-76.609752",
+                        "stop_name": "YORK RD & GITTINGS AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "UNION AVE. & ASH ST fs eb",
-            "onestopId": "s-dqcxb00ju2-union~ashfseb",
+            "name": "YORK RD & GITTINGS AVE sb",
+            "onestopId": "s-dqcxbxnmr2-york~gittingssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3048,31 +3153,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.634962,
-                    39.343851
+                    -76.609897,
+                    39.358495
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4866",
+                    "identifier": "f-mtamaryland-s-1554",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4866",
-                        "stop_desc": "COLD SPRING LN at ROLAND AVE fs eb",
-                        "stop_id": "4866",
-                        "stop_lat": "39.343851",
-                        "stop_lon": "-76.634962",
-                        "stop_name": "COLD SPRING & ROLAND AVE fs eb",
+                        "stop_code": "1554",
+                        "stop_desc": "",
+                        "stop_id": "1554",
+                        "stop_lat": "39.358495",
+                        "stop_lon": "-76.609897",
+                        "stop_name": "YORK RD & BELLONA AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "COLD SPRING & ROLAND AVE fs eb",
-            "onestopId": "s-dqcxb4k4ec-coldspring~rolandfseb",
+            "name": "YORK RD & BELLONA AVE sb",
+            "onestopId": "s-dqcxbsyru5-york~bellonasb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3153,31 +3258,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609454,
-                    39.336208
+                    -76.599581,
+                    39.345079
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1638",
+                    "identifier": "f-mtamaryland-s-5894",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1638",
-                        "stop_desc": "GREENMOUNT AVE at 39TH ST nb",
-                        "stop_id": "1638",
-                        "stop_lat": "39.336208",
-                        "stop_lon": "-76.609454",
-                        "stop_name": "GREENMOUNT & 39TH nb",
+                        "stop_code": "5894",
+                        "stop_desc": "THE ALAMEDA at COLD SPRING LN nb",
+                        "stop_id": "5894",
+                        "stop_lat": "39.345079",
+                        "stop_lon": "-76.599581",
+                        "stop_name": "THE ALAMEDA & COLDSPRING nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "GREENMOUNT & 39TH nb",
-            "onestopId": "s-dqcxb8ywn2-greenmount~39thnb",
+            "name": "THE ALAMEDA & COLDSPRING nb",
+            "onestopId": "s-dqcxbftcsq-thealameda~coldspringnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3188,66 +3293,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.617031,
-                    39.345206
+                    -76.598553,
+                    39.3598
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5655",
+                    "identifier": "f-mtamaryland-s-5975",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5655",
-                        "stop_desc": "COLD SPRING LN at MILBROOK RD wb",
-                        "stop_id": "5655",
-                        "stop_lat": "39.345206",
-                        "stop_lon": "-76.617031",
-                        "stop_name": "COLD SPRING & MILBROOK RD wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "COLD SPRING & MILBROOK RD wb",
-            "onestopId": "s-dqcxbd94mv-coldspring~milbrookwb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.633015,
-                    39.337121
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-4310",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4310",
+                        "stop_code": "5975",
                         "stop_desc": "",
-                        "stop_id": "4310",
-                        "stop_lat": "39.337121",
-                        "stop_lon": "-76.633015",
-                        "stop_name": "41ST ST & ROLAND AVE eb",
+                        "stop_id": "5975",
+                        "stop_lat": "39.3598",
+                        "stop_lon": "-76.598553",
+                        "stop_name": "BELVEDERE AVE & NORTHWOOD DR wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "41ST ST & ROLAND AVE eb",
-            "onestopId": "s-dqcxb1je36-41st~rolandeb",
+            "name": "BELVEDERE AVE & NORTHWOOD DR wb",
+            "onestopId": "s-dqcxbvnxkq-belvedere~northwoodwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3258,31 +3328,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.635255,
-                    39.349978
+                    -76.640094,
+                    39.343302
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6663",
+                    "identifier": "f-mtamaryland-s-5030",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6663",
-                        "stop_desc": "",
-                        "stop_id": "6663",
-                        "stop_lat": "39.349978",
-                        "stop_lon": "-76.635255",
-                        "stop_name": "ROLAND AVE & UPLAND RD sb",
+                        "stop_code": "5030",
+                        "stop_desc": "COLD SPRING LN at FALLS RD wb",
+                        "stop_id": "5030",
+                        "stop_lat": "39.343302",
+                        "stop_lon": "-76.640094",
+                        "stop_name": "COLD SPRING LA & FALLS FD WB",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND AVE & UPLAND RD sb",
-            "onestopId": "s-dqcxb57yjp-roland~uplandsb",
+            "name": "COLD SPRING LA & FALLS FD WB",
+            "onestopId": "s-dqcxb40rk7-coldspringla~fallsfdwb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.599326,
+                    39.331521
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-11333",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "11333",
+                        "stop_desc": "",
+                        "stop_id": "11333",
+                        "stop_lat": "39.331521",
+                        "stop_lon": "-76.599326",
+                        "stop_name": "36TH ST & EDNOR RD eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "36TH ST & EDNOR RD eb",
+            "onestopId": "s-dqcxbbn4dq-36th~ednoreb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3328,31 +3433,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.60158,
-                    39.339194
+                    -76.609797,
+                    39.351811
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5890",
+                    "identifier": "f-mtamaryland-s-1558",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5890",
-                        "stop_desc": "ARGONNE DR at CATOR AVE opp eb",
-                        "stop_id": "5890",
-                        "stop_lat": "39.339194",
-                        "stop_lon": "-76.60158",
-                        "stop_name": "ARGONNE DR & CATOR AV OP eb",
+                        "stop_code": "1558",
+                        "stop_desc": "",
+                        "stop_id": "1558",
+                        "stop_lat": "39.351811",
+                        "stop_lon": "-76.609797",
+                        "stop_name": "YORK RD & NOTRE DAME LN sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ARGONNE DR & CATOR AV OP eb",
-            "onestopId": "s-dqcxbckrmv-argonne~catoropeb",
+            "name": "YORK RD & NOTRE DAME LN sb",
+            "onestopId": "s-dqcxbey2ym-york~notredamesb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3388,6 +3493,41 @@
             ],
             "name": "ROLAND PK MIDDLE SCHOOL LV",
             "onestopId": "s-dqcxbhs7je-rolandpkmiddleschoollv",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.624705,
+                    39.359487
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-12401",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "12401",
+                        "stop_desc": "CHARLES ST at AMBERLY WAY sb",
+                        "stop_id": "12401",
+                        "stop_lat": "39.359487",
+                        "stop_lon": "-76.624705",
+                        "stop_name": "CHARLES ST & AMBERLY WAY SB",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "CHARLES ST & AMBERLY WAY SB",
+            "onestopId": "s-dqcxbm5tdu-charles~amberlysb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3538,31 +3678,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.598553,
-                    39.3598
+                    -76.617031,
+                    39.345206
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5975",
+                    "identifier": "f-mtamaryland-s-5655",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5975",
-                        "stop_desc": "",
-                        "stop_id": "5975",
-                        "stop_lat": "39.3598",
-                        "stop_lon": "-76.598553",
-                        "stop_name": "BELVEDERE AVE & NORTHWOOD DR wb",
+                        "stop_code": "5655",
+                        "stop_desc": "COLD SPRING LN at MILBROOK RD wb",
+                        "stop_id": "5655",
+                        "stop_lat": "39.345206",
+                        "stop_lon": "-76.617031",
+                        "stop_name": "COLD SPRING & MILBROOK RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELVEDERE AVE & NORTHWOOD DR wb",
-            "onestopId": "s-dqcxbvnxkq-belvedere~northwoodwb",
+            "name": "COLD SPRING & MILBROOK RD wb",
+            "onestopId": "s-dqcxbd94mv-coldspring~milbrookwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3573,31 +3713,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609897,
-                    39.358495
+                    -76.598607,
+                    39.352323
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1554",
+                    "identifier": "f-mtamaryland-s-5820",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1554",
+                        "stop_code": "5820",
                         "stop_desc": "",
-                        "stop_id": "1554",
-                        "stop_lat": "39.358495",
-                        "stop_lon": "-76.609897",
-                        "stop_name": "YORK RD & BELLONA AVE sb",
+                        "stop_id": "5820",
+                        "stop_lat": "39.352323",
+                        "stop_lon": "-76.598607",
+                        "stop_name": "THE ALAMEDA & GLENWOOD AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & BELLONA AVE sb",
-            "onestopId": "s-dqcxbsyru5-york~bellonasb",
+            "name": "THE ALAMEDA & GLENWOOD AVE sb",
+            "onestopId": "s-dqcxbgyegh-thealameda~glenwoodsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3783,41 +3923,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.604703,
-                    39.334186
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5831",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5831",
-                        "stop_desc": "ELLERSLIE AVE at CHESTNUT HILL AVE sb",
-                        "stop_id": "5831",
-                        "stop_lat": "39.334186",
-                        "stop_lon": "-76.604703",
-                        "stop_name": "ELLERSLIE & CHESTNUT HILL sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ELLERSLIE & CHESTNUT HILL sb",
-            "onestopId": "s-dqcxbbd4jp-ellerslie~chestnuthillsb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.599773,
                     39.343566
                 ],
@@ -3843,6 +3948,41 @@
             ],
             "name": "THE ALAMEDA & 43RD ST nb",
             "onestopId": "s-dqcxbfm8zu-thealameda~43rdnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.634549,
+                    39.356307
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-6718",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6718",
+                        "stop_desc": "",
+                        "stop_id": "6718",
+                        "stop_lat": "39.356307",
+                        "stop_lon": "-76.634549",
+                        "stop_name": "ROLAND AVE & DEEPDENE RD nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ROLAND AVE & DEEPDENE RD nb",
+            "onestopId": "s-dqcxbhs7je-roland~deepdenenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -3923,31 +4063,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.599221,
-                    39.331602
+                    -76.600194,
+                    39.342337
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-11341",
+                    "identifier": "f-mtamaryland-s-5825",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11341",
-                        "stop_desc": "",
-                        "stop_id": "11341",
-                        "stop_lat": "39.331602",
-                        "stop_lon": "-76.599221",
-                        "stop_name": "36TH ST & EDNOR RD wb",
+                        "stop_code": "5825",
+                        "stop_desc": "THE ALAMEDA at SPRINGFIELD AVE fs sb",
+                        "stop_id": "5825",
+                        "stop_lat": "39.342337",
+                        "stop_lon": "-76.600194",
+                        "stop_name": "ALAMEDA & SPRINGFIELD AVE fs sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "36TH ST & EDNOR RD wb",
-            "onestopId": "s-dqcxbbn5hy-36th~ednorwb",
+            "name": "ALAMEDA & SPRINGFIELD AVE fs sb",
+            "onestopId": "s-dqcxbfj3wp-alameda~springfieldfssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4133,31 +4273,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.637233,
-                    39.337585
+                    -76.609644,
+                    39.347018
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4168",
+                    "identifier": "f-mtamaryland-s-1562",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4168",
+                        "stop_code": "1562",
                         "stop_desc": "",
-                        "stop_id": "4168",
-                        "stop_lat": "39.337585",
-                        "stop_lon": "-76.637233",
-                        "stop_name": "41ST ST & FALLS RD wb",
+                        "stop_id": "1562",
+                        "stop_lat": "39.347018",
+                        "stop_lon": "-76.609644",
+                        "stop_name": "YORK RD & CHARTER OAK AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "41ST ST & FALLS RD wb",
-            "onestopId": "s-dqcxb14qp1-41st~fallswb",
+            "name": "YORK RD & CHARTER OAK AVE sb",
+            "onestopId": "s-dqcxbdyscz-york~charteroaksb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4203,31 +4343,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609643,
-                    39.343352
+                    -76.598196,
+                    39.354124
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1564",
+                    "identifier": "f-mtamaryland-s-5810",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1564",
-                        "stop_desc": "YORK RD at OAKLAND AVE sb",
-                        "stop_id": "1564",
-                        "stop_lat": "39.343352",
-                        "stop_lon": "-76.609643",
-                        "stop_name": "YORK RD & OAKLAND AVEsb",
+                        "stop_code": "5810",
+                        "stop_desc": "THE ALAMEDA at WOODBOURNE AVE sb",
+                        "stop_id": "5810",
+                        "stop_lat": "39.354124",
+                        "stop_lon": "-76.598196",
+                        "stop_name": "THE ALAMEDA & WOODBOURNE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & OAKLAND AVEsb",
-            "onestopId": "s-dqcxbdnx9u-york~oaklandavesb",
+            "name": "THE ALAMEDA & WOODBOURNE sb",
+            "onestopId": "s-dqcxbunyks-thealameda~woodbournesb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4273,31 +4413,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609522,
-                    39.342821
+                    -76.61722,
+                    39.345064
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1644",
+                    "identifier": "f-mtamaryland-s-5604",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1644",
-                        "stop_desc": "",
-                        "stop_id": "1644",
-                        "stop_lat": "39.342821",
-                        "stop_lon": "-76.609522",
-                        "stop_name": "YORK RD & NORTHWAY opp nb",
+                        "stop_code": "5604",
+                        "stop_desc": "COLD SPRING LN at MILLBROOK RD eb",
+                        "stop_id": "5604",
+                        "stop_lat": "39.345064",
+                        "stop_lon": "-76.61722",
+                        "stop_name": "COLD SPRING & MILLBROOK RD eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & NORTHWAY opp nb",
-            "onestopId": "s-dqcxbdnssc-york~northwayoppnb",
+            "name": "COLD SPRING & MILLBROOK RD eb",
+            "onestopId": "s-dqcxbd9197-coldspring~millbrookeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4448,31 +4588,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609587,
-                    39.348836
+                    -76.601112,
+                    39.331513
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1647",
+                    "identifier": "f-mtamaryland-s-11332",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1647",
+                        "stop_code": "11332",
                         "stop_desc": "",
-                        "stop_id": "1647",
-                        "stop_lat": "39.348836",
-                        "stop_lon": "-76.609587",
-                        "stop_name": "YORK RD & ROSSITER AVE nb",
+                        "stop_id": "11332",
+                        "stop_lat": "39.331513",
+                        "stop_lon": "-76.601112",
+                        "stop_name": "36TH ST & KIMBLE RD opp eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & ROSSITER AVE nb",
-            "onestopId": "s-dqcxbenxe4-york~rossiternb",
+            "name": "36TH ST & KIMBLE RD opp eb",
+            "onestopId": "s-dqcxbbhf8t-36th~kimbleoppeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4553,31 +4693,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.635604,
-                    39.343913
+                    -76.628183,
+                    39.335285
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-8945",
+                    "identifier": "f-mtamaryland-s-10498",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "8945",
-                        "stop_desc": "COLD SPRING LN at ROLAND AVE fs wb",
-                        "stop_id": "8945",
-                        "stop_lat": "39.343913",
-                        "stop_lon": "-76.635604",
-                        "stop_name": "COLD SPRING & ROLAND FS W/B",
+                        "stop_code": "10498",
+                        "stop_desc": "KESWICK RD at 39TH ST opp sb",
+                        "stop_id": "10498",
+                        "stop_lat": "39.335285",
+                        "stop_lon": "-76.628183",
+                        "stop_name": "KESWICK RD & 39TH ST. opp sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "COLD SPRING & ROLAND FS W/B",
-            "onestopId": "s-dqcxb47duu-coldspring~rolandfsw~b",
+            "name": "KESWICK RD & 39TH ST. opp sb",
+            "onestopId": "s-dqcxb2c09u-keswick~39thoppsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4613,6 +4753,41 @@
             ],
             "name": "UNIVERSITY & OVERHILL MB sb",
             "onestopId": "s-dqcxb1tv7j-university~overhillmbsb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.639491,
+                    39.341103
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-317",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "317",
+                        "stop_desc": "FALLS RD at ROLAND HEIGHTS AVE sb",
+                        "stop_id": "317",
+                        "stop_lat": "39.341103",
+                        "stop_lon": "-76.639491",
+                        "stop_name": "FALLS RD & ROLAND HEIGHTS sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "FALLS RD & ROLAND HEIGHTS sb",
+            "onestopId": "s-dqcxb1bfd3-falls~rolandheightssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4683,6 +4858,76 @@
             ],
             "name": "FALLS RD & 37TH ST nb",
             "onestopId": "s-dqcxb07bq0-falls~37thnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.628329,
+                    39.337195
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-8985",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "8985",
+                        "stop_desc": "",
+                        "stop_id": "8985",
+                        "stop_lat": "39.337195",
+                        "stop_lon": "-76.628329",
+                        "stop_name": "40TH ST & KESWICK RD eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "40TH ST & KESWICK RD eb",
+            "onestopId": "s-dqcxb30gy8-40th~keswickeb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.627303,
+                    39.36188
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-5986",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5986",
+                        "stop_desc": "",
+                        "stop_id": "5986",
+                        "stop_lat": "39.36188",
+                        "stop_lon": "-76.627303",
+                        "stop_name": "NORTHERN PKWY & BOXHILL LN wb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NORTHERN PKWY & BOXHILL LN wb",
+            "onestopId": "s-dqcxbm9ew6-northern~boxhillwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4798,76 +5043,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609466,
-                    39.338467
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-1640",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "1640",
-                        "stop_desc": "GREENMOUNT AVE at ROSE HILL TER nb",
-                        "stop_id": "1640",
-                        "stop_lat": "39.338467",
-                        "stop_lon": "-76.609466",
-                        "stop_name": "GREENMOUNT AVE & ROSEHILL nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "GREENMOUNT AVE & ROSEHILL nb",
-            "onestopId": "s-dqcxb9qenj-greenmount~rosehillnb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.600194,
-                    39.342337
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5825",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5825",
-                        "stop_desc": "THE ALAMEDA at SPRINGFIELD AVE fs sb",
-                        "stop_id": "5825",
-                        "stop_lat": "39.342337",
-                        "stop_lon": "-76.600194",
-                        "stop_name": "ALAMEDA & SPRINGFIELD AVE fs sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ALAMEDA & SPRINGFIELD AVE fs sb",
-            "onestopId": "s-dqcxbfj3wp-alameda~springfieldfssb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.627194,
                     39.337189
                 ],
@@ -4903,31 +5078,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.617973,
-                    39.368089
+                    -76.598428,
+                    39.366001
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2372",
+                    "identifier": "f-mtamaryland-s-5915",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2372",
-                        "stop_desc": "BELLONA AVE at LAKE AVE nb",
-                        "stop_id": "2372",
-                        "stop_lat": "39.368089",
-                        "stop_lon": "-76.617973",
-                        "stop_name": "BELLONA AVE & LAKE AVE N/B",
+                        "stop_code": "5915",
+                        "stop_desc": "NORTHERN PKWY at CHINQUAPIN PKWY wb",
+                        "stop_id": "5915",
+                        "stop_lat": "39.366001",
+                        "stop_lon": "-76.598428",
+                        "stop_name": "NORTHERN PKWY & CHINQUAPIN PKWY",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELLONA AVE & LAKE AVE N/B",
-            "onestopId": "s-dqcxbw8rxz-bellona~laken~b",
+            "name": "NORTHERN PKWY & CHINQUAPIN PKWY",
+            "onestopId": "s-dqcxbyqex6-northern~chinquapin",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -4973,31 +5148,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.627386,
-                    39.361711
+                    -76.636311,
+                    39.34339
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1546",
+                    "identifier": "f-mtamaryland-s-5597",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1546",
-                        "stop_desc": "NORTHERN PKWY at BOXHILL LN eb",
-                        "stop_id": "1546",
-                        "stop_lat": "39.361711",
-                        "stop_lon": "-76.627386",
-                        "stop_name": "NORTHERN PKWY & BOXHILL E/B",
+                        "stop_code": "5597",
+                        "stop_desc": "COLD SPRING LN at EVANS CHAPLE eb",
+                        "stop_id": "5597",
+                        "stop_lat": "39.34339",
+                        "stop_lon": "-76.636311",
+                        "stop_name": "COLD SPRING & EVANS CHAPEL eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NORTHERN PKWY & BOXHILL E/B",
-            "onestopId": "s-dqcxbm9ds6-northern~boxhille~b",
+            "name": "COLD SPRING & EVANS CHAPEL eb",
+            "onestopId": "s-dqcxb45pue-coldspring~evanschapeleb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5043,66 +5218,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.630684,
-                    39.337073
+                    -76.609831,
+                    39.366926
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4311",
+                    "identifier": "f-mtamaryland-s-11427",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4311",
+                        "stop_code": "11427",
                         "stop_desc": "",
-                        "stop_id": "4311",
-                        "stop_lat": "39.337073",
-                        "stop_lon": "-76.630684",
-                        "stop_name": "40TH ST & ROTUNDA MALL DR eb",
+                        "stop_id": "11427",
+                        "stop_lat": "39.366926",
+                        "stop_lon": "-76.609831",
+                        "stop_name": "YORK RD & LAKE AVE sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "40TH ST & ROTUNDA MALL DR eb",
-            "onestopId": "s-dqcxb1p5p9-40th~rotundamalleb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.632603,
-                    39.332678
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-4880",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4880",
-                        "stop_desc": "",
-                        "stop_id": "4880",
-                        "stop_lat": "39.332678",
-                        "stop_lon": "-76.632603",
-                        "stop_name": "ROLAND AVE & 37TH ST nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ROLAND AVE & 37TH ST nb",
-            "onestopId": "s-dqcxb0mc6y-roland~37thnb",
+            "name": "YORK RD & LAKE AVE sb",
+            "onestopId": "s-dqcxbww2vw-york~lakesb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5218,31 +5358,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609764,
-                    39.369087
+                    -76.61918,
+                    39.333047
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1537",
+                    "identifier": "f-mtamaryland-s-10755",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1537",
-                        "stop_desc": "YORK RD at HOLLEN RD sb",
-                        "stop_id": "1537",
-                        "stop_lat": "39.369087",
-                        "stop_lon": "-76.609764",
-                        "stop_name": "YORK RD & HOLLEN sb",
+                        "stop_code": "10755",
+                        "stop_desc": "UNIVERSITY PKWY at BISHOPS RD eb",
+                        "stop_id": "10755",
+                        "stop_lat": "39.333047",
+                        "stop_lon": "-76.61918",
+                        "stop_name": "UNIVERSITY & BISHOPS LA eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & HOLLEN sb",
-            "onestopId": "s-dqcxbwymx1-york~hollensb",
+            "name": "UNIVERSITY & BISHOPS LA eb",
+            "onestopId": "s-dqcxb2reee-university~bishopslaeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5253,31 +5393,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609752,
-                    39.370411
+                    -76.609583,
+                    39.338533
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1536",
+                    "identifier": "f-mtamaryland-s-1566",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1536",
-                        "stop_desc": "",
-                        "stop_id": "1536",
-                        "stop_lat": "39.370411",
-                        "stop_lon": "-76.609752",
-                        "stop_name": "YORK RD & GITTINGS AVE sb",
+                        "stop_code": "1566",
+                        "stop_desc": "GREENMOUNT AVE at ROSEHILL TER opp sb",
+                        "stop_id": "1566",
+                        "stop_lat": "39.338533",
+                        "stop_lon": "-76.609583",
+                        "stop_name": "GREENMOUNTAVE & ROSEHILL opp sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & GITTINGS AVE sb",
-            "onestopId": "s-dqcxbxnmr2-york~gittingssb",
+            "name": "GREENMOUNTAVE & ROSEHILL opp sb",
+            "onestopId": "s-dqcxb9qee6-greenmountave~rosehilloppsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5288,66 +5428,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.617455,
-                    39.364178
+                    -76.609454,
+                    39.336208
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1550",
+                    "identifier": "f-mtamaryland-s-1638",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1550",
-                        "stop_desc": "NORTHERN PKWY at SPRINGLAKE WAY fs eb",
-                        "stop_id": "1550",
-                        "stop_lat": "39.364178",
-                        "stop_lon": "-76.617455",
-                        "stop_name": "NORTHERN PKWY & SPRINGLAKE f/s eb",
+                        "stop_code": "1638",
+                        "stop_desc": "GREENMOUNT AVE at 39TH ST nb",
+                        "stop_id": "1638",
+                        "stop_lat": "39.336208",
+                        "stop_lon": "-76.609454",
+                        "stop_name": "GREENMOUNT & 39TH nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NORTHERN PKWY & SPRINGLAKE f/s eb",
-            "onestopId": "s-dqcxbw0bgy-northern~springlakef~seb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.627303,
-                    39.36188
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5986",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5986",
-                        "stop_desc": "",
-                        "stop_id": "5986",
-                        "stop_lat": "39.36188",
-                        "stop_lon": "-76.627303",
-                        "stop_name": "NORTHERN PKWY & BOXHILL LN wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NORTHERN PKWY & BOXHILL LN wb",
-            "onestopId": "s-dqcxbm9ew6-northern~boxhillwb",
+            "name": "GREENMOUNT & 39TH nb",
+            "onestopId": "s-dqcxb8ywn2-greenmount~39thnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5393,66 +5498,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609797,
-                    39.351811
+                    -76.60158,
+                    39.339194
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1558",
+                    "identifier": "f-mtamaryland-s-5890",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1558",
-                        "stop_desc": "",
-                        "stop_id": "1558",
-                        "stop_lat": "39.351811",
-                        "stop_lon": "-76.609797",
-                        "stop_name": "YORK RD & NOTRE DAME LN sb",
+                        "stop_code": "5890",
+                        "stop_desc": "ARGONNE DR at CATOR AVE opp eb",
+                        "stop_id": "5890",
+                        "stop_lat": "39.339194",
+                        "stop_lon": "-76.60158",
+                        "stop_name": "ARGONNE DR & CATOR AV OP eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & NOTRE DAME LN sb",
-            "onestopId": "s-dqcxbey2ym-york~notredamesb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.598196,
-                    39.354124
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5810",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5810",
-                        "stop_desc": "THE ALAMEDA at WOODBOURNE AVE sb",
-                        "stop_id": "5810",
-                        "stop_lat": "39.354124",
-                        "stop_lon": "-76.598196",
-                        "stop_name": "THE ALAMEDA & WOODBOURNE sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "THE ALAMEDA & WOODBOURNE sb",
-            "onestopId": "s-dqcxbunyks-thealameda~woodbournesb",
+            "name": "ARGONNE DR & CATOR AV OP eb",
+            "onestopId": "s-dqcxbckrmv-argonne~catoropeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5498,31 +5568,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.63726,
-                    39.337577
+                    -76.599221,
+                    39.331602
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4308",
+                    "identifier": "f-mtamaryland-s-11341",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4308",
+                        "stop_code": "11341",
                         "stop_desc": "",
-                        "stop_id": "4308",
-                        "stop_lat": "39.337577",
-                        "stop_lon": "-76.63726",
-                        "stop_name": "41ST ST & FALLS RD eb",
+                        "stop_id": "11341",
+                        "stop_lat": "39.331602",
+                        "stop_lon": "-76.599221",
+                        "stop_name": "36TH ST & EDNOR RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "41ST ST & FALLS RD eb",
-            "onestopId": "s-dqcxb14myr-41st~fallseb",
+            "name": "36TH ST & EDNOR RD wb",
+            "onestopId": "s-dqcxbbn5hy-36th~ednorwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5568,66 +5638,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.617248,
-                    39.36656
+                    -76.609522,
+                    39.342821
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2371",
+                    "identifier": "f-mtamaryland-s-1644",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2371",
+                        "stop_code": "1644",
                         "stop_desc": "",
-                        "stop_id": "2371",
-                        "stop_lat": "39.36656",
-                        "stop_lon": "-76.617248",
-                        "stop_name": "BELLONA AVE & MELROSE AVE nb",
+                        "stop_id": "1644",
+                        "stop_lat": "39.342821",
+                        "stop_lon": "-76.609522",
+                        "stop_name": "YORK RD & NORTHWAY opp nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELLONA AVE & MELROSE AVE nb",
-            "onestopId": "s-dqcxbw3nbd-bellona~melrosenb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.61722,
-                    39.345064
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5604",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5604",
-                        "stop_desc": "COLD SPRING LN at MILLBROOK RD eb",
-                        "stop_id": "5604",
-                        "stop_lat": "39.345064",
-                        "stop_lon": "-76.61722",
-                        "stop_name": "COLD SPRING & MILLBROOK RD eb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "COLD SPRING & MILLBROOK RD eb",
-            "onestopId": "s-dqcxbd9197-coldspring~millbrookeb",
+            "name": "YORK RD & NORTHWAY opp nb",
+            "onestopId": "s-dqcxbdnssc-york~northwayoppnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5708,76 +5743,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.598607,
-                    39.352323
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5820",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5820",
-                        "stop_desc": "",
-                        "stop_id": "5820",
-                        "stop_lat": "39.352323",
-                        "stop_lon": "-76.598607",
-                        "stop_name": "THE ALAMEDA & GLENWOOD AVE sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "THE ALAMEDA & GLENWOOD AVE sb",
-            "onestopId": "s-dqcxbgyegh-thealameda~glenwoodsb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.623036,
-                    39.335884
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-4159",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "4159",
-                        "stop_desc": "UNIVERSITY PKWY at 39TH ST wb",
-                        "stop_id": "4159",
-                        "stop_lat": "39.335884",
-                        "stop_lon": "-76.623036",
-                        "stop_name": "UNIVERSITY & 39TH ST wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "UNIVERSITY & 39TH ST wb",
-            "onestopId": "s-dqcxb2uu1u-university~39thwb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.601007,
                     39.331585
                 ],
@@ -5848,31 +5813,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609583,
-                    39.338533
+                    -76.604703,
+                    39.334186
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1566",
+                    "identifier": "f-mtamaryland-s-5831",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1566",
-                        "stop_desc": "GREENMOUNT AVE at ROSEHILL TER opp sb",
-                        "stop_id": "1566",
-                        "stop_lat": "39.338533",
-                        "stop_lon": "-76.609583",
-                        "stop_name": "GREENMOUNTAVE & ROSEHILL opp sb",
+                        "stop_code": "5831",
+                        "stop_desc": "ELLERSLIE AVE at CHESTNUT HILL AVE sb",
+                        "stop_id": "5831",
+                        "stop_lat": "39.334186",
+                        "stop_lon": "-76.604703",
+                        "stop_name": "ELLERSLIE & CHESTNUT HILL sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "GREENMOUNTAVE & ROSEHILL opp sb",
-            "onestopId": "s-dqcxb9qee6-greenmountave~rosehilloppsb",
+            "name": "ELLERSLIE & CHESTNUT HILL sb",
+            "onestopId": "s-dqcxbbd4jp-ellerslie~chestnuthillsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -5988,66 +5953,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.604171,
-                    39.345445
+                    -76.637978,
+                    39.338642
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5652",
+                    "identifier": "f-mtamaryland-s-5035",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5652",
-                        "stop_desc": "COLD SPRING LN at MIDWOOD AVE wb",
-                        "stop_id": "5652",
-                        "stop_lat": "39.345445",
-                        "stop_lon": "-76.604171",
-                        "stop_name": "COLD SPRING & MIDWOOD AVE wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "COLD SPRING & MIDWOOD AVE wb",
-            "onestopId": "s-dqcxbfdec6-coldspring~midwoodwb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.632694,
-                    39.334156
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5024",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5024",
+                        "stop_code": "5035",
                         "stop_desc": "",
-                        "stop_id": "5024",
-                        "stop_lat": "39.334156",
-                        "stop_lon": "-76.632694",
-                        "stop_name": "ROLAND AVE & 38TH ST nb",
+                        "stop_id": "5035",
+                        "stop_lat": "39.338642",
+                        "stop_lon": "-76.637978",
+                        "stop_name": "FALLS RD & 42ND ST nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND AVE & 38TH ST nb",
-            "onestopId": "s-dqcxb0tf0f-roland~38thnb",
+            "name": "FALLS RD & 42ND ST nb",
+            "onestopId": "s-dqcxb13ujw-falls~42ndnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -6268,41 +6198,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.639946,
-                    39.34304
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5596",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5596",
-                        "stop_desc": "COLD SPRING LN at FALLS RD fs eb",
-                        "stop_id": "5596",
-                        "stop_lat": "39.34304",
-                        "stop_lon": "-76.639946",
-                        "stop_name": "COLD SPRING & FALLS f/s  eb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "COLD SPRING & FALLS f/s  eb",
-            "onestopId": "s-dqcxb40mzf-coldspring~fallsf~seb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.635801,
                     39.334344
                 ],
@@ -6338,66 +6233,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.634954,
-                    39.342194
+                    -76.637176,
+                    39.337558
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6674",
+                    "identifier": "f-mtamaryland-s-5034",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6674",
+                        "stop_code": "5034",
                         "stop_desc": "",
-                        "stop_id": "6674",
-                        "stop_lat": "39.342194",
-                        "stop_lon": "-76.634954",
-                        "stop_name": "ROLAND AVE OPP SOMERSET sb",
+                        "stop_id": "5034",
+                        "stop_lat": "39.337558",
+                        "stop_lon": "-76.637176",
+                        "stop_name": "FALLS RD & 41ST ST nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND AVE OPP SOMERSET sb",
-            "onestopId": "s-dqcxb4h0uh-rolandoppsomersetsb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.634549,
-                    39.356307
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-6718",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "6718",
-                        "stop_desc": "",
-                        "stop_id": "6718",
-                        "stop_lat": "39.356307",
-                        "stop_lon": "-76.634549",
-                        "stop_name": "ROLAND AVE & DEEPDENE RD nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ROLAND AVE & DEEPDENE RD nb",
-            "onestopId": "s-dqcxbhs7je-roland~deepdenenb",
+            "name": "FALLS RD & 41ST ST nb",
+            "onestopId": "s-dqcxb14tbk-falls~41stnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -6433,6 +6293,41 @@
             ],
             "name": "NORTHERN PKWY & CLEARSPRING f/s wb",
             "onestopId": "s-dqcxby0hv4-northern~clearspringf~swb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.609764,
+                    39.369087
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1537",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1537",
+                        "stop_desc": "YORK RD at HOLLEN RD sb",
+                        "stop_id": "1537",
+                        "stop_lat": "39.369087",
+                        "stop_lon": "-76.609764",
+                        "stop_name": "YORK RD & HOLLEN sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "YORK RD & HOLLEN sb",
+            "onestopId": "s-dqcxbwymx1-york~hollensb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -6688,41 +6583,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.598421,
-                    39.352233
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5900",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5900",
-                        "stop_desc": "THE ALAMEDA at GLENWOOD AVE nb",
-                        "stop_id": "5900",
-                        "stop_lat": "39.352233",
-                        "stop_lon": "-76.598421",
-                        "stop_name": "THE ALAMEDA & GLENWOOD nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "THE ALAMEDA & GLENWOOD nb",
-            "onestopId": "s-dqcxbgyer7-thealameda~glenwoodnb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.630294,
                     39.344494
                 ],
@@ -6793,31 +6653,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.620272,
-                    39.334134
+                    -76.623036,
+                    39.335884
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10746",
+                    "identifier": "f-mtamaryland-s-4159",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10746",
-                        "stop_desc": "UNIVERSITY PKWY at CANTERBURY RD wb",
-                        "stop_id": "10746",
-                        "stop_lat": "39.334134",
-                        "stop_lon": "-76.620272",
-                        "stop_name": "UNIVERSITY  & CANTERBURY RD wb",
+                        "stop_code": "4159",
+                        "stop_desc": "UNIVERSITY PKWY at 39TH ST wb",
+                        "stop_id": "4159",
+                        "stop_lat": "39.335884",
+                        "stop_lon": "-76.623036",
+                        "stop_name": "UNIVERSITY & 39TH ST wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "UNIVERSITY  & CANTERBURY RD wb",
-            "onestopId": "s-dqcxb2wcfq-university~canterburywb",
+            "name": "UNIVERSITY & 39TH ST wb",
+            "onestopId": "s-dqcxb2uu1u-university~39thwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -6933,31 +6793,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.637978,
-                    39.338642
+                    -76.632694,
+                    39.334156
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5035",
+                    "identifier": "f-mtamaryland-s-5024",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5035",
+                        "stop_code": "5024",
                         "stop_desc": "",
-                        "stop_id": "5035",
-                        "stop_lat": "39.338642",
-                        "stop_lon": "-76.637978",
-                        "stop_name": "FALLS RD & 42ND ST nb",
+                        "stop_id": "5024",
+                        "stop_lat": "39.334156",
+                        "stop_lon": "-76.632694",
+                        "stop_name": "ROLAND AVE & 38TH ST nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "FALLS RD & 42ND ST nb",
-            "onestopId": "s-dqcxb13ujw-falls~42ndnb",
+            "name": "ROLAND AVE & 38TH ST nb",
+            "onestopId": "s-dqcxb0tf0f-roland~38thnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7038,6 +6898,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.609587,
+                    39.348836
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1647",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1647",
+                        "stop_desc": "",
+                        "stop_id": "1647",
+                        "stop_lat": "39.348836",
+                        "stop_lon": "-76.609587",
+                        "stop_name": "YORK RD & ROSSITER AVE nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "YORK RD & ROSSITER AVE nb",
+            "onestopId": "s-dqcxbenxe4-york~rossiternb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.609778,
                     39.365088
                 ],
@@ -7073,31 +6968,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.634309,
-                    39.364457
+                    -76.62827,
+                    39.33731
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6656",
+                    "identifier": "f-mtamaryland-s-4163",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6656",
-                        "stop_desc": "ROLAND AVE at ST GEORGES RD fs sb",
-                        "stop_id": "6656",
-                        "stop_lat": "39.364457",
-                        "stop_lon": "-76.634309",
-                        "stop_name": "ROLAND AVE & ST GEORGE RD fs sb",
+                        "stop_code": "4163",
+                        "stop_desc": "40TH ST at KESWICK RD wb",
+                        "stop_id": "4163",
+                        "stop_lat": "39.33731",
+                        "stop_lon": "-76.62827",
+                        "stop_name": "40TH ST & KESWICK AVE wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND AVE & ST GEORGE RD fs sb",
-            "onestopId": "s-dqcxbnhde4-roland~georgefssb",
+            "name": "40TH ST & KESWICK AVE wb",
+            "onestopId": "s-dqcxb30ury-40th~keswickwb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.622454,
+                    39.346464
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-2139",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2139",
+                        "stop_desc": "CHARLES ST at GOODALE RD opp sb",
+                        "stop_id": "2139",
+                        "stop_lat": "39.346464",
+                        "stop_lon": "-76.622454",
+                        "stop_name": "CHARLES ST & LOYOLA COLLEGE OP S/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "CHARLES ST & LOYOLA COLLEGE OP S/B",
+            "onestopId": "s-dqcxb6v1z2-charles~loyolacollegeops~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7143,6 +7073,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.603026,
+                    39.331524
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-11331",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "11331",
+                        "stop_desc": "",
+                        "stop_id": "11331",
+                        "stop_lat": "39.331524",
+                        "stop_lon": "-76.603026",
+                        "stop_name": "36TH ST & ELLERSLIE AVE fs eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "36TH ST & ELLERSLIE AVE fs eb",
+            "onestopId": "s-dqcxbb56sp-36th~ellersliefseb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.598868,
                     39.350575
                 ],
@@ -7178,31 +7143,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.630288,
-                    39.361796
+                    -76.609466,
+                    39.338467
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5987",
+                    "identifier": "f-mtamaryland-s-1640",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5987",
-                        "stop_desc": "W NORTHERN PKWY at UNNAMED ST",
-                        "stop_id": "5987",
-                        "stop_lat": "39.361796",
-                        "stop_lon": "-76.630288",
-                        "stop_name": "NORTHERN PKWY & BRYN MAWR SCHOOL fs wb",
+                        "stop_code": "1640",
+                        "stop_desc": "GREENMOUNT AVE at ROSE HILL TER nb",
+                        "stop_id": "1640",
+                        "stop_lat": "39.338467",
+                        "stop_lon": "-76.609466",
+                        "stop_name": "GREENMOUNT AVE & ROSEHILL nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NORTHERN PKWY & BRYN MAWR SCHOOL fs wb",
-            "onestopId": "s-dqcxbjxe0f-northern~brynmawrschoolfswb",
+            "name": "GREENMOUNT AVE & ROSEHILL nb",
+            "onestopId": "s-dqcxb9qenj-greenmount~rosehillnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7283,31 +7248,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.603026,
-                    39.331524
+                    -76.634954,
+                    39.342194
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-11331",
+                    "identifier": "f-mtamaryland-s-6674",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11331",
+                        "stop_code": "6674",
                         "stop_desc": "",
-                        "stop_id": "11331",
-                        "stop_lat": "39.331524",
-                        "stop_lon": "-76.603026",
-                        "stop_name": "36TH ST & ELLERSLIE AVE fs eb",
+                        "stop_id": "6674",
+                        "stop_lat": "39.342194",
+                        "stop_lon": "-76.634954",
+                        "stop_name": "ROLAND AVE OPP SOMERSET sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "36TH ST & ELLERSLIE AVE fs eb",
-            "onestopId": "s-dqcxbb56sp-36th~ellersliefseb",
+            "name": "ROLAND AVE OPP SOMERSET sb",
+            "onestopId": "s-dqcxb4h0uh-rolandoppsomersetsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7318,66 +7283,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.598092,
-                    39.354123
+                    -76.633015,
+                    39.337121
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5902",
+                    "identifier": "f-mtamaryland-s-4310",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5902",
-                        "stop_desc": "THE ALAMEDA at WOODBOURNE AVE nb",
-                        "stop_id": "5902",
-                        "stop_lat": "39.354123",
-                        "stop_lon": "-76.598092",
-                        "stop_name": "ALAMEDA & WOODBOURE nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "ALAMEDA & WOODBOURE nb",
-            "onestopId": "s-dqcxbunyrh-alameda~woodbourenb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.602309,
-                    39.366886
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5800",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5800",
+                        "stop_code": "4310",
                         "stop_desc": "",
-                        "stop_id": "5800",
-                        "stop_lat": "39.366886",
-                        "stop_lon": "-76.602309",
-                        "stop_name": "LAKE AVE & TUNSTALL RD eb",
+                        "stop_id": "4310",
+                        "stop_lat": "39.337121",
+                        "stop_lon": "-76.633015",
+                        "stop_name": "41ST ST & ROLAND AVE eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "LAKE AVE & TUNSTALL RD eb",
-            "onestopId": "s-dqcxbyebsz-lake~tunstalleb",
+            "name": "41ST ST & ROLAND AVE eb",
+            "onestopId": "s-dqcxb1je36-41st~rolandeb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7423,31 +7353,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.634287,
-                    39.365652
+                    -76.634962,
+                    39.343851
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6655",
+                    "identifier": "f-mtamaryland-s-4866",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6655",
-                        "stop_desc": "",
-                        "stop_id": "6655",
-                        "stop_lat": "39.365652",
-                        "stop_lon": "-76.634287",
-                        "stop_name": "ROLAND AVE & MELROSE AVE sb",
+                        "stop_code": "4866",
+                        "stop_desc": "COLD SPRING LN at ROLAND AVE fs eb",
+                        "stop_id": "4866",
+                        "stop_lat": "39.343851",
+                        "stop_lon": "-76.634962",
+                        "stop_name": "COLD SPRING & ROLAND AVE fs eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND AVE & MELROSE AVE sb",
-            "onestopId": "s-dqcxbnk9e9-roland~melrosesb",
+            "name": "COLD SPRING & ROLAND AVE fs eb",
+            "onestopId": "s-dqcxb4k4ec-coldspring~rolandfseb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7483,6 +7413,41 @@
             ],
             "name": "THE ALAMEDA & ARGONNE AVE sb",
             "onestopId": "s-dqcxbct7be-thealameda~argonnesb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.628476,
+                    39.339257
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-6676",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "6676",
+                        "stop_desc": "UNIVERSITY PKWY at KESWICK RD sb",
+                        "stop_id": "6676",
+                        "stop_lat": "39.339257",
+                        "stop_lon": "-76.628476",
+                        "stop_name": "UNIVERSITY & KESWICK sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "UNIVERSITY & KESWICK sb",
+            "onestopId": "s-dqcxb32zg1-university~keswicksb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7588,41 +7553,6 @@
             ],
             "name": "36TH ST & LOCH RAVEN BLVD wb",
             "onestopId": "s-dqcxbbp5hq-36th~lochravenwb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.622626,
-                    39.348365
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-2351",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2351",
-                        "stop_desc": "",
-                        "stop_id": "2351",
-                        "stop_lat": "39.348365",
-                        "stop_lon": "-76.622626",
-                        "stop_name": "CHARLES ST & EVERGREEN HOUSE nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "CHARLES ST & EVERGREEN HOUSE nb",
-            "onestopId": "s-dqcxb7jhg6-charles~evergreenhousenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7843,66 +7773,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.624705,
-                    39.359487
+                    -76.639946,
+                    39.34304
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-12401",
+                    "identifier": "f-mtamaryland-s-5596",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "12401",
-                        "stop_desc": "CHARLES ST at AMBERLY WAY sb",
-                        "stop_id": "12401",
-                        "stop_lat": "39.359487",
-                        "stop_lon": "-76.624705",
-                        "stop_name": "CHARLES ST & AMBERLY WAY SB",
+                        "stop_code": "5596",
+                        "stop_desc": "COLD SPRING LN at FALLS RD fs eb",
+                        "stop_id": "5596",
+                        "stop_lat": "39.34304",
+                        "stop_lon": "-76.639946",
+                        "stop_name": "COLD SPRING & FALLS f/s  eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CHARLES ST & AMBERLY WAY SB",
-            "onestopId": "s-dqcxbm5tdu-charles~amberlysb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.624571,
-                    39.359413
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-2359",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "2359",
-                        "stop_desc": "CHARLES ST at ST DUNSTANS RD nb",
-                        "stop_id": "2359",
-                        "stop_lat": "39.359413",
-                        "stop_lon": "-76.624571",
-                        "stop_name": "CHARLES ST & ST. DUNSTANS N/B",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "CHARLES ST & ST. DUNSTANS N/B",
-            "onestopId": "s-dqcxbm5tnn-charles~dunstansn~b",
+            "name": "COLD SPRING & FALLS f/s  eb",
+            "onestopId": "s-dqcxb40mzf-coldspring~fallsf~seb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -7948,31 +7843,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609658,
-                    39.348009
+                    -76.622077,
+                    39.345436
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1561",
+                    "identifier": "f-mtamaryland-s-2349",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1561",
-                        "stop_desc": "",
-                        "stop_id": "1561",
-                        "stop_lat": "39.348009",
-                        "stop_lon": "-76.609658",
-                        "stop_name": "YORK RD & RADNOR RD sb",
+                        "stop_code": "2349",
+                        "stop_desc": "CHARLES ST at COLD SPRING LN fs nb",
+                        "stop_id": "2349",
+                        "stop_lat": "39.345436",
+                        "stop_lon": "-76.622077",
+                        "stop_name": "CHARLES ST & COLD SPRING fs nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & RADNOR RD sb",
-            "onestopId": "s-dqcxbendc8-york~radnorsb",
+            "name": "CHARLES ST & COLD SPRING fs nb",
+            "onestopId": "s-dqcxb6teb0-charles~coldspringfsnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8018,31 +7913,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.627146,
-                    39.337376
+                    -76.624571,
+                    39.359413
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4162",
+                    "identifier": "f-mtamaryland-s-2359",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4162",
-                        "stop_desc": "",
-                        "stop_id": "4162",
-                        "stop_lat": "39.337376",
-                        "stop_lon": "-76.627146",
-                        "stop_name": "40TH ST & BEECH AVE opp wb",
+                        "stop_code": "2359",
+                        "stop_desc": "CHARLES ST at ST DUNSTANS RD nb",
+                        "stop_id": "2359",
+                        "stop_lat": "39.359413",
+                        "stop_lon": "-76.624571",
+                        "stop_name": "CHARLES ST & ST. DUNSTANS N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "40TH ST & BEECH AVE opp wb",
-            "onestopId": "s-dqcxb31uf4-40th~beechoppwb",
+            "name": "CHARLES ST & ST. DUNSTANS N/B",
+            "onestopId": "s-dqcxbm5tnn-charles~dunstansn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8053,66 +7948,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.601112,
-                    39.331513
+                    -76.598421,
+                    39.352233
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-11332",
+                    "identifier": "f-mtamaryland-s-5900",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "11332",
-                        "stop_desc": "",
-                        "stop_id": "11332",
-                        "stop_lat": "39.331513",
-                        "stop_lon": "-76.601112",
-                        "stop_name": "36TH ST & KIMBLE RD opp eb",
+                        "stop_code": "5900",
+                        "stop_desc": "THE ALAMEDA at GLENWOOD AVE nb",
+                        "stop_id": "5900",
+                        "stop_lat": "39.352233",
+                        "stop_lon": "-76.598421",
+                        "stop_name": "THE ALAMEDA & GLENWOOD nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "36TH ST & KIMBLE RD opp eb",
-            "onestopId": "s-dqcxbbhf8t-36th~kimbleoppeb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.639649,
-                    39.341818
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5037",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5037",
-                        "stop_desc": "FALLS RD at WOODHEIGHTS AVE nb",
-                        "stop_id": "5037",
-                        "stop_lat": "39.341818",
-                        "stop_lon": "-76.639649",
-                        "stop_name": "FALLS RD & WOOD HGTS AV nb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "FALLS RD & WOOD HGTS AV nb",
-            "onestopId": "s-dqcxb1bwww-falls~woodhgtsnb",
+            "name": "THE ALAMEDA & GLENWOOD nb",
+            "onestopId": "s-dqcxbgyer7-thealameda~glenwoodnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8158,31 +8018,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.635428,
-                    39.343993
+                    -76.598092,
+                    39.354123
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6667",
+                    "identifier": "f-mtamaryland-s-5902",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6667",
-                        "stop_desc": "ROLAND AVE at COLD SPRING LN sb",
-                        "stop_id": "6667",
-                        "stop_lat": "39.343993",
-                        "stop_lon": "-76.635428",
-                        "stop_name": "ROLAND AVE & COLDSPRING LN",
+                        "stop_code": "5902",
+                        "stop_desc": "THE ALAMEDA at WOODBOURNE AVE nb",
+                        "stop_id": "5902",
+                        "stop_lat": "39.354123",
+                        "stop_lon": "-76.598092",
+                        "stop_name": "ALAMEDA & WOODBOURE nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND AVE & COLDSPRING LN",
-            "onestopId": "s-dqcxb47g35-roland~coldspring",
+            "name": "ALAMEDA & WOODBOURE nb",
+            "onestopId": "s-dqcxbunyrh-alameda~woodbourenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8218,6 +8078,41 @@
             ],
             "name": "ROLAND AVE & BEECHDALE sb",
             "onestopId": "s-dqcxbhhb41-roland~beechdalesb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.61853,
+                    39.341091
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-2346",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "2346",
+                        "stop_desc": "",
+                        "stop_id": "2346",
+                        "stop_lat": "39.341091",
+                        "stop_lon": "-76.61853",
+                        "stop_name": "ST PAUL ST & CHARLCOTE RD nb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "ST PAUL ST & CHARLCOTE RD nb",
+            "onestopId": "s-dqcxb9b46y-paul~charlcotenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8298,31 +8193,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.640094,
-                    39.343302
+                    -76.639649,
+                    39.341818
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5030",
+                    "identifier": "f-mtamaryland-s-5037",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5030",
-                        "stop_desc": "COLD SPRING LN at FALLS RD wb",
-                        "stop_id": "5030",
-                        "stop_lat": "39.343302",
-                        "stop_lon": "-76.640094",
-                        "stop_name": "COLD SPRING LA & FALLS FD WB",
+                        "stop_code": "5037",
+                        "stop_desc": "FALLS RD at WOODHEIGHTS AVE nb",
+                        "stop_id": "5037",
+                        "stop_lat": "39.341818",
+                        "stop_lon": "-76.639649",
+                        "stop_name": "FALLS RD & WOOD HGTS AV nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "COLD SPRING LA & FALLS FD WB",
-            "onestopId": "s-dqcxb40rk7-coldspringla~fallsfdwb",
+            "name": "FALLS RD & WOOD HGTS AV nb",
+            "onestopId": "s-dqcxb1bwww-falls~woodhgtsnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.609912,
+                    39.360648
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1553",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1553",
+                        "stop_desc": "",
+                        "stop_id": "1553",
+                        "stop_lat": "39.360648",
+                        "stop_lon": "-76.609912",
+                        "stop_name": "YORK RD & LORTZ LN sb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "YORK RD & LORTZ LN sb",
+            "onestopId": "s-dqcxbtqk7s-york~lortzsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8368,31 +8298,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609915,
-                    39.364107
+                    -76.635995,
+                    39.347547
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10693",
+                    "identifier": "f-mtamaryland-s-6665",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10693",
+                        "stop_code": "6665",
                         "stop_desc": "",
-                        "stop_id": "10693",
-                        "stop_lat": "39.364107",
-                        "stop_lon": "-76.609915",
-                        "stop_name": "YORK RD & BELVEDERE AVE sb",
+                        "stop_id": "6665",
+                        "stop_lat": "39.347547",
+                        "stop_lon": "-76.635995",
+                        "stop_name": "ROLAND AVE & OAKDALE RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & BELVEDERE AVE sb",
-            "onestopId": "s-dqcxbwn2e9-york~belvederesb",
+            "name": "ROLAND AVE & OAKDALE RD sb",
+            "onestopId": "s-dqcxb5525f-roland~oakdalesb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8508,31 +8438,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.635204,
-                    39.358206
+                    -76.620414,
+                    39.363012
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-6659",
+                    "identifier": "f-mtamaryland-s-5983",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "6659",
-                        "stop_desc": "ROLAND AVE at SCHOOL DRIVEWAY sb",
-                        "stop_id": "6659",
-                        "stop_lat": "39.358206",
-                        "stop_lon": "-76.635204",
-                        "stop_name": "ROLAND PK. SCH.DRIVEWAY sb",
+                        "stop_code": "5983",
+                        "stop_desc": "",
+                        "stop_id": "5983",
+                        "stop_lat": "39.363012",
+                        "stop_lon": "-76.620414",
+                        "stop_name": "NORTHERN PKWY & ST ALBANS WAY wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ROLAND PK. SCH.DRIVEWAY sb",
-            "onestopId": "s-dqcxbhgynm-rolandpkschdrivewaysb",
+            "name": "NORTHERN PKWY & ST ALBANS WAY wb",
+            "onestopId": "s-dqcxbmydnv-northern~albanswb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8613,6 +8543,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.63726,
+                    39.337577
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-4308",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "4308",
+                        "stop_desc": "",
+                        "stop_id": "4308",
+                        "stop_lat": "39.337577",
+                        "stop_lon": "-76.63726",
+                        "stop_name": "41ST ST & FALLS RD eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "41ST ST & FALLS RD eb",
+            "onestopId": "s-dqcxb14myr-41st~fallseb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.600189,
                     39.340133
                 ],
@@ -8638,6 +8603,41 @@
             ],
             "name": "THE ALAMEDA & ARGONNE FS nb",
             "onestopId": "s-dqcxbctkyh-thealameda~argonnefsnb",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.640437,
+                    39.332045
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-10494",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "10494",
+                        "stop_desc": "",
+                        "stop_id": "10494",
+                        "stop_lat": "39.332045",
+                        "stop_lon": "-76.640437",
+                        "stop_name": "UNION AVE. & ASH ST fs eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "UNION AVE. & ASH ST fs eb",
+            "onestopId": "s-dqcxb00ju2-union~ashfseb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8718,31 +8718,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.618154,
-                    39.370232
+                    -76.632179,
+                    39.340399
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2373",
+                    "identifier": "f-mtamaryland-s-6708",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2373",
-                        "stop_desc": "BELLONA AVE at HOLLEN RD fs nb",
-                        "stop_id": "2373",
-                        "stop_lat": "39.370232",
-                        "stop_lon": "-76.618154",
-                        "stop_name": "BELLONA AVE & HOLLEN RD FS N/B",
+                        "stop_code": "6708",
+                        "stop_desc": "UNIVERSITY PKWY at OVERHILL RD nb",
+                        "stop_id": "6708",
+                        "stop_lat": "39.340399",
+                        "stop_lon": "-76.632179",
+                        "stop_name": "UNIVERSITY & OVERHILL nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "BELLONA AVE & HOLLEN RD FS N/B",
-            "onestopId": "s-dqcxbx0k5x-bellona~hollenfsn~b",
+            "name": "UNIVERSITY & OVERHILL nb",
+            "onestopId": "s-dqcxb1wnkv-university~overhillnb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8788,31 +8788,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.637176,
-                    39.337558
+                    -76.630684,
+                    39.337073
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5034",
+                    "identifier": "f-mtamaryland-s-4311",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5034",
+                        "stop_code": "4311",
                         "stop_desc": "",
-                        "stop_id": "5034",
-                        "stop_lat": "39.337558",
-                        "stop_lon": "-76.637176",
-                        "stop_name": "FALLS RD & 41ST ST nb",
+                        "stop_id": "4311",
+                        "stop_lat": "39.337073",
+                        "stop_lon": "-76.630684",
+                        "stop_name": "40TH ST & ROTUNDA MALL DR eb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "FALLS RD & 41ST ST nb",
-            "onestopId": "s-dqcxb14tbk-falls~41stnb",
+            "name": "40TH ST & ROTUNDA MALL DR eb",
+            "onestopId": "s-dqcxb1p5p9-40th~rotundamalleb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -8963,41 +8963,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.62826,
-                    39.344788
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-5657",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "5657",
-                        "stop_desc": "COLD SPRING LN at WILMSLOW RD wb",
-                        "stop_id": "5657",
-                        "stop_lat": "39.344788",
-                        "stop_lon": "-76.62826",
-                        "stop_name": "COLD SPRING & WILMSLOW RD wb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "COLD SPRING & WILMSLOW RD wb",
-            "onestopId": "s-dqcxb69000-coldspring~wilmslowwb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -76.609952,
                     39.364917
                 ],
@@ -9023,6 +8988,41 @@
             ],
             "name": "NORTHERN PKWY & YORK E/B",
             "onestopId": "s-dqcxbwnm68-northern~yorke~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.602309,
+                    39.366886
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-5800",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "5800",
+                        "stop_desc": "",
+                        "stop_id": "5800",
+                        "stop_lat": "39.366886",
+                        "stop_lon": "-76.602309",
+                        "stop_name": "LAKE AVE & TUNSTALL RD eb",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "LAKE AVE & TUNSTALL RD eb",
+            "onestopId": "s-dqcxbyebsz-lake~tunstalleb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9103,31 +9103,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.628183,
-                    39.335285
+                    -76.634296,
+                    39.367727
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-10498",
+                    "identifier": "f-mtamaryland-s-6654",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "10498",
-                        "stop_desc": "KESWICK RD at 39TH ST opp sb",
-                        "stop_id": "10498",
-                        "stop_lat": "39.335285",
-                        "stop_lon": "-76.628183",
-                        "stop_name": "KESWICK RD & 39TH ST. opp sb",
+                        "stop_code": "6654",
+                        "stop_desc": "ROLAND AVE at DROHOMER PL",
+                        "stop_id": "6654",
+                        "stop_lat": "39.367727",
+                        "stop_lon": "-76.634296",
+                        "stop_name": "ROLAND AVE & BELLMORE RD fs sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "KESWICK RD & 39TH ST. opp sb",
-            "onestopId": "s-dqcxb2c09u-keswick~39thoppsb",
+            "name": "ROLAND AVE & BELLMORE RD fs sb",
+            "onestopId": "s-dqcxbnstek-roland~bellmorefssb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9278,6 +9278,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -76.627386,
+                    39.361711
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-mtamaryland-s-1546",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "1546",
+                        "stop_desc": "NORTHERN PKWY at BOXHILL LN eb",
+                        "stop_id": "1546",
+                        "stop_lat": "39.361711",
+                        "stop_lon": "-76.627386",
+                        "stop_name": "NORTHERN PKWY & BOXHILL E/B",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NORTHERN PKWY & BOXHILL E/B",
+            "onestopId": "s-dqcxbm9ds6-northern~boxhille~b",
+            "properties": {},
+            "servedBy": [
+                "o-dqc-marylandtransitadministration"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -76.62803,
                     39.332969
                 ],
@@ -9348,31 +9383,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.604269,
-                    39.336959
+                    -76.620272,
+                    39.334134
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5888",
+                    "identifier": "f-mtamaryland-s-10746",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5888",
-                        "stop_desc": "",
-                        "stop_id": "5888",
-                        "stop_lat": "39.336959",
-                        "stop_lon": "-76.604269",
-                        "stop_name": "ARGONNE DR & WILSBY AVE eb",
+                        "stop_code": "10746",
+                        "stop_desc": "UNIVERSITY PKWY at CANTERBURY RD wb",
+                        "stop_id": "10746",
+                        "stop_lat": "39.334134",
+                        "stop_lon": "-76.620272",
+                        "stop_name": "UNIVERSITY  & CANTERBURY RD wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "ARGONNE DR & WILSBY AVE eb",
-            "onestopId": "s-dqcxbc46rh-argonne~wilsbyeb",
+            "name": "UNIVERSITY  & CANTERBURY RD wb",
+            "onestopId": "s-dqcxb2wcfq-university~canterburywb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9453,31 +9488,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.61889,
-                    39.333187
+                    -76.617248,
+                    39.36656
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-4157",
+                    "identifier": "f-mtamaryland-s-2371",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "4157",
-                        "stop_desc": "UNIVERSITY PKWY at BISHOPS RD wb",
-                        "stop_id": "4157",
-                        "stop_lat": "39.333187",
-                        "stop_lon": "-76.61889",
-                        "stop_name": "UNIVERSITY & BISHOPS RD wb",
+                        "stop_code": "2371",
+                        "stop_desc": "",
+                        "stop_id": "2371",
+                        "stop_lat": "39.36656",
+                        "stop_lon": "-76.617248",
+                        "stop_name": "BELLONA AVE & MELROSE AVE nb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "UNIVERSITY & BISHOPS RD wb",
-            "onestopId": "s-dqcxb2ru6m-university~bishopswb",
+            "name": "BELLONA AVE & MELROSE AVE nb",
+            "onestopId": "s-dqcxbw3nbd-bellona~melrosenb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9593,31 +9628,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.622077,
-                    39.345436
+                    -76.609658,
+                    39.348009
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-2349",
+                    "identifier": "f-mtamaryland-s-1561",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "2349",
-                        "stop_desc": "CHARLES ST at COLD SPRING LN fs nb",
-                        "stop_id": "2349",
-                        "stop_lat": "39.345436",
-                        "stop_lon": "-76.622077",
-                        "stop_name": "CHARLES ST & COLD SPRING fs nb",
+                        "stop_code": "1561",
+                        "stop_desc": "",
+                        "stop_id": "1561",
+                        "stop_lat": "39.348009",
+                        "stop_lon": "-76.609658",
+                        "stop_name": "YORK RD & RADNOR RD sb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "CHARLES ST & COLD SPRING fs nb",
-            "onestopId": "s-dqcxb6teb0-charles~coldspringfsnb",
+            "name": "YORK RD & RADNOR RD sb",
+            "onestopId": "s-dqcxbendc8-york~radnorsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9698,31 +9733,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.620414,
-                    39.363012
+                    -76.627146,
+                    39.337376
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-5983",
+                    "identifier": "f-mtamaryland-s-4162",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "5983",
+                        "stop_code": "4162",
                         "stop_desc": "",
-                        "stop_id": "5983",
-                        "stop_lat": "39.363012",
-                        "stop_lon": "-76.620414",
-                        "stop_name": "NORTHERN PKWY & ST ALBANS WAY wb",
+                        "stop_id": "4162",
+                        "stop_lat": "39.337376",
+                        "stop_lon": "-76.627146",
+                        "stop_name": "40TH ST & BEECH AVE opp wb",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NORTHERN PKWY & ST ALBANS WAY wb",
-            "onestopId": "s-dqcxbmydnv-northern~albanswb",
+            "name": "40TH ST & BEECH AVE opp wb",
+            "onestopId": "s-dqcxb31uf4-40th~beechoppwb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9768,31 +9803,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -76.609912,
-                    39.360648
+                    -76.618154,
+                    39.370232
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-mtamaryland-s-1553",
+                    "identifier": "f-mtamaryland-s-2373",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "1553",
-                        "stop_desc": "",
-                        "stop_id": "1553",
-                        "stop_lat": "39.360648",
-                        "stop_lon": "-76.609912",
-                        "stop_name": "YORK RD & LORTZ LN sb",
+                        "stop_code": "2373",
+                        "stop_desc": "BELLONA AVE at HOLLEN RD fs nb",
+                        "stop_id": "2373",
+                        "stop_lat": "39.370232",
+                        "stop_lon": "-76.618154",
+                        "stop_name": "BELLONA AVE & HOLLEN RD FS N/B",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "YORK RD & LORTZ LN sb",
-            "onestopId": "s-dqcxbtqk7s-york~lortzsb",
+            "name": "BELLONA AVE & HOLLEN RD FS N/B",
+            "onestopId": "s-dqcxbx0k5x-bellona~hollenfsn~b",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"
@@ -9828,41 +9863,6 @@
             ],
             "name": "CHARLES ST & COLDSPRING LA sb",
             "onestopId": "s-dqcxb6t6u9-charles~coldspringlasb",
-            "properties": {},
-            "servedBy": [
-                "o-dqc-marylandtransitadministration"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.609871,
-                    39.365089
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-mtamaryland-s-1539",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "1539",
-                        "stop_desc": "",
-                        "stop_id": "1539",
-                        "stop_lat": "39.365089",
-                        "stop_lon": "-76.609871",
-                        "stop_name": "YORK RD & NORTHERN PKWY sb",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "YORK RD & NORTHERN PKWY sb",
-            "onestopId": "s-dqcxbwnqk8-york~northernsb",
             "properties": {},
             "servedBy": [
                 "o-dqc-marylandtransitadministration"

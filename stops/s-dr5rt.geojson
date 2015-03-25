@@ -10,7 +10,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G30N",
+                    "identifier": "f-nyctsubway-s-G30N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G30",
@@ -25,7 +25,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G30S",
+                    "identifier": "f-nyctsubway-s-G30S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G30",
@@ -59,7 +59,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L16N",
+                    "identifier": "f-nyctsubway-s-L16N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L16",
@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L16S",
+                    "identifier": "f-nyctsubway-s-L16S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L16",
@@ -101,45 +101,45 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.922913,
-                    40.706607
+                    -73.957757,
+                    40.708359
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L15N",
+                    "identifier": "f-nyctsubway-s-M16N",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "L15",
+                        "parent_station": "M16",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "L15N",
-                        "stop_lat": "40.706607",
-                        "stop_lon": "-73.922913",
-                        "stop_name": "Jefferson St",
+                        "stop_id": "M16N",
+                        "stop_lat": "40.708359",
+                        "stop_lon": "-73.957757",
+                        "stop_name": "Marcy Av",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L15S",
+                    "identifier": "f-nyctsubway-s-M16S",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "L15",
+                        "parent_station": "M16",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "L15S",
-                        "stop_lat": "40.706607",
-                        "stop_lon": "-73.922913",
-                        "stop_name": "Jefferson St",
+                        "stop_id": "M16S",
+                        "stop_lat": "40.708359",
+                        "stop_lon": "-73.957757",
+                        "stop_name": "Marcy Av",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Jefferson St",
-            "onestopId": "s-dr5rtf6vpm-jefferson",
+            "name": "Marcy Av",
+            "onestopId": "s-dr5rt49x7k-marcy",
             "properties": {},
             "servedBy": [
                 "o-dr5r-mtanewyorkcitytransit"
@@ -157,7 +157,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L08N",
+                    "identifier": "f-nyctsubway-s-L08N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L08",
@@ -172,7 +172,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L08S",
+                    "identifier": "f-nyctsubway-s-L08S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L08",
@@ -199,6 +199,153 @@
         {
             "geometry": {
                 "coordinates": [
+                    -73.927397,
+                    40.697857
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-M10N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "M10",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "M10N",
+                        "stop_lat": "40.697857",
+                        "stop_lon": "-73.927397",
+                        "stop_name": "Central Av",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-M10S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "M10",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "M10S",
+                        "stop_lat": "40.697857",
+                        "stop_lon": "-73.927397",
+                        "stop_name": "Central Av",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Central Av",
+            "onestopId": "s-dr5rt8zdny-central",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.922913,
+                    40.706607
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-L15N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "L15",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "L15N",
+                        "stop_lat": "40.706607",
+                        "stop_lon": "-73.922913",
+                        "stop_name": "Jefferson St",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-L15S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "L15",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "L15S",
+                        "stop_lat": "40.706607",
+                        "stop_lon": "-73.922913",
+                        "stop_name": "Jefferson St",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Jefferson St",
+            "onestopId": "s-dr5rtf6vpm-jefferson",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.93985,
+                    40.707739
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-L13S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "L13",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "L13S",
+                        "stop_lat": "40.707739",
+                        "stop_lon": "-73.93985",
+                        "stop_name": "Montrose Av",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-L13N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "L13",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "L13N",
+                        "stop_lat": "40.707739",
+                        "stop_lon": "-73.93985",
+                        "stop_name": "Montrose Av",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Montrose Av",
+            "onestopId": "s-dr5rt6weu8-montrose",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -73.951418,
                     40.712792
                 ],
@@ -206,7 +353,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G29N",
+                    "identifier": "f-nyctsubway-s-G29N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G29",
@@ -221,7 +368,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G29S",
+                    "identifier": "f-nyctsubway-s-G29S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G29",
@@ -248,202 +395,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.919711,
-                    40.698664
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-M09N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "M09",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "M09N",
-                        "stop_lat": "40.698664",
-                        "stop_lon": "-73.919711",
-                        "stop_name": "Knickerbocker Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-M09S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "M09",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "M09S",
-                        "stop_lat": "40.698664",
-                        "stop_lon": "-73.919711",
-                        "stop_name": "Knickerbocker Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Knickerbocker Av",
-            "onestopId": "s-dr5rtbvqcu-knickerbocker",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.957757,
-                    40.708359
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-M16S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "M16",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "M16S",
-                        "stop_lat": "40.708359",
-                        "stop_lon": "-73.957757",
-                        "stop_name": "Marcy Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-M16N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "M16",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "M16N",
-                        "stop_lat": "40.708359",
-                        "stop_lon": "-73.957757",
-                        "stop_name": "Marcy Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Marcy Av",
-            "onestopId": "s-dr5rt49x7k-marcy",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.93985,
-                    40.707739
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-L13N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "L13",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "L13N",
-                        "stop_lat": "40.707739",
-                        "stop_lon": "-73.93985",
-                        "stop_name": "Montrose Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-L13S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "L13",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "L13S",
-                        "stop_lat": "40.707739",
-                        "stop_lon": "-73.93985",
-                        "stop_name": "Montrose Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Montrose Av",
-            "onestopId": "s-dr5rt6weu8-montrose",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.941126,
-                    40.70026
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-cnyctsubway-s-M12N",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "M12",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "M12N",
-                        "stop_lat": "40.70026",
-                        "stop_lon": "-73.941126",
-                        "stop_name": "Flushing Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                },
-                {
-                    "identifier": "f-cnyctsubway-s-M12S",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "M12",
-                        "stop_code": "",
-                        "stop_desc": "",
-                        "stop_id": "M12S",
-                        "stop_lat": "40.70026",
-                        "stop_lon": "-73.941126",
-                        "stop_name": "Flushing Av",
-                        "stop_url": "",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "Flushing Av",
-            "onestopId": "s-dr5rt3m8ny-flushing",
-            "properties": {},
-            "servedBy": [
-                "o-dr5r-mtanewyorkcitytransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -73.944053,
                     40.714565
                 ],
@@ -451,7 +402,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L11N",
+                    "identifier": "f-nyctsubway-s-L11N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L11",
@@ -466,7 +417,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L11S",
+                    "identifier": "f-nyctsubway-s-L11S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L11",
@@ -500,13 +451,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-M13N",
+                    "identifier": "f-nyctsubway-s-M13S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "M13",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M13N",
+                        "stop_id": "M13S",
                         "stop_lat": "40.703869",
                         "stop_lon": "-73.947408",
                         "stop_name": "Lorimer St",
@@ -515,13 +466,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-M13S",
+                    "identifier": "f-nyctsubway-s-M13N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "M13",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M13S",
+                        "stop_id": "M13N",
                         "stop_lat": "40.703869",
                         "stop_lon": "-73.947408",
                         "stop_name": "Lorimer St",
@@ -549,13 +500,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G31S",
+                    "identifier": "f-nyctsubway-s-G31N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G31",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G31S",
+                        "stop_id": "G31N",
                         "stop_lat": "40.700377",
                         "stop_lon": "-73.950234",
                         "stop_name": "Flushing Av",
@@ -564,13 +515,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G31N",
+                    "identifier": "f-nyctsubway-s-G31S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G31",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G31N",
+                        "stop_id": "G31S",
                         "stop_lat": "40.700377",
                         "stop_lon": "-73.950234",
                         "stop_name": "Flushing Av",
@@ -591,45 +542,45 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.951277,
-                    40.724635
+                    -73.941126,
+                    40.70026
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G28S",
+                    "identifier": "f-nyctsubway-s-M12S",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "G28",
+                        "parent_station": "M12",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G28S",
-                        "stop_lat": "40.724635",
-                        "stop_lon": "-73.951277",
-                        "stop_name": "Nassau Av",
+                        "stop_id": "M12S",
+                        "stop_lat": "40.70026",
+                        "stop_lon": "-73.941126",
+                        "stop_name": "Flushing Av",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G28N",
+                    "identifier": "f-nyctsubway-s-M12N",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "G28",
+                        "parent_station": "M12",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G28N",
-                        "stop_lat": "40.724635",
-                        "stop_lon": "-73.951277",
-                        "stop_name": "Nassau Av",
+                        "stop_id": "M12N",
+                        "stop_lat": "40.70026",
+                        "stop_lon": "-73.941126",
+                        "stop_name": "Flushing Av",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Nassau Av",
-            "onestopId": "s-dr5rtjwq4q-nassau",
+            "name": "Flushing Av",
+            "onestopId": "s-dr5rt3m8ny-flushing",
             "properties": {},
             "servedBy": [
                 "o-dr5r-mtanewyorkcitytransit"
@@ -647,7 +598,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G26S",
+                    "identifier": "f-nyctsubway-s-G26S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G26",
@@ -662,7 +613,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G26N",
+                    "identifier": "f-nyctsubway-s-G26N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G26",
@@ -696,13 +647,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-M11N",
+                    "identifier": "f-nyctsubway-s-M11S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "M11",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M11N",
+                        "stop_id": "M11S",
                         "stop_lat": "40.697207",
                         "stop_lon": "-73.935657",
                         "stop_name": "Myrtle Av",
@@ -711,13 +662,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-M11S",
+                    "identifier": "f-nyctsubway-s-M11N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "M11",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M11S",
+                        "stop_id": "M11N",
                         "stop_lat": "40.697207",
                         "stop_lon": "-73.935657",
                         "stop_name": "Myrtle Av",
@@ -745,7 +696,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L10N",
+                    "identifier": "f-nyctsubway-s-L10N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L10",
@@ -760,7 +711,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L10S",
+                    "identifier": "f-nyctsubway-s-L10S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L10",
@@ -794,13 +745,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-G32N",
+                    "identifier": "f-nyctsubway-s-G32S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G32",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G32N",
+                        "stop_id": "G32S",
                         "stop_lat": "40.694568",
                         "stop_lon": "-73.949046",
                         "stop_name": "Myrtle - Willoughby Avs",
@@ -809,13 +760,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-G32S",
+                    "identifier": "f-nyctsubway-s-G32N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "G32",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "G32S",
+                        "stop_id": "G32N",
                         "stop_lat": "40.694568",
                         "stop_lon": "-73.949046",
                         "stop_name": "Myrtle - Willoughby Avs",
@@ -843,7 +794,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L12N",
+                    "identifier": "f-nyctsubway-s-L12N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L12",
@@ -858,7 +809,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L12S",
+                    "identifier": "f-nyctsubway-s-L12S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L12",
@@ -892,13 +843,13 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-M14N",
+                    "identifier": "f-nyctsubway-s-M14S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "M14",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M14N",
+                        "stop_id": "M14S",
                         "stop_lat": "40.70687",
                         "stop_lon": "-73.953431",
                         "stop_name": "Hewes St",
@@ -907,13 +858,13 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-M14S",
+                    "identifier": "f-nyctsubway-s-M14N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "M14",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M14S",
+                        "stop_id": "M14N",
                         "stop_lat": "40.70687",
                         "stop_lon": "-73.953431",
                         "stop_name": "Hewes St",
@@ -934,45 +885,45 @@
         {
             "geometry": {
                 "coordinates": [
-                    -73.927397,
-                    40.697857
+                    -73.919711,
+                    40.698664
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-M10N",
+                    "identifier": "f-nyctsubway-s-M09N",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "M10",
+                        "parent_station": "M09",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M10N",
-                        "stop_lat": "40.697857",
-                        "stop_lon": "-73.927397",
-                        "stop_name": "Central Av",
+                        "stop_id": "M09N",
+                        "stop_lat": "40.698664",
+                        "stop_lon": "-73.919711",
+                        "stop_name": "Knickerbocker Av",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-M10S",
+                    "identifier": "f-nyctsubway-s-M09S",
                     "tags": {
                         "location_type": "0",
-                        "parent_station": "M10",
+                        "parent_station": "M09",
                         "stop_code": "",
                         "stop_desc": "",
-                        "stop_id": "M10S",
-                        "stop_lat": "40.697857",
-                        "stop_lon": "-73.927397",
-                        "stop_name": "Central Av",
+                        "stop_id": "M09S",
+                        "stop_lat": "40.698664",
+                        "stop_lon": "-73.919711",
+                        "stop_name": "Knickerbocker Av",
                         "stop_url": "",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "Central Av",
-            "onestopId": "s-dr5rt8zdny-central",
+            "name": "Knickerbocker Av",
+            "onestopId": "s-dr5rtbvqcu-knickerbocker",
             "properties": {},
             "servedBy": [
                 "o-dr5r-mtanewyorkcitytransit"
@@ -990,7 +941,7 @@
             },
             "identifiers": [
                 {
-                    "identifier": "f-cnyctsubway-s-L14S",
+                    "identifier": "f-nyctsubway-s-L14S",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L14",
@@ -1005,7 +956,7 @@
                     }
                 },
                 {
-                    "identifier": "f-cnyctsubway-s-L14N",
+                    "identifier": "f-nyctsubway-s-L14N",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "L14",
@@ -1022,6 +973,55 @@
             ],
             "name": "Morgan Av",
             "onestopId": "s-dr5rtd7d8b-morgan",
+            "properties": {},
+            "servedBy": [
+                "o-dr5r-mtanewyorkcitytransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.951277,
+                    40.724635
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-nyctsubway-s-G28S",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "G28",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "G28S",
+                        "stop_lat": "40.724635",
+                        "stop_lon": "-73.951277",
+                        "stop_name": "Nassau Av",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                },
+                {
+                    "identifier": "f-nyctsubway-s-G28N",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "G28",
+                        "stop_code": "",
+                        "stop_desc": "",
+                        "stop_id": "G28N",
+                        "stop_lat": "40.724635",
+                        "stop_lon": "-73.951277",
+                        "stop_name": "Nassau Av",
+                        "stop_url": "",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "Nassau Av",
+            "onestopId": "s-dr5rtjwq4q-nassau",
             "properties": {},
             "servedBy": [
                 "o-dr5r-mtanewyorkcitytransit"

@@ -3,41 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.269883,
-                    25.954247
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6338",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D42V1991",
-                        "stop_desc": "",
-                        "stop_id": "6338",
-                        "stop_lat": "25.954247",
-                        "stop_lon": "-80.269883",
-                        "stop_name": "NW 42 AV@NW 199 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 42 AV@NW 199 ST",
-            "onestopId": "s-dhwgtkv62n-nw42~nw199",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.267269,
                     25.954677
                 ],
@@ -63,6 +28,41 @@
             ],
             "name": "NW 199 ST@NW 39 CT",
             "onestopId": "s-dhwgtkzhvn-nw199~nw39",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.269883,
+                    25.954247
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6338",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D42V1991",
+                        "stop_desc": "",
+                        "stop_id": "6338",
+                        "stop_lat": "25.954247",
+                        "stop_lon": "-80.269883",
+                        "stop_name": "NW 42 AV@NW 199 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 42 AV@NW 199 ST",
+            "onestopId": "s-dhwgtkv62n-nw42~nw199",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -143,66 +143,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.245307,
-                    25.944035
+                    -80.253008,
+                    25.929696
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6253",
+                    "identifier": "f-miamidade-s-233",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D27V1861",
+                        "stop_code": "171S32AS",
                         "stop_desc": "",
-                        "stop_id": "6253",
-                        "stop_lat": "25.944035",
-                        "stop_lon": "-80.245307",
-                        "stop_name": "NW 27 AV@# 18601",
+                        "stop_id": "233",
+                        "stop_lat": "25.929696",
+                        "stop_lon": "-80.253008",
+                        "stop_name": "NW 171 ST@NW 32 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@# 18601",
-            "onestopId": "s-dhwgtfznuy-nw27~18601",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.248205,
-                    25.955229
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6562",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D19927C5",
-                        "stop_desc": "",
-                        "stop_id": "6562",
-                        "stop_lat": "25.955229",
-                        "stop_lon": "-80.248205",
-                        "stop_name": "NW 199 ST@NW 27 CT",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 199 ST@NW 27 CT",
-            "onestopId": "s-dhwgtvj01m-nw199~nw27",
+            "name": "NW 171 ST@NW 32 AV",
+            "onestopId": "s-dhwgtb3e3m-nw171~nw32",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -283,31 +248,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.274246,
-                    25.931163
+                    -80.252765,
+                    25.933421
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6429",
+                    "identifier": "f-miamidade-s-6463",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D173#458",
+                        "stop_code": "D17532V7",
                         "stop_desc": "",
-                        "stop_id": "6429",
-                        "stop_lat": "25.931163",
-                        "stop_lon": "-80.274246",
-                        "stop_name": "NW 173 DR@# 4451",
+                        "stop_id": "6463",
+                        "stop_lat": "25.933421",
+                        "stop_lon": "-80.252765",
+                        "stop_name": "NW 175 ST@NW 32 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 173 DR@# 4451",
-            "onestopId": "s-dhwgt2d5fr-nw173~4451",
+            "name": "NW 175 ST@NW 32 AV",
+            "onestopId": "s-dhwgtc19ph-nw175~nw32",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -423,6 +388,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.277161,
+                    25.936757
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6356",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D47V1792",
+                        "stop_desc": "",
+                        "stop_id": "6356",
+                        "stop_lat": "25.936757",
+                        "stop_lon": "-80.277161",
+                        "stop_name": "NW 47 AV@NW 179 TE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 47 AV@NW 179 TE",
+            "onestopId": "s-dhwgt1xuw9-nw47~nw179te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.27847,
                     25.960313
                 ],
@@ -448,41 +448,6 @@
             ],
             "name": "NW 47 AV@NW 206 TE",
             "onestopId": "s-dhwgtjzjb1-nw47~nw206te",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.249917,
-                    25.95524
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6561",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D199#295",
-                        "stop_desc": "",
-                        "stop_id": "6561",
-                        "stop_lat": "25.95524",
-                        "stop_lon": "-80.249917",
-                        "stop_name": "NW 199 ST@NW 29 CT",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 199 ST@NW 29 CT",
-            "onestopId": "s-dhwgtv5b1r-nw199~nw29",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -633,31 +598,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.245216,
-                    25.942166
+                    -80.266129,
+                    25.940035
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6252",
+                    "identifier": "f-miamidade-s-6486",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D27V1842",
+                        "stop_code": "D183#395",
                         "stop_desc": "",
-                        "stop_id": "6252",
-                        "stop_lat": "25.942166",
-                        "stop_lon": "-80.245216",
-                        "stop_name": "NW 27 AV@# 18405",
+                        "stop_id": "6486",
+                        "stop_lat": "25.940035",
+                        "stop_lon": "-80.266129",
+                        "stop_name": "NW 183 ST@NW 39 CT",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@# 18405",
-            "onestopId": "s-dhwgtfxhnf-nw27~18405",
+            "name": "NW 183 ST@NW 39 CT",
+            "onestopId": "s-dhwgt6pzxt-nw183~nw39",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -738,31 +703,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.244868,
-                    25.928706
+                    -80.25428,
+                    25.965535
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6265",
+                    "identifier": "f-miamidade-s-6281",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D27V1693",
+                        "stop_code": "D32V2082",
                         "stop_desc": "",
-                        "stop_id": "6265",
-                        "stop_lat": "25.928706",
-                        "stop_lon": "-80.244868",
-                        "stop_name": "NW 27 AV@NW 169 TE",
+                        "stop_id": "6281",
+                        "stop_lat": "25.965535",
+                        "stop_lon": "-80.25428",
+                        "stop_name": "NW 32 AV@NW 208 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@NW 169 TE",
-            "onestopId": "s-dhwgtbpmxj-nw27~nw169te",
+            "name": "NW 32 AV@NW 208 TE",
+            "onestopId": "s-dhwgtybs5w-nw32~nw208te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.258482,
+                    25.940539
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6529",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D183#347",
+                        "stop_desc": "",
+                        "stop_id": "6529",
+                        "stop_lat": "25.940539",
+                        "stop_lon": "-80.258482",
+                        "stop_name": "NW 183 ST@NW 34 CT",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 183 ST@NW 34 CT",
+            "onestopId": "s-dhwgtdmd9f-nw183~nw34",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -843,41 +843,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.266621,
-                    25.940229
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6531",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D183#398",
-                        "stop_desc": "",
-                        "stop_id": "6531",
-                        "stop_lat": "25.940229",
-                        "stop_lon": "-80.266621",
-                        "stop_name": "NW 183 ST@NW 39 CT",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 183 ST@NW 39 CT",
-            "onestopId": "s-dhwgt6r8u1-nw183~nw39",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.258797,
                     25.964227
                 ],
@@ -913,31 +878,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261279,
-                    25.932981
+                    -80.262278,
+                    25.966148
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6434",
+                    "identifier": "f-miamidade-s-6313",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D17537V5",
+                        "stop_code": "D37V2091",
                         "stop_desc": "",
-                        "stop_id": "6434",
-                        "stop_lat": "25.932981",
-                        "stop_lon": "-80.261279",
-                        "stop_name": "NW 175 ST@NW 37 AV",
+                        "stop_id": "6313",
+                        "stop_lat": "25.966148",
+                        "stop_lon": "-80.262278",
+                        "stop_name": "NW 37 AV@NW 209 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@NW 37 AV",
-            "onestopId": "s-dhwgt8gw8d-nw175~nw37",
+            "name": "NW 37 AV@NW 209 TE",
+            "onestopId": "s-dhwgtwfzc2-nw37~nw209te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1228,6 +1193,111 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.246167,
+                    25.958427
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6254",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D27V2022",
+                        "stop_desc": "",
+                        "stop_id": "6254",
+                        "stop_lat": "25.958427",
+                        "stop_lon": "-80.246167",
+                        "stop_name": "NW 27 AV@NW 202 TE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 27 AV@NW 202 TE",
+            "onestopId": "s-dhwgtvwdbc-nw27~nw202te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.284815,
+                    25.931332
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-5839",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D173#527",
+                        "stop_desc": "",
+                        "stop_id": "5839",
+                        "stop_lat": "25.931332",
+                        "stop_lon": "-80.284815",
+                        "stop_name": "NW 173 DR@NW 52 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 173 DR@NW 52 AV",
+            "onestopId": "s-dhwgt0dkun-nw173~nw52",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.248205,
+                    25.955229
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6562",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D19927C5",
+                        "stop_desc": "",
+                        "stop_id": "6562",
+                        "stop_lat": "25.955229",
+                        "stop_lon": "-80.248205",
+                        "stop_name": "NW 199 ST@NW 27 CT",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 199 ST@NW 27 CT",
+            "onestopId": "s-dhwgtvj01m-nw199~nw27",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.276618,
                     25.946959
                 ],
@@ -1368,31 +1438,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261538,
-                    25.941842
+                    -80.277538,
+                    25.942614
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6324",
+                    "identifier": "f-miamidade-s-6358",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1843",
+                        "stop_code": "D47V1852",
                         "stop_desc": "",
-                        "stop_id": "6324",
-                        "stop_lat": "25.941842",
-                        "stop_lon": "-80.261538",
-                        "stop_name": "NW 37 AV@# 18450",
+                        "stop_id": "6358",
+                        "stop_lat": "25.942614",
+                        "stop_lon": "-80.277538",
+                        "stop_name": "NW 47 AV@NW 185 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@# 18450",
-            "onestopId": "s-dhwgtde64t-nw37~18450",
+            "name": "NW 47 AV@NW 185 ST",
+            "onestopId": "s-dhwgt4xwtv-nw47~nw185",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.259347,
+                    25.933084
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6435",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D175#355",
+                        "stop_desc": "",
+                        "stop_id": "6435",
+                        "stop_lat": "25.933084",
+                        "stop_lon": "-80.259347",
+                        "stop_name": "NW 175 ST@NW 35 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 175 ST@NW 35 AV",
+            "onestopId": "s-dhwgt8uzjt-nw175~nw35",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1438,31 +1543,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277472,
-                    25.961107
+                    -80.272389,
+                    25.958712
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6351",
+                    "identifier": "f-miamidade-s-6582",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D46V2061",
+                        "stop_code": "D203#438",
                         "stop_desc": "",
-                        "stop_id": "6351",
-                        "stop_lat": "25.961107",
-                        "stop_lon": "-80.277472",
-                        "stop_name": "NW 46 AV@NW 206 TE",
+                        "stop_id": "6582",
+                        "stop_lat": "25.958712",
+                        "stop_lon": "-80.272389",
+                        "stop_name": "NW 203 TE@NW 43 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 46 AV@NW 206 TE",
-            "onestopId": "s-dhwgtnpdrm-nw46~nw206te",
+            "name": "NW 203 TE@NW 43 AV",
+            "onestopId": "s-dhwgtmekmy-nw203te~nw43",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1508,31 +1613,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.262278,
-                    25.966148
+                    -80.260435,
+                    25.933128
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6313",
+                    "identifier": "f-miamidade-s-6466",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V2091",
+                        "stop_code": "D17537V7",
                         "stop_desc": "",
-                        "stop_id": "6313",
-                        "stop_lat": "25.966148",
-                        "stop_lon": "-80.262278",
-                        "stop_name": "NW 37 AV@NW 209 TE",
+                        "stop_id": "6466",
+                        "stop_lat": "25.933128",
+                        "stop_lon": "-80.260435",
+                        "stop_name": "NW 175 ST@NW 37 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 209 TE",
-            "onestopId": "s-dhwgtwfzc2-nw37~nw209te",
+            "name": "NW 175 ST@NW 37 AV",
+            "onestopId": "s-dhwgt8upkm-nw175~nw37",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1613,41 +1718,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.248928,
-                    25.940655
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6492",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D183#285",
-                        "stop_desc": "",
-                        "stop_id": "6492",
-                        "stop_lat": "25.940655",
-                        "stop_lon": "-80.248928",
-                        "stop_name": "NW 183 ST@NW 28 PL",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 183 ST@NW 28 PL",
-            "onestopId": "s-dhwgtfke22-nw183~nw28pl",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.244201,
                     25.933653
                 ],
@@ -1673,6 +1743,41 @@
             ],
             "name": "NW 175 ST@NW 27 AV",
             "onestopId": "s-dhwgtcpfqx-nw175~nw27",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.248928,
+                    25.940655
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6492",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D183#285",
+                        "stop_desc": "",
+                        "stop_id": "6492",
+                        "stop_lat": "25.940655",
+                        "stop_lon": "-80.248928",
+                        "stop_name": "NW 183 ST@NW 28 PL",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 183 ST@NW 28 PL",
+            "onestopId": "s-dhwgtfke22-nw183~nw28pl",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1718,76 +1823,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.246407,
-                    25.958023
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6258",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D27V2024",
-                        "stop_desc": "",
-                        "stop_id": "6258",
-                        "stop_lat": "25.958023",
-                        "stop_lon": "-80.246407",
-                        "stop_name": "NW 27 AV@NW 202 TE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 27 AV@NW 202 TE",
-            "onestopId": "s-dhwgtvw27n-nw27~nw202te",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.282719,
-                    25.954046
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-5962",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D199#497",
-                        "stop_desc": "",
-                        "stop_id": "5962",
-                        "stop_lat": "25.954046",
-                        "stop_lon": "-80.282719",
-                        "stop_name": "NW 199 ST@NW 49 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 199 ST@NW 49 AV",
-            "onestopId": "s-dhwgthgcm0-nw199~nw49",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.27947,
                     25.931063
                 ],
@@ -1823,31 +1858,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.260435,
-                    25.933128
+                    -80.245515,
+                    25.933719
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6466",
+                    "identifier": "f-miamidade-s-6460",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D17537V7",
+                        "stop_code": "D17527V8",
                         "stop_desc": "",
-                        "stop_id": "6466",
-                        "stop_lat": "25.933128",
-                        "stop_lon": "-80.260435",
-                        "stop_name": "NW 175 ST@NW 37 AV",
+                        "stop_id": "6460",
+                        "stop_lat": "25.933719",
+                        "stop_lon": "-80.245515",
+                        "stop_name": "NW 175 ST@NW 27 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@NW 37 AV",
-            "onestopId": "s-dhwgt8upkm-nw175~nw37",
+            "name": "NW 175 ST@NW 27 AV",
+            "onestopId": "s-dhwgtcnfzg-nw175~nw27",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1858,66 +1893,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.272389,
-                    25.958712
+                    -80.262425,
+                    25.932954
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6582",
+                    "identifier": "f-miamidade-s-6433",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D203#438",
+                        "stop_code": "D17537P6",
                         "stop_desc": "",
-                        "stop_id": "6582",
-                        "stop_lat": "25.958712",
-                        "stop_lon": "-80.272389",
-                        "stop_name": "NW 203 TE@NW 43 AV",
+                        "stop_id": "6433",
+                        "stop_lat": "25.932954",
+                        "stop_lon": "-80.262425",
+                        "stop_name": "NW 175 ST@NW 37 PL",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 203 TE@NW 43 AV",
-            "onestopId": "s-dhwgtmekmy-nw203te~nw43",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.260885,
-                    25.928334
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6325",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D37V1693",
-                        "stop_desc": "",
-                        "stop_id": "6325",
-                        "stop_lat": "25.928334",
-                        "stop_lon": "-80.260885",
-                        "stop_name": "NW 37 AV@NW 169 TE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 37 AV@NW 169 TE",
-            "onestopId": "s-dhwgt85g3z-nw37~nw169te",
+            "name": "NW 175 ST@NW 37 PL",
+            "onestopId": "s-dhwgt8fwmv-nw175~nw37pl",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -1953,6 +1953,41 @@
             ],
             "name": "NW 37 AV@NW 203 ST",
             "onestopId": "s-dhwgttdyqn-nw37~nw203",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.261909,
+                    25.950016
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6320",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D37V1944",
+                        "stop_desc": "",
+                        "stop_id": "6320",
+                        "stop_lat": "25.950016",
+                        "stop_lon": "-80.261909",
+                        "stop_name": "NW 37 AV@NW 194 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 37 AV@NW 194 ST",
+            "onestopId": "s-dhwgts51cc-nw37~nw194",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2068,41 +2103,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.255596,
-                    25.940653
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6528",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D183#328",
-                        "stop_desc": "",
-                        "stop_id": "6528",
-                        "stop_lat": "25.940653",
-                        "stop_lon": "-80.255596",
-                        "stop_name": "NW 183 ST@# 3285",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 183 ST@# 3285",
-            "onestopId": "s-dhwgtdrem0-nw183~3285",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.246567,
                     25.96742
                 ],
@@ -2208,31 +2208,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.284815,
-                    25.931332
+                    -80.246407,
+                    25.958023
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5839",
+                    "identifier": "f-miamidade-s-6258",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D173#527",
+                        "stop_code": "D27V2024",
                         "stop_desc": "",
-                        "stop_id": "5839",
-                        "stop_lat": "25.931332",
-                        "stop_lon": "-80.284815",
-                        "stop_name": "NW 173 DR@NW 52 AV",
+                        "stop_id": "6258",
+                        "stop_lat": "25.958023",
+                        "stop_lon": "-80.246407",
+                        "stop_name": "NW 27 AV@NW 202 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 173 DR@NW 52 AV",
-            "onestopId": "s-dhwgt0dkun-nw173~nw52",
+            "name": "NW 27 AV@NW 202 TE",
+            "onestopId": "s-dhwgtvw27n-nw27~nw202te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2313,31 +2313,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.258133,
-                    25.967758
+                    -80.278044,
+                    25.950034
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6607",
+                    "identifier": "f-miamidade-s-5782",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D211#346",
+                        "stop_code": "D47V1943",
                         "stop_desc": "",
-                        "stop_id": "6607",
-                        "stop_lat": "25.967758",
-                        "stop_lon": "-80.258133",
-                        "stop_name": "NW 211 ST@NW 34 AV",
+                        "stop_id": "5782",
+                        "stop_lat": "25.950034",
+                        "stop_lon": "-80.278044",
+                        "stop_name": "NW 47 AV@NW 194 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 211 ST@NW 34 AV",
-            "onestopId": "s-dhwgtxmc1u-nw211~nw34",
+            "name": "NW 47 AV@NW 194 ST",
+            "onestopId": "s-dhwgthp3cu-nw47~nw194",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2383,22 +2383,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.262425,
-                    25.932954
+                    -80.262407,
+                    25.933059
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6433",
+                    "identifier": "f-miamidade-s-6467",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D17537P6",
+                        "stop_code": "D17537P7",
                         "stop_desc": "",
-                        "stop_id": "6433",
-                        "stop_lat": "25.932954",
-                        "stop_lon": "-80.262425",
+                        "stop_id": "6467",
+                        "stop_lat": "25.933059",
+                        "stop_lon": "-80.262407",
                         "stop_name": "NW 175 ST@NW 37 PL",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
@@ -2407,7 +2407,7 @@
                 }
             ],
             "name": "NW 175 ST@NW 37 PL",
-            "onestopId": "s-dhwgt8fwmv-nw175~nw37pl",
+            "onestopId": "s-dhwgt8fxn2-nw175~nw37pl",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2418,31 +2418,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.259347,
-                    25.933084
+                    -80.263051,
+                    25.969022
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6435",
+                    "identifier": "f-miamidade-s-6616",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D175#355",
+                        "stop_code": "D21337V5",
                         "stop_desc": "",
-                        "stop_id": "6435",
-                        "stop_lat": "25.933084",
-                        "stop_lon": "-80.259347",
-                        "stop_name": "NW 175 ST@NW 35 AV",
+                        "stop_id": "6616",
+                        "stop_lat": "25.969022",
+                        "stop_lon": "-80.263051",
+                        "stop_name": "NW 213 ST@NW 37 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@NW 35 AV",
-            "onestopId": "s-dhwgt8uzjt-nw175~nw35",
+            "name": "NW 213 ST@NW 37 AV",
+            "onestopId": "s-dhwgtxd0x2-nw213~nw37",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2488,31 +2488,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.268769,
-                    25.939932
+                    -80.262239,
+                    25.958704
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6485",
+                    "identifier": "f-miamidade-s-6317",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D183#426",
+                        "stop_code": "D37V2034",
                         "stop_desc": "",
-                        "stop_id": "6485",
-                        "stop_lat": "25.939932",
-                        "stop_lon": "-80.268769",
-                        "stop_name": "NW 183 ST@NW 42 AV",
+                        "stop_id": "6317",
+                        "stop_lat": "25.958704",
+                        "stop_lon": "-80.262239",
+                        "stop_name": "NW 37 AV@NW 203 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 183 ST@NW 42 AV",
-            "onestopId": "s-dhwgt6np41-nw183~nw42",
+            "name": "NW 37 AV@NW 203 ST",
+            "onestopId": "s-dhwgttdu6m-nw37~nw203",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2663,31 +2663,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.254328,
-                    25.967428
+                    -80.261998,
+                    25.951991
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6282",
+                    "identifier": "f-miamidade-s-6319",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V2102",
+                        "stop_code": "D37V1964",
                         "stop_desc": "",
-                        "stop_id": "6282",
-                        "stop_lat": "25.967428",
-                        "stop_lon": "-80.254328",
-                        "stop_name": "NW 32 AV@NW 210 TE",
+                        "stop_id": "6319",
+                        "stop_lat": "25.951991",
+                        "stop_lon": "-80.261998",
+                        "stop_name": "NW 37 AV@NW 196 LA",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 210 TE",
-            "onestopId": "s-dhwgtz0x4x-nw32~nw210te",
+            "name": "NW 37 AV@NW 196 LA",
+            "onestopId": "s-dhwgts6vrc-nw37~nw196la",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2768,31 +2768,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.252765,
-                    25.933421
+                    -80.251057,
+                    25.94057
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6463",
+                    "identifier": "f-miamidade-s-6491",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D17532V7",
+                        "stop_code": "D183#305",
                         "stop_desc": "",
-                        "stop_id": "6463",
-                        "stop_lat": "25.933421",
-                        "stop_lon": "-80.252765",
-                        "stop_name": "NW 175 ST@NW 32 AV",
+                        "stop_id": "6491",
+                        "stop_lat": "25.94057",
+                        "stop_lon": "-80.251057",
+                        "stop_name": "NW 183 ST@NW 30 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@NW 32 AV",
-            "onestopId": "s-dhwgtc19ph-nw175~nw32",
+            "name": "NW 183 ST@NW 30 AV",
+            "onestopId": "s-dhwgtf6fyb-nw183~nw30",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.274246,
+                    25.931163
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6429",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D173#458",
+                        "stop_desc": "",
+                        "stop_id": "6429",
+                        "stop_lat": "25.931163",
+                        "stop_lon": "-80.274246",
+                        "stop_name": "NW 173 DR@# 4451",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 173 DR@# 4451",
+            "onestopId": "s-dhwgt2d5fr-nw173~4451",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -2978,31 +3013,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277538,
-                    25.942614
+                    -80.261538,
+                    25.941842
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6358",
+                    "identifier": "f-miamidade-s-6324",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D47V1852",
+                        "stop_code": "D37V1843",
                         "stop_desc": "",
-                        "stop_id": "6358",
-                        "stop_lat": "25.942614",
-                        "stop_lon": "-80.277538",
-                        "stop_name": "NW 47 AV@NW 185 ST",
+                        "stop_id": "6324",
+                        "stop_lat": "25.941842",
+                        "stop_lon": "-80.261538",
+                        "stop_name": "NW 37 AV@# 18450",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 47 AV@NW 185 ST",
-            "onestopId": "s-dhwgt4xwtv-nw47~nw185",
+            "name": "NW 37 AV@# 18450",
+            "onestopId": "s-dhwgtde64t-nw37~18450",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3083,31 +3118,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.278044,
-                    25.950034
+                    -80.260885,
+                    25.928334
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5782",
+                    "identifier": "f-miamidade-s-6325",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D47V1943",
+                        "stop_code": "D37V1693",
                         "stop_desc": "",
-                        "stop_id": "5782",
-                        "stop_lat": "25.950034",
-                        "stop_lon": "-80.278044",
-                        "stop_name": "NW 47 AV@NW 194 ST",
+                        "stop_id": "6325",
+                        "stop_lat": "25.928334",
+                        "stop_lon": "-80.260885",
+                        "stop_name": "NW 37 AV@NW 169 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 47 AV@NW 194 ST",
-            "onestopId": "s-dhwgthp3cu-nw47~nw194",
+            "name": "NW 37 AV@NW 169 TE",
+            "onestopId": "s-dhwgt85g3z-nw37~nw169te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3153,66 +3188,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277628,
-                    25.942084
+                    -80.245216,
+                    25.942166
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5786",
+                    "identifier": "f-miamidade-s-6252",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D47V1853",
+                        "stop_code": "D27V1842",
                         "stop_desc": "",
-                        "stop_id": "5786",
-                        "stop_lat": "25.942084",
-                        "stop_lon": "-80.277628",
-                        "stop_name": "NW 47 AV@NW 185 TE",
+                        "stop_id": "6252",
+                        "stop_lat": "25.942166",
+                        "stop_lon": "-80.245216",
+                        "stop_name": "NW 27 AV@# 18405",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 47 AV@NW 185 TE",
-            "onestopId": "s-dhwgt4xeed-nw47~nw185te",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.260688,
-                    25.940461
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-1142",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "37AV183N",
-                        "stop_desc": "",
-                        "stop_id": "1142",
-                        "stop_lat": "25.940461",
-                        "stop_lon": "-80.260688",
-                        "stop_name": "NW 183 ST@NW 37 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 183 ST@NW 37 AV",
-            "onestopId": "s-dhwgtd7fnk-nw183~nw37",
+            "name": "NW 27 AV@# 18405",
+            "onestopId": "s-dhwgtfxhnf-nw27~18405",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3328,31 +3328,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.251057,
-                    25.94057
+                    -80.277036,
+                    25.929998
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6491",
+                    "identifier": "f-miamidade-s-5792",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D183#305",
+                        "stop_code": "D47V1734",
                         "stop_desc": "",
-                        "stop_id": "6491",
-                        "stop_lat": "25.94057",
-                        "stop_lon": "-80.251057",
-                        "stop_name": "NW 183 ST@NW 30 AV",
+                        "stop_id": "5792",
+                        "stop_lat": "25.929998",
+                        "stop_lon": "-80.277036",
+                        "stop_name": "NW 47 AV@NW 173 DR",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 183 ST@NW 30 AV",
-            "onestopId": "s-dhwgtf6fyb-nw183~nw30",
+            "name": "NW 47 AV@NW 173 DR",
+            "onestopId": "s-dhwgt22j1m-nw47~nw173",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3363,31 +3363,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277161,
-                    25.936757
+                    -80.262386,
+                    25.963532
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6356",
+                    "identifier": "f-miamidade-s-6315",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D47V1792",
+                        "stop_code": "D37V2074",
                         "stop_desc": "",
-                        "stop_id": "6356",
-                        "stop_lat": "25.936757",
-                        "stop_lon": "-80.277161",
-                        "stop_name": "NW 47 AV@NW 179 TE",
+                        "stop_id": "6315",
+                        "stop_lat": "25.963532",
+                        "stop_lon": "-80.262386",
+                        "stop_name": "NW 37 AV@NW 207 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 47 AV@NW 179 TE",
-            "onestopId": "s-dhwgt1xuw9-nw47~nw179te",
+            "name": "NW 37 AV@NW 207 ST",
+            "onestopId": "s-dhwgtwd8wc-nw37~nw207",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3433,66 +3433,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277036,
-                    25.929998
+                    -80.253826,
+                    25.952621
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5792",
+                    "identifier": "f-miamidade-s-6280",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D47V1734",
+                        "stop_code": "D32V1961",
                         "stop_desc": "",
-                        "stop_id": "5792",
-                        "stop_lat": "25.929998",
-                        "stop_lon": "-80.277036",
-                        "stop_name": "NW 47 AV@NW 173 DR",
+                        "stop_id": "6280",
+                        "stop_lat": "25.952621",
+                        "stop_lon": "-80.253826",
+                        "stop_name": "NW 32 AV@NW 196 LA",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 47 AV@NW 173 DR",
-            "onestopId": "s-dhwgt22j1m-nw47~nw173",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.244709,
-                    25.932101
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6249",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D27V1731",
-                        "stop_desc": "",
-                        "stop_id": "6249",
-                        "stop_lat": "25.932101",
-                        "stop_lon": "-80.244709",
-                        "stop_name": "NW 27 AV@NW 173 TE",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 27 AV@NW 173 TE",
-            "onestopId": "s-dhwgtbz96v-nw27~nw173te",
+            "name": "NW 32 AV@NW 196 LA",
+            "onestopId": "s-dhwgtu8byr-nw32~nw196la",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3608,31 +3573,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.274977,
-                    25.939907
+                    -80.244803,
+                    25.933468
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6534",
+                    "identifier": "f-miamidade-s-506",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D183#457",
+                        "stop_code": "27AV175N",
                         "stop_desc": "",
-                        "stop_id": "6534",
-                        "stop_lat": "25.939907",
-                        "stop_lon": "-80.274977",
-                        "stop_name": "NW 183 ST@OP # 4500",
+                        "stop_id": "506",
+                        "stop_lat": "25.933468",
+                        "stop_lon": "-80.244803",
+                        "stop_name": "NW 27 AV@NW 175 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 183 ST@OP # 4500",
-            "onestopId": "s-dhwgt61wcm-nw183~op4500",
+            "name": "NW 27 AV@NW 175 ST",
+            "onestopId": "s-dhwgtcp92s-nw27~nw175",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -3853,31 +3818,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.266129,
-                    25.940035
+                    -80.277053,
+                    25.958517
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6486",
+                    "identifier": "f-miamidade-s-6584",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D183#395",
+                        "stop_code": "D203#467",
                         "stop_desc": "",
-                        "stop_id": "6486",
-                        "stop_lat": "25.940035",
-                        "stop_lon": "-80.266129",
-                        "stop_name": "NW 183 ST@NW 39 CT",
+                        "stop_id": "6584",
+                        "stop_lat": "25.958517",
+                        "stop_lon": "-80.277053",
+                        "stop_name": "NW 203 TE@NW 46 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 183 ST@NW 39 CT",
-            "onestopId": "s-dhwgt6pzxt-nw183~nw39",
+            "name": "NW 203 TE@NW 46 AV",
+            "onestopId": "s-dhwgtm8534-nw203te~nw46",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4133,31 +4098,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.258935,
-                    25.929566
+                    -80.261376,
+                    25.942187
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6418",
+                    "identifier": "f-miamidade-s-6300",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D171#357",
+                        "stop_code": "D37V1842",
                         "stop_desc": "",
-                        "stop_id": "6418",
-                        "stop_lat": "25.929566",
-                        "stop_lon": "-80.258935",
-                        "stop_name": "NW 171 ST@NW 35 AV",
+                        "stop_id": "6300",
+                        "stop_lat": "25.942187",
+                        "stop_lon": "-80.261376",
+                        "stop_name": "NW 37 AV@# 18451",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 171 ST@NW 35 AV",
-            "onestopId": "s-dhwgt8m4xm-nw171~nw35",
+            "name": "NW 37 AV@# 18451",
+            "onestopId": "s-dhwgtdeknq-nw37~18451",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4168,31 +4133,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.253455,
-                    25.955448
+                    -80.278368,
+                    25.957606
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6560",
+                    "identifier": "f-miamidade-s-5779",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D19932V6",
+                        "stop_code": "D47V2034",
                         "stop_desc": "",
-                        "stop_id": "6560",
-                        "stop_lat": "25.955448",
-                        "stop_lon": "-80.253455",
-                        "stop_name": "NW 199 ST@NW 32 AV",
+                        "stop_id": "5779",
+                        "stop_lat": "25.957606",
+                        "stop_lon": "-80.278368",
+                        "stop_name": "NW 47 AV@NW 203 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 199 ST@NW 32 AV",
-            "onestopId": "s-dhwgtv11qy-nw199~nw32",
+            "name": "NW 47 AV@NW 203 ST",
+            "onestopId": "s-dhwgtjrn42-nw47~nw203",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4483,41 +4448,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.263051,
-                    25.969022
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6616",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D21337V5",
-                        "stop_desc": "",
-                        "stop_id": "6616",
-                        "stop_lat": "25.969022",
-                        "stop_lon": "-80.263051",
-                        "stop_name": "NW 213 ST@NW 37 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 213 ST@NW 37 AV",
-            "onestopId": "s-dhwgtxd0x2-nw213~nw37",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.261631,
                     25.943821
                 ],
@@ -4763,31 +4693,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261998,
-                    25.951991
+                    -80.249917,
+                    25.95524
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6319",
+                    "identifier": "f-miamidade-s-6561",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1964",
+                        "stop_code": "D199#295",
                         "stop_desc": "",
-                        "stop_id": "6319",
-                        "stop_lat": "25.951991",
-                        "stop_lon": "-80.261998",
-                        "stop_name": "NW 37 AV@NW 196 LA",
+                        "stop_id": "6561",
+                        "stop_lat": "25.95524",
+                        "stop_lon": "-80.249917",
+                        "stop_name": "NW 199 ST@NW 29 CT",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 196 LA",
-            "onestopId": "s-dhwgts6vrc-nw37~nw196la",
+            "name": "NW 199 ST@NW 29 CT",
+            "onestopId": "s-dhwgtv5b1r-nw199~nw29",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4903,31 +4833,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.253826,
-                    25.952621
+                    -80.244709,
+                    25.932101
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6280",
+                    "identifier": "f-miamidade-s-6249",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V1961",
+                        "stop_code": "D27V1731",
                         "stop_desc": "",
-                        "stop_id": "6280",
-                        "stop_lat": "25.952621",
-                        "stop_lon": "-80.253826",
-                        "stop_name": "NW 32 AV@NW 196 LA",
+                        "stop_id": "6249",
+                        "stop_lat": "25.932101",
+                        "stop_lon": "-80.244709",
+                        "stop_name": "NW 27 AV@NW 173 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 196 LA",
-            "onestopId": "s-dhwgtu8byr-nw32~nw196la",
+            "name": "NW 27 AV@NW 173 TE",
+            "onestopId": "s-dhwgtbz96v-nw27~nw173te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -4973,22 +4903,57 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.269831,
-                    25.932692
+                    -80.262467,
+                    25.966052
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6426",
+                    "identifier": "f-miamidade-s-6314",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D173#425",
+                        "stop_code": "D37V2094",
                         "stop_desc": "",
-                        "stop_id": "6426",
-                        "stop_lat": "25.932692",
-                        "stop_lon": "-80.269831",
+                        "stop_id": "6314",
+                        "stop_lat": "25.966052",
+                        "stop_lon": "-80.262467",
+                        "stop_name": "NW 37 AV@NW 209 TE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 37 AV@NW 209 TE",
+            "onestopId": "s-dhwgtwfxhy-nw37~nw209te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.269903,
+                    25.932796
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6427",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D173#428",
+                        "stop_desc": "",
+                        "stop_id": "6427",
+                        "stop_lat": "25.932796",
+                        "stop_lon": "-80.269903",
                         "stop_name": "NW 173 DR@NW 42 CT",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
@@ -4997,7 +4962,7 @@
                 }
             ],
             "name": "NW 173 DR@NW 42 CT",
-            "onestopId": "s-dhwgt2vkck-nw173~nw42",
+            "onestopId": "s-dhwgt2vjrx-nw173~nw42",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5008,66 +4973,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277261,
-                    25.934247
+                    -80.253455,
+                    25.955448
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5790",
+                    "identifier": "f-miamidade-s-6560",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D47V1774",
+                        "stop_code": "D19932V6",
                         "stop_desc": "",
-                        "stop_id": "5790",
-                        "stop_lat": "25.934247",
-                        "stop_lon": "-80.277261",
-                        "stop_name": "NW 47 AV@# 17700",
+                        "stop_id": "6560",
+                        "stop_lat": "25.955448",
+                        "stop_lon": "-80.253455",
+                        "stop_name": "NW 199 ST@NW 32 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 47 AV@# 17700",
-            "onestopId": "s-dhwgt1pvun-nw47~17700",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.278368,
-                    25.957606
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-5779",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D47V2034",
-                        "stop_desc": "",
-                        "stop_id": "5779",
-                        "stop_lat": "25.957606",
-                        "stop_lon": "-80.278368",
-                        "stop_name": "NW 47 AV@NW 203 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 47 AV@NW 203 ST",
-            "onestopId": "s-dhwgtjrn42-nw47~nw203",
+            "name": "NW 199 ST@NW 32 AV",
+            "onestopId": "s-dhwgtv11qy-nw199~nw32",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5218,31 +5148,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.269903,
-                    25.932796
+                    -80.277628,
+                    25.942084
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6427",
+                    "identifier": "f-miamidade-s-5786",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D173#428",
+                        "stop_code": "D47V1853",
                         "stop_desc": "",
-                        "stop_id": "6427",
-                        "stop_lat": "25.932796",
-                        "stop_lon": "-80.269903",
-                        "stop_name": "NW 173 DR@NW 42 CT",
+                        "stop_id": "5786",
+                        "stop_lat": "25.942084",
+                        "stop_lon": "-80.277628",
+                        "stop_name": "NW 47 AV@NW 185 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 173 DR@NW 42 CT",
-            "onestopId": "s-dhwgt2vjrx-nw173~nw42",
+            "name": "NW 47 AV@NW 185 TE",
+            "onestopId": "s-dhwgt4xeed-nw47~nw185te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5323,31 +5253,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.247517,
-                    25.933542
+                    -80.261279,
+                    25.932981
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6439",
+                    "identifier": "f-miamidade-s-6434",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D175#286",
+                        "stop_code": "D17537V5",
                         "stop_desc": "",
-                        "stop_id": "6439",
-                        "stop_lat": "25.933542",
-                        "stop_lon": "-80.247517",
-                        "stop_name": "NW 175 ST@# 2820",
+                        "stop_id": "6434",
+                        "stop_lat": "25.932981",
+                        "stop_lon": "-80.261279",
+                        "stop_name": "NW 175 ST@NW 37 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@# 2820",
-            "onestopId": "s-dhwgtcj9c6-nw175~2820",
+            "name": "NW 175 ST@NW 37 AV",
+            "onestopId": "s-dhwgt8gw8d-nw175~nw37",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.253141,
+                    25.933325
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6437",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D17532V5",
+                        "stop_desc": "",
+                        "stop_id": "6437",
+                        "stop_lat": "25.933325",
+                        "stop_lon": "-80.253141",
+                        "stop_name": "NW 175 ST@NW 32 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 175 ST@NW 32 AV",
+            "onestopId": "s-dhwgtc12w6-nw175~nw32",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5428,31 +5393,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.286942,
-                    25.953831
+                    -80.244995,
+                    25.937749
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-5963",
+                    "identifier": "f-miamidade-s-6251",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D199#528",
+                        "stop_code": "D27V1792",
                         "stop_desc": "",
-                        "stop_id": "5963",
-                        "stop_lat": "25.953831",
-                        "stop_lon": "-80.286942",
-                        "stop_name": "NW 199 ST@NW 52 AV",
+                        "stop_id": "6251",
+                        "stop_lat": "25.937749",
+                        "stop_lon": "-80.244995",
+                        "stop_name": "NW 27 AV@NW 179 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 199 ST@NW 52 AV",
-            "onestopId": "s-dhwgthbb48-nw199~nw52",
+            "name": "NW 27 AV@NW 179 ST",
+            "onestopId": "s-dhwgtcz6k4-nw27~nw179",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5488,41 +5453,6 @@
             ],
             "name": "NW 37 AV@NW 207 ST",
             "onestopId": "s-dhwgtwdv63-nw37~nw207",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.277053,
-                    25.958517
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6584",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D203#467",
-                        "stop_desc": "",
-                        "stop_id": "6584",
-                        "stop_lat": "25.958517",
-                        "stop_lon": "-80.277053",
-                        "stop_name": "NW 203 TE@NW 46 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 203 TE@NW 46 AV",
-            "onestopId": "s-dhwgtm8534-nw203te~nw46",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -5883,6 +5813,41 @@
         {
             "geometry": {
                 "coordinates": [
+                    -80.258133,
+                    25.967758
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6607",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D211#346",
+                        "stop_desc": "",
+                        "stop_id": "6607",
+                        "stop_lat": "25.967758",
+                        "stop_lon": "-80.258133",
+                        "stop_name": "NW 211 ST@NW 34 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 211 ST@NW 34 AV",
+            "onestopId": "s-dhwgtxmc1u-nw211~nw34",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     -80.247105,
                     25.948022
                 ],
@@ -5953,31 +5918,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.277929,
-                    25.954236
+                    -80.255596,
+                    25.940653
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-579",
+                    "identifier": "f-miamidade-s-6528",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "199S47AW",
+                        "stop_code": "D183#328",
                         "stop_desc": "",
-                        "stop_id": "579",
-                        "stop_lat": "25.954236",
-                        "stop_lon": "-80.277929",
-                        "stop_name": "NW 199 ST@NW 47 AV",
+                        "stop_id": "6528",
+                        "stop_lat": "25.940653",
+                        "stop_lon": "-80.255596",
+                        "stop_name": "NW 183 ST@# 3285",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 199 ST@NW 47 AV",
-            "onestopId": "s-dhwgthz6ks-nw199~nw47",
+            "name": "NW 183 ST@# 3285",
+            "onestopId": "s-dhwgtdrem0-nw183~3285",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6048,41 +6013,6 @@
             ],
             "name": "NW 211 ST@NW 34 PL",
             "onestopId": "s-dhwgtxk8uy-nw211~nw34pl",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.245515,
-                    25.933719
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6460",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D17527V8",
-                        "stop_desc": "",
-                        "stop_id": "6460",
-                        "stop_lat": "25.933719",
-                        "stop_lon": "-80.245515",
-                        "stop_name": "NW 175 ST@NW 27 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 175 ST@NW 27 AV",
-            "onestopId": "s-dhwgtcnfzg-nw175~nw27",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6233,31 +6163,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.244803,
-                    25.933468
+                    -80.274977,
+                    25.939907
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-506",
+                    "identifier": "f-miamidade-s-6534",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "27AV175N",
+                        "stop_code": "D183#457",
                         "stop_desc": "",
-                        "stop_id": "506",
-                        "stop_lat": "25.933468",
-                        "stop_lon": "-80.244803",
-                        "stop_name": "NW 27 AV@NW 175 ST",
+                        "stop_id": "6534",
+                        "stop_lat": "25.939907",
+                        "stop_lon": "-80.274977",
+                        "stop_name": "NW 183 ST@OP # 4500",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@NW 175 ST",
-            "onestopId": "s-dhwgtcp92s-nw27~nw175",
+            "name": "NW 183 ST@OP # 4500",
+            "onestopId": "s-dhwgt61wcm-nw183~op4500",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6303,41 +6233,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261595,
-                    25.946923
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6303",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D37V1911",
-                        "stop_desc": "",
-                        "stop_id": "6303",
-                        "stop_lat": "25.946923",
-                        "stop_lon": "-80.261595",
-                        "stop_name": "NW 37 AV@NW 191 ST",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 37 AV@NW 191 ST",
-            "onestopId": "s-dhwgte7rc3-nw37~nw191",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.266514,
                     25.954487
                 ],
@@ -6373,31 +6268,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.262467,
-                    25.966052
+                    -80.249875,
+                    25.933533
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6314",
+                    "identifier": "f-miamidade-s-6462",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V2094",
+                        "stop_code": "D175#298",
                         "stop_desc": "",
-                        "stop_id": "6314",
-                        "stop_lat": "25.966052",
-                        "stop_lon": "-80.262467",
-                        "stop_name": "NW 37 AV@NW 209 TE",
+                        "stop_id": "6462",
+                        "stop_lat": "25.933533",
+                        "stop_lon": "-80.249875",
+                        "stop_name": "NW 175 ST@NW 29 PL",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 209 TE",
-            "onestopId": "s-dhwgtwfxhy-nw37~nw209te",
+            "name": "NW 175 ST@NW 29 PL",
+            "onestopId": "s-dhwgtc5cf2-nw175~nw29pl",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.269831,
+                    25.932692
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6426",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D173#425",
+                        "stop_desc": "",
+                        "stop_id": "6426",
+                        "stop_lat": "25.932692",
+                        "stop_lon": "-80.269831",
+                        "stop_name": "NW 173 DR@NW 42 CT",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 173 DR@NW 42 CT",
+            "onestopId": "s-dhwgt2vkck-nw173~nw42",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6468,41 +6398,6 @@
             ],
             "name": "NW 37 AV@NW 193 ST",
             "onestopId": "s-dhwgteg5z1-nw37~nw193",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.262407,
-                    25.933059
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6467",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D17537P7",
-                        "stop_desc": "",
-                        "stop_id": "6467",
-                        "stop_lat": "25.933059",
-                        "stop_lon": "-80.262407",
-                        "stop_name": "NW 175 ST@NW 37 PL",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 175 ST@NW 37 PL",
-            "onestopId": "s-dhwgt8fxn2-nw175~nw37pl",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6688,31 +6583,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.245143,
-                    25.940638
+                    -80.277929,
+                    25.954236
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-212",
+                    "identifier": "f-miamidade-s-579",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "27AV183N",
+                        "stop_code": "199S47AW",
                         "stop_desc": "",
-                        "stop_id": "212",
-                        "stop_lat": "25.940638",
-                        "stop_lon": "-80.245143",
-                        "stop_name": "NW 27 AV@NW 183 ST",
+                        "stop_id": "579",
+                        "stop_lat": "25.954236",
+                        "stop_lon": "-80.277929",
+                        "stop_name": "NW 199 ST@NW 47 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@NW 183 ST",
-            "onestopId": "s-dhwgtfr70t-nw27~nw183",
+            "name": "NW 199 ST@NW 47 AV",
+            "onestopId": "s-dhwgthz6ks-nw199~nw47",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6723,31 +6618,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.249875,
-                    25.933533
+                    -80.261595,
+                    25.946923
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6462",
+                    "identifier": "f-miamidade-s-6303",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D175#298",
+                        "stop_code": "D37V1911",
                         "stop_desc": "",
-                        "stop_id": "6462",
-                        "stop_lat": "25.933533",
-                        "stop_lon": "-80.249875",
-                        "stop_name": "NW 175 ST@NW 29 PL",
+                        "stop_id": "6303",
+                        "stop_lat": "25.946923",
+                        "stop_lon": "-80.261595",
+                        "stop_name": "NW 37 AV@NW 191 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@NW 29 PL",
-            "onestopId": "s-dhwgtc5cf2-nw175~nw29pl",
+            "name": "NW 37 AV@NW 191 ST",
+            "onestopId": "s-dhwgte7rc3-nw37~nw191",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6793,31 +6688,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.258482,
-                    25.940539
+                    -80.260688,
+                    25.940461
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6529",
+                    "identifier": "f-miamidade-s-1142",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D183#347",
+                        "stop_code": "37AV183N",
                         "stop_desc": "",
-                        "stop_id": "6529",
-                        "stop_lat": "25.940539",
-                        "stop_lon": "-80.258482",
-                        "stop_name": "NW 183 ST@NW 34 CT",
+                        "stop_id": "1142",
+                        "stop_lat": "25.940461",
+                        "stop_lon": "-80.260688",
+                        "stop_name": "NW 183 ST@NW 37 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 183 ST@NW 34 CT",
-            "onestopId": "s-dhwgtdmd9f-nw183~nw34",
+            "name": "NW 183 ST@NW 37 AV",
+            "onestopId": "s-dhwgtd7fnk-nw183~nw37",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.245143,
+                    25.940638
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-212",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "27AV183N",
+                        "stop_desc": "",
+                        "stop_id": "212",
+                        "stop_lat": "25.940638",
+                        "stop_lon": "-80.245143",
+                        "stop_name": "NW 27 AV@NW 183 ST",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 27 AV@NW 183 ST",
+            "onestopId": "s-dhwgtfr70t-nw27~nw183",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -6863,31 +6793,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261787,
-                    25.947212
+                    -80.261694,
+                    25.945118
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6321",
+                    "identifier": "f-miamidade-s-6322",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1914",
+                        "stop_code": "D37V1883",
                         "stop_desc": "",
-                        "stop_id": "6321",
-                        "stop_lat": "25.947212",
-                        "stop_lon": "-80.261787",
-                        "stop_name": "NW 37 AV@NW 191 ST",
+                        "stop_id": "6322",
+                        "stop_lat": "25.945118",
+                        "stop_lon": "-80.261694",
+                        "stop_name": "NW 37 AV@NW 188 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 191 ST",
-            "onestopId": "s-dhwgtee1ky-nw37~nw191",
+            "name": "NW 37 AV@NW 188 ST",
+            "onestopId": "s-dhwgte5jqb-nw37~nw188",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7003,31 +6933,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.244995,
-                    25.937749
+                    -80.286942,
+                    25.953831
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6251",
+                    "identifier": "f-miamidade-s-5963",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D27V1792",
+                        "stop_code": "D199#528",
                         "stop_desc": "",
-                        "stop_id": "6251",
-                        "stop_lat": "25.937749",
-                        "stop_lon": "-80.244995",
-                        "stop_name": "NW 27 AV@NW 179 ST",
+                        "stop_id": "5963",
+                        "stop_lat": "25.953831",
+                        "stop_lon": "-80.286942",
+                        "stop_name": "NW 199 ST@NW 52 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@NW 179 ST",
-            "onestopId": "s-dhwgtcz6k4-nw27~nw179",
+            "name": "NW 199 ST@NW 52 AV",
+            "onestopId": "s-dhwgthbb48-nw199~nw52",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7038,31 +6968,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261909,
-                    25.950016
+                    -80.277261,
+                    25.934247
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6320",
+                    "identifier": "f-miamidade-s-5790",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1944",
+                        "stop_code": "D47V1774",
                         "stop_desc": "",
-                        "stop_id": "6320",
-                        "stop_lat": "25.950016",
-                        "stop_lon": "-80.261909",
-                        "stop_name": "NW 37 AV@NW 194 ST",
+                        "stop_id": "5790",
+                        "stop_lat": "25.934247",
+                        "stop_lon": "-80.277261",
+                        "stop_name": "NW 47 AV@# 17700",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 194 ST",
-            "onestopId": "s-dhwgts51cc-nw37~nw194",
+            "name": "NW 47 AV@# 17700",
+            "onestopId": "s-dhwgt1pvun-nw47~17700",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7108,31 +7038,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.246874,
-                    25.967883
+                    -80.273511,
+                    25.939755
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-605",
+                    "identifier": "f-miamidade-s-6484",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "27AV211S",
+                        "stop_code": "D183#445",
                         "stop_desc": "",
-                        "stop_id": "605",
-                        "stop_lat": "25.967883",
-                        "stop_lon": "-80.246874",
-                        "stop_name": "NW 27 AV@NW 211 ST",
+                        "stop_id": "6484",
+                        "stop_lat": "25.939755",
+                        "stop_lon": "-80.273511",
+                        "stop_name": "NW 183 ST@NW 44 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@NW 211 ST",
-            "onestopId": "s-dhwgtzq1bk-nw27~nw211",
+            "name": "NW 183 ST@NW 44 AV",
+            "onestopId": "s-dhwgt64w58-nw183~nw44",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7143,31 +7073,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261376,
-                    25.942187
+                    -80.266621,
+                    25.940229
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6300",
+                    "identifier": "f-miamidade-s-6531",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1842",
+                        "stop_code": "D183#398",
                         "stop_desc": "",
-                        "stop_id": "6300",
-                        "stop_lat": "25.942187",
-                        "stop_lon": "-80.261376",
-                        "stop_name": "NW 37 AV@# 18451",
+                        "stop_id": "6531",
+                        "stop_lat": "25.940229",
+                        "stop_lon": "-80.266621",
+                        "stop_name": "NW 183 ST@NW 39 CT",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@# 18451",
-            "onestopId": "s-dhwgtdeknq-nw37~18451",
+            "name": "NW 183 ST@NW 39 CT",
+            "onestopId": "s-dhwgt6r8u1-nw183~nw39",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7203,6 +7133,41 @@
             ],
             "name": "NW 183 ST@NW 34 CT",
             "onestopId": "s-dhwgtdm1rc-nw183~nw34",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.247517,
+                    25.933542
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6439",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D175#286",
+                        "stop_desc": "",
+                        "stop_id": "6439",
+                        "stop_lat": "25.933542",
+                        "stop_lon": "-80.247517",
+                        "stop_name": "NW 175 ST@# 2820",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 175 ST@# 2820",
+            "onestopId": "s-dhwgtcj9c6-nw175~2820",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7318,31 +7283,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.261694,
-                    25.945118
+                    -80.261787,
+                    25.947212
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6322",
+                    "identifier": "f-miamidade-s-6321",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V1883",
+                        "stop_code": "D37V1914",
                         "stop_desc": "",
-                        "stop_id": "6322",
-                        "stop_lat": "25.945118",
-                        "stop_lon": "-80.261694",
-                        "stop_name": "NW 37 AV@NW 188 ST",
+                        "stop_id": "6321",
+                        "stop_lat": "25.947212",
+                        "stop_lon": "-80.261787",
+                        "stop_name": "NW 37 AV@NW 191 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 188 ST",
-            "onestopId": "s-dhwgte5jqb-nw37~nw188",
+            "name": "NW 37 AV@NW 191 ST",
+            "onestopId": "s-dhwgtee1ky-nw37~nw191",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7353,31 +7318,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.262239,
-                    25.958704
+                    -80.277472,
+                    25.961107
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6317",
+                    "identifier": "f-miamidade-s-6351",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V2034",
+                        "stop_code": "D46V2061",
                         "stop_desc": "",
-                        "stop_id": "6317",
-                        "stop_lat": "25.958704",
-                        "stop_lon": "-80.262239",
-                        "stop_name": "NW 37 AV@NW 203 ST",
+                        "stop_id": "6351",
+                        "stop_lat": "25.961107",
+                        "stop_lon": "-80.277472",
+                        "stop_name": "NW 46 AV@NW 206 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 203 ST",
-            "onestopId": "s-dhwgttdu6m-nw37~nw203",
+            "name": "NW 46 AV@NW 206 TE",
+            "onestopId": "s-dhwgtnpdrm-nw46~nw206te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.268769,
+                    25.939932
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6485",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D183#426",
+                        "stop_desc": "",
+                        "stop_id": "6485",
+                        "stop_lat": "25.939932",
+                        "stop_lon": "-80.268769",
+                        "stop_name": "NW 183 ST@NW 42 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 183 ST@NW 42 AV",
+            "onestopId": "s-dhwgt6np41-nw183~nw42",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7528,41 +7528,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.275888,
-                    25.931091
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6430",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D173#467",
-                        "stop_desc": "",
-                        "stop_id": "6430",
-                        "stop_lat": "25.931091",
-                        "stop_lon": "-80.275888",
-                        "stop_name": "NW 173 DR@NW 46 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 173 DR@NW 46 AV",
-            "onestopId": "s-dhwgt28gs1-nw173~nw46",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -80.269924,
                     25.952194
                 ],
@@ -7598,31 +7563,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.253141,
-                    25.933325
+                    -80.282719,
+                    25.954046
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6437",
+                    "identifier": "f-miamidade-s-5962",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D17532V5",
+                        "stop_code": "D199#497",
                         "stop_desc": "",
-                        "stop_id": "6437",
-                        "stop_lat": "25.933325",
-                        "stop_lon": "-80.253141",
-                        "stop_name": "NW 175 ST@NW 32 AV",
+                        "stop_id": "5962",
+                        "stop_lat": "25.954046",
+                        "stop_lon": "-80.282719",
+                        "stop_name": "NW 199 ST@NW 49 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 175 ST@NW 32 AV",
-            "onestopId": "s-dhwgtc12w6-nw175~nw32",
+            "name": "NW 199 ST@NW 49 AV",
+            "onestopId": "s-dhwgthgcm0-nw199~nw49",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7633,31 +7598,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.25428,
-                    25.965535
+                    -80.275888,
+                    25.931091
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6281",
+                    "identifier": "f-miamidade-s-6430",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D32V2082",
+                        "stop_code": "D173#467",
                         "stop_desc": "",
-                        "stop_id": "6281",
-                        "stop_lat": "25.965535",
-                        "stop_lon": "-80.25428",
-                        "stop_name": "NW 32 AV@NW 208 TE",
+                        "stop_id": "6430",
+                        "stop_lat": "25.931091",
+                        "stop_lon": "-80.275888",
+                        "stop_name": "NW 173 DR@NW 46 AV",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 32 AV@NW 208 TE",
-            "onestopId": "s-dhwgtybs5w-nw32~nw208te",
+            "name": "NW 173 DR@NW 46 AV",
+            "onestopId": "s-dhwgt28gs1-nw173~nw46",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7703,31 +7668,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.246167,
-                    25.958427
+                    -80.245307,
+                    25.944035
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6254",
+                    "identifier": "f-miamidade-s-6253",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D27V2022",
+                        "stop_code": "D27V1861",
                         "stop_desc": "",
-                        "stop_id": "6254",
-                        "stop_lat": "25.958427",
-                        "stop_lon": "-80.246167",
-                        "stop_name": "NW 27 AV@NW 202 TE",
+                        "stop_id": "6253",
+                        "stop_lat": "25.944035",
+                        "stop_lon": "-80.245307",
+                        "stop_name": "NW 27 AV@# 18601",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 27 AV@NW 202 TE",
-            "onestopId": "s-dhwgtvwdbc-nw27~nw202te",
+            "name": "NW 27 AV@# 18601",
+            "onestopId": "s-dhwgtfznuy-nw27~18601",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.258935,
+                    25.929566
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6418",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D171#357",
+                        "stop_desc": "",
+                        "stop_id": "6418",
+                        "stop_lat": "25.929566",
+                        "stop_lon": "-80.258935",
+                        "stop_name": "NW 171 ST@NW 35 AV",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 171 ST@NW 35 AV",
+            "onestopId": "s-dhwgt8m4xm-nw171~nw35",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7773,31 +7773,66 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.253008,
-                    25.929696
+                    -80.244868,
+                    25.928706
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-233",
+                    "identifier": "f-miamidade-s-6265",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "171S32AS",
+                        "stop_code": "D27V1693",
                         "stop_desc": "",
-                        "stop_id": "233",
-                        "stop_lat": "25.929696",
-                        "stop_lon": "-80.253008",
-                        "stop_name": "NW 171 ST@NW 32 AV",
+                        "stop_id": "6265",
+                        "stop_lat": "25.928706",
+                        "stop_lon": "-80.244868",
+                        "stop_name": "NW 27 AV@NW 169 TE",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 171 ST@NW 32 AV",
-            "onestopId": "s-dhwgtb3e3m-nw171~nw32",
+            "name": "NW 27 AV@NW 169 TE",
+            "onestopId": "s-dhwgtbpmxj-nw27~nw169te",
+            "properties": {},
+            "servedBy": [
+                "o-dhw-miamidadetransit"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.254328,
+                    25.967428
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-miamidade-s-6282",
+                    "tags": {
+                        "location_type": "",
+                        "parent_station": "",
+                        "stop_code": "D32V2102",
+                        "stop_desc": "",
+                        "stop_id": "6282",
+                        "stop_lat": "25.967428",
+                        "stop_lon": "-80.254328",
+                        "stop_name": "NW 32 AV@NW 210 TE",
+                        "stop_url": "",
+                        "wheelchair_boarding": "0",
+                        "zone_id": ""
+                    }
+                }
+            ],
+            "name": "NW 32 AV@NW 210 TE",
+            "onestopId": "s-dhwgtz0x4x-nw32~nw210te",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
@@ -7878,66 +7913,31 @@
         {
             "geometry": {
                 "coordinates": [
-                    -80.262386,
-                    25.963532
+                    -80.246874,
+                    25.967883
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-miamidade-s-6315",
+                    "identifier": "f-miamidade-s-605",
                     "tags": {
                         "location_type": "",
                         "parent_station": "",
-                        "stop_code": "D37V2074",
+                        "stop_code": "27AV211S",
                         "stop_desc": "",
-                        "stop_id": "6315",
-                        "stop_lat": "25.963532",
-                        "stop_lon": "-80.262386",
-                        "stop_name": "NW 37 AV@NW 207 ST",
+                        "stop_id": "605",
+                        "stop_lat": "25.967883",
+                        "stop_lon": "-80.246874",
+                        "stop_name": "NW 27 AV@NW 211 ST",
                         "stop_url": "",
                         "wheelchair_boarding": "0",
                         "zone_id": ""
                     }
                 }
             ],
-            "name": "NW 37 AV@NW 207 ST",
-            "onestopId": "s-dhwgtwd8wc-nw37~nw207",
-            "properties": {},
-            "servedBy": [
-                "o-dhw-miamidadetransit"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -80.273511,
-                    25.939755
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-miamidade-s-6484",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "D183#445",
-                        "stop_desc": "",
-                        "stop_id": "6484",
-                        "stop_lat": "25.939755",
-                        "stop_lon": "-80.273511",
-                        "stop_name": "NW 183 ST@NW 44 AV",
-                        "stop_url": "",
-                        "wheelchair_boarding": "0",
-                        "zone_id": ""
-                    }
-                }
-            ],
-            "name": "NW 183 ST@NW 44 AV",
-            "onestopId": "s-dhwgt64w58-nw183~nw44",
+            "name": "NW 27 AV@NW 211 ST",
+            "onestopId": "s-dhwgtzq1bk-nw27~nw211",
             "properties": {},
             "servedBy": [
                 "o-dhw-miamidadetransit"
