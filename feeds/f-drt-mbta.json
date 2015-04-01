@@ -1,1 +1,18 @@
-{"onestopId": "f-drt-mbta", "name":"mbta","sha1": "d2b8860304aa3eb12fefa8a581f5c6dee978a6bc", "tags": {}, "url": "http://www.mbta.com/uploadedfiles/MBTA_GTFS.zip", "operatorsInFeed": [{"onestopId": "o-drt3p-massport", "gtfsAgencyId": "massport"}, {"onestopId": "o-drt-mbta", "gtfsAgencyId": "mbta"}], "feedFormat": "gtfs"}
+{
+    "feedFormat": "gtfs",
+    "name": "mbta",
+    "onestopId": "f-drt-mbta",
+    "operatorsInFeed": [
+        {
+            "gtfsAgencyId": "massport",
+            "onestopId": "o-drt3p-massport"
+        },
+        {
+            "gtfsAgencyId": "mbta",
+            "onestopId": "o-drt-mbta"
+        }
+    ],
+    "sha1": "63e00872289ecd524a509c33ff5926f5f610866c",
+    "tags": {},
+    "url": "http://www.mbta.com/uploadedfiles/MBTA_GTFS.zip"
+}
