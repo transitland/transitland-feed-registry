@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5931,
+                    45.587584
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-c20-trimet-s-10579",
+                    "tags": {
+                        "direction": "",
+                        "location_type": "0",
+                        "parent_station": "",
+                        "position": "At",
+                        "stop_code": "10579",
+                        "stop_desc": "Bidirectional stop in Portland (Stop ID 10579)",
+                        "stop_id": "10579",
+                        "stop_lat": "45.587584",
+                        "stop_lon": "-122.5931",
+                        "stop_name": "Portland Int'l Airport MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10579",
+                        "zone_id": "R"
+                    }
+                }
+            ],
+            "name": "Portland Int'l Airport MAX Station",
+            "onestopId": "s-c20g66fqvt-portlandintlairportmaxstation",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.567151,
+                    45.577359
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-c20-trimet-s-10576",
+                    "tags": {
+                        "direction": "North",
+                        "location_type": "0",
+                        "parent_station": "landmark-145",
+                        "position": "At",
+                        "stop_code": "10576",
+                        "stop_desc": "Northbound stop in Portland (Stop ID 10576)",
+                        "stop_id": "10576",
+                        "stop_lat": "45.577359",
+                        "stop_lon": "-122.567151",
+                        "stop_name": "Mt Hood Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10576",
+                        "zone_id": "R"
+                    }
+                }
+            ],
+            "name": "Mt Hood Ave MAX Station",
+            "onestopId": "s-c20g6cj767-mthoodmaxstation",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.567141,
+                    45.576861
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-c20-trimet-s-10577",
+                    "tags": {
+                        "direction": "South",
+                        "location_type": "0",
+                        "parent_station": "landmark-145",
+                        "position": "At",
+                        "stop_code": "10577",
+                        "stop_desc": "Southbound stop in Portland (Stop ID 10577)",
+                        "stop_id": "10577",
+                        "stop_lat": "45.576861",
+                        "stop_lon": "-122.567141",
+                        "stop_name": "Mt Hood Ave MAX Station",
+                        "stop_url": "http://trimet.org/arrivals/tracker?locationID=10577",
+                        "zone_id": "R"
+                    }
+                }
+            ],
+            "name": "Mt Hood Ave MAX Station",
+            "onestopId": "s-c20g6cj26w-mthoodmaxstation",
+            "properties": {},
+            "servedBy": [
+                "o-c20-trimet"
+            ],
+            "tags": {},
+            "type": "Feature"
+        }
+    ],
+    "prefix": "c20g6",
+    "properties": {},
+    "type": "FeatureCollection"
+}
