@@ -19,10 +19,10 @@ Not sure where to start? View [the interactive report](http://onestop-id-registr
 ## Table of Conents
 
 1. [The Onestop ID Scheme](#the-onestop-id-scheme)
-2. Entities
-  * [Feeds](#feeds)
-  * [Operators](#operators)
-  * [Stops](#stops)
+2. Contents
+  * [Feeds](#feed)
+  * [Operators, Routes, Stops](#operators-routes-stops)
+  * [Stop Tiles](#stop-tiles)
 3. [Contributing](#contributing)
 4. [Test and Validation](#test-and-validation)
 5. [Report Generation](#report-generation)
@@ -55,24 +55,34 @@ In this registry, we've created listings for the San Francisco Municipal Transpo
 
 ### What is in a Onestop ID?
 
-A Onestop ID is an alphanumeric, global, immutable identifer for transit feeds, operators/agencies, stops/stations, and routes provided by authoritative sources that contain timetable and geographic information for transit networks.
+A Onestop ID is an alphanumeric, global, immutable identifer for transit feeds, operators/agencies, stops/stations, and routes provided by authoritative sources that contain timetable and geographic information for transit networks. Every Onestop ID includes three components, separated by hyphens. For example:
 
-Every Onestop ID includes three components, separated by hyphens:
+![an example of a Onestop ID: 0-9q9-BART](docs/onestop_id_example.png)
 
-1. the entity type:
+1. entity type
 
     - `f` for feeds
     - `o` for operators/agencies
     - `s` for stops/stations
     - `r` for routes
 
-2. a [geohash](http://en.wikipedia.org/wiki/Geohash), a set of characters that can be translated into a geographic bounding box around the service area of the operator/agency or the location of the stop/station. The more characters, the more precise and smaller the bounding box.
-
-  For example, the geohash `9q8zn2j` refers this purple rectangle in San Francisco:
+2. a [geohash](http://en.wikipedia.org/wiki/Geohash), a set of characters that can be translated into a geographic bounding box around the service area of the operator/agency, the location of the stop/station, or the coverage of a route. The more characters, the more precise and smaller the bounding box. For example, the geohash `9q8zn2j` refers this purple rectangle in San Francisco:
 
   ![map showing an example geohash in San Francisco](docs/geohash_example.png)
+  
+  Want to browse geohashes for your location? Here's a map of geohashes over the entire globe: [mapzen/leaflet-spatial-prefix-tree](http://mapzen.github.io/leaflet-spatial-prefix-tree/)
+  
+  Oftentimes an operator's service area won't fit exactly inside a geohash's bounding box. The most extreme example is London, where the tube network crosses the prime meridian. No one geohash can be used to effectively identify the extent of Transport for London's service area.
+  
+  Therefore, the geohash in a Onestop ID is used to refer to a focal point. In the case of feeds and operators, their coverage/service area can extent out to any of the eight neighboring geohash bounding boxes. In the case of routes, they can extend into any of the eight neighbors. The centroid of the feed, operator, or route will always be located in the geohash that's included in the Onestop ID&mdash;the focal point, that is&mdash;but the lines or polygons could extend out into neighbors.
+  
+  For example, here is the geohash `9q9` and its eight neighbors. This geohash can refer to Bay Area Rapid Transit (BART), including all its service area.
+  
+  ![map showing a geohash bounding box surrounded by its eight neighbors](docs/geohash_operator_focal_point.png)
 
-3. an abbreviated name that's short but understandable. No punctuation or special characters. The name doesn't have to be unique across the whole world, but it must be unique within the bounding box of the particular geohash.
+3. an abbreviated name that's short but understandable. The only punctuation that is allowed are tildes (`~`) to indicate word breaks. The name doesn't have to be unique across the whole world, but it must be unique within the bounding box of the particular geohash.
+
+Onestop IDs are case insensitive. We recommend using lower case internally in your systems. When displaying IDs for users, feel free to capitalize for readability.
 
 ### How can I propose changes?
 
@@ -82,7 +92,7 @@ To add, modify, or delete Onestop IDs, read the section below about [contributin
 
 ---
 
-## Entities
+## Contents
 
 This registry contains:
 
