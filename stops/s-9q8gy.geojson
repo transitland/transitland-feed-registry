@@ -3,22 +3,22 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.412915,
-                    37.259725
+                    -122.412922,
+                    37.259608
                 ],
                 "type": "Point"
             },
             "identifiers": [
                 {
-                    "identifier": "f-9q8-samtrans-s-316010",
+                    "identifier": "f-9q8-samtrans-s-316002",
                     "tags": {
                         "location_type": "0",
                         "parent_station": "",
-                        "stop_code": "316010",
+                        "stop_code": "316002",
                         "stop_desc": "",
-                        "stop_id": "316010",
-                        "stop_lat": "  37.259725",
-                        "stop_lon": "-122.412915",
+                        "stop_id": "316002",
+                        "stop_lat": "  37.259608",
+                        "stop_lon": "-122.412922",
                         "stop_name": "Pescadero Creek Rd & Hwy 1",
                         "stop_url": "",
                         "zone_id": "1"
@@ -26,11 +26,9 @@
                 }
             ],
             "name": "Pescadero Creek Rd & Hwy 1",
-            "onestopId": "s-9q8gyqvtsk-pescaderocreek~1",
+            "onestopId": "s-9q8gyqvsun-pescaderocreek~1",
             "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
+            "servedBy": [],
             "tags": {},
             "type": "Feature"
         },
@@ -62,9 +60,39 @@
             "name": "Pescadero Creek Rd & Water Ln",
             "onestopId": "s-9q8gyvhw8p-pescaderocreek~water",
             "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
+            "servedBy": [],
+            "tags": {},
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.412915,
+                    37.259725
+                ],
+                "type": "Point"
+            },
+            "identifiers": [
+                {
+                    "identifier": "f-9q8-samtrans-s-316010",
+                    "tags": {
+                        "location_type": "0",
+                        "parent_station": "",
+                        "stop_code": "316010",
+                        "stop_desc": "",
+                        "stop_id": "316010",
+                        "stop_lat": "  37.259725",
+                        "stop_lon": "-122.412915",
+                        "stop_name": "Pescadero Creek Rd & Hwy 1",
+                        "stop_url": "",
+                        "zone_id": "1"
+                    }
+                }
             ],
+            "name": "Pescadero Creek Rd & Hwy 1",
+            "onestopId": "s-9q8gyqvtsk-pescaderocreek~1",
+            "properties": {},
+            "servedBy": [],
             "tags": {},
             "type": "Feature"
         },
@@ -96,43 +124,7 @@
             "name": "Pescadero Creek Rd & Water Ln",
             "onestopId": "s-9q8gyvk85e-pescaderocreek~water",
             "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.412922,
-                    37.259608
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-9q8-samtrans-s-316002",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "",
-                        "stop_code": "316002",
-                        "stop_desc": "",
-                        "stop_id": "316002",
-                        "stop_lat": "  37.259608",
-                        "stop_lon": "-122.412922",
-                        "stop_name": "Pescadero Creek Rd & Hwy 1",
-                        "stop_url": "",
-                        "zone_id": "1"
-                    }
-                }
-            ],
-            "name": "Pescadero Creek Rd & Hwy 1",
-            "onestopId": "s-9q8gyqvsun-pescaderocreek~1",
-            "properties": {},
-            "servedBy": [
-                "o-9q8-samtrans"
-            ],
+            "servedBy": [],
             "tags": {},
             "type": "Feature"
         }
