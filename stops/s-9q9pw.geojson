@@ -3,30 +3,19 @@
         {
             "geometry": {
                 "coordinates": [
-                    -122.067503,
-                    37.905272
+                    -122.067423,
+                    37.905628
                 ],
                 "type": "Point"
             },
             "identifiers": [
-                {
-                    "identifier": "f-9q9-actransit-s-9903200",
-                    "tags": {
-                        "location_type": "",
-                        "parent_station": "",
-                        "stop_code": "51435",
-                        "stop_id": "9903200",
-                        "stop_lat": "37.905272",
-                        "stop_lon": "-122.067503",
-                        "stop_name": "Walnut Creek BART Station"
-                    }
-                }
+                "gtfs://f-9q9-bayarearapidtransit/s/WCRK"
             ],
-            "name": "Walnut Creek BART Station",
-            "onestopId": "s-9q9pwk3njn-walnutcreekbartstation",
+            "name": "Walnut Creek",
+            "onestopId": "s-9q9pwk90-walnutcreek",
             "properties": {},
             "servedBy": [
-                "o-9q9-actransit"
+                "o-9q9-bayarearapidtransit"
             ],
             "tags": {},
             "type": "Feature"

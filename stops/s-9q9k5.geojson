@@ -3,66 +3,17 @@
         {
             "geometry": {
                 "coordinates": [
-                    -121.841955,
-                    37.284102
-                ],
-                "type": "Point"
-            },
-            "identifiers": [
-                {
-                    "identifier": "f-9q9-caltrain-s-70281",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "ctcap",
-                        "platform_code": "NB",
-                        "stop_code": "70281",
-                        "stop_desc": "",
-                        "stop_id": "70281",
-                        "stop_lat": "  37.284102",
-                        "stop_lon": "-121.841955",
-                        "stop_name": "Capitol Caltrain",
-                        "stop_url": "",
-                        "zone_id": "5"
-                    }
-                }
-            ],
-            "name": "Capitol Caltrain",
-            "onestopId": "s-9q9k57m7ss-capitolcaltrain",
-            "properties": {},
-            "servedBy": [
-                "o-9q9-caltrain"
-            ],
-            "tags": {},
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     -121.842037,
                     37.284062
                 ],
                 "type": "Point"
             },
             "identifiers": [
-                {
-                    "identifier": "f-9q9-caltrain-s-70282",
-                    "tags": {
-                        "location_type": "0",
-                        "parent_station": "ctcap",
-                        "platform_code": "SB",
-                        "stop_code": "70282",
-                        "stop_desc": "",
-                        "stop_id": "70282",
-                        "stop_lat": "  37.284062",
-                        "stop_lon": "-121.842037",
-                        "stop_name": "Capitol Caltrain",
-                        "stop_url": "",
-                        "zone_id": "5"
-                    }
-                }
+                "gtfs://f-9q9-caltrain/s/70281",
+                "gtfs://f-9q9-caltrain/s/70282"
             ],
             "name": "Capitol Caltrain",
-            "onestopId": "s-9q9k57m76u-capitolcaltrain",
+            "onestopId": "s-9q9k57m7-capitolcaltrain",
             "properties": {},
             "servedBy": [
                 "o-9q9-caltrain"
