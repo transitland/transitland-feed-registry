@@ -1,7 +1,6 @@
-[![Circle CI](https://circleci.com/gh/transitland/onestop-id-registry.svg?style=svg)](https://circleci.com/gh/transitland/onestop-id-registry)
-[![Coverage Status](https://coveralls.io/repos/transitland/onestop-id-registry/badge.svg)](https://coveralls.io/r/transitland/onestop-id-registry)
+[![Circle CI](https://circleci.com/gh/transitland/transitland-feed-registry.svg?style=svg)](https://circleci.com/gh/transitland/transitland-feed-registry)
 
-# Onestop ID Registry
+# Transitland Feed Registry
 
 ## Feeds
 
@@ -13,7 +12,7 @@ In the `/feeds` directory, you'll find one JSON file per feed. Each JSON file pr
 
 ## Contributing
 
-**If you're unfamiliar with Github**: Please [open a Github issue](https://github.com/transitland/onestop-id-registry/issues/new) with as much of the following information as you're able to specify, or [contact us](#contact) for assistance.
+**If you're unfamiliar with Github**: Please [open a Github issue](https://github.com/transitland/transitland-feed-registry/issues/new) with as much of the following information as you're able to specify, or [contact us](#contact) for assistance.
 
 ### Contributing a Feed
 
@@ -37,18 +36,17 @@ In the `/feeds` directory, you'll find one JSON file per feed. Each JSON file pr
 7. Run the [test and validation scripts](#test-and-validation) and make sure they pass.
 8. Open a pull request.
 9. Please be ready for a bit of discussion on the pull request. This project is in its early stages, so we'll be manually checking contributions and also asking questions along the way to refine the process.
-10. After being merged into master, the feed record will be read by the [Onestop Updater](https://github.com/transitland/onestop-updater) and an operator GeoJSON file will be created.
 
 ## Test and Validation
 
-Before opening pull requests, please validate your edits using the `[onestop-id-registry-validator](https://github.com/transitland/onestop-id-registry-validator)` library. You'll need Ruby 2.0 or later installed to run these scripts:
+Before opening pull requests, please validate your edits using the `[transitland-feed-validator](https://github.com/transitland/transitland-feed-validator)` library. You'll need Ruby 2.0 or later installed to run these scripts:
 
 ````
-gem install onestop_id_registry_validator
-onestop-id-registry-validator
+gem install transitland_feed_registry_validator
+transitland-feed-registry-validator
 ````
 
-Note that [our continuous-integration service](https://circleci.com/gh/transitland/onestop-id-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests are "green" and pass.
+Note that [our continuous-integration service](https://circleci.com/gh/transitland/transitland-feed-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests are "green" and pass.
 
 ---
 
