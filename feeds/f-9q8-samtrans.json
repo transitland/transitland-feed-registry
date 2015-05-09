@@ -1,18 +1,20 @@
 {
-    "feedFormat": "gtfs",
-    "name": "samtrans",
-    "onestopId": "f-9q8-samtrans",
-    "operatorsInFeed": [
-        {
-            "gtfsAgencyId": "samtrans",
-            "onestopId": "o-9q8-samtrans",
-						"identifiers": ["usntd://9009"]
-        }
-    ],
-    "sha1": "494cc787156171f9faa389361059726e6ba6ed64",
-    "tags": {
-        "downloadPageUrl": "http://www.samtrans.com/Developer/DLA-PP-SamTrans.html?IsSubmitted=True",
-        "licenseUrl": "http://www.samtrans.com/Developer/DLA-PP-SamTrans.html"
-    },
-    "url": "http://www.samtrans.com/Assets/GTFS/samtrans/SamTrans-GTFS.zip"
+  "feedFormat": "gtfs",
+  "name": "samtrans",
+  "onestopId": "f-9q8-samtrans",
+  "operatorsInFeed": [
+    {
+      "gtfsAgencyId": "samtrans",
+      "onestopId": "o-9q8-samtrans",
+      "identifiers": [
+        "usntd://9009"
+      ]
+    }
+  ],
+  "sha1": "494cc787156171f9faa389361059726e6ba6ed64",
+  "tags": {
+    "downloadPageUrl": "http://www.samtrans.com/Developer/DLA-PP-SamTrans.html?IsSubmitted=True",
+    "licenseUrl": "http://www.samtrans.com/Developer/DLA-PP-SamTrans.html"
+  },
+  "url": "http://www.samtrans.com/Assets/GTFS/samtrans/SamTrans-GTFS.zip"
 }
