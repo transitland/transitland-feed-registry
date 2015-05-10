@@ -1,19 +1,21 @@
 {
-    "feedFormat": "gtfs",
-    "name": "wmata",
-    "onestopId": "f-dqc-wmata",
-    "operatorsInFeed": [
-        {
-            "gtfsAgencyId": "met",
-            "onestopId": "o-dqc-met",
-						"identifiers": ["usntd://3030"]
-        },
-        {
-            "gtfsAgencyId": "dccirculator",
-            "onestopId": "o-dqcjr-dccirculator"
-        }
-    ],
-    "sha1": "f53df1e08078046feb6c27c067da49b39819c6c3",
-    "tags": {},
-    "url": "http://lrg.wmata.com/GTFS_data/google_transit.zip"
+  "feedFormat": "gtfs",
+  "name": "wmata",
+  "onestopId": "f-dqc-wmata",
+  "operatorsInFeed": [
+    {
+      "gtfsAgencyId": "met",
+      "onestopId": "o-dqc-met",
+      "identifiers": [
+        "usntd://3030"
+      ]
+    },
+    {
+      "gtfsAgencyId": "dccirculator",
+      "onestopId": "o-dqcjr-dccirculator"
+    }
+  ],
+  "sha1": "f53df1e08078046feb6c27c067da49b39819c6c3",
+  "tags": {},
+  "url": "http://lrg.wmata.com/GTFS_data/google_transit.zip"
 }

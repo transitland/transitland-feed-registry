@@ -1,15 +1,17 @@
 {
-    "feedFormat": "gtfs",
-    "name": "trimet",
-    "onestopId": "f-c20-trimet",
-    "operatorsInFeed": [
-        {
-            "gtfsAgencyId": "trimet",
-            "onestopId": "o-c20-trimet",
-						"identifiers": ["usntd://0008"]
-        }
-    ],
-    "sha1": "20ee818194ba0f3818a5823b705818597b7592e2",
-    "tags": {},
-    "url": "http://developer.trimet.org/schedule/gtfs.zip"
+  "feedFormat": "gtfs",
+  "name": "trimet",
+  "onestopId": "f-c20-trimet",
+  "operatorsInFeed": [
+    {
+      "gtfsAgencyId": "trimet",
+      "onestopId": "o-c20-trimet",
+      "identifiers": [
+        "usntd://0008"
+      ]
+    }
+  ],
+  "sha1": "20ee818194ba0f3818a5823b705818597b7592e2",
+  "tags": {},
+  "url": "http://developer.trimet.org/schedule/gtfs.zip"
 }
