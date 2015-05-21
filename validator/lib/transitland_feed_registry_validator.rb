@@ -43,6 +43,7 @@ module TransitlandFeedRegistryValidator
     all_valid, errors = validate_all
     if errors.length > 0
       puts errors.inspect
+      Process.exit(1)
     else
       puts "All JSON feed definition files validated."
       Process.exit(0)
