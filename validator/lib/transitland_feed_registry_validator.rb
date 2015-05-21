@@ -22,7 +22,7 @@ module TransitlandFeedRegistryValidator
 
     if !File.exist?(File.join(FEED_FOLDER, "#{onestop_id}.json"))
       is_a_valid_onestop_id = false
-      errors < "no file exists at feeds/#{onestop_id}.json"
+      errors << "no file exists at feeds/#{onestop_id}.json"
     end
 
     raise JSON::Schema::CustomFormatError.new(errors.join(', ')) if !is_a_valid_onestop_id
