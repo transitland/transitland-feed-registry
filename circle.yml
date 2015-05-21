@@ -9,7 +9,7 @@ dependencies:
     - if cd $HOME/transitland-feed-registry/onestop-id-report-builder; then git pull; else git clone git@github.com:transitland/onestop-id-report-builder.git $HOME/transitland-feed-registry/onestop-id-report-builder; fi
     - cd $HOME/transitland-feed-registry/onestop-id-report-builder && bundle install
     # TODO: make sure those bundles are getting cached
-    - gem install transitland-feed-registry-validator
+    - gem install transitland_feed_registry_validator
 
 database:
   override:
