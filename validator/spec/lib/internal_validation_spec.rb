@@ -2,7 +2,7 @@ describe TransitlandFeedRegistryValidator do
   it 'succeeds on a complete feed' do
     validation_results = TransitlandFeedRegistryValidator.validate(:feeds, '
       {
-        "onestopId": "f-9q9-ACTransit",
+        "onestopId": "f-9q9-actransit",
         "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
         "feedFormat": "gtfs",
         "tags": {
@@ -11,7 +11,7 @@ describe TransitlandFeedRegistryValidator do
         },
         "operatorsInFeed": [
           {
-            "onestopId": "o-9q9-ACTransit",
+            "onestopId": "o-9q9-actransit",
             "gtfsAgencyId": "AC Transit",
             "identifiers": ["usntd://9015"]
           }
@@ -25,7 +25,7 @@ describe TransitlandFeedRegistryValidator do
   it 'catch a missing OnestopID on OperatorInFeed' do
     validation_results = TransitlandFeedRegistryValidator.validate(:feeds, '
       {
-        "onestopId": "f-9q9-ACTransit",
+        "onestopId": "f-9q9-actransit",
         "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
         "feedFormat": "gtfs",
         "tags": {
@@ -49,7 +49,7 @@ describe TransitlandFeedRegistryValidator do
   it 'catch a badly formed OnestopID on OperatorInFeed' do
     validation_results = TransitlandFeedRegistryValidator.validate(:feeds, '
       {
-        "onestopId": "f-9q9-ACTransit",
+        "onestopId": "f-9q9-actransit",
         "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
         "feedFormat": "gtfs",
         "tags": {
@@ -78,7 +78,7 @@ describe TransitlandFeedRegistryValidator do
   it 'catch a badly formed sha1 hash' do
     validation_results = TransitlandFeedRegistryValidator.validate(:feeds, '
       {
-        "onestopId": "f-9q9-ACTransit",
+        "onestopId": "f-9q9-actransit",
         "url": "http://www.actransit.org/wp-content/uploads/gtfsdec072014b.zip",
         "feedFormat": "gtfs",
         "tags": {
@@ -87,7 +87,7 @@ describe TransitlandFeedRegistryValidator do
         },
         "operatorsInFeed": [
           {
-            "onestopId": "o-9q9-ACTransit",
+            "onestopId": "o-9q9-actransit",
             "gtfsAgencyId": "AC Transit",
             "identifiers": ["usntd://9015"]
           }
@@ -100,7 +100,6 @@ describe TransitlandFeedRegistryValidator do
   end
 
   it 'will run internal validations on all the appropriate files' do
-    stub_const("TransitlandFeedRegistryValidator::FEED_FOLDER", File.join(__dir__, '..', 'test_data'))
     allow(TransitlandFeedRegistryValidator).to receive(:validate).and_return([])
     expect { TransitlandFeedRegistryValidator.validate_return_errors_and_exit }.to raise_error(SystemExit)
     expect(TransitlandFeedRegistryValidator).to have_received(:validate).exactly(2).times
