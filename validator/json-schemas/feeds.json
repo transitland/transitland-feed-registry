@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Transitland Onestop-Registry Feed",
+  "type": "object",
+  "required": ["onestopId", "url", "feedFormat", "operatorsInFeed"],
+  "properties": {
+    "onestopId": {
+      "type": "string",
+      "format": "feedOnestopId"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "feedFormat": { "type": "string" },
+    "tags": { "type": "object" },
+    "sha1": {
+      "type": "string",
+      "format": "sha1"
+    },
+    "operatorsInFeed": {
+      "type": "array",
+      "uniqueItems": true,
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["onestopId", "gtfsAgencyId"],
+        "properties": {
+          "gtfsAgencyId": { "type": "string" },
+          "onestopId": {
+            "type": "string",
+            "format": "operatorOnestopId"
+          },
+          "identifiers": {
+            "type": "array",
+            "uniqueItems": true,
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

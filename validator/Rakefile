@@ -1,0 +1,19 @@
+require 'byebug'
+require 'pry-byebug'
+
+require 'rspec/core/rake_task'
+RSpec::Core::RakeTask.new(:spec)
+
+require_relative './lib/transitland_feed_registry_validator'
+
+task :validate do
+  TransitlandFeedRegistryValidator.validate_return_errors_and_exit
+end
+
+task :console do
+  require 'pry'
+  ARGV.clear
+  Pry.start
+end
+
+task :default => [:spec, :validate]

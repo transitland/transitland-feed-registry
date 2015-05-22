@@ -39,11 +39,12 @@ In the `/feeds` directory, you'll find one JSON file per feed. Each JSON file pr
 
 ## Test and Validation
 
-Before opening pull requests, please validate your edits using the `[transitland-feed-validator](https://github.com/transitland/transitland-feed-validator)` library. You'll need Ruby 2.0 or later installed to run these scripts:
+Before opening pull requests, please validate your edits. You'll need Ruby 2.0 or later installed to run these scripts:
 
 ````
-gem install transitland_feed_registry_validator
-transitland-feed-registry-validator
+cd validate
+bundle install
+bundle exec rake validate
 ````
 
 Note that [our continuous-integration service](https://circleci.com/gh/transitland/transitland-feed-registry) will run the validation scripts again, after you open a pull request. We won't merge in additions until the tests are "green" and pass.
