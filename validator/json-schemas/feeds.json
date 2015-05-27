@@ -14,10 +14,6 @@
     },
     "feedFormat": { "type": "string" },
     "tags": { "type": "object" },
-    "sha1": {
-      "type": "string",
-      "format": "sha1"
-    },
     "operatorsInFeed": {
       "type": "array",
       "uniqueItems": true,
