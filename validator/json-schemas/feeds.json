@@ -22,7 +22,7 @@
         "type": "object",
         "required": ["onestopId", "gtfsAgencyId"],
         "properties": {
-          "gtfsAgencyId": { "type": "string" },
+          "gtfsAgencyId": { "type": ["string", "null"] },
           "onestopId": {
             "type": "string",
             "format": "operatorOnestopId"
