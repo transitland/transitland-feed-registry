@@ -70,7 +70,7 @@ Or, feel free to [contact us](#contact) for assistance.
 Before opening pull requests, please validate your edits. You'll need Ruby 2.0 or later installed to run these scripts:
 
 ````
-cd validate
+cd validater
 bundle install
 bundle exec rake validate
 ````
