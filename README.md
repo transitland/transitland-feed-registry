@@ -2,6 +2,26 @@
 
 # Transitland Feed Registry
 
+## Deprecation Announcement
+<span style="color:red;">As of October 2015, we're deprecating this repository.</span> Transitland will now store and serve out feed and operator information from the Datastore API at:
+
+* [http://transit.land/api/v1/feeds](http://transit.land/api/v1/feeds)
+* [http://transit.land/api/v1/feeds.geojson](http://transit.land/api/v1/feeds.geojson)
+* [http://transit.land/api/v1/operators](http://transit.land/api/v1/operators)
+* [http://transit.land/api/v1/operators.geojson](http://transit.land/api/v1/operators.geojson)
+
+Query these endpoints any time you'd like. Save local copies of these data if you'd like. Use these data in your applications however you see fit. Feed and operator data will continue to be available under the [Public Domain Dedication and License v1.0](http://opendatacommons.org/licenses/pddl/summary/) in the Datastore API.
+
+Soon we'll be releasing web interfaces that enable everyone to add and edit the feeds and operators in the Datastore. This will happen through the Datastore's [changeset API](https://github.com/transitland/transitland-datastore/blob/master/doc/changesets.md), making it simple to track the collective progress that we all make cataloging the world's GTFS feeds and public transit operators. These new user interfaces and API endpoints will enable all sorts of new possibilities.
+
+We'll post an update here with links to the new user interfaces. In the meantime, please follow [@transitland](https://twitter.com/transitland) and feel free to e-mail us with your ideas and questions at [transitland@mapzen.com](mailto:transitland@mapzen.com).
+
+Thanks to all of those who have tried out this experiment. We hope to see you reading from the Datastore API soon, and writing to it soon after!
+
+---
+
+## Historical Readme
+
 The Transitland Feed Registry is a directory of URLs and IDs for data feeds from transit agencies around the world. It's machine-readable, and it's simple for contributors to add and edit feeds from the registry.
 
 Each feed is represented by a JSON file in the [/feeds](/feeds) directory. Each file provides enough information for the [Transitland Datastore](https://github.com/transitland/transitland-datastore) -- or for your own scripts/services/applications -- to federate authoritative feeds by:
