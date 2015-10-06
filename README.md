@@ -69,8 +69,19 @@ Or, feel free to [contact us](#contact) for assistance.
 
 Before opening pull requests, please validate your edits. You'll need Ruby 2.0 or later installed to run these scripts:
 
+Change the directory to the validator folder:
+
 ````
-cd validate
+cd validator
+````
+
+Get bundler if not installed:
+
+````
+gem install bundler
+````
+
+````
 bundle install
 bundle exec rake validate
 ````
